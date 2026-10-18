@@ -5,6 +5,7 @@ Este repositório é um app de notícias (PWA estático no GitHub Pages) no esti
 O conteúdo é gerado por sessões agendadas do Claude Code (Routines). Este arquivo é o manual que essas sessões seguem.
 
 - `index.html`, `sw.js`, `manifest.webmanifest`, `icons/`: o app. Não mexa sem pedido do usuário.
+- `ios/`: app nativo para iPhone (SwiftUI + widget), que lê os mesmos JSONs. Não mexa sem pedido do usuário; se mudar o esquema dos JSONs, os modelos em `ios/Shared/Modelos.swift` precisam acompanhar.
 - `data/fontes.json`: lista curada de veículos com viés e propriedade. Pode **acrescentar** veículos; não mude o viés de um veículo existente sem pedido do usuário.
 - `data/edicoes/AAAA-MM-DD.json`: edição diária.
 - `data/buscas/<slug>.json`: resultado de uma busca por assunto.

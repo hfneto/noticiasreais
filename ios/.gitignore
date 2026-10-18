@@ -1,0 +1,9 @@
+# gerados pelo xcodegen / Xcode
+*.xcodeproj
+App/Info.plist
+Widget/Info.plist
+App/NoticiasReais.entitlements
+Widget/NoticiasWidget.entitlements
+build/
+DerivedData/
+xcuserdata/
