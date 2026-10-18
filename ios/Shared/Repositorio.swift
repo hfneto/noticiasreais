@@ -50,7 +50,7 @@ enum Repositorio {
 
     static func fontes(soCache: Bool = false) async throws -> [String: Fonte] {
         let doc = try await carregar("data/fontes.json", como: FontesDoc.self, soCache: soCache)
-        return Dictionary(uniqueKeysWithValues: doc.fontes.map { ($0.id, $0) })
+        return Dictionary(doc.fontes.map { ($0.id, $0) }, uniquingKeysWith: { a, _ in a })
     }
 
     static func colecao(_ arquivo: String, soCache: Bool = false) async throws -> Colecao {

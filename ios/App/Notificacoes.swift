@@ -5,7 +5,8 @@ import UserNotifications
 /// o aviso de hoje (ainda pendente) passa a trazer a manchete.
 enum Notificacoes {
     private static let prefixo = "edicao-"
-    private static let defaults = UserDefaults(suiteName: Repositorio.grupo) ?? .standard
+    // UserDefaults é seguro entre threads; só não é marcado como Sendable
+    nonisolated(unsafe) private static let defaults = UserDefaults(suiteName: Repositorio.grupo) ?? .standard
 
     static var ativas: Bool {
         get { defaults.bool(forKey: "notif.ativas") }

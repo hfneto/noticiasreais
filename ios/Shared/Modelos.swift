@@ -57,7 +57,7 @@ struct Historia: Codable, Hashable, Identifiable {
 struct Fato: Codable, Hashable { var texto: String; var base: String }
 struct Inferencia: Codable, Hashable { var texto: String; var quem: String }
 struct Checagem: Codable, Hashable { var nome: String; var url: String }
-struct Enquadramentos: Codable, Hashable { var governo: String; var oposicao: String }
+struct Enquadramentos: Codable, Hashable { var governo: String?; var oposicao: String? }
 
 struct Disputa: Codable, Hashable {
     var alegacao: String

@@ -35,9 +35,20 @@ final class AppModel {
 
     func cobertura(_ h: Historia) -> Cobertura { Cobertura(h, fontes: fontes) }
 
+    @ObservationIgnored private var cargaEmCurso: Task<Void, Never>?
+
     /// Atualiza índice, fontes e a edição mais recente. Sem rede, usa o que estiver em disco.
+    /// Se já houver uma carga em curso, espera por ela em vez de voltar sem dados
+    /// (o widget abre o app direto numa história, antes de a primeira carga terminar).
     func atualizar() async {
-        guard !carregando else { return }
+        if let c = cargaEmCurso { await c.value; return }
+        let c = Task { await carregar() }
+        cargaEmCurso = c
+        await c.value
+        cargaEmCurso = nil
+    }
+
+    private func carregar() async {
         carregando = true
         defer { carregando = false }
         do {
@@ -45,7 +56,7 @@ final class AppModel {
             async let f = Repositorio.carregar("data/fontes.json", como: FontesDoc.self)
             let (novoIndice, doc) = try await (i, f)
             indice = novoIndice
-            fontes = Dictionary(uniqueKeysWithValues: doc.fontes.map { ($0.id, $0) })
+            fontes = Dictionary(doc.fontes.map { ($0.id, $0) }, uniquingKeysWith: { a, _ in a })
             tiposPropriedade = doc.tiposPropriedade
             if let atual = novoIndice.edicoes.first {
                 colecoes[.edicao(atual.data)] = try await Repositorio.colecao(atual.arquivo)
@@ -60,13 +71,15 @@ final class AppModel {
 
     func colecao(_ ref: ColRef) async -> Colecao? {
         if let c = colecoes[ref] { return c }
-        guard let indice else { return nil }
-        let arquivo: String?
+        if indice == nil { await atualizar() }
+        if let c = colecoes[ref] { return c }
+        // sem índice (offline e sem cache), tenta o caminho padrão do arquivo
+        let arquivo: String
         switch ref {
-        case .edicao(let d): arquivo = indice.edicoes.first { $0.data == d }?.arquivo
-        case .busca(let s): arquivo = indice.buscas.first { $0.slug == s }?.arquivo
+        case .edicao(let d): arquivo = indice?.edicoes.first { $0.data == d }?.arquivo ?? "data/edicoes/\(d).json"
+        case .busca(let s): arquivo = indice?.buscas.first { $0.slug == s }?.arquivo ?? "data/buscas/\(s).json"
         }
-        guard let arquivo, let c = try? await Repositorio.colecao(arquivo) else { return nil }
+        guard let c = try? await Repositorio.colecao(arquivo) else { return nil }
         colecoes[ref] = c
         return c
     }

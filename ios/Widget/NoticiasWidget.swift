@@ -21,14 +21,17 @@ struct ProvedorManchete: TimelineProvider {
 
     func getSnapshot(in context: Context, completion: @escaping (EntradaManchete) -> Void) {
         if context.isPreview { completion(.exemplo); return }
-        Task { completion(await carregar()) }
+        // o WidgetKit chama completion uma vez só; não há corrida real
+        nonisolated(unsafe) let concluir = completion
+        Task { concluir(await carregar()) }
     }
 
     func getTimeline(in context: Context, completion: @escaping (Timeline<EntradaManchete>) -> Void) {
+        nonisolated(unsafe) let concluir = completion
         Task {
             let entrada = await carregar()
             // tenta de novo em 2 h; perto da hora da edição o app também pede recarga
-            completion(Timeline(entries: [entrada], policy: .after(Date().addingTimeInterval(2 * 3600))))
+            concluir(Timeline(entries: [entrada], policy: .after(Date().addingTimeInterval(2 * 3600))))
         }
     }
 
@@ -60,6 +63,7 @@ struct VistaManchete: View {
                         .foregroundStyle(Color.nrTinta)
                         .lineLimit(familia == .systemSmall ? 4 : 3)
                         .minimumScaleFactor(0.85)
+                        .layoutPriority(1)  // sem isso o lide toma o espaço e a manchete fica com uma linha
                     if familia != .systemSmall {
                         Text(h.lide).font(.caption).foregroundStyle(Color.nrMudo).lineLimit(2)
                     }

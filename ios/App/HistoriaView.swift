@@ -18,6 +18,7 @@ struct HistoriaView: View {
                 ProgressView()
             }
         }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color.nrFundo)
         .task {
             colecao = await modelo.colecao(ref)
@@ -109,11 +110,11 @@ private struct LeituraView: View {
                         }
                     }
 
-                    if let enq = h.enquadramentos {
+                    if let enq = h.enquadramentos, enq.governo != nil || enq.oposicao != nil {
                         Bloco(titulo: "Como cada lado enquadra") {
                             ViewThatFits(in: .horizontal) {
-                                HStack(alignment: .top, spacing: 10) { quadro("Governo", enq.governo, false); quadro("Oposição", enq.oposicao, true) }
-                                VStack(spacing: 10) { quadro("Governo", enq.governo, false); quadro("Oposição", enq.oposicao, true) }
+                                HStack(alignment: .top, spacing: 10) { quadros(enq) }
+                                VStack(spacing: 10) { quadros(enq) }
                             }
                         }
                     }
@@ -169,6 +170,11 @@ private struct LeituraView: View {
             }
         }
         .sheet(item: $link) { SafariView(url: $0.url).ignoresSafeArea() }
+    }
+
+    @ViewBuilder private func quadros(_ enq: Enquadramentos) -> some View {
+        if let g = enq.governo { quadro("Governo", g, false) }
+        if let o = enq.oposicao { quadro("Oposição", o, true) }
     }
 
     private func quadro(_ titulo: String, _ texto: String, _ tracejado: Bool) -> some View {
