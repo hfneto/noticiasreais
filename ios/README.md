@@ -36,6 +36,14 @@ Conecte o iPhone (ou use a mesma rede Wi-Fi), escolha-o como destino e aperte �
 
 1. Em [App Store Connect](https://appstoreconnect.apple.com) → Apps → **+** → Novo app. Use iOS, o nome (precisa ser único na App Store; se "Notícias Reais" estiver tomado, use algo como "Notícias Reais — Todos os Lados"), idioma Português (Brasil) e o Bundle ID `com.hfneto.noticiasreais`.
 2. No Xcode, escolha o destino **Any iOS Device (arm64)**, depois **Product → Archive**, e no Organizer **Distribute App → TestFlight & App Store → Upload**.
+   Pelo Terminal (precisa da conta Apple em Xcode → Settings → Accounts):
+   ```bash
+   cd ios
+   xcodebuild archive -project NoticiasReais.xcodeproj -scheme NoticiasReais -configuration Release \
+     -destination 'generic/platform=iOS' -archivePath build/NoticiasReais.xcarchive -allowProvisioningUpdates
+   xcodebuild -exportArchive -archivePath build/NoticiasReais.xcarchive \
+     -exportOptionsPlist ExportOptions.plist -exportPath build/export -allowProvisioningUpdates
+   ```
 3. Em uns 15 minutos o build aparece em App Store Connect → TestFlight.
    - **Teste interno** (você e quem estiver na sua equipe da conta Apple, até 100 pessoas): entra na hora.
    - **Teste externo** (família e amigos por e-mail ou link público, até 10.000 pessoas): o primeiro build passa por uma revisão rápida da Apple, normalmente em até 1 dia.
