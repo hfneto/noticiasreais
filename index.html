@@ -1,0 +1,483 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Notícias Reais</title>
+<meta name="description" content="Notícias do dia com todos os lados: quem cobriu, como cada lado enquadra e o que é fato, inferência ou disputa.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Notícias Reais">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#F3F4EF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16181D" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&display=swap">
+<style>
+/* Feed de cartões com barra de espectro; matéria em blocos fixos (Fatos, Inferências, Em disputa...). Cores de viés fora do eixo azul/vermelho partidário. */
+:root{
+  --bg:#F3F4EF; --card:#FBFBF8; --ink:#1B2030; --muted:#5E6371; --line:#D8DACF; --acc:#21386A; --acc-ink:#FFFFFF; --soft:#E7E9E1;
+  --L:#14857C; --C:#7B8693; --R:#B97A12; --X:#6656B8;
+  --ok:#2C7A4B; --inf:#8A6D12; --bad:#B23C35;
+  --f-d:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-b:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --top:env(safe-area-inset-top,0px); --bot:env(safe-area-inset-bottom,0px);
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#16181D; --card:#1D2027; --ink:#ECEDF0; --muted:#A0A4AE; --line:#30343C; --acc:#9DB4E8; --acc-ink:#11141A; --soft:#252932;
+  --L:#3DBDB1; --C:#9AA5B2; --R:#E0A43C; --X:#9C8EEA;
+  --ok:#5CC48A; --inf:#D9B44E; --bad:#EC7A72; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#16181D; --card:#1D2027; --ink:#ECEDF0; --muted:#A0A4AE; --line:#30343C; --acc:#9DB4E8; --acc-ink:#11141A; --soft:#252932;
+  --L:#3DBDB1; --C:#9AA5B2; --R:#E0A43C; --X:#9C8EEA;
+  --ok:#5CC48A; --inf:#D9B44E; --bad:#EC7A72; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-b);-webkit-font-smoothing:antialiased;padding-bottom:var(--bot)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:var(--top);background:var(--bg);z-index:20}
+a{color:var(--acc)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.wrap{max-width:680px;margin:0 auto;padding-left:max(18px,env(safe-area-inset-left,0px));padding-right:max(18px,env(safe-area-inset-right,0px))}
+[hidden]{display:none!important}
+
+/* masthead */
+.mast{padding-top:calc(var(--top) + 22px);padding-bottom:14px}
+.eyebrow{font:600 .7rem var(--f-b);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.mast h1{font:700 2.2rem/1.02 var(--f-d);letter-spacing:-.02em;margin:4px 0 6px}
+.mast p{margin:0;color:var(--muted);font-size:.88rem}
+.mast p a{color:inherit}
+.prog{display:flex;gap:3px;margin-top:12px}
+.prog i{flex:1;height:3px;border-radius:2px;background:var(--line)}
+.prog i.r{background:var(--acc)}
+
+/* tabs */
+.tabs{position:sticky;top:var(--top);z-index:10;background:var(--bg);border-bottom:1px solid var(--line)}
+.tabs .wrap{display:flex;gap:20px;overflow-x:auto;scrollbar-width:none}
+.tabs a{flex:none;padding:12px 0 10px;font-weight:600;font-size:.92rem;color:var(--muted);text-decoration:none;border-bottom:2px solid transparent}
+.tabs a[aria-current="page"]{color:var(--ink);border-color:var(--acc)}
+.tabs a b{font:500 .72rem var(--f-b);color:var(--muted);margin-left:4px}
+
+/* feed cards */
+.feed{display:grid;gap:12px;padding-block:16px 8px}
+.card{display:grid;gap:9px;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:14px 16px;text-decoration:none;color:inherit}
+.card:hover{border-color:var(--muted)}
+.card .row{display:flex;justify-content:space-between;gap:10px;font:600 .68rem var(--f-b);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-variant-numeric:tabular-nums}
+.card h2{margin:0;font:600 1.24rem/1.22 var(--f-d);letter-spacing:-.005em;text-wrap:balance}
+.card .lide{margin:0;font-size:.9rem;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.pct{display:flex;gap:12px;font-size:.76rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.pct span{display:inline-flex;align-items:center;gap:5px}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font:600 .7rem var(--f-b);padding:3px 9px;border-radius:999px;background:var(--soft);color:var(--ink);white-space:nowrap}
+.tag.cego{background:transparent;border:1px solid currentColor}
+.spec{display:flex;height:6px;gap:2px;border-radius:3px;overflow:hidden;background:var(--soft)}
+.spec i{display:block;min-width:0}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block;flex:none}
+.sec-h{font:700 .72rem var(--f-b);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:22px 0 0}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+.empty b{display:block;font:600 1.2rem var(--f-d);color:var(--ink);margin-bottom:6px}
+.done{margin:18px 0 8px;text-align:center;padding:20px 16px;border:1px solid var(--line);border-radius:6px;background:var(--card)}
+.done b{font:600 1.1rem var(--f-d)}
+.done p{margin:4px 0 0;color:var(--muted);font-size:.86rem}
+.foot{display:flex;flex-wrap:wrap;gap:8px 18px;justify-content:center;padding-block:18px 36px;font-size:.86rem}
+.foot a{color:var(--muted)}
+
+/* story */
+.bar{position:sticky;top:var(--top);z-index:10;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;justify-content:space-between;align-items:center;min-height:48px;gap:12px}
+.bar a{font-weight:600;font-size:.9rem;text-decoration:none}
+.bar span{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.st{display:grid;gap:22px;padding-block:18px 28px}
+.st h1{font:700 1.85rem/1.12 var(--f-d);letter-spacing:-.015em;margin:6px 0 0;text-wrap:balance}
+.st .lide{font:400 1.12rem/1.5 var(--f-d);margin:0}
+.st .ctx{font-size:.92rem;color:var(--muted);margin:0;border-left:2px solid var(--line);padding-left:12px}
+.jump{display:flex;gap:8px;flex-wrap:wrap}
+.jump a{font:600 .8rem var(--f-b);text-decoration:none;padding:6px 12px;border-radius:999px;border:1px solid var(--line);color:var(--ink);background:var(--card)}
+.blk{display:grid;gap:10px}
+.blk>h3{margin:0;font:700 .72rem var(--f-b);letter-spacing:.12em;text-transform:uppercase;display:flex;align-items:center;gap:8px;padding-top:12px;border-top:2px solid var(--ink)}
+.blk>h3 small{font-weight:500;letter-spacing:.04em;text-transform:none;color:var(--muted);margin-left:auto}
+.blk p,.blk li{margin:0;font:400 1.04rem/1.5 var(--f-d)}
+.blk ul{margin:0;padding:0;list-style:none;display:grid;gap:12px}
+.blk small.m{display:block;font:500 .76rem var(--f-b);color:var(--muted);margin-top:3px}
+.fact li{display:grid;grid-template-columns:20px 1fr;gap:4px}
+.fact li::before{content:"✓";color:var(--ok);font:700 .95rem var(--f-b);line-height:1.6}
+.inf li{border:1px dashed var(--line);padding:10px 12px;border-radius:4px}
+.disp li{display:grid;gap:4px;background:var(--card);border-left:3px solid var(--bad);padding:10px 12px}
+.disp em{font:700 .66rem var(--f-b);letter-spacing:.09em;text-transform:uppercase;color:var(--bad);font-style:normal}
+.disp em.v{color:var(--ok)}
+.disp .x{font:400 .9rem/1.45 var(--f-b);color:var(--muted)}
+.disp .x a{font-weight:600}
+.frame{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.frame>div{background:var(--card);padding:12px;border:1px solid var(--line);border-radius:4px;min-width:0}
+.frame>div:last-child{border-style:dashed}
+.frame b{display:block;font:700 .66rem var(--f-b);letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px;color:var(--muted)}
+.frame p{font-size:.98rem}
+.cov{display:grid;gap:8px}
+.cov .legend{display:flex;justify-content:space-between;font-size:.76rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.chips button{flex:none;font:600 .78rem var(--f-b);border:1px solid var(--line);background:var(--card);padding:6px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.chips button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chips button:disabled{opacity:.4;cursor:default}
+.arts li{display:grid;gap:3px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.arts li:last-child{border-bottom:0}
+.who{display:flex;align-items:center;flex-wrap:wrap;gap:4px 7px;font:600 .76rem var(--f-b);color:var(--muted)}
+.who .k{font:700 .62rem var(--f-b);letter-spacing:.08em;text-transform:uppercase;padding:1px 6px;border-radius:3px;background:var(--soft);color:var(--ink)}
+.arts .t{font:600 1.04rem/1.3 var(--f-d)}
+.arts .a{font:400 .9rem/1.45 var(--f-b);color:var(--muted)}
+.arts a.go{font:600 .8rem var(--f-b);text-decoration:none;justify-self:start}
+.pager{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.pager a{display:block;padding:12px;border-radius:4px;text-decoration:none;font:600 .9rem var(--f-b);background:var(--acc);color:var(--acc-ink);text-align:center}
+.pager a.sec{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.pager span{grid-column:span 1}
+
+/* busca */
+.form{display:grid;gap:10px;padding:16px;background:var(--card);border:1px solid var(--line);border-radius:6px;margin-top:16px}
+.form label{font:600 1.05rem var(--f-d)}
+.form .r{display:flex;gap:8px}
+.form input{flex:1;min-width:0;font:16px var(--f-b);padding:11px 12px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--ink)}
+.form button{font:600 .92rem var(--f-b);padding:0 16px;border-radius:4px;border:0;background:var(--acc);color:var(--acc-ink);cursor:pointer}
+.form p{margin:0;font-size:.82rem;color:var(--muted)}
+.list{list-style:none;margin:10px 0 0;padding:0;display:grid}
+.list li{border-bottom:1px solid var(--line)}
+.list a,.list .p{display:flex;justify-content:space-between;gap:12px;padding:12px 2px;text-decoration:none;color:inherit;align-items:baseline}
+.list b{font:600 1rem var(--f-d)}
+.list span{font-size:.78rem;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+
+/* fontes / método */
+.page{padding-block:18px 36px;display:grid;gap:14px}
+.page h1{font:700 1.7rem/1.15 var(--f-d);margin:0}
+.page p,.page li{font-size:.95rem}
+.page h2{font:600 1.15rem var(--f-d);margin:14px 0 0}
+.ftable{width:100%;border-collapse:collapse;font-size:.86rem}
+.ftable th{text-align:left;font:700 .66rem var(--f-b);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:6px 8px 6px 0;border-bottom:1px solid var(--line)}
+.ftable td{padding:8px 8px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.ftable td small{display:block;color:var(--muted)}
+.tw{overflow-x:auto}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--bot));background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:.86rem;z-index:30}
+@media (max-width:420px){.frame{grid-template-columns:1fr}.mast h1{font-size:1.9rem}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div id="app" aria-live="polite"></div>
+<div class="toast" id="toast" hidden></div>
+<script>
+"use strict";
+const REPO = "hfneto/noticiasreais";
+const PAGES = "https://hfneto.github.io/noticiasreais/";
+const LADO = {esquerda:"E",centro_esquerda:"E",centro:"C",centro_direita:"D",direita:"D"};
+const NOME_VIES = {esquerda:"Esquerda",centro_esquerda:"Centro-esquerda",centro:"Centro",centro_direita:"Centro-direita",direita:"Direita",nao_classificado:"Não classificado"};
+const COR = {E:"var(--L)",C:"var(--C)",D:"var(--R)",X:"var(--X)"};
+const NOME_LADO = {E:"Esquerda",C:"Centro",D:"Direita"};
+const TIPO = {analise:"Análise",opiniao:"Opinião",checagem:"Checagem",fonte_primaria:"Fonte primária"};
+const app = document.getElementById("app");
+let F = {}, FONTES = null, IDX = null;
+const cache = {};
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https:\/\//.test(u || "") ? u : null;
+const host = u => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return ""; } };
+const TZ = "America/Sao_Paulo";
+const fmtData = d => new Date(d + "T12:00:00-03:00").toLocaleDateString("pt-BR",{weekday:"long",day:"numeric",month:"long",timeZone:TZ});
+const fmtHora = iso => iso ? new Date(iso).toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit",timeZone:TZ}) : "";
+const fmtCurta = iso => iso ? new Date(iso).toLocaleDateString("pt-BR",{day:"2-digit",month:"short",timeZone:TZ}) : "";
+const ha = iso => { const m = Math.round((Date.now() - new Date(iso)) / 60000); return m < 60 ? `há ${Math.max(m,1)} min` : m < 1440 ? `há ${Math.round(m/60)} h` : `há ${Math.round(m/1440)} d`; };
+
+async function getJSON(path){
+  if (cache[path]) return cache[path];
+  const r = await fetch(path, {cache:"no-cache"});
+  if (!r.ok) throw new Error(path + " " + r.status);
+  return cache[path] = await r.json();
+}
+async function boot(){
+  try {
+    [FONTES, IDX] = await Promise.all([getJSON("data/fontes.json"), getJSON("data/index.json").catch(() => ({edicoes:[],buscas:[]}))]);
+    FONTES.fontes.forEach(f => F[f.id] = f);
+  } catch (e) {
+    app.innerHTML = `<div class="wrap empty"><b>Sem conexão</b>Não consegui carregar os dados. Tente de novo quando estiver on-line.</div>`;
+    return;
+  }
+  route();
+}
+
+/* ---------- cálculo de cobertura ---------- */
+function vies(m){
+  const f = m.fonte && F[m.fonte];
+  if (f && f.vies !== "nao_classificado") return {v:f.vies, porMateria:false};
+  return {v:m.vies_materia || "nao_classificado", porMateria:true};
+}
+function estrangeira(m, h){
+  const f = m.fonte && F[m.fonte];
+  return h.escopo === "brasil" && f && f.pais !== "BR";
+}
+function cobertura(h){
+  const c = {E:0,C:0,D:0,X:0,n:0,gov:0,neu:0,op:0};
+  for (const m of h.materias || []){
+    if (m.tipo === "fonte_primaria" || m.tipo === "checagem") continue;
+    const s = LADO[vies(m).v];
+    if (s){ c[s]++; c.n++; }
+    if (estrangeira(m, h)) c.X++;
+    if (m.enquadramento === "pro_governo") c.gov++;
+    else if (m.enquadramento === "oposicao") c.op++;
+    else if (m.enquadramento === "neutro") c.neu++;
+  }
+  c.pE = c.n ? Math.round(c.E / c.n * 100) : 0;
+  c.pD = c.n ? Math.round(c.D / c.n * 100) : 0;
+  c.pC = c.n ? 100 - c.pE - c.pD : 0;
+  c.cego = c.n >= 4 && c.E / c.n <= .2 && c.D / c.n >= .4 ? "esquerda" : c.n >= 4 && c.D / c.n <= .2 && c.E / c.n >= .4 ? "direita" : null;
+  return c;
+}
+const barra = (c, h = 6) => `<div class="spec" style="height:${h}px" role="img" aria-label="Esquerda ${c.pE}%, centro ${c.pC}%, direita ${c.pD}%">${c.n ? `<i style="flex:${c.E};background:${COR.E}"></i><i style="flex:${c.C};background:${COR.C}"></i><i style="flex:${c.D};background:${COR.D}"></i>` : ""}</div>`;
+const pcts = c => `<div class="pct"><span><i class="dot" style="background:${COR.E}"></i>Esq. ${c.pE}%</span><span><i class="dot" style="background:${COR.C}"></i>Centro ${c.pC}%</span><span><i class="dot" style="background:${COR.D}"></i>Dir. ${c.pD}%</span></div>`;
+
+function cardHistoria(h, href){
+  const c = cobertura(h);
+  const tags = [];
+  if (c.cego) tags.push(`<span class="tag cego" style="color:${c.cego === "esquerda" ? COR.E : COR.D}">Pouco coberto pela ${c.cego}</span>`);
+  if (c.gov + c.op) tags.push(`<span class="tag">Pró-governo ${c.gov} · Oposição ${c.op}</span>`);
+  if ((h.em_disputa || []).length) tags.push(`<span class="tag" style="color:var(--bad)">${h.em_disputa.length} alegaç${h.em_disputa.length > 1 ? "ões" : "ão"} em disputa</span>`);
+  return `<a class="card" href="${href}">
+    <div class="row"><span>${esc(h.editoria)} · ${h.escopo === "mundo" ? "Mundo" : "Brasil"}</span><span>${(h.materias || []).length} matérias</span></div>
+    <h2>${esc(h.titulo)}</h2>
+    <p class="lide">${esc(h.lide)}</p>
+    ${barra(c)}${pcts(c)}
+    ${tags.length ? `<div class="tags">${tags.join("")}</div>` : ""}
+  </a>`;
+}
+
+/* ---------- rotas ---------- */
+const TABS = [["hoje","Hoje"],["brasil","Brasil"],["mundo","Mundo"],["cegos","Pontos cegos"],["buscas","Buscas"]];
+function route(){
+  const p = location.hash.replace(/^#\/?/, "").split("/").map(decodeURIComponent);
+  window.scrollTo(0, 0);
+  const [a, b, c] = p;
+  if (a === "h" && b && c) return viewHistoria("e", b, c);
+  if (a === "b" && b && c) return viewHistoria("b", b, c);
+  if (a === "b" && b) return viewBusca(b);
+  if (a === "e" && b) return viewFeed("hoje", b);
+  if (a === "fontes") return viewFontes();
+  if (a === "arquivo") return viewArquivo();
+  if (a === "metodo") return viewMetodo();
+  if (a === "buscas") return viewBuscas();
+  return viewFeed(TABS.some(t => t[0] === a) ? a : "hoje");
+}
+window.addEventListener("hashchange", route);
+
+function mast(ed, extra){
+  const n = ed ? ed.historias.length : 0;
+  return `<header class="mast wrap">
+    <span class="eyebrow">${ed ? esc(fmtData(ed.data)) : "Notícias Reais"}</span>
+    <h1>Notícias Reais</h1>
+    <p>${ed ? `${n} histórias · gerada às ${fmtHora(ed.gerado_em)}` : "Todos os lados de cada notícia"}${extra || ""}</p>
+  </header>`;
+}
+function tabs(atual){
+  return `<nav class="tabs" aria-label="Seções"><div class="wrap">${TABS.map(([k,l]) => `<a href="#/${k === "hoje" ? "" : k}" ${k === atual ? 'aria-current="page"' : ""}>${l}</a>`).join("")}</div></nav>`;
+}
+const rodape = () => `<footer class="foot wrap"><a href="#/arquivo">Edições anteriores</a><a href="#/fontes">Fontes e vieses</a><a href="#/metodo">Como funciona</a></footer>`;
+
+async function viewFeed(tab, data){
+  const meta = data ? IDX.edicoes.find(e => e.data === data) : IDX.edicoes[0];
+  if (!meta){
+    app.innerHTML = mast(null) + tabs(tab) + `<div class="wrap empty"><b>A primeira edição está a caminho</b>Ela é gerada todo dia de manhã. Enquanto isso, veja <a href="#/fontes">as fontes</a> ou <a href="#/buscas">peça uma busca</a>.</div>` + rodape();
+    return;
+  }
+  const ed = await getJSON(meta.arquivo);
+  const hs = ed.historias.map((h, i) => ({h, i, c:cobertura(h)}));
+  const lista = tab === "brasil" ? hs.filter(x => x.h.escopo === "brasil")
+    : tab === "mundo" ? hs.filter(x => x.h.escopo === "mundo")
+    : tab === "cegos" ? hs.filter(x => x.c.cego)
+    : hs;
+  const antiga = data && meta !== IDX.edicoes[0];
+  const extra = antiga ? ` · <a href="#/">ir para a de hoje</a>` : "";
+  const vazio = tab === "cegos" ? "Nenhuma história desta edição tem cobertura muito desequilibrada." : "Nada nesta seção hoje.";
+  app.innerHTML = mast(ed, extra) + (antiga ? "" : tabs(tab)) +
+    `<main class="wrap">${tab === "cegos" ? `<p class="sec-h">Histórias que um lado do espectro quase não está cobrindo</p>` : ""}
+     <div class="feed">${lista.map(x => cardHistoria(x.h, `#/h/${ed.data}/${x.h.id}`)).join("") || `<div class="empty">${vazio}</div>`}</div>
+     ${tab === "hoje" ? `<div class="done"><b>Você está em dia</b><p>A próxima edição sai amanhã cedo. Quer algo específico? <a href="#/buscas">Peça uma busca</a>.</p></div>` : ""}
+    </main>` + rodape();
+}
+
+async function carregarColecao(tipo, chave){
+  if (tipo === "e"){
+    const meta = IDX.edicoes.find(e => e.data === chave);
+    if (!meta) return null;
+    const d = await getJSON(meta.arquivo);
+    return {doc:d, voltar: meta === IDX.edicoes[0] ? "#/" : `#/e/${chave}`, base:`#/h/${chave}/`, rotulo: meta === IDX.edicoes[0] ? "Edição de hoje" : fmtCurta(d.data + "T12:00:00-03:00")};
+  }
+  const meta = IDX.buscas.find(b => b.slug === chave);
+  if (!meta) return null;
+  const d = await getJSON(meta.arquivo);
+  return {doc:d, voltar:`#/b/${chave}`, base:`#/b/${chave}/`, rotulo:`Busca: ${d.consulta}`};
+}
+
+let filtroCob = "todos";
+async function viewHistoria(tipo, chave, id){
+  const col = await carregarColecao(tipo, chave).catch(() => null);
+  const hs = col && col.doc.historias;
+  const i = hs ? hs.findIndex(h => h.id === id) : -1;
+  if (i < 0){ app.innerHTML = `<div class="wrap empty"><b>História não encontrada</b><a href="#/">Voltar ao início</a></div>`; return; }
+  const h = hs[i], c = cobertura(h);
+  filtroCob = "todos";
+  const fatos = (h.fatos || []).map(f => `<li><span>${esc(f.texto)}<small class="m">${esc(f.base)}</small></span></li>`).join("");
+  const infs = (h.inferencias || []).map(x => `<li>${esc(x.texto)}<small class="m">${esc(x.quem)}</small></li>`).join("");
+  const disp = (h.em_disputa || []).map(d => `<li><em class="${d.rotulo === "Verdadeiro" ? "v" : ""}">${esc(d.rotulo)}</em><span>${esc(d.alegacao)}</span><span class="x">${esc(d.explicacao)}${d.onde_circula ? ` Circula em: ${esc(d.onde_circula)}.` : ""}${(d.checagem || []).filter(k => safeUrl(k.url)).map(k => ` <a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.nome)} ↗</a>`).join("")}</span></li>`).join("");
+  const enq = h.enquadramentos;
+  const prev = hs[i - 1], next = hs[i + 1];
+  app.innerHTML = `
+  <div class="bar"><div class="wrap"><a href="${col.voltar}">← ${esc(col.rotulo)}</a><span>${i + 1} de ${hs.length}</span></div></div>
+  <article class="st wrap">
+    <div><span class="eyebrow">${esc(h.editoria)} · ${(h.materias || []).length} matérias${h.atualizado_em ? ` · atualizado ${fmtHora(h.atualizado_em)}` : ""}</span>
+    <h1>${esc(h.titulo)}</h1></div>
+    <p class="lide">${esc(h.lide)}</p>
+    ${h.contexto ? `<p class="ctx">${esc(h.contexto)}</p>` : ""}
+    <div class="jump"><a href="#cobertura" data-scroll="cobertura">Ler a cobertura de cada lado ↓</a></div>
+    <section class="blk fact"><h3><span style="color:var(--ok)">●</span>Fatos<small>confirmados por 2+ fontes ou documento</small></h3><ul>${fatos}</ul></section>
+    ${infs ? `<section class="blk inf"><h3><span style="color:var(--inf)">●</span>Inferências e opiniões</h3><ul>${infs}</ul></section>` : ""}
+    ${disp ? `<section class="blk disp"><h3><span style="color:var(--bad)">●</span>Em disputa</h3><ul>${disp}</ul></section>` : ""}
+    ${enq ? `<section class="blk"><h3>Como cada lado enquadra</h3><div class="frame"><div><b>Governo</b><p>${esc(enq.governo)}</p></div><div><b>Oposição</b><p>${esc(enq.oposicao)}</p></div></div></section>` : ""}
+    <section class="blk" id="cobertura"><h3>Cobertura<small>${c.n} classificadas</small></h3>
+      <div class="cov">${barra(c, 8)}${pcts(c)}</div>
+      <div class="chips" role="group" aria-label="Filtrar cobertura" id="chips"></div>
+      <ul class="arts" id="arts"></ul>
+    </section>
+    ${h.visao_de_fora ? `<section class="blk"><h3><span style="color:var(--X)">●</span>A visão de fora</h3><p>${esc(h.visao_de_fora)}</p></section>` : ""}
+    ${h.ponto_cego ? `<section class="blk"><h3><span style="color:${c.cego === "direita" ? COR.D : c.cego === "esquerda" ? COR.E : "var(--muted)"}">●</span>Ponto cego</h3><p>${esc(h.ponto_cego)}</p></section>` : ""}
+    <nav class="pager">${prev ? `<a class="sec" href="${col.base}${prev.id}">← Anterior</a>` : "<span></span>"}${next ? `<a href="${col.base}${next.id}">Próxima →</a>` : `<a class="sec" href="${col.voltar}">Fim · voltar</a>`}</nav>
+  </article>`;
+  app.querySelector("[data-scroll]").addEventListener("click", e => { e.preventDefault(); document.getElementById("cobertura").scrollIntoView({behavior:"smooth"}); });
+  desenharCobertura(h, i);
+}
+
+function desenharCobertura(h, idx){
+  const ms = (h.materias || []).map(m => ({m, vi:vies(m), s:LADO[vies(m).v], x:estrangeira(m, h)}));
+  const filtros = [
+    ["todos","Todos",() => true],["E","Esquerda",o => o.s === "E"],["C","Centro",o => o.s === "C"],["D","Direita",o => o.s === "D"],
+    ["gov","Pró-governo",o => o.m.enquadramento === "pro_governo"],["op","Oposição",o => o.m.enquadramento === "oposicao"],
+    ["X","Estrangeira",o => o.x],["opn","Opinião",o => o.m.tipo === "opiniao" || o.m.tipo === "analise"],
+  ];
+  // ordem dos lados gira a cada história, para nenhum lado aparecer sempre primeiro
+  const ordem = ["E","C","D"].map((_, k, a) => a[(k + idx) % 3]);
+  const grupos = ordem.map(s => ms.filter(o => o.s === s));
+  const intercalado = [];
+  for (let k = 0; grupos.some(g => g[k]); k++) grupos.forEach(g => g[k] && intercalado.push(g[k]));
+  ms.filter(o => !o.s).forEach(o => intercalado.push(o));
+  const chips = document.getElementById("chips"), arts = document.getElementById("arts");
+  const pintar = () => {
+    const f = filtros.find(x => x[0] === filtroCob)[2];
+    chips.innerHTML = filtros.map(([k, l, fn]) => { const n = ms.filter(fn).length; return `<button data-k="${k}" aria-pressed="${k === filtroCob}" ${n ? "" : "disabled"}>${l} ${n}</button>`; }).join("");
+    arts.innerHTML = intercalado.filter(f).map(({m, vi, s, x}) => {
+      const fonte = m.fonte && F[m.fonte];
+      const nome = fonte ? fonte.nome : m.veiculo;
+      const url = safeUrl(m.url);
+      return `<li>
+        <span class="who"><i class="dot" style="background:${s ? COR[s] : "var(--line)"}"></i>${esc(nome)} · ${esc(NOME_VIES[vi.v] || "—")}${vi.porMateria ? " (pela matéria)" : ""}${x ? ` · <span style="color:var(--X)">estrangeira</span>` : ""}${TIPO[m.tipo] ? ` <span class="k">${TIPO[m.tipo]}</span>` : ""}${m.enquadramento === "pro_governo" ? ` <span class="k">pró-governo</span>` : m.enquadramento === "oposicao" ? ` <span class="k">oposição</span>` : ""}</span>
+        <span class="t">${esc(m.titulo)}</span>
+        ${m.angulo ? `<span class="a">${esc(m.angulo)}</span>` : ""}
+        ${url ? `<a class="go" href="${esc(url)}" target="_blank" rel="noopener">Ler na íntegra em ${esc(host(url))} ↗</a>` : ""}
+      </li>`;
+    }).join("") || `<li class="a">Nenhuma matéria neste recorte.</li>`;
+  };
+  chips.addEventListener("click", e => { const b = e.target.closest("button[data-k]"); if (!b || b.disabled) return; filtroCob = b.dataset.k; pintar(); });
+  pintar();
+}
+
+/* ---------- buscas ---------- */
+async function pendentesGitHub(){
+  try {
+    const r = await fetch(`https://api.github.com/repos/${REPO}/issues?state=open&per_page=50`, {headers:{Accept:"application/vnd.github+json"}});
+    if (!r.ok) return null;
+    const feitas = new Set(IDX.buscas.map(b => b.issue).filter(Boolean));
+    return (await r.json()).filter(i => !i.pull_request && /^busca:/i.test(i.title) && !feitas.has(i.number));
+  } catch { return null; }
+}
+async function viewBuscas(){
+  const ed = IDX.edicoes[0] ? await getJSON(IDX.edicoes[0].arquivo).catch(() => null) : null;
+  app.innerHTML = mast(ed) + tabs("buscas") + `<main class="wrap">
+    <form class="form" id="f">
+      <label for="q">Pesquisar um assunto</label>
+      <div class="r"><input id="q" name="q" placeholder="Ex.: reforma tributária, eleição nos EUA" autocomplete="off" required maxlength="120"><button type="submit">Pedir</button></div>
+      <p>Abre o GitHub com o pedido pronto: toque em <b>Create</b>. A pesquisa completa, com todos os lados, fica pronta em até 1 hora.</p>
+    </form>
+    <div id="local"></div>
+    <p class="sec-h">Na fila</p><ul class="list" id="fila"><li><span class="p"><span>Verificando…</span></span></li></ul>
+    <p class="sec-h">Buscas prontas</p>
+    <ul class="list">${IDX.buscas.map(b => `<li><a href="#/b/${esc(b.slug)}"><b>${esc(b.consulta)}</b><span>${b.historias} hist. · ${fmtCurta(b.gerado_em)}</span></a></li>`).join("") || `<li><span class="p"><span>Nenhuma ainda.</span></span></li>`}</ul>
+  </main>` + rodape();
+  const q = document.getElementById("q");
+  document.getElementById("f").addEventListener("submit", e => {
+    e.preventDefault();
+    const t = q.value.trim(); if (!t) return;
+    const url = `https://github.com/${REPO}/issues/new?title=${encodeURIComponent("busca: " + t)}&body=${encodeURIComponent("Pedido feito pelo app. Detalhes opcionais abaixo:\n\n")}`;
+    window.open(url, "_blank", "noopener");
+    toast("Pedido aberto no GitHub. Confirme lá.");
+  });
+  q.addEventListener("input", debounce(() => buscaLocal(q.value), 250));
+  const fila = await pendentesGitHub();
+  const el = document.getElementById("fila");
+  if (!el) return;
+  el.innerHTML = fila === null ? `<li><span class="p"><span>Não consegui consultar a fila agora.</span></span></li>`
+    : fila.length ? fila.map(i => `<li><span class="p"><b>${esc(i.title.replace(/^busca:\s*/i, ""))}</b><span>pedido ${ha(i.created_at)}</span></span></li>`).join("")
+    : `<li><span class="p"><span>Nada na fila.</span></span></li>`;
+}
+async function buscaLocal(t){
+  const box = document.getElementById("local"); if (!box) return;
+  t = t.trim().toLowerCase();
+  if (t.length < 3){ box.innerHTML = ""; return; }
+  const eds = await Promise.all(IDX.edicoes.slice(0, 14).map(e => getJSON(e.arquivo).catch(() => null)));
+  const achados = [];
+  eds.filter(Boolean).forEach(d => d.historias.forEach(h => {
+    if ((h.titulo + " " + h.lide + " " + h.editoria).toLowerCase().includes(t)) achados.push({d, h});
+  }));
+  box.innerHTML = achados.length ? `<p class="sec-h">Já no app (últimos 14 dias)</p><ul class="list">${achados.slice(0, 8).map(({d, h}) => `<li><a href="#/h/${d.data}/${h.id}"><b>${esc(h.titulo)}</b><span>${fmtCurta(d.data + "T12:00:00-03:00")}</span></a></li>`).join("")}</ul>` : "";
+}
+async function viewBusca(slug){
+  const meta = IDX.buscas.find(b => b.slug === slug);
+  if (!meta){ app.innerHTML = `<div class="wrap empty"><b>Busca não encontrada</b><a href="#/buscas">Ver buscas</a></div>`; return; }
+  const d = await getJSON(meta.arquivo);
+  app.innerHTML = `<div class="bar"><div class="wrap"><a href="#/buscas">← Buscas</a><span>${fmtCurta(d.gerado_em)} · ${fmtHora(d.gerado_em)}</span></div></div>
+  <main class="wrap"><header class="mast" style="padding-top:18px"><span class="eyebrow">Busca</span><h1>${esc(d.consulta)}</h1>${d.resumo ? `<p>${esc(d.resumo)}</p>` : ""}</header>
+  <div class="feed">${d.historias.map(h => cardHistoria(h, `#/b/${slug}/${h.id}`)).join("")}</div></main>` + rodape();
+}
+
+/* ---------- páginas de apoio ---------- */
+function viewArquivo(){
+  app.innerHTML = `<div class="bar"><div class="wrap"><a href="#/">← Hoje</a><span></span></div></div>
+  <main class="wrap page"><h1>Edições anteriores</h1>
+  <ul class="list">${IDX.edicoes.map(e => `<li><a href="#/e/${e.data}"><b>${esc(fmtData(e.data))}</b><span>${e.historias} histórias</span></a></li>`).join("") || "<li>Nenhuma ainda.</li>"}</ul></main>`;
+}
+function viewFontes(){
+  const ordem = ["esquerda","centro_esquerda","centro","centro_direita","direita","nao_classificado"];
+  const linha = f => `<tr><td><b>${esc(f.nome)}</b>${f.notas ? `<small>${esc(f.notas)}</small>` : ""}</td><td>${esc(NOME_VIES[f.vies])}${f.checagem ? "<small>checagem</small>" : ""}</td><td>${esc(f.dono)}<small>${esc(FONTES.tipos_propriedade[f.propriedade] || f.propriedade)}</small></td><td><small>${esc(f.base || "")}</small></td></tr>`;
+  const tabela = lista => `<div class="tw"><table class="ftable"><thead><tr><th>Veículo</th><th>Viés</th><th>Propriedade</th><th>Base</th></tr></thead><tbody>${lista.sort((a, b) => ordem.indexOf(a.vies) - ordem.indexOf(b.vies) || a.nome.localeCompare(b.nome)).map(linha).join("")}</tbody></table></div>`;
+  app.innerHTML = `<div class="bar"><div class="wrap"><a href="#/">← Hoje</a><span>${FONTES.fontes.length} veículos</span></div></div>
+  <main class="wrap page"><h1>Fontes e vieses</h1>
+  <p>O viés é do <b>veículo</b> (linha editorial predominante), não de cada matéria. Para veículos fora desta lista, a própria matéria é avaliada e aparece marcada "(pela matéria)". Classificação inicial por curadoria, com AllSides e Media Bias/Fact Check como referência para os estrangeiros. <a href="https://github.com/${REPO}/edit/main/data/fontes.json" target="_blank" rel="noopener">Editar a lista no GitHub ↗</a></p>
+  <h2>Brasil</h2>${tabela(FONTES.fontes.filter(f => f.pais === "BR"))}
+  <h2>Internacional</h2>${tabela(FONTES.fontes.filter(f => f.pais !== "BR"))}</main>`;
+}
+function viewMetodo(){
+  app.innerHTML = `<div class="bar"><div class="wrap"><a href="#/">← Hoje</a><span></span></div></div>
+  <main class="wrap page"><h1>Como funciona</h1>
+  <p>Toda manhã uma rotina do Claude pesquisa as principais histórias do dia em veículos de todo o espectro, no Brasil e fora, e monta esta edição. Buscas pedidas no app entram numa fila processada a cada hora.</p>
+  <h2>Fatos</h2><p>Só o que foi confirmado por duas ou mais fontes independentes (de grupos diferentes) ou por documento primário: lei, decisão judicial, dado oficial, vídeo do evento. Cada fato diz sua base.</p>
+  <h2>Inferências e opiniões</h2><p>Interpretações, previsões, motivações atribuídas e projeções de analistas, sempre com quem diz.</p>
+  <h2>Em disputa</h2><p>Alegações que circulam e não se sustentam, com rótulos no padrão das agências de checagem brasileiras: Falso, Sem evidência, Falta contexto, Exagerado, Distorcido, Contraditório, Em apuração. Opinião da qual se discorda não entra aqui.</p>
+  <h2>Cobertura e pontos cegos</h2><p>A barra mostra a proporção das matérias encontradas por lado. Uma história vira ponto cego quando um lado tem 20% ou menos da cobertura e o outro 40% ou mais. A ordem dos lados na lista muda a cada história.</p>
+  <h2>Governo × oposição</h2><p>Para histórias do Brasil, cada matéria é marcada como pró-governo, neutra ou de oposição (em relação ao governo federal), e o app resume como cada campo enquadra o tema.</p>
+  <h2>Limites</h2><p>A classificação é feita por IA e pode errar. Leia as matérias originais, que estão sempre linkadas. O viés de cada veículo está em <a href="#/fontes">Fontes e vieses</a> e pode ser corrigido.</p></main>`;
+}
+
+function toast(t){ const el = document.getElementById("toast"); el.textContent = t; el.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => el.hidden = true, 3500); }
+function debounce(fn, ms){ let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
+
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+boot();
+</script>
+</body>
+</html>
