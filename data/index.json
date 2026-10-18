@@ -1,5 +1,13 @@
 {
- "atualizado_em": "2026-10-18T12:09:46+00:00",
- "edicoes": [],
+ "atualizado_em": "2026-10-18T12:33:26+00:00",
+ "edicoes": [
+  {
+   "data": "2026-10-18",
+   "arquivo": "data/edicoes/2026-10-18.json",
+   "historias": 9,
+   "gerado_em": "2026-10-18T09:45:00-03:00",
+   "manchete": "Lula e Flávio Bolsonaro fazem primeiro debate do segundo turno com pesquisas em empate técnico"
+  }
+ ],
  "buscas": []
 }

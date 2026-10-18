@@ -1,0 +1,355 @@
+{
+  "tipo": "edicao",
+  "data": "2026-10-18",
+  "gerado_em": "2026-10-18T09:45:00-03:00",
+  "historias": [
+    {
+      "id": "segundo-turno-debate-band-pesquisas",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Lula e Flávio Bolsonaro fazem primeiro debate do segundo turno com pesquisas em empate técnico",
+      "lide": "Lula (PT) e Flávio Bolsonaro (PL) se enfrentam neste domingo às 20h na Band, no primeiro confronto direto dos dois na campanha. As pesquisas Datafolha e Quaest da semana mostram Flávio numericamente à frente, dentro da margem de erro, a uma semana da votação.",
+      "contexto": "No primeiro turno, em 4 de outubro, Flávio teve 47,03% dos votos válidos e Lula 45,16%, segundo os dados do TSE. O segundo turno é em 25 de outubro. Os dois candidatos não participaram juntos de debates no primeiro turno.",
+      "fatos": [
+        {"texto": "O debate da Band entre Lula e Flávio Bolsonaro está marcado para as 20h deste domingo (18), em São Paulo, e é o primeiro confronto direto entre os dois nesta eleição.", "base": "4 fontes independentes (Band, Poder360, InfoMoney, Brasil 247)"},
+        {"texto": "Flávio anunciou que não iria ao debate e voltou atrás na quarta-feira (14), depois que Lula confirmou presença.", "base": "4 fontes independentes (Gazeta do Povo, CartaCapital, Revista Oeste, Revista Fórum)"},
+        {"texto": "Datafolha feito de 13 a 15 de outubro com 2.520 eleitores: Flávio tem 47% e Lula 45% dos votos totais, ou 51% a 49% dos votos válidos. A margem de erro é de 2 pontos.", "base": "3 fontes independentes (Terra, Gazeta do Povo, Al Jazeera)"},
+        {"texto": "Quaest feita de 10 a 13 de outubro com 2.154 eleitores: Flávio tem 46% e Lula 44% dos votos totais. A margem de erro é de 2 pontos. Flávio é rejeitado por 54% e Lula por 53%.", "base": "4 fontes independentes (CartaCapital, Diário do Grande ABC, Reuters via U.S. News, Gazeta do Povo)"},
+        {"texto": "Na rodada anterior do Datafolha (6 a 8 de outubro), Flávio tinha 52% dos votos válidos e Lula 48%.", "base": "2 fontes independentes (CNN Brasil, Gazeta do Povo)"}
+      ],
+      "inferencias": [
+        {"texto": "O debate pode mudar a dinâmica do segundo turno.", "quem": "InfoMoney (análise)"},
+        {"texto": "Lula quer usar o debate para discutir \"projeto de país\".", "quem": "Campanha de Lula, segundo o Poder360"},
+        {"texto": "O anúncio de que não iria ao debate foi uma estratégia para forçar Lula a confirmar presença.", "quem": "Flávio Bolsonaro"},
+        {"texto": "A campanha de Flávio tenta sair da defensiva e intensificar os ataques a Lula na reta final.", "quem": "Metrópoles, com base em relatos da campanha"},
+        {"texto": "Flávio vai apostar no tema da segurança pública e Lula vai falar do presente e do futuro.", "quem": "Brasil 247, com base nas campanhas"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "A campanha de Lula apresenta o debate como chance de comparar projetos de país e diz que Lula foi primeiro a confirmar presença.",
+        "oposicao": "Flávio diz que forçou Lula a ir ao debate e se apresenta à frente nas pesquisas após vencer o primeiro turno."
+      },
+      "visao_de_fora": "Reuters e Al Jazeera destacam que Flávio mantém leve vantagem sobre Lula, em empate técnico, e tratam o resultado do primeiro turno como surpresa em relação às pesquisas.",
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": "band", "titulo": "Band realiza debate inédito entre Lula e Flávio neste domingo (18)", "url": "https://www.band.com.br/politica/eleicoes/band-realiza-debate-inedito-entre-lula-e-flavio-neste-domingo-18", "angulo": "Organizadora do debate: formato, horário e o ineditismo do confronto.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cartacapital", "titulo": "Quaest mostra empate técnico entre Flávio Bolsonaro e Lula a 11 dias do 2º turno", "url": "https://www.cartacapital.com.br/politica/quaest-mostra-empate-tecnico-entre-flavio-bolsonaro-e-lula-a-11-dias-do-2o-turno/", "angulo": "Enfatiza o empate técnico, não a liderança numérica de Flávio.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-14"},
+        {"fonte": "oeste", "titulo": "Flávio se prepara para armadilhas de Lula em debate na Band", "url": "https://revistaoeste.com/no-ponto/flavio-se-prepara-para-armadilhas-de-lula-em-debate-na-band", "angulo": "Conta a preparação pelo lado de Flávio e apresenta Lula como quem prepara armadilhas.", "tipo": "analise", "enquadramento": "oposicao"},
+        {"fonte": "terra", "titulo": "Datafolha 2º turno: Flávio Bolsonaro tem 51% dos votos válidos, e Lula, 49%", "url": "https://www.terra.com.br/noticias/eleicoes/pesquisas/datafolha-2-turno-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49,4ca649ab7c7b913c3ac1a27b4dfe8514lwy6am22.html", "angulo": "Números do Datafolha e a redução da vantagem de Flávio em relação à rodada anterior.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-15"},
+        {"fonte": "brasil247", "titulo": "Debate na Band: Lula vai focar no presente e no futuro; Flávio Bolsonaro aposta em segurança pública", "url": "https://brasil247.com/midia/debate-na-band-lula-vai-focar-no-presente-e-no-futuro-flavio-bolsonaro-aposta-em-seguranca-publica", "angulo": "Estratégias das duas campanhas para o debate.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "aljazeera", "titulo": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off", "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off", "angulo": "Para o público estrangeiro: \"Última pesquisa mostra Bolsonaro mantendo vantagem sobre Lula\"; dá destaque à vantagem de Flávio.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-16"},
+        {"fonte": "forum", "titulo": "Ex-aliado revela motivo de Flávio Bolsonaro voltar atrás sobre debate na Band: \"não foi coragem\"; vídeo", "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-debate-band/", "angulo": "Usa um ex-aliado para dizer que o recuo de Flávio não foi coragem.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "gazetadopovo", "titulo": "Datafolha divulga pesquisa para presidente no 2º turno", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-segundo-turno/", "angulo": "Números do Datafolha e comparação com a rodada anterior.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Em debate com Flávio, Lula quer discutir “projeto de país”", "url": "https://www.poder360.com.br/poder-eleicoes-2026/em-debate-com-flavio-lula-quer-discutir-projeto-de-pais/", "angulo": "Estratégia de Lula para o debate, contada a partir da campanha petista.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "U.S. News (Reuters)", "vies_materia": "centro", "titulo": "Flavio Bolsonaro Slightly Leads Lula in Brazil Runoff, Quaest Poll Shows", "url": "https://www.usnews.com/news/world/articles/2026-10-14/flavio-bolsonaro-slightly-leads-lula-in-brazil-runoff-quaest-poll-shows", "angulo": "Texto da Reuters: \"Flávio lidera por pouco\"; ressalva que é empate técnico.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-14"},
+        {"fonte": "metropoles", "titulo": "Flávio tenta deixar defensiva e mobilizar aliados na reta final do 2º turno", "url": "https://www.metropoles.com/brasil/flavio-tenta-deixar-defensiva-e-mobilizar-aliados-na-reta-final-do-2o-turno", "angulo": "Bastidores da estratégia de Flávio: atos de rua, viagens ao Norte e Nordeste, ataques a Lula.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "infomoney", "titulo": "Lula e Flávio confirmam debate na Band; confronto pode mudar dinâmica do 2º turno", "url": "https://www.infomoney.com.br/politica/lula-e-flavio-confirmam-debate-na-band-confronto-pode-mudar-dinamica-do-2o-turno/", "angulo": "Peso do debate para a disputa, do ponto de vista do mercado.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "atos-domingo-tse-nega-pedido-novo",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "TSE mantém atos com artistas em apoio a Lula; Flávio faz ato na Paulista no mesmo domingo",
+      "lide": "O corregedor-geral da Justiça Eleitoral rejeitou no sábado o pedido do Novo para barrar shows nos atos \"Brasil nas Ruas\" deste domingo no Rio, em Salvador e em Porto Alegre. Flávio Bolsonaro faz ato na Avenida Paulista com Tarcísio de Freitas e Ricardo Nunes antes do debate.",
+      "contexto": "A Lei das Eleições proíbe showmícios, isto é, apresentações de artistas para animar eventos de campanha. O Novo argumentou que os atos com artistas como Caetano Veloso e Daniela Mercury seriam showmícios em favor de Lula.",
+      "fatos": [
+        {"texto": "O ministro Ricardo Villas Bôas Cueva, corregedor-geral eleitoral, negou no sábado (17) o pedido do Novo para suspender apresentações artísticas e trios elétricos nos atos de domingo em Copacabana (Rio), Salvador e Porto Alegre.", "base": "5 fontes independentes (CNN Brasil, Jovem Pan, Revista Fórum, Brasil 247, O Antagonista)"},
+        {"texto": "Na decisão, Cueva escreveu que a presença de artistas e o apoio público a uma candidatura não bastam, por si só, para caracterizar showmício, e que não há provas de que os atos façam parte da programação oficial da campanha.", "base": "3 fontes independentes (CNN Brasil, Jovem Pan, Diário do RN)"},
+        {"texto": "A decisão diz que eventuais irregularidades durante os atos ainda podem ser apuradas depois pela Justiça Eleitoral.", "base": "3 fontes independentes (CNN Brasil, Diário do RN, Boca)"},
+        {"texto": "Flávio Bolsonaro participa neste domingo de ato na Avenida Paulista com o governador Tarcísio de Freitas e o prefeito Ricardo Nunes.", "base": "4 fontes independentes (Metrópoles, Gazeta do Povo, Revista Oeste, Times Brasil)"},
+        {"texto": "Lula não participa de atos em São Paulo neste domingo; aliados fazem atos descentralizados nas periferias da cidade.", "base": "3 fontes independentes (Metrópoles, Brasil de Fato, Gazeta do Povo)"}
+      ],
+      "inferencias": [
+        {"texto": "Os atos com artistas são showmícios em favor da reeleição de Lula.", "quem": "Partido Novo"},
+        {"texto": "Proibir os eventos sem provas seria restrição prévia à liberdade de expressão e de reunião.", "quem": "Ministro Ricardo Villas Bôas Cueva (TSE)"},
+        {"texto": "Os participantes não vão pedir votos nem usar números, slogans ou jingles de campanha.", "quem": "Produtora organizadora dos atos"},
+        {"texto": "Artistas foram orientados a usar branco e evitar mencionar Lula no palco.", "quem": "Coluna de Milena Teixeira, no Metrópoles"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Aliados de Lula tratam os eventos como atos culturais em defesa da democracia e comemoram a decisão como derrota do Novo.",
+        "oposicao": "Novo e aliados de Flávio dizem que os atos são showmícios disfarçados a favor de Lula e respondem com ato de rua na Paulista."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": "cnnbrasil", "titulo": "TSE mantém atos pró-democracia deste domingo (18) e nega veto a shows", "url": "https://www.cnnbrasil.com.br/eleicoes/tse-mantem-atos-pro-democracia-deste-domingo-18-e-nega-veto-a-shows/", "angulo": "Fundamentos da decisão e a ressalva de que os atos ainda podem ser investigados.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-17"},
+        {"fonte": "antagonista", "titulo": "Novo aciona TSE contra “showmícios” pró-Lula", "url": "https://oantagonista.com.br/brasil/novo-aciona-tse-contra-showmicios-pro-lula/", "angulo": "Apresenta o pedido do Novo e adota o termo \"showmícios\" no título.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "forum", "titulo": "Novo sofre derrota no TSE e não consegue barrar atos de artistas pró-Lula", "url": "https://revistaforum.com.br/politica/novo-sofre-derrota-no-tse-e-nao-consegue-barrar-atos-de-artistas-pro-lula/", "angulo": "Enquadra a decisão como derrota do Novo.", "tipo": "noticia", "enquadramento": "pro_governo", "data": "2026-10-17"},
+        {"fonte": "metropoles", "titulo": "Flávio ocupa Paulista neste domingo; PT aposta em atos descentralizados", "url": "https://www.metropoles.com/sao-paulo/flavio-ocupa-paulista-neste-domingo-pt-aposta-em-atos-descentralizados", "angulo": "Compara as duas estratégias de rua em São Paulo no mesmo dia.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "TSE nega pedido do Novo e libera atos ‘Brasil nas Ruas’ com artistas pró-Lula", "url": "https://jovempan.com.br/politica/tse-nega-pedido-do-novo-e-libera-atos-brasil-nas-ruas-com-artistas-pro-lula/", "angulo": "Relata a decisão e chama os atos de pró-Lula, não de pró-democracia.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-17"},
+        {"fonte": "brasildefato", "titulo": "Atos em apoio a Lula levam mobilização política às periferias de SP no domingo (18); veja agenda", "url": "https://brasildefato.com.br/2026/10/16/atos-em-apoio-a-lula-levam-musica-e-mobilizacao-politica-as-periferias-de-sp-no-domingo-18-veja-agenda", "angulo": "Agenda dos atos pró-Lula nas periferias, do ponto de vista dos organizadores.", "tipo": "noticia", "enquadramento": "pro_governo", "data": "2026-10-16"},
+        {"fonte": "gazetadopovo", "titulo": "Flávio faz ato na Paulista para mobilizar apoiadores no 2º turno", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/ato-em-sao-paulo-busca-consolidar-apoio-flavio-bolsonaro-reta-final-segundo-turno/", "angulo": "Ato da Paulista como consolidação do apoio de Tarcísio a Flávio.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "brasil247", "titulo": "Ministro do TSE rejeita pedido do Novo para barrar atos de artistas em defesa da democracia", "url": "https://www.brasil247.com/brasil/ministro-do-tse-rejeita-pedido-do-novo-para-barrar-atos-de-artistas-em-defesa-da-democracia/", "angulo": "Adota o enquadramento dos organizadores: atos \"em defesa da democracia\".", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "oeste", "titulo": "Tarcísio e Nunes convocam apoiadores para ato com Flávio na Paulista", "url": "https://revistaoeste.com/politica/tarcisio-e-nunes-convocam-apoiadores-para-ato-com-flavio-na-paulista/", "angulo": "Convocação do ato da Paulista feita pelos aliados de Flávio.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "metropoles", "titulo": "\"Atos dia 18\": artistas são orientados a usar branco e evitar Lula no palco", "url": "https://www.metropoles.com/colunas/milena-teixeira/atos-dia-18-artistas-sao-orientados-a-usar-branco-e-evitar-lula-no-palco", "angulo": "Bastidores: orientações aos artistas para evitar caracterização de campanha.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "icl", "titulo": "Ministro do TSE rejeita pedido do Novo para barrar atos de artistas em apoio a Lula", "url": "https://iclnoticias.com.br/ministro-tse-rejeita-pedido-barrar-atos-lula/", "angulo": "Relata a decisão e reconhece no título que os atos são de apoio a Lula.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "Aliados fazem atos pelo país, e Lula e Flávio se enfrentam em debate na TV", "url": "https://www.cnnbrasil.com.br/politica/aliados-fazem-atos-pelo-pais-e-lula-e-flavio-se-enfrentam-em-debate-na-tv/", "angulo": "Panorama do domingo: atos dos dois lados e o debate.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-18"}
+      ]
+    },
+    {
+      "id": "luchsinger-acusa-lula-lulinha",
+      "editoria": "Política",
+      "escopo": "brasil",
+      "titulo": "Lobista investigada no caso INSS acusa Lula de mentir sobre o filho; presidente nega",
+      "lide": "Em entrevista à CNN Brasil no sábado, Roberta Luchsinger, investigada pela Polícia Federal no inquérito das fraudes no INSS, chamou Lula de \"mentiroso\" e disse que Lulinha se reuniu \"inúmeras vezes\" com ministros. Ela não apresentou provas; Lula diz desconhecer os fatos e Lulinha nega irregularidades.",
+      "contexto": "Luchsinger é amiga de Fábio Luís Lula da Silva, o Lulinha, e foi alvo de busca e apreensão e bloqueio de bens na investigação sobre descontos ilegais em aposentadorias do INSS. Em depoimento à PF em maio, confirmou ter apresentado Lulinha a Antônio Carlos Camilo Antunes, o \"Careca do INSS\". Em agosto, Lula a chamou de \"pilantra\" e disse não conhecê-la.",
+      "fatos": [
+        {"texto": "Na entrevista à CNN Brasil, Luchsinger chamou Lula de \"mentiroso\", disse que Lulinha esteve \"inúmeras vezes\" com ministros e afirmou que quer fazer delação premiada.", "base": "5 fontes independentes (CNN Brasil, Jovem Pan, Gazeta do Povo, Revista Fórum, O Tempo)"},
+        {"texto": "Ela não detalhou quando foram os encontros nem o que foi tratado neles.", "base": "3 fontes independentes (Revista Fórum, Jornal Opção, O Tempo)"},
+        {"texto": "Lula disse em nota que \"desconhece inteiramente\" os fatos relatados; a Secom afirmou que ele nunca manteve interlocução com ela e que não há contrato do governo federal com ela.", "base": "3 fontes independentes (CNN Brasil, O Antagonista, Diário do Centro do Mundo)"},
+        {"texto": "A defesa de Lulinha negou irregularidades e disse que a relação dele com ministros é de natureza pessoal.", "base": "2 fontes independentes (ND Mais, Mix Vale)"},
+        {"texto": "Deputados de oposição pediram proteção para Luchsinger depois da entrevista, e Flávio Bolsonaro comemorou a entrevista.", "base": "2 fontes independentes (CNN Brasil, Jovem Pan)"}
+      ],
+      "inferencias": [
+        {"texto": "Lula sabia das reuniões do filho com ministros.", "quem": "Roberta Luchsinger"},
+        {"texto": "É estranho que as acusações apareçam às vésperas do segundo turno.", "quem": "Lula, em nota"},
+        {"texto": "A entrevista repete o episódio de Miriam Cordeiro em 1989, quando um depoimento contra Lula foi usado na reta final da campanha.", "quem": "Revista Fórum"},
+        {"texto": "Luchsinger é uma testemunha que precisa de proteção.", "quem": "Deputados de oposição"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Lulinha se reuniu \"inúmeras vezes\" com ministros com conhecimento de Lula, e Lula mentiu ao negar.", "rotulo": "Em apuração", "explicacao": "A acusação é de uma investigada e veio sem provas, datas ou assuntos. Lula e Lulinha negam. A PF investiga suspeitas de tráfico de influência envolvendo os dois, sem conclusão até agora.", "onde_circula": "Entrevista à CNN Brasil, repercutida por veículos e redes sociais", "checagem": []}
+      ],
+      "enquadramentos": {
+        "governo": "Acusação sem provas, feita por uma investigada que quer delação, às vésperas do segundo turno.",
+        "oposicao": "A entrevista mostraria que Lula mentiu ao negar ligação com a lobista, e a oposição pede proteção para ela como testemunha."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Não encontrei cobertura em Brasil 247, CartaCapital ou Brasil de Fato. Na esquerda, Fórum e DCM trataram o tema pela negativa do Planalto e pela credibilidade da entrevistada. Na direita, as manchetes destacam as acusações e quase não dizem que ela não apresentou provas.",
+      "materias": [
+        {"fonte": "cnnbrasil", "titulo": "À CNN, Roberta Luchsinger rebate Lula: \"Se sou pilantra, eles também são\"", "url": "https://www.cnnbrasil.com.br/politica/a-cnn-roberta-luchsinger-rebate-lula-se-sou-pilantra-eles-tambem-sao/", "angulo": "A entrevista original, com as acusações e a resposta ao \"pilantra\" de Lula.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-17"},
+        {"fonte": "forum", "titulo": "A Miriam Cordeiro da vez: Roberta Luchsinger dá entrevista à CNN", "url": "https://revistaforum.com.br/politica/roberta-luchsinger-entrevista-cnn/", "angulo": "Compara a entrevista a um episódio de 1989 e sugere uso eleitoral.", "tipo": "analise", "enquadramento": "pro_governo"},
+        {"fonte": "jovempan", "titulo": "Luchsinger nega crime, mas diz que fará delação premiada: ‘Lula é mentiroso’", "url": "https://jovempan.com.br/politica/luchsinger-nega-crime-mas-diz-que-fara-delacao-premiada-lula-e-mentiroso/", "angulo": "Destaca a promessa de delação e o ataque a Lula.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "dcm", "titulo": "Planalto nega interlocução de Lula com Roberta Luchsinger após entrevista à CNN", "url": "https://www.diariodocentrodomundo.com.br/secom-rebate-lobista-roberta-luchsinger-e-diz-que-lula-nunca-recebeu-suas-demandas", "angulo": "Abre pela versão do governo.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "gazetadopovo", "titulo": "Lobista chama Lula de “mau caráter” e diz que quer fazer delação", "url": "https://www.gazetadopovo.com.br/republica/lobista-chama-lula-de-mau-carater-e-diz-que-quer-fazer-delacao-que-nao-vai-poupar-ninguem/", "angulo": "Destaca os ataques pessoais a Lula e a promessa de não poupar ninguém.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "poder360", "titulo": "Entrevista de Luchsinger vira meme após críticas a Lula", "url": "https://www.poder360.com.br/poder-gente/entrevista-de-luchsinger-vira-meme-apos-criticas-a-lula/", "angulo": "Repercussão da entrevista nas redes sociais.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "oeste", "titulo": "Roberta Luchsinger quer delatar Lulinha e Lula: 'Não vou poupar'", "url": "https://revistaoeste.com/politica/roberta-luchsinger-quer-delatar-lulinha-e-lula-nao-vou-poupar/", "angulo": "Dá centralidade à delação anunciada, que ainda não foi apresentada formalmente.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "cnnbrasil", "titulo": "Lula diz que \"desconhece inteiramente\" acusações de Roberta Luchsinger", "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-desconhece-inteiramente-acusacoes-de-roberta-luchsinger/", "angulo": "A resposta de Lula em nota, incluindo a crítica ao momento das acusações.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "forum", "titulo": "“Nunca tive um contrato público”, diz Roberta Luchsinger em entrevista à CNN", "url": "https://revistaforum.com.br/politica/nao-sou-socia-do-lulinha-diz-roberta-luchsinger-em-entrevista-a-cnn/", "angulo": "Destaca as negativas da própria entrevistada, não as acusações.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "Flávio comemora entrevista de amiga de Lulinha; deputada pede proteção a testemunha", "url": "https://jovempan.com.br/politica/flavio-comemora-entrevista-de-amiga-de-lulinha-deputada-pede-protecao-a-testemunha/", "angulo": "Reação da oposição à entrevista.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "O Tempo", "vies_materia": "centro", "titulo": "Roberta Luchsinger acusa Lula de mau-caráter e promete delação", "url": "https://www.otempo.com.br/politica/governo/2026/10/17/roberta-luchsinger-chama-lula-de-mau-carater-promete-delacao-e-diz-que-nao-vai-poupar-ninguem", "angulo": "Resumo das acusações, com as respostas de Lula e Lulinha.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-17"}
+      ]
+    },
+    {
+      "id": "dark-horse-delator-pf-contradicao",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "PF aponta contradição em delação sobre dinheiro de Vorcaro para filme sobre Bolsonaro e pede mais 90 dias",
+      "lide": "O delator que enviou US$ 12,3 milhões a um fundo nos EUA a pedido de Daniel Vorcaro diz que não sabia que o dinheiro financiaria o filme \"Dark Horse\", sobre Jair Bolsonaro. A PF aponta documento do próprio delator que cita o filme e pediu ao STF mais prazo; Flávio Bolsonaro, investigado no caso, diz que os recursos eram privados.",
+      "contexto": "Daniel Vorcaro é o ex-dono do Banco Master. O STF investiga o financiamento do filme desde que vieram a público áudios em que Flávio pede recursos a Vorcaro para a produção. O ministro André Mendonça incluiu Flávio como investigado em julho, a pedido da PF.",
+      "fatos": [
+        {"texto": "Antônio Carlos Freixo Júnior, o \"Mineiro\", disse à PF em delação que não sabia que os US$ 12,3 milhões enviados ao fundo Havengate, nos EUA, financiariam o filme e que a operação lhe foi apresentada como investimento imobiliário.", "base": "5 fontes independentes (O Antagonista, Jovem Pan, Revista Fórum, BPMoney, NSC Total)"},
+        {"texto": "A PF aponta que uma carta-acordo apresentada pelo próprio delator cita a produção do filme e um compromisso de US$ 24 milhões.", "base": "3 fontes independentes (Jovem Pan, Diário do Centro do Mundo, BPMoney)"},
+        {"texto": "A PF pediu ao STF mais 90 dias para aprofundar a investigação; o pedido foi para o ministro André Mendonça.", "base": "2 fontes independentes (Jovem Pan, BPMoney)"},
+        {"texto": "Flávio Bolsonaro é investigado no inquérito desde julho, por decisão de André Mendonça a pedido da PF.", "base": "3 fontes independentes (Diário do Grande ABC, Band B, Acessa)"},
+        {"texto": "Flávio nega irregularidades e diz que o dinheiro de Vorcaro para o filme era privado.", "base": "2 fontes independentes (CNN Brasil, Revista Oeste)"}
+      ],
+      "inferencias": [
+        {"texto": "Os fatos investigados podem configurar, em tese, lavagem de dinheiro, evasão de divisas, corrupção ativa e organização criminosa.", "quem": "Polícia Federal"},
+        {"texto": "Uma perícia depois da eleição vai mostrar onde o dinheiro foi gasto, e o filme pode disputar o Oscar.", "quem": "Defesa do filme \"Dark Horse\", segundo coluna do Metrópoles"},
+        {"texto": "Parte dos recursos pode ter custeado Eduardo Bolsonaro nos EUA.", "quem": "Investigadores da PF, segundo reportagens sobre a delação"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Vorcaro não colocou dinheiro no filme \"Dark Horse\".", "rotulo": "Contraditório", "explicacao": "Em maio, a produtora e o deputado Mário Frias negaram aportes de Vorcaro. O próprio Flávio admite ter cobrado o banqueiro pelo patrocínio, e a delação e os documentos apreendidos mostram remessas de pelo menos US$ 12,3 milhões ao fundo ligado ao filme.", "onde_circula": "Declarações da produtora e de aliados de Bolsonaro", "checagem": []}
+      ],
+      "enquadramentos": {
+        "governo": "Aliados de Lula usam o caso para ligar Flávio e Eduardo Bolsonaro ao dinheiro de Vorcaro e do Banco Master.",
+        "oposicao": "Flávio diz que foi patrocínio privado e lícito, sem dinheiro público, e que não sabia de irregularidade."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Na direita, Jovem Pan e O Antagonista cobriram a contradição apontada pela PF, mas não encontrei a delação em Revista Oeste e Gazeta do Povo nesta semana. Na esquerda, o foco é a ligação com Eduardo Bolsonaro, com pouco espaço para a versão do delator de que foi enganado.",
+      "materias": [
+        {"fonte": "jovempan", "titulo": "PF pede mais 90 dias para investigar financiamento de Dark Horse por Vorcaro", "url": "https://jovempan.com.br/politica/pf-pede-mais-90-dias-para-investigar-financiamento-de-dark-horse-por-vorcaro/", "angulo": "Pedido de prazo da PF e a contradição no depoimento do delator.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "dcm", "titulo": "PF aponta contradição em delação sobre dinheiro para filme de Bolsonaro", "url": "https://www.diariodocentrodomundo.com.br/pf-contradicao-delacao-dinheiro-filme-bolsonaro", "angulo": "Abre pela contradição e pela ligação do dinheiro com o filme sobre Bolsonaro.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "antagonista", "titulo": "Vorcaro omitiu destino de dinheiro usado em ‘Dark Horse’, diz delator", "url": "https://oantagonista.com.br/brasil/vorcaro-omitiu-destino-de-dinheiro-usado-em-dark-horse-diz-delator/", "angulo": "Abre pela versão do delator, que joga a responsabilidade em Vorcaro.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "Flávio diz que dinheiro de Vorcaro para Dark Horse era \"privado\"", "url": "https://cnnbrasil.com.br/eleicoes/flavio-diz-que-dinheiro-de-vorcaro-para-dark-horse-era-licito-e-privado", "angulo": "A versão de Flávio.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "forum", "titulo": "Dark Horse: delator diz que Vorcaro ocultou destino dos dólares enviados a fundo ligado a Eduardo Bolsonaro", "url": "https://revistaforum.com.br/politica/dark-horse-vorcaro-ocultou-dolares-eduardo-bolsonaro/", "angulo": "Destaca o fundo ligado a Eduardo Bolsonaro.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "metropoles", "titulo": "Defesa de Dark Horse promete perícia após eleição e prevê disputa por Oscar", "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/defesa-de-dark-horse-promete-pericia-apos-eleicao-e-preve-disputa-por-oscar", "angulo": "A versão da defesa do filme.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "BPMoney", "vies_materia": "centro", "titulo": "Delator afirma que Vorcaro ocultou destino de dinheiro enviado aos EUA para filme sobre Bolsonaro", "url": "https://bpmoney.com.br/politica/delator-vorcaro-ocultou-destino-dinheiro-filme-bolsonaro/", "angulo": "Valores, caminho do dinheiro e pontos que a PF considera contraditórios.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Filme “Dark Horse” recebeu R$ 65 milhões de Daniel Vorcaro", "url": "https://www.poder360.com.br/poder-justica/filme-dark-horse-recebeu-r-65-milhoes-de-daniel-vorcaro/", "angulo": "Soma do valor total que chegou à produção, segundo documentos.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "NSC Total", "vies_materia": "centro", "titulo": "Vorcaro teria omitido que dinheiro enviado aos EUA seria para filme sobre Bolsonaro, diz delator", "url": "https://www.nsctotal.com.br/seguranca/vorcaro-teria-omitido-que-dinheiro-enviado-aos-eua-seria-para-filme-sobre-bolsonaro-diz-delator", "angulo": "Conta a versão do delator usando o condicional.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "fumaca-queimadas-amazonas",
+      "editoria": "Meio ambiente",
+      "escopo": "brasil",
+      "titulo": "Fumaça de queimadas fecha aeroportos de Manaus e trava combate aéreo ao fogo no Amazonas",
+      "lide": "No sábado, a fumaça impediu que aviões de combate a incêndios decolassem de Manaus, e o governo federal anunciou reforço de aeronaves e recursos. O Amazonas tem o dobro de focos de incêndio do ano passado, e a capital suspendeu aulas várias vezes em outubro.",
+      "contexto": null,
+      "fatos": [
+        {"texto": "No sábado (17), a fumaça impediu a decolagem de aviões de combate a incêndios em Manaus; o Ibama informou que a visibilidade ficou abaixo do mínimo nos dois aeroportos usados na operação.", "base": "4 fontes independentes (Folhapress via O Tempo, Revista Oeste, Gazeta do Povo, CNN Brasil)"},
+        {"texto": "O governo federal anunciou que as aeronaves disponíveis no Amazonas passam de 11 para 16, incluindo um segundo cargueiro KC-390, além de R$ 14 milhões da Defesa Civil Nacional.", "base": "3 fontes independentes (CNN Brasil, ND Mais, Mix Vale)"},
+        {"texto": "Segundo o Inpe, o Amazonas registrou 7.815 focos de incêndio de 1º de janeiro a 12 de outubro, 116% a mais que no mesmo período de 2025.", "base": "Dados do Inpe citados pela Folhapress e por boletim do MPC-AM"},
+        {"texto": "A Prefeitura de Manaus suspendeu as aulas presenciais da rede municipal em vários dias de outubro por causa da qualidade do ar.", "base": "4 fontes independentes (Agência Brasil, ac24horas, BPMoney, Portal Em Tempo)"}
+      ],
+      "inferencias": [
+        {"texto": "A seca prolongada, ligada ao El Niño, é a principal causa do aumento dos focos.", "quem": "O Tempo (opinião) e Itatiaia, citando dados do ClimaInfo"},
+        {"texto": "Manaus registrou no sábado a pior qualidade do ar do mundo.", "quem": "Portal Em Tempo, com base em medições de índice de qualidade do ar"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "Não encontrei cobertura recente em veículos de esquerda (CartaCapital, Brasil de Fato) nem na imprensa estrangeira. A cobertura nacional trata sobretudo da logística do combate ao fogo e fala pouco de causas e de quem está pondo fogo.",
+      "materias": [
+        {"fonte": "cnnbrasil", "titulo": "Baixa visibilidade no Amazonas impacta voos de combate a incêndios", "url": "https://www.cnnbrasil.com.br/nacional/norte/baixa-visibilidade-no-amazonas-impacta-voos-de-combate-a-incendios/", "angulo": "Detalha missões aéreas interrompidas e o aumento da frota.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "gazetadopovo", "titulo": "Fumaça impede voos para combate a incêndios no Amazonas", "url": "https://www.gazetadopovo.com.br/brasil/fumaca-impede-voos-de-aeronaves-que-combatem-incendios-no-amazonas/", "angulo": "Frota e efetivo em campo, com base no Ibama.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "agenciabrasil", "titulo": "Manaus atinge níveis graves de poluição do ar por fumaça de queimadas", "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/manaus-atinge-niveis-graves-de-poluicao-do-ar-por-fumaca-de-queimadas", "angulo": "Efeito na saúde e suspensão de aulas, no início do episódio.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "oeste", "titulo": "Fumaça das queimadas fecha aeroportos e paralisa combate aéreo no Amazonas", "url": "https://revistaoeste.com/brasil/fumaca-das-queimadas-fecha-aeroportos-e-paralisa-combate-aereo-no-amazonas/", "angulo": "Paralisação do combate aéreo e distribuição da frota pelo estado.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "O Tempo (Folhapress)", "vies_materia": "centro", "titulo": "Fumaça impede decolagem de aviões que combatem incêndios florestais na Amazônia", "url": "https://www.otempo.com.br/brasil/2026/10/17/fumaca-impede-decolagem-de-avioes-que-combatem-incendios-florestais-na-amazonia", "angulo": "Texto da agência da Folha, com os dados do Inpe sobre focos.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-17"},
+        {"fonte": "metropoles", "titulo": "FAB envia reforço aéreo para combater queimadas no Amazonas", "url": "https://www.metropoles.com/brasil/fab-envia-reforco-aereo-para-combater-queimadas-no-amazonas", "angulo": "Reforço militar e alerta da Defesa Civil.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "ND Mais", "vies_materia": "centro", "titulo": "Após dias de fumaça, governo federal amplia combate aos incêndios no Amazonas com cinco aeronaves, reforço militar e R$ 14 milhões para reforçar operações", "url": "https://ndmais.com.br/meio-ambiente/governo-combate-incendios-amazonas/", "angulo": "Abre pelo anúncio do governo federal.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Portal Em Tempo", "vies_materia": "centro", "titulo": "Manaus registra pior qualidade do ar do mundo com fumaça de queimadas", "url": "https://emtempo.com.br/610088/amazonas/manaus-pior-qualidade-ar-mundo-fumaca-queimadas/", "angulo": "Visão local: índice de poluição e impacto no dia a dia da capital.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "FAB lança 36 mil litros de água no Amazonas em meio à fumaça", "url": "https://www.cnnbrasil.com.br/nacional/norte/am/fab-lanca-36-mil-litros-de-agua-no-amazonas-em-meio-a-fumaca/", "angulo": "Operação do KC-390 perto de Parintins.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "trump-suspende-sancoes-russia",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Trump suspende sanções contra a Rússia que ele mesmo sancionou em setembro",
+      "lide": "Donald Trump assinou na sexta-feira ordem que suspende sanções e tarifas da nova lei contra a Rússia, dias antes de elas entrarem em vigor, alegando interesse nacional. O Kremlin comemorou; democratas, republicanos e Zelensky criticaram.",
+      "contexto": "A suspensão vem uma semana depois de Trump anunciar, após telefonema com Vladimir Putin, um acordo para os EUA comprarem diesel russo, com o objetivo declarado de baixar o preço dos combustíveis. Os preços subiram com a guerra entre EUA, Israel e Irã, iniciada em 28 de fevereiro.",
+      "fatos": [
+        {"texto": "Trump assinou em 16 de outubro ordem que suspende a aplicação das sanções e tarifas da lei de sanções à Rússia, que ele sancionou em setembro, pouco antes do prazo legal de implementação.", "base": "6 fontes independentes (AP via U.S. News, Washington Post, Axios, Al Jazeera, CNN Brasil, InfoMoney)"},
+        {"texto": "Trump certificou ao Congresso que a isenção atende ao interesse nacional dos EUA, sem dar mais detalhes.", "base": "3 fontes independentes (Washington Post, Axios, CNN Brasil)"},
+        {"texto": "A lei previa tarifas de até 100% sobre produtos dos maiores compradores de petróleo ou gás russo, além de sanções a autoridades, bancos e à frota paralela de petroleiros russos.", "base": "3 fontes independentes (Al Jazeera, InfoMoney, CNN Brasil)"},
+        {"texto": "O enviado do Kremlin Kirill Dmitriev chamou a decisão de \"momento histórico\"; Zelensky a classificou como \"equivocada\".", "base": "3 fontes independentes (CNN Brasil, Diário de Notícias, Washington Post)"},
+        {"texto": "Em 9 de outubro, depois de telefonar para Putin, Trump anunciou acordo para os EUA receberem diesel russo, e o Tesouro emitiu licença temporária para essas compras.", "base": "3 fontes independentes (AP, Boston Globe, Outlook Business)"}
+      ],
+      "inferencias": [
+        {"texto": "A isenção atende ao interesse nacional, e o diesel russo vai baixar o preço dos combustíveis nos EUA.", "quem": "Donald Trump"},
+        {"texto": "O recuo busca aliviar o preço dos combustíveis antes das eleições legislativas americanas de novembro.", "quem": "Cobertura da AP"},
+        {"texto": "As isenções \"não têm nada a ver com a nossa segurança nacional\".", "quem": "Senador Richard Blumenthal, coautor da lei"},
+        {"texto": "A suspensão favorece Vladimir Putin.", "quem": "Volodymyr Zelensky"},
+        {"texto": "Não é momento de aliviar sanções à Rússia.", "quem": "António Costa, presidente do Conselho Europeu"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "A imprensa brasileira (CNN Brasil, InfoMoney, Jovem Pan, Brasil 247, Gazeta do Povo) tratou o assunto como notícia internacional. Não encontrei análise sobre efeitos para o Brasil, embora a lei suspensa previsse tarifas sobre grandes compradores de petróleo e gás russos.",
+      "ponto_cego": "Não encontrei cobertura da Fox News nos resultados; a crítica republicana aparece sobretudo em veículos de centro e centro-esquerda.",
+      "materias": [
+        {"fonte": null, "veiculo": "U.S. News (AP)", "vies_materia": "centro", "titulo": "Trump Puts New Russia Sanctions Passed by Congress on Hold, Saying Waiver Is in US National Interest", "url": "https://www.usnews.com/news/politics/articles/2026-10-16/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-saying-waiver-is-in-us-national-interest", "angulo": "Texto da AP: \"Trump suspende novas sanções à Rússia aprovadas pelo Congresso\"; foco na base legal.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-16"},
+        {"fonte": "gazetadopovo", "titulo": "Trump suspende temporariamente sanções contra a Rússia", "url": "https://www.gazetadopovo.com.br/mundo/trump-suspende-temporariamente-sancoes-contra-a-russia-para-proteger-o-interesse-nacional/", "angulo": "Destaca o caráter temporário e a justificativa de interesse nacional.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "wapo", "titulo": "Trump’s waiver of sanctions on Russia stirs bipartisan outrage", "url": "https://www.washingtonpost.com/politics/2026/10/17/trump-signs-executive-order-waiving-sanctions-against-russia/", "angulo": "\"Isenção de Trump a sanções contra a Rússia provoca revolta bipartidária\"; foco na reação no Congresso.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "brasil247", "titulo": "Trump decide suspender sanções contra a Rússia", "url": "https://www.brasil247.com/mundo/trump-decide-suspender-sancoes-contra-a-russia/", "angulo": "Relato direto da decisão.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "axios", "titulo": "Trump waives new Russia sanctions in the \"national interests\"", "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions", "angulo": "\"Trump dispensa novas sanções à Rússia em nome do interesse nacional\"; cita o texto da ordem.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "jovempan", "titulo": "Trump derruba lei que estabelecia novas sanções e tarifas contra a Rússia", "url": "https://jovempan.com.br/mundo/trump-derruba-lei-que-estabelecia-novas-sancoes-e-tarifas-contra-a-russia/", "angulo": "O título fala em \"derrubar a lei\", mas o que houve foi uma isenção prevista na própria lei.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "aljazeera", "titulo": "Trump puts on hold new Russia sanctions he signed into law", "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law", "angulo": "\"Trump suspende novas sanções à Rússia que transformou em lei\"; destaca a contradição.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "infomoney", "titulo": "Trump suspende sanções e tarifas à Rússia pouco antes de lei entrar em vigor", "url": "https://www.infomoney.com.br/mundo/trump-suspende-sancoes-e-tarifas-a-russia-pouco-antes-de-lei-entrar-em-vigor/", "angulo": "Tarifas sobre compradores de energia russa e a ligação com o acordo do diesel.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "cnnbrasil", "titulo": "Zelensky critica suspensão de sanções à Rússia por Trump: \"equivocada\"", "url": "https://www.cnnbrasil.com.br/internacional/zelensky-critica-suspensao-de-sancoes-a-russia-por-trump-equivocada/", "angulo": "A reação da Ucrânia.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Euronews", "vies_materia": "centro", "titulo": "Trump signs executive order waiving new Russia sanctions package", "url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package", "angulo": "\"Trump assina ordem que dispensa novo pacote de sanções à Rússia\"; com a reação europeia.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": null, "veiculo": "Outlook Business", "vies_materia": "centro", "titulo": "Trump Springs Surprise With Russia Diesel Deal After Putin Talks", "url": "https://www.outlookbusiness.com/news/trump-springs-surprise-with-russia-diesel-deal-after-putin-talks", "angulo": "Antecedente: \"Trump surpreende com acordo de diesel russo após conversa com Putin\".", "tipo": "noticia", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "franca-protestos-custo-de-vida",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Protestos contra o custo de vida na França têm saques, incêndios e centenas de detidos",
+      "lide": "Centenas de milhares de pessoas protestaram no sábado na França contra a alta dos combustíveis, da energia e dos alimentos. Os atos foram em maioria pacíficos, mas tiveram saques e ataques a prefeituras, e o número de detidos cresceu ao longo do fim de semana.",
+      "contexto": "O preço dos combustíveis na Europa subiu com a guerra no Oriente Médio. Os protestos começaram em escolas da periferia de Paris e passaram a reunir estudantes, sindicatos e ex-integrantes dos \"coletes amarelos\", a seis meses da eleição presidencial de 2027.",
+      "fatos": [
+        {"texto": "O Ministério do Interior estimou cerca de 550 mil manifestantes em todo o país; os organizadores falaram em até 800 mil.", "base": "3 fontes independentes (Euronews, Brasil 247, Correio Braziliense)"},
+        {"texto": "Houve saques a lojas em várias cidades, e a prefeitura de Limoges foi incendiada.", "base": "4 fontes independentes (Euronews, ABC News/AP, Metrópoles, Correio Braziliense)"},
+        {"texto": "O número de detidos foi crescendo conforme os balanços oficiais: cerca de 400 no primeiro balanço do ministro do Interior, Laurent Nuñez, e cerca de 1.200 na noite de sábado.", "base": "3 fontes independentes (ABC News/AP, Nation Thailand, Brasil 247)"},
+        {"texto": "Emmanuel Macron escreveu que quem destruiu e saqueou prédios públicos e lojas será processado e punido.", "base": "2 fontes independentes (Correio Braziliense, Euronews)"}
+      ],
+      "inferencias": [
+        {"texto": "Os protestos são um indicador do clima social rumo à eleição que vai escolher o sucessor de Macron.", "quem": "AFP"},
+        {"texto": "A França está \"à beira\" de um momento decisivo na crise da dívida.", "quem": "Analista ouvido pela Fortune"},
+        {"texto": "Grupos políticos estão explorando as reivindicações dos estudantes.", "quem": "Governo francês"},
+        {"texto": "A violência nos protestos tem relação com a imigração.", "quem": "JD Vance, vice-presidente dos EUA, segundo coluna da Jovem Pan"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "Veículos brasileiros de todos os lados cobriram. A Gazeta do Povo tratou como \"Europa em ebulição\", a Jovem Pan destacou a fala de JD Vance sobre imigração e o Brasil 247 abriu pelo tamanho dos atos. O Brasil também sofre com a alta dos combustíveis: o governo prorrogou em 9 de outubro a desoneração da gasolina.",
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": null, "veiculo": "Euronews", "vies_materia": "centro", "titulo": "France reels after cost-of-living protests see widespread violence", "url": "https://www.euronews.com/2026/10/18/france-reels-after-cost-of-living-protests-see-widespread-violence", "angulo": "\"França abalada após protestos contra custo de vida terem violência generalizada\"; balanço do dia seguinte.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-18"},
+        {"fonte": "brasil247", "titulo": "França tem 550 mil nas ruas, confrontos e 400 detidos em protestos (vídeo)", "url": "https://www.brasil247.com/mundo/franca-tem-550-mil-nas-ruas-confrontos-e-400-detidos-em-protestos-video/", "angulo": "Abre pelo tamanho da mobilização.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "jovempan", "titulo": "França contabiliza destruição após saques e incêndios; Vance culpa imigração", "url": "https://jovempan.com.br/colunistas/eliseu-caetano/franca-contabiliza-destruicao-apos-saques-e-incendios-vance-culpa-imigracao/", "angulo": "Coluna que destaca a destruição e a leitura de JD Vance sobre imigração.", "tipo": "opiniao", "enquadramento": null},
+        {"fonte": "aljazeera", "titulo": "Tear gas and unrest as hundreds of thousands protest for reforms in France", "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests", "angulo": "\"Gás lacrimogêneo e tumulto enquanto centenas de milhares protestam por reformas\"; foco nas reivindicações.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "gazetadopovo", "titulo": "Protestos se intensificam pela Europa com destruição e vandalismo", "url": "https://www.gazetadopovo.com.br/mundo/europa-em-ebulicao-protestos-se-intensificam-com-destruicao-e-vandalismo/", "angulo": "Abre pela destruição e pelo vandalismo e amplia para a Europa.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "correiobraziliense", "titulo": "'Tomamos a Bastilha': Protestos contra o custo de vida abalam na França", "url": "https://www.correiobraziliense.com.br/mundo/2026/10/7522753-tomamos-a-bastilha-protestos-contra-o-custo-de-vida-abalam-na-franca.html", "angulo": "Dá voz aos manifestantes e traz o balanço de detidos e feridos.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "ABC News (AP)", "vies_materia": "centro", "titulo": "Clashes, fires and looting break out as protesters rally across France", "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706", "angulo": "Texto da AP: \"Confrontos, incêndios e saques\"; números oficiais de detidos.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "metropoles", "titulo": "Protestos na França tem ataque a prefeituras e atos em diversas cidades", "url": "https://www.metropoles.com/mundo/protestos-na-franca-tem-ataque-a-prefeituras-e-atos-em-diversas-cidades", "angulo": "Ataques a prédios públicos.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Fortune", "vies_materia": "centro", "titulo": "'France, truly, is on the brink' and just days away from a make-or-break moment in its debt crisis, analyst warns, as protests turn into riots", "url": "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/", "angulo": "Visão do mercado: liga os protestos à crise da dívida e à votação do orçamento.", "tipo": "analise", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "jovempan", "titulo": "‘Estamos sufocando’: entenda o que está por trás dos protestos na França", "url": "https://jovempan.com.br/mundo/estamos-sufocando-entenda-o-que-esta-por-tras-dos-protestos-na-franca/", "angulo": "Explica as causas econômicas dos protestos.", "tipo": "analise", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "ormuz-minas-petroleiros-ira",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Irã diz que petroleiros bateram em minas em Ormuz; não há confirmação independente",
+      "lide": "No sábado, a Guarda Revolucionária do Irã afirmou que petroleiros pegaram fogo ao atingir minas no Estreito de Ormuz por usarem uma rota não autorizada. Os ataques a navios na região aumentaram nas últimas semanas, e o petróleo chegou perto de US$ 110 o barril.",
+      "contexto": "EUA e Israel iniciaram a guerra contra o Irã em 28 de fevereiro. Os EUA mantêm bloqueio aos portos iranianos, e o Irã diz que intensificou os ataques em resposta. Ormuz é a principal saída do petróleo do Golfo Pérsico.",
+      "fatos": [
+        {"texto": "A Marinha da Guarda Revolucionária disse no sábado (17) que petroleiros com cerca de 2 milhões de barris cada atingiram minas e pegaram fogo no Estreito de Ormuz; segundo ela, os navios tinham desligado o rastreamento e usado rota não autorizada pelo Irã.", "base": "4 fontes independentes (Reuters via Investing.com, Channels TV, InfoMoney, CNN Brasil)"},
+        {"texto": "A identidade dos navios e a causa das explosões não foram confirmadas de forma independente.", "base": "3 fontes independentes (Reuters, Poder Naval, Business Recorder)"},
+        {"texto": "O porta-contêineres GFS Pride afundou depois de ser atingido por um projétil não identificado em Ormuz em 13 de outubro; os 21 tripulantes foram resgatados, segundo a autoridade marítima de Singapura.", "base": "2 fontes independentes (Poder Naval, Times Brasil), citando a autoridade marítima de Singapura"},
+        {"texto": "O Brent fechou a sexta-feira perto de US$ 110 o barril, o maior valor desde maio.", "base": "Dados de mercado da Reuters reproduzidos por Fox News e Sunday Guardian"}
+      ],
+      "inferencias": [
+        {"texto": "O Irã está intensificando os ataques no estreito em resposta ao bloqueio americano aos seus portos.", "quem": "Governo do Irã"},
+        {"texto": "A economia global vai melhorar se os EUA retirarem suas forças do Oriente Médio.", "quem": "Governo do Irã, segundo a Fox News"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Os petroleiros atingiram minas por usarem uma rota não autorizada pelo Irã.", "rotulo": "Em apuração", "explicacao": "A versão vem só da Guarda Revolucionária e da mídia estatal iraniana. Não há confirmação independente da identidade dos navios, da causa das explosões ou da rota usada.", "onde_circula": "Mídia estatal iraniana e Telegram da Guarda Revolucionária", "checagem": []},
+        {"alegacao": "O cargueiro afundado em 13 de outubro bateu numa mina.", "rotulo": "Contraditório", "explicacao": "A Guarda Revolucionária atribuiu o naufrágio a uma mina; a autoridade marítima de Singapura disse que o GFS Pride foi atingido por um projétil não identificado.", "onde_circula": "Mídia estatal iraniana", "checagem": []}
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, a alta do petróleo chega pela bomba: em 9 de outubro o governo prorrogou por 30 dias a desoneração da gasolina, zerando PIS/Cofins e Cide, e ampliou o subsídio ao diesel, citando a alta do petróleo.",
+      "ponto_cego": "A cobertura brasileira reproduz quase só os comunicados da Guarda Revolucionária, via agências, com pouca verificação independente e pouco contexto sobre o bloqueio americano.",
+      "materias": [
+        {"fonte": null, "veiculo": "Investing.com (Reuters)", "vies_materia": "centro", "titulo": "Guarda Revolucionária do Irã afirma que dois petroleiros atingiram minas no Estreito de Ormuz Por Reuters", "url": "https://br.investing.com/news/commodities-news/guarda-revolucionaria-do-ira-afirma-que-dois-petroleiros-atingiram-minas-no-estreito-deormuz-2094479", "angulo": "Texto da Reuters, que ressalva a falta de confirmação independente.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "foxnews", "titulo": "Iran says 'global economy will improve' if US removes forces from the Middle East", "url": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-10-17-26", "angulo": "Cobertura ao vivo: \"Irã diz que economia global vai melhorar se EUA retirarem forças\"; com o efeito no preço do petróleo e nas eleições americanas.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "infomoney", "titulo": "Irã diz que petroleiro com mais de 2 milhões de barris explodiu após atingir mina", "url": "https://www.infomoney.com.br/mundo/ira-diz-que-petroleiro-com-mais-de-2-milhoes-de-barris-explodiu-apos-atingir-mina/", "angulo": "Versão iraniana e reflexo no mercado de petróleo.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "brasil247", "titulo": "Guarda Revolucionária do Irã diz que petroleiro pegou fogo após explosão perto do Estreito de Ormuz", "url": "https://www.brasil247.com/mundo/guarda-revolucionaria-do-ira-diz-que-petroleiro-pegou-fogo-apos-explosao-perto-do-estreito-de-ormuz/", "angulo": "Reproduz o comunicado iraniano.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Poder Naval", "vies_materia": "centro", "titulo": "Afundamentos de mercantes agravam crise em Ormuz em meio a ataques atribuídos ao Irã", "url": "https://www.naval.com.br/blog/2026/10/17/afundamentos-de-mercantes-agravam-crise-em-ormuz-em-meio-a-ataques-atribuidos-ao-ira/", "angulo": "Análise especializada: separa o que foi confirmado do que é só versão iraniana.", "tipo": "analise", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": null, "veiculo": "Channels Television", "vies_materia": "centro", "titulo": "Oil Tankers Catch Fire After Hitting Mines In Hormuz — Iran's Guards", "url": "https://www.channelstv.com/2026/10/17/oil-tankers-catch-fire-after-hitting-mines-in-hormuz-irans-guards/", "angulo": "\"Petroleiros pegam fogo após atingir minas em Ormuz, diz Guarda iraniana\"; texto de agência.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": null, "veiculo": "Times Brasil", "vies_materia": "centro", "titulo": "Navio afunda no Estreito de Ormuz após ser atingido por projétil", "url": "https://timesbrasil.com.br/mundo/navio-porta-conteineres-afunda-no-estreito-de-ormuz-em-meio-a-intensificacao-dos-ataques-do-ira/", "angulo": "O naufrágio do porta-contêineres e a escalada dos ataques.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Rádio Europa Livre", "vies_materia": "centro", "titulo": "Iran Says Supertanker Hit Mine In Strait of Hormuz", "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html", "angulo": "Cobertura ao vivo: \"Irã diz que superpetroleiro atingiu mina em Ormuz\".", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Business Recorder", "vies_materia": "centro", "titulo": "Iran says two tankers hit mines in Hormuz", "url": "https://www.brecorder.com/news/40444762/iran-says-two-tankers-hit-mines-in-hormuz", "angulo": "Visão do Paquistão: \"Irã diz que dois petroleiros atingiram minas\"; contexto de outros navios atingidos.", "tipo": "noticia", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "papa-leao-alta-cirurgia-pulmao",
+      "editoria": "Saúde",
+      "escopo": "mundo",
+      "titulo": "Papa Leão XIV deixa o hospital após cirurgia de câncer de pulmão e reza o Angelus",
+      "lide": "Leão XIV teve alta no sábado, quatro dias depois de retirar parte do pulmão direito por causa de um adenocarcinoma, e rezou o Angelus neste domingo da janela do apartamento papal. O Vaticano ainda não informou o tamanho do tumor nem se ele se espalhou.",
+      "contexto": "O papa anunciou em 11 de outubro, na Praça de São Pedro, que tinha um nódulo no pulmão e seria operado.",
+      "fatos": [
+        {"texto": "Leão XIV foi operado em 13 de outubro no hospital Gemelli, em Roma, para retirar o lobo inferior do pulmão direito; o exame confirmou adenocarcinoma de pulmão.", "base": "5 fontes independentes (Vatican News, NBC, CBS, NPR, CNN Brasil)"},
+        {"texto": "Ele teve alta no sábado (17), depois de exames de sangue e raio-X de tórax, segundo nota dos médicos Luigi Carbone e Stefano Margaritora.", "base": "nota médica divulgada pelo Vaticano, reproduzida por Vatican News, CBS e Metrópoles"},
+        {"texto": "Neste domingo, ele rezou o Angelus da janela do apartamento papal e disse que vai retomar as atividades gradualmente.", "base": "3 fontes independentes (Metrópoles, Brasil 247, Imirante)"},
+        {"texto": "O Vaticano não divulgou o tamanho do tumor nem se a doença atingiu os linfonodos.", "base": "3 fontes independentes (NBC, CBS, CNN Brasil)"},
+        {"texto": "A viagem prevista para 6 a 17 de novembro ao Uruguai, à Argentina e ao Peru não foi cancelada; o Brasil não está no roteiro.", "base": "2 fontes independentes (Itatiaia, SBT News)"}
+      ],
+      "inferencias": [
+        {"texto": "O prognóstico é \"muito bom\".", "quem": "Médicos de fora do Vaticano ouvidos pela imprensa americana"},
+        {"texto": "Em uma pessoa com boa saúde geral, o prognóstico de um câncer de pulmão detectado tão cedo é absolutamente favorável.", "quem": "Vaticano, segundo a imprensa brasileira"},
+        {"texto": "A viagem à América do Sul é incerta, porque cirurgiões costumam recomendar evitar voos por três semanas depois desse tipo de operação.", "quem": "SBT News"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "Para o Brasil, maior país católico do mundo, a cobertura acompanha a recuperação e a viagem de novembro à América do Sul, que inclui países vizinhos mas não o Brasil.",
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": null, "veiculo": "Vatican News", "vies_materia": "centro", "titulo": "O Papa deixa o Hospital Gemelli no início da tarde. Amanhã ele fará a oração do Angelus no Vaticano", "url": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-gemelli-alta-hospitalar-hospital-sala-imprensa.html", "angulo": "Comunicado oficial da Santa Sé sobre a alta.", "tipo": "fonte_primaria", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "foxnews", "titulo": "Pope Leo XIV discharged from hospital, will return to Vatican after surgery to remove lung cancer", "url": "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer", "angulo": "\"Papa recebe alta e volta ao Vaticano após cirurgia de câncer de pulmão\"; relato factual.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "brasil247", "titulo": "Papa Leão XIV reaparece no Vaticano após cirurgia e anuncia retomada das atividades", "url": "https://www.brasil247.com/mundo/papa-leao-xiv-reaparece-no-vaticano-apos-cirurgia-e-anuncia-retomada-das-atividades/", "angulo": "A primeira aparição pública e a fala sobre a retomada gradual.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-18"},
+        {"fonte": "npr", "titulo": "Pope Leo XIV leaves hospital days after lung cancer surgery", "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery", "angulo": "\"Papa deixa o hospital dias após cirurgia\"; nota que a alta veio antes do previsto.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": "jovempan", "titulo": "Vaticano diz que papa Leão receberá alta hospitalar neste sábado", "url": "https://jovempan.com.br/mundo/vaticano-diz-que-papa-leao-recebera-alta-hospitalar-neste-sabado/", "angulo": "Anúncio da alta com base no comunicado do Vaticano.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "NBC News", "vies_materia": "centro", "titulo": "Pope Leo discharged from hospital after lung cancer surgery", "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-discharged-hospital-lung-cancer-surgery-rcna604005", "angulo": "\"Papa recebe alta após cirurgia\"; traz avaliação de médicos de fora sobre o prognóstico.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "metropoles", "titulo": "Papa Leão XIV realiza a oração do Angelus no Vaticano após deixar hospital", "url": "https://www.metropoles.com/mundo/papa-leao-xiv-realiza-a-oracao-do-angelus-no-vaticano-apos-deixar-hospital", "angulo": "O Angelus deste domingo e a fala do papa.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-18"},
+        {"fonte": "cartacapital", "titulo": "Leão XIV retorna ao Vaticano neste sábado após cirurgia no pulmão", "url": "https://www.cartacapital.com.br/mundo/leao-xiv-retorna-ao-vaticano-neste-sabado-apos-cirurgia-no-pulmao/", "angulo": "Relato da alta e da recuperação.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "sbt", "titulo": "Após cirurgia, viagem do Papa à América do Sul é incerta", "url": "https://sbtnews.sbt.com.br/noticia/mundo/apos-cirurgia-viagem-do-papa-a-america-do-sul-ainda-e-incerta", "angulo": "Dúvida sobre a viagem de novembro.", "tipo": "analise", "enquadramento": null},
+        {"fonte": null, "veiculo": "CBS News", "vies_materia": "centro", "titulo": "Pope Leo discharged from hospital 4 days after surgery for lung cancer", "url": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance/", "angulo": "\"Papa recebe alta 4 dias após cirurgia\"; diz o que ainda não se sabe sobre o tumor.", "tipo": "noticia", "enquadramento": null}
+      ]
+    }
+  ]
+}

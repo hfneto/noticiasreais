@@ -20,7 +20,7 @@
     {"id": "valor", "nome": "Valor Econômico", "dominios": ["valor.globo.com"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Globo", "base": "curadoria"},
     {"id": "uol", "nome": "UOL", "dominios": ["noticias.uol.com.br", "uol.com.br"], "pais": "BR", "vies": "centro_esquerda", "propriedade": "familiar", "dono": "Grupo UOL (família Frias)", "base": "curadoria"},
     {"id": "cnnbrasil", "nome": "CNN Brasil", "dominios": ["cnnbrasil.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "Novus Mídia (licença CNN)", "base": "curadoria"},
-    {"id": "band", "nome": "Band", "dominios": ["band.uol.com.br", "bandnewstv.com.br"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Bandeirantes (família Saad)", "base": "curadoria"},
+    {"id": "band", "nome": "Band", "dominios": ["band.uol.com.br", "band.com.br", "bandnewstv.com.br"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Bandeirantes (família Saad)", "base": "curadoria"},
     {"id": "r7", "nome": "R7 / Record", "dominios": ["r7.com"], "pais": "BR", "vies": "centro_direita", "propriedade": "religioso", "dono": "Grupo Record (Edir Macedo, Igreja Universal)", "base": "curadoria"},
     {"id": "sbt", "nome": "SBT News", "dominios": ["sbtnews.sbt.com.br"], "pais": "BR", "vies": "centro_direita", "propriedade": "familiar", "dono": "Grupo Silvio Santos", "base": "curadoria"},
     {"id": "jovempan", "nome": "Jovem Pan", "dominios": ["jovempan.com.br"], "pais": "BR", "vies": "direita", "propriedade": "familiar", "dono": "Grupo Jovem Pan (família Machado de Carvalho)", "base": "curadoria"},
