@@ -1,5 +1,5 @@
 // Shell em cache para abrir offline; dados sempre tentam a rede primeiro.
-const VERSAO = "nr-v1";
+const VERSAO = "nr-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/apple-touch-icon.png", "data/fontes.json"];
 
 self.addEventListener("install", e => {

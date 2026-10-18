@@ -18,24 +18,24 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&display=swap">
 <style>
-/* Feed de cartões com barra de espectro; matéria em blocos fixos (Fatos, Inferências, Em disputa...). Cores de viés fora do eixo azul/vermelho partidário. */
+/* Feed de cartões com barra de espectro; matéria em blocos fixos (Fatos, Inferências, Em disputa...). Esquerda em vermelho, direita em azul; disputa em laranja para não confundir com a esquerda. */
 :root{
-  --bg:#F3F4EF; --card:#FBFBF8; --ink:#1B2030; --muted:#5E6371; --line:#D8DACF; --acc:#21386A; --acc-ink:#FFFFFF; --soft:#E7E9E1;
-  --L:#14857C; --C:#7B8693; --R:#B97A12; --X:#6656B8;
-  --ok:#2C7A4B; --inf:#8A6D12; --bad:#B23C35;
+  --bg:#F3F4EF; --card:#FBFBF8; --ink:#1B2030; --muted:#5E6371; --line:#D8DACF; --acc:#1F5C55; --acc-ink:#FFFFFF; --soft:#E7E9E1;
+  --L:#C0392B; --C:#7B8693; --R:#2F5FB3; --X:#7A4FB0;
+  --ok:#2C7A4B; --inf:#8A6D12; --bad:#B4530A;
   --f-d:"Newsreader",Georgia,"Times New Roman",serif;
   --f-b:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
   --top:env(safe-area-inset-top,0px); --bot:env(safe-area-inset-bottom,0px);
   color-scheme:light;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#16181D; --card:#1D2027; --ink:#ECEDF0; --muted:#A0A4AE; --line:#30343C; --acc:#9DB4E8; --acc-ink:#11141A; --soft:#252932;
-  --L:#3DBDB1; --C:#9AA5B2; --R:#E0A43C; --X:#9C8EEA;
-  --ok:#5CC48A; --inf:#D9B44E; --bad:#EC7A72; color-scheme:dark}}
+  --bg:#16181D; --card:#1D2027; --ink:#ECEDF0; --muted:#A0A4AE; --line:#30343C; --acc:#7FD0C3; --acc-ink:#10201D; --soft:#252932;
+  --L:#F0705F; --C:#9AA5B2; --R:#6E9BEF; --X:#B394EE;
+  --ok:#5CC48A; --inf:#D9B44E; --bad:#F29A4A; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#16181D; --card:#1D2027; --ink:#ECEDF0; --muted:#A0A4AE; --line:#30343C; --acc:#9DB4E8; --acc-ink:#11141A; --soft:#252932;
-  --L:#3DBDB1; --C:#9AA5B2; --R:#E0A43C; --X:#9C8EEA;
-  --ok:#5CC48A; --inf:#D9B44E; --bad:#EC7A72; color-scheme:dark}
+  --bg:#16181D; --card:#1D2027; --ink:#ECEDF0; --muted:#A0A4AE; --line:#30343C; --acc:#7FD0C3; --acc-ink:#10201D; --soft:#252932;
+  --L:#F0705F; --C:#9AA5B2; --R:#6E9BEF; --X:#B394EE;
+  --ok:#5CC48A; --inf:#D9B44E; --bad:#F29A4A; color-scheme:dark}
 *,*::before,*::after{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-b);-webkit-font-smoothing:antialiased;padding-bottom:var(--bot)}
