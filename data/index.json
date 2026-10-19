@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-18T12:33:26+00:00",
+ "atualizado_em": "2026-10-19T09:00:09+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-19",
+   "arquivo": "data/edicoes/2026-10-19.json",
+   "historias": 8,
+   "gerado_em": "2026-10-19T06:40:00-03:00",
+   "manchete": "Lula e Flávio Bolsonaro trocam acusações no primeiro debate do segundo turno"
+  },
   {
    "data": "2026-10-18",
    "arquivo": "data/edicoes/2026-10-18.json",

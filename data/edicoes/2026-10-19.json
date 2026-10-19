@@ -1,0 +1,310 @@
+{
+  "tipo": "edicao",
+  "data": "2026-10-19",
+  "gerado_em": "2026-10-19T06:40:00-03:00",
+  "historias": [
+    {
+      "id": "debate-band-lula-flavio",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Lula e Flávio Bolsonaro trocam acusações no primeiro debate do segundo turno",
+      "lide": "No debate de domingo na Band, Lula e Flávio Bolsonaro falaram de segurança, saúde e economia, mas gastaram a maior parte do tempo com acusações sobre o caso INSS, o Banco Master e o filme \"Dark Horse\". Checadores encontraram afirmações falsas ou imprecisas dos dois, e analistas divergem sobre quem se saiu melhor.",
+      "contexto": "O segundo turno é no domingo, 25 de outubro. As pesquisas da semana passada mostravam empate técnico, com Flávio numericamente à frente. O último debate está marcado para sexta-feira (23), na TV Globo.",
+      "fatos": [
+        {"texto": "O debate foi na noite de domingo (18), na Band, durou cerca de duas horas e foi mediado por Adriana Araújo e Eduardo Oinegue; foi o primeiro confronto direto entre os dois candidatos.", "base": "3 fontes independentes (Band, Jovem Pan, Congresso em Foco)"},
+        {"texto": "Os temas incluíram segurança pública e facções, SUS, pandemia, fim da escala 6x1, tarifas dos EUA, o caso Banco Master e as acusações de Roberta Luchsinger envolvendo Lulinha.", "base": "4 fontes independentes (Band, CNN Brasil, Diário do Centro do Mundo, Band B)"},
+        {"texto": "Flávio cobrou Lula sobre pessoas próximas à família dele no caso dos descontos do INSS; Lula cobrou Flávio sobre os recursos pedidos a Daniel Vorcaro para o filme sobre Jair Bolsonaro e citou os inquéritos contra o senador.", "base": "4 fontes independentes (Congresso em Foco, CNN Brasil, Revista Oeste, Band)"},
+        {"texto": "Aos Fatos, Agência Lupa, Estadão Verifica e Folha checaram o debate e apontaram afirmações falsas ou imprecisas dos dois candidatos.", "base": "4 checagens independentes"}
+      ],
+      "inferencias": [
+        {"texto": "Lula venceu o debate e pode ter conquistado indecisos.", "quem": "Coluna de Matheus Leitão, no Metrópoles"},
+        {"texto": "O debate foi dominado por baixaria e terminou sem vencedor.", "quem": "Exame (análise)"},
+        {"texto": "O formato foi inútil para o eleitor indeciso.", "quem": "Lucas Aragão, cientista político da Arko Advice, segundo a Exame"},
+        {"texto": "Flávio se saiu um pouco melhor, por dominar os temas do confronto.", "quem": "Analistas citados por A Gazeta; colunistas de O Globo deram nota 2,3 a Flávio e 2,2 a Lula"},
+        {"texto": "Das 76 afirmações checadas, Lula teve 9 falsas e Flávio 3.", "quem": "Ranking dos Políticos"}
+      ],
+      "em_disputa": [
+        {"alegacao": "A criminalidade explodiu no Brasil.", "rotulo": "Falso", "explicacao": "O Aos Fatos classificou a afirmação como falsa: os dados disponíveis não sustentam uma explosão da criminalidade.", "onde_circula": "Fala de Flávio Bolsonaro no debate", "checagem": [{"nome": "Aos Fatos", "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/"}]},
+        {"alegacao": "73% dos presidiários votaram em Lula.", "rotulo": "Distorcido", "explicacao": "O Aos Fatos considerou que Flávio distorceu a informação de origem ao apresentar esse número.", "onde_circula": "Fala de Flávio Bolsonaro no debate", "checagem": [{"nome": "Aos Fatos", "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/"}]},
+        {"alegacao": "Lula e Janja gastaram R$ 7 bilhões em viagens.", "rotulo": "Falso", "explicacao": "Segundo a Lupa, o valor corresponde às despesas de viagem de toda a estrutura do governo federal entre 2023 e 2025, não às viagens do casal.", "onde_circula": "Fala de Flávio Bolsonaro no debate", "checagem": [{"nome": "Lupa", "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/"}]},
+        {"alegacao": "Lula participou de negociação de repasses de Vorcaro ao Instituto Lula.", "rotulo": "Sem evidência", "explicacao": "A Lupa não encontrou comprovantes de pagamento nem provas de que Lula tenha participado dessa negociação.", "onde_circula": "Fala de Flávio Bolsonaro no debate", "checagem": [{"nome": "Lupa", "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/"}]}
+      ],
+      "enquadramentos": {
+        "governo": "Aliados de Lula dizem que ele expôs as contradições de Flávio sobre Vorcaro e os inquéritos e que venceu o debate.",
+        "oposicao": "Flávio diz ter exposto os \"crimes\" de Lula, com o caso INSS e Lulinha, e acusa o presidente de mentir."
+      },
+      "visao_de_fora": "O Rio Times, voltado ao público estrangeiro, destacou que a checagem encontrou erros dos dois candidatos. Não encontrei cobertura de agências internacionais sobre o resultado do debate até a manhã de segunda.",
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": "band", "titulo": "SUS, Master, Lulinha e facções: veja o que foi assunto no debate da Band", "url": "https://www.band.com.br/politica/eleicoes/sus-master-lulinha-e-faccoes-veja-o-que-foi-assunto-no-debate-da-band", "angulo": "A emissora organizadora resume os temas do debate.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "brasil247", "titulo": "“Ao invés de ficar falando que é honesto, prove que é honesto”: o ponto alto de Lula no confronto com Flávio", "url": "https://www.brasil247.com/poder/ao-inves-de-ficar-falando-que-e-honesto-prove-que-e-honesto-o-ponto-alto-de-lula-no-confronto-com-flavio/", "angulo": "Destaca o momento considerado melhor de Lula.", "tipo": "analise", "enquadramento": "pro_governo"},
+        {"fonte": "oeste", "titulo": "Debate na Band: Flávio diz que vai 'esfregar os crimes' de Lula", "url": "https://revistaoeste.com/politica/debate-na-band-flavio-diz-que-vai-esfregar-os-crimes-de-lula/", "angulo": "Abre pela ofensiva de Flávio contra Lula.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "aosfatos", "titulo": "Checamos Lula e Flávio Bolsonaro no debate da Band", "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/", "angulo": "Checagem das falas dos dois candidatos.", "tipo": "checagem", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Congresso em Foco", "vies_materia": "centro", "titulo": "Veja destaques do debate entre Lula e Flávio Bolsonaro na Band", "url": "https://www.congressoemfoco.com.br/noticia/123351/veja-o-primeiro-debate-entre-lula-e-flavio-bolsonaro-na-band", "angulo": "Resumo das propostas e dos embates de cada lado.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "Por que Lula venceu debate por 2 a 1 e pode ter conquistado indecisos", "url": "https://www.metropoles.com/colunas/matheus-leitao/por-que-lula-venceu-debate-por-2-a-1-e-pode-ter-conquistado-indecisos", "angulo": "Coluna que dá vitória a Lula.", "tipo": "opiniao", "enquadramento": "pro_governo"},
+        {"fonte": "jovempan", "titulo": "Debate Band/Jovem Pan: Lula e Flávio travam confronto com troca de acusações pessoais", "url": "https://jovempan.com.br/politica/debate-band-jovem-pan-lula-e-flavio-travam-confronto-com-troca-de-acusacoes-pessoais/", "angulo": "Coparceira da transmissão: enfatiza as acusações pessoais.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "exame", "titulo": "Análise: Debate entre Lula e Flávio é dominado por baixaria e termina sem vencedor", "url": "https://exame.com/brasil/analise-debate-entre-lula-e-flavio-e-dominado-por-baixaria-e-termina-sem-vencedor/", "angulo": "Avalia que nenhum dos dois ganhou e que faltaram propostas.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "dcm", "titulo": "Lula e Flávio Bolsonaro se enfrentam na Band com Master, 6x1 e tarifaço no centro do debate", "url": "https://www.diariodocentrodomundo.com.br/lula-flavio-bolsonaro-debate-band-master-6x1-tarifaco", "angulo": "Destaca os temas favoráveis ao governo: Master, 6x1, tarifaço.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "cnnbrasil", "titulo": "Flávio e Lula trocam ataques e citam Luchsinger, Vorcaro e SUS no 1º debate", "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/", "angulo": "Relato dos principais ataques dos dois lados.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "lupa", "titulo": "Ao vivo: checagem do debate entre Lula e Flávio Bolsonaro na Band", "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/", "angulo": "Checagem em tempo real, frase a frase.", "tipo": "checagem", "enquadramento": "neutro"},
+        {"fonte": "oeste", "titulo": "Lula chama Flávio de 'malandro carioca' durante debate na Band", "url": "https://revistaoeste.com/politica/lula-chama-flavio-de-malandro-carioca-durante-debate-na-band/", "angulo": "Destaca o ataque pessoal de Lula.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": null, "veiculo": "A Gazeta (ES)", "vies_materia": "centro", "titulo": "Debate da Band: quem ganhou e quem perdeu no primeiro embate entre Lula e Flávio Bolsonaro", "url": "https://www.agazeta.com.br/mundo/debate-da-band-quem-ganhou-e-quem-perdeu-no-primeiro-embate-entre-lula-e-flavio-bolsonaro-1026", "angulo": "Reúne avaliações de analistas; a maioria dá leve vantagem a Flávio.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "The Rio Times", "vies_materia": "centro", "titulo": "Fact-Check Finds Errors by Lula and Flávio", "url": "https://www.riotimesonline.com/lula-flavio-debate-fact-check-errors-runoff-2026", "angulo": "Para o leitor estrangeiro: \"Checagem encontra erros de Lula e Flávio\".", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "atos-paulista-copacabana-publico",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Ato de Flávio na Paulista e ato musical em Copacabana reúnem dezenas de milhares no domingo",
+      "lide": "Segundo o monitor da USP/Cebrap, o ato de Flávio Bolsonaro na Avenida Paulista teve pico de 71,9 mil pessoas, e o ato musical pela democracia em Copacabana, com Caetano Veloso e outros artistas, cerca de 56,4 mil. Houve ainda atos pró-Lula em outras capitais, a uma semana do segundo turno.",
+      "contexto": "No sábado, o TSE negou o pedido do Novo para barrar os shows nos atos pró-democracia, considerados showmícios pelo partido. O ato da Paulista respondeu a uma manifestação pró-Lula feita na mesma avenida em 11 de outubro.",
+      "fatos": [
+        {"texto": "O Monitor do Debate Político (USP/Cebrap, com a More in Common) estimou o pico do ato de Flávio na Paulista em 71,9 mil pessoas às 12h20, com margem de erro de 12%; o Poder360 estimou 76,2 mil com método próprio.", "base": "3 fontes independentes (Poder360, SP Agora, Polêmica Paraíba)"},
+        {"texto": "O mesmo monitor estimou em 56,4 mil o público do Ato Musical pela Democracia em Copacabana, no pico das 18h; a contagem foi interrompida porque a chuva impediu o voo do drone.", "base": "Monitor do Debate Político (USP/Cebrap), divulgado pelo Metrópoles"},
+        {"texto": "Tarcísio de Freitas, Ricardo Nunes e Nikolas Ferreira participaram do ato na Paulista.", "base": "3 fontes independentes (O Antagonista, Poder360, SP Agora)"},
+        {"texto": "Na Paulista, Flávio disse que, se eleito, o pai, Jair Bolsonaro, colocará nele a faixa presidencial.", "base": "2 fontes independentes (SP Agora, Polêmica Paraíba)"},
+        {"texto": "Apoiadores de Lula fizeram atos em outras capitais no mesmo domingo.", "base": "3 fontes independentes (Jovem Pan, Brasil de Fato, CartaCapital)"}
+      ],
+      "inferencias": [
+        {"texto": "O ato da Paulista foi o de maior público bolsonarista na avenida desde fevereiro de 2024.", "quem": "Poder360"},
+        {"texto": "\"Faltam sete dias para libertar o Brasil do PT.\"", "quem": "Flávio Bolsonaro, no ato da Paulista"},
+        {"texto": "Os atos com artistas são, na prática, eventos de campanha a favor de Lula.", "quem": "Partido Novo e aliados de Flávio"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Aliados de Lula apresentam Copacabana como ato cultural pela democracia que lotou a orla.",
+        "oposicao": "A campanha de Flávio destaca a Paulista cheia como prova de mobilização e chama os atos com artistas de showmícios pró-Lula."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": "poder360", "titulo": "Ato de Flávio reúne 76.200 na Paulista a uma semana do 2º turno", "url": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-reune-76-200-na-paulista-a-uma-semana-do-2o-turno/", "angulo": "Estimativa própria por fotos aéreas e comparação com atos anteriores.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-18"},
+        {"fonte": "brasil247", "titulo": "Multidão toma Copacabana em ato pela reeleição de Lula neste domingo (vídeos)", "url": "https://www.brasil247.com/sudeste/multidao-toma-copacabana-em-ato-pela-reeleicao-de-lula-neste-domingo-videos/", "angulo": "Chama o ato de \"pela reeleição de Lula\", o que os organizadores evitaram dizer.", "tipo": "noticia", "enquadramento": "pro_governo", "data": "2026-10-18"},
+        {"fonte": "antagonista", "titulo": "Flávio Bolsonaro faz ato na Paulista com Tarcísio e Nikolas", "url": "https://oantagonista.com.br/brasil/flavio-bolsonaro-faz-ato-na-paulista-com-tarcisio-e-nikolas/", "angulo": "Os aliados presentes no palco.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "Ato Musical pela Democracia reúne 56 mil pessoas em Copacabana, diz USP", "url": "https://www.metropoles.com/brasil/ato-musical-pela-democracia-reune-56-mil-pessoas-em-copacabana-diz-usp", "angulo": "Estimativa independente do público e a interrupção da contagem pela chuva.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "Apoiadores de Lula fazem atos nas capitais e no exterior pela reeleição do petista", "url": "https://jovempan.com.br/politica/apoiadores-de-lula-fazem-atos-nas-capitais-e-no-exterior-pela-reeleicao-do-petista/", "angulo": "Trata os atos pró-democracia como atos de campanha de Lula.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cartacapital", "titulo": "Flávio Bolsonaro vai à Paulista antes de debate com Lula, que se preserva; atos se espalham pelo País", "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-vai-a-paulista-antes-de-debate-com-lula-que-se-preserva-atos-se-espalham-pelo-pais/", "angulo": "Compara a estratégia de rua dos dois candidatos no mesmo dia.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "SP Agora", "vies_materia": "centro", "titulo": "Ato de Flávio Bolsonaro reúne 71,9 mil na Avenida Paulista, aponta levantamento", "url": "https://www.spagora.com.br/politica/eleicoes/ato-flavio-bolsonaro-paulista-18-outubro/", "angulo": "Números do monitor da USP e a metodologia de contagem.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "gazetadopovo", "titulo": "PT realiza manifestações em capitais; artistas convocam para \"atos pela democracia\"", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/em-tentativa-de-virada-pt-realiza-manifestacoes-e-shows-de-artistas/", "angulo": "Põe \"atos pela democracia\" entre aspas e os trata como tentativa de virada do PT.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "brasildefato", "titulo": "Atos pró-Lula se espalham por todo o Brasil neste domingo (18); confira agenda", "url": "https://www.brasildefato.com.br/2026/10/18/atos-pro-lula-se-espalham-por-todo-o-brasil-neste-domingo-18-confira-agenda/", "angulo": "Agenda dos atos pró-Lula pelo país.", "tipo": "noticia", "enquadramento": "pro_governo", "data": "2026-10-18"},
+        {"fonte": "poder360", "titulo": "Ato de Flávio ocupa 6 quarteirões da Paulista, 1 a menos que Lula", "url": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-ocupa-6-quarteiroes-da-paulista-1-a-menos-que-lula/", "angulo": "Compara a área ocupada com a do ato pró-Lula do domingo anterior.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "flavio-segundo-inquerito-stf-willer-tomaz",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "Flávio Bolsonaro passa a ser alvo de segundo inquérito no STF, sob relatoria de Moraes",
+      "lide": "A Polícia Federal enviou ao STF uma investigação por suspeita de lavagem de dinheiro que envolve Flávio Bolsonaro e o advogado Willer Tomaz, amigo dele, e o ministro Alexandre de Moraes foi sorteado relator. Flávio chama o caso de \"fake news\", e a defesa de Tomaz estranha a divulgação horas antes do debate.",
+      "contexto": "Flávio já é investigado no STF, sob relatoria de André Mendonça, pelo pedido de recursos a Daniel Vorcaro para o filme \"Dark Horse\". Willer Tomaz foi alvo de busca em agosto na Operação Sem Desconto, que apura fraudes no INSS; Flávio não foi alvo dessa operação.",
+      "fatos": [
+        {"texto": "A PF enviou ao STF um inquérito por suspeita de lavagem de dinheiro envolvendo Flávio Bolsonaro e Willer Tomaz, e o ministro Alexandre de Moraes foi sorteado relator.", "base": "5 fontes independentes (Gazeta do Povo, Metrópoles, SBT News, CartaCapital, Brasil 247)"},
+        {"texto": "A investigação nasceu de uma apuração da PF no Rio Grande do Sul sobre empresas de pagamentos digitais e o mercado de apostas esportivas.", "base": "2 fontes independentes (Gazeta do Povo, Metrópoles)"},
+        {"texto": "Segundo a PF, a Cathedral Holdings, dona da empresa de apostas Rede Loto, ligada a Tomaz, contratou ao menos três trechos de jato executivo para Flávio e Tomaz em 2025.", "base": "3 fontes independentes (Poder360, Diário do Centro do Mundo, Revista Fórum), a partir de reportagem da Folha"},
+        {"texto": "Flávio nega irregularidades e diz que a relação com Tomaz é de amizade; a defesa de Tomaz diz que as viagens foram de lazer, pagas por ele, sem contrapartida.", "base": "3 fontes independentes (Metrópoles, Poder360, CartaCapital)"}
+      ],
+      "inferencias": [
+        {"texto": "O inquérito tem motivação política e foi divulgado para atingir Flávio às vésperas do debate e da eleição.", "quem": "Campanha de Flávio e defesa de Willer Tomaz"},
+        {"texto": "A movimentação de cerca de R$ 130 milhões numa conta ligada a Tomaz em poucos meses pode indicar tentativa de ocultar valores, mas a origem e o destino ainda precisam ser analisados.", "quem": "Polícia Federal, segundo Metrópoles e Jornal do Brasil"},
+        {"texto": "Os indícios sobre o amigo de Flávio e as bets são fortes demais para serem ignorados.", "quem": "Reinaldo Azevedo, colunista do Metrópoles"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Flávio era \"usuário master\" de uma conta bancária administrada por Willer Tomaz.", "rotulo": "Em apuração", "explicacao": "O registro aparece nos dados da investigação, mas Flávio e Tomaz negam ter compartilhado conta, e a defesa atribui o registro a erro de cadastro.", "onde_circula": "Reportagens sobre o inquérito", "checagem": []}
+      ],
+      "enquadramentos": {
+        "governo": "Aliados de Lula usam o caso para dizer que Flávio, alvo de dois inquéritos no STF, tem ligações com bets e com investigados no caso INSS.",
+        "oposicao": "Flávio chama o inquérito de \"fake news\" e perseguição de Moraes às vésperas da eleição."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Na direita, a Gazeta do Povo cobriu, mas não encontrei o novo inquérito na Revista Oeste nem na Jovem Pan. Na esquerda, o caso é tratado como prova de ligação de Flávio com o escândalo do INSS, embora ele não tenha sido alvo daquela operação.",
+      "materias": [
+        {"fonte": "gazetadopovo", "titulo": "Moraes será relator de novo inquérito contra Flávio Bolsonaro no STF", "url": "https://www.gazetadopovo.com.br/republica/moraes-sera-relator-de-novo-inquerito-contra-flavio-bolsonaro-no-stf/", "angulo": "Destaca que o relator é Moraes e detalha a origem da apuração.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "brasil247", "titulo": "Flávio Bolsonaro é investigado pela PF por suspeita de lavagem de dinheiro com Willer Tomaz", "url": "https://www.brasil247.com/brasil/flavio-bolsonaro-e-investigado-pela-pf-por-suspeita-de-lavagem-de-dinheiro-com-willer-tomaz/", "angulo": "Abre pela suspeita de lavagem.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "metropoles", "titulo": "Flávio Bolsonaro é alvo de 2º inquérito no STF por suspeita de lavagem", "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-e-alvo-de-2o-inquerito-no-stf-por-suspeita-de-lavagem", "angulo": "Contexto dos dois inquéritos e a versão da defesa sobre a conta.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "sbt", "titulo": "PF envia ao STF nova investigação contra Flávio Bolsonaro", "url": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/pf-envia-ao-stf-nova-investigacao-contra-flavio-bolsonaro", "angulo": "Coluna informa o aval da PGR e a abertura do inquérito.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "forum", "titulo": "Flávio Bolsonaro teve voos para Europa pagos por bet de Willer Tomaz, investigado pela fraude no INSS", "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-voos-europa-bet-willer-tomaz/", "angulo": "Liga os voos ao caso INSS no título.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "poder360", "titulo": "Empresa de investigado por fraude no INSS pagou voos de Flávio, diz jornal", "url": "https://www.poder360.com.br/poder-eleicoes-2026/empresa-de-investigado-por-fraude-no-inss-pagou-voos-de-flavio-diz-jornal/", "angulo": "Repercute a reportagem da Folha com a versão da defesa.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cartacapital", "titulo": "Flávio Bolsonaro é alvo de segundo inquérito no STF por suspeita de lavagem de dinheiro", "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-e-alvo-de-segundo-inquerito-no-stf-por-suspeita-de-lavagem-de-dinheiro/", "angulo": "Relato do inquérito e da reação de Flávio.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "PF abre inquérito que apura relação de Flávio com alvo da Sem Desconto", "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/pf-abre-inquerito-que-apura-relacao-de-flavio-com-alvo-da-sem-desconto/", "angulo": "Blog que destaca a ligação de Tomaz com a operação do INSS.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "dcm", "titulo": "PF aponta que empresa ligada a investigado no caso INSS pagou voos de Flávio Bolsonaro na Europa", "url": "https://www.diariodocentrodomundo.com.br/pf-voos-flavio-bolsonaro-empresa-bet-investigado-inss/", "angulo": "Foco nos voos e no caso INSS.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "metropoles", "titulo": "Amigo de Flávio e R$ 5 bi em bet: focinho, pata e pelo de gato. Será gato?", "url": "https://www.metropoles.com/colunas/reinaldo-azevedo/amigo-de-flavio-e-r-5-bi-em-bet-focinho-pata-e-pelo-de-gato-sera-gato", "angulo": "Coluna que vê indícios fortes contra Flávio.", "tipo": "opiniao", "enquadramento": "pro_governo"},
+        {"fonte": null, "veiculo": "Jornal do Brasil", "vies_materia": "centro", "titulo": "Caso de conta conjunta de Flávio Bolsonaro com suspeito de fraudar INSS chega no STF", "url": "https://www.jb.com.br/brasil/justica/2026/10/1061274-caso-de-conta-conjunta-de-flavio-bolsonaro-com-suspeito-de-fraudar-inss-chega-no-stf.html", "angulo": "Trata a conta como \"conjunta\", ponto que a defesa contesta.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "moraes-sigilo-fonte-jornalista-maranhao",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "Moraes mandou juntar conversas de jornalista apesar de alerta da PF sobre sigilo da fonte",
+      "lide": "A Folha revelou que um delegado da PF avisou Alexandre de Moraes que conversas do jornalista maranhense Luís Pablo podiam estar protegidas pelo sigilo da fonte, e que o ministro mandou anexá-las ao inquérito mesmo assim. Com elas, a PF identificou a fonte do jornalista; entidades de imprensa criticaram, e Moraes diz que o sigilo não pode acobertar crime.",
+      "contexto": "O inquérito apura suposto monitoramento e perseguição ao ministro do STF Flávio Dino e à família dele. Luís Pablo nega ter perseguido Dino ou recebido dinheiro para publicar reportagens.",
+      "fatos": [
+        {"texto": "Em abril, um delegado da PF informou a Moraes que deixara de juntar conversas do jornalista Luís Pablo por poderem estar protegidas pelo sigilo da fonte; Moraes mandou incluí-las nos autos em 48 horas.", "base": "4 fontes independentes (Gazeta do Povo, Revista Oeste, Jornal Pequeno, Pleno News), a partir de reportagem da Folha"},
+        {"texto": "Com base nas conversas, a PF apontou o ex-secretário Raimundo Cutrim como fonte do jornalista, e Moraes autorizou buscas contra ele em agosto.", "base": "3 fontes independentes (Gazeta do Povo, CNN Brasil, Revista Fórum)"},
+        {"texto": "A PF afirmou não conseguir concluir que Luís Pablo recebeu dinheiro para publicar reportagens contra Dino.", "base": "2 fontes independentes (Poder360, Brasil 247)"},
+        {"texto": "Moraes afirmou que o sigilo da fonte não pode ser instrumento de impunidade criminal.", "base": "3 fontes independentes (Poder360, Gazeta do Povo, Revista Fórum)"},
+        {"texto": "ABERT, ANER e ANJ classificaram a medida como preocupante; o presidente do STF, Edson Fachin, disse que a apuração deve focar nas condutas investigadas, e não na atividade jornalística.", "base": "2 fontes independentes (Gazeta do Povo, CNN Brasil)"}
+      ],
+      "inferencias": [
+        {"texto": "A decisão cria risco ao sigilo da fonte, garantido pela Constituição.", "quem": "Juristas ouvidos pela CNN Brasil"},
+        {"texto": "A decisão não viola a liberdade de imprensa, porque investiga crime de perseguição.", "quem": "Jurista ouvido pelo Diário do Centro do Mundo"},
+        {"texto": "O caso ameaça a liberdade de imprensa.", "quem": "Parlamentares de oposição, entre eles Flávio Bolsonaro"},
+        {"texto": "Dino e a família foram monitorados ilegalmente.", "quem": "Assessoria de Flávio Dino"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Luís Pablo recebeu dinheiro para publicar reportagens contra Flávio Dino.", "rotulo": "Sem evidência", "explicacao": "A própria PF afirmou não conseguir concluir que houve pagamento; o jornalista nega.", "onde_circula": "Investigação e veículos que defendem a decisão", "checagem": []}
+      ],
+      "enquadramentos": {
+        "governo": "Aliados do governo e veículos de esquerda tratam o caso como investigação de crime de perseguição a Dino, não como ataque à imprensa.",
+        "oposicao": "A oposição diz que Moraes violou o sigilo da fonte e ameaça a liberdade de imprensa."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Na esquerda, não encontrei cobertura da revelação da Folha sobre o alerta da PF; os textos que achei na Revista Fórum, no DCM e no Brasil 247 são anteriores e defendem a decisão. A direita (Oeste, Gazeta, Pleno News) deu amplo destaque.",
+      "materias": [
+        {"fonte": "gazetadopovo", "titulo": "Moraes ignorou alerta da PF sobre sigilo da fonte de jornalista", "url": "https://www.gazetadopovo.com.br/republica/moraes-ignorou-alerta-da-pf-sobre-sigilo-da-fonte-de-jornalista-no-maranhao/", "angulo": "Repercute a reportagem da Folha sobre o alerta do delegado.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "poder360", "titulo": "Jornalista que teve sigilo violado por Moraes nega ter monitorado Dino", "url": "https://www.poder360.com.br/poder-justica/jornalista-que-teve-sigilo-violado-por-moraes-nega-ter-monitorado-dino/", "angulo": "A versão do jornalista e a conclusão da PF sobre pagamento.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "forum", "titulo": "Sigilo da fonte ou escudo para crime? De assassinato a monitoramento de Dino, a trama investigada por Moraes", "url": "https://revistaforum.com.br/brasil/sigilo-da-fonte-ou-escudo-para-crime-de-assassinato-a-monitoramento-de-dino-a-trama-investigada-por-moraes/", "angulo": "Texto anterior que defende a investigação e questiona o uso do sigilo.", "tipo": "analise", "enquadramento": "pro_governo"},
+        {"fonte": "cnnbrasil", "titulo": "Juristas veem risco ao sigilo da fonte em decisão de Moraes", "url": "https://www.cnnbrasil.com.br/politica/sigilo-de-fonte-decisao-de-moraes-provoca-criticas-de-especialistas/", "angulo": "Avaliação de especialistas em direito.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "oeste", "titulo": "Moraes ignorou alerta da PF sobre sigilo de fonte no caso de jornalista do MA", "url": "https://revistaoeste.com/politica/moraes-ignorou-alerta-da-pf-sobre-sigilo-de-fonte-no-caso-jornalista-do-ma/", "angulo": "Detalha a cronologia do alerta e da ordem de Moraes.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "dcm", "titulo": "Decisão de Moraes não viola liberdade de imprensa, diz jurista", "url": "https://www.diariodocentrodomundo.com.br/decisao-de-moraes-sobre-perseguicao-a-dino-nao-viola-liberdade-de-imprensa-diz-jurista", "angulo": "Texto anterior com jurista que defende a decisão.", "tipo": "analise", "enquadramento": "pro_governo"},
+        {"fonte": "cnnbrasil", "titulo": "Especialistas avaliam decisão de Moraes sobre fonte de jornalista", "url": "https://www.cnnbrasil.com.br/politica/especialistas-avaliam-decisao-de-moraes-sobre-fonte-de-jornalista/", "angulo": "Ouve especialistas com visões diferentes.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "plenonews", "titulo": "Moraes ignorou aviso da PF sobre risco de quebrar sigilo da fonte", "url": "https://pleno.news/brasil/politica-nacional/moraes-ignorou-aviso-da-pf-sobre-risco-de-quebrar-sigilo-da-fonte.html", "angulo": "Repercute a revelação com tom crítico a Moraes.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "brasil247", "titulo": "PF não vê indício de crime de jornalista alvo de Moraes", "url": "https://www.brasil247.com/nordeste/pf-nao-ve-indicio-de-crime-de-jornalista-alvo-de-moraes/", "angulo": "Relata a conclusão da PF sobre o jornalista.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Jornal Pequeno", "vies_materia": "centro", "titulo": "PF alertou Moraes sobre sigilo de fonte de jornalista maranhense", "url": "https://jornalpequeno.com.br/2026/10/18/pf-alertou-moraes-sobre-sigilo-de-fonte-de-jornalista-maranhense/", "angulo": "Visão da imprensa do Maranhão, onde o caso nasceu.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-18"}
+      ]
+    },
+    {
+      "id": "fumaca-amazonas-ministros-forcas-armadas",
+      "editoria": "Meio ambiente",
+      "escopo": "brasil",
+      "titulo": "Ministros vão a Manaus e governo põe Forças Armadas no combate às queimadas no Amazonas",
+      "lide": "Quatro ministros foram a Manaus no domingo, onde foi instalado um Estado-Maior Conjunto para coordenar o combate aos incêndios, com Forças Armadas e mais aviões. A chuva aliviou parte da fumaça, mas a qualidade do ar continuou ruim, e o governo diz ter suspeitos de incêndios criminosos.",
+      "contexto": "Manaus está coberta de fumaça há cerca de dez dias. As aulas presenciais foram suspensas várias vezes, e no sábado a fumaça impediu a decolagem dos aviões de combate ao fogo.",
+      "fatos": [
+        {"texto": "Os ministros do Meio Ambiente (João Paulo Capobianco), da Defesa (José Múcio), da Justiça (Wellington César Lima e Silva) e da Integração (Waldez Góes) foram a Manaus no domingo (18); foi instalado um Estado-Maior Conjunto na cidade.", "base": "4 fontes independentes (CNN Brasil, Amazonas Atual, BNC Amazonas, Fato Amazônico)"},
+        {"texto": "O governo elevou de 11 para 16 o número de aeronaves no combate ao fogo e mobilizou as Forças Armadas.", "base": "3 fontes independentes (CNN Brasil, Metrópoles, A Crítica)"},
+        {"texto": "A qualidade do ar em Manaus ficou \"muito ruim\" no domingo; a chuva da manhã aliviou, mas não eliminou a fumaça.", "base": "2 fontes independentes (CNN Brasil, Amazonas Atual)"},
+        {"texto": "O governo diz ter identificado suspeitos de incêndios criminosos; a investigação está com PF, PRF e Polícia Civil do Amazonas.", "base": "2 fontes independentes (Metrópoles, CNN Brasil)"}
+      ],
+      "inferencias": [
+        {"texto": "A fumaça não vem só de incêndios no Amazonas; queimadas em outros estados também contribuem.", "quem": "Governador Roberto Cidade e ministro Capobianco"},
+        {"texto": "\"Manaus pede socorro\": a cidade paga com a saúde por queimadas que não provocou.", "quem": "Prefeito de Manaus, Renato Junior"},
+        {"texto": "O governo federal ajudou assim que o Amazonas decretou emergência.", "quem": "Ministro do governo, segundo a Agência Brasil"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "Não encontrei cobertura recente em veículos de esquerda (CartaCapital, Brasil de Fato) nem na imprensa estrangeira. A cobertura nacional trata sobretudo da resposta do governo e fala pouco de quem está pondo fogo e por quê.",
+      "materias": [
+        {"fonte": "cnnbrasil", "titulo": "Poluição por fumaça mantém Manaus em alerta neste domingo (18)", "url": "https://www.cnnbrasil.com.br/nacional/norte/am/poluicao-por-fumaca-mantem-manaus-em-alerta-neste-domingo-18/", "angulo": "Medições de qualidade do ar no domingo.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-18"},
+        {"fonte": "agenciabrasil", "titulo": "Governo ajudou assim que Amazonas decretou emergência, diz ministro", "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/governo-ajudou-assim-que-amazonas-decretou-emergencia-diz-ministro", "angulo": "A versão do governo federal sobre a rapidez da resposta.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "oeste", "titulo": "Fumaça das queimadas fecha aeroportos e paralisa combate aéreo no Amazonas", "url": "https://revistaoeste.com/brasil/fumaca-das-queimadas-fecha-aeroportos-e-paralisa-combate-aereo-no-amazonas/", "angulo": "Destaca a paralisação do combate aéreo.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Amazonas Atual", "vies_materia": "centro", "titulo": "Chuva intensa alivia poluição do ar pela fumaça em Manaus", "url": "https://amazonasatual.com.br/chuva-intensa-alivia-poluicao-do-ar-pela-fumaca-em-manaus/", "angulo": "Imprensa local: o efeito da chuva e o alerta de alagamentos.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "Governo diz ter identificado suspeitos de queimadas criminosas no Amazonas", "url": "https://www.metropoles.com/brasil/governo-diz-ter-identificado-suspeitos-de-queimadas-criminosas-no-amazonas", "angulo": "Foco na investigação de incêndios criminosos.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "\"Manaus pede socorro\", diz prefeito após cidade continuar tomada por fumaça", "url": "https://www.cnnbrasil.com.br/nacional/norte/am/manaus-pede-socorro-diz-prefeito-apos-cidade-continuar-tomada-por-fumaca/", "angulo": "O apelo do prefeito.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "A Crítica", "vies_materia": "centro", "titulo": "Queimadas: governo Lula anuncia uso das Forças Armadas, mais aviões e base do SUS", "url": "https://www.acritica.com/geral/queimadas-governo-lula-anuncia-uso-das-forcas-armadas-mais-avioes-e-base-do-sus/", "angulo": "Imprensa local: o pacote de medidas federais.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "Combate às queimadas: 11 são presos por crimes ambientais no AM", "url": "https://www.cnnbrasil.com.br/nacional/norte/am/combate-as-queimadas-11-sao-presos-por-crimes-ambientais-no-am/", "angulo": "Prisões por crimes ambientais.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "BNC Amazonas", "vies_materia": "centro", "titulo": "Manaus recebe chuva e ministros de Lula contra a fumaça", "url": "https://bncamazonas.com.br/municipios/manaus-recebe-chuva-e-ministros-de-lula-contra-a-fumaca/", "angulo": "Imprensa local: a chegada da comitiva.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "alberta-referendo-independencia",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Alberta vota se abre caminho para se separar do Canadá",
+      "lide": "Eleitores de Alberta, província que concentra a maior parte do petróleo canadense, votam nesta segunda se querem iniciar o processo legal para um referendo vinculante de separação. As pesquisas apontam vitória da permanência, e o resultado deve sair na madrugada de terça.",
+      "contexto": "O movimento separatista se alimenta de queixas econômicas contra Ottawa, especialmente sobre a indústria do petróleo. Separatistas tiveram contatos com aliados de Trump, segundo o Financial Times e o Globe and Mail; os líderes separatistas negam.",
+      "fatos": [
+        {"texto": "A votação de segunda (19) tem 10 perguntas; a décima pergunta se Alberta deve continuar no Canadá ou iniciar o processo legal para um referendo vinculante de separação.", "base": "3 fontes independentes (Euronews, CBC, Global News)"},
+        {"texto": "Os votos da pergunta sobre separação serão contados primeiro, com resultado previsto para a madrugada de terça; o resultado não é vinculante.", "base": "2 fontes independentes (Global News, CBC)"},
+        {"texto": "Foram 1.356.873 votos antecipados e especiais entre 13 e 17 de outubro, segundo a Elections Alberta.", "base": "Dados da Elections Alberta, divulgados pela Global News"},
+        {"texto": "O primeiro-ministro Mark Carney fez campanha em Calgary e Edmonton pedindo voto pela permanência.", "base": "3 fontes independentes (The Globe and Mail, Global News, CBC)"}
+      ],
+      "inferencias": [
+        {"texto": "Cerca de 68% votariam pela permanência e 24% pelo início do processo de separação.", "quem": "Pesquisa Abacus Data, citada pela CBC"},
+        {"texto": "\"Já vencemos\": o movimento separatista continua qualquer que seja o resultado.", "quem": "Líder separatista, segundo a Fortune"},
+        {"texto": "Se a permanência vencer, a questão da separação deve ser considerada encerrada.", "quem": "Danielle Smith, premiê de Alberta"},
+        {"texto": "Um voto pela separação é \"um blefe perigoso\".", "quem": "Mark Carney"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "A cobertura encontrada é quase toda de veículos canadenses de centro e de imprensa de negócios. Não achei cobertura da imprensa conservadora americana, que se interessa pelo tema por causa dos contatos de separatistas com aliados de Trump, nem da imprensa brasileira.",
+      "materias": [
+        {"fonte": "euronews", "titulo": "Albertans vote on path to independence as Carney fights to keep Canada united", "url": "https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united", "angulo": "\"Albertanos votam caminho para independência enquanto Carney luta pela unidade\"; panorama do dia.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": null, "veiculo": "The Globe and Mail", "vies_materia": "centro", "titulo": "Alberta separatists rally at provincial legislature ahead of referendum", "url": "https://www.theglobeandmail.com/canada/alberta/article-alberta-separatists-rally-edmonton-referendum-independence-vote/", "angulo": "\"Separatistas fazem ato na assembleia provincial\"; o lado separatista.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Fortune", "vies_materia": "centro", "titulo": "Alberta, home to the world’s 4th-largest oil reserves, will vote on a first step to leaving Canada", "url": "https://fortune.com/2026/10/17/alberta-canada-separation-referendum-oil-reserves-crude-exports-us-maga-trump-mark-carney/", "angulo": "\"Alberta, dona da 4ª maior reserva de petróleo, vota primeiro passo para deixar o Canadá\"; foco no petróleo e nos laços com aliados de Trump.", "tipo": "analise", "enquadramento": null, "data": "2026-10-17"},
+        {"fonte": null, "veiculo": "CBC", "vies_materia": "centro", "titulo": "Most Albertans expect to vote on separation again, new polling suggests", "url": "https://www.cbc.ca/news/canada/calgary/abacus-data-survey-separatism-9.7382599", "angulo": "\"Maioria espera votar de novo sobre separação\"; pesquisa Abacus.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Global News", "vies_materia": "centro", "titulo": "1.3M votes cast in referendum advance polls: Elections Alberta", "url": "https://globalnews.ca/news/12107286/alberta-referendum-advance-voting-preliminary-results/", "angulo": "\"1,3 milhão de votos antecipados\"; dados oficiais de participação.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Fortune", "vies_materia": "centro", "titulo": "'We’ve already won.' Alberta separatist leader vows to continue independence movement regardless of outcome of key vote on Monday", "url": "https://fortune.com/2026/10/18/alberta-separatist-leader-independence-movement-canada-remain-referendum-vote/", "angulo": "\"Já vencemos\": entrevista com líder separatista.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-18"},
+        {"fonte": null, "veiculo": "The Globe and Mail", "vies_materia": "centro", "titulo": "Carney urges Albertans to vote against separating from Canada", "url": "https://www.theglobeandmail.com/canada/alberta/article-carney-alberta-referendum-vote-remain-in-canada-reject-ballot/", "angulo": "\"Carney pede que albertanos votem contra a separação\"; o lado federal.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "CBC", "vies_materia": "centro", "titulo": "Liberals and Conservatives urge 'decisive' Alberta referendum vote to remain in Canada", "url": "https://www.cbc.ca/news/politics/alberta-referendum-conservatives-liberals-remain-9.7386058", "angulo": "\"Liberais e conservadores pedem voto decisivo pela permanência\"; consenso dos partidos federais.", "tipo": "noticia", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "putin-propoe-cupula-trump-xi-ucrania",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Putin propõe cúpula com Trump e Xi sobre a Ucrânia, sem Zelensky",
+      "lide": "Segundo o Wall Street Journal, Vladimir Putin sugeriu a Donald Trump uma reunião a três com Xi Jinping para decidir o fim da guerra na Ucrânia, sem a presença de Kiev. O Kremlin confirma conversas, mas nada foi acertado, e Zelensky diz que os EUA estão empurrando a Ucrânia à capitulação.",
+      "contexto": "A proposta vem depois do acordo de Trump com Putin para os EUA comprarem diesel russo e da suspensão, na sexta, de novas sanções contra a Rússia.",
+      "fatos": [
+        {"texto": "Putin propôs a Trump, em telefonema de 9 de outubro, uma cúpula a três com Xi Jinping sobre a guerra na Ucrânia, segundo o Wall Street Journal; não há indicação de que a Ucrânia participaria.", "base": "4 fontes independentes (CNBC, Euronews, Investinglive, Türkiye Today) citando o WSJ"},
+        {"texto": "O porta-voz do Kremlin, Dmitry Peskov, confirmou que há conversas, mas disse que não há acordo sobre a reunião nem sobre a pauta.", "base": "2 fontes independentes (Euronews, Investinglive)"},
+        {"texto": "O Kremlin quer que o encontro ocorra à margem da cúpula da Apec em Shenzhen, em 18 e 19 de novembro.", "base": "3 fontes independentes (Euronews, Investinglive, National Herald)"},
+        {"texto": "Em entrevista à Bloomberg, Zelensky disse que foram dados passos que apontam para a capitulação da Ucrânia e que os EUA fornecem só 12 mísseis Patriot por mês.", "base": "3 fontes independentes (Georgia Today, United24, bne IntelliNews)"}
+      ],
+      "inferencias": [
+        {"texto": "Trump não se comprometeu, mas pode ser receptivo à proposta.", "quem": "Alto funcionário americano, segundo o WSJ"},
+        {"texto": "Putin não só não quer acabar com a guerra como não quer dar nenhum passo de desescalada.", "quem": "Volodymyr Zelensky"},
+        {"texto": "\"Acho Zelensky mais difícil de lidar do que Putin.\"", "quem": "Donald Trump"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "Não encontrei cobertura da proposta na imprensa brasileira até a manhã de segunda.",
+      "ponto_cego": "A notícia saiu do Wall Street Journal e circulou em veículos de negócios e europeus. Não encontrei cobertura em veículos conservadores americanos nem na imprensa brasileira.",
+      "materias": [
+        {"fonte": null, "veiculo": "CNBC", "vies_materia": "centro", "titulo": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine", "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html", "angulo": "\"Putin sugere cúpula com Trump e Xi para decidir o destino da Ucrânia\"; com o contexto energético.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": "euronews", "titulo": "Putin seeks Ukraine summit with Trump and Xi but refuses talks with Zelenskyy", "url": "https://www.euronews.com/2026/10/19/putin-seeks-ukraine-summit-with-trump-and-xi-but-refuses-talks-with-zelenskyy", "angulo": "\"Putin quer cúpula com Trump e Xi mas recusa conversar com Zelensky\"; destaca a exclusão de Kiev.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": null, "veiculo": "bne IntelliNews", "vies_materia": "centro", "titulo": "Putin proposes Ukraine peace summit with Trump and Xi that leaves Zelenskiy out", "url": "https://www.intellinews.com/putin-proposes-ukraine-peace-summit-with-trump-and-xi-that-leaves-zelenskiy-out-476966/", "angulo": "\"Putin propõe cúpula de paz que deixa Zelensky de fora\"; com a entrevista de Zelensky à Bloomberg.", "tipo": "analise", "enquadramento": null},
+        {"fonte": null, "veiculo": "Türkiye Today", "vies_materia": "centro", "titulo": "Putin pitches Trump-Xi summit on Ukraine that would leave Zelenskyy out", "url": "https://www.turkiyetoday.com/world/putin-pitches-trump-xi-summit-on-ukraine-that-would-leave-zelenskyy-out-3230577", "angulo": "Visão turca: \"Putin propõe cúpula Trump-Xi que deixaria Zelensky de fora\".", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "United24 Media", "vies_materia": "centro_esquerda", "titulo": "Trump Eases Russia Sanctions “for Peace” as Zelenskyy Warns of Forced Ukraine Capitulation", "url": "https://united24media.com/world/trump-eases-russia-sanctions-for-peace-as-zelenskyy-warns-of-forced-ukraine-capitulation-23570", "angulo": "Visão ucraniana (veículo ligado ao governo de Kiev): \"Trump alivia sanções enquanto Zelensky alerta para capitulação forçada\".", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "CNBC", "vies_materia": "centro", "titulo": "CNBC Daily Open: A Russia-Ukraine peace summit without Ukraine?", "url": "https://www.cnbc.com/2026/10/19/daily-open-putin-trump-xi-ukraine-summit.html", "angulo": "\"Uma cúpula de paz sem a Ucrânia?\"; leitura de mercado.", "tipo": "analise", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": null, "veiculo": "Investinglive", "vies_materia": "centro", "titulo": "Putin floats Trump-Xi summit on Ukraine at APEC, leaving Kyiv out of the room", "url": "https://investinglive.com/commodities/putin-floats-trump-xi-summit-on-ukraine-at-apec-leaving-kyiv-out-of-the-room/", "angulo": "\"Putin sugere cúpula na Apec, deixando Kiev fora da sala\"; detalha a posição de Pequim.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Georgia Today", "vies_materia": "centro", "titulo": "Zelensky says Trump is pressuring Ukraine to capitulate to Russia", "url": "https://georgiatoday.ge/zelensky-says-trump-is-pressuring-ukraine-to-capitulate-to-russia/", "angulo": "\"Zelensky diz que Trump pressiona Ucrânia a capitular\"; resumo da entrevista à Bloomberg.", "tipo": "noticia", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "mali-hrw-drones-civis",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "HRW acusa Exército do Mali e Africa Corps russo de matar dezenas de civis com drones",
+      "lide": "Relatório da Human Rights Watch divulgado nesta segunda diz que ataques de drones das forças do Mali e da Africa Corps, ligada ao governo russo, mataram dezenas de civis numa ofensiva entre abril e agosto. O Exército do Mali não respondeu.",
+      "contexto": "A junta militar do Mali trocou o apoio francês pela Rússia e enfrenta grupos jihadistas como o JNIM, ligado à Al-Qaeda. Em julho, a HRW já havia acusado a Africa Corps de matar oito civis num ataque aéreo.",
+      "fatos": [
+        {"texto": "A HRW contou 49 ataques aéreos de forças do Mali e da Africa Corps entre abril e agosto, que mataram 89 civis.", "base": "Relatório da Human Rights Watch, reproduzido por Al Jazeera e Reuters"},
+        {"texto": "Pelos dados do monitor de conflitos ACLED, foram 47 ataques de drones e 94 civis mortos no período, contra 22 ataques e 44 mortos um ano antes.", "base": "2 fontes independentes (Reuters, via Illawarra Mercury; inkl)"},
+        {"texto": "Entre os casos citados estão um ataque a um mercado de gado em Bandiagara, em 19 de agosto, que matou seis civis, e outro a uma unidade de saúde na região de Kidal, em 29 de julho.", "base": "Relatório da Human Rights Watch, reproduzido por Al Jazeera"},
+        {"texto": "O Exército do Mali não respondeu aos pedidos de comentário; a HRW diz ter enviado suas conclusões ao ministro da Defesa em agosto, sem resposta.", "base": "2 fontes independentes (Reuters, Al Jazeera)"}
+      ],
+      "inferencias": [
+        {"texto": "Os ataques foram aparentemente indiscriminados.", "quem": "Human Rights Watch"},
+        {"texto": "Há um padrão recorrente de civis mortos por estarem em áreas associadas a jihadistas.", "quem": "Bellingcat (análise de setembro)"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "A cobertura vem de veículos internacionais e africanos que reproduzem o relatório; não encontrei resposta do governo russo nem cobertura na imprensa brasileira.",
+      "materias": [
+        {"fonte": null, "veiculo": "Human Rights Watch", "vies_materia": "centro_esquerda", "titulo": "Mali: Russia’s ‘Africa Corps’ Airstrikes Kill Civilians", "url": "https://www.hrw.org/news/2026/07/31/mali-russias-africa-corps-airstrikes-kill-civilians", "angulo": "Relatório anterior, de julho: \"Ataques aéreos da Africa Corps matam civis\".", "tipo": "fonte_primaria", "enquadramento": null, "data": "2026-07-31"},
+        {"fonte": "aljazeera", "titulo": "Mali’s military and armed groups committing abuses against civilians: HRW", "url": "https://aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw", "angulo": "\"Militares do Mali e grupos armados cometem abusos contra civis\"; inclui também os abusos dos jihadistas.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": null, "veiculo": "Illawarra Mercury (Reuters)", "vies_materia": "centro", "titulo": "Mali forces, Russian backers kill scores of civilians", "url": "https://www.illawarramercury.com.au/story/9371288/mali-forces-russian-backers-kill-scores-of-civilians/", "angulo": "Texto da Reuters: \"Forças do Mali e apoiadores russos matam dezenas de civis\"; dados do ACLED.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Sowetan", "vies_materia": "centro", "titulo": "Russian-backed forces blamed for civilian deaths in Mali", "url": "https://www.sowetan.co.za/news/africa/2026-10-19-russian-backed-forces-blamed-for-civilian-deaths-in-mali/", "angulo": "Visão sul-africana: \"Forças apoiadas pela Rússia são culpadas por mortes de civis no Mali\".", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": null, "veiculo": "inkl", "vies_materia": "centro", "titulo": "Civilian Toll From Drone Strikes: HRW alleges Mali, Russia killed 94 civilians; strikes more than doubled", "url": "https://inkl.com/news/civilian-toll-from-drone-strikes-hrw-alleges-mali-russia-killed-94-civilians-strikes-more-than-doubled", "angulo": "\"Ataques mais que dobraram\"; foco na comparação com o ano anterior.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "Bellingcat", "vies_materia": "centro", "titulo": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign", "url": "https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique/", "angulo": "Investigação anterior, de setembro: \"Um padrão recorrente: civis pagam o preço da campanha de drones\".", "tipo": "analise", "enquadramento": null, "data": "2026-09-16"},
+        {"fonte": null, "veiculo": "News Central TV", "vies_materia": "centro", "titulo": "Malian Army, Rebels Committing Abuses Against Civilians - HRW", "url": "https://newscentraltv.com/malian-army-rebels-committing-abuses-against-civilians-hrw", "angulo": "Visão nigeriana: \"Exército e rebeldes do Mali cometem abusos\".", "tipo": "noticia", "enquadramento": null}
+      ]
+    }
+  ]
+}

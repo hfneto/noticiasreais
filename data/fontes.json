@@ -87,6 +87,7 @@
     {"id": "lanacion", "nome": "La Nación", "dominios": ["lanacion.com.ar"], "pais": "AR", "vies": "centro_direita", "propriedade": "familiar", "dono": "Família Saguier/Mitre", "base": "curadoria"},
     {"id": "pagina12", "nome": "Página/12", "dominios": ["pagina12.com.ar"], "pais": "AR", "vies": "esquerda", "propriedade": "conglomerado", "dono": "Grupo Octubre", "base": "curadoria"},
     {"id": "rt", "nome": "RT", "dominios": ["rt.com", "actualidad.rt.com"], "pais": "RU", "vies": "nao_classificado", "propriedade": "estatal", "dono": "Governo da Rússia", "base": "MBFC", "notas": "Mídia estatal. Usar só como registro da posição oficial russa."},
-    {"id": "xinhua", "nome": "Xinhua / CGTN", "dominios": ["xinhuanet.com", "news.cn", "cgtn.com"], "pais": "CN", "vies": "nao_classificado", "propriedade": "estatal", "dono": "Governo da China", "base": "MBFC", "notas": "Mídia estatal. Usar só como registro da posição oficial chinesa."}
+    {"id": "xinhua", "nome": "Xinhua / CGTN", "dominios": ["xinhuanet.com", "news.cn", "cgtn.com"], "pais": "CN", "vies": "nao_classificado", "propriedade": "estatal", "dono": "Governo da China", "base": "MBFC", "notas": "Mídia estatal. Usar só como registro da posição oficial chinesa."},
+    {"id": "euronews", "nome": "Euronews", "dominios": ["euronews.com"], "pais": "FR", "vies": "centro", "propriedade": "privado", "dono": "Alpac Capital", "base": "avaliado pelo pipeline"}
   ]
 }
