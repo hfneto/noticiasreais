@@ -54,7 +54,7 @@
     {"id": "dwbrasil", "nome": "DW Brasil", "dominios": ["dw.com/pt-br"], "pais": "DE", "vies": "centro", "propriedade": "publico", "dono": "Deutsche Welle (pública alemã)", "base": "MBFC"},
     {"id": "elpaisbrasil", "nome": "El País", "dominios": ["elpais.com"], "pais": "ES", "vies": "centro_esquerda", "propriedade": "conglomerado", "dono": "Grupo PRISA", "base": "MBFC"},
 
-    {"id": "lupa", "nome": "Agência Lupa", "dominios": ["lupa.uol.com.br", "lupa.news"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Agência Lupa", "checagem": true, "base": "IFCN"},
+    {"id": "lupa", "nome": "Agência Lupa", "dominios": ["lupa.uol.com.br", "lupa.news", "agencialupa.org"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Agência Lupa", "checagem": true, "base": "IFCN"},
     {"id": "aosfatos", "nome": "Aos Fatos", "dominios": ["aosfatos.org"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Aos Fatos", "checagem": true, "base": "IFCN"},
     {"id": "estadaoverifica", "nome": "Estadão Verifica", "dominios": ["estadao.com.br/estadao-verifica"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Estado", "checagem": true, "base": "IFCN"},
     {"id": "fatooufake", "nome": "Fato ou Fake (g1)", "dominios": ["g1.globo.com/fato-ou-fake"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Globo", "checagem": true, "base": "curadoria"},
