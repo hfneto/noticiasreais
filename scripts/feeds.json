@@ -1,83 +1,421 @@
 {
-  "_sobre": "Feeds RSS lidos de hora em hora pelo GitHub Actions (scripts/coletar_feeds.py). 'fonte' é o id em data/fontes.json. Feeds com erro aparecem em feeds/manchetes.json → feeds[].status; corrija ou remova aqui.",
-  "feeds": [
-    {"fonte": "folha", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"},
-    {"fonte": "folha", "url": "https://feeds.folha.uol.com.br/poder/rss091.xml"},
-    {"fonte": "estadao", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/"},
-    {"fonte": "estadao", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/"},
-    {"fonte": "estadao", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/internacional/"},
-    {"fonte": "oglobo", "url": "https://oglobo.globo.com/arc/outboundfeeds/rss/?outputType=xml"},
-    {"fonte": "g1", "url": "https://g1.globo.com/rss/g1/"},
-    {"fonte": "g1", "url": "https://g1.globo.com/rss/g1/politica/"},
-    {"fonte": "valor", "url": "https://valor.globo.com/rss/valor/"},
-    {"fonte": "uol", "url": "https://rss.uol.com.br/feed/noticias.xml"},
-    {"fonte": "cnnbrasil", "url": "https://www.cnnbrasil.com.br/feed/"},
-    {"fonte": "band", "url": "https://www.band.uol.com.br/rss/noticias.xml"},
-    {"fonte": "r7", "url": "https://noticias.r7.com/feed.xml"},
-    {"fonte": "sbt", "url": "https://sbtnews.sbt.com.br/rss"},
-    {"fonte": "jovempan", "url": "https://jovempan.com.br/feed"},
-    {"fonte": "gazetadopovo", "url": "https://www.gazetadopovo.com.br/feed/rss/republica.xml"},
-    {"fonte": "gazetadopovo", "url": "https://www.gazetadopovo.com.br/feed/rss/ultimas-noticias.xml"},
-    {"fonte": "oeste", "url": "https://revistaoeste.com/feed/"},
-    {"fonte": "antagonista", "url": "https://oantagonista.com.br/feed/"},
-    {"fonte": "veja", "url": "https://veja.abril.com.br/feed/"},
-    {"fonte": "exame", "url": "https://exame.com/feed/"},
-    {"fonte": "infomoney", "url": "https://www.infomoney.com.br/feed/"},
-    {"fonte": "poder360", "url": "https://www.poder360.com.br/feed/"},
-    {"fonte": "metropoles", "url": "https://www.metropoles.com/feed"},
-    {"fonte": "correiobraziliense", "url": "https://www.correiobraziliense.com.br/feed"},
-    {"fonte": "estadodeminas", "url": "https://www.em.com.br/rss/noticia/politica/rss.xml"},
-    {"fonte": "gzh", "url": "https://gauchazh.clicrbs.com.br/rss/"},
-    {"fonte": "piaui", "url": "https://piaui.folha.uol.com.br/feed/"},
-    {"fonte": "nexo", "url": "https://www.nexojornal.com.br/rss.xml"},
-    {"fonte": "publica", "url": "https://apublica.org/feed/"},
-    {"fonte": "intercept", "url": "https://www.intercept.com.br/feed/"},
-    {"fonte": "cartacapital", "url": "https://www.cartacapital.com.br/feed/"},
-    {"fonte": "brasildefato", "url": "https://www.brasildefato.com.br/rss2.xml"},
-    {"fonte": "brasil247", "url": "https://www.brasil247.com/feed"},
-    {"fonte": "forum", "url": "https://revistaforum.com.br/feed/"},
-    {"fonte": "dcm", "url": "https://www.diariodocentrodomundo.com.br/feed/"},
-    {"fonte": "icl", "url": "https://iclnoticias.com.br/feed/"},
-    {"fonte": "plenonews", "url": "https://pleno.news/feed"},
-    {"fonte": "conexaopolitica", "url": "https://conexaopolitica.com.br/feed/"},
-    {"fonte": "agenciabrasil", "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"},
-    {"fonte": "agenciasenado", "url": "https://www12.senado.leg.br/noticias/rss"},
-    {"fonte": "bbcbrasil", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"},
-    {"fonte": "dwbrasil", "url": "https://rss.dw.com/xml/rss-br-all"},
-    {"fonte": "jota", "url": "https://www.jota.info/feed"},
-    {"fonte": "congressoemfoco", "url": "https://www.congressoemfoco.com.br/feed"},
-    {"fonte": "operamundi", "url": "https://operamundi.uol.com.br/feed/"},
-    {"fonte": "outraspalavras", "url": "https://outraspalavras.net/feed/"},
-    {"fonte": "midianinja", "url": "https://midianinja.org/feed/"},
-    {"fonte": "braziljournal", "url": "https://braziljournal.com/feed/"},
-    {"fonte": "istoe", "url": "https://istoe.com.br/feed/"},
-    {"fonte": "diariodopoder", "url": "https://diariodopoder.com.br/feed"},
-    {"fonte": "terrabrasil", "url": "https://terrabrasilnoticias.com/feed/"},
-    {"fonte": "otempo", "url": "https://www.otempo.com.br/rss"},
-    {"fonte": "neofeed", "url": "https://neofeed.com.br/feed/"},
-    {"fonte": "lupa", "url": "https://www.agencialupa.org/feed/"},
-    {"fonte": "aosfatos", "url": "https://www.aosfatos.org/noticias/feed/"},
-    {"fonte": "comprova", "url": "https://projetocomprova.com.br/feed/"},
-
-    {"fonte": "bbc", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
-    {"fonte": "guardian", "url": "https://www.theguardian.com/world/rss"},
-    {"fonte": "nyt", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
-    {"fonte": "wapo", "url": "https://feeds.washingtonpost.com/rss/world"},
-    {"fonte": "npr", "url": "https://feeds.npr.org/1004/rss.xml"},
-    {"fonte": "wsj", "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"},
-    {"fonte": "foxnews", "url": "https://moxie.foxnews.com/google-publisher/world.xml"},
-    {"fonte": "nypost", "url": "https://nypost.com/news/feed/"},
-    {"fonte": "breitbart", "url": "https://feeds.feedburner.com/breitbart"},
-    {"fonte": "politico", "url": "https://rss.politico.com/politics-news.xml"},
-    {"fonte": "axios", "url": "https://api.axios.com/feed/"},
-    {"fonte": "economist", "url": "https://www.economist.com/international/rss.xml"},
-    {"fonte": "aljazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
-    {"fonte": "dw", "url": "https://rss.dw.com/xml/rss-en-world"},
-    {"fonte": "lemonde", "url": "https://www.lemonde.fr/international/rss_full.xml"},
-    {"fonte": "lefigaro", "url": "https://www.lefigaro.fr/rss/figaro_international.xml"},
-    {"fonte": "clarin", "url": "https://www.clarin.com/rss/mundo/"},
-    {"fonte": "lanacion", "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"},
-    {"fonte": "pagina12", "url": "https://www.pagina12.com.ar/rss/portada"},
-    {"fonte": "elpaisbrasil", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"}
-  ]
+ "_sobre": "Feeds RSS lidos de hora em hora pelo GitHub Actions (scripts/coletar_feeds.py). 'fonte' é o id em data/fontes.json. Feeds com erro aparecem em feeds/manchetes.json → feeds[].status; corrija ou remova aqui.",
+ "feeds": [
+  {
+   "fonte": "folha",
+   "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"
+  },
+  {
+   "fonte": "folha",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml"
+  },
+  {
+   "fonte": "estadao",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/"
+  },
+  {
+   "fonte": "estadao",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/"
+  },
+  {
+   "fonte": "estadao",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/internacional/"
+  },
+  {
+   "fonte": "oglobo",
+   "url": "https://oglobo.globo.com/arc/outboundfeeds/rss/?outputType=xml",
+   "alternativas": [
+    "https://oglobo.globo.com/rss.xml",
+    "https://oglobo.globo.com/arc/outboundfeeds/rss/category/politica/?outputType=xml",
+    "https://oglobo.globo.com/rss/oglobo"
+   ]
+  },
+  {
+   "fonte": "g1",
+   "url": "https://g1.globo.com/rss/g1/"
+  },
+  {
+   "fonte": "g1",
+   "url": "https://g1.globo.com/rss/g1/politica/"
+  },
+  {
+   "fonte": "valor",
+   "url": "https://valor.globo.com/rss/valor/"
+  },
+  {
+   "fonte": "uol",
+   "url": "https://rss.uol.com.br/feed/noticias.xml"
+  },
+  {
+   "fonte": "cnnbrasil",
+   "url": "https://www.cnnbrasil.com.br/feed/"
+  },
+  {
+   "fonte": "band",
+   "url": "https://www.band.uol.com.br/rss/noticias.xml",
+   "alternativas": [
+    "https://www.band.com.br/rss/noticias.xml",
+    "https://www.band.uol.com.br/noticias/rss.xml"
+   ]
+  },
+  {
+   "fonte": "r7",
+   "url": "https://noticias.r7.com/feed.xml",
+   "alternativas": [
+    "https://noticias.r7.com/politica/feed.xml",
+    "https://www.r7.com/feed",
+    "https://record.r7.com/feed.xml"
+   ]
+  },
+  {
+   "fonte": "sbt",
+   "url": "https://sbtnews.sbt.com.br/rss",
+   "alternativas": [
+    "https://sbtnews.sbt.com.br/feed",
+    "https://sbtnews.sbt.com.br/rss.xml",
+    "https://sbtnews.sbt.com.br/feed/"
+   ]
+  },
+  {
+   "fonte": "jovempan",
+   "url": "https://jovempan.com.br/feed"
+  },
+  {
+   "fonte": "gazetadopovo",
+   "url": "https://www.gazetadopovo.com.br/feed/rss/republica.xml"
+  },
+  {
+   "fonte": "gazetadopovo",
+   "url": "https://www.gazetadopovo.com.br/feed/rss/ultimas-noticias.xml"
+  },
+  {
+   "fonte": "oeste",
+   "url": "https://revistaoeste.com/feed/"
+  },
+  {
+   "fonte": "antagonista",
+   "url": "https://oantagonista.com.br/feed/"
+  },
+  {
+   "fonte": "veja",
+   "url": "https://veja.abril.com.br/feed/"
+  },
+  {
+   "fonte": "exame",
+   "url": "https://exame.com/feed/"
+  },
+  {
+   "fonte": "infomoney",
+   "url": "https://www.infomoney.com.br/feed/"
+  },
+  {
+   "fonte": "poder360",
+   "url": "https://www.poder360.com.br/feed/"
+  },
+  {
+   "fonte": "metropoles",
+   "url": "https://www.metropoles.com/feed"
+  },
+  {
+   "fonte": "correiobraziliense",
+   "url": "https://www.correiobraziliense.com.br/feed",
+   "alternativas": [
+    "https://www.correiobraziliense.com.br/arc/outboundfeeds/rss/?outputType=xml",
+    "https://www.correiobraziliense.com.br/politica/feed",
+    "https://www.correiobraziliense.com.br/rss"
+   ]
+  },
+  {
+   "fonte": "estadodeminas",
+   "url": "https://www.em.com.br/rss/noticia/politica/rss.xml",
+   "alternativas": [
+    "https://www.em.com.br/rss/noticia/politica.xml",
+    "https://www.em.com.br/feed",
+    "https://www.em.com.br/rss/noticia/nacional/rss.xml"
+   ]
+  },
+  {
+   "fonte": "gzh",
+   "url": "https://gauchazh.clicrbs.com.br/rss/",
+   "alternativas": [
+    "https://gauchazh.clicrbs.com.br/rss/ultimas-noticias.xml",
+    "https://gauchazh.clicrbs.com.br/politica/rss/",
+    "https://gauchazh.clicrbs.com.br/feed"
+   ]
+  },
+  {
+   "fonte": "piaui",
+   "url": "https://piaui.folha.uol.com.br/feed/"
+  },
+  {
+   "fonte": "nexo",
+   "url": "https://www.nexojornal.com.br/rss.xml"
+  },
+  {
+   "fonte": "publica",
+   "url": "https://apublica.org/feed/"
+  },
+  {
+   "fonte": "intercept",
+   "url": "https://www.intercept.com.br/feed/"
+  },
+  {
+   "fonte": "cartacapital",
+   "url": "https://www.cartacapital.com.br/feed/"
+  },
+  {
+   "fonte": "brasildefato",
+   "url": "https://www.brasildefato.com.br/rss2.xml",
+   "alternativas": [
+    "https://www.brasildefato.com.br/feed/",
+    "https://www.brasildefato.com.br/rss",
+    "https://www.brasildefato.com.br/rss.xml"
+   ]
+  },
+  {
+   "fonte": "brasil247",
+   "url": "https://www.brasil247.com/feed"
+  },
+  {
+   "fonte": "forum",
+   "url": "https://revistaforum.com.br/feed/"
+  },
+  {
+   "fonte": "dcm",
+   "url": "https://www.diariodocentrodomundo.com.br/feed/"
+  },
+  {
+   "fonte": "icl",
+   "url": "https://iclnoticias.com.br/feed/"
+  },
+  {
+   "fonte": "plenonews",
+   "url": "https://pleno.news/feed"
+  },
+  {
+   "fonte": "conexaopolitica",
+   "url": "https://conexaopolitica.com.br/feed/"
+  },
+  {
+   "fonte": "agenciabrasil",
+   "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+  },
+  {
+   "fonte": "agenciasenado",
+   "url": "https://www12.senado.leg.br/noticias/rss"
+  },
+  {
+   "fonte": "bbcbrasil",
+   "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"
+  },
+  {
+   "fonte": "dwbrasil",
+   "url": "https://rss.dw.com/xml/rss-br-all",
+   "alternativas": [
+    "https://rss.dw.com/rdf/rss-br-all",
+    "https://rss.dw.com/atom/rss-br-all"
+   ]
+  },
+  {
+   "fonte": "jota",
+   "url": "https://www.jota.info/feed"
+  },
+  {
+   "fonte": "congressoemfoco",
+   "url": "https://www.congressoemfoco.com.br/feed"
+  },
+  {
+   "fonte": "operamundi",
+   "url": "https://operamundi.uol.com.br/feed/"
+  },
+  {
+   "fonte": "outraspalavras",
+   "url": "https://outraspalavras.net/feed/"
+  },
+  {
+   "fonte": "midianinja",
+   "url": "https://midianinja.org/feed/"
+  },
+  {
+   "fonte": "braziljournal",
+   "url": "https://braziljournal.com/feed/"
+  },
+  {
+   "fonte": "istoe",
+   "url": "https://istoe.com.br/feed/"
+  },
+  {
+   "fonte": "diariodopoder",
+   "url": "https://diariodopoder.com.br/feed"
+  },
+  {
+   "fonte": "terrabrasil",
+   "url": "https://terrabrasilnoticias.com/feed/"
+  },
+  {
+   "fonte": "otempo",
+   "url": "https://www.otempo.com.br/rss",
+   "alternativas": [
+    "https://www.otempo.com.br/rss/politica",
+    "https://www.otempo.com.br/feed",
+    "https://www.otempo.com.br/rss.xml"
+   ]
+  },
+  {
+   "fonte": "neofeed",
+   "url": "https://neofeed.com.br/feed/"
+  },
+  {
+   "fonte": "lupa",
+   "url": "https://www.agencialupa.org/feed/"
+  },
+  {
+   "fonte": "aosfatos",
+   "url": "https://www.aosfatos.org/noticias/feed/"
+  },
+  {
+   "fonte": "comprova",
+   "url": "https://projetocomprova.com.br/feed/"
+  },
+  {
+   "fonte": "forum",
+   "url": "https://revistaforum.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "dcm",
+   "url": "https://www.diariodocentrodomundo.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "icl",
+   "url": "https://iclnoticias.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "operamundi",
+   "url": "https://operamundi.uol.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "brasil247",
+   "url": "https://www.brasil247.com/feed?paged=2"
+  },
+  {
+   "fonte": "cartacapital",
+   "url": "https://www.cartacapital.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "intercept",
+   "url": "https://www.intercept.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "jovempan",
+   "url": "https://jovempan.com.br/feed?paged=2"
+  },
+  {
+   "fonte": "diariodopoder",
+   "url": "https://diariodopoder.com.br/feed?paged=2"
+  },
+  {
+   "fonte": "conexaopolitica",
+   "url": "https://conexaopolitica.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "plenonews",
+   "url": "https://pleno.news/feed?paged=2"
+  },
+  {
+   "fonte": "antagonista",
+   "url": "https://oantagonista.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "istoe",
+   "url": "https://istoe.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "poder360",
+   "url": "https://www.poder360.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "infomoney",
+   "url": "https://www.infomoney.com.br/feed/?paged=2"
+  },
+  {
+   "fonte": "bbc",
+   "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+   "fonte": "guardian",
+   "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+   "fonte": "nyt",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  },
+  {
+   "fonte": "wapo",
+   "url": "https://feeds.washingtonpost.com/rss/world"
+  },
+  {
+   "fonte": "npr",
+   "url": "https://feeds.npr.org/1004/rss.xml"
+  },
+  {
+   "fonte": "foxnews",
+   "url": "https://moxie.foxnews.com/google-publisher/world.xml"
+  },
+  {
+   "fonte": "nypost",
+   "url": "https://nypost.com/news/feed/"
+  },
+  {
+   "fonte": "breitbart",
+   "url": "https://feeds.feedburner.com/breitbart"
+  },
+  {
+   "fonte": "politico",
+   "url": "https://rss.politico.com/politics-news.xml"
+  },
+  {
+   "fonte": "axios",
+   "url": "https://api.axios.com/feed/"
+  },
+  {
+   "fonte": "economist",
+   "url": "https://www.economist.com/international/rss.xml"
+  },
+  {
+   "fonte": "aljazeera",
+   "url": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+   "fonte": "dw",
+   "url": "https://rss.dw.com/xml/rss-en-world"
+  },
+  {
+   "fonte": "lemonde",
+   "url": "https://www.lemonde.fr/international/rss_full.xml"
+  },
+  {
+   "fonte": "lefigaro",
+   "url": "https://www.lefigaro.fr/rss/figaro_international.xml"
+  },
+  {
+   "fonte": "clarin",
+   "url": "https://www.clarin.com/rss/mundo/"
+  },
+  {
+   "fonte": "lanacion",
+   "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+   "fonte": "pagina12",
+   "url": "https://www.pagina12.com.ar/rss/portada",
+   "alternativas": [
+    "https://www.pagina12.com.ar/rss/secciones/el-mundo/notas",
+    "https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+   ]
+  },
+  {
+   "fonte": "elpaisbrasil",
+   "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"
+  }
+ ]
 }

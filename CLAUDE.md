@@ -17,7 +17,7 @@ O conteúdo é gerado por sessões agendadas do Claude Code (Routines). Este arq
 Esta sessão não abre sites e o buscador cobre mal vários veículos. Por isso um GitHub Action lê, de hora em hora, os feeds RSS de cerca de 80 veículos (`scripts/feeds.json`) e publica as manchetes das últimas 36 h no branch `feeds`:
 
 ```bash
-git fetch -q origin feeds && git show origin/feeds:manchetes.json > /tmp/manchetes.json
+git fetch -q origin feeds && git show FETCH_HEAD:manchetes.json > /tmp/manchetes.json
 python3 -c "import json;d=json.load(open('/tmp/manchetes.json'));print(d['coletado_em'],len(d['itens']),'manchetes')"
 ```
 

@@ -51,15 +51,31 @@ def texto(el, *tags):
     return None
 
 
-def ler(feed):
-    req = urllib.request.Request(feed["url"], headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
-    try:
-        with urllib.request.urlopen(req, timeout=20) as r:
-            corpo = r.read()
-        raiz = ET.fromstring(corpo)
-    except Exception as e:  # noqa: BLE001
-        return {**feed, "status": f"erro: {type(e).__name__}: {str(e)[:120]}", "itens": []}
+def _tag(bloco, *nomes):
+    for n in nomes:
+        m = re.search(rf"<{n}\b[^>]*>(.*?)</{n}>", bloco, re.S | re.I)
+        if m:
+            return re.sub(r"^\s*<!\[CDATA\[(.*)\]\]>\s*$", r"\1", m.group(1), flags=re.S)
+    return None
 
+
+def extrair_tolerante(corpo):
+    """Para feeds com XML malformado: lê item a item com expressões regulares."""
+    txt = corpo.decode("utf-8", errors="replace")
+    itens = []
+    for bloco in re.findall(r"<item\b.*?</item>", txt, re.S | re.I):
+        itens.append((_tag(bloco, "title"), _tag(bloco, "link", "guid"), _tag(bloco, "pubDate", "dc:date")))
+    for bloco in re.findall(r"<entry\b.*?</entry>", txt, re.S | re.I):
+        m = re.search(r'<link\b[^>]*href="([^"]+)"', bloco)
+        itens.append((_tag(bloco, "title"), m.group(1) if m else None, _tag(bloco, "published", "updated")))
+    return itens
+
+
+def extrair(corpo):
+    try:
+        raiz = ET.fromstring(corpo)
+    except ET.ParseError:
+        return extrair_tolerante(corpo)
     itens = []
     for it in raiz.iter("item"):  # RSS 2.0 / 0.91
         itens.append((texto(it, "title"), texto(it, "link", "guid"),
@@ -67,6 +83,32 @@ def ler(feed):
     for it in raiz.iter(f"{ATOM}entry"):  # Atom
         link = next((l.get("href") for l in it.findall(f"{ATOM}link") if l.get("rel", "alternate") == "alternate"), None)
         itens.append((texto(it, f"{ATOM}title"), link, texto(it, f"{ATOM}published", f"{ATOM}updated")))
+    return itens
+
+
+def baixar(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+    with urllib.request.urlopen(req, timeout=25) as r:
+        return r.read()
+
+
+def ler(feed):
+    """Tenta a url e, se falhar ou vier vazia, cada uma das `alternativas`; fica com a primeira que der itens."""
+    tentativas = [feed["url"], *feed.get("alternativas", [])]
+    ultimo = None
+    for url in tentativas:
+        r = ler_url({"fonte": feed["fonte"], "url": url})
+        if r["status"] == "ok":
+            return r
+        ultimo = ultimo if ultimo and ultimo["status"].startswith("vazio") else r
+    return ultimo
+
+
+def ler_url(feed):
+    try:
+        itens = extrair(baixar(feed["url"]))
+    except Exception as e:  # noqa: BLE001
+        return {**feed, "status": f"erro: {type(e).__name__}: {str(e)[:120]}", "itens": []}
 
     agora = datetime.now(timezone.utc)
     saida = []
