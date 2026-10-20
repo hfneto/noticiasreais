@@ -179,9 +179,18 @@ struct AjustesView: View {
     @State private var hora = AjustesView.dataDaHora(Notificacoes.minutos)
     @State private var token = ""
     @State private var temToken = Chaveiro.ler() != nil
+    @AppStorage(Leitura.chaveSafari) private var noSafari = true
 
     var body: some View {
         Form {
+            Section {
+                Toggle("Abrir matérias no Safari", isOn: $noSafari)
+            } header: {
+                Text("Leitura")
+            } footer: {
+                Text("No Safari valem as suas assinaturas (Estadão, Folha etc.) já logadas. Desligado, as matérias abrem dentro do app, onde é preciso fazer login de novo em cada site.")
+            }
+
             Section {
                 Toggle("Avisar quando a edição sair", isOn: $notifAtivas)
                 if notifAtivas {

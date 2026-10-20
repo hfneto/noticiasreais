@@ -10,11 +10,23 @@ O conteúdo é gerado por sessões agendadas do Claude Code (Routines). Este arq
 - `data/edicoes/AAAA-MM-DD.json`: edição diária.
 - `data/buscas/<slug>.json`: resultado de uma busca por assunto.
 - `data/index.json`: gerado por `scripts/validar.py`. Nunca edite à mão.
+- `scripts/feeds.json` e `scripts/coletar_feeds.py`: coleta de manchetes por RSS (GitHub Actions). Pode acrescentar feeds de veículos já cadastrados em `fontes.json`.
+
+## Manchetes por RSS (use sempre)
+
+Esta sessão não abre sites e o buscador cobre mal vários veículos. Por isso um GitHub Action lê, de hora em hora, os feeds RSS de cerca de 80 veículos (`scripts/feeds.json`) e publica as manchetes das últimas 36 h no branch `feeds`:
+
+```bash
+git fetch -q origin feeds && git show origin/feeds:manchetes.json > /tmp/manchetes.json
+python3 -c "import json;d=json.load(open('/tmp/manchetes.json'));print(d['coletado_em'],len(d['itens']),'manchetes')"
+```
+
+Cada item tem `fonte` (id em `fontes.json`), `titulo`, `url` e `publicado_em`. Use esse arquivo para: (1) ver quais assuntos aparecem em muitos veículos (pauta); (2) achar a matéria de cada lado sobre uma história, procurando por palavras-chave nos títulos; (3) detectar pontos cegos (história que só aparece nos feeds de um lado). Combine com WebSearch para contexto, checagens e veículos sem feed. Se o arquivo tiver mais de 3 h (`coletado_em`), siga só com WebSearch e avise no resumo final.
 
 ## Tarefa 1 — edição diária
 
 1. Data de hoje em Brasília: `TZ=America/Sao_Paulo date +%F`.
-2. Levante as histórias mais importantes das últimas 24h: **8 a 12 histórias**, cerca de 2/3 Brasil e 1/3 mundo. Critério: relevância pública (política, economia, justiça, saúde, ciência, clima, internacional), não volume de cliques. Evite fofoca, celebridade e esporte, salvo fato de grande impacto.
+2. Leia as manchetes do branch `feeds` (seção acima). Levante as histórias mais importantes das últimas 24h: **8 a 12 histórias**, cerca de 2/3 Brasil e 1/3 mundo. Critério: relevância pública (política, economia, justiça, saúde, ciência, clima, internacional), não volume de cliques. Evite fofoca, celebridade e esporte, salvo fato de grande impacto.
    - Busque em vários veículos de lados diferentes (veja `data/fontes.json`), não só nos grandes portais. Uma história que só um lado está cobrindo é exatamente o que o app quer mostrar (ponto cego).
 3. Para cada história, pesquise a cobertura e monte o objeto conforme o **Esquema** abaixo. Meta: **6 a 12 matérias** por história, cobrindo esquerda, centro e direita quando existirem. Se procurou um lado e não achou cobertura, diga isso em `ponto_cego`.
 4. Grave em `data/edicoes/<data>.json`, rode `python3 scripts/validar.py data/edicoes/<data>.json` e corrija até passar.
@@ -42,7 +54,7 @@ O usuário pede buscas abrindo uma issue com título `busca: <assunto>`.
 
 **Honestidade acima de completude.** Prefira menos histórias bem apuradas a muitas mal apuradas.
 
-- **Nunca invente URL, título, veículo ou citação.** Toda `url` precisa ter aparecido num resultado de busca ou página que você abriu nesta sessão. Se não achar o link de uma matéria, não a inclua.
+- **Nunca invente URL, título, veículo ou citação.** Toda `url` precisa ter aparecido num resultado de busca, numa página que você abriu nesta sessão ou em `manchetes.json` (branch `feeds`). Se não achar o link de uma matéria, não a inclua.
 - `titulo` da matéria é o título original publicado (em outra língua, mantenha o original e traduza em `angulo`).
 - `angulo` é uma frase sua, curta, dizendo o enfoque daquela matéria (o que ela destaca, o que omite). Não copie parágrafos: o app linka para a matéria original para leitura na íntegra.
 

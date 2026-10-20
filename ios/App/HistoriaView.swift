@@ -34,8 +34,15 @@ private struct LeituraView: View {
     var indice: Int
     @State private var filtro: FiltroCobertura = .todos
     @State private var link: LinkExterno?
+    @AppStorage(Leitura.chaveSafari) private var noSafari = true
+    @Environment(\.openURL) private var openURL
 
     private var h: Historia { historias[indice] }
+
+    /// No Safari valem os logins do usuário (assinaturas); no navegador interno, não.
+    private func abrirLink(_ u: URL) {
+        if noSafari { openURL(u) } else { link = LinkExterno(url: u) }
+    }
 
     var body: some View {
         let cob = modelo.cobertura(h)
@@ -98,7 +105,7 @@ private struct LeituraView: View {
                                         .font(.subheadline).foregroundStyle(Color.nrMudo)
                                     ForEach(d.checagem ?? [], id: \.self) { c in
                                         if let u = URL(string: c.url), u.scheme == "https" {
-                                            Button("\(c.nome) ↗") { link = LinkExterno(url: u) }
+                                            Button("\(c.nome) ↗") { abrirLink(u) }
                                                 .font(.subheadline.weight(.semibold))
                                         }
                                     }
@@ -122,7 +129,7 @@ private struct LeituraView: View {
                     Bloco(titulo: "Cobertura", nota: "\(cob.n) classificadas") {
                         BarraEspectro(cobertura: cob, altura: 8)
                         Percentuais(cobertura: cob)
-                        CoberturaLista(historia: h, posicao: indice, filtro: $filtro) { link = LinkExterno(url: $0) }
+                        CoberturaLista(historia: h, posicao: indice, filtro: $filtro) { abrirLink($0) }
                     }
                     .id("cobertura")
 
@@ -316,6 +323,10 @@ private struct CoberturaLista: View {
             Text(partes).font(.caption.weight(.semibold)).foregroundStyle(Color.nrMudo)
         }
     }
+}
+
+enum Leitura {
+    static let chaveSafari = "leitura.safari"
 }
 
 struct LinkExterno: Identifiable {

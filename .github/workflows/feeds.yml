@@ -1,0 +1,34 @@
+name: Coletar manchetes (RSS)
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/feeds.json, scripts/coletar_feeds.py, .github/workflows/feeds.yml]
+permissions:
+  contents: write
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Coletar
+        run: python3 scripts/coletar_feeds.py "$RUNNER_TEMP/manchetes.json"
+      - name: Publicar no branch feeds (um único commit, sem histórico)
+        run: |
+          cd "$RUNNER_TEMP"
+          rm -rf pub && mkdir pub && cd pub
+          git init -q -b feeds
+          cp ../manchetes.json .
+          printf '# Manchetes coletadas por RSS\n\nGerado de hora em hora por .github/workflows/feeds.yml no branch main. Não edite.\n' > README.md
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Manchetes $(date -u +%FT%TZ)"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" feeds
