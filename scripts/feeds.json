@@ -23,12 +23,7 @@
   },
   {
    "fonte": "oglobo",
-   "url": "https://oglobo.globo.com/arc/outboundfeeds/rss/?outputType=xml",
-   "alternativas": [
-    "https://oglobo.globo.com/rss.xml",
-    "https://oglobo.globo.com/arc/outboundfeeds/rss/category/politica/?outputType=xml",
-    "https://oglobo.globo.com/rss/oglobo"
-   ]
+   "url": "https://oglobo.globo.com/rss/oglobo"
   },
   {
    "fonte": "g1",
@@ -69,12 +64,7 @@
   },
   {
    "fonte": "sbt",
-   "url": "https://sbtnews.sbt.com.br/rss",
-   "alternativas": [
-    "https://sbtnews.sbt.com.br/feed",
-    "https://sbtnews.sbt.com.br/rss.xml",
-    "https://sbtnews.sbt.com.br/feed/"
-   ]
+   "url": "https://sbtnews.sbt.com.br/rss.xml"
   },
   {
    "fonte": "jovempan",
@@ -127,12 +117,7 @@
   },
   {
    "fonte": "estadodeminas",
-   "url": "https://www.em.com.br/rss/noticia/politica/rss.xml",
-   "alternativas": [
-    "https://www.em.com.br/rss/noticia/politica.xml",
-    "https://www.em.com.br/feed",
-    "https://www.em.com.br/rss/noticia/nacional/rss.xml"
-   ]
+   "url": "https://www.em.com.br/feed"
   },
   {
    "fonte": "gzh",
@@ -165,12 +150,7 @@
   },
   {
    "fonte": "brasildefato",
-   "url": "https://www.brasildefato.com.br/rss2.xml",
-   "alternativas": [
-    "https://www.brasildefato.com.br/feed/",
-    "https://www.brasildefato.com.br/rss",
-    "https://www.brasildefato.com.br/rss.xml"
-   ]
+   "url": "https://www.brasildefato.com.br/feed/"
   },
   {
    "fonte": "brasil247",
@@ -407,11 +387,7 @@
   },
   {
    "fonte": "pagina12",
-   "url": "https://www.pagina12.com.ar/rss/portada",
-   "alternativas": [
-    "https://www.pagina12.com.ar/rss/secciones/el-mundo/notas",
-    "https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml"
-   ]
+   "url": "https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml"
   },
   {
    "fonte": "elpaisbrasil",
