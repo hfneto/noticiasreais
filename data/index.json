@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-19T09:00:09+00:00",
+ "atualizado_em": "2026-10-20T08:58:41+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-20",
+   "arquivo": "data/edicoes/2026-10-20.json",
+   "historias": 8,
+   "gerado_em": "2026-10-20T06:40:00-03:00",
+   "manchete": "Novas pesquisas mostram Flávio à frente de Lula, com diferença menor que na semana passada"
+  },
   {
    "data": "2026-10-19",
    "arquivo": "data/edicoes/2026-10-19.json",

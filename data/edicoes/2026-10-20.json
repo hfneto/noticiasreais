@@ -1,0 +1,289 @@
+{
+  "tipo": "edicao",
+  "data": "2026-10-20",
+  "gerado_em": "2026-10-20T06:40:00-03:00",
+  "historias": [
+    {
+      "id": "pesquisas-atlas-nexus-poderdata-segundo-turno",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Novas pesquisas mostram Flávio à frente de Lula, com diferença menor que na semana passada",
+      "lide": "AtlasIntel, BTG/Nexus e PoderData divulgaram na segunda pesquisas de segundo turno com Flávio Bolsonaro numericamente à frente de Lula; em duas delas, a vantagem diminuiu em relação à rodada anterior. As coletas foram feitas quase todas antes do debate de domingo, e Quaest e Datafolha saem na quarta e na quinta.",
+      "contexto": "O segundo turno é no domingo, 25 de outubro. Na semana passada, Datafolha e Quaest mostraram Flávio com 51% dos votos válidos e Lula com 49%, empate técnico.",
+      "fatos": [
+        {"texto": "AtlasIntel/Bloomberg, com 4.998 entrevistas de 13 a 18 de outubro e margem de 1 ponto: Flávio tem 51,1% dos votos válidos e Lula 48,9%. Na rodada de 9 de outubro, era 52,8% a 47,2%.", "base": "3 fontes independentes (Poder360, CartaCapital, Gazeta do Povo)"},
+        {"texto": "BTG/Nexus, de 16 a 18 de outubro, margem de 2 pontos: Flávio tem 50,3% dos votos válidos e Lula 49,7%; nos votos totais, 46,5% a 45,9%.", "base": "4 fontes independentes (Exame, Revista Oeste, CartaCapital, Gazeta do Povo)"},
+        {"texto": "PoderData/Aya, com 3.000 entrevistas de 16 a 18 de outubro e margem de 1,8 ponto: Flávio tem 52% dos votos válidos e Lula 48%.", "base": "Divulgação do PoderData, instituto do Poder360"},
+        {"texto": "As coletas das três pesquisas terminaram antes ou no dia do debate da Band, e não captam seu efeito.", "base": "2 fontes independentes (Poder360, CartaCapital)"},
+        {"texto": "A Quaest divulga nova pesquisa na quarta (21) e o Datafolha na quinta (22).", "base": "2 fontes independentes (Band, O Tempo)"}
+      ],
+      "inferencias": [
+        {"texto": "Flávio está numericamente à frente em 12 das 13 pesquisas mais recentes.", "quem": "Levantamento do Poder360"},
+        {"texto": "Lula sobe, mas Flávio segue à frente.", "quem": "CartaCapital, sobre a AtlasIntel"},
+        {"texto": "A rejeição a Lula caiu de 50,6% para 47,8%, e a de Flávio ficou em 46,8%.", "quem": "Pesquisa BTG/Nexus"},
+        {"texto": "Flávio lidera entre os homens e Lula entre as mulheres.", "quem": "Pesquisas PoderData e AtlasIntel, segundo a Jovem Pan"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Aliados de Lula destacam que a diferença caiu e que a BTG/Nexus mostra empate técnico.",
+        "oposicao": "Aliados de Flávio destacam que ele segue à frente em quase todas as pesquisas."
+      },
+      "visao_de_fora": "A AtlasIntel faz pesquisa para a agência americana Bloomberg; não encontrei repercussão em outros veículos estrangeiros nesta rodada.",
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": "poder360", "titulo": "Flávio tem 51,1% dos votos válidos contra 48,9% de Lula, diz AtlasIntel", "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-511-dos-votos-validos-contra-489-de-lula-diz-atlasintel/", "angulo": "Números da AtlasIntel e a comparação com a rodada anterior.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cartacapital", "titulo": "Lula sobe, mas Flávio segue à frente no 2º turno, indica AtlasIntel", "url": "https://www.cartacapital.com.br/politica/lula-sobe-mas-flavio-segue-a-frente-no-2o-turno-indica-atlasintel/", "angulo": "Abre pela subida de Lula.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "oeste", "titulo": "BTG/Nexus: Flávio tem 50,3%, contra 49,7% de Lula no 2º turno", "url": "https://revistaoeste.com/politica/btg-nexus-flavio-tem-503-contra-497-de-lula-no-2o-turno/", "angulo": "Abre pela liderança numérica de Flávio.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "exame", "titulo": "Pesquisa para presidente BTG/Nexus: Flávio Bolsonaro tem 50,3% e Lula, 49,7%", "url": "https://exame.com/brasil/pesquisa-para-presidente-flavio-bolsonaro-tem-503-e-lula-497-diz-btg-nexus/", "angulo": "Destaca a queda da vantagem de Flávio de 3,2 para 0,6 ponto em uma semana.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Pesquisa PoderData/Aya: leia os resultados de Lula e Flávio no 2º turno", "url": "https://www.poder360.com.br/poderdata/pesquisa-poderdata-aya-leia-os-resultados-de-lula-e-flavio-no-2o-turno-19out2026/", "angulo": "Resultado completo da pesquisa do próprio veículo.", "tipo": "fonte_primaria", "enquadramento": "neutro", "data": "2026-10-19"},
+        {"fonte": "cartacapital", "titulo": "Pesquisa Nexus/BTG mostra empate entre Lula e Flávio Bolsonaro a menos de uma semana da eleição", "url": "https://www.cartacapital.com.br/politica/pesquisa-nexus-btg-mostra-empate-entre-lula-e-flavio-bolsonaro-a-menos-de-uma-semana-da-eleicao/", "angulo": "Enfatiza o empate técnico.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "gazetadopovo", "titulo": "O que mostra a pesquisa AtlasIntel para presidente no 2º turno", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026-segundo-turno-2/", "angulo": "Detalha a AtlasIntel com recortes do eleitorado.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "Pesquisas mostram Flávio à frente entre homens e Lula entre mulheres", "url": "https://jovempan.com.br/politica/pesquisas-mostram-flavio-a-frente-entre-homens-e-lula-entre-mulheres/", "angulo": "Recorte por gênero das pesquisas.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Saiba como estão Lula e Flávio nas pesquisas a 6 dias da eleição", "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-a-6-dias-da-eleicao/", "angulo": "Panorama de todas as pesquisas recentes.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "band", "titulo": "Quando saem as próximas pesquisas após debate entre Lula e Flávio?", "url": "https://www.band.com.br/politica/eleicoes/quando-saem-as-proximas-pesquisas-apos-debate-entre-lula-e-flavio", "angulo": "Calendário das pesquisas que vão medir o efeito do debate.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "gazetadopovo", "titulo": "Nexus/BTG divulga pesquisa para presidente no 2º turno", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/nexus-btg-pactual-presidente-outubro-2026-segundo-turno-2/", "angulo": "Números da BTG/Nexus com rejeição e aprovação do governo.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "pgr-contra-investigar-mendonca",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "PGR se manifesta contra pedido de Moraes para investigar o ministro André Mendonça",
+      "lide": "O procurador-geral Paulo Gonet disse ao STF que não vê indícios suficientes para investigar André Mendonça, como pediu Alexandre de Moraes, por sua atuação como relator dos casos Banco Master e INSS. A decisão final cabe ao plenário do Supremo, em meio a uma crise inédita entre ministros.",
+      "contexto": "A disputa começou depois que Mendonça tornou públicas mensagens que Daniel Vorcaro, dono do Banco Master, enviou a Moraes. Moraes pediu que Mendonça fosse investigado com base em relatórios de inteligência da PF.",
+      "fatos": [
+        {"texto": "A PGR se manifestou contra o pedido de Alexandre de Moraes para investigar André Mendonça por sua atuação como relator dos casos Banco Master e INSS.", "base": "4 fontes independentes (CNN Brasil, Gazeta do Povo, CartaCapital, Jovem Pan)"},
+        {"texto": "Gonet afirmou que os relatórios da PF usados por Moraes trazem a advertência de que não têm valor probatório e que eventuais crimes de responsabilidade de ministros do STF são da competência do Senado.", "base": "3 fontes independentes (Gazeta do Povo, Poder360, Metrópoles)"},
+        {"texto": "O parecer ressalva que a decisão final sobre abrir investigação é do plenário do STF; ele foi enviado ao presidente da Corte, Edson Fachin.", "base": "3 fontes independentes (Gazeta do Povo, Times Brasil, CNN Brasil)"},
+        {"texto": "O parecer também diz que os relatórios sugerem que as investigações conduzidas por Mendonça tiveram vieses incompatíveis com a neutralidade esperada de um juiz.", "base": "2 fontes independentes (Gazeta do Povo, Times Brasil)"}
+      ],
+      "inferencias": [
+        {"texto": "Há \"fortes indícios\" de improbidade, abuso de autoridade e crime de responsabilidade de Mendonça na relatoria dos casos.", "quem": "Alexandre de Moraes, no pedido ao STF"},
+        {"texto": "O parecer é uma derrota para Moraes.", "quem": "NC News"},
+        {"texto": "A PGR, em outro parecer, contestou Mendonça e defendeu a cúpula da PF.", "quem": "Brasil 247"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "A cobertura é equilibrada nos fatos, mas cada lado destaca um parecer diferente da PGR: a direita, o que livra Mendonça; o Brasil 247, o que critica Mendonça e defende a PF.",
+      "materias": [
+        {"fonte": "cnnbrasil", "titulo": "Casos Master e INSS: PGR é contra pedido de Moraes para investigar Mendonça", "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/casos-master-e-inss-pgr-e-contra-pedido-de-moraes-para-investigar-mendonca/", "angulo": "Relato direto do parecer.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "brasil247", "titulo": "PGR contesta Mendonça, defende cúpula da PF e cobra decisão do plenário do STF", "url": "https://www.brasil247.com/brasil/pgr-contesta-mendonca-defende-cupula-da-pf-e-cobra-decisao-do-plenario-do-stf/", "angulo": "Destaca o parecer que critica Mendonça e defende a PF.", "tipo": "noticia", "enquadramento": "pro_governo"},
+        {"fonte": "gazetadopovo", "titulo": "PGR é contra pedido de Moraes para investigar Mendonça", "url": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-pedido-de-moraes-para-investigar-mendonca/", "angulo": "Detalha os argumentos do parecer e a origem da disputa.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "PGR rejeita abuso de autoridade em conduta de Mendonça no caso Master", "url": "https://www.poder360.com.br/poder-justica/pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master/", "angulo": "Enfatiza a ausência de abuso de autoridade.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cartacapital", "titulo": "PGR se manifesta contra pedido de Moraes para investigar Mendonça", "url": "https://www.cartacapital.com.br/justica/pgr-se-manifesta-contra-pedido-de-moraes-para-investigar-mendonca/", "angulo": "Relato do parecer.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "PGR se manifesta contra pedido de Moraes para investigar André Mendonça", "url": "https://jovempan.com.br/politica/pgr-se-manifesta-contra-pedido-de-moraes-para-investigar-andre-mendonca/", "angulo": "Relato do parecer.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "PGR diz a Fachin que não vê improbidade de Mendonça apontada por Moraes", "url": "https://metropoles.com/colunas/manoela-alcantara/pgr-diz-a-fachin-que-nao-ve-improbidade-de-mendonca-apontada-por-moraes", "angulo": "Coluna com foco no envio a Fachin.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Times Brasil", "vies_materia": "centro", "titulo": "Caso Master: PGR se manifesta contra pedido de Moraes para investigar André Mendonça", "url": "https://timesbrasil.com.br/brasil/caso-master-pgr-se-manifesta-contra-pedido-de-moraes-para-investigar-andre-mendonca/", "angulo": "Relata o parecer e a ressalva sobre os vieses nas investigações.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "PGR pede fim de investigação e diz que Mendonça extrapolou ao mandar PF apurar Moraes", "url": "https://jovempan.com.br/politica/pgr-pede-fim-de-investigacao-e-diz-que-mendonca-extrapolou-ao-mandar-pf-apurar-moraes/", "angulo": "O outro parecer da PGR, que critica Mendonça.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "pec-seguranca-adiada-maioridade",
+      "editoria": "Política",
+      "escopo": "brasil",
+      "titulo": "Votação da PEC da Segurança Pública fica para depois do segundo turno por impasse sobre maioridade penal",
+      "lide": "Davi Alcolumbre tirou da pauta e cancelou as sessões deliberativas do Senado nesta semana, deixando a PEC da Segurança Pública para depois da eleição. O impasse é uma emenda da oposição para reduzir a maioridade penal, tema que divide até o PT.",
+      "contexto": "A PEC da Segurança é uma prioridade do governo Lula. Para ser aprovada no Senado, uma PEC precisa de 49 votos em dois turnos.",
+      "fatos": [
+        {"texto": "Alcolumbre retirou a PEC da Segurança Pública da pauta e não convocou sessões deliberativas nesta semana; a votação ficou para depois do segundo turno.", "base": "4 fontes independentes (Agência Brasil, Poder360, Brasil de Fato, Gazeta do Povo)"},
+        {"texto": "O impasse gira em torno de uma emenda de Rogério Marinho (PL-RN) que reduz a maioridade penal; o senador Camilo Santana (PT-CE) apresentou outra que reduz para 16 anos só em crimes hediondos.", "base": "2 fontes independentes (Metrópoles, CNN Brasil)"},
+        {"texto": "Lula disse ser favorável à redução da maioridade para 16 anos em crimes hediondos, mas defende que o tema seja tratado fora da PEC.", "base": "2 fontes independentes (CNN Brasil, Metrópoles)"}
+      ],
+      "inferencias": [
+        {"texto": "Alcolumbre manobrou para evitar uma derrota de Lula no Senado às vésperas da eleição.", "quem": "Oposição, segundo a CNN Brasil"},
+        {"texto": "O adiamento evita uma discussão \"açodada\" e dá tempo para um acordo sobre as emendas.", "quem": "Davi Alcolumbre"},
+        {"texto": "Havia votos para aprovar a PEC sem o tema da maioridade.", "quem": "Aliados do governo"},
+        {"texto": "Mudanças no texto obrigariam nova análise pela Câmara.", "quem": "Gazeta do Povo"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "O governo quer aprovar a PEC sem a redução da maioridade e tratar o tema em outra proposta.",
+        "oposicao": "A oposição quer incluir a redução da maioridade e acusa Alcolumbre de adiar para poupar Lula de uma derrota."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": "agenciabrasil", "titulo": "Alcolumbre retira PEC da Segurança Pública da pauta do Senado", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado", "angulo": "Relato oficial da retirada de pauta.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "oeste", "titulo": "Governo quer votar PEC da Segurança sem redução da maioridade penal", "url": "https://revistaoeste.com/politica/governo-quer-votar-pec-da-seguranca-sem-reducao-da-maioridade-penal/", "angulo": "Destaca a resistência do governo à redução da maioridade.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "brasildefato", "titulo": "Alcolumbre cancela sessões e leva votação da PEC da Segurança Pública para depois do 2º turno", "url": "https://www.brasildefato.com.br/2026/10/19/alcolumbre-cancela-sessoes-e-leva-votacao-da-pec-da-seguranca-publica-para-depois-do-2o-turno/", "angulo": "Relato do adiamento com a versão da liderança do governo.", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-19"},
+        {"fonte": "cnnbrasil", "titulo": "Oposição vê manobra de Alcolumbre para evitar derrota de Lula no Senado", "url": "https://www.cnnbrasil.com.br/politica/oposicao-ve-manobra-de-alcolumbre-para-evitar-derrota-de-lula-no-senado/", "angulo": "A leitura da oposição sobre o adiamento.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Alcolumbre retira PEC da Segurança da pauta: \"Fiz o que queria fazer\"", "url": "https://www.poder360.com.br/poder-congresso/alcolumbre-retira-pec-da-seguranca-publica-da-pauta/", "angulo": "A justificativa de Alcolumbre.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "dcm", "titulo": "Alcolumbre decide adiar PEC da Segurança Pública; saiba o motivo", "url": "https://www.diariodocentrodomundo.com.br/alcolumbre-decide-adiar-pec-da-seguranca-publica-saiba-o-motivo", "angulo": "Explica o motivo do adiamento.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "Sem acordo sobre maioridade, PEC da Segurança fica para depois das eleições", "url": "https://www.metropoles.com/brasil/alcolumbre-deixa-pec-da-seguranca-publica-para-depois-das-eleicoes", "angulo": "Foco no impasse da maioridade penal.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "gazetadopovo", "titulo": "Alcolumbre adia votação da PEC da Segurança Pública para depois do 2º turno", "url": "https://www.gazetadopovo.com.br/republica/alcolumbre-adia-votacao-da-pec-da-seguranca-publica-para-depois-do-2o-turno/", "angulo": "Explica o risco de o texto voltar à Câmara.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "brasil247", "titulo": "Alcolumbre adia votação da PEC da Segurança Pública para depois do segundo turno", "url": "https://www.brasil247.com/brasil/alcolumbre-adia-votacao-da-pec-da-seguranca-publica-para-depois-do-segundo-turno/", "angulo": "Relato do adiamento.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "Edinho reafirma que Lula apoia redução da maioridade para crimes hediondos", "url": "https://cnnbrasil.com.br/eleicoes/edinho-reafirma-que-lula-apoia-reducao-da-maioridade-para-crimes-hediondos", "angulo": "A posição de Lula pela voz do presidente do PT.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "stf-um-ano-vaga-aberta",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "STF completa um ano com vaga aberta, e julgamentos empatados ficam parados",
+      "lide": "A cadeira deixada por Luís Roberto Barroso continua vazia um ano depois, desde que o Senado rejeitou Jorge Messias, indicado de Lula. Segundo levantamento da CNN Brasil, 47 julgamentos estão suspensos, e o tema só deve voltar depois da eleição.",
+      "contexto": "A rejeição de Messias, em abril, foi a primeira de um indicado ao STF desde 1894. Parte dos senadores, aliados de Davi Alcolumbre, preferia Rodrigo Pacheco para a vaga.",
+      "fatos": [
+        {"texto": "O STF completou um ano com dez ministros; a vaga é de Luís Roberto Barroso, que antecipou a aposentadoria em outubro de 2025.", "base": "3 fontes independentes (CNN Brasil, Migalhas, Diário do Poder)"},
+        {"texto": "O Senado rejeitou Jorge Messias para a vaga, a primeira rejeição de um indicado ao STF desde 1894.", "base": "2 fontes independentes (Gazeta do Povo, Jovem Pan)"},
+        {"texto": "Lula disse que vai reenviar o nome de Messias ao Senado.", "base": "2 fontes independentes (Gazeta do Povo, Metrópoles)"}
+      ],
+      "inferencias": [
+        {"texto": "Há 47 julgamentos suspensos, 20 no plenário e 27 na Primeira Turma, e cada ministro recebeu 546 processos a mais.", "quem": "Levantamento da CNN Brasil, republicado por outros veículos"},
+        {"texto": "Não há acordo com o Planalto, e o tema só deve voltar depois do segundo turno.", "quem": "Senadores ouvidos por O Antagonista"},
+        {"texto": "O próximo presidente pode indicar até quatro ministros do STF.", "quem": "Poder360"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Lula diz que a prerrogativa de indicar é dele e que vai insistir em Messias.",
+        "oposicao": "Senadores de oposição e aliados de Alcolumbre resistem a Messias e dizem que não há acordo com o Planalto."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Não encontrei cobertura do aniversário da vaga em veículos de esquerda (Brasil 247, CartaCapital, Fórum). Os números de julgamentos parados vêm de um único levantamento da CNN Brasil.",
+      "materias": [
+        {"fonte": "cnnbrasil", "titulo": "STF desfalcado há 1 ano paralisa 47 julgamentos e sobrecarrega ministros", "url": "https://www.cnnbrasil.com.br/blogs/teo-cury/politica/stf-desfalcado-ha-1-ano-paralisa-47-julgamentos-e-sobrecarrega-ministros/", "angulo": "Levantamento original dos julgamentos parados.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "gazetadopovo", "titulo": "Lula confirma segunda indicação de Messias ao STF apos derrota", "url": "https://www.gazetadopovo.com.br/republica/lula-confirma-que-indicara-messias-novamente-para-o-stf-apos-derrota-historica/", "angulo": "A insistência de Lula em Messias.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Migalhas", "vies_materia": "centro", "titulo": "Barroso anunciou saída há um ano; cadeira no STF segue sem substituto - Migalhas", "url": "https://www.migalhas.com.br/quentes/466092/barroso-anunciou-saida-ha-um-ano-cadeira-no-stf-segue-sem-substituto", "angulo": "Visão do meio jurídico sobre a vaga.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "antagonista", "titulo": "Senado discute aumentar para 50 anos a idade mínima no STF", "url": "https://oantagonista.com.br/brasil/senado-discute-aumentar-para-50-anos-a-idade-minima-no-stf/", "angulo": "Proposta do Senado e falta de acordo com o Planalto.", "tipo": "noticia", "enquadramento": "oposicao"},
+        {"fonte": "cnnbrasil", "titulo": "Em meio à crise histórica, STF completa um ano com 10 ministros", "url": "https://www.cnnbrasil.com.br/politica/em-meio-a-crise-historica-stf-completa-um-ano-com-10-ministros/", "angulo": "Liga a vaga à crise entre ministros.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": "jovempan", "titulo": "Messias é o primeiro rejeitado do STF no Senado desde 1894", "url": "https://jovempan.com.br/politica/messias-e-o-primeiro-rejeitado-na-historia-do-stf-no-senado/", "angulo": "O caráter histórico da rejeição.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "Lula diz que reenviará indicação de Messias ao STF: \"Eu que indico\"", "url": "https://www.metropoles.com/brasil/lula-indicar-messias-novamente-sou-eu-que-indico", "angulo": "A fala de Lula.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Próximo presidente indicará até 4 ministros para o STF", "url": "https://www.poder360.com.br/poder-justica/proximo-presidente-indicara-ate-4-ministros-para-o-stf/", "angulo": "O peso da eleição na composição futura do STF.", "tipo": "analise", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Diário do Poder", "vies_materia": "centro_direita", "titulo": "Com a saída de Barroso, STF completa um ano desfalcado e atrasa julgamentos - Diário do Poder", "url": "https://diariodopoder.com.br/brasil-e-regioes/e07-brasil/com-a-saida-de-barroso-stf-completa-um-ano-desfalcado-e-atrasa-julgamentos", "angulo": "Repercute os atrasos nos julgamentos.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "mps-tarifaco-combustiveis-prorrogadas",
+      "editoria": "Economia",
+      "escopo": "brasil",
+      "titulo": "Congresso prorroga MPs de R$ 10,1 bilhões para exportadores atingidos pelo tarifaço e para combustíveis",
+      "lide": "Davi Alcolumbre prorrogou por 60 dias três medidas provisórias que somam R$ 10,1 bilhões, para exportadores afetados pelas tarifas dos EUA e para subvenção a combustíveis. A prorrogação mantém as regras em vigor enquanto o Congresso não vota os textos.",
+      "contexto": "Pela Constituição, uma MP vale por 60 dias e pode ser prorrogada uma vez pelo mesmo período. O governo editou uma série de MPs para conter a alta dos combustíveis desde a guerra no Oriente Médio.",
+      "fatos": [
+        {"texto": "Foram prorrogadas por 60 dias, no Diário Oficial de segunda (19): a MP 1.386 (suspensão de tributos no drawback para exportadores), a MP 1.387 (R$ 7 bilhões em crédito a exportadores e fornecedores) e a MP 1.388 (R$ 3,1 bilhões em subvenção a importadores e produtores de combustíveis).", "base": "Diário Oficial, segundo Senado Notícias, Gazeta do Povo, CNN Brasil e Poder360"},
+        {"texto": "A MP dos combustíveis faz parte de um conjunto de oito MPs que somam R$ 34,9 bilhões para conter os efeitos do conflito no Oriente Médio sobre os preços.", "base": "2 fontes independentes (Senado Notícias, Gazeta do Povo)"},
+        {"texto": "A prorrogação não libera recursos novos; mantém as regras em vigor enquanto o Congresso analisa os textos.", "base": "2 fontes independentes (Gazeta do Povo, Tribuna PR)"}
+      ],
+      "inferencias": [
+        {"texto": "O governo mantém a meta fiscal de 2027 mesmo com o pacote de medidas da campanha.", "quem": "Governo federal, segundo a Gazeta do Povo"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "O governo apresenta as MPs como proteção a exportadores contra o tarifaço dos EUA e ao consumidor contra a alta dos combustíveis.",
+        "oposicao": "Críticos tratam as medidas como parte de um pacote de gastos do governo às vésperas da eleição."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Não encontrei cobertura em veículos de esquerda; a cobertura é sobretudo de imprensa de centro, econômica e da Agência Senado.",
+      "materias": [
+        {"fonte": "agenciasenado", "titulo": "Prorrogadas MPs de proteção ao tarifaço dos EUA e do preço de combustíveis — Senado Notícias", "url": "https://www12.senado.leg.br/noticias/materias/2026/10/19/prorrogadas-mps-de-protecao-ao-tarifaco-dos-eua-e-do-preco-de-combustiveis", "angulo": "Relato oficial do Senado, com o conteúdo de cada MP.", "tipo": "fonte_primaria", "enquadramento": "neutro", "data": "2026-10-19"},
+        {"fonte": "gazetadopovo", "titulo": "Congresso prorroga MPs de R$ 10,1 bilhões para exportadores e combustíveis", "url": "https://www.gazetadopovo.com.br/economia/congresso-prorroga-mps-10-1-bilhoes-exportadores-combustiveis/", "angulo": "Soma os valores e explica que não há dinheiro novo.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "cnnbrasil", "titulo": "Alcolumbre prorroga MP que garante subvenção ao setor de combustíveis", "url": "https://www.cnnbrasil.com.br/politica/alcolumbre-prorroga-mp-que-garante-subvencao-ao-setor-de-combustiveis/", "angulo": "Foco na MP dos combustíveis.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "infomoney", "titulo": "Alcolumbre prorroga por 60 dias MP que autoriza subsídios aos combustíveis", "url": "https://www.infomoney.com.br/politica/alcolumbre-prorroga-por-60-dias-mp-que-autoriza-subsidios-aos-combustiveis/", "angulo": "Visão do mercado sobre o subsídio.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "poder360", "titulo": "Senado prorroga por 60 dias MP sobre subsídios aos combustíveis", "url": "https://www.poder360.com.br/poder-congresso/senado-prorroga-por-60-dias-mp-sobre-subsidios-aos-combustiveis/", "angulo": "Relato da prorrogação.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": "metropoles", "titulo": "Alcolumbre estende por 60 dias MP que autoriza subsídio a combustíveis", "url": "https://www.metropoles.com/brasil/alcolumbre-estende-por-60-dias-mp-que-autoriza-subsidio-a-combustiveis", "angulo": "Relato da prorrogação.", "tipo": "noticia", "enquadramento": "neutro"},
+        {"fonte": null, "veiculo": "Tribuna PR", "vies_materia": "centro", "titulo": "Congresso prorroga medidas de apoio a exportadores e combustíveis", "url": "https://www.tribunapr.com.br/noticias/economia/congresso-prorroga-medidas-de-apoio-a-exportadores-e-combustiveis/", "angulo": "Resumo das medidas prorrogadas.", "tipo": "noticia", "enquadramento": "neutro"}
+      ]
+    },
+    {
+      "id": "alberta-rejeita-separacao",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Alberta rejeita caminho para a separação e vota por ficar no Canadá",
+      "lide": "Cerca de três em cada quatro eleitores de Alberta votaram por continuar no Canadá, segundo resultados não oficiais, e a CBC projetou vitória da permanência. O primeiro-ministro Mark Carney comemorou; líderes separatistas dizem que o movimento continua.",
+      "contexto": "A consulta não era sobre a independência em si: perguntava se Alberta deveria iniciar o processo legal para um referendo vinculante de separação. O resultado não é vinculante.",
+      "fatos": [
+        {"texto": "A CBC projetou vitória da permanência; resultados não oficiais da Elections Alberta mostram cerca de 76% a 77% pela permanência e 23% a 24% pelo início do processo de separação.", "base": "4 fontes independentes (CBC, NPR, Global News, Al Jazeera)"},
+        {"texto": "A contagem é manual e deve ser concluída em até 48 horas.", "base": "2 fontes independentes (Global News, Al Jazeera)"},
+        {"texto": "Mark Carney celebrou o resultado como uma escolha clara pela unidade; a premiê Danielle Smith disse que uma vitória federalista encerraria a questão.", "base": "3 fontes independentes (Metrópoles, Global News, NPR)"}
+      ],
+      "inferencias": [
+        {"texto": "Pelo menos um quarto dos albertanos sente que a província precisa ser mais bem tratada pelo Canadá.", "quem": "Keith Wilson, líder separatista"},
+        {"texto": "A luta por uma Alberta independente vai continuar.", "quem": "Jeffrey Rath, separatista"},
+        {"texto": "O Canadá ficará forte, mas será alterado para sempre pelo referendo.", "quem": "Artigo de opinião no The Globe and Mail"}
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "Na imprensa brasileira, só encontrei o resultado no Metrópoles; CNN Brasil e InfoMoney publicaram explicativos antes da votação.",
+      "materias": [
+        {"fonte": null, "veiculo": "Global News", "vies_materia": "centro", "titulo": "Alberta referendum voters reject separatism, choose to stay in Canada", "url": "https://globalnews.ca/news/12108827/alberta-referendum-result/", "angulo": "\"Eleitores de Alberta rejeitam separatismo e escolhem ficar no Canadá\"; resultado e participação.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": "aljazeera", "titulo": "Alberta voters reject separation from Canada, early results show", "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show", "angulo": "\"Eleitores de Alberta rejeitam separação, mostram resultados iniciais\"; explica o que estava em votação.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": "npr", "titulo": "Alberta voters reject a move toward independence in referendum backing Canadian unity", "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada", "angulo": "\"Eleitores rejeitam passo rumo à independência\"; números não oficiais.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": "metropoles", "titulo": "Província de Alberta rejeita separação do Canadá em referendo", "url": "https://www.metropoles.com/mundo/provincia-de-alberta-rejeita-separacao-do-canada-em-referendo", "angulo": "Resultado para o leitor brasileiro.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "CBC", "vies_materia": "centro", "titulo": "Prominent separatists respond after CBC News projects Alberta voted to stay in Canada", "url": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777", "angulo": "\"Separatistas reagem após projeção da CBC\"; cobertura ao vivo.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "cnn", "titulo": "Alberta rejects secession referendum, chooses to remain part of Canada, CBC projects", "url": "https://www.cnn.com/2026/10/20/americas/alberta-rejects-independence-referendum-canada-intl-hnk", "angulo": "\"Alberta rejeita referendo de secessão\"; contexto internacional, incluindo os EUA.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": null, "veiculo": "CTV News", "vies_materia": "centro", "titulo": "Albertans vote yes to unity, no to separation referendum in ...", "url": "https://www.ctvnews.ca/edmonton/alberta-referendum/article/albertans-vote-to-reject-a-referendum-on-separation/", "angulo": "\"Albertanos votam sim à unidade e não ao referendo de separação\"; visão local de Edmonton.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": null, "veiculo": "The Globe and Mail", "vies_materia": "centro", "titulo": "Canada is strong, but it will be forever altered by Alberta’s separation referendum - The Globe and Mail", "url": "https://www.theglobeandmail.com/opinion/article-canada-is-strong-but-it-will-be-forever-altered-by-albertas-referendum/", "angulo": "Opinião: \"O Canadá é forte, mas será alterado para sempre pelo referendo\".", "tipo": "opiniao", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "franca-toque-de-recolher-protestos",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "França impõe toque de recolher em partes de Paris e outras cidades após mais de 2 mil detidos",
+      "lide": "O governo francês decretou toques de recolher noturnos localizados em Paris e em outras cidades depois de um fim de semana de saques e confrontos, com mais de 2 mil detidos. O primeiro-ministro admitiu a possibilidade de estado de emergência, e os coletes amarelos convocaram novos atos.",
+      "contexto": "Os protestos começaram em setembro com uma greve de professores num colégio da periferia de Paris e se ampliaram para o custo de vida e o preço dos combustíveis. No sábado (17), mais de meio milhão de pessoas foram às ruas.",
+      "fatos": [
+        {"texto": "Mais de 2 mil pessoas foram detidas desde sábado; o ministro do Interior, Laurent Nuñez, falou em 2.513 detidos e 67 presos.", "base": "3 fontes independentes (ABC News, CNN, Brasil 247)"},
+        {"texto": "Foram decretados toques de recolher noturnos em partes de Paris, como a Place de la République e os arredores de Les Halles, e em cidades como Bordeaux, Nice, Lyon e Lille.", "base": "4 fontes independentes (CNN, ABC News, Brasil de Fato, CNN Brasil)"},
+        {"texto": "O primeiro-ministro Sébastien Lecornu orientou os prefeitos a adotar toques de recolher \"parciais e muito localizados\" e admitiu a possibilidade de estado de emergência.", "base": "2 fontes independentes (Brasil de Fato, CNN Brasil)"}
+      ],
+      "inferencias": [
+        {"texto": "Os toques de recolher contribuíram para a calma da noite.", "quem": "Sébastien Lecornu, primeiro-ministro"},
+        {"texto": "A pressão aumenta sobre Macron.", "quem": "Euronews"},
+        {"texto": "Os protestos expressam uma revolta por insatisfação social.", "quem": "Análise da CNN Brasil"},
+        {"texto": "Haverá novos atos em 24 e 31 de outubro.", "quem": "Coordenação dos coletes amarelos"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Os protestos deixaram dois mortos.", "rotulo": "Contraditório", "explicacao": "As fontes divergem: a CNN fala em pelo menos duas mortes; outros relatos citam uma morte, de um manifestante que sofreu parada cardíaca em Paris.", "onde_circula": "Imprensa internacional", "checagem": []}
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, o tema chega pela mesma pressão dos combustíveis: o Congresso prorrogou nesta segunda MPs de subsídio para conter a alta causada pelo conflito no Oriente Médio. A imprensa brasileira de todos os lados cobriu os protestos.",
+      "ponto_cego": null,
+      "materias": [
+        {"fonte": null, "veiculo": "ABC News", "vies_materia": "centro", "titulo": "France protests cool after overnight curfews in Paris, major cities, PM says - ABC News", "url": "https://abcnews.com/International/france-protests-cool-after-overnight-curfews-paris-major/story?id=137403836", "angulo": "\"Protestos esfriam após toques de recolher, diz premiê\"; números oficiais de detidos.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "brasil247", "titulo": "França impõe toque de recolher após protestos com 2.400 detidos", "url": "https://www.brasil247.com/mundo/franca-impoe-toque-de-recolher-apos-protestos-com-2-400-detidos/", "angulo": "Foco na resposta repressiva do governo.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "gazetadopovo", "titulo": "Violência e saques na França: entenda a origem dos protestos estudantis", "url": "https://www.gazetadopovo.com.br/mundo/onda-de-violencia-na-franca-atinge-escolas-e-deixa-milhares-de-detidos/", "angulo": "Abre pela violência e explica a origem estudantil.", "tipo": "analise", "enquadramento": null},
+        {"fonte": "cnn", "titulo": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe", "url": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk", "angulo": "\"Cidades francesas impõem toque de recolher após fim de semana de caos\"; destaca o contágio para a Europa.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": "brasildefato", "titulo": "França anuncia toque de recolher e prepara novas medidas de segurança em meio aos protestos", "url": "https://www.brasildefato.com.br/2026/10/19/franca-anuncia-toque-de-recolher-e-prepara-novas-medidas-de-seguranca-em-meio-aos-protestos/", "angulo": "Detalha as medidas do governo e os próximos atos.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": "euronews", "titulo": "Pressure mounts on Macron as France reels from unrest", "url": "https://www.euronews.com/2026/10/20/pressure-mounts-on-macron-as-france-reels-from-unrest", "angulo": "\"Pressão sobre Macron aumenta\"; o custo político.", "tipo": "analise", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": "cnnbrasil", "titulo": "Após caos e mortes, França emite toque de recolher para partes de Paris", "url": "https://www.cnnbrasil.com.br/internacional/apos-caos-e-mortes-franca-emite-toque-de-recolher-para-partes-de-paris/", "angulo": "Relato do toque de recolher com o balanço de mortos e presos.", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "cnnbrasil", "titulo": "Análise: \"Revolta por insatisfação social\" caracteriza protestos na França", "url": "https://www.cnnbrasil.com.br/internacional/analise-revolta-por-insatisfacao-social-caracteriza-protestos-na-franca/", "angulo": "Leitura das causas sociais dos protestos.", "tipo": "analise", "enquadramento": null}
+      ]
+    },
+    {
+      "id": "trump-zelensky-negociador",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Trump diz que Ucrânia deveria ter outro negociador no lugar de Zelensky e se abre a cúpula com Putin e Xi",
+      "lide": "Donald Trump disse na segunda que Zelensky deveria pôr outra pessoa para negociar o fim da guerra e que se reuniria com Putin e Xi Jinping. Zelensky acusa os EUA de atrasar armas e restringir inteligência, o que Washington nega.",
+      "contexto": "A relação piorou depois que Trump fechou um acordo para comprar diesel russo e suspendeu novas sanções contra a Rússia. No começo de outubro, Trump já tinha dito que a Ucrânia deveria trocar de líder.",
+      "fatos": [
+        {"texto": "Trump disse na segunda (19) que Zelensky deveria escolher outra pessoa para negociar em nome da Ucrânia.", "base": "5 fontes independentes (Reuters via Yahoo, SCMP, CNBC, Al Jazeera, Anews)"},
+        {"texto": "Trump disse que se reuniria com Putin e Xi Jinping e confirmou que um encontro pode ocorrer à margem da cúpula da Apec em Shenzhen, em novembro; segundo ele, o tema seriam armas nucleares.", "base": "3 fontes independentes (CNBC, Euronews, Al Jazeera)"},
+        {"texto": "Zelensky disse a senadores americanos que entregas de armas foram atrasadas e o compartilhamento de inteligência foi restringido; o secretário de Estado, Marco Rubio, negou que a inteligência tenha sido retirada.", "base": "3 fontes independentes (Axios, Al Jazeera, Euronews)"}
+      ],
+      "inferencias": [
+        {"texto": "Zelensky \"não sabe do que está falando\" e bloqueia um acordo.", "quem": "Donald Trump"},
+        {"texto": "A Rússia tem estado \"bem\" em relação à Ucrânia.", "quem": "Donald Trump"},
+        {"texto": "Uma reunião entre EUA, Rússia e China só encorajaria Putin a continuar a guerra.", "quem": "Chanceler da Ucrânia"}
+      ],
+      "em_disputa": [
+        {"alegacao": "Os EUA restringiram o compartilhamento de inteligência e atrasaram armas para a Ucrânia.", "rotulo": "Contraditório", "explicacao": "Zelensky afirma isso, inclusive sobre mísseis Patriot já comprados; Rubio e Trump negam a retirada de inteligência. Não há confirmação independente.", "onde_circula": "Declarações de Zelensky a senadores americanos", "checagem": []}
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "Não encontrei cobertura na imprensa brasileira nem em veículos conservadores americanos. A notícia circulou em agências e em veículos de negócios e internacionais.",
+      "materias": [
+        {"fonte": null, "veiculo": "Yahoo News (Reuters)", "vies_materia": "centro", "titulo": "Trump says Zelenskiy should get somebody else to negotiate to end war", "url": "https://www.yahoo.com/news/politics/articles/trump-says-zelenskiy-somebody-else-200613252.html", "angulo": "Texto da Reuters: \"Trump diz que Zelensky deveria pôr outra pessoa para negociar\".", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "aljazeera", "titulo": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms", "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms", "angulo": "\"Relação EUA-Ucrânia azeda\"; reúne as duas versões sobre armas e inteligência.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": null, "veiculo": "CNBC", "vies_materia": "centro", "titulo": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy", "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html", "angulo": "\"Trump diz que se reuniria com Putin e Xi e critica Zelensky\".", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": "axios", "titulo": "Zelensky lobbies senators to press White House on alleged intel and weapons curbs", "url": "https://www.axios.com/2026/10/19/zelensky-blumenthal-tillis-ukraine-russia-war-intelligence", "angulo": "\"Zelensky pede a senadores que pressionem a Casa Branca\"; o lado ucraniano em Washington.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": null, "veiculo": "South China Morning Post", "vies_materia": "centro", "titulo": "Zelensky should get ‘somebody else’ to negotiate to end Ukraine war, Trump says", "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371432/zelensky-should-get-somebody-else-negotiate-end-ukraine-war-trump-says", "angulo": "Visão de Hong Kong: \"Zelensky deveria ter outro negociador, diz Trump\".", "tipo": "noticia", "enquadramento": null},
+        {"fonte": "euronews", "titulo": "Trump says he is open to three-way summit with Putin and Xi in China", "url": "https://www.euronews.com/2026/10/20/trump-says-hes-ready-to-meet-putin-and-xi-in-china", "angulo": "\"Trump se diz aberto a cúpula com Putin e Xi na China\"; reação europeia.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"},
+        {"fonte": null, "veiculo": "Anews", "vies_materia": "centro_direita", "titulo": "Trump: Zelensky should get somebody else to negotiate to end war with Russia - anews", "url": "https://www.anews.com.tr/diplomacy/2026/10/19/trump-zelensky-should-get-somebody-else-to-negotiate-to-end-war-with-russia", "angulo": "Visão turca: trata a fala como \"golpe impressionante\" contra Zelensky.", "tipo": "noticia", "enquadramento": null, "data": "2026-10-19"},
+        {"fonte": "euronews", "titulo": "US allegedly holding up delivery of Patriot air defence missiles, Zelenskyy says", "url": "https://www.euronews.com/2026/10/20/us-allegedly-holding-up-delivery-of-patriot-air-defence-missiles-zelenskyy-says", "angulo": "\"EUA estariam segurando entrega de mísseis Patriot, diz Zelensky\".", "tipo": "noticia", "enquadramento": null, "data": "2026-10-20"}
+      ]
+    }
+  ]
+}
