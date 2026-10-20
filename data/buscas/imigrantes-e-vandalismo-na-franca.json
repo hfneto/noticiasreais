@@ -1,0 +1,355 @@
+{
+  "tipo": "busca",
+  "slug": "imigrantes-e-vandalismo-na-franca",
+  "consulta": "imigrantes e vandalismo na frança",
+  "issue": 1,
+  "gerado_em": "2026-10-20T12:30:00-03:00",
+  "historias": [
+    {
+      "id": "trump-vance-culpam-imigracao-violencia-franca",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Trump e Vance atribuem à imigração a violência nos protestos da França",
+      "lide": "Depois do fim de semana de saques e incêndios na França, o presidente dos EUA, Donald Trump, e o vice, JD Vance, culparam a imigração pela violência, e Trump pediu que o país feche as fronteiras. Nenhum dos dois apresentou evidências para a ligação, e o governo francês atribui a violência a grupos de ultraesquerda e a saqueadores.",
+      "contexto": "Os protestos começaram em escolas da periferia de Paris, em setembro, e cresceram para atos contra o custo de vida. No sábado (17), mais de meio milhão de pessoas foram às ruas, segundo o governo; houve saques, a prefeitura de Limoges foi incendiada e mais de 2 mil pessoas foram detidas.",
+      "fatos": [
+        {
+          "texto": "Trump escreveu na Truth Social que a imigração destruiu a França e pediu que o país feche as fronteiras \"antes que seja tarde demais\".",
+          "base": "4 fontes independentes (CNN Brasil, Revista Oeste, CartaCapital, Gulf News)"
+        },
+        {
+          "texto": "JD Vance escreveu no X que os liberais ocidentais \"trouxeram o terceiro mundo\" para a França em nome da diversidade e ignoraram questões de assimilação.",
+          "base": "3 fontes independentes (The Hill, JDD, Newsweek)"
+        },
+        {
+          "texto": "Nem Trump nem Vance apresentaram evidências que liguem os distúrbios à imigração.",
+          "base": "3 fontes independentes (Newsweek, Brasil 247, NC News)"
+        },
+        {
+          "texto": "Emmanuel Macron disse que nada justifica a violência e prometeu ser \"intransigente\" com quem saqueou e destruiu, separando-os dos manifestantes com reivindicações legítimas.",
+          "base": "2 fontes independentes (ABC News/AP, Gulf News)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A imigração, e não a situação das escolas, explica a revolta.",
+          "quem": "Donald Trump, a jornalistas"
+        },
+        {
+          "texto": "O que acontece na França é um alerta para os Estados Unidos.",
+          "quem": "JD Vance"
+        },
+        {
+          "texto": "Dizer que a causa é a imigração é atacar uma comunidade inteira.",
+          "quem": "Morador ouvido pela Africanews"
+        },
+        {
+          "texto": "Trump usa a crise francesa como argumento na campanha para as eleições de meio de mandato de 3 de novembro.",
+          "quem": "TRT Français"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "A imigração causou a onda de violência na França.",
+          "rotulo": "Sem evidência",
+          "explicacao": "Trump e Vance não apresentaram dados, e as autoridades francesas não divulgaram nenhuma conclusão que ligue imigrantes aos distúrbios; o governo atribui a violência à ultraesquerda e a saqueadores oportunistas.",
+          "onde_circula": "Truth Social, X e veículos de direita nos EUA e no Brasil",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, a fala de Trump foi noticiada por veículos de todos os lados. A Revista Oeste e uma coluna da Jovem Pan deram destaque à tese da imigração; o Brasil 247 abriu com \"sem provas\", e a CartaCapital registrou que a fala veio depois da de Vance.",
+      "ponto_cego": "Nos resultados, a ressalva de que não há evidência para a tese aparece sobretudo em veículos de centro e de esquerda (Newsweek, Brasil 247); veículos de direita, como Fox News e Breitbart, destacam a acusação. Não encontramos resposta oficial do governo francês às falas de Trump.",
+      "materias": [
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Trump relaciona imigração a protestos violentos na França",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-relaciona-imigracao-por-protestos-violentos-na-franca/",
+          "angulo": "Relata a postagem de Trump e o pedido de fechamento das fronteiras.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "Trump defende fechamento das fronteiras na França",
+          "url": "https://revistaoeste.com/mundo/trump-defende-fechamento-das-fronteiras-na-franca/",
+          "angulo": "Destaca a defesa do fechamento das fronteiras e as frases de Trump.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "brasil247",
+          "titulo": "Sem provas, Trump culpa imigrantes por onda de protestos na França",
+          "url": "https://www.brasil247.com/mundo/sem-provas-trump-culpa-imigrantes-por-onda-de-protestos-na-franca/",
+          "angulo": "Abre pela falta de provas e traz o tamanho dos atos e o balanço de detidos.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "The Hill",
+          "vies_materia": "centro",
+          "titulo": "Donald Trump, JD Vance blame immigration for French riots",
+          "url": "https://thehill.com/homenews/administration/6157897-trump-vance-france-riots/",
+          "angulo": "\"Trump e Vance culpam a imigração pelos distúrbios na França\"; relato das duas falas.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "foxnews",
+          "titulo": "France student protests rage as Trump claims mass immigration to blame",
+          "url": "https://www.foxnews.com/world/trump-waltz-link-france-riots-mass-immigration-thousands-arrested",
+          "angulo": "\"Protestos estudantis se intensificam enquanto Trump diz que a imigração em massa é a culpada\"; inclui a fala de Mike Waltz.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "cartacapital",
+          "titulo": "Trump diz que França 'está em chamas' e 'destruída' pela imigração",
+          "url": "https://www.cartacapital.com.br/politica/trump-diz-que-franca-esta-em-chamas-e-destruida-pela-imigracao/",
+          "angulo": "Registra a fala de Trump e que ela veio depois de comentários de Vance.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "Newsweek",
+          "vies_materia": "centro",
+          "titulo": "Trump Urges France To Close Borders As Macron To Address Nation",
+          "url": "https://www.newsweek.com/jd-vance-condemns-france-disorder-with-warning-to-americans-12584958",
+          "angulo": "\"Trump pede que a França feche as fronteiras\"; aponta que nem ele nem Vance apresentaram evidências.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "metropoles",
+          "titulo": "Trump diz que França está \"em chamas\" por causa da imigração",
+          "url": "https://www.metropoles.com/mundo/trump-diz-que-franca-esta-em-chamas-por-causa-da-imigracao",
+          "angulo": "Relato da declaração de Trump.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "Africanews",
+          "vies_materia": "centro",
+          "titulo": "France's unrest: Why are immigrants being blamed for the violence?",
+          "url": "https://www.africanews.com/2026/10/19/frances-unrest-why-are-immigrants-being-blamed-for-the-violence/",
+          "angulo": "\"Por que os imigrantes estão sendo culpados pela violência?\"; ouve integrantes das comunidades imigrantes.",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-19"
+        },
+        {
+          "fonte": null,
+          "veiculo": "Le Journal du Dimanche",
+          "vies_materia": "direita",
+          "titulo": "Émeutes du 17 octobre : JD Vance blâme «les progressistes occidentaux qui ont importé le tiers-monde en France»",
+          "url": "https://www.lejdd.fr/International/emeutes-du-17-octobre-jd-vance-blame-les-progressistes-occidentaux-qui-ont-importe-le-tiers-monde-en-france-186348",
+          "angulo": "\"Vance culpa os progressistas que importaram o terceiro mundo para a França\"; reproduz a fala sem contraponto.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "Gulf News",
+          "vies_materia": "centro",
+          "titulo": "France in Turmoil: Macron Condemns 'Unbridled' Violence as Trump Blames Immigration",
+          "url": "https://gulfnews.com/world/europe/macron-says-nothing-justifies-unbridled-violence-in-protests-trump-said-france-is-burning-blames-immigration-1.500715289",
+          "angulo": "\"Macron condena a violência desenfreada enquanto Trump culpa a imigração\"; põe as duas leituras lado a lado.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "França contabiliza destruição após saques e incêndios; Vance culpa imigração",
+          "url": "https://jovempan.com.br/colunistas/eliseu-caetano/franca-contabiliza-destruicao-apos-saques-e-incendios-vance-culpa-imigracao/",
+          "angulo": "Coluna que destaca a destruição e a leitura de Vance.",
+          "tipo": "opiniao",
+          "enquadramento": null
+        }
+      ]
+    },
+    {
+      "id": "franca-disputa-causas-violencia-ultraesquerda-imigracao",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Na França, governo culpa ultraesquerda pela violência, e parte da direita aponta a imigração",
+      "lide": "O governo francês e o líder do Reagrupamento Nacional, Jordan Bardella, atribuíram os saques e incêndios a grupos de ultraesquerda, enquanto a eurodeputada Marion Maréchal ligou a violência à \"imigração não assimilada\". Nas redes, circulam vídeos antigos ou gerados por IA apresentados como prova da tese da imigração.",
+      "contexto": "Parte dos primeiros protestos estudantis ocorreu em periferias com muitos moradores de origem imigrante, como Saint-Denis, o que levou a imigração ao debate. Os atos depois se ampliaram para o custo de vida, com sindicatos e coletes amarelos, a seis meses da eleição presidencial.",
+      "fatos": [
+        {
+          "texto": "O primeiro-ministro Sébastien Lecornu acusou o movimento de ultraesquerda de querer semear \"desordem profunda\" e anunciou toques de recolher localizados.",
+          "base": "2 fontes independentes (Boursorama, Gazeta do Povo)"
+        },
+        {
+          "texto": "Jordan Bardella responsabilizou a ultraesquerda pela violência, chamou-a de \"câncer da nossa democracia\" e cobrou de Jean-Luc Mélenchon (LFI) que a condene.",
+          "base": "2 fontes independentes (CNEWS, Bluewin)"
+        },
+        {
+          "texto": "Marion Maréchal descreveu os distúrbios como uma \"insurreição racaillo-gauchista\" e os atribuiu à \"imigração não assimilada\".",
+          "base": "2 fontes independentes (JDD, Breitbart)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A violência é um \"sintoma da imigração de massa não assimilada\", e o vínculo é um tabu.",
+          "quem": "Marion Maréchal"
+        },
+        {
+          "texto": "O governo subestimou totalmente o nível de violência.",
+          "quem": "Jordan Bardella"
+        },
+        {
+          "texto": "A ultraesquerda quer pôr em questão o calendário da eleição presidencial.",
+          "quem": "Sébastien Lecornu"
+        },
+        {
+          "texto": "Macron ignora o papel da imigração nos distúrbios.",
+          "quem": "Breitbart"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "Vídeo mostra imigrantes colocando uma bandeira da Palestina no topo da Torre Eiffel durante os protestos.",
+          "rotulo": "Falso",
+          "explicacao": "Segundo a checagem, o vídeo foi gerado por inteligência artificial.",
+          "onde_circula": "redes sociais",
+          "checagem": [
+            {
+              "nome": "Boatos.org",
+              "url": "https://www.boatos.org/mundo/bandeira-da-palestina-e-colocada-no-topo-da-torre-eiffel-por-imigrantes-em-paris.html"
+            }
+          ]
+        },
+        {
+          "alegacao": "Vídeo de confrontos em Paris mostra a violência atual causada por imigrantes ilegais.",
+          "rotulo": "Falso",
+          "explicacao": "As imagens são de um protesto em Paris em 28 de novembro de 2020 e foram republicadas no X em outubro de 2026 com a nova legenda.",
+          "onde_circula": "X",
+          "checagem": [
+            {
+              "nome": "CyberPeace",
+              "url": "https://cyberpeace.org/resources/blogs/factcheck-2020-paris-protest-video-falsely-linked-to-recent-demonstrations-in-france"
+            }
+          ]
+        },
+        {
+          "alegacao": "Vídeos de distúrbios compartilhados como sendo dos protestos estudantis de 2026.",
+          "rotulo": "Falta contexto",
+          "explicacao": "Parte dos vídeos é de outros episódios, como os distúrbios de dezembro de 2022 em Paris após a morte de três curdos.",
+          "onde_circula": "redes sociais",
+          "checagem": [
+            {
+              "nome": "Maldita.es",
+              "url": "https://maldita.es/desinfo/20261007/esto-no-ocurrio-en-francia-protestas-estudiantiles-septiembre-2026-videos-descontextualizados/"
+            }
+          ]
+        }
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, a Gazeta do Povo explicou como os protestos estudantis \"descambaram\" para saques e registrou as duas leituras, da ultraesquerda e da imigração. A maior parte da cobertura brasileira tratou o tema pela fala de Trump.",
+      "ponto_cego": "Não encontramos cobertura de veículos franceses de centro e de esquerda (Le Monde, Libération) sobre o debate da imigração nesta onda; a tese da imigração aparece sobretudo em veículos de direita (JDD, CNEWS, Breitbart), e os vídeos falsos só foram checados por agências de checagem fora da França.",
+      "materias": [
+        {
+          "fonte": null,
+          "veiculo": "Boursorama",
+          "vies_materia": "centro",
+          "titulo": "Violences: les premiers couvre-feux en vigueur, l'exécutif montre les muscles sur la réponse pénale",
+          "url": "https://boursorama.com/actualite-economique/actualites/lecornu-annonce-des-couvre-feux-localises-apres-les-scenes-de-chaos-du-week-end-36fd018af015dce033a167660a152dd6",
+          "angulo": "\"Primeiros toques de recolher em vigor; o Executivo mostra força na resposta penal\"; traz a acusação de Lecornu à ultraesquerda.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-19"
+        },
+        {
+          "fonte": null,
+          "veiculo": "Le Journal du Dimanche",
+          "vies_materia": "direita",
+          "titulo": "Émeutes du 17 octobre : Marion Maréchal dénonce «une insurrection racaillo-gauchiste»",
+          "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-marion-marechal-denonce-une-insurrection-racaillo-gauchiste-186363",
+          "angulo": "\"Maréchal denuncia uma insurreição racaillo-gauchista\"; reproduz a tese da imigração.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Como protestos de estudantes descambaram para violência e saques na França",
+          "url": "https://www.gazetadopovo.com.br/mundo/como-protestos-de-estudantes-descambaram-para-violencia-e-saques-na-franca/",
+          "angulo": "Explica a origem nas periferias e registra as leituras do governo e da direita.",
+          "tipo": "analise",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "CNEWS",
+          "vies_materia": "direita",
+          "titulo": "Mobilisation du 17 octobre : Jordan Bardella met en cause LFI et fustige une «ultragauche», «cancer de notre démocratie»",
+          "url": "https://www.cnews.fr/france/2026-10-19/mobilisation-du-17-octobre-jordan-bardella-met-en-cause-lfi-et-fustige-une",
+          "angulo": "\"Bardella acusa a LFI e ataca a ultraesquerda\"; foco na esquerda radical, não na imigração.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-19"
+        },
+        {
+          "fonte": null,
+          "veiculo": "ABC News (AP)",
+          "vies_materia": "centro",
+          "titulo": "Macron condemns those who 'sought to bring down the Republic'",
+          "url": "https://abcnews.com/International/wireStory/macron-address-nation-after-riots-looting-lead-1800-137358854",
+          "angulo": "Texto da AP: pronunciamento de Macron contra os que \"tentaram derrubar a República\".",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "breitbart",
+          "titulo": "Maréchal: Youth Riots the Result of 'Unassimilated Immigration'",
+          "url": "https://www.breitbart.com/europe/2026/10/16/marechal-youth-riots-the-result-of-unassimilated-immigration-and-a-hatred-of-france/",
+          "angulo": "\"Distúrbios de jovens são resultado da imigração não assimilada\"; amplifica a tese de Maréchal, citando Saint-Denis.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-16"
+        },
+        {
+          "fonte": null,
+          "veiculo": "i24NEWS",
+          "vies_materia": "centro_direita",
+          "titulo": "Riots spread across France from Paris suburbs with large immigrant populations",
+          "url": "https://www.i24news.tv/en/news/international/europe/artc-riots-spread-across-france-from-paris-suburbs-with-large-immigrant-populations",
+          "angulo": "\"Distúrbios se espalham a partir de subúrbios de Paris com grande população imigrante\"; enfatiza a origem nas periferias.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "Bluewin",
+          "vies_materia": "centro",
+          "titulo": "«L'ultragauche est le cancer de notre démocratie» - Bardella tacle Mélenchon !",
+          "url": "https://www.bluewin.ch/fr/infos/monde/l-ultragauche-est-le-cancer-de-notre-democratie-bardella-tacle-melenchon--li.3641053",
+          "angulo": "Reproduz o ataque de Bardella a Mélenchon e à ultraesquerda.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "breitbart",
+          "titulo": "Macron Refuses to Take Blame, Ignores Immigration Impact on Riots",
+          "url": "https://www.breitbart.com/europe/2026/10/18/macron-addresses-nation-refuses-blame-ignores-immigration-role/",
+          "angulo": "\"Macron se recusa a assumir a culpa e ignora o impacto da imigração\"; leitura crítica do pronunciamento.",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-18"
+        },
+        {
+          "fonte": null,
+          "veiculo": "Boatos.org",
+          "vies_materia": "centro",
+          "titulo": "Bandeira da Palestina é colocada no topo da Torre Eiffel por imigrantes em Paris?",
+          "url": "https://www.boatos.org/mundo/bandeira-da-palestina-e-colocada-no-topo-da-torre-eiffel-por-imigrantes-em-paris.html",
+          "angulo": "Checagem: o vídeo foi feito com inteligência artificial.",
+          "tipo": "checagem",
+          "enquadramento": null
+        }
+      ]
+    }
+  ]
+}

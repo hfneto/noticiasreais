@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-20T08:58:41+00:00",
+ "atualizado_em": "2026-10-20T15:15:03+00:00",
  "edicoes": [
   {
    "data": "2026-10-20",
@@ -23,5 +23,14 @@
    "manchete": "Lula e Flávio Bolsonaro fazem primeiro debate do segundo turno com pesquisas em empate técnico"
   }
  ],
- "buscas": []
+ "buscas": [
+  {
+   "slug": "imigrantes-e-vandalismo-na-franca",
+   "consulta": "imigrantes e vandalismo na frança",
+   "arquivo": "data/buscas/imigrantes-e-vandalismo-na-franca.json",
+   "historias": 2,
+   "gerado_em": "2026-10-20T12:30:00-03:00",
+   "issue": 1
+  }
+ ]
 }
