@@ -1,0 +1,1171 @@
+{
+  "tipo": "edicao",
+  "data": "2026-10-21",
+  "gerado_em": "2026-10-21T06:40:00-03:00",
+  "historias": [
+    {
+      "id": "lula-sigilos-flavio-tse",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Lula protocola autorização para abrir seus sigilos se Flávio fizer o mesmo; Flávio ignora o desafio",
+      "lide": "Lula entregou ao TSE e ao STF um documento em que autoriza a divulgação de seus sigilos bancário e telefônico e os de parentes, desde que Flávio Bolsonaro faça o mesmo. A campanha de Flávio trata o pedido como factoide, e especialistas dizem que o efeito é mais político do que jurídico.",
+      "contexto": "O desafio surge depois que a PF pediu um segundo inquérito contra Flávio por suspeita de lavagem com o advogado Willer Tomaz, e enquanto a PF investiga Lulinha no caso INSS. O segundo turno é no domingo (25).",
+      "fatos": [
+        {
+          "texto": "Lula protocolou no TSE e no STF um documento em que libera a divulgação de seus sigilos e de parentes, condicionado a Flávio Bolsonaro fazer o mesmo.",
+          "base": "4 fontes independentes (g1, Jota, SBT News, Gazeta do Povo)"
+        },
+        {
+          "texto": "O ministro André Mendonça foi sorteado relator do pedido no STF.",
+          "base": "3 fontes independentes (Congresso em Foco, Gazeta do Povo, DCM)"
+        },
+        {
+          "texto": "Lula disse que só vai ao debate da Globo se Flávio apresentar documento autorizando a quebra de seus sigilos.",
+          "base": "2 fontes independentes (Estadão, Jovem Pan)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O pedido tem mais efeito político do que jurídico.",
+          "quem": "Especialistas ouvidos pelo Valor"
+        },
+        {
+          "texto": "Flávio vai ignorar o desafio para não \"morder a isca\".",
+          "quem": "Aliados de Flávio, segundo o Valor"
+        },
+        {
+          "texto": "Flávio não abre os sigilos porque tem uma \"vida podre\".",
+          "quem": "Lula"
+        },
+        {
+          "texto": "Lula usa a quebra de sigilo como pretexto para faltar ao debate.",
+          "quem": "Diário do Poder"
+        },
+        {
+          "texto": "Flávio abriria o sigilo se Lula divulgasse os gastos do governo.",
+          "quem": "Pablo Marçal"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Lula e aliados apresentam a oferta como prova de transparência e cobram que Flávio explique a relação com Willer Tomaz.",
+        "oposicao": "A campanha de Flávio chama o pedido de factoide eleitoral sem efeito prático e diz que Lula quer fugir do debate."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Lula protocola documento no TSE e no STF em que diz que libera a divulgação de sigilos dele e de parentes se Flávio também o fizer",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml",
+          "angulo": "Relato do documento e da condição imposta.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "A quebra de sigilo seletiva de Lula",
+          "url": "https://www.gazetadopovo.com.br/vozes/luis-ernesto-lacombe/lula-quebra-sigilo-seletiva/",
+          "angulo": "Coluna que vê seletividade na oferta de Lula.",
+          "tipo": "opiniao",
+          "enquadramento": "oposicao",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Lula reúne milhares entre Petrolina e Juazeiro e diz que ‘vida podre’ impede Flávio Bolsonaro de abrir sigilos",
+          "url": "https://www.brasildefato.com.br/2026/10/20/lula-reune-milhares-entre-petrolina-e-juazeiro-e-diz-que-vida-podre-impede-flavio-bolsonaro-de-abrir-sigilos/",
+          "angulo": "Destaca o ato e a fala de Lula.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Pedido de Lula para abrir sigilos com Flávio tem mais efeito político do que jurídico, dizem especialistas",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/20/pedido-de-lula-para-abrir-sigilos-com-flavio-tem-mais-efeito-politico-do-que-juridico-dizem-especialistas.ghtml",
+          "angulo": "Avalia o alcance jurídico do pedido.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "diariodopoder",
+          "titulo": "Lula busca pretexto para faltar ao debate usando ‘quebra de sigilo’ sem efeito prático",
+          "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/lula-busca-pretexto-para-faltar-ao-debate-usando-quebra-de-sigilo-sem-efeito-pratico",
+          "angulo": "Lê o pedido como manobra para evitar o debate.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Análise: Flávio Bolsonaro trata quebra de sigilo como “factóide”",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-bolsonaro-trata-quebra-de-sigilo-como-factoide/",
+          "angulo": "Analisa a estratégia de Flávio de não responder.",
+          "tipo": "analise",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "nexo",
+          "titulo": "O quanto o desafio dos sigilos pode expor Flávio Bolsonaro",
+          "url": "https://www.nexojornal.com.br/expresso/2026/10/20/lula-autoriza-quebra-de-sigilo-lulinha-flavio-bolsonaro",
+          "angulo": "Explica o que está em jogo para cada lado.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Flávio Bolsonaro só poderá ir a debate na ‘Globo’ se quebrar sigilo, diz Lula",
+          "url": "https://jovempan.com.br/politica/flavio-bolsonaro-so-podera-ir-a-debate-na-globo-se-quebrar-sigilo-diz-lula/",
+          "angulo": "Destaca a condição imposta por Lula para o debate.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Aliados dizem que Flávio Bolsonaro vai ignorar quebra de sigilo proposta por Lula para não 'morder isca'",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/20/aliados-dizem-que-flavio-bolsonaro-vai-ignorar-quebra-de-sigilo-proposta-por-lula-para-nao-morder-isca.ghtml",
+          "angulo": "A resposta do lado de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "congressoemfoco",
+          "titulo": "Mendonça é sorteado relator em pedido de Lula de quebra de sigilos",
+          "url": "https://www.congressoemfoco.com.br/noticia/123424/mendonca-e-sorteado-relator-em-pedido-de-lula-de-quebra-de-sigilos",
+          "angulo": "Informa a relatoria no STF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Marçal diz que Flávio abre sigilo se Lula divulgar gastos",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/marcal-diz-que-flavio-abre-sigilo-se-lula-divulgar-gastos",
+          "angulo": "A contraproposta de aliado de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "poder360",
+          "titulo": "Campanha de Lula lança novo jingle: “Flávio, abre o sigilo”",
+          "url": "https://www.poder360.com.br/poder-eleicoes/campanha-de-lula-lanca-novo-jingle-flavio-abre-o-sigilo/",
+          "angulo": "O uso do tema na propaganda.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "willer-tomaz-bets-flavio-moraes",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "Amigo de Flávio, Willer Tomaz movimentou R$ 5 bilhões em bets, aponta Fazenda; Moraes assume relatoria do inquérito",
+      "lide": "Dados da Secretaria de Prêmios e Apostas apontam que o advogado Willer Tomaz, amigo de Flávio Bolsonaro e alvo da PF, foi o maior apostador do país em 2025, com R$ 5 bilhões movimentados. Alexandre de Moraes assumiu a relatoria do inquérito que apura suspeita de lavagem envolvendo os dois.",
+      "contexto": "Tomaz foi alvo da Operação Sem Desconto, sobre fraudes no INSS. A PF pediu ao STF um segundo inquérito contra Flávio. Ambos negam relação financeira.",
+      "fatos": [
+        {
+          "texto": "Willer Tomaz movimentou cerca de R$ 5 bilhões em apostas em 2025 e foi o maior apostador do país no ano, segundo dados do Ministério da Fazenda.",
+          "base": "4 fontes independentes (g1, Estadão, Exame, Jota)"
+        },
+        {
+          "texto": "Alexandre de Moraes assumiu a relatoria da investigação contra Flávio Bolsonaro no STF.",
+          "base": "2 fontes independentes (Gazeta do Povo, DCM)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Tomaz pagou para retirar do ar notícias que citavam sua relação com Flávio.",
+          "quem": "Polícia Federal, segundo o g1"
+        },
+        {
+          "texto": "A PF e Moraes ampliam a pressão sobre Flávio a poucos dias do segundo turno.",
+          "quem": "Gazeta do Povo"
+        },
+        {
+          "texto": "As apostas podem ter servido para lavagem de dinheiro.",
+          "quem": "Polícia Federal (hipótese em investigação)"
+        },
+        {
+          "texto": "As reportagens sobre a relação com Tomaz são fake news.",
+          "quem": "Flávio Bolsonaro"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Aliados de Lula usam o caso para cobrar que Flávio explique a relação com Tomaz e abra seus sigilos.",
+        "oposicao": "Flávio nega relação financeira com Tomaz e vê uso político da investigação às vésperas da eleição."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Veículos de direita deram pouco espaço aos números das apostas; a Gazeta do Povo enfatizou o momento da investigação. Na esquerda, a cobertura destaca a ligação com Flávio e trata pouco da negativa dele.",
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Advogado amigo de Flávio Bolsonaro movimentou R$ 5 bilhões com bet em 2025",
+          "url": "https://www.estadao.com.br/politica/advogado-amigo-de-flavio-movimentou-r-5-bilhoes-com-bet-em-2025/",
+          "angulo": "Os números da Fazenda sobre as apostas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno",
+          "url": "https://www.gazetadopovo.com.br/republica/pf-e-moraes-ampliam-pressao-sobre-flavio-a-poucos-dias-do-2o-turno/",
+          "angulo": "Foca no timing da investigação perto da eleição.",
+          "tipo": "analise",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "Amigo de Flávio Bolsonaro abriu bet em paraíso fiscal e recebeu licença de indicado do senador",
+          "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-bet-paraiso-fiscal/",
+          "angulo": "Liga a licença da bet a um indicado de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Advogado Willer Tomaz foi o maior apostador do Brasil em 2025, aponta Secretaria de Apostas",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/20/advogado-willer-tomaz-foi-o-maior-apostador-ddo-brasil-em-2025-aponta-secretaria-de-apostas.ghtml",
+          "angulo": "O dado oficial da Secretaria de Apostas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "jota",
+          "titulo": "Alvo da PF ao lado de Flávio Bolsonaro, Willer Tomaz movimentou R$ 5 bi em bet e sacou R$ 200 mi, aponta Fazenda",
+          "url": "https://www.jota.info/executivo/alvo-da-pf-ao-lado-de-flavio-bolsonaro-willer-tomaz-movimentou-r-5-bi-em-bet-e-sacou-r-200-mi-aponta-fazenda",
+          "angulo": "Acrescenta o valor sacado.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Alexandre de Moraes assume relatoria de investigação contra Flávio Bolsonaro",
+          "url": "https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-assume-relatoria-de-investigacao-contra-flavio-bolsonaro/",
+          "angulo": "Informa a mudança de relatoria.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "PF aponta que Willer Tomaz pagou para retirar do ar notícias que citavam relação com Flávio Bolsonaro",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/20/pf-aponta-que-willer-tomaz-pagou-para-retirar-do-ar-noticias-que-citavam-relacao-com-flavio-bolsonaro.ghtml",
+          "angulo": "Novo achado do relatório da PF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "publica",
+          "titulo": "Empresa ligada a Willer Tomaz foi administrada por diretor da Polícia Civil do DF",
+          "url": "https://apublica.org/2026/10/empresa-ligada-a-willer-tomaz-foi-administrada-por-diretor-da-policia-civil-do-df/",
+          "angulo": "Investigação própria sobre a rede de empresas de Tomaz.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "exame",
+          "titulo": "Willer Tomaz, amigo de Flávio, movimentou R$ 5 bi em bets e foi maior apostador do país em 2025",
+          "url": "https://exame.com/brasil/willer-tomaz-amigo-de-flavio-movimentou-r-5-bi-em-bets-e-foi-maior-apostador-do-pais-em-2025/",
+          "angulo": "Resumo dos números.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "Investigado, Flávio Bolsonaro pede a Moraes acesso a inquérito sobre Willer Tomaz",
+          "url": "https://www.diariodocentrodomundo.com.br/investigado-flavio-bolsonaro-pede-a-moraes-acesso-a-inquerito-sobre-willer-tomaz/",
+          "angulo": "O pedido da defesa de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "PF localiza menção a servidor alvo da Abin Paralela com amigo de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/pf-localiza-mencao-a-servidor-alvo-da-abin-paralela-com-amigo-de-flavio-bolsonaro.shtml",
+          "angulo": "Outro desdobramento ligado ao entorno de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "lulinha-pf-prazo-mpf-chefe-pf",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "PF pede mais prazo para investigar Lulinha, e MPF apura se diretor da PF vazou dados do caso",
+      "lide": "A Polícia Federal pediu ao STF a prorrogação dos inquéritos sobre suspeita de tráfico de influência de Fábio Luís Lula da Silva, o Lulinha, e o Estadão informa que a decisão cabe a Edson Fachin. Em paralelo, o MPF abriu apuração para saber se o chefe da PF divulgou dados sigilosos sobre o irmão de Lula no caso INSS.",
+      "contexto": "O PT passou a assinar pedidos de CPI que incluem Lulinha e Flávio Bolsonaro, numa tentativa de neutralizar o tema na reta final.",
+      "fatos": [
+        {
+          "texto": "A PF pediu a prorrogação dos inquéritos sobre possível tráfico de influência de Lulinha.",
+          "base": "3 fontes independentes (g1, SBT News, Terra Brasil Notícias)"
+        },
+        {
+          "texto": "O MPF apura se o chefe da PF violou sigilo ao falar sobre o irmão de Lula no caso INSS.",
+          "base": "3 fontes independentes (Folha, Gazeta do Povo, SBT News)"
+        },
+        {
+          "texto": "O PT assinou pedido de CPMI para investigar Lulinha e cobrou da oposição apoio a investigações sobre Flávio.",
+          "base": "3 fontes independentes (Valor, Gazeta do Povo, DCM)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A assinatura do PT é uma manobra para pressionar a oposição.",
+          "quem": "Folha (blog Brasília Hoje)"
+        },
+        {
+          "texto": "O caso Lulinha estabelece um modelo de tráfico de influência no governo.",
+          "quem": "Silvio Ribas, colunista da Gazeta do Povo"
+        },
+        {
+          "texto": "O governo defende investigar Flávio e Lulinha sem distinção.",
+          "quem": "Revista Fórum"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "O PT diz apoiar a investigação de Lulinha e cobra a mesma disposição da oposição em relação a Flávio.",
+        "oposicao": "A oposição trata o caso como tráfico de influência no governo e cobra registros de acesso de empresário ligado a Lulinha ao Planalto."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "O caso tem muito mais espaço nos veículos de direita (Gazeta do Povo, Oeste, Terra Brasil Notícias) do que nos de esquerda, que só o mencionam ao lado das investigações sobre Flávio.",
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "PF pede prorrogação de inquéritos sobre possível tráfico de influência de Lulinha",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/20/pf-pede-prorrogacao-de-inqueritos-sobre-possivel-trafico-de-influencia-de-lulinha.ghtml",
+          "angulo": "O pedido da PF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "terrabrasil",
+          "titulo": "Bomba: PF quer saber quem pagou voos de Lulinha e pede mais prazo para investigação",
+          "url": "https://terrabrasilnoticias.com/2026/10/bomba-pf-quer-saber-quem-pagou-voos-de-lulinha-e-pede-mais-prazo-para-investigacao/",
+          "angulo": "Destaca os voos sob investigação, com tom de denúncia.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Procuradoria investiga se chefe da PF divulgou dados sigilosos sobre irmão de Lula no caso INSS",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/procuradoria-investiga-se-chefe-da-pf-divulgou-dados-sigilosos-sobre-irmao-de-lula-no-caso-inss.shtml",
+          "angulo": "A apuração sobre o diretor da PF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "PT assina pedido de CPMI de Lulinha e cobra oposição por investigação de Flávio",
+          "url": "https://www.diariodocentrodomundo.com.br/pt-assina-pedido-de-cpmi-de-lulinha-e-cobra-oposicao-por-investigacao-de-flavio/",
+          "angulo": "Enfatiza a cobrança à oposição.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Fachin deve decidir pedido da PF de prazo extra para investigação sobre Lulinha",
+          "url": "https://www.estadao.com.br/politica/fachin-deve-decidir-pedido-da-pf-de-prazo-extra-para-investigacao-sobre-lulinha/",
+          "angulo": "Próximo passo no STF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Lulinha estabelece o modelo de tráfico de influência e de corrupção no governo Lula",
+          "url": "https://www.gazetadopovo.com.br/vozes/silvio-ribas/lulinha-estabelece-o-modelo-de-trafico-de-influencia-e-de-corrupcao-no-governo-lula/",
+          "angulo": "Coluna que trata o caso como padrão do governo.",
+          "tipo": "opiniao",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "Sem distinção, Governo Lula defende investigação de Flávio e de Lulinha na Câmara",
+          "url": "https://revistaforum.com.br/politica/governo-lula-investigacao-flavio-lulinha/",
+          "angulo": "Apresenta a posição do governo como isonômica.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "PT assina CPI sobre Lulinha e cobra oposição por apoio a investigações sobre Flávio Bolsonaro",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/20/pt-assina-cpi-sobre-lulinha-e-cobra-oposicao-por-apoio-a-investigacoes-sobre-flavio-bolsonaro.ghtml",
+          "angulo": "Relato do movimento do PT.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "Empresário ligado à Petrobras planejou cargo para Lulinha",
+          "url": "https://revistaoeste.com/politica/empresario-ligado-a-petrobras-planejou-cargo-para-lulinha/",
+          "angulo": "Novo detalhe sobre oferta de cargo.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "PT pede CPI contra Flávio Bolsonaro e defende apuração sobre Lulinha em manobra para pressionar oposição",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pt-pede-cpi-contra-flavio-bolsonaro-e-defende-apuracao-sobre-lulinha-em-manobra-para-pressionar-oposicao.shtml",
+          "angulo": "Lê a iniciativa do PT como manobra.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        }
+      ]
+    },
+    {
+      "id": "meta-conselho-falhas-tse-campanhas",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Conselho da Meta aponta falhas na moderação eleitoral, e campanhas trocam ações no TSE sobre redes",
+      "lide": "O Conselho de Supervisão da Meta disse que a empresa teve falhas recorrentes na moderação de conteúdo eleitoral no Brasil, e o TSE reuniu a empresa e as campanhas. A de Flávio acionou o tribunal contra disparos de WhatsApp do governo e o canal de Janones; a de Lula acusa a Meta de restringir conteúdos favoráveis ao petista.",
+      "contexto": "Apoiadores de Lula protestaram em frente à sede da Meta em São Paulo no domingo, acusando a empresa de restringir conteúdos favoráveis ao petista.",
+      "fatos": [
+        {
+          "texto": "O Conselho de Supervisão da Meta apontou falhas recorrentes na moderação de conteúdo eleitoral no Brasil e cobrou regras claras.",
+          "base": "5 fontes independentes (Estadão, Poder360, Agência Brasil, Valor, Jovem Pan)"
+        },
+        {
+          "texto": "O TSE reuniu a Meta e as campanhas de Lula e Flávio para tratar de restrições de postagens.",
+          "base": "2 fontes independentes (Agência Brasil, Veja)"
+        },
+        {
+          "texto": "A campanha de Flávio acionou o TSE contra disparos em massa de WhatsApp pelo governo e contra o canal \"Exército do Lula\", de André Janones.",
+          "base": "3 fontes independentes (Poder360, Revista Oeste, DCM)"
+        },
+        {
+          "texto": "Gilmar Mendes pediu atenção da Justiça Eleitoral a abusos das big techs.",
+          "base": "3 fontes independentes (Poder360, Valor, SBT News)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A Meta admite falha, mas não beneficiou Flávio.",
+          "quem": "Meta, na reunião do TSE, segundo o Valor"
+        },
+        {
+          "texto": "Mesmo com o canal de Janones, a esquerda não se equipara à força digital do bolsonarismo.",
+          "quem": "Marcos Nobre, à BBC Brasil"
+        },
+        {
+          "texto": "As falhas da Meta reacendem a disputa sobre a regulação das redes.",
+          "quem": "William Waack, na CNN Brasil"
+        },
+        {
+          "texto": "O vídeo de Nikolas Ferreira com críticas a Lula foi \"silenciado\".",
+          "quem": "Nikolas Ferreira (a Meta cita direito autoral)"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "A Meta interferiu na eleição a favor de Flávio Bolsonaro.",
+          "rotulo": "Em apuração",
+          "explicacao": "O Conselho da Meta apontou falhas de moderação, e a empresa admitiu erro, mas negou ter beneficiado um candidato; o TSE ainda não decidiu as ações das campanhas.",
+          "onde_circula": "Campanha de Lula e redes de esquerda",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": {
+        "governo": "A campanha de Lula acusa a Meta de restringir conteúdos favoráveis ao petista e pede providências ao TSE.",
+        "oposicao": "A campanha de Flávio acusa o governo de usar canais oficiais e o canal de Janones para propaganda e pede a cassação da chapa."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil",
+          "url": "https://www.estadao.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/",
+          "angulo": "O relatório do conselho.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "Flávio pede cassação da chapa Lula-Alckmin por uso irregular do WhatsApp",
+          "url": "https://revistaoeste.com/no-ponto/flavio-denuncia-lula-tse-whatsapp/",
+          "angulo": "A ação da campanha de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Em reunião no TSE, Meta admite falha, mas diz que não beneficiou Flávio",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/20/em-reunio-no-tse-meta-admite-falha-mas-diz-que-no-beneficiou-flvio.ghtml",
+          "angulo": "O que a Meta disse ao tribunal.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "icl",
+          "titulo": "Conselho da Meta aponta falhas na moderação de conteúdos eleitorais",
+          "url": "https://iclnoticias.com.br/conselho-da-propria-meta-denuncia-falhas-na/",
+          "angulo": "Enfatiza que a crítica veio de dentro da Meta.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "poder360",
+          "titulo": "Campanha de Flávio aciona TSE contra Exército do Lula por “manipular buscas”",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-aciona-tse-contra-exercito-do-lula-por-manipular-buscas/",
+          "angulo": "Nova ação contra o canal de Janones.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "bbcbrasil",
+          "titulo": "Mesmo com 'Exército' de Janones, esquerda não se equipara à força digital do bolsonarismo, diz Marcos Nobre",
+          "url": "https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o",
+          "angulo": "Entrevista sobre o equilíbrio de forças nas redes.",
+          "tipo": "analise",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Lula decide pedir anulação da candidatura de Flávio por ‘interferência’ da Meta",
+          "url": "https://jovempan.com.br/politica/lula-decide-pedir-anulacao-da-candidatura-de-flavio-por-interferencia-da-meta/",
+          "angulo": "A ofensiva jurídica da campanha de Lula.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "agenciabrasil",
+          "titulo": "TSE reúne Meta e campanhas para tratar de restrições de postagens",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-reune-meta-e-campanhas-para-tratar-de-restricoes-de-postagens",
+          "angulo": "A reunião no TSE.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Meta é cobrada pelo próprio Conselho de Supervisão por falhas eleitorais; TSE exige igualdade",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/meta-e-cobrada-pelo-proprio-conselho-de-supervisao-por-falhas-eleitorais-tse-exige-igualdade/",
+          "angulo": "Destaca a exigência de tratamento igual.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Waack: Falhas da Meta reacendem a disputa sobre as redes",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/waack-falhas-da-meta-reacendem-a-disputa-sobre-as-redes/",
+          "angulo": "Comentário sobre regulação das redes.",
+          "tipo": "opiniao",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "poder360",
+          "titulo": "Gilmar pede atenção da Justiça Eleitoral a “abusos” das big techs",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/gilmar-pede-atencao-da-justica-eleitoral-a-abusos-das-big-techs/",
+          "angulo": "A fala de Gilmar Mendes.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Nikolas diz que foi censurado, mas Meta cita direito autoral",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/nikolas-diz-que-foi-censurado-mas-meta-cita-direito-autoral",
+          "angulo": "Confronta a alegação de censura com a explicação da Meta.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "milei-ataca-lula-itamaraty-ingerencia",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Milei insinua que Lula pode roubar a eleição, e Itamaraty acusa o argentino de ingerência",
+      "lide": "O presidente argentino, Javier Milei, chamou Lula de \"esquerdista ladrão\" e disse esperar que a eleição brasileira não seja roubada. O Itamaraty respondeu que Milei reproduz mentiras sobre as urnas e tenta interferir no processo eleitoral.",
+      "contexto": "Em julho, Milei participou de um ato do PL em São Paulo em apoio a Flávio Bolsonaro, e o Brasil chamou seu embaixador em Buenos Aires para consultas.",
+      "fatos": [
+        {
+          "texto": "Milei chamou Lula de \"esquerdista ladrão\" e disse esperar que a eleição não seja roubada.",
+          "base": "3 fontes independentes (Diário do Poder, Gazeta do Povo, La Nación)"
+        },
+        {
+          "texto": "O Itamaraty afirmou que Milei reproduz mentiras sobre as urnas e tenta interferir no processo eleitoral brasileiro.",
+          "base": "5 fontes independentes (g1, Estadão, Agência Brasil, SBT News, InfoMoney)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Milei repete as mentiras de quem tentou dar um golpe no Brasil.",
+          "quem": "Itamaraty"
+        },
+        {
+          "texto": "A eleição pode ter sofrido interferência estrangeira.",
+          "quem": "Tabata Amaral (PSB)"
+        },
+        {
+          "texto": "Milei dá \"muita vergonha\" como presidente.",
+          "quem": "Jornalista argentina ouvida pelo Brasil de Fato"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "A eleição brasileira pode ser roubada.",
+          "rotulo": "Sem evidência",
+          "explicacao": "Milei não apresentou indício de fraude; as urnas eletrônicas passaram por auditorias e não há registro de fraude comprovada nas eleições brasileiras.",
+          "onde_circula": "Redes de Milei e perfis bolsonaristas",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": {
+        "governo": "O governo trata a fala como ingerência externa e ataque à Justiça Eleitoral.",
+        "oposicao": "Aliados de Flávio minimizam o episódio; veículos de direita destacam as críticas de Milei a Lula."
+      },
+      "visao_de_fora": "Na Argentina, o La Nación registrou a fala de Milei em sua cobertura ao vivo; no mesmo dia, democratas dos EUA acusaram Milei de interferir nas eleições americanas ao apoiar uma deputada republicana.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Milei reproduz mentiras sobre urnas e tenta interferir no processo eleitoral brasileiro, diz Itamaraty",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/milei-reproduz-mentiras-sobre-urnas-e-tenta-interferir-no-processo-brasileiro-diz-itamaraty.ghtml",
+          "angulo": "A nota do Itamaraty.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "diariodopoder",
+          "titulo": "Milei chama Lula de ‘esquerdista ladrão’ e diz esperar que eleição não seja roubada; Itamaraty reage",
+          "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/milei-chama-lula-de-esquerdista-ladrao-e-diz-esperar-quem-nao-roubem-eleicao",
+          "angulo": "Abre pela fala de Milei.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "Milei ataca eleições brasileiras sem provas e recebe dura resposta do Itamaraty",
+          "url": "https://revistaforum.com.br/politica/milei-ataca-eleicoes-brasileiras/",
+          "angulo": "Enfatiza a falta de provas.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "lanacion",
+          "titulo": "Javier Milei y sus medidas, en vivo: el presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
+          "angulo": "\"Milei chamou Lula de esquerdista ladrão dias antes do segundo turno\"; cobertura argentina.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Milei insinua que Lula poderia roubar eleição; Itamaraty fala em mentiras e ingerência externa",
+          "url": "https://www.estadao.com.br/internacional/milei-insinua-que-lula-poderia-roubar-eleicao-itamaraty-fala-em-mentiras-e-ingerencia-externa/",
+          "angulo": "Relato dos dois lados.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Milei acusa Lula de machismo e alfineta: “Espero que não roube a eleição”",
+          "url": "https://www.gazetadopovo.com.br/mundo/milei-acusa-lula-machismo-alfineta-espero-nao-roube-eleicao/",
+          "angulo": "Destaca as críticas de Milei.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "agenciabrasil",
+          "titulo": "Itamaraty acusa Milei de tentar interferir na eleição brasileira",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira",
+          "angulo": "A posição oficial do governo.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Itamaraty diz que Milei repete mentiras de quem tentou golpe",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/itamaraty-diz-que-milei-repete-mentiras-de-quem-tentou-golpe",
+          "angulo": "Destaca o trecho mais duro da nota.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "metropoles",
+          "titulo": "Tabata Amaral diz que eleição pode ter sofrido interferência estrangeira",
+          "url": "https://www.metropoles.com/colunas/vinicius-passarelli/tabata-amaral-diz-que-eleicao-pode-ter-sofrido-interferencia-estrangeira",
+          "angulo": "Repercussão no Congresso.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Itamaraty sobe o tom após acusações de Milei contra Lula e eleições",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/itamaraty-sobe-o-tom-apos-acusacoes-de-milei-contra-lula-e-eleicoes/",
+          "angulo": "A escalada diplomática.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "lula-sanciona-perdao-dividas-mei",
+      "editoria": "Economia",
+      "escopo": "brasil",
+      "titulo": "Lula sanciona hoje perdão de dívidas e novo teto de faturamento do MEI",
+      "lide": "Lula sanciona nesta quarta (21) a lei que perdoa dívidas de microempreendedores individuais e eleva o teto de faturamento do MEI. A medida integra um conjunto de anúncios às vésperas do segundo turno que especialistas veem com ressalvas eleitorais e fiscais.",
+      "contexto": "O projeto (PLP 186/2026) foi aprovado pelo Senado por 78 a 0 em 15 de outubro. O teto sobe de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028; o governo estima 3,6 milhões de beneficiados.",
+      "fatos": [
+        {
+          "texto": "Lula sanciona nesta quarta a lei que prevê perdão de dívidas e aumento do teto de faturamento do MEI.",
+          "base": "4 fontes independentes (g1, CNN Brasil, Brasil 247, SBT News)"
+        },
+        {
+          "texto": "O Senado aprovou o projeto por 78 votos a 0.",
+          "base": "2 fontes independentes (SBT News, Diário do Pará)"
+        },
+        {
+          "texto": "Lula anunciou também o envio ao Congresso da PEC da Tarifa Zero no transporte.",
+          "base": "2 fontes independentes (ICL Notícias, SBT News)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O pacote de medidas às vésperas da eleição pode violar a lei eleitoral e a Lei de Responsabilidade Fiscal.",
+          "quem": "Especialistas ouvidos pela Gazeta do Povo"
+        },
+        {
+          "texto": "O pacote tem ganhos e riscos eleitorais para Lula.",
+          "quem": "Nexo"
+        },
+        {
+          "texto": "Quem pagou em dia deveria ser recompensado.",
+          "quem": "Autores de proposta no Senado"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "O governo apresenta a lei como alívio a milhões de pequenos empreendedores.",
+        "oposicao": "A oposição e críticos falam em \"pacote de bondades\" eleitoreiro e risco fiscal, embora o projeto tenha passado por unanimidade no Senado."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
+          "angulo": "Explica o que muda.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Especialistas alertam para ilegalidades em pacote de bondades de Lula às vésperas da eleição",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pacote-de-bondades-lula-lei-eleitoral-lrf/",
+          "angulo": "Ouve especialistas sobre riscos legais.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "brasil247",
+          "titulo": "Lula sanciona hoje perdão de dívidas e novo teto para MEIs",
+          "url": "https://www.brasil247.com/brasil/lula-sanciona-hoje-perdao-de-dividas-e-novo-teto-para-meis/",
+          "angulo": "Destaca os benefícios.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "nexo",
+          "titulo": "O que Lula tem a ganhar e a perder com seu pacote eleitoral",
+          "url": "https://www.nexojornal.com.br/expresso/2026/10/20/lula-reeleicao-presidencia-2026-pacote-eleitoral",
+          "angulo": "Pesa ganhos e riscos do pacote.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Lula sanciona hoje perdão de dívidas de MEIs e participa de caminhada em BH",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-sanciona-hoje-perdao-de-dividas-de-meis-e-participa-de-caminhada-em-bh/",
+          "angulo": "Põe a sanção na agenda de campanha.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Lula exalta bondades eleitorais, repete que esta é sua última eleição e visita Sarney no Maranhão",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-exalta-bondades-eleitorais-repete-que-esta-e-sua-ultima-eleicao-e-visita-a-sarney-no-maranhao.shtml",
+          "angulo": "Usa o termo \"bondades eleitorais\".",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "icl",
+          "titulo": "Lula anuncia perdão de dívidas de MEIs e envio da PEC da Tarifa Zero ao Congresso",
+          "url": "https://iclnoticias.com.br/lula-anuncia-perdao-meis-congresso/",
+          "angulo": "Junta a sanção à PEC da Tarifa Zero.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "agenciasenado",
+          "titulo": "Áudio: Após perdão de dívidas de MEIs, proposta visa recompensar quem pagou em dia",
+          "url": "https://www12.senado.leg.br/noticias/audios/2026/10/apos-perdao-de-dividas-de-meis-proposta-visa-recompensar-quem-pagou-em-dia",
+          "angulo": "O debate sobre quem pagou em dia.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Lula sanciona amanhã PL dos MEIs e envia PEC do passe livre",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-sanciona-amanha-pl-dos-me-is-e-envia-pec-do-passe-livre",
+          "angulo": "Agenda do governo.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "onu-emissions-gap-2-8-graus",
+      "editoria": "Clima",
+      "escopo": "mundo",
+      "titulo": "ONU: aquecimento vai passar de 1,5°C e pode chegar a 2,8°C com as políticas atuais",
+      "lide": "O relatório anual do Programa da ONU para o Meio Ambiente sobre a lacuna de emissões projeta aquecimento de até 2,8°C neste século se as políticas atuais forem mantidas, e de cerca de 2,6°C mesmo que todas as metas nacionais sejam cumpridas. Segundo o órgão, limitar o aquecimento a 1,5°C sem ultrapassá-lo já não é possível.",
+      "contexto": "A projeção piorou em relação ao ano passado, entre outros motivos, pela saída dos EUA do Acordo de Paris.",
+      "fatos": [
+        {
+          "texto": "Com as políticas atuais, o aquecimento pode chegar a 2,8°C neste século.",
+          "base": "Relatório do Pnuma (Emissions Gap Report 2026); g1, Metrópoles"
+        },
+        {
+          "texto": "Se todas as metas nacionais (NDCs) forem cumpridas, a projeção é de cerca de 2,6°C.",
+          "base": "Relatório do Pnuma; Channels TV"
+        },
+        {
+          "texto": "Para o caminho de 1,5°C, as emissões teriam de cair 18% até 2030 em relação a 2025.",
+          "base": "Relatório do Pnuma; Euronews"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Ainda é possível conter os piores impactos se os cortes forem rápidos.",
+          "quem": "Pnuma, segundo a Euronews"
+        },
+        {
+          "texto": "A saída dos EUA do Acordo de Paris piorou as projeções.",
+          "quem": "Pnuma"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "A ONU diz que o mundo vai aquecer 2,8°C.",
+          "rotulo": "Falta contexto",
+          "explicacao": "2,8°C é o cenário com as políticas atuais; com as metas nacionais cumpridas, a projeção é de 2,6°C, e com as metas de neutralidade, de 2,1°C.",
+          "onde_circula": "Manchetes",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": "O Brasil sediou a COP30 em 2025 e tem metas próprias de redução de emissões; o relatório reforça a pressão sobre desmatamento e queimadas, que dispararam no Amazonas após o primeiro turno, segundo o g1.",
+      "ponto_cego": "Nos feeds, só veículos de centro (g1, Metrópoles) noticiaram o relatório no Brasil até a manhã; não achamos cobertura de veículos de direita nem de esquerda.",
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Aquecimento global vai passar de 1,5°C e pode chegar a 2,8°C, diz ONU",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/21/aquecimento-global-vai-passar-de-15c-e-pode-chegar-a-28c-diz-onu.ghtml",
+          "angulo": "Destaca o pior cenário.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": null,
+          "veiculo": "Pnuma (ONU)",
+          "vies_materia": "centro",
+          "titulo": "Emissions Gap Report 2026",
+          "url": "https://www.unep.org/en/publications/report/emissions-gap-report-2026",
+          "angulo": "O relatório original.",
+          "tipo": "fonte_primaria",
+          "enquadramento": null
+        },
+        {
+          "fonte": "euronews",
+          "titulo": "'This is possible': Emissions must fall by 18% in next 4 years to limit worst impacts of global warming",
+          "url": "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa",
+          "angulo": "\"É possível\": foca no corte necessário de 18% em quatro anos.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "metropoles",
+          "titulo": "Mundo poderá aquecer 2,8°C até 2100 caso sejam mantidas políticas atuais",
+          "url": "https://www.metropoles.com/ciencia/mundo-podera-aquecer-28c-ate-2100-caso-sejam-mantidas-politicas-atuais",
+          "angulo": "Relato do cenário com políticas atuais.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "Carbon Brief",
+          "vies_materia": "centro",
+          "titulo": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
+          "url": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
+          "angulo": "\"Oportunidade de cumprir 1,5°C sem ultrapassagem foi perdida\"; análise detalhada dos cenários.",
+          "tipo": "analise",
+          "enquadramento": null
+        },
+        {
+          "fonte": null,
+          "veiculo": "Channels TV (Nigéria)",
+          "vies_materia": "centro",
+          "titulo": "World On Track For 2.6C Warming This Century — UN",
+          "url": "https://www.channelstv.com/2026/10/21/world-on-track-for-2-6c-warming-this-century-un/",
+          "angulo": "\"Mundo a caminho de 2,6°C\"; abre pelo cenário com metas cumpridas.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "nigeria-primeiro-caso-ebola",
+      "editoria": "Saúde",
+      "escopo": "mundo",
+      "titulo": "Nigéria confirma primeiro caso de ebola no surto atual, em Abuja",
+      "lide": "A Nigéria confirmou um caso de ebola na capital, Abuja, em uma mulher que chegou de Uganda, e entrou em alerta máximo. É a primeira vez que o surto atual alcança a África Ocidental.",
+      "contexto": null,
+      "fatos": [
+        {
+          "texto": "A Nigéria confirmou o primeiro caso de ebola do surto atual, em Abuja.",
+          "base": "5 fontes independentes (NYT, Guardian, Le Monde, DW, NPR)"
+        },
+        {
+          "texto": "A paciente chegou de Uganda.",
+          "base": "2 fontes independentes (NPR, DCM)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O surto se espalha para a África Ocidental.",
+          "quem": "The Guardian"
+        },
+        {
+          "texto": "O país monitora 44 contatos da paciente.",
+          "quem": "Autoridades nigerianas, segundo o DCM"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, a notícia saiu no SBT News e no DCM; não há casos no país.",
+      "ponto_cego": "A imprensa brasileira deu pouco espaço; entre os grandes portais, não achamos a notícia nos feeds de g1, Folha ou Estadão até a manhã.",
+      "materias": [
+        {
+          "fonte": "nyt",
+          "titulo": "Nigeria Announces First Case of Ebola in Current Outbreak",
+          "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+          "angulo": "\"Nigéria anuncia primeiro caso de ebola no surto atual.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Nigéria confirma primeiro caso de ebola no país",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/nigeria-confirma-primeiro-caso-de-ebola-no-pais",
+          "angulo": "Nota curta em português.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "guardian",
+          "titulo": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+          "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+          "angulo": "\"Surto se espalha para a África Ocidental\"; contexto regional.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "lemonde",
+          "titulo": "Ebola : le Nigeria annonce un premier cas et passe en « alerte maximale »",
+          "url": "https://www.lemonde.fr/afrique/article/2026/10/20/ebola-le-nigeria-annonce-un-premier-cas-et-passe-en-alerte-maximale_6797979_3212.html",
+          "angulo": "\"Nigéria anuncia primeiro caso e entra em alerta máximo.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "Nigéria confirma caso “importado” de Ebola e monitora 44 contatos da paciente",
+          "url": "https://www.diariodocentrodomundo.com.br/nigeria-confirma-caso-importado-de-ebola-e-monitora-44-contatos-da-paciente/",
+          "angulo": "Traz o número de contatos monitorados.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "npr",
+          "titulo": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+          "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+          "angulo": "\"Mulher que chegou de Uganda testa positivo\"; origem do caso.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "dw",
+          "titulo": "Nigeria records its first Ebola case, in capital Abuja",
+          "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377",
+          "angulo": "\"Nigéria registra primeiro caso, na capital.\"",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "bbc",
+          "titulo": "Is Ebola under control in Kenya after nine cases confirmed?",
+          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "angulo": "\"O ebola está sob controle no Quênia?\"; situação no país vizinho do surto.",
+          "tipo": "analise",
+          "enquadramento": null
+        }
+      ]
+    },
+    {
+      "id": "witkoff-putin-zelensky-oslo",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Enviado de Trump leva proposta a Putin após reunião com Zelensky em Oslo",
+      "lide": "Depois de conversas com Volodymyr Zelensky em Oslo, descritas por Washington como \"muito produtivas\", o enviado americano Steve Witkoff chegou à Rússia para apresentar uma proposta de paz a Vladimir Putin. Trump cobrou publicamente que Zelensky feche um acordo.",
+      "contexto": "Na véspera, Trump e Zelensky trocaram críticas; Zelensky disse que os EUA retomaram o compartilhamento de inteligência sobre ataques russos.",
+      "fatos": [
+        {
+          "texto": "Zelensky se reuniu com enviados dos EUA em Oslo.",
+          "base": "3 fontes independentes (Estadão, Diário do Poder, Le Monde)"
+        },
+        {
+          "texto": "Witkoff viajou à Rússia com uma proposta para Putin após a reunião.",
+          "base": "4 fontes independentes (Axios, Valor, BBC, CNN Brasil)"
+        },
+        {
+          "texto": "Trump disse que Zelensky precisa chegar a um acordo com a Rússia.",
+          "base": "3 fontes independentes (CartaCapital, Gazeta do Povo, Opera Mundi)"
+        },
+        {
+          "texto": "Zelensky disse que os EUA voltaram a compartilhar inteligência sobre ataques russos.",
+          "base": "3 fontes independentes (Guardian, BBC, NPR)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A Ucrânia não quer acabar com a guerra.",
+          "quem": "Donald Trump"
+        },
+        {
+          "texto": "A estratégia de espera de Putin pode estar funcionando.",
+          "quem": "The New York Times"
+        },
+        {
+          "texto": "Zelensky mantém, sem acreditar muito, a esperança de voltar a ser ouvido pelos EUA.",
+          "quem": "Le Monde"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "O Brasil acompanha o tema pelo impacto nos preços de combustíveis: a CNN Brasil destacou que a negociação também mira aliviar o preço do diesel.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "axios",
+          "titulo": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+          "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
+          "angulo": "\"Witkoff vai apresentar proposta de paz a Putin\"; bastidores do plano.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "cartacapital",
+          "titulo": "Trump diz que Zelensky precisa chegar a um acordo com a Rússia",
+          "url": "https://www.cartacapital.com.br/mundo/trump-diz-que-zelensky-precisa-chegar-a-um-acordo-com-a-russia/",
+          "angulo": "A pressão de Trump sobre Kiev.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "bbc",
+          "titulo": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+          "angulo": "\"Enviado chega à Rússia; Zelensky diz que compartilhamento de inteligência funciona.\"",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Trump pressiona Zelensky a fechar um acordo com a Rússia",
+          "url": "https://www.gazetadopovo.com.br/mundo/trump-pressiona-zelensky-a-fechar-acordo-com-a-russia/",
+          "angulo": "Relato da cobrança de Trump.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "lemonde",
+          "titulo": "Guerre en Ukraine : à Oslo, Volodymyr Zelensky entretient, sans y croire, l’espoir d’être de nouveau entendu par les Etats-Unis",
+          "url": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html",
+          "angulo": "\"Em Oslo, Zelensky mantém, sem acreditar, a esperança de ser ouvido pelos EUA.\"",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Enviado dos EUA se reúne com Putin na Rússia após encontro com Zelensky",
+          "url": "https://www.cnnbrasil.com.br/internacional/enviado-dos-eua-se-reune-com-putin-na-russia-apos-encontro-com-zelensky/",
+          "angulo": "Relato da agenda em Moscou.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "nyt",
+          "titulo": "Is Putin’s Waiting Game Working?",
+          "url": "https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html",
+          "angulo": "\"A estratégia de espera de Putin está funcionando?\"",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "operamundi",
+          "titulo": "Trump sugere que Ucrânia não quer acabar com guerra e fala em ‘cansaço’",
+          "url": "https://operamundi.uol.com.br/guerra-na-ucrania/trump-sugere-que-ucrania-nao-quer-acabar-com-guerra-e-fala-em-cansaco/",
+          "angulo": "Destaca a fala de Trump sobre Kiev.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "guardian",
+          "titulo": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+          "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+          "angulo": "\"EUA retomaram compartilhamento de inteligência, diz Zelensky.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-20"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Análise: Zelensky e Marco Rubio buscam aliviar preço do diesel",
+          "url": "https://www.cnnbrasil.com.br/internacional/analise-zelensky-e-marco-rubio-buscam-aliviar-preco-do-diesel/",
+          "angulo": "Liga a negociação ao preço do diesel.",
+          "tipo": "analise",
+          "enquadramento": null
+        }
+      ]
+    }
+  ]
+}

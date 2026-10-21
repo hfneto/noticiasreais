@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-20T15:15:03+00:00",
+ "atualizado_em": "2026-10-21T08:57:06+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-21",
+   "arquivo": "data/edicoes/2026-10-21.json",
+   "historias": 9,
+   "gerado_em": "2026-10-21T06:40:00-03:00",
+   "manchete": "Lula protocola autorização para abrir seus sigilos se Flávio fizer o mesmo; Flávio ignora o desafio"
+  },
   {
    "data": "2026-10-20",
    "arquivo": "data/edicoes/2026-10-20.json",
