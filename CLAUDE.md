@@ -112,6 +112,10 @@ Alegações relevantes que circulam (em veículos, redes, falas de políticos) e
 
 Ordene `historias` por importância. Ordene `materias` misturando lados (não agrupe tudo de um lado no topo).
 
+## Artefato (hub no claude.ai)
+
+O app também vive como artefato em https://claude.ai/artifact/R6pgHkyEN3jCEDezda1GiH, gerado por `scripts/artefato.py` a partir de `index.html`. Depois de publicar uma edição ou busca, gere a página (`python3 scripts/artefato.py <scratchpad>/noticias-reais.html`) e republique esse artefato (Artifact com `url` do artefato) anexando em `files` todos os JSONs de `data/` com o mesmo caminho (`data/index.json`, `data/fontes.json`, `data/edicoes/*.json`, `data/buscas/*.json`). Quem abre o artefato com o conector do GitHub vê dados ao vivo e pede buscas direto pela página.
+
 ## Publicar
 
 ```bash
