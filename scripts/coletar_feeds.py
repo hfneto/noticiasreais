@@ -20,6 +20,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 JANELA = timedelta(hours=36)
 POR_FEED = 60
+RESUMO_MAX = 420  # caracteres do primeiro parágrafo guardados por manchete
 UA = "Mozilla/5.0 (compatible; NoticiasReaisBot/1.0; +https://github.com/hfneto/noticiasreais)"
 ATOM = "{http://www.w3.org/2005/Atom}"
 
@@ -27,6 +28,16 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 def limpar(t):
     t = html.unescape(re.sub(r"<[^>]+>", " ", t or ""))
     return re.sub(r"\s+", " ", t).strip()
+
+
+def resumo(t):
+    """Primeiro parágrafo da matéria, sem HTML e sem 'leia mais'; vazio se for só o título repetido."""
+    t = limpar(html.unescape(t or ""))
+    t = re.sub(r"\b(Leia mais|Continue lendo|Saiba mais|The post .* appeared first on .*|O post .* apareceu primeiro em .*)\b.*$", "", t, flags=re.I).strip()
+    if len(t) > RESUMO_MAX:
+        corte = t[:RESUMO_MAX].rsplit(" ", 1)[0]
+        t = corte + "…"
+    return t
 
 
 def data(t):
@@ -64,10 +75,12 @@ def extrair_tolerante(corpo):
     txt = corpo.decode("utf-8", errors="replace")
     itens = []
     for bloco in re.findall(r"<item\b.*?</item>", txt, re.S | re.I):
-        itens.append((_tag(bloco, "title"), _tag(bloco, "link", "guid"), _tag(bloco, "pubDate", "dc:date")))
+        itens.append((_tag(bloco, "title"), _tag(bloco, "link", "guid"), _tag(bloco, "pubDate", "dc:date"),
+                      _tag(bloco, "description", "content:encoded")))
     for bloco in re.findall(r"<entry\b.*?</entry>", txt, re.S | re.I):
         m = re.search(r'<link\b[^>]*href="([^"]+)"', bloco)
-        itens.append((_tag(bloco, "title"), m.group(1) if m else None, _tag(bloco, "published", "updated")))
+        itens.append((_tag(bloco, "title"), m.group(1) if m else None, _tag(bloco, "published", "updated"),
+                      _tag(bloco, "summary", "content")))
     return itens
 
 
@@ -79,10 +92,12 @@ def extrair(corpo):
     itens = []
     for it in raiz.iter("item"):  # RSS 2.0 / 0.91
         itens.append((texto(it, "title"), texto(it, "link", "guid"),
-                      texto(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date")))
+                      texto(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date"),
+                      texto(it, "description", "{http://purl.org/rss/1.0/modules/content/}encoded")))
     for it in raiz.iter(f"{ATOM}entry"):  # Atom
         link = next((l.get("href") for l in it.findall(f"{ATOM}link") if l.get("rel", "alternate") == "alternate"), None)
-        itens.append((texto(it, f"{ATOM}title"), link, texto(it, f"{ATOM}published", f"{ATOM}updated")))
+        itens.append((texto(it, f"{ATOM}title"), link, texto(it, f"{ATOM}published", f"{ATOM}updated"),
+                      texto(it, f"{ATOM}summary", f"{ATOM}content")))
     return itens
 
 
@@ -112,15 +127,18 @@ def ler_url(feed):
 
     agora = datetime.now(timezone.utc)
     saida = []
-    for titulo, link, quando in itens[:POR_FEED]:
+    for titulo, link, quando, descricao in itens[:POR_FEED]:
         titulo, link = limpar(titulo), (link or "").strip()
         if not titulo or not link.startswith("http"):
             continue
         d = data(quando)
         if d and agora - d > JANELA:
             continue
+        r = resumo(descricao)
+        if r.lower().rstrip(".…") == titulo.lower().rstrip("."):
+            r = ""
         saida.append({"fonte": feed["fonte"], "titulo": titulo, "url": link.replace("http://", "https://", 1),
-                      "publicado_em": d.isoformat(timespec="minutes") if d else None})
+                      "publicado_em": d.isoformat(timespec="minutes") if d else None, "resumo": r})
     status = "ok" if saida else ("vazio" if itens else "sem itens reconhecidos")
     return {**feed, "status": status, "itens": saida}
 

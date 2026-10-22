@@ -1,5 +1,5 @@
 {
- "_sobre": "Feeds RSS lidos de hora em hora pelo GitHub Actions (scripts/coletar_feeds.py). 'fonte' é o id em data/fontes.json. Feeds com erro aparecem em feeds/manchetes.json → feeds[].status; corrija ou remova aqui.",
+ "_sobre": "Feeds RSS lidos de hora em hora pelo GitHub Actions (scripts/coletar_feeds.py). 'fonte' é o id em data/fontes.json. Feeds com erro aparecem em feeds/manchetes.json → feeds[].status; corrija ou remova aqui. Cada manchete traz também 'resumo' (primeiro parágrafo do feed) para a redação não depender só do título.",
  "feeds": [
   {
    "fonte": "folha",
@@ -392,6 +392,172 @@
   {
    "fonte": "elpaisbrasil",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"
+  },
+  {
+   "fonte": "terra",
+   "url": "https://www.terra.com.br/rss/Controller?channelid=4a6e56c3f6a2a310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia&lg=pt",
+   "alternativas": [
+    "https://www.terra.com.br/noticias/brasil/rss.xml",
+    "https://www.terra.com.br/noticias/rss.xml"
+   ]
+  },
+  {
+   "fonte": "estadaoverifica",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/estadao-verifica/",
+   "alternativas": [
+    "https://www.estadao.com.br/estadao-verifica/feed/"
+   ]
+  },
+  {
+   "fonte": "fatooufake",
+   "url": "https://g1.globo.com/rss/g1/fato-ou-fake/",
+   "alternativas": [
+    "https://g1.globo.com/rss/g1/fato-ou-fake/index.xml"
+   ]
+  },
+  {
+   "fonte": "uolconfere",
+   "url": "https://noticias.uol.com.br/confere/index.xml",
+   "alternativas": [
+    "https://rss.uol.com.br/feed/confere.xml"
+   ]
+  },
+  {
+   "fonte": "g1",
+   "url": "https://g1.globo.com/rss/g1/economia/"
+  },
+  {
+   "fonte": "g1",
+   "url": "https://g1.globo.com/rss/g1/mundo/"
+  },
+  {
+   "fonte": "folha",
+   "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml"
+  },
+  {
+   "fonte": "folha",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml"
+  },
+  {
+   "fonte": "folha",
+   "url": "https://feeds.folha.uol.com.br/ciencia/rss091.xml"
+  },
+  {
+   "fonte": "diariodonordeste",
+   "url": "https://diariodonordeste.verdesmares.com.br/rss",
+   "alternativas": [
+    "https://diariodonordeste.verdesmares.com.br/rss/ultimas",
+    "https://diariodonordeste.verdesmares.com.br/feed"
+   ]
+  },
+  {
+   "fonte": "correio24h",
+   "url": "https://www.correio24horas.com.br/rss",
+   "alternativas": [
+    "https://www.correio24horas.com.br/feed",
+    "https://www.correio24horas.com.br/rss/ultimas"
+   ]
+  },
+  {
+   "fonte": "jcpe",
+   "url": "https://jc.ne10.uol.com.br/rss",
+   "alternativas": [
+    "https://jc.ne10.uol.com.br/feed",
+    "https://jc.ne10.uol.com.br/politica/rss"
+   ]
+  },
+  {
+   "fonte": "atarde",
+   "url": "https://atarde.com.br/rss",
+   "alternativas": [
+    "https://atarde.com.br/feed",
+    "https://atarde.com.br/rss/ultimas"
+   ]
+  },
+  {
+   "fonte": "agenciacamara",
+   "url": "https://www.camara.leg.br/noticias/rss/dinamico/ULTIMAS-NOTICIAS",
+   "alternativas": [
+    "https://www.camara.leg.br/noticias/rss/ultimas-noticias",
+    "https://www.camara.leg.br/noticias/rss"
+   ]
+  },
+  {
+   "fonte": "stf",
+   "url": "https://noticias.stf.jus.br/postsnoticias/feed/",
+   "alternativas": [
+    "https://portal.stf.jus.br/rss/noticias.asp",
+    "https://noticias.stf.jus.br/feed/"
+   ]
+  },
+  {
+   "fonte": "tse",
+   "url": "https://www.tse.jus.br/comunicacao/noticias/RSS",
+   "alternativas": [
+    "https://www.tse.jus.br/comunicacao/noticias/rss",
+    "https://www.tse.jus.br/rss"
+   ]
+  },
+  {
+   "fonte": "planalto",
+   "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/RSS",
+   "alternativas": [
+    "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/rss",
+    "https://agenciagov.ebc.com.br/rss"
+   ]
+  },
+  {
+   "fonte": "reuters",
+   "url": "https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best",
+   "alternativas": [
+    "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best"
+   ]
+  },
+  {
+   "fonte": "ap",
+   "url": "https://rsshub.app/apnews/topics/apf-topnews",
+   "alternativas": [
+    "https://feedx.net/rss/ap.xml"
+   ]
+  },
+  {
+   "fonte": "cnn",
+   "url": "http://rss.cnn.com/rss/edition_world.rss",
+   "alternativas": [
+    "http://rss.cnn.com/rss/cnn_world.rss"
+   ]
+  },
+  {
+   "fonte": "wsj",
+   "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+  },
+  {
+   "fonte": "bloomberg",
+   "url": "https://feeds.bloomberg.com/politics/news.rss",
+   "alternativas": [
+    "https://feeds.bloomberg.com/markets/news.rss"
+   ]
+  },
+  {
+   "fonte": "ft",
+   "url": "https://www.ft.com/world?format=rss",
+   "alternativas": [
+    "https://www.ft.com/rss/home"
+   ]
+  },
+  {
+   "fonte": "euronews",
+   "url": "https://www.euronews.com/rss?level=theme&name=news",
+   "alternativas": [
+    "https://www.euronews.com/rss"
+   ]
+  },
+  {
+   "fonte": "afp",
+   "url": "https://www.afp.com/en/rss.xml",
+   "alternativas": [
+    "https://www.france24.com/en/rss"
+   ]
   }
  ]
 }

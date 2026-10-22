@@ -91,7 +91,8 @@ button{font:inherit;color:inherit}
 .bar{position:sticky;top:var(--top);z-index:10;background:var(--bg);border-bottom:1px solid var(--line)}
 .bar .wrap{display:flex;justify-content:space-between;align-items:center;min-height:48px;gap:12px}
 .bar a{font-weight:600;font-size:.9rem;text-decoration:none}
-.bar span{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.bar span{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums;display:inline-flex;align-items:center;gap:10px}
+.bar .share{font:600 .76rem var(--f-b);border:1px solid var(--line);background:var(--card);color:var(--ink);padding:5px 10px;border-radius:999px;cursor:pointer}
 .st{display:grid;gap:22px;padding-block:18px 28px}
 .st h1{font:700 1.85rem/1.12 var(--f-d);letter-spacing:-.015em;margin:6px 0 0;text-wrap:balance}
 .st .lide{font:400 1.12rem/1.5 var(--f-d);margin:0}
@@ -158,7 +159,7 @@ button{font:inherit;color:inherit}
 .ftable td{padding:8px 8px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
 .ftable td small{display:block;color:var(--muted)}
 .tw{overflow-x:auto}
-.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--bot));background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:.86rem;z-index:30}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + var(--bot));background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:.86rem;z-index:30;max-width:calc(100% - 32px);word-break:break-all}
 @media (max-width:420px){.frame{grid-template-columns:1fr}.mast h1{font-size:1.9rem}}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 </style>
@@ -216,15 +217,20 @@ function estrangeira(m, h){
   return h.escopo === "brasil" && f && f.pais !== "BR";
 }
 function cobertura(h){
-  const c = {E:0,C:0,D:0,X:0,n:0,gov:0,neu:0,op:0};
+  // Cada veículo conta uma vez por história: duas matérias do mesmo jornal não dobram o peso do lado dele.
+  const c = {E:0,C:0,D:0,X:0,n:0,gov:0,neu:0,op:0,materias:0};
+  const vistos = new Set();
   for (const m of h.materias || []){
     if (m.tipo === "fonte_primaria" || m.tipo === "checagem") continue;
-    const s = LADO[vies(m).v];
-    if (s){ c[s]++; c.n++; }
+    c.materias++;
     if (estrangeira(m, h)) c.X++;
     if (m.enquadramento === "pro_governo") c.gov++;
     else if (m.enquadramento === "oposicao") c.op++;
     else if (m.enquadramento === "neutro") c.neu++;
+    const s = LADO[vies(m).v];
+    const chave = m.fonte || (m.veiculo || "").toLowerCase();
+    if (!s || vistos.has(chave)) continue;
+    vistos.add(chave); c[s]++; c.n++;
   }
   c.pE = c.n ? Math.round(c.E / c.n * 100) : 0;
   c.pD = c.n ? Math.round(c.D / c.n * 100) : 0;
@@ -233,12 +239,15 @@ function cobertura(h){
   return c;
 }
 const barra = (c, h = 6) => `<div class="spec" style="height:${h}px" role="img" aria-label="Esquerda ${c.pE}%, centro ${c.pC}%, direita ${c.pD}%">${c.n ? `<i style="flex:${c.E};background:${COR.E}"></i><i style="flex:${c.C};background:${COR.C}"></i><i style="flex:${c.D};background:${COR.D}"></i>` : ""}</div>`;
-const pcts = c => `<div class="pct"><span><i class="dot" style="background:${COR.E}"></i>Esq. ${c.pE}%</span><span><i class="dot" style="background:${COR.C}"></i>Centro ${c.pC}%</span><span><i class="dot" style="background:${COR.D}"></i>Dir. ${c.pD}%</span></div>`;
+// Com poucos veículos, porcentagem soa mais precisa do que é: mostra a contagem.
+const pcts = c => c.n >= 6
+  ? `<div class="pct"><span><i class="dot" style="background:${COR.E}"></i>Esq. ${c.pE}%</span><span><i class="dot" style="background:${COR.C}"></i>Centro ${c.pC}%</span><span><i class="dot" style="background:${COR.D}"></i>Dir. ${c.pD}%</span></div>`
+  : `<div class="pct"><span><i class="dot" style="background:${COR.E}"></i>Esq. ${c.E}</span><span><i class="dot" style="background:${COR.C}"></i>Centro ${c.C}</span><span><i class="dot" style="background:${COR.D}"></i>Dir. ${c.D}</span><span>${c.n} veículo${c.n === 1 ? "" : "s"}</span></div>`;
 
 function cardHistoria(h, href){
   const c = cobertura(h);
   const tags = [];
-  if (c.cego) tags.push(`<span class="tag cego" style="color:${c.cego === "esquerda" ? COR.E : COR.D}">Pouco coberto pela ${c.cego}</span>`);
+  if (c.cego) tags.push(`<span class="tag cego" style="color:${c.cego === "esquerda" ? COR.E : COR.D}">A ${c.cego} quase não cobriu</span>`);
   if (c.gov + c.op) tags.push(`<span class="tag">Pró-governo ${c.gov} · Oposição ${c.op}</span>`);
   if ((h.em_disputa || []).length) tags.push(`<span class="tag" style="color:var(--bad)">${h.em_disputa.length} alegaç${h.em_disputa.length > 1 ? "ões" : "ão"} em disputa</span>`);
   return `<a class="card" href="${href}">
@@ -294,7 +303,10 @@ async function viewFeed(tab, data){
     : tab === "cegos" ? hs.filter(x => x.c.cego)
     : hs;
   const antiga = data && meta !== IDX.edicoes[0];
-  const extra = antiga ? ` · <a href="#/">ir para a de hoje</a>` : "";
+  const k = IDX.edicoes.indexOf(meta);
+  const ontem = IDX.edicoes[k + 1], depois = IDX.edicoes[k - 1];
+  const extra = (ontem ? ` · <a href="#/e/${ontem.data}">← ${esc(fmtCurta(ontem.data + "T12:00:00-03:00"))}</a>` : "")
+    + (depois ? ` · <a href="${depois === IDX.edicoes[0] ? "#/" : `#/e/${depois.data}`}">${depois === IDX.edicoes[0] ? "hoje" : esc(fmtCurta(depois.data + "T12:00:00-03:00"))} →</a>` : "");
   const vazio = tab === "cegos" ? "Nenhuma história desta edição tem cobertura muito desequilibrada." : "Nada nesta seção hoje.";
   app.innerHTML = mast(ed, extra) + (antiga ? "" : tabs(tab)) +
     `<main class="wrap">${tab === "cegos" ? `<p class="sec-h">Histórias que um lado do espectro quase não está cobrindo</p>` : ""}
@@ -330,27 +342,29 @@ async function viewHistoria(tipo, chave, id){
   const enq = h.enquadramentos;
   const prev = hs[i - 1], next = hs[i + 1];
   app.innerHTML = `
-  <div class="bar"><div class="wrap"><a href="${col.voltar}">← ${esc(col.rotulo)}</a><span>${i + 1} de ${hs.length}</span></div></div>
+  <div class="bar"><div class="wrap"><a href="${col.voltar}">← ${esc(col.rotulo)}</a><span>${i + 1} de ${hs.length}<button class="share" id="share" type="button">Copiar link</button></span></div></div>
   <article class="st wrap">
     <div><span class="eyebrow">${esc(h.editoria)} · ${(h.materias || []).length} matérias${h.atualizado_em ? ` · atualizado ${fmtHora(h.atualizado_em)}` : ""}</span>
     <h1>${esc(h.titulo)}</h1></div>
     <p class="lide">${esc(h.lide)}</p>
+    ${h.continua ? `<p class="ctx">Continua a história de ${esc(fmtCurta(h.continua.data + "T12:00:00-03:00"))}: <a href="#/h/${esc(h.continua.data)}/${esc(h.continua.id)}">${esc(h.continua.titulo || "ver a edição anterior")}</a></p>` : ""}
     ${h.contexto ? `<p class="ctx">${esc(h.contexto)}</p>` : ""}
     <div class="jump"><a href="#cobertura" data-scroll="cobertura">Ler a cobertura de cada lado ↓</a></div>
     <section class="blk fact"><h3><span style="color:var(--ok)">●</span>Fatos<small>confirmados por 2+ fontes ou documento</small></h3><ul>${fatos}</ul></section>
     ${infs ? `<section class="blk inf"><h3><span style="color:var(--inf)">●</span>Inferências e opiniões</h3><ul>${infs}</ul></section>` : ""}
     ${disp ? `<section class="blk disp"><h3><span style="color:var(--bad)">●</span>Em disputa</h3><ul>${disp}</ul></section>` : ""}
     ${enq ? `<section class="blk"><h3>Como cada lado enquadra</h3><div class="frame"><div><b>Governo</b><p>${esc(enq.governo)}</p></div><div><b>Oposição</b><p>${esc(enq.oposicao)}</p></div></div></section>` : ""}
-    <section class="blk" id="cobertura"><h3>Cobertura<small>${c.n} classificadas</small></h3>
+    <section class="blk" id="cobertura"><h3>Cobertura<small>${c.n} veículo${c.n === 1 ? "" : "s"} · ${c.materias} matérias</small></h3>
       <div class="cov">${barra(c, 8)}${pcts(c)}</div>
+      ${h.ponto_cego ? `<p class="ctx" style="border-color:${c.cego === "direita" ? COR.D : c.cego === "esquerda" ? COR.E : "var(--line)"}"><b>Ponto cego.</b> ${esc(h.ponto_cego)}</p>` : ""}
       <div class="chips" role="group" aria-label="Filtrar cobertura" id="chips"></div>
       <ul class="arts" id="arts"></ul>
     </section>
     ${h.visao_de_fora ? `<section class="blk"><h3><span style="color:var(--X)">●</span>A visão de fora</h3><p>${esc(h.visao_de_fora)}</p></section>` : ""}
-    ${h.ponto_cego ? `<section class="blk"><h3><span style="color:${c.cego === "direita" ? COR.D : c.cego === "esquerda" ? COR.E : "var(--muted)"}">●</span>Ponto cego</h3><p>${esc(h.ponto_cego)}</p></section>` : ""}
     <nav class="pager">${prev ? `<a class="sec" href="${col.base}${prev.id}">← Anterior</a>` : "<span></span>"}${next ? `<a href="${col.base}${next.id}">Próxima →</a>` : `<a class="sec" href="${col.voltar}">Fim · voltar</a>`}</nav>
   </article>`;
   app.querySelector("[data-scroll]").addEventListener("click", e => { e.preventDefault(); document.getElementById("cobertura").scrollIntoView({behavior:"smooth"}); });
+  document.getElementById("share").addEventListener("click", () => copiar(PAGES + "#" + location.hash.replace(/^#/, "")));
   desenharCobertura(h, i);
 }
 
@@ -376,7 +390,7 @@ function desenharCobertura(h, idx){
       const nome = fonte ? fonte.nome : m.veiculo;
       const url = safeUrl(m.url);
       return `<li>
-        <span class="who"><i class="dot" style="background:${s ? COR[s] : "var(--line)"}"></i>${esc(nome)} · ${esc(NOME_VIES[vi.v] || "—")}${vi.porMateria ? " (pela matéria)" : ""}${x ? ` · <span style="color:var(--X)">estrangeira</span>` : ""}${TIPO[m.tipo] ? ` <span class="k">${TIPO[m.tipo]}</span>` : ""}${m.enquadramento === "pro_governo" ? ` <span class="k">pró-governo</span>` : m.enquadramento === "oposicao" ? ` <span class="k">oposição</span>` : ""}</span>
+        <span class="who"><i class="dot" style="background:${s ? COR[s] : "var(--line)"}"></i>${esc(nome)} · ${esc(NOME_VIES[vi.v] || "—")}${vi.porMateria ? " (pela matéria)" : ""}${x ? ` · <span style="color:var(--X)">estrangeira</span>` : ""}${TIPO[m.tipo] ? ` <span class="k">${TIPO[m.tipo]}</span>` : ""}${fonte && fonte.alcance === "pequeno" ? ` <span class="k">veículo pequeno</span>` : ""}${m.enquadramento === "pro_governo" ? ` <span class="k">pró-governo</span>` : m.enquadramento === "oposicao" ? ` <span class="k">oposição</span>` : ""}</span>
         <span class="t">${esc(m.titulo)}</span>
         ${m.angulo ? `<span class="a">${esc(m.angulo)}</span>` : ""}
         ${url ? `<a class="go" href="${esc(url)}" target="_blank" rel="noopener">Ler na íntegra em ${esc(host(url))} ↗</a>` : ""}
@@ -432,7 +446,8 @@ async function buscaLocal(t){
   const eds = await Promise.all(IDX.edicoes.slice(0, 14).map(e => getJSON(e.arquivo).catch(() => null)));
   const achados = [];
   eds.filter(Boolean).forEach(d => d.historias.forEach(h => {
-    if ((h.titulo + " " + h.lide + " " + h.editoria).toLowerCase().includes(t)) achados.push({d, h});
+    const corpo = [h.titulo, h.lide, h.editoria, ...(h.fatos || []).map(f => f.texto), ...(h.materias || []).map(m => (m.fonte && F[m.fonte] ? F[m.fonte].nome : m.veiculo) || "")].join(" ").toLowerCase();
+    if (corpo.includes(t)) achados.push({d, h});
   }));
   box.innerHTML = achados.length ? `<p class="sec-h">Já no app (últimos 14 dias)</p><ul class="list">${achados.slice(0, 8).map(({d, h}) => `<li><a href="#/h/${d.data}/${h.id}"><b>${esc(h.titulo)}</b><span>${fmtCurta(d.data + "T12:00:00-03:00")}</span></a></li>`).join("")}</ul>` : "";
 }
@@ -464,15 +479,20 @@ function viewFontes(){
 function viewMetodo(){
   app.innerHTML = `<div class="bar"><div class="wrap"><a href="#/">← Hoje</a><span></span></div></div>
   <main class="wrap page"><h1>Como funciona</h1>
-  <p>Toda manhã uma rotina do Claude pesquisa as principais histórias do dia em veículos de todo o espectro, no Brasil e fora, e monta esta edição. Buscas pedidas no app entram numa fila processada a cada hora.</p>
+  <p>Toda manhã uma rotina do Claude pesquisa as principais histórias do dia em veículos de todo o espectro, no Brasil e fora, e monta esta edição. Buscas pedidas no app entram numa fila processada de hora em hora entre 7h e 11h (Brasília).</p>
   <h2>Fatos</h2><p>Só o que foi confirmado por duas ou mais fontes independentes (de grupos diferentes) ou por documento primário: lei, decisão judicial, dado oficial, vídeo do evento. Cada fato diz sua base.</p>
   <h2>Inferências e opiniões</h2><p>Interpretações, previsões, motivações atribuídas e projeções de analistas, sempre com quem diz.</p>
   <h2>Em disputa</h2><p>Alegações que circulam e não se sustentam, com rótulos no padrão das agências de checagem brasileiras: Falso, Sem evidência, Falta contexto, Exagerado, Distorcido, Contraditório, Em apuração. Opinião da qual se discorda não entra aqui.</p>
-  <h2>Cobertura e pontos cegos</h2><p>A barra mostra a proporção das matérias encontradas por lado. Uma história vira ponto cego quando um lado tem 20% ou menos da cobertura e o outro 40% ou mais. A ordem dos lados na lista muda a cada história.</p>
+  <h2>Cobertura e pontos cegos</h2><p>A barra mostra a proporção de <b>veículos</b> por lado: cada veículo conta uma vez, e checagens e fontes primárias ficam de fora. Com menos de seis veículos, o app mostra a contagem em vez de porcentagem. Veículos de audiência pequena aparecem marcados na lista. Uma história vira ponto cego quando um lado tem 20% ou menos da cobertura e o outro 40% ou mais. A ordem dos lados na lista muda a cada história.</p>
   <h2>Governo × oposição</h2><p>Para histórias do Brasil, cada matéria é marcada como pró-governo, neutra ou de oposição (em relação ao governo federal), e o app resume como cada campo enquadra o tema.</p>
   <h2>Limites</h2><p>A classificação é feita por IA e pode errar. Leia as matérias originais, que estão sempre linkadas. O viés de cada veículo está em <a href="#/fontes">Fontes e vieses</a> e pode ser corrigido.</p></main>`;
 }
 
+function copiar(t){
+  const ok = () => toast("Link copiado");
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(ok, () => toast(t));
+  else toast(t);
+}
 function toast(t){ const el = document.getElementById("toast"); el.textContent = t; el.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => el.hidden = true, 3500); }
 function debounce(fn, ms){ let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
 

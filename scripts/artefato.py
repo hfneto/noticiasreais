@@ -30,7 +30,10 @@ async function aoVivo(path){
 }
 async function atualizarAoVivo(){
   const vivo = await aoVivo("data/index.json");
-  if (!vivo || !Array.isArray(vivo.edicoes)) return;
+  if (!vivo || !Array.isArray(vivo.edicoes)){
+    if (!(await mcpP)) window.__nrNota = ` · <span title="Sem o conector do GitHub, a página mostra os dados embutidos na última publicação">dados de ${fmtCurta(IDX?.atualizado_em)}</span>`;
+    return;
+  }
   if ((vivo.atualizado_em || "") <= (IDX?.atualizado_em || "")) return;
   cache["data/index.json"] = vivo; IDX = vivo;
   if (window.scrollY < 80) route(); else toast("Há uma edição mais nova. Volte ao topo para ver.");
@@ -106,7 +109,7 @@ def gerar():
     s = troca(s, "<p>Abre o GitHub com o pedido pronto: toque em <b>Create</b>. A pesquisa completa, com todos os lados, fica pronta em até 1 hora.</p>",
               '<p>O pedido vai direto para a fila pelo seu conector do GitHub. A fila é processada de hora em hora entre 7h e 11h (Brasília).</p><p id="alt"></p>')
     s = troca(s, "  route();\n}", "  route();\n  atualizarAoVivo();\n}")
-    s = troca(s, "entram numa fila processada a cada hora.", "entram numa fila processada de hora em hora entre 7h e 11h (Brasília).")
+    s = troca(s, '${extra || ""}</p>', '${extra || ""}${window.__nrNota || ""}</p>')
     s = re.sub(r'<meta (charset|name="viewport")[^>]*>\n?', "", s)
     return s.lstrip()
 

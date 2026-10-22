@@ -6,7 +6,7 @@ O conteúdo é gerado por sessões agendadas do Claude Code (Routines). Este arq
 
 - `index.html`, `sw.js`, `manifest.webmanifest`, `icons/`: o app. Não mexa sem pedido do usuário.
 - `ios/`: app nativo para iPhone (SwiftUI + widget), que lê os mesmos JSONs. Não mexa sem pedido do usuário; se mudar o esquema dos JSONs, os modelos em `ios/Shared/Modelos.swift` precisam acompanhar.
-- `data/fontes.json`: lista curada de veículos com viés e propriedade. Pode **acrescentar** veículos; não mude o viés de um veículo existente sem pedido do usuário.
+- `data/fontes.json`: lista curada de veículos com viés, propriedade e `alcance` (grande/medio/pequeno). Pode **acrescentar** veículos; não mude o viés de um veículo existente sem pedido do usuário. Fontes oficiais (`stf`, `tse`, `planalto`, `agenciacamara`, `agenciasenado`) entram como matéria `tipo: fonte_primaria`.
 - `data/edicoes/AAAA-MM-DD.json`: edição diária.
 - `data/buscas/<slug>.json`: resultado de uma busca por assunto.
 - `data/index.json`: gerado por `scripts/validar.py`. Nunca edite à mão.
@@ -21,14 +21,16 @@ git fetch -q origin feeds && git show FETCH_HEAD:manchetes.json > /tmp/manchetes
 python3 -c "import json;d=json.load(open('/tmp/manchetes.json'));print(d['coletado_em'],len(d['itens']),'manchetes')"
 ```
 
-Cada item tem `fonte` (id em `fontes.json`), `titulo`, `url` e `publicado_em`. Use esse arquivo para: (1) ver quais assuntos aparecem em muitos veículos (pauta); (2) achar a matéria de cada lado sobre uma história, procurando por palavras-chave nos títulos; (3) detectar pontos cegos (história que só aparece nos feeds de um lado). Combine com WebSearch para contexto, checagens e veículos sem feed. Se o arquivo tiver mais de 3 h (`coletado_em`), siga só com WebSearch e avise no resumo final.
+Cada item tem `fonte` (id em `fontes.json`), `titulo`, `url`, `publicado_em` e `resumo` (primeiro parágrafo do feed, quando o veículo fornece). **Leia o `resumo`, não só o título**: é dele que saem o `angulo` de cada matéria, os fatos e os enquadramentos. Use esse arquivo para: (1) ver quais assuntos aparecem em muitos veículos (pauta); (2) achar a matéria de cada lado sobre uma história, procurando por palavras-chave nos títulos; (3) detectar pontos cegos (história que só aparece nos feeds de um lado). Combine com WebSearch para contexto, checagens e veículos sem feed. Se o arquivo tiver mais de 3 h (`coletado_em`), siga só com WebSearch e avise no resumo final.
 
 ## Tarefa 1 — edição diária
 
-1. Data de hoje em Brasília: `TZ=America/Sao_Paulo date +%F`.
-2. Leia as manchetes do branch `feeds` (seção acima). Levante as histórias mais importantes das últimas 24h: **8 a 12 histórias**, cerca de 2/3 Brasil e 1/3 mundo. Critério: relevância pública (política, economia, justiça, saúde, ciência, clima, internacional), não volume de cliques. Evite fofoca, celebridade e esporte, salvo fato de grande impacto.
+1. Data de hoje em Brasília: `TZ=America/Sao_Paulo date +%F`. Em `gerado_em`, use a hora real de geração: `TZ=America/Sao_Paulo date -Iseconds`.
+2. Leia as manchetes do branch `feeds` (seção acima). Levante as histórias mais importantes das últimas 24h: **8 a 12 histórias**, cerca de 2/3 Brasil e 1/3 mundo. Critério: relevância pública (política, economia, justiça, saúde, ciência, clima, internacional), não volume de cliques. Evite fofoca, celebridade e esporte, salvo fato de grande impacto. **Ao menos 3 histórias fora de Política/Eleições/Justiça** (economia, saúde, ciência, clima, educação, segurança); o validador avisa quando a edição passa de 70% de política.
    - Busque em vários veículos de lados diferentes (veja `data/fontes.json`), não só nos grandes portais. Uma história que só um lado está cobrindo é exatamente o que o app quer mostrar (ponto cego).
-3. Para cada história, pesquise a cobertura e monte o objeto conforme o **Esquema** abaixo. Meta: **6 a 12 matérias** por história, cobrindo esquerda, centro e direita quando existirem. Se procurou um lado e não achou cobertura, diga isso em `ponto_cego`.
+3. Para cada história, pesquise a cobertura e monte o objeto conforme o **Esquema** abaixo. Meta: **6 a 12 matérias** por história, cobrindo esquerda, centro e direita quando existirem, de **veículos diferentes** (no máximo 2 do mesmo veículo; a barra do app conta cada veículo uma vez). Se procurou um lado e não achou cobertura, diga isso em `ponto_cego`.
+   - **Continuidade:** se a história é desdobramento de uma publicada em edição anterior, preencha `continua` com `data`, `id` e `titulo` da história anterior. Não repita o contexto de ontem no lide; diga o que mudou hoje.
+   - **Checagens do dia:** procure nos feeds de `lupa`, `aosfatos`, `comprova`, `estadaoverifica`, `fatooufake` e `uolconfere` (e no WebSearch) checagens das últimas 48 h ligadas às histórias e ponha em `em_disputa` com o link em `checagem`. Uma checagem relevante sem história correspondente pode virar história própria, com a checagem como matéria `tipo: checagem`.
 4. Grave em `data/edicoes/<data>.json`, rode `python3 scripts/validar.py data/edicoes/<data>.json` e corrija até passar.
 5. Publique (seção **Publicar**).
 
@@ -59,7 +61,7 @@ O usuário pede buscas abrindo uma issue com título `busca: <assunto>`.
 - `angulo` é uma frase sua, curta, dizendo o enfoque daquela matéria (o que ela destaca, o que omite). Não copie parágrafos: o app linka para a matéria original para leitura na íntegra.
 
 ### Fatos
-Só entra em `fatos` o que é verificável **e** confirmado por **2+ fontes independentes** (veículos de grupos diferentes) **ou** por documento primário (texto de lei, decisão judicial, dado oficial, nota oficial, vídeo do evento). Em `base`, diga qual: `"4 fontes independentes"`, `"Diário Oficial"`, `"decisão do STF"`. Escreva sem adjetivos.
+Só entra em `fatos` o que é verificável **e** confirmado por **2+ fontes independentes** (veículos de grupos diferentes: g1, Valor e O Globo são um grupo; Estadão e Estadão Verifica também; um veículo republicando agência não conta como segunda fonte) **ou** por documento primário (texto de lei, decisão judicial, dado oficial, nota oficial, vídeo do evento). Em `base`, diga qual e nomeie os veículos entre parênteses: `"3 fontes independentes (Folha, Gazeta do Povo, Brasil de Fato)"`, `"Diário Oficial"`, `"decisão do STF"`. O validador confere o grupo (`dono` em `fontes.json`) dos veículos nomeados. Escreva sem adjetivos.
 
 ### Inferências e opiniões
 Interpretações, previsões, motivações atribuídas, avaliações, projeções de analistas e declarações de autoridades **sobre o que vai acontecer ou por que algo aconteceu**. Sempre com `quem` diz. Uma declaração oficial é um fato ("o ministro disse X"), mas o conteúdo dela, se não verificado, é inferência.
@@ -101,6 +103,7 @@ Alegações relevantes que circulam (em veículos, redes, falas de políticos) e
       "enquadramentos": {"governo": "...", "oposicao": "..."},
       "visao_de_fora": "...",
       "ponto_cego": "...",
+      "continua": {"data": "2026-10-17", "id": "slug-da-historia-anterior", "titulo": "Título da história anterior"},
       "materias": [
         {"fonte": "folha", "titulo": "...", "url": "https://...", "angulo": "...", "tipo": "noticia", "enquadramento": "neutro", "data": "2026-10-18"},
         {"fonte": null, "veiculo": "Portal X", "vies_materia": "direita", "titulo": "...", "url": "https://...", "angulo": "...", "tipo": "opiniao", "enquadramento": "oposicao"}

@@ -145,7 +145,12 @@
           "tipo": "noticia",
           "enquadramento": "neutro"
         }
-      ]
+      ],
+      "continua": {
+        "data": "2026-10-21",
+        "id": "lula-sigilos-flavio-tse",
+        "titulo": "Lula protocola autorização para abrir seus sigilos se Flávio fizer o mesmo; Flávio ignora o desafio"
+      }
     },
     {
       "id": "willer-tomaz-sala-secreta-richarlison",
@@ -268,7 +273,12 @@
           "tipo": "noticia",
           "enquadramento": "neutro"
         }
-      ]
+      ],
+      "continua": {
+        "data": "2026-10-21",
+        "id": "willer-tomaz-bets-flavio-moraes",
+        "titulo": "Amigo de Flávio, Willer Tomaz movimentou R$ 5 bilhões em bets, aponta Fazenda; Moraes assume relatoria do inquérito"
+      }
     },
     {
       "id": "mpf-aciona-meta-lula-pede-cassacao-flavio",
@@ -417,7 +427,12 @@
           "tipo": "noticia",
           "enquadramento": "neutro"
         }
-      ]
+      ],
+      "continua": {
+        "data": "2026-10-21",
+        "id": "meta-conselho-falhas-tse-campanhas",
+        "titulo": "Conselho da Meta aponta falhas na moderação eleitoral, e campanhas trocam ações no TSE sobre redes"
+      }
     },
     {
       "id": "caso-master-pgr-fachin-vorcaro-politicos",
@@ -966,7 +981,12 @@
           "tipo": "noticia",
           "enquadramento": null
         }
-      ]
+      ],
+      "continua": {
+        "data": "2026-10-21",
+        "id": "witkoff-putin-zelensky-oslo",
+        "titulo": "Enviado de Trump leva proposta a Putin após reunião com Zelensky em Oslo"
+      }
     },
     {
       "id": "europa-protestos-greves-le-pen",

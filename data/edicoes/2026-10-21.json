@@ -1165,7 +1165,12 @@
           "tipo": "analise",
           "enquadramento": null
         }
-      ]
+      ],
+      "continua": {
+        "data": "2026-10-20",
+        "id": "trump-zelensky-negociador",
+        "titulo": "Trump diz que Ucrânia deveria ter outro negociador no lugar de Zelensky e se abre a cúpula com Putin e Xi"
+      }
     }
   ]
 }

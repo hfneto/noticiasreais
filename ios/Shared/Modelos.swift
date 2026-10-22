@@ -51,10 +51,12 @@ struct Historia: Codable, Hashable, Identifiable {
     var enquadramentos: Enquadramentos?
     var visaoDeFora: String?
     var pontoCego: String?
+    var continua: Continuacao?
     var materias: [Materia]?
 }
 
 struct Fato: Codable, Hashable { var texto: String; var base: String }
+struct Continuacao: Codable, Hashable { var data: String; var id: String; var titulo: String? }
 struct Inferencia: Codable, Hashable { var texto: String; var quem: String }
 struct Checagem: Codable, Hashable { var nome: String; var url: String }
 struct Enquadramentos: Codable, Hashable { var governo: String?; var oposicao: String? }
@@ -96,6 +98,7 @@ struct Fonte: Codable, Hashable, Identifiable {
     var base: String?
     var notas: String?
     var checagem: Bool?
+    var alcance: String?
 }
 
 /// Onde uma história mora: numa edição diária ou numa busca.

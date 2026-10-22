@@ -21,6 +21,57 @@ ENQUADRAMENTOS = {"pro_governo", "neutro", "oposicao", None}
 TIPOS_MATERIA = {"noticia", "analise", "opiniao", "checagem", "fonte_primaria"}
 ESCOPOS = {"brasil", "mundo"}
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+DOC_PRIMARIO = re.compile(r"diário oficial|decisão|acórdão|nota oficial|documento|lei\b|decreto|portaria|relatório|boletim|ata\b|vídeo|dado oficial|ibge|tse|stf|senado|câmara|ministério|secretaria|pnuma|onu|oms", re.I)
+EDITORIAS_POLITICA = {"política", "politica", "eleições", "eleicoes", "justiça", "justica"}
+
+
+def _norm(t):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", t or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
+
+
+def grupo(f):
+    """Chave do grupo econômico: fontes com o mesmo controlador não são independentes entre si."""
+    return f.get("grupo") or _norm(re.sub(r"\(.*?\)", "", f.get("dono") or f["id"]))
+
+
+def resolver_fonte(nome, fontes, por_nome):
+    n = _norm(nome)
+    if n in fontes:
+        return fontes[n]
+    if n in por_nome:
+        return por_nome[n]
+    for k, f in por_nome.items():
+        if n and (n in k or k in n):
+            return f
+    return None
+
+
+def checar_independencia(h, fontes, p, erros, avisos):
+    """Regra do CLAUDE.md: fato precisa de 2+ fontes de grupos diferentes ou documento primário."""
+    por_nome = {_norm(f["nome"]): f for f in fontes.values()}
+    grupos_materias = set()
+    for m in h.get("materias") or []:
+        f = fontes.get(m.get("fonte") or "")
+        grupos_materias.add(grupo(f) if f else _norm(m.get("veiculo") or "?"))
+    for i, fato in enumerate(h.get("fatos") or []):
+        base = fato.get("base") or ""
+        m = re.match(r"\s*(\d+)\s+fontes?", base, re.I)
+        if not m:
+            continue  # base é documento/fonte nomeada; não dá para checar automaticamente
+        n = int(m.group(1))
+        if n < 2 and not DOC_PRIMARIO.search(base):
+            erros.append(f"{p}: fato {i} com 1 fonte e sem documento primário: '{base}'")
+        nomes = re.findall(r"\(([^)]*)\)", base)
+        citadas = [x.strip() for x in re.split(r",|;| e ", nomes[0]) if x.strip()] if nomes else []
+        resolvidas = [resolver_fonte(x.split("/")[0], fontes, por_nome) for x in citadas]
+        resolvidas = [f for f in resolvidas if f]
+        if len(resolvidas) >= 2 and len(resolvidas) == len(citadas):
+            if len({grupo(f) for f in resolvidas}) < 2:
+                erros.append(f"{p}: fato {i} cita só fontes do mesmo grupo ({', '.join(f['nome'] for f in resolvidas)}): '{base}'")
+        if n > max(len(grupos_materias), 1) + 1:
+            avisos.append(f"{p}: fato {i} diz {n} fontes, mas as matérias da história vêm de {len(grupos_materias)} grupo(s)")
 
 
 def carregar_fontes():
@@ -68,6 +119,22 @@ def validar_historia(h, fontes, onde, erros, avisos):
     if enq is not None and not (texto(enq.get("governo")) and texto(enq.get("oposicao"))):
         erros.append(f"{p}: enquadramentos precisa de governo e oposicao, ou null")
 
+    cont = h.get("continua")
+    if cont is not None:
+        if not (isinstance(cont, dict) and re.match(r"^\d{4}-\d{2}-\d{2}$", str(cont.get("data", ""))) and isinstance(cont.get("id"), str) and SLUG.match(cont["id"])):
+            erros.append(f"{p}: continua precisa de data (AAAA-MM-DD) e id (slug)")
+        else:
+            arq = DADOS / "edicoes" / f"{cont['data']}.json"
+            if arq.exists():
+                ids = {x.get("id") for x in json.loads(arq.read_text(encoding="utf-8")).get("historias", [])}
+                if cont["id"] not in ids:
+                    erros.append(f"{p}: continua aponta para {cont['data']}/{cont['id']}, que não existe")
+            else:
+                avisos.append(f"{p}: continua aponta para edição {cont['data']}, não encontrada")
+            if not texto(cont.get("titulo")):
+                avisos.append(f"{p}: continua sem 'titulo' (o app mostra o título da história anterior)")
+    checar_independencia(h, fontes, p, erros, avisos)
+
     materias = h.get("materias") or []
     if len(materias) < 3:
         erros.append(f"{p}: precisa de ao menos 3 matérias (tem {len(materias)})")
@@ -102,6 +169,11 @@ def validar_historia(h, fontes, onde, erros, avisos):
             lados.add("E" if "esquerda" in vies else "D" if "direita" in vies else "C")
     if materias and len(lados) < 2 and not texto(h.get("ponto_cego")):
         avisos.append(f"{p}: só um lado do espectro e nenhum ponto_cego explicado")
+    from collections import Counter
+    rep = Counter((m.get("fonte") or (m.get("veiculo") or "").lower()) for m in materias)
+    for k, n in rep.items():
+        if n > 2:
+            avisos.append(f"{p}: veículo '{k}' aparece {n} vezes; prefira variar (a barra conta cada veículo uma vez)")
 
 
 def validar_arquivo(caminho, fontes):
@@ -134,6 +206,13 @@ def validar_arquivo(caminho, fontes):
         erros.append(f"{nome}: ids de história repetidos")
     for h in historias:
         validar_historia(h, fontes, nome, erros, avisos)
+    if tipo == "edicao" and len(historias) >= 6:
+        pol = sum(1 for h in historias if str(h.get("editoria", "")).strip().lower() in EDITORIAS_POLITICA)
+        if pol / len(historias) > 0.7:
+            avisos.append(f"{nome}: {pol} de {len(historias)} histórias são Política/Eleições/Justiça; o CLAUDE.md pede ao menos 3 de outras editorias")
+        brasil = sum(1 for h in historias if h.get("escopo") == "brasil")
+        if not 0.5 <= brasil / len(historias) <= 0.8:
+            avisos.append(f"{nome}: {brasil} de {len(historias)} histórias são do Brasil; a meta é cerca de 2/3")
     return erros, avisos
 
 

@@ -1,104 +1,1285 @@
 {
-  "_sobre": "Lista curada de veículos. 'vies' é a posição editorial predominante do veículo, não de cada matéria. Para veículos fora desta lista ou com vies 'nao_classificado', o pipeline avalia a própria matéria (campo vies_materia). Edite à vontade: o app e o pipeline leem este arquivo.",
-  "escala_vies": ["esquerda", "centro_esquerda", "centro", "centro_direita", "direita", "nao_classificado"],
-  "tipos_propriedade": {
-    "familiar": "Grupo de mídia controlado por família",
-    "conglomerado": "Conglomerado empresarial ou grupo com outros negócios",
-    "independente": "Independente, de jornalistas ou assinantes",
-    "sem_fins_lucrativos": "Organização sem fins lucrativos ou financiada por fundações",
-    "estatal": "Controlado por governo",
-    "publico": "Emissora pública com independência editorial formal",
-    "religioso": "Ligado a igreja ou grupo religioso",
-    "politico": "Ligado a partido ou movimento político",
-    "cooperativa": "Cooperativa ou agência de notícias mantida por membros"
+ "_sobre": "Lista curada de veículos. 'vies' é a posição editorial predominante do veículo, não de cada matéria. Para veículos fora desta lista ou com vies 'nao_classificado', o pipeline avalia a própria matéria (campo vies_materia). Edite à vontade: o app e o pipeline leem este arquivo. 'alcance' (grande/medio/pequeno) é o tamanho aproximado da audiência; o app usa para contar veículos e marcar os pequenos. 'grupo' (opcional) identifica veículos do mesmo controlador, que não contam como fontes independentes entre si.",
+ "escala_vies": [
+  "esquerda",
+  "centro_esquerda",
+  "centro",
+  "centro_direita",
+  "direita",
+  "nao_classificado"
+ ],
+ "tipos_propriedade": {
+  "familiar": "Grupo de mídia controlado por família",
+  "conglomerado": "Conglomerado empresarial ou grupo com outros negócios",
+  "independente": "Independente, de jornalistas ou assinantes",
+  "sem_fins_lucrativos": "Organização sem fins lucrativos ou financiada por fundações",
+  "estatal": "Controlado por governo",
+  "publico": "Emissora pública com independência editorial formal",
+  "religioso": "Ligado a igreja ou grupo religioso",
+  "politico": "Ligado a partido ou movimento político",
+  "cooperativa": "Cooperativa ou agência de notícias mantida por membros"
+ },
+ "fontes": [
+  {
+   "id": "folha",
+   "nome": "Folha de S.Paulo",
+   "dominios": [
+    "folha.uol.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Folha (família Frias)",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "folha-uol"
   },
-  "fontes": [
-    {"id": "folha", "nome": "Folha de S.Paulo", "dominios": ["folha.uol.com.br"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Folha (família Frias)", "base": "curadoria"},
-    {"id": "estadao", "nome": "Estadão", "dominios": ["estadao.com.br"], "pais": "BR", "vies": "centro_direita", "propriedade": "familiar", "dono": "Grupo Estado (família Mesquita)", "base": "curadoria"},
-    {"id": "oglobo", "nome": "O Globo", "dominios": ["oglobo.globo.com"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Globo (família Marinho)", "base": "curadoria"},
-    {"id": "g1", "nome": "g1", "dominios": ["g1.globo.com"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Globo (família Marinho)", "base": "curadoria"},
-    {"id": "valor", "nome": "Valor Econômico", "dominios": ["valor.globo.com"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Globo", "base": "curadoria"},
-    {"id": "uol", "nome": "UOL", "dominios": ["noticias.uol.com.br", "uol.com.br"], "pais": "BR", "vies": "centro_esquerda", "propriedade": "familiar", "dono": "Grupo UOL (família Frias)", "base": "curadoria"},
-    {"id": "cnnbrasil", "nome": "CNN Brasil", "dominios": ["cnnbrasil.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "Novus Mídia (licença CNN)", "base": "curadoria"},
-    {"id": "band", "nome": "Band", "dominios": ["band.uol.com.br", "band.com.br", "bandnewstv.com.br"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Bandeirantes (família Saad)", "base": "curadoria"},
-    {"id": "r7", "nome": "R7 / Record", "dominios": ["r7.com"], "pais": "BR", "vies": "centro_direita", "propriedade": "religioso", "dono": "Grupo Record (Edir Macedo, Igreja Universal)", "base": "curadoria"},
-    {"id": "sbt", "nome": "SBT News", "dominios": ["sbtnews.sbt.com.br"], "pais": "BR", "vies": "centro_direita", "propriedade": "familiar", "dono": "Grupo Silvio Santos", "base": "curadoria"},
-    {"id": "jovempan", "nome": "Jovem Pan", "dominios": ["jovempan.com.br"], "pais": "BR", "vies": "direita", "propriedade": "familiar", "dono": "Grupo Jovem Pan (família Machado de Carvalho)", "base": "curadoria"},
-    {"id": "gazetadopovo", "nome": "Gazeta do Povo", "dominios": ["gazetadopovo.com.br"], "pais": "BR", "vies": "direita", "propriedade": "familiar", "dono": "Grupo GRPCOM (família Cunha Pereira)", "base": "curadoria", "notas": "Linha editorial declaradamente conservadora."},
-    {"id": "oeste", "nome": "Revista Oeste", "dominios": ["revistaoeste.com"], "pais": "BR", "vies": "direita", "propriedade": "independente", "dono": "Sociedade de jornalistas e investidores", "base": "curadoria"},
-    {"id": "antagonista", "nome": "O Antagonista", "dominios": ["oantagonista.com.br"], "pais": "BR", "vies": "centro_direita", "propriedade": "independente", "dono": "Grupo Crusoé / O Antagonista", "base": "curadoria"},
-    {"id": "veja", "nome": "Veja", "dominios": ["veja.abril.com.br"], "pais": "BR", "vies": "centro_direita", "propriedade": "conglomerado", "dono": "Grupo Abril", "base": "curadoria"},
-    {"id": "exame", "nome": "Exame", "dominios": ["exame.com"], "pais": "BR", "vies": "centro_direita", "propriedade": "conglomerado", "dono": "BTG Pactual (sócio controlador)", "base": "curadoria"},
-    {"id": "infomoney", "nome": "InfoMoney", "dominios": ["infomoney.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "XP Inc.", "base": "curadoria"},
-    {"id": "poder360", "nome": "Poder360", "dominios": ["poder360.com.br"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Fernando Rodrigues (fundador)", "base": "curadoria"},
-    {"id": "metropoles", "nome": "Metrópoles", "dominios": ["metropoles.com"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Luiz Estevão (fundador)", "base": "curadoria"},
-    {"id": "correiobraziliense", "nome": "Correio Braziliense", "dominios": ["correiobraziliense.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "Diários Associados", "base": "curadoria"},
-    {"id": "estadodeminas", "nome": "Estado de Minas", "dominios": ["em.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "Diários Associados", "base": "curadoria"},
-    {"id": "gzh", "nome": "GZH", "dominios": ["gauchazh.clicrbs.com.br"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo RBS (família Sirotsky)", "base": "curadoria"},
-    {"id": "terra", "nome": "Terra", "dominios": ["terra.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "Terra Networks", "base": "curadoria"},
-    {"id": "piaui", "nome": "piauí", "dominios": ["piaui.folha.uol.com.br"], "pais": "BR", "vies": "centro_esquerda", "propriedade": "independente", "dono": "Editora Alvinegra (João Moreira Salles)", "base": "curadoria"},
-    {"id": "nexo", "nome": "Nexo Jornal", "dominios": ["nexojornal.com.br"], "pais": "BR", "vies": "centro_esquerda", "propriedade": "independente", "dono": "Nexo Jornal Ltda.", "base": "curadoria"},
-    {"id": "publica", "nome": "Agência Pública", "dominios": ["apublica.org"], "pais": "BR", "vies": "centro_esquerda", "propriedade": "sem_fins_lucrativos", "dono": "Associação sem fins lucrativos", "base": "curadoria"},
-    {"id": "intercept", "nome": "Intercept Brasil", "dominios": ["intercept.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "sem_fins_lucrativos", "dono": "Financiado por leitores e fundações", "base": "curadoria"},
-    {"id": "cartacapital", "nome": "CartaCapital", "dominios": ["cartacapital.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "independente", "dono": "Editora Confiança", "base": "curadoria"},
-    {"id": "brasildefato", "nome": "Brasil de Fato", "dominios": ["brasildefato.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "politico", "dono": "Ligado a movimentos sociais (MST e outros)", "base": "curadoria"},
-    {"id": "brasil247", "nome": "Brasil 247", "dominios": ["brasil247.com"], "pais": "BR", "vies": "esquerda", "propriedade": "independente", "dono": "Leonardo Attuch (fundador)", "base": "curadoria"},
-    {"id": "forum", "nome": "Revista Fórum", "dominios": ["revistaforum.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "independente", "dono": "Renato Rovai (fundador)", "base": "curadoria"},
-    {"id": "dcm", "nome": "Diário do Centro do Mundo", "dominios": ["diariodocentrodomundo.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "independente", "dono": "Kiko Nogueira e sócios", "base": "curadoria"},
-    {"id": "icl", "nome": "ICL Notícias", "dominios": ["iclnoticias.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "independente", "dono": "Instituto Conhecimento Liberta", "base": "curadoria"},
-    {"id": "plenonews", "nome": "Pleno News", "dominios": ["pleno.news"], "pais": "BR", "vies": "direita", "propriedade": "religioso", "dono": "Grupo MK (evangélico)", "base": "curadoria"},
-    {"id": "conexaopolitica", "nome": "Conexão Política", "dominios": ["conexaopolitica.com.br"], "pais": "BR", "vies": "direita", "propriedade": "independente", "dono": "Independente", "base": "curadoria"},
-    {"id": "agenciabrasil", "nome": "Agência Brasil (EBC)", "dominios": ["agenciabrasil.ebc.com.br"], "pais": "BR", "vies": "centro", "propriedade": "estatal", "dono": "Governo federal (EBC)", "base": "curadoria", "notas": "Estatal: tende a reproduzir o enquadramento do governo da vez."},
-    {"id": "agenciasenado", "nome": "Agência Senado / Câmara", "dominios": ["www12.senado.leg.br", "camara.leg.br"], "pais": "BR", "vies": "centro", "propriedade": "estatal", "dono": "Congresso Nacional", "base": "curadoria", "notas": "Fonte primária institucional."},
-    {"id": "bbcbrasil", "nome": "BBC News Brasil", "dominios": ["bbc.com/portuguese"], "pais": "GB", "vies": "centro", "propriedade": "publico", "dono": "BBC (emissora pública britânica)", "base": "AllSides/MBFC"},
-    {"id": "dwbrasil", "nome": "DW Brasil", "dominios": ["dw.com/pt-br"], "pais": "DE", "vies": "centro", "propriedade": "publico", "dono": "Deutsche Welle (pública alemã)", "base": "MBFC"},
-    {"id": "elpaisbrasil", "nome": "El País", "dominios": ["elpais.com"], "pais": "ES", "vies": "centro_esquerda", "propriedade": "conglomerado", "dono": "Grupo PRISA", "base": "MBFC"},
-    {"id": "jota", "nome": "JOTA", "dominios": ["jota.info"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "JOTA Jornalismo", "base": "curadoria", "notas": "Especializado em Judiciário, regulação e tributação."},
-    {"id": "congressoemfoco", "nome": "Congresso em Foco", "dominios": ["congressoemfoco.com.br", "congressoemfoco.uol.com.br"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Congresso em Foco", "base": "curadoria"},
-    {"id": "otempo", "nome": "O Tempo", "dominios": ["otempo.com.br"], "pais": "BR", "vies": "centro", "propriedade": "conglomerado", "dono": "Sempre Editora", "base": "curadoria"},
-    {"id": "neofeed", "nome": "NeoFeed", "dominios": ["neofeed.com.br"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "NeoFeed", "base": "curadoria"},
-    {"id": "braziljournal", "nome": "Brazil Journal", "dominios": ["braziljournal.com"], "pais": "BR", "vies": "centro_direita", "propriedade": "independente", "dono": "Geraldo Samor (fundador)", "base": "curadoria"},
-    {"id": "istoe", "nome": "IstoÉ", "dominios": ["istoe.com.br", "istoedinheiro.com.br"], "pais": "BR", "vies": "centro_direita", "propriedade": "familiar", "dono": "Editora Três", "base": "curadoria"},
-    {"id": "diariodopoder", "nome": "Diário do Poder", "dominios": ["diariodopoder.com.br"], "pais": "BR", "vies": "direita", "propriedade": "independente", "dono": "Cláudio Humberto (fundador)", "base": "curadoria"},
-    {"id": "terrabrasil", "nome": "Terra Brasil Notícias", "dominios": ["terrabrasilnoticias.com"], "pais": "BR", "vies": "direita", "propriedade": "independente", "dono": "Independente", "base": "curadoria"},
-    {"id": "operamundi", "nome": "Opera Mundi", "dominios": ["operamundi.uol.com.br"], "pais": "BR", "vies": "esquerda", "propriedade": "independente", "dono": "Breno Altman (fundador)", "base": "curadoria"},
-    {"id": "outraspalavras", "nome": "Outras Palavras", "dominios": ["outraspalavras.net"], "pais": "BR", "vies": "esquerda", "propriedade": "sem_fins_lucrativos", "dono": "Financiado por leitores", "base": "curadoria"},
-    {"id": "midianinja", "nome": "Mídia NINJA", "dominios": ["midianinja.org"], "pais": "BR", "vies": "esquerda", "propriedade": "politico", "dono": "Coletivo ligado a movimentos sociais", "base": "curadoria"},
-
-    {"id": "lupa", "nome": "Agência Lupa", "dominios": ["lupa.uol.com.br", "lupa.news", "agencialupa.org"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Agência Lupa", "checagem": true, "base": "IFCN"},
-    {"id": "aosfatos", "nome": "Aos Fatos", "dominios": ["aosfatos.org"], "pais": "BR", "vies": "centro", "propriedade": "independente", "dono": "Aos Fatos", "checagem": true, "base": "IFCN"},
-    {"id": "estadaoverifica", "nome": "Estadão Verifica", "dominios": ["estadao.com.br/estadao-verifica"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Estado", "checagem": true, "base": "IFCN"},
-    {"id": "fatooufake", "nome": "Fato ou Fake (g1)", "dominios": ["g1.globo.com/fato-ou-fake"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo Globo", "checagem": true, "base": "curadoria"},
-    {"id": "comprova", "nome": "Projeto Comprova", "dominios": ["projetocomprova.com.br"], "pais": "BR", "vies": "centro", "propriedade": "sem_fins_lucrativos", "dono": "Coalizão de veículos (Abraji)", "checagem": true, "base": "curadoria"},
-    {"id": "uolconfere", "nome": "UOL Confere", "dominios": ["noticias.uol.com.br/confere"], "pais": "BR", "vies": "centro", "propriedade": "familiar", "dono": "Grupo UOL", "checagem": true, "base": "curadoria"},
-
-    {"id": "reuters", "nome": "Reuters", "dominios": ["reuters.com"], "pais": "GB", "vies": "centro", "propriedade": "conglomerado", "dono": "Thomson Reuters", "base": "AllSides/MBFC"},
-    {"id": "ap", "nome": "Associated Press", "dominios": ["apnews.com"], "pais": "US", "vies": "centro", "propriedade": "cooperativa", "dono": "Cooperativa de veículos dos EUA", "base": "MBFC"},
-    {"id": "afp", "nome": "AFP", "dominios": ["afp.com"], "pais": "FR", "vies": "centro", "propriedade": "publico", "dono": "Agence France-Presse", "base": "MBFC"},
-    {"id": "bbc", "nome": "BBC News", "dominios": ["bbc.com", "bbc.co.uk"], "pais": "GB", "vies": "centro", "propriedade": "publico", "dono": "BBC", "base": "AllSides/MBFC"},
-    {"id": "nyt", "nome": "The New York Times", "dominios": ["nytimes.com"], "pais": "US", "vies": "centro_esquerda", "propriedade": "familiar", "dono": "The New York Times Company (família Sulzberger)", "base": "AllSides"},
-    {"id": "wapo", "nome": "The Washington Post", "dominios": ["washingtonpost.com"], "pais": "US", "vies": "centro_esquerda", "propriedade": "conglomerado", "dono": "Jeff Bezos", "base": "AllSides"},
-    {"id": "guardian", "nome": "The Guardian", "dominios": ["theguardian.com"], "pais": "GB", "vies": "centro_esquerda", "propriedade": "sem_fins_lucrativos", "dono": "Scott Trust", "base": "AllSides/MBFC"},
-    {"id": "cnn", "nome": "CNN", "dominios": ["cnn.com", "edition.cnn.com"], "pais": "US", "vies": "centro_esquerda", "propriedade": "conglomerado", "dono": "Warner Bros. Discovery", "base": "AllSides"},
-    {"id": "npr", "nome": "NPR", "dominios": ["npr.org"], "pais": "US", "vies": "centro_esquerda", "propriedade": "sem_fins_lucrativos", "dono": "Rede de rádios públicas", "base": "AllSides"},
-    {"id": "wsj", "nome": "The Wall Street Journal", "dominios": ["wsj.com"], "pais": "US", "vies": "centro", "propriedade": "conglomerado", "dono": "News Corp (família Murdoch)", "base": "AllSides", "notas": "Seção de notícias ao centro; seção de opinião à direita."},
-    {"id": "foxnews", "nome": "Fox News", "dominios": ["foxnews.com"], "pais": "US", "vies": "direita", "propriedade": "conglomerado", "dono": "Fox Corporation (família Murdoch)", "base": "AllSides"},
-    {"id": "nypost", "nome": "New York Post", "dominios": ["nypost.com"], "pais": "US", "vies": "centro_direita", "propriedade": "conglomerado", "dono": "News Corp (família Murdoch)", "base": "AllSides"},
-    {"id": "breitbart", "nome": "Breitbart", "dominios": ["breitbart.com"], "pais": "US", "vies": "direita", "propriedade": "independente", "dono": "Breitbart News Network", "base": "AllSides"},
-    {"id": "politico", "nome": "Politico", "dominios": ["politico.com", "politico.eu"], "pais": "US", "vies": "centro", "propriedade": "conglomerado", "dono": "Axel Springer", "base": "MBFC"},
-    {"id": "axios", "nome": "Axios", "dominios": ["axios.com"], "pais": "US", "vies": "centro", "propriedade": "conglomerado", "dono": "Cox Enterprises", "base": "MBFC"},
-    {"id": "bloomberg", "nome": "Bloomberg", "dominios": ["bloomberg.com"], "pais": "US", "vies": "centro", "propriedade": "conglomerado", "dono": "Michael Bloomberg", "base": "MBFC"},
-    {"id": "ft", "nome": "Financial Times", "dominios": ["ft.com"], "pais": "GB", "vies": "centro", "propriedade": "conglomerado", "dono": "Nikkei", "base": "MBFC"},
-    {"id": "economist", "nome": "The Economist", "dominios": ["economist.com"], "pais": "GB", "vies": "centro", "propriedade": "familiar", "dono": "Exor (família Agnelli) e acionistas", "base": "MBFC"},
-    {"id": "aljazeera", "nome": "Al Jazeera", "dominios": ["aljazeera.com"], "pais": "QA", "vies": "centro_esquerda", "propriedade": "estatal", "dono": "Governo do Catar", "base": "AllSides/MBFC"},
-    {"id": "dw", "nome": "Deutsche Welle", "dominios": ["dw.com"], "pais": "DE", "vies": "centro", "propriedade": "publico", "dono": "Governo alemão (pública)", "base": "MBFC"},
-    {"id": "lemonde", "nome": "Le Monde", "dominios": ["lemonde.fr"], "pais": "FR", "vies": "centro_esquerda", "propriedade": "conglomerado", "dono": "Groupe Le Monde", "base": "MBFC"},
-    {"id": "lefigaro", "nome": "Le Figaro", "dominios": ["lefigaro.fr"], "pais": "FR", "vies": "centro_direita", "propriedade": "conglomerado", "dono": "Groupe Dassault", "base": "MBFC"},
-    {"id": "clarin", "nome": "Clarín", "dominios": ["clarin.com"], "pais": "AR", "vies": "centro_direita", "propriedade": "conglomerado", "dono": "Grupo Clarín", "base": "curadoria"},
-    {"id": "lanacion", "nome": "La Nación", "dominios": ["lanacion.com.ar"], "pais": "AR", "vies": "centro_direita", "propriedade": "familiar", "dono": "Família Saguier/Mitre", "base": "curadoria"},
-    {"id": "pagina12", "nome": "Página/12", "dominios": ["pagina12.com.ar"], "pais": "AR", "vies": "esquerda", "propriedade": "conglomerado", "dono": "Grupo Octubre", "base": "curadoria"},
-    {"id": "rt", "nome": "RT", "dominios": ["rt.com", "actualidad.rt.com"], "pais": "RU", "vies": "nao_classificado", "propriedade": "estatal", "dono": "Governo da Rússia", "base": "MBFC", "notas": "Mídia estatal. Usar só como registro da posição oficial russa."},
-    {"id": "xinhua", "nome": "Xinhua / CGTN", "dominios": ["xinhuanet.com", "news.cn", "cgtn.com"], "pais": "CN", "vies": "nao_classificado", "propriedade": "estatal", "dono": "Governo da China", "base": "MBFC", "notas": "Mídia estatal. Usar só como registro da posição oficial chinesa."},
-    {"id": "euronews", "nome": "Euronews", "dominios": ["euronews.com"], "pais": "FR", "vies": "centro", "propriedade": "privado", "dono": "Alpac Capital", "base": "avaliado pelo pipeline"}
-  ]
+  {
+   "id": "estadao",
+   "nome": "Estadão",
+   "dominios": [
+    "estadao.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "familiar",
+   "dono": "Grupo Estado (família Mesquita)",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "estado"
+  },
+  {
+   "id": "oglobo",
+   "nome": "O Globo",
+   "dominios": [
+    "oglobo.globo.com"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Globo (família Marinho)",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "globo"
+  },
+  {
+   "id": "g1",
+   "nome": "g1",
+   "dominios": [
+    "g1.globo.com"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Globo (família Marinho)",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "globo"
+  },
+  {
+   "id": "valor",
+   "nome": "Valor Econômico",
+   "dominios": [
+    "valor.globo.com"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Globo",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "globo"
+  },
+  {
+   "id": "uol",
+   "nome": "UOL",
+   "dominios": [
+    "noticias.uol.com.br",
+    "uol.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_esquerda",
+   "propriedade": "familiar",
+   "dono": "Grupo UOL (família Frias)",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "folha-uol"
+  },
+  {
+   "id": "cnnbrasil",
+   "nome": "CNN Brasil",
+   "dominios": [
+    "cnnbrasil.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Novus Mídia (licença CNN)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "band",
+   "nome": "Band",
+   "dominios": [
+    "band.uol.com.br",
+    "band.com.br",
+    "bandnewstv.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Bandeirantes (família Saad)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "r7",
+   "nome": "R7 / Record",
+   "dominios": [
+    "r7.com"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "religioso",
+   "dono": "Grupo Record (Edir Macedo, Igreja Universal)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "sbt",
+   "nome": "SBT News",
+   "dominios": [
+    "sbtnews.sbt.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "familiar",
+   "dono": "Grupo Silvio Santos",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "jovempan",
+   "nome": "Jovem Pan",
+   "dominios": [
+    "jovempan.com.br"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "familiar",
+   "dono": "Grupo Jovem Pan (família Machado de Carvalho)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "gazetadopovo",
+   "nome": "Gazeta do Povo",
+   "dominios": [
+    "gazetadopovo.com.br"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "familiar",
+   "dono": "Grupo GRPCOM (família Cunha Pereira)",
+   "base": "curadoria",
+   "notas": "Linha editorial declaradamente conservadora.",
+   "alcance": "grande"
+  },
+  {
+   "id": "oeste",
+   "nome": "Revista Oeste",
+   "dominios": [
+    "revistaoeste.com"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "independente",
+   "dono": "Sociedade de jornalistas e investidores",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "antagonista",
+   "nome": "O Antagonista",
+   "dominios": [
+    "oantagonista.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "independente",
+   "dono": "Grupo Crusoé / O Antagonista",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "veja",
+   "nome": "Veja",
+   "dominios": [
+    "veja.abril.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "conglomerado",
+   "dono": "Grupo Abril",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "exame",
+   "nome": "Exame",
+   "dominios": [
+    "exame.com"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "conglomerado",
+   "dono": "BTG Pactual (sócio controlador)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "infomoney",
+   "nome": "InfoMoney",
+   "dominios": [
+    "infomoney.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "XP Inc.",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "poder360",
+   "nome": "Poder360",
+   "dominios": [
+    "poder360.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "Fernando Rodrigues (fundador)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "metropoles",
+   "nome": "Metrópoles",
+   "dominios": [
+    "metropoles.com"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "Luiz Estevão (fundador)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "correiobraziliense",
+   "nome": "Correio Braziliense",
+   "dominios": [
+    "correiobraziliense.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Diários Associados",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "diarios-associados"
+  },
+  {
+   "id": "estadodeminas",
+   "nome": "Estado de Minas",
+   "dominios": [
+    "em.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Diários Associados",
+   "base": "curadoria",
+   "alcance": "grande",
+   "grupo": "diarios-associados"
+  },
+  {
+   "id": "gzh",
+   "nome": "GZH",
+   "dominios": [
+    "gauchazh.clicrbs.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo RBS (família Sirotsky)",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "terra",
+   "nome": "Terra",
+   "dominios": [
+    "terra.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Terra Networks",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "piaui",
+   "nome": "piauí",
+   "dominios": [
+    "piaui.folha.uol.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_esquerda",
+   "propriedade": "independente",
+   "dono": "Editora Alvinegra (João Moreira Salles)",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "nexo",
+   "nome": "Nexo Jornal",
+   "dominios": [
+    "nexojornal.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_esquerda",
+   "propriedade": "independente",
+   "dono": "Nexo Jornal Ltda.",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "publica",
+   "nome": "Agência Pública",
+   "dominios": [
+    "apublica.org"
+   ],
+   "pais": "BR",
+   "vies": "centro_esquerda",
+   "propriedade": "sem_fins_lucrativos",
+   "dono": "Associação sem fins lucrativos",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "intercept",
+   "nome": "Intercept Brasil",
+   "dominios": [
+    "intercept.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "sem_fins_lucrativos",
+   "dono": "Financiado por leitores e fundações",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "cartacapital",
+   "nome": "CartaCapital",
+   "dominios": [
+    "cartacapital.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "independente",
+   "dono": "Editora Confiança",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "brasildefato",
+   "nome": "Brasil de Fato",
+   "dominios": [
+    "brasildefato.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "politico",
+   "dono": "Ligado a movimentos sociais (MST e outros)",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "brasil247",
+   "nome": "Brasil 247",
+   "dominios": [
+    "brasil247.com"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "independente",
+   "dono": "Leonardo Attuch (fundador)",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "forum",
+   "nome": "Revista Fórum",
+   "dominios": [
+    "revistaforum.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "independente",
+   "dono": "Renato Rovai (fundador)",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "dcm",
+   "nome": "Diário do Centro do Mundo",
+   "dominios": [
+    "diariodocentrodomundo.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "independente",
+   "dono": "Kiko Nogueira e sócios",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "icl",
+   "nome": "ICL Notícias",
+   "dominios": [
+    "iclnoticias.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "independente",
+   "dono": "Instituto Conhecimento Liberta",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "plenonews",
+   "nome": "Pleno News",
+   "dominios": [
+    "pleno.news"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "religioso",
+   "dono": "Grupo MK (evangélico)",
+   "base": "curadoria",
+   "alcance": "pequeno"
+  },
+  {
+   "id": "conexaopolitica",
+   "nome": "Conexão Política",
+   "dominios": [
+    "conexaopolitica.com.br"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "independente",
+   "dono": "Independente",
+   "base": "curadoria",
+   "alcance": "pequeno",
+   "grupo": "conexaopolitica"
+  },
+  {
+   "id": "agenciabrasil",
+   "nome": "Agência Brasil (EBC)",
+   "dominios": [
+    "agenciabrasil.ebc.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "estatal",
+   "dono": "Governo federal (EBC)",
+   "base": "curadoria",
+   "notas": "Estatal: tende a reproduzir o enquadramento do governo da vez.",
+   "alcance": "grande"
+  },
+  {
+   "id": "agenciasenado",
+   "nome": "Agência Senado / Câmara",
+   "dominios": [
+    "www12.senado.leg.br",
+    "camara.leg.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "estatal",
+   "dono": "Congresso Nacional",
+   "base": "curadoria",
+   "notas": "Fonte primária institucional.",
+   "alcance": "medio",
+   "grupo": "congresso"
+  },
+  {
+   "id": "bbcbrasil",
+   "nome": "BBC News Brasil",
+   "dominios": [
+    "bbc.com/portuguese"
+   ],
+   "pais": "GB",
+   "vies": "centro",
+   "propriedade": "publico",
+   "dono": "BBC (emissora pública britânica)",
+   "base": "AllSides/MBFC",
+   "alcance": "grande",
+   "grupo": "bbc"
+  },
+  {
+   "id": "dwbrasil",
+   "nome": "DW Brasil",
+   "dominios": [
+    "dw.com/pt-br"
+   ],
+   "pais": "DE",
+   "vies": "centro",
+   "propriedade": "publico",
+   "dono": "Deutsche Welle (pública alemã)",
+   "base": "MBFC",
+   "alcance": "grande",
+   "grupo": "dw"
+  },
+  {
+   "id": "elpaisbrasil",
+   "nome": "El País",
+   "dominios": [
+    "elpais.com"
+   ],
+   "pais": "ES",
+   "vies": "centro_esquerda",
+   "propriedade": "conglomerado",
+   "dono": "Grupo PRISA",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "jota",
+   "nome": "JOTA",
+   "dominios": [
+    "jota.info"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "JOTA Jornalismo",
+   "base": "curadoria",
+   "notas": "Especializado em Judiciário, regulação e tributação.",
+   "alcance": "medio"
+  },
+  {
+   "id": "congressoemfoco",
+   "nome": "Congresso em Foco",
+   "dominios": [
+    "congressoemfoco.com.br",
+    "congressoemfoco.uol.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "Congresso em Foco",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "otempo",
+   "nome": "O Tempo",
+   "dominios": [
+    "otempo.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Sempre Editora",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "neofeed",
+   "nome": "NeoFeed",
+   "dominios": [
+    "neofeed.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "NeoFeed",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "braziljournal",
+   "nome": "Brazil Journal",
+   "dominios": [
+    "braziljournal.com"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "independente",
+   "dono": "Geraldo Samor (fundador)",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "istoe",
+   "nome": "IstoÉ",
+   "dominios": [
+    "istoe.com.br",
+    "istoedinheiro.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro_direita",
+   "propriedade": "familiar",
+   "dono": "Editora Três",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "diariodopoder",
+   "nome": "Diário do Poder",
+   "dominios": [
+    "diariodopoder.com.br"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "independente",
+   "dono": "Cláudio Humberto (fundador)",
+   "base": "curadoria",
+   "alcance": "pequeno"
+  },
+  {
+   "id": "terrabrasil",
+   "nome": "Terra Brasil Notícias",
+   "dominios": [
+    "terrabrasilnoticias.com"
+   ],
+   "pais": "BR",
+   "vies": "direita",
+   "propriedade": "independente",
+   "dono": "Independente",
+   "base": "curadoria",
+   "alcance": "pequeno",
+   "grupo": "terrabrasil"
+  },
+  {
+   "id": "operamundi",
+   "nome": "Opera Mundi",
+   "dominios": [
+    "operamundi.uol.com.br"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "independente",
+   "dono": "Breno Altman (fundador)",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "outraspalavras",
+   "nome": "Outras Palavras",
+   "dominios": [
+    "outraspalavras.net"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "sem_fins_lucrativos",
+   "dono": "Financiado por leitores",
+   "base": "curadoria",
+   "alcance": "pequeno"
+  },
+  {
+   "id": "midianinja",
+   "nome": "Mídia NINJA",
+   "dominios": [
+    "midianinja.org"
+   ],
+   "pais": "BR",
+   "vies": "esquerda",
+   "propriedade": "politico",
+   "dono": "Coletivo ligado a movimentos sociais",
+   "base": "curadoria",
+   "alcance": "pequeno"
+  },
+  {
+   "id": "lupa",
+   "nome": "Agência Lupa",
+   "dominios": [
+    "lupa.uol.com.br",
+    "lupa.news",
+    "agencialupa.org"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "Agência Lupa",
+   "checagem": true,
+   "base": "IFCN",
+   "alcance": "medio"
+  },
+  {
+   "id": "aosfatos",
+   "nome": "Aos Fatos",
+   "dominios": [
+    "aosfatos.org"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "independente",
+   "dono": "Aos Fatos",
+   "checagem": true,
+   "base": "IFCN",
+   "alcance": "medio"
+  },
+  {
+   "id": "estadaoverifica",
+   "nome": "Estadão Verifica",
+   "dominios": [
+    "estadao.com.br/estadao-verifica"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Estado",
+   "checagem": true,
+   "base": "IFCN",
+   "alcance": "medio",
+   "grupo": "estado"
+  },
+  {
+   "id": "fatooufake",
+   "nome": "Fato ou Fake (g1)",
+   "dominios": [
+    "g1.globo.com/fato-ou-fake"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo Globo",
+   "checagem": true,
+   "base": "curadoria",
+   "alcance": "medio",
+   "grupo": "globo"
+  },
+  {
+   "id": "comprova",
+   "nome": "Projeto Comprova",
+   "dominios": [
+    "projetocomprova.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "sem_fins_lucrativos",
+   "dono": "Coalizão de veículos (Abraji)",
+   "checagem": true,
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "uolconfere",
+   "nome": "UOL Confere",
+   "dominios": [
+    "noticias.uol.com.br/confere"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo UOL",
+   "checagem": true,
+   "base": "curadoria",
+   "alcance": "medio",
+   "grupo": "folha-uol"
+  },
+  {
+   "id": "reuters",
+   "nome": "Reuters",
+   "dominios": [
+    "reuters.com"
+   ],
+   "pais": "GB",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Thomson Reuters",
+   "base": "AllSides/MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "ap",
+   "nome": "Associated Press",
+   "dominios": [
+    "apnews.com"
+   ],
+   "pais": "US",
+   "vies": "centro",
+   "propriedade": "cooperativa",
+   "dono": "Cooperativa de veículos dos EUA",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "afp",
+   "nome": "AFP",
+   "dominios": [
+    "afp.com"
+   ],
+   "pais": "FR",
+   "vies": "centro",
+   "propriedade": "publico",
+   "dono": "Agence France-Presse",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "bbc",
+   "nome": "BBC News",
+   "dominios": [
+    "bbc.com",
+    "bbc.co.uk"
+   ],
+   "pais": "GB",
+   "vies": "centro",
+   "propriedade": "publico",
+   "dono": "BBC",
+   "base": "AllSides/MBFC",
+   "alcance": "grande",
+   "grupo": "bbc"
+  },
+  {
+   "id": "nyt",
+   "nome": "The New York Times",
+   "dominios": [
+    "nytimes.com"
+   ],
+   "pais": "US",
+   "vies": "centro_esquerda",
+   "propriedade": "familiar",
+   "dono": "The New York Times Company (família Sulzberger)",
+   "base": "AllSides",
+   "alcance": "grande"
+  },
+  {
+   "id": "wapo",
+   "nome": "The Washington Post",
+   "dominios": [
+    "washingtonpost.com"
+   ],
+   "pais": "US",
+   "vies": "centro_esquerda",
+   "propriedade": "conglomerado",
+   "dono": "Jeff Bezos",
+   "base": "AllSides",
+   "alcance": "grande"
+  },
+  {
+   "id": "guardian",
+   "nome": "The Guardian",
+   "dominios": [
+    "theguardian.com"
+   ],
+   "pais": "GB",
+   "vies": "centro_esquerda",
+   "propriedade": "sem_fins_lucrativos",
+   "dono": "Scott Trust",
+   "base": "AllSides/MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "cnn",
+   "nome": "CNN",
+   "dominios": [
+    "cnn.com",
+    "edition.cnn.com"
+   ],
+   "pais": "US",
+   "vies": "centro_esquerda",
+   "propriedade": "conglomerado",
+   "dono": "Warner Bros. Discovery",
+   "base": "AllSides",
+   "alcance": "grande"
+  },
+  {
+   "id": "npr",
+   "nome": "NPR",
+   "dominios": [
+    "npr.org"
+   ],
+   "pais": "US",
+   "vies": "centro_esquerda",
+   "propriedade": "sem_fins_lucrativos",
+   "dono": "Rede de rádios públicas",
+   "base": "AllSides",
+   "alcance": "grande"
+  },
+  {
+   "id": "wsj",
+   "nome": "The Wall Street Journal",
+   "dominios": [
+    "wsj.com"
+   ],
+   "pais": "US",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "News Corp (família Murdoch)",
+   "base": "AllSides",
+   "notas": "Seção de notícias ao centro; seção de opinião à direita.",
+   "alcance": "grande",
+   "grupo": "murdoch"
+  },
+  {
+   "id": "foxnews",
+   "nome": "Fox News",
+   "dominios": [
+    "foxnews.com"
+   ],
+   "pais": "US",
+   "vies": "direita",
+   "propriedade": "conglomerado",
+   "dono": "Fox Corporation (família Murdoch)",
+   "base": "AllSides",
+   "alcance": "grande",
+   "grupo": "murdoch"
+  },
+  {
+   "id": "nypost",
+   "nome": "New York Post",
+   "dominios": [
+    "nypost.com"
+   ],
+   "pais": "US",
+   "vies": "centro_direita",
+   "propriedade": "conglomerado",
+   "dono": "News Corp (família Murdoch)",
+   "base": "AllSides",
+   "alcance": "grande",
+   "grupo": "murdoch"
+  },
+  {
+   "id": "breitbart",
+   "nome": "Breitbart",
+   "dominios": [
+    "breitbart.com"
+   ],
+   "pais": "US",
+   "vies": "direita",
+   "propriedade": "independente",
+   "dono": "Breitbart News Network",
+   "base": "AllSides",
+   "alcance": "medio"
+  },
+  {
+   "id": "politico",
+   "nome": "Politico",
+   "dominios": [
+    "politico.com",
+    "politico.eu"
+   ],
+   "pais": "US",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Axel Springer",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "axios",
+   "nome": "Axios",
+   "dominios": [
+    "axios.com"
+   ],
+   "pais": "US",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Cox Enterprises",
+   "base": "MBFC",
+   "alcance": "medio"
+  },
+  {
+   "id": "bloomberg",
+   "nome": "Bloomberg",
+   "dominios": [
+    "bloomberg.com"
+   ],
+   "pais": "US",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Michael Bloomberg",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "ft",
+   "nome": "Financial Times",
+   "dominios": [
+    "ft.com"
+   ],
+   "pais": "GB",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Nikkei",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "economist",
+   "nome": "The Economist",
+   "dominios": [
+    "economist.com"
+   ],
+   "pais": "GB",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Exor (família Agnelli) e acionistas",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "aljazeera",
+   "nome": "Al Jazeera",
+   "dominios": [
+    "aljazeera.com"
+   ],
+   "pais": "QA",
+   "vies": "centro_esquerda",
+   "propriedade": "estatal",
+   "dono": "Governo do Catar",
+   "base": "AllSides/MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "dw",
+   "nome": "Deutsche Welle",
+   "dominios": [
+    "dw.com"
+   ],
+   "pais": "DE",
+   "vies": "centro",
+   "propriedade": "publico",
+   "dono": "Governo alemão (pública)",
+   "base": "MBFC",
+   "alcance": "grande",
+   "grupo": "dw"
+  },
+  {
+   "id": "lemonde",
+   "nome": "Le Monde",
+   "dominios": [
+    "lemonde.fr"
+   ],
+   "pais": "FR",
+   "vies": "centro_esquerda",
+   "propriedade": "conglomerado",
+   "dono": "Groupe Le Monde",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "lefigaro",
+   "nome": "Le Figaro",
+   "dominios": [
+    "lefigaro.fr"
+   ],
+   "pais": "FR",
+   "vies": "centro_direita",
+   "propriedade": "conglomerado",
+   "dono": "Groupe Dassault",
+   "base": "MBFC",
+   "alcance": "grande"
+  },
+  {
+   "id": "clarin",
+   "nome": "Clarín",
+   "dominios": [
+    "clarin.com"
+   ],
+   "pais": "AR",
+   "vies": "centro_direita",
+   "propriedade": "conglomerado",
+   "dono": "Grupo Clarín",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "lanacion",
+   "nome": "La Nación",
+   "dominios": [
+    "lanacion.com.ar"
+   ],
+   "pais": "AR",
+   "vies": "centro_direita",
+   "propriedade": "familiar",
+   "dono": "Família Saguier/Mitre",
+   "base": "curadoria",
+   "alcance": "grande"
+  },
+  {
+   "id": "pagina12",
+   "nome": "Página/12",
+   "dominios": [
+    "pagina12.com.ar"
+   ],
+   "pais": "AR",
+   "vies": "esquerda",
+   "propriedade": "conglomerado",
+   "dono": "Grupo Octubre",
+   "base": "curadoria",
+   "alcance": "medio"
+  },
+  {
+   "id": "rt",
+   "nome": "RT",
+   "dominios": [
+    "rt.com",
+    "actualidad.rt.com"
+   ],
+   "pais": "RU",
+   "vies": "nao_classificado",
+   "propriedade": "estatal",
+   "dono": "Governo da Rússia",
+   "base": "MBFC",
+   "notas": "Mídia estatal. Usar só como registro da posição oficial russa.",
+   "alcance": "grande"
+  },
+  {
+   "id": "xinhua",
+   "nome": "Xinhua / CGTN",
+   "dominios": [
+    "xinhuanet.com",
+    "news.cn",
+    "cgtn.com"
+   ],
+   "pais": "CN",
+   "vies": "nao_classificado",
+   "propriedade": "estatal",
+   "dono": "Governo da China",
+   "base": "MBFC",
+   "notas": "Mídia estatal. Usar só como registro da posição oficial chinesa.",
+   "alcance": "grande"
+  },
+  {
+   "id": "euronews",
+   "nome": "Euronews",
+   "dominios": [
+    "euronews.com"
+   ],
+   "pais": "FR",
+   "vies": "centro",
+   "propriedade": "privado",
+   "dono": "Alpac Capital",
+   "base": "avaliado pelo pipeline",
+   "alcance": "grande"
+  },
+  {
+   "id": "diariodonordeste",
+   "nome": "Diário do Nordeste",
+   "dominios": [
+    "diariodonordeste.verdesmares.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Sistema Verdes Mares (família Edson Queiroz)",
+   "base": "avaliado pelo pipeline",
+   "alcance": "medio"
+  },
+  {
+   "id": "correio24h",
+   "nome": "Correio (BA)",
+   "dominios": [
+    "correio24horas.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Rede Bahia (família Magalhães)",
+   "base": "avaliado pelo pipeline",
+   "alcance": "medio"
+  },
+  {
+   "id": "jcpe",
+   "nome": "Jornal do Commercio (PE)",
+   "dominios": [
+    "jc.ne10.uol.com.br",
+    "jc.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "conglomerado",
+   "dono": "Grupo JCPM",
+   "base": "avaliado pelo pipeline",
+   "alcance": "medio"
+  },
+  {
+   "id": "atarde",
+   "nome": "A Tarde",
+   "dominios": [
+    "atarde.com.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "familiar",
+   "dono": "Grupo A Tarde",
+   "base": "avaliado pelo pipeline",
+   "alcance": "medio"
+  },
+  {
+   "id": "agenciacamara",
+   "nome": "Agência Câmara",
+   "dominios": [
+    "camara.leg.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "estatal",
+   "dono": "Câmara dos Deputados",
+   "base": "fonte oficial; use tipo fonte_primaria",
+   "alcance": "medio",
+   "grupo": "congresso"
+  },
+  {
+   "id": "stf",
+   "nome": "STF (notícias oficiais)",
+   "dominios": [
+    "stf.jus.br",
+    "noticias.stf.jus.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "estatal",
+   "dono": "Supremo Tribunal Federal",
+   "base": "fonte oficial; use tipo fonte_primaria",
+   "alcance": "medio"
+  },
+  {
+   "id": "tse",
+   "nome": "TSE (notícias oficiais)",
+   "dominios": [
+    "tse.jus.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "estatal",
+   "dono": "Tribunal Superior Eleitoral",
+   "base": "fonte oficial; use tipo fonte_primaria",
+   "alcance": "medio"
+  },
+  {
+   "id": "planalto",
+   "nome": "Planalto / gov.br",
+   "dominios": [
+    "gov.br",
+    "planalto.gov.br"
+   ],
+   "pais": "BR",
+   "vies": "centro",
+   "propriedade": "estatal",
+   "dono": "Presidência da República",
+   "base": "fonte oficial; use tipo fonte_primaria",
+   "alcance": "medio"
+  }
+ ]
 }
