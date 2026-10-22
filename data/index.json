@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-21T08:57:06+00:00",
+ "atualizado_em": "2026-10-22T08:56:17+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-22",
+   "arquivo": "data/edicoes/2026-10-22.json",
+   "historias": 11,
+   "gerado_em": "2026-10-22T06:40:00-03:00",
+   "manchete": "Lula aceita condições de Flávio para abrir sigilos, Flávio amplia exigências, e Lula o convida ao TSE nesta quinta"
+  },
   {
    "data": "2026-10-21",
    "arquivo": "data/edicoes/2026-10-21.json",

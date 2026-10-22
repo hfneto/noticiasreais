@@ -1,0 +1,1106 @@
+{
+  "tipo": "edicao",
+  "data": "2026-10-22",
+  "gerado_em": "2026-10-22T06:40:00-03:00",
+  "historias": [
+    {
+      "id": "duelo-sigilos-lula-aceita-flavio-amplia",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Lula aceita condições de Flávio para abrir sigilos, Flávio amplia exigências, e Lula o convida ao TSE nesta quinta",
+      "lide": "A campanha de Lula aceitou as condições de Flávio Bolsonaro para a abertura recíproca de sigilos, incluindo dados de aliados como Marcola, citado por Flávio. Flávio respondeu ampliando as exigências, e Lula convidou o adversário a abrir os sigilos no TSE nesta quinta (22).",
+      "contexto": "Na segunda (20), Lula protocolou no TSE e no STF autorização para abrir seus sigilos se Flávio fizesse o mesmo. Flávio respondeu com uma contraproposta que cobrava dados de aliados do presidente.",
+      "fatos": [
+        {
+          "texto": "A campanha de Lula aceitou as condições propostas por Flávio para a abertura de sigilos.",
+          "base": "5 fontes independentes (Brasil de Fato, Gazeta do Povo, Estadão, Opera Mundi, ICL Notícias)"
+        },
+        {
+          "texto": "Flávio ampliou as exigências e passou a cobrar dados de aliados de Lula.",
+          "base": "3 fontes independentes (Gazeta do Povo, Jovem Pan, Jota)"
+        },
+        {
+          "texto": "Lula convidou Flávio a abrir os sigilos no TSE nesta quinta-feira.",
+          "base": "3 fontes independentes (Poder360, SBT News, DCM)"
+        },
+        {
+          "texto": "Lula disse que Flávio \"trucou\" e que vai \"meter um nove na cara dele\".",
+          "base": "3 fontes independentes (Valor, g1, DCM)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "As condições de Flávio foram criadas para inviabilizar a abertura dos sigilos.",
+          "quem": "Brasil de Fato"
+        },
+        {
+          "texto": "Espera que não seja outra promessa não cumprida.",
+          "quem": "Flávio Bolsonaro, sobre a oferta de Lula"
+        },
+        {
+          "texto": "O tema ajuda Lula nas redes, e Flávio reage nos aplicativos de mensagem.",
+          "quem": "SBT News"
+        },
+        {
+          "texto": "Flávio pode acabar no mesmo lugar que o pai se abrir o sigilo.",
+          "quem": "José Dirceu (PT)"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Lula apresenta a disputa como prova de que Flávio foge da transparência sobre Willer Tomaz.",
+        "oposicao": "Flávio diz que Lula esconde gastos e relações com aliados e trata a oferta como promessa vazia."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Quebra de sigilo: Lula diz que Flávio Bolsonaro trucou e que 'não tem nenhuma carta boa, só tem mentira'",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/quebra-de-sigilo-lula-diz-que-flavio-trucou-mas-nao-tem-nenhuma-carta-boa-so-tem-mentira.ghtml",
+          "angulo": "A resposta de Lula à contraproposta.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Flávio amplia exigências para abrir sigilos e cobra dados de aliados de Lula",
+          "url": "https://www.gazetadopovo.com.br/republica/flavio-amplia-exigencias-para-abrir-sigilos-e-cobra-dados-de-aliados-de-lula/",
+          "angulo": "Abre pela nova exigência de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Para fugir do desafio de Lula, Flávio Bolsonaro propõe condições que inviabilizam abertura de sigilo",
+          "url": "https://www.brasildefato.com.br/2026/10/21/para-fugir-do-desafio-de-lula-flavio-bolsonaro-propoe-condicoes-que-inviabilizam-abertura-de-sigilo/",
+          "angulo": "Lê a contraproposta como fuga.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "“Desafio dos sigilos” mobiliza QGs de Flávio e Lula a três dias do 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/desafio-dos-sigilos-mobiliza-qgs-de-flavio-e-lula-a-tres-dias-do-2o-turno/",
+          "angulo": "Bastidores das duas campanhas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "diariodopoder",
+          "titulo": "Flávio aceita abrir sigilos e desafia Lula sobre Marcola, Frei Chico e encontros com Vorcaro",
+          "url": "https://diariodopoder.com.br/brasil-e-regioes/e10-brasil/flavio-bolsonaro-aceita-abrir-sigilos-e-desafia-lula-a-expor-aliados",
+          "angulo": "Apresenta Flávio como quem aceitou o desafio.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "poder360",
+          "titulo": "Lula faz convite a Flávio para abrir sigilos nesta 5ª feira no TSE",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-convite-a-flavio-para-abrir-sigilos-nesta-5a-feira-no-tse/",
+          "angulo": "O convite com data marcada.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "veja",
+          "titulo": "O impacto da batalha de sigilos entre Flávio e Lula no segundo turno",
+          "url": "https://veja.abril.com.br/politica/o-impacto-da-batalha-de-sigilos-entre-flavio-e-lula-no-segundo-turno/",
+          "angulo": "Efeito eleitoral do embate.",
+          "tipo": "analise",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "Lula marca hora e cobra Flávio no TSE para abrir sigilos: “Desafio aceito”",
+          "url": "https://www.diariodocentrodomundo.com.br/lula-marca-hora-e-cobra-flavio-no-tse-para-abrir-sigilos-desafio-aceito/",
+          "angulo": "Destaca o \"desafio aceito\" de Lula.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Flávio amplia critérios para quebrar sigilo após Lula aceitar condições do senador",
+          "url": "https://jovempan.com.br/politica/flavio-amplia-criterios-para-quebrar-sigilo-apos-lula-aceitar-condicoes-do-senador/",
+          "angulo": "Relato da nova rodada.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Flávio trucou com um 6 e vou meter um 9 na cara dele, afirma Lula ao aceitar abrir mais sigilos",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/flavio-trucou-com-um-6-e-vou-meter-um-9-na-cara-dele-diz-lula-ao-dizer-que-aceita-abrir-mais-sigilos.ghtml",
+          "angulo": "A fala de Lula ao aceitar.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "“Espero que não seja outra promessa não cumprida”, diz Flávio sobre sigilo",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/espero-que-nao-seja-outra-promessa-nao-cumprida-diz-flavio-sobre-sigilo/",
+          "angulo": "A reação de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "willer-tomaz-sala-secreta-richarlison",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "PF diz ter achado sala secreta com máquina de contar dinheiro em hangar de Willer Tomaz; Richarlison acusa amigo de Flávio por ilha",
+      "lide": "A Polícia Federal diz ter encontrado uma sala secreta com máquina de contar dinheiro em hangar usado pelo advogado Willer Tomaz, amigo de Flávio Bolsonaro, no aeroporto de Brasília. Em paralelo, o jogador Richarlison acusou Tomaz em disputa por uma ilha em Angra dos Reis, e Lula disse ter pedido à PF que investigue.",
+      "contexto": "Tomaz é alvo da PF no caso INSS e foi apontado pela Fazenda como o maior apostador em bets do país em 2025. Flávio nega relação financeira com ele.",
+      "fatos": [
+        {
+          "texto": "A PF diz ter encontrado sala secreta com máquina de contar dinheiro em hangar usado por Willer Tomaz.",
+          "base": "5 fontes independentes (g1, Estadão, Jovem Pan, DCM, ICL Notícias)"
+        },
+        {
+          "texto": "Lula disse que pediu à PF para investigar o caso da ilha de Richarlison.",
+          "base": "4 fontes independentes (CNN Brasil, Poder360, Brasil 247, Revista Fórum)"
+        },
+        {
+          "texto": "Willer Tomaz disse que Richarlison comprou a ilha de um posseiro.",
+          "base": "2 fontes independentes (CNN Brasil, SBT News)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Tomaz pode ter usado rede de empresas para ocultar valores em negócios de loterias no RJ.",
+          "quem": "PF, segundo o g1"
+        },
+        {
+          "texto": "A bet Blaze funcionou em endereço de empresas ligadas a Tomaz.",
+          "quem": "Agência Pública"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Aliados de Lula usam a descoberta para cobrar explicações de Flávio sobre o amigo.",
+        "oposicao": "Flávio nega relação financeira e acusa uso político da PF na reta final."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Nos feeds, a cobertura vem de centro e esquerda; entre os veículos de direita, só a Jovem Pan noticiou a sala secreta.",
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "PF diz que encontrou sala secreta com máquina de contar dinheiro no hangar de Willer Tomaz; veja imagens",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml",
+          "angulo": "Imagens da PF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Willer Tomaz tinha sala secreta com contador de dinheiro no Aeroporto de Brasília, diz PF",
+          "url": "https://jovempan.com.br/politica/willer-tomaz-tinha-sala-secreta-com-contador-de-dinheiro-no-aeroporto-de-brasilia-diz-pf/",
+          "angulo": "Relato atribuído à PF, sem citar Flávio no título.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "brasil247",
+          "titulo": "PF encontra sala secreta e máquina de contar dinheiro em hangar de advogado ligado a Flávio Bolsonaro",
+          "url": "https://www.brasil247.com/brasil/pf-encontra-sala-secreta-e-maquina-de-contar-dinheiro-em-hangar-de-advogado-ligado-a-flavio-bolsonaro/",
+          "angulo": "Liga a descoberta a Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Veja a sala secreta usada pelo advogado Willer Tomaz para guardar dinheiro",
+          "url": "https://www.estadao.com.br/politica/veja-a-sala-secreta-usada-por-amigo-de-flavio-para-guardar-dinheiro/",
+          "angulo": "Imagens e detalhes.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Willer Tomaz rebate Richarlison e diz que jogador comprou ilha de invasor",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/willer-tomaz-rebate-richarlison-e-diz-que-jogador-comprou-ilha-de-invasor/",
+          "angulo": "Dá a versão de Tomaz.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Entenda polêmica entre Richarlison, Flávio Bolsonaro e Willer Tomaz sobre posse de ilha em Angra",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
+          "angulo": "Explica a disputa pela ilha.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "Lula aciona PF após denúncias de Richarlison contra Flávio Bolsonaro",
+          "url": "https://revistaforum.com.br/politica/lula-aciona-pf-apos-denuncias-de-richarlison-contra-flavio-bolsonaro/",
+          "angulo": "Enfatiza a acusação contra Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "publica",
+          "titulo": "Bet Blaze funcionou em endereço de empresas ligadas a Willer Tomaz, investigado pela PF",
+          "url": "https://apublica.org/2026/10/bet-blaze-funcionou-em-endereco-de-empresas-ligadas-a-willer-tomaz-investigado-pela-pf/",
+          "angulo": "Apuração própria sobre as empresas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Amigo de Flávio diz que Richarlison comprou ilha de posseiro",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/amigo-de-flavio-diz-que-richarlison-comprou-ilha-de-posseiro",
+          "angulo": "A versão de Tomaz.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "PF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/10/pf-encontra-sala-secreta-para-guardar-dinheiro-em-hangar-usado-por-amigo-de-flavio-bolsonaro-diz-jornal.shtml",
+          "angulo": "Repercute a revelação.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "mpf-aciona-meta-lula-pede-cassacao-flavio",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "MPF aciona a Meta por bloqueios de contas, e campanha de Lula pede cassação da chapa de Flávio",
+      "lide": "O Ministério Público Federal foi à Justiça para que a Meta não exclua conteúdos nem bloqueie perfis sem justificativa durante a eleição, e o Ministério Público Eleitoral disse que a empresa descumpriu parte das ordens do TSE. A campanha de Lula pediu ao TSE a cassação da chapa de Flávio por suposto favorecimento da Meta.",
+      "contexto": "Na véspera, o Conselho de Supervisão da própria Meta apontou falhas recorrentes na moderação eleitoral no Brasil.",
+      "fatos": [
+        {
+          "texto": "O MPF entrou com ação para que a Meta não barre perfis e não exclua conteúdos sem justificativa durante a eleição.",
+          "base": "5 fontes independentes (Valor, Jota, Jovem Pan, Gazeta do Povo, Brasil de Fato)"
+        },
+        {
+          "texto": "A campanha de Lula pediu ao TSE a cassação da chapa de Flávio por suposto favorecimento da Meta.",
+          "base": "5 fontes independentes (g1, Gazeta do Povo, Jovem Pan, SBT News, Brasil 247)"
+        },
+        {
+          "texto": "O Estadão disse ter tido postagens sobre eleições removidas pela Meta e recorreu ao TSE.",
+          "base": "2 fontes independentes (Estadão, Folha)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O Ministério Público Eleitoral disse que a Meta descumpriu parte das determinações do TSE e pediu multa.",
+          "quem": "Ministério Público Eleitoral, segundo o g1"
+        },
+        {
+          "texto": "A Meta não agiu com isenção na eleição brasileira.",
+          "quem": "Especialistas da ONU, segundo Valor e Brasil de Fato"
+        },
+        {
+          "texto": "A campanha de Lula usa o caso da Meta como pretexto para pedir a cassação.",
+          "quem": "Gazeta do Povo"
+        },
+        {
+          "texto": "O plenário do TSE não deve endossar proposta para barrar canais políticos de WhatsApp.",
+          "quem": "Valor"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "A Meta favoreceu Flávio Bolsonaro na eleição.",
+          "rotulo": "Em apuração",
+          "explicacao": "O MPF e o MPE apontam tratamento desigual e descumprimento de ordens, mas o TSE ainda não decidiu; a Meta admite falhas e nega favorecimento.",
+          "onde_circula": "Campanha de Lula e veículos de esquerda",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": {
+        "governo": "A campanha de Lula diz que a Meta restringiu sistematicamente contas pró-Lula e pede punição a Flávio.",
+        "oposicao": "Aliados de Flávio veem no pedido de cassação uma tentativa de virar o jogo no tribunal e denunciam censura contra a direita."
+      },
+      "visao_de_fora": "Especialistas da ONU cobraram a Meta por restrições que, segundo eles, prejudicaram a campanha de Lula.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
+          "angulo": "O pedido de cassação.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Campanha de Lula usa suposto favorecimento da Meta para pedir cassação da chapa de Flávio no TSE",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-lula-usa-suposto-favorecimento-da-meta-para-pedir-cassacao-da-chapa-de-flavio-no-tse/",
+          "angulo": "Trata o favorecimento como \"suposto\" e o pedido como uso político.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "MPF aciona justiça para barrar suspensões e restrições contra contas que apoiam Lula, promovidas pela Meta",
+          "url": "https://www.brasildefato.com.br/2026/10/21/mpf-aciona-justica-para-barrar-suspensoes-e-restricoes-contra-contas-que-apoiam-lula-promovidas-pela-meta/",
+          "angulo": "Enfatiza que as contas afetadas apoiam Lula.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "MPF cobra transparência na eleição e diz que Meta não deve excluir conteúdos sem justificativa",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/mpf-cobra-transparncia-na-eleio-e-diz-que-meta-no-deve-excluir-contedos-sem-justificativa.ghtml",
+          "angulo": "O teor da ação do MPF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "MPE diz que Meta descumpriu parte das determinações do TSE, aponta novo tratamento desigual em campanhas e pede multa",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/mp-eleitoral-diz-que-meta-descumpriu-parte-das-determinacoes-do-tse-pede-multa-e-aponta-novo-tratamento-desigual-em-campanhas.ghtml",
+          "angulo": "A posição do Ministério Público Eleitoral.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "MPF aciona a Justiça para que Meta reative perfis bloqueados nas redes sociais",
+          "url": "https://jovempan.com.br/brasil/mpf-aciona-a-justica-para-que-meta-reative-perfis-bloqueados-nas-redes-sociais/",
+          "angulo": "Relato da ação, sem recorte partidário.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Estadão tem postagens sobre eleições censuradas pela Meta e recorre ao TSE",
+          "url": "https://www.estadao.com.br/politica/estadao-tem-postagens-sobre-eleicoes-censuradas-pela-meta-e-recorre-ao-tse/",
+          "angulo": "O próprio jornal relata remoção de posts.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "Chefe da Meta ligado a Trump sai em meio a denúncias de favorecimento a Flávio no Brasil",
+          "url": "https://www.diariodocentrodomundo.com.br/joel-kaplan-deixa-meta-denuncias-favorecimento-flavio-bolsonaro/",
+          "angulo": "Liga a saída de Joel Kaplan às denúncias.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "jota",
+          "titulo": "MPF entra com ação para Meta não barrar perfis de estudantes, jornalistas e movimentos sociais nas eleições",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/mpf-entra-com-acao-para-meta-nao-barrar-perfis-de-estudantes-jornalistas-e-movimentos-sociais-nas-eleicoes",
+          "angulo": "Detalha quem é protegido pela ação.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "MPF aponta suposta censura eleitoral e aciona Justiça contra Meta",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/mpf-aponta-suposta-censura-eleitoral-e-aciona-justica-contra-meta/",
+          "angulo": "Relato da ação.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Lula pede cassação de chapa de Flávio por ações da Meta",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-pede-cassacao-de-chapa-de-flavio-por-acoes-da-meta",
+          "angulo": "Relato do pedido.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "caso-master-pgr-fachin-vorcaro-politicos",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "PGR pede manutenção de prisões no caso Master e que Fachin assuma decisões urgentes; mensagens ligam Vorcaro a políticos",
+      "lide": "A Procuradoria-Geral da República defendeu manter as prisões do caso Banco Master e sugeriu que o presidente do STF, Edson Fachin, tome as decisões urgentes, segundo a Gazeta do Povo. Novas mensagens atribuídas a Daniel Vorcaro citam políticos e personalidades de diferentes campos.",
+      "contexto": "O caso Master investiga fraudes no banco de Daniel Vorcaro. Veículos de direita apontam que os processos estão parados no gabinete de Fachin há mais de um mês.",
+      "fatos": [
+        {
+          "texto": "Mensagens mostram Vorcaro dizendo a uma assessora que se dava \"muito bem\" com Nikolas Ferreira e pedindo que ela falasse com Pablo Marçal.",
+          "base": "2 fontes independentes (Folha, DCM)"
+        },
+        {
+          "texto": "Gusttavo Lima pressionou Vorcaro por um acordo para movimentar R$ 23 bilhões.",
+          "base": "2 fontes independentes (Agência Pública, ICL Notícias)"
+        },
+        {
+          "texto": "O CEO da Quaest negociou contrato de R$ 1,8 milhão com o Master, segundo mensagens.",
+          "base": "2 fontes independentes (Revista Oeste, Terra Brasil Notícias)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A PGR pediu a manutenção das prisões e disse que Fachin deve tomar as decisões urgentes no caso Master.",
+          "quem": "PGR, segundo a Gazeta do Povo"
+        },
+        {
+          "texto": "Fachin retém os processos e trava as investigações.",
+          "quem": "Gazeta do Povo"
+        },
+        {
+          "texto": "Vorcaro pediu a um ex-diretor do BC que pressionasse a Caixa em caso de aporte barrado.",
+          "quem": "Folha"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Veículos de esquerda destacam as ligações de Vorcaro com Nikolas, Marçal e Gusttavo Lima.",
+        "oposicao": "Veículos de direita destacam a ligação do Master com o CEO da Quaest e acusam Fachin de travar o caso."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Cada lado cobre a parte do caso que atinge o adversário: a esquerda, os bolsonaristas citados; a direita, o instituto de pesquisa e Fachin.",
+      "materias": [
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "PGR defende prisões e sugere que Fachin assuma decisões urgentes no caso Master",
+          "url": "https://www.gazetadopovo.com.br/republica/pgr-defende-prisoes-e-sugere-que-fachin-assuma-decisoes-urgentes-no-caso-master/",
+          "angulo": "A manifestação da PGR.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Vorcaro disse a assessora que se dava 'muito bem' com Nikolas e pediu que ela falasse com Marçal após post",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml",
+          "angulo": "Mensagens com citações a bolsonaristas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "CEO da Quaest negociou contrato de R$ 1,8 milhão com o Master",
+          "url": "https://revistaoeste.com/politica/ceo-da-quaest-negociou-contrato-de-r-18-milhao-com-o-master/",
+          "angulo": "Liga o Master a um instituto de pesquisa.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "publica",
+          "titulo": "Bolsonarista, Gusttavo Lima pressionou Vorcaro por acordo para movimentar R$ 23 bilhões",
+          "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/",
+          "angulo": "Apuração sobre Gusttavo Lima.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Caso Master está travado há mais de um mês nas mãos de Fachin no STF",
+          "url": "https://www.gazetadopovo.com.br/republica/caso-master-esta-travado-ha-mais-de-um-mes-nas-maos-de-fachin-no-stf/",
+          "angulo": "Critica a demora no STF.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "“Eu me dou muito bem com ele”: o que Vorcaro dizia sobre Nikolas",
+          "url": "https://www.diariodocentrodomundo.com.br/eu-me-dou-muito-bem-com-ele-o-que-vorcaro-dizia-sobre-nikolas/",
+          "angulo": "Foco em Nikolas.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Vorcaro pediu a ex-diretor do BC que pressionasse Caixa em caso de aporte barrado no Master",
+          "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml",
+          "angulo": "Relação de Vorcaro com ex-diretor do BC.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "terrabrasil",
+          "titulo": "Bomba: Vorcaro negociou contrato de R$ 1,8 milhão com CEO da Quaest, revelam mensagens",
+          "url": "https://terrabrasilnoticias.com/2026/10/bomba-vorcaro-negociou-contrato-de-r-18-milhao-com-ceo-da-quaest-revelam-mensagens/",
+          "angulo": "Tom de denúncia contra a Quaest.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Em áudio, diretora do Master pediu que Marçal alinhasse postagens em defesa do banco",
+          "url": "https://www.brasildefato.com.br/2026/10/21/em-audio-diretora-do-master-pediu-que-marcal-alinhasse-postagens-em-defesa-do-banco/",
+          "angulo": "Foco em Marçal.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "stf-exclui-iss-pis-cofins",
+      "editoria": "Economia",
+      "escopo": "brasil",
+      "titulo": "STF exclui ISS da base de cálculo do PIS/Cofins por 6 a 5, com impacto estimado de R$ 35,4 bilhões",
+      "lide": "O Supremo decidiu, por 6 votos a 5, que o ISS não integra a base de cálculo do PIS e da Cofins. A decisão é uma derrota para a União, com impacto estimado em R$ 35,4 bilhões.",
+      "contexto": "O caso repete a lógica da chamada \"tese do século\", em que o STF excluiu o ICMS da mesma base em 2017.",
+      "fatos": [
+        {
+          "texto": "O STF decidiu por 6 a 5 que o ISS não integra a base de cálculo do PIS/Cofins.",
+          "base": "4 fontes independentes (Estadão, InfoMoney, CartaCapital, Gazeta do Povo)"
+        },
+        {
+          "texto": "O impacto para a União é estimado em R$ 35,4 bilhões.",
+          "base": "2 fontes independentes (Estadão, Gazeta do Povo)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A decisão pode provocar um rombo nas contas federais.",
+          "quem": "Gazeta do Povo"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Por 6 a 5, STF exclui ISS da base do PIS/Cofins, em derrota de R$ 35,4 bi para a União",
+          "url": "https://www.estadao.com.br/economia/por-6-a-5-stf-exclui-iss-da-base-do-piscofins-em-derrota-de-r-354-bi-para-a-uniao/",
+          "angulo": "Placar e impacto fiscal.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "cartacapital",
+          "titulo": "STF decide que ISS não integra base de cálculo do PIS/Cofins",
+          "url": "https://www.cartacapital.com.br/justica/stf-decide-que-iss-nao-integra-base-de-calculo-do-pis-cofins/",
+          "angulo": "Relato jurídico.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "STF exclui ISS do cálculo de tributos federais e pode provocar rombo de R$ 35,4 bilhões",
+          "url": "https://www.gazetadopovo.com.br/economia/stf-exclui-iss-do-calculo-de-tributos-federais-e-pode-provocar-rombo-de-r-354-bilhoes/",
+          "angulo": "Enfatiza o \"rombo\".",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "infomoney",
+          "titulo": "STF exclui ISS de base de cálculo do do PIS e da Cofins",
+          "url": "https://www.infomoney.com.br/brasil/stf-exclui-iss-de-base-de-calculo-do-do-pis-e-da-cofins/",
+          "angulo": "Foco no efeito para empresas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "cnbb-mensagem-segundo-turno",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "CNBB pede que eleitores avaliem compromisso dos candidatos com a democracia e respeitem as urnas",
+      "lide": "A Conferência Nacional dos Bispos do Brasil divulgou mensagem sobre o segundo turno pedindo defesa da Constituição, respeito às urnas e que os eleitores avaliem o compromisso dos candidatos com a democracia. A nota vem depois de um embate entre a entidade e Flávio Bolsonaro.",
+      "contexto": null,
+      "fatos": [
+        {
+          "texto": "A CNBB pediu que os eleitores avaliem o compromisso dos candidatos com a democracia no segundo turno.",
+          "base": "5 fontes independentes (Estadão, Gazeta do Povo, O Antagonista, SBT News, Poder360)"
+        },
+        {
+          "texto": "A mensagem defende a Constituição e o respeito às urnas.",
+          "base": "3 fontes independentes (CNN Brasil, Poder360, Brasil 247)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A nota responde ao embate recente com Flávio Bolsonaro.",
+          "quem": "Folha"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "Veículos de esquerda leem a nota como um recado contra Flávio e em defesa da democracia.",
+        "oposicao": "Veículos de direita relatam a nota sem atribuir a ela recado a um candidato."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "folha",
+          "titulo": "CNBB defende Constituição e pede intercessão de Nossa Senhora após embate com Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/cnbb-defende-constituicao-e-pede-intercessao-de-nossa-senhora-apos-embate-com-flavio-bolsonaro.shtml",
+          "angulo": "Liga a nota ao embate com Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "antagonista",
+          "titulo": "CNBB orienta eleitores a avaliar compromisso de candidatos com a democracia",
+          "url": "https://oantagonista.com.br/brasil/cnbb-orienta-eleitores-a-avaliar-compromisso-de-candidatos-com-a-democracia/",
+          "angulo": "Relato da orientação.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "brasil247",
+          "titulo": "CNBB divulga mensagem defendendo soberania e respeito às urnas no segundo turno",
+          "url": "https://www.brasil247.com/brasil/cnbb-divulga-mensagem-defendendo-soberania-e-respeito-as-urnas-no-segundo-turno/",
+          "angulo": "Destaca soberania e urnas.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "CNBB pede que eleitores avaliem compromisso dos candidatos com a democracia no 2º turno",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/cnbb-pede-que-eleitores-avaliem-compromisso-dos-candidatos-com-a-democracia-no-2o-turno/",
+          "angulo": "Relato da nota.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "CNBB pede defesa da Constituição e respeito às urnas no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/cnbb-pede-defesa-da-constituicao-e-respeito-as-urnas-no-2o-turno/",
+          "angulo": "Relato da nota.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "CNBB pede voto pela democracia e invoca Nossa Senhora antes do 2º turno",
+          "url": "https://www.diariodocentrodomundo.com.br/cnbb-pede-voto-pela-democracia-e-invoca-nossa-senhora-aparecida-antes-do-segundo-turno/",
+          "angulo": "Lê como pedido de \"voto pela democracia\".",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "CNBB se manifesta sobre o segundo turno das eleições e pede que eleitores avaliem candidatos",
+          "url": "https://www.estadao.com.br/politica/eleicoes/cnbb-se-manifesta-sobre-o-segundo-turno-das-eleicoes-e-pede-que-eleitores-avaliem-candidatos-nprp/",
+          "angulo": "Relato da nota.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        }
+      ]
+    },
+    {
+      "id": "eua-ramagem-imigrante-ilegal",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "Imigração dos EUA diz que Alexandre Ramagem é imigrante ilegal e confirma processo de deportação",
+      "lide": "O serviço de imigração dos Estados Unidos afirmou que o ex-diretor da Abin Alexandre Ramagem, condenado no Brasil na trama golpista, está ilegalmente no país e violou leis migratórias, e confirmou o processo de deportação.",
+      "contexto": "Ramagem deixou o Brasil antes de cumprir a pena imposta pelo STF no processo da trama golpista.",
+      "fatos": [
+        {
+          "texto": "O departamento de imigração dos EUA disse que Ramagem é imigrante ilegal e violou leis migratórias.",
+          "base": "2 fontes independentes (Agência Pública, Poder360)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "As autoridades americanas confirmaram processo de deportação.",
+          "quem": "Poder360"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "Nos feeds, só veículos de centro e esquerda (Pública, Poder360, ICL) noticiaram; não encontramos cobertura em veículos de direita.",
+      "materias": [
+        {
+          "fonte": "publica",
+          "titulo": "Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis",
+          "url": "https://apublica.org/2026/10/departamento-de-imigracao-dos-eua-diz-que-ramagem-e-imigrante-ilegal-e-violou-leis/",
+          "angulo": "Apuração original.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "poder360",
+          "titulo": "EUA declaram Ramagem ilegal e confirmam processo de deportação",
+          "url": "https://www.poder360.com.br/poder-internacional/eua-declaram-ramagem-ilegal-e-confirmam-processo-de-deportacao/",
+          "angulo": "Confirma a deportação em curso.",
+          "tipo": "noticia",
+          "enquadramento": "neutro"
+        },
+        {
+          "fonte": "icl",
+          "titulo": "Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis",
+          "url": "https://iclnoticias.com.br/imigracao-eua-ramagem-ilegal-violou-leis/",
+          "angulo": "Reproduz a apuração da Pública.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo"
+        }
+      ]
+    },
+    {
+      "id": "eua-israel-planos-ataque-ira",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "EUA e Israel preparam planos para novos ataques ao Irã depois das eleições americanas, diz jornal",
+      "lide": "Os militares dos EUA e de Israel elaboram planos para uma nova ofensiva contra o Irã depois das eleições de meio de mandato nos EUA, segundo reportagem citada por vários veículos. Trump teria impedido um ataque israelense antes do pleito; o petróleo subiu com o temor de escalada.",
+      "contexto": "Israel também tem eleições marcadas, e Netanyahu acusa a nova liderança iraniana de tentar desenvolver uma bomba nuclear.",
+      "fatos": [
+        {
+          "texto": "Reportagem afirma que EUA e Israel elaboram planos para novos ataques ao Irã após as eleições americanas.",
+          "base": "5 fontes independentes (Estadão, El País, Opera Mundi, Breitbart, Valor)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O preço do petróleo subiu na Ásia com o temor de escalada entre EUA e Irã.",
+          "quem": "Valor"
+        },
+        {
+          "texto": "Trump impediu uma ofensiva de Israel antes das eleições nos EUA.",
+          "quem": "Jornal americano citado pelo Estadão"
+        },
+        {
+          "texto": "A nova líder do Irã tenta desenvolver uma bomba nuclear.",
+          "quem": "Benjamin Netanyahu"
+        },
+        {
+          "texto": "A operação seria \"curta e intensa\".",
+          "quem": "Reportagem citada pelo Breitbart"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "Uma nova escalada pressiona o petróleo e os combustíveis no Brasil, num momento em que o governo já subsidia o diesel.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Estados Unidos e Israel elaboram planos para novos ataques ao Irã após eleições americanas",
+          "url": "https://www.estadao.com.br/internacional/estados-unidos-israel-elaboram-planos-novos-ataques-ira-apos-eleicoes-americanas-npr/",
+          "angulo": "Relato da reportagem.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "breitbart",
+          "titulo": "Report: U.S., Israel Draft Plans for Renewed Iran Strikes After Midterms — ‘Short, Intense’ Operation",
+          "url": "https://www.breitbart.com/politics/2026/10/21/report-u-s-israel-draft-plans-renewed-iran-strikes-after-midterms/",
+          "angulo": "\"EUA e Israel preparam ataques após as midterms, operação curta e intensa.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "operamundi",
+          "titulo": "EUA e Israel planejam novos ataques contra Irã após eleições de meio de mandato, diz jornal",
+          "url": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-e-israel-planejam-novos-ataques-contra-ira-apos-eleicoes-de-meio-de-mandato-diz-jornal/",
+          "angulo": "Relato crítico à ofensiva.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "elpaisbrasil",
+          "titulo": "Los ejércitos de Estados Unidos e Israel desarrollan planes para atacar Irán tras las elecciones",
+          "url": "https://elpais.com/internacional/2026-10-22/los-ejercitos-de-estados-unidos-e-israel-desarrollan-planes-para-atacar-iran-tras-las-elecciones.html",
+          "angulo": "\"Exércitos dos EUA e de Israel desenvolvem planos para atacar o Irã após as eleições.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Preço do petróleo avança na Ásia com temor de escalada no conflito entre EUA e Irã",
+          "url": "https://valor.globo.com/financas/noticia/2026/10/22/preco-do-petroleo-avanca-na-asia-com-temor-de-escalada-no-conflito-entre-eua-e-ira.ghtml",
+          "angulo": "Efeito no mercado.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Trump impede ofensiva de Israel contra o Irã às vésperas das eleições nos EUA, diz jornal",
+          "url": "https://www.estadao.com.br/internacional/trump-impede-ofensiva-israel-contra-ira-vesperas-eleicoes-eua-npr/",
+          "angulo": "O cálculo eleitoral de Trump.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "axios",
+          "titulo": "Israeli military conducts massive \"power projection\" operation near Iran's border",
+          "url": "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border",
+          "angulo": "\"Israel faz grande operação de demonstração de força perto do Irã.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "diariodopoder",
+          "titulo": "Netanyahu acusa nova líder do Irã de tentar desenvolver bomba nuclear",
+          "url": "https://diariodopoder.com.br/exteriores/e10-internacional/netanyahu-acusa-nova-lider-do-ira-de-tentar-desenvolver-bomba-nuclear",
+          "angulo": "A justificativa israelense.",
+          "tipo": "noticia",
+          "enquadramento": null
+        }
+      ]
+    },
+    {
+      "id": "russia-aceita-negociar-ataques-intensificam",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Rússia aceita retomar negociações em novembro, mas ataques se intensificam dos dois lados",
+      "lide": "Depois de receber o enviado americano Steve Witkoff, a Rússia disse estar disposta a retomar negociações com a Ucrânia e os EUA em novembro. Nas horas seguintes, mísseis atingiram Kiev e a Ucrânia lançou centenas de drones contra Moscou.",
+      "contexto": null,
+      "fatos": [
+        {
+          "texto": "A Rússia disse estar disposta a retomar negociações com Ucrânia e EUA em novembro.",
+          "base": "4 fontes independentes (Estadão, Jovem Pan, Brasil de Fato, BBC)"
+        },
+        {
+          "texto": "Rússia e Ucrânia intensificaram os ataques após a rodada mediada pelos EUA.",
+          "base": "4 fontes independentes (g1, CNN Brasil, Brasil 247, Le Monde)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Trump disse que talvez nunca se tenha estado tão perto do fim da guerra.",
+          "quem": "Donald Trump, segundo o Estadão"
+        },
+        {
+          "texto": "Putin ordenou a libertação de um americano preso durante o encontro com Witkoff.",
+          "quem": "The Guardian"
+        },
+        {
+          "texto": "A retomada das negociações é teatro.",
+          "quem": "Especialista ouvido pela CNN Brasil"
+        },
+        {
+          "texto": "Putin, encorajado por Trump, não cede nada.",
+          "quem": "Le Monde"
+        },
+        {
+          "texto": "Zelensky aceitaria congelar a guerra nas linhas atuais.",
+          "quem": "Zelensky, segundo o Breitbart"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "O Brasil acompanha pelo impacto nos preços de combustíveis e fertilizantes.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Rússia e Ucrânia intensificam ataques após avanço diplomático mediado pelos EUA",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/22/russia-e-ucrania-intensificam-ataques-apos-avanco-diplomatico-mediado-pelos-eua.ghtml",
+          "angulo": "Contraste entre diplomacia e ataques.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "breitbart",
+          "titulo": "Zelensky Says He Would Accept Deal to Freeze Ukraine War at Current Lines",
+          "url": "https://www.breitbart.com/politics/2026/10/21/zelensky-says-he-would-accept-deal-freeze-ukraine-war-current-lines/",
+          "angulo": "\"Zelensky aceitaria congelar a guerra nas linhas atuais.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "bbc",
+          "titulo": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+          "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo",
+          "angulo": "\"Rússia aceita negociar, mas vê pouco a conversar.\"",
+          "tipo": "analise",
+          "enquadramento": null
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Rússia diz que está pronta para retomar negociações trilaterais com EUA e Ucrânia",
+          "url": "https://www.brasildefato.com.br/2026/10/21/russia-diz-que-esta-pronta-para-retomar-negociacoes-trilaterais-com-eua-e-ucrania/",
+          "angulo": "Destaca a disposição russa.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "guardian",
+          "titulo": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+          "angulo": "\"Putin manda soltar americano preso ao receber o enviado de Trump.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Rússia se mostra aberta a negociar com Ucrânia e EUA em novembro",
+          "url": "https://jovempan.com.br/mundo/russia-se-mostra-aberta-a-negociar-com-ucrania-e-eua-em-novembro/",
+          "angulo": "Relato da disposição russa.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "lemonde",
+          "titulo": "Guerre en Ukraine : galvanisé par le soutien de Donald Trump, Vladimir Poutine ne cède rien",
+          "url": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-galvanise-par-le-soutien-de-donald-trump-vladimir-poutine-ne-cede-rien_6798307_3210.html",
+          "angulo": "\"Encorajado por Trump, Putin não cede nada.\"",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Retomada de negociações entre Ucrânia e Rússia são teatro, diz especialista",
+          "url": "https://www.cnnbrasil.com.br/internacional/retomada-de-negociacoes-entre-ucrania-e-russia-sao-teatro-diz-especialista/",
+          "angulo": "Leitura cética.",
+          "tipo": "analise",
+          "enquadramento": null
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "‘Talvez agora estejamos mais perto do que nunca’, diz Trump sobre fim da guerra na Ucrânia",
+          "url": "https://www.estadao.com.br/internacional/talvez-agora-estejamos-mais-perto-do-que-nunca-diz-trump-sobre-fim-da-guerra-na-ucrania-npr/",
+          "angulo": "O otimismo de Trump.",
+          "tipo": "noticia",
+          "enquadramento": null
+        }
+      ]
+    },
+    {
+      "id": "europa-protestos-greves-le-pen",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Protestos contra o custo de vida se espalham pela Europa, com nova onda de greves; Le Pen sobe nas pesquisas na França",
+      "lide": "A onda de protestos contra o alto custo de vida, iniciada na França, se espalhou por outros países europeus, e sindicatos anunciam nova rodada de greves. Na França, Marine Le Pen aparece em alta nas pesquisas para a eleição presidencial.",
+      "contexto": "Na França, o fim de semana de 17 e 18 de outubro teve saques e mais de 2 mil detidos; Portugal e Itália também registraram atos.",
+      "fatos": [
+        {
+          "texto": "Protestos contra o custo de vida se espalharam por vários países da Europa.",
+          "base": "2 fontes independentes (Estadão, Gazeta do Povo)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Há nova onda de greves anunciada na Europa.",
+          "quem": "Sindicatos, segundo a Gazeta do Povo"
+        },
+        {
+          "texto": "Marine Le Pen dispara nas pesquisas enquanto a França enfrenta a onda de violência.",
+          "quem": "Gazeta do Povo"
+        },
+        {
+          "texto": "Enquanto a extrema esquerda incendeia a França, a direita aparece como favorita.",
+          "quem": "Gazeta do Povo"
+        },
+        {
+          "texto": "O Irã critica a violência policial na França e pede garantia à liberdade de manifestação.",
+          "quem": "Governo do Irã, segundo o Le Monde"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, a direita lê os protestos como sinal de avanço da direita europeia; a esquerda, como reação ao custo de vida.",
+      "ponto_cego": "Nos feeds, a cobertura do dia vem sobretudo de veículos de direita (Gazeta do Povo) e de centro (Estadão); não encontramos novas matérias da esquerda.",
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Onda de protestos contra alto custo de vida toma conta de países da Europa",
+          "url": "https://www.estadao.com.br/internacional/onda-protestos-contra-alto-custo-vida-paises-europa-npr/",
+          "angulo": "Panorama europeu.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Marine Le Pen dispara nas pesquisas enquanto a França enfrenta onda de violência",
+          "url": "https://www.gazetadopovo.com.br/mundo/marine-le-pen-dispara-nas-pesquisas-enquanto-a-franca-enfrenta-onda-de-violencia/",
+          "angulo": "Efeito eleitoral na França.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Europa terá nova onda de greves em meio à escalada dos protestos",
+          "url": "https://www.gazetadopovo.com.br/mundo/europa-tera-nova-onda-de-greves-em-meio-a-escalada-dos-protestos/",
+          "angulo": "Agenda de greves.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "lemonde",
+          "titulo": "Quand l’Iran dénonce les violences policières en France et appelle Paris à garantir « la liberté de manifestation »",
+          "url": "https://www.lemonde.fr/international/article/2026/10/21/quand-l-iran-denonce-les-violences-policieres-en-france-et-appelle-paris-a-garantir-la-liberte-de-manifestation_6798289_3210.html",
+          "angulo": "\"Quando o Irã denuncia a violência policial na França.\"",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "peru-senado-poderes-keiko-fujimori",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Senado do Peru dá a Keiko Fujimori poderes para legislar por decreto contra o crime organizado",
+      "lide": "O Senado peruano aprovou poderes para a presidente Keiko Fujimori editar leis contra o crime organizado sem passar pelo Congresso, por 90 dias. Fujimori conseguiu maioria ao romper a oposição.",
+      "contexto": null,
+      "fatos": [
+        {
+          "texto": "O Senado do Peru aprovou poderes para Keiko Fujimori editar leis contra o crime organizado.",
+          "base": "4 fontes independentes (Estadão, El País, CartaCapital, Brasil 247)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A delegação vale por 90 dias.",
+          "quem": "El País"
+        },
+        {
+          "texto": "Fujimori rompeu a oposição para obter a maioria.",
+          "quem": "El País"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "O tema dialoga com o debate brasileiro sobre segurança pública e a PEC da Segurança, adiada no Congresso.",
+      "ponto_cego": "Nos feeds, não encontramos cobertura de veículos brasileiros de direita.",
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Senado aprova poderes para a presidente Keiko Fujimori ditar leis contra o crime organizado no Peru",
+          "url": "https://www.estadao.com.br/internacional/senado-aprova-poderes-para-a-presidente-keiko-fujimori-ditar-leis-contra-o-crime-organizado-no-peru-npr/",
+          "angulo": "Relato da aprovação.",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "brasil247",
+          "titulo": "Senado do Peru autoriza Keiko Fujimori a legislar contra o crime organizado sem aval do Congresso",
+          "url": "https://www.brasil247.com/america-latina/senado-do-peru-autoriza-keiko-fujimori-a-legislar-contra-o-crime-organizado-sem-aval-do-congresso/",
+          "angulo": "Enfatiza o \"sem aval do Congresso\".",
+          "tipo": "noticia",
+          "enquadramento": null
+        },
+        {
+          "fonte": "elpaisbrasil",
+          "titulo": "Keiko Fujimori rompe a la oposición y consigue una mayoría en el Senado que le permite legislar por decreto durante 90 días",
+          "url": "https://elpais.com/america/2026-10-22/keiko-fujimori-rompe-a-la-oposicion-y-consigue-una-mayoria-en-el-senado-que-le-permite-legislar-por-decreto-durante-90-dias.html",
+          "angulo": "\"Fujimori rompe a oposição e consegue maioria para legislar por decreto por 90 dias.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "cartacapital",
+          "titulo": "Senado aprova poderes para Keiko Fujimori ditar leis no Peru",
+          "url": "https://www.cartacapital.com.br/mundo/senado-aprova-poderes-para-keiko-fujimori-ditar-leis-no-peru/",
+          "angulo": "Relato da aprovação.",
+          "tipo": "noticia",
+          "enquadramento": null
+        }
+      ]
+    }
+  ]
+}
