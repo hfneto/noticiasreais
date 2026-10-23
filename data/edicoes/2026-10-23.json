@@ -1,0 +1,1546 @@
+{
+  "tipo": "edicao",
+  "data": "2026-10-23",
+  "gerado_em": "2026-10-23T06:00:34-03:00",
+  "historias": [
+    {
+      "id": "datafolha-empate-50-50-reta-final",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Datafolha mostra Flávio com 47% e Lula com 46%: empate técnico a três dias do segundo turno",
+      "lide": "A penúltima pesquisa Datafolha antes do segundo turno mostra Flávio Bolsonaro com 47% e Lula com 46% dos votos totais, empate de 50% a 50% nos válidos. Há duas semanas, Flávio tinha 52% a 48% nos válidos; a campanha de Lula celebrou a tendência, e aliados de Flávio citaram pesquisas internas com vantagem de quatro pontos.",
+      "contexto": "A margem de erro é de dois pontos. A rejeição subiu para os dois candidatos: 48% dizem não votar em Lula de jeito nenhum, e 48% dizem o mesmo de Flávio.",
+      "continua": {
+        "data": "2026-10-20",
+        "id": "pesquisas-atlas-nexus-poderdata-segundo-turno",
+        "titulo": "Novas pesquisas mostram Flávio à frente de Lula, com diferença menor que na semana passada"
+      },
+      "fatos": [
+        {
+          "texto": "Flávio Bolsonaro tem 47% e Lula 46% dos votos totais; nos válidos, 50% a 50%. Brancos e nulos somam 5% e indecisos, 2%.",
+          "base": "6 fontes independentes (g1, SBT News, Brasil de Fato, Jota, Revista Oeste, Opera Mundi)"
+        },
+        {
+          "texto": "Na pesquisa anterior do instituto, Flávio tinha 52% e Lula 48% dos votos válidos.",
+          "base": "2 fontes independentes (SBT News, Valor)"
+        },
+        {
+          "texto": "A rejeição a Flávio é de 46% e a de Lula, 45%, considerando quem rejeita só um dos dois; 48% rejeitam cada um no total.",
+          "base": "4 fontes independentes (Jovem Pan, SBT News, Revista Fórum, ICL Notícias)"
+        },
+        {
+          "texto": "A aprovação do governo Lula chegou a 49%, contra 48% de desaprovação.",
+          "base": "Revista Fórum (dados do Datafolha)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O resultado indica tendência de alta de Lula e estagnação de Flávio.",
+          "quem": "Valor, sobre a leitura da campanha de Lula"
+        },
+        {
+          "texto": "Pesquisas internas do PL ainda apontam dianteira de quatro pontos para Flávio.",
+          "quem": "Aliados de Flávio, segundo Valor e Jovem Pan"
+        },
+        {
+          "texto": "A tendência é ultrapassar Flávio já na próxima pesquisa.",
+          "quem": "Leonardo Grandini, deputado estadual eleito (PT-SP)"
+        },
+        {
+          "texto": "Há ao menos 45 combinações em que 47% a 46% vira empate de 50% a 50% nos válidos.",
+          "quem": "Jota"
+        },
+        {
+          "texto": "Flávio lidera entre quem ganha mais de dois salários mínimos, homens e evangélicos; Lula, entre os mais pobres, mulheres e católicos.",
+          "quem": "CNN Brasil, com os recortes do Datafolha"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "A campanha de Lula fala em virada em curso e convoca a militância para as ruas.",
+        "oposicao": "Aliados de Flávio minimizam o Datafolha e dizem que suas pesquisas internas mantêm vantagem do senador."
+      },
+      "visao_de_fora": "A DW Brasil noticiou o empate como cenário acirrado a três dias do pleito.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Datafolha, 2º turno: veja intenção de voto por região, gênero, idade, identificação política, renda, cor e religião",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-presidente-segundo-turno-22-outubro-recortes.ghtml",
+          "angulo": "Os números gerais e todos os recortes.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Aliados de Flávio minimizam Datafolha e citam pesquisas internas que ainda apontam dianteira do PL",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/aliados-de-flvio-minimizam-datafolha-e-citam-pesquisas-internas-que-ainda-apontam-dianteira-do-pl.ghtml",
+          "angulo": "A reação do lado de Flávio, com as pesquisas internas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "Aprovação de Lula supera desaprovação, aponta Datafolha",
+          "url": "https://revistaforum.com.br/politica/aprovacao-lula-datafolha/",
+          "angulo": "Destaca a aprovação do governo acima da desaprovação.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "Datafolha: Flávio tem 47% dos votos totais, e Lula, 46%",
+          "url": "https://revistaoeste.com/politica/datafolha-flavio-tem-47-dos-votos-totais-e-lula-46/",
+          "angulo": "Abre pelos votos totais, com Flávio na frente.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "jota",
+          "titulo": "Como 47% a 46% no Datafolha pode virar empate de 50% a 50% entre Lula e Flávio",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/como-47-a-46-no-datafolha-pode-virar-empate-de-50-a-50-entre-lula-e-flavio",
+          "angulo": "Explica a conta dos votos válidos.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Datafolha: Flávio Bolsonaro é rejeitado por 46%; Lula, por 45%",
+          "url": "https://jovempan.com.br/noticias/datafolha-flavio-bolsonaro-e-rejeitado-por-46-lula-por-45/",
+          "angulo": "Foca na rejeição, maior para Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Datafolha aponta empate técnico no 2º turno: Flávio Bolsonaro e Lula têm 50% dos votos válidos cada um",
+          "url": "https://www.brasildefato.com.br/2026/10/22/datafolha-aponta-empate-tecnico-no-2o-turno-flavio-bolsonaro-47-lula-46/",
+          "angulo": "Relato do empate técnico.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Datafolha anima campanha de Lula, mas aliados ainda ponderam desvantagem",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/datafolha-anima-campanha-de-lula-mas-aliados-ainda-ponderam-desvantagem.ghtml",
+          "angulo": "Bastidores da campanha de Lula, com ressalvas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Aliados de Flávio apostam em vantagem de quatro pontos apesar de empate no Datafolha",
+          "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/aliados-de-flavio-apostam-em-vantagem-de-quatro-pontos-apesar-de-empate-no-datafolha/",
+          "angulo": "Coluna com a aposta dos aliados de Flávio.",
+          "tipo": "analise",
+          "enquadramento": "oposicao",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Datafolha: Veja como Flávio e Lula pontuam por renda, gênero e religião",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-veja-como-flavio-e-lula-pontuam-por-renda-genero-e-religiao/",
+          "angulo": "Os recortes por renda, gênero e religião.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "veja",
+          "titulo": "Penúltima pesquisa Datafolha sobre disputa Flávio x Lula mostra um zero a zero, diz cientista político",
+          "url": "https://veja.abril.com.br/politica/penultima-pesquisa-datafolha-sobre-disputa-flavio-x-lula-mostra-um-zero-a-zero-diz-cientista-politico/",
+          "angulo": "Cientista político lê o 'zero a zero'.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "icl",
+          "titulo": "48% rejeitam Lula e Flávio Bolsonaro, mostra Datafolha",
+          "url": "https://iclnoticias.com.br/48-lula-flavio-bolsonaro-datafolha/",
+          "angulo": "Destaca a rejeição alta aos dois.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "mendonca-sigilos-ato-proprio-lula-recorre",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Mendonça diz que Lula e Flávio podem abrir sigilos por conta própria; campanha de Lula recorre e pede que o TSE intermedeie",
+      "lide": "O ministro André Mendonça, vice-presidente do TSE, decidiu que não cabe à Justiça Eleitoral definir o que os candidatos divulgam: cada um pode abrir seus sigilos 'por ato próprio'. A campanha de Lula recorreu, pediu que o tribunal requisite os dados às fontes oficiais e os divulgue de forma simultânea, e deu prazo até 23h59 para Flávio entregar as autorizações.",
+      "contexto": "O 'duelo dos sigilos' começou no debate da Band, no domingo, quando Lula desafiou Flávio a abrir sigilos bancário, fiscal e telefônico. Flávio aceitou com condições, e Lula aceitou as condições na quarta.",
+      "continua": {
+        "data": "2026-10-22",
+        "id": "duelo-sigilos-lula-aceita-flavio-amplia",
+        "titulo": "Lula aceita condições de Flávio para abrir sigilos, Flávio amplia exigências, e Lula o convida ao TSE nesta quinta"
+      },
+      "fatos": [
+        {
+          "texto": "Mendonça decidiu que Lula e Flávio podem divulgar seus sigilos por ato próprio e que não cabe ao TSE definir ou arbitrar a divulgação.",
+          "base": "8 fontes independentes (g1, Estadão, Gazeta do Povo, Jota, Brasil de Fato, CartaCapital, Exame, A Tarde)"
+        },
+        {
+          "texto": "A campanha de Lula recorreu da decisão e pediu que o TSE atue como intermediador imparcial, requisitando e divulgando os dados.",
+          "base": "5 fontes independentes (g1, Estadão, CNN Brasil, Brasil de Fato, Opera Mundi)"
+        },
+        {
+          "texto": "Flávio entregou autorizações ao TSE.",
+          "base": "Folha (blog Brasília Hoje)"
+        },
+        {
+          "texto": "A campanha de Lula pediu que Flávio apresente documentos até as 23h59 de quinta.",
+          "base": "2 fontes independentes (CNN Brasil, SBT News)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "\"O que se quiser divulgar é escolha de cada um, e avaliar essa escolha cabe ao eleitor.\"",
+          "quem": "André Mendonça, na decisão (segundo Exame)"
+        },
+        {
+          "texto": "Flávio cria obstáculos para abrir os sigilos.",
+          "quem": "Geraldo Alckmin"
+        },
+        {
+          "texto": "A campanha de Lula tentou excluir Vorcaro e o Instituto Lula do acordo.",
+          "quem": "Deltan Dallagnol, senador eleito (Novo-PR)"
+        },
+        {
+          "texto": "A guerra dos sigilos é uma farsa com efeito prático nulo.",
+          "quem": "Especialistas ouvidos pela Veja"
+        },
+        {
+          "texto": "Mesmo com a liberação, os dados seguem restritos na prática.",
+          "quem": "Poder360"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "A campanha de Lula diz que fez sua parte e que só o TSE garante divulgação simultânea e completa dos dois lados.",
+        "oposicao": "Aliados de Flávio dizem que o senador já entregou as autorizações e que Lula tenta blindar aliados; a direita lembra que avisou que o TSE não tinha o que decidir."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Mendonça diz que Lula e Flávio podem disponibilizar sigilos por conta própria e não cabe ao TSE definir divulgação",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/desafio-dos-sigilos-mendonca-diz-que-nao-cabe-ao-tse-definir-o-que-cada-candidato-quer-ou-nao-divulgar.ghtml",
+          "angulo": "A decisão de Mendonça.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Lula pede que Mendonça seja “árbitro” da divulgação de sigilos e pressiona Flávio",
+          "url": "https://www.gazetadopovo.com.br/republica/lula-pede-que-mendonca-seja-arbitro-da-divulgacao-de-sigilos-e-pressiona-flavio/",
+          "angulo": "Destaca a pressão de Lula sobre Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Sigilos de Lula e Flávio Bolsonaro: Mendonça diz que não cabe ao TSE ‘definir’ a divulgação",
+          "url": "https://www.brasildefato.com.br/2026/10/22/sigilos-de-lula-e-flavio-bolsonaro-mendonca-diz-que-nao-cabe-ao-tse-definir-a-divulgacao/",
+          "angulo": "Relato da decisão com o acordo entre as campanhas.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Campanha de Lula pede que TSE execute acordo de quebra de sigilo com Flávio Bolsonaro como um intermediador imparcial",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/campanha-de-lula-pede-que-tse-execute-acordo-de-quebra-de-sigilo-com-flavio-bolsonaro-como-um-intermediador.ghtml",
+          "angulo": "O recurso da campanha de Lula.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "diariodopoder",
+          "titulo": "Mendonça não tem o que fazer com ‘sigilos’ de Lula e Flávio, como o DP alertou",
+          "url": "https://diariodopoder.com.br/justica/ttc-justica/mendonca-nao-tem-o-que-fazer-com-sigilos-de-lula-e-flavio-como-o-dp-alertou",
+          "angulo": "Diz que já tinha avisado que o TSE não tinha o que decidir.",
+          "tipo": "opiniao",
+          "enquadramento": "oposicao",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Campanha de Lula recorre a Mendonça por mediação do TSE nas quebras de sigilo; Flávio entrega autorizações",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml",
+          "angulo": "Registra que Flávio entregou autorizações.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "‘Quem não deve, não recorta’: Lula usa frase de Flávio Bolsonaro e pede que TSE requisite os sigilos",
+          "url": "https://www.brasildefato.com.br/2026/10/22/quem-nao-deve-nao-recorta-lula-usa-frase-de-flavio-bolsonaro-e-pede-que-tse-requisite-os-sigilos/",
+          "angulo": "Usa a frase de Flávio contra ele.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "veja",
+          "titulo": "Especialistas apontam farsa e piada por trás da guerra sobre sigilos entre Lula e Flávio",
+          "url": "https://veja.abril.com.br/politica/especialistas-apontam-farsa-e-piada-por-tras-da-guerra-sobre-sigilos-entre-lula-e-flavio/",
+          "angulo": "Especialistas veem farsa dos dois lados.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "Lula tentou excluir Vorcaro de quebra de sigilo, afirma Dallagnol",
+          "url": "https://revistaoeste.com/politica/lula-tentou-excluir-vorcaro-de-quebra-de-sigilo-afirma-dallagnol/",
+          "angulo": "A acusação de Dallagnol.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "exame",
+          "titulo": "Mendonça diz que Flávio e Lula podem abrir sigilos e que não cabe ao TSE decidir",
+          "url": "https://exame.com/brasil/mendonca-diz-que-flavio-e-lula-podem-abrir-sigilos-e-que-nao-cabe-ao-tse-decidir/",
+          "angulo": "Traz a frase central da decisão.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Mendonça: Lula e Flávio podem quebrar sigilo sem aval do TSE",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/mendonca-da-aval-a-quebras-de-sigilo-de-flavio-e-lula",
+          "angulo": "Registra a ponderação sobre uso de laranjas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "poder360",
+          "titulo": "Lula libera abertura de sigilos, mas dados seguem restritos; entenda",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-libera-abertura-de-sigilos-mas-dados-seguem-restritos-entenda/",
+          "angulo": "Explica por que os dados seguem restritos.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "tse-meta-exercito-do-lula-nikolas-prazos",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "TSE dá prazos à Meta: 24 h para relatório sobre o 'Exército do Lula' e 12 h para explicar o alcance de Nikolas",
+      "lide": "O presidente do TSE, Kassio Nunes Marques, deu 24 horas para a Meta entregar relatório técnico sobre o canal 'Exército do Lula', a pedido da campanha de Flávio, e não descarta suspendê-lo de novo. O corregedor Villas Bôas Cueva deu 12 horas para a empresa explicar o alcance dos perfis de Nikolas Ferreira, Marçal e Flávio, sob multa de R$ 100 mil por hora. Nos EUA, 13 parlamentares cobraram Zuckerberg.",
+      "contexto": "Na véspera, a campanha de Lula pediu a cassação da chapa de Flávio por suposto favorecimento da Meta, e o MPF acionou a empresa por bloqueios de contas.",
+      "continua": {
+        "data": "2026-10-22",
+        "id": "mpf-aciona-meta-lula-pede-cassacao-flavio",
+        "titulo": "MPF aciona a Meta por bloqueios de contas, e campanha de Lula pede cassação da chapa de Flávio"
+      },
+      "fatos": [
+        {
+          "texto": "Nunes Marques deu 24 horas para a Meta apresentar relatório técnico sobre o canal 'Exército do Lula', a pedido da campanha de Flávio.",
+          "base": "7 fontes independentes (g1, Estadão, Jota, Gazeta do Povo, Brasil de Fato, Opera Mundi, A Tarde)"
+        },
+        {
+          "texto": "O corregedor Ricardo Villas Bôas Cueva deu 12 horas para a Meta explicar o alcance do perfil de Nikolas Ferreira no Instagram, com multa de R$ 100 mil por hora de atraso.",
+          "base": "4 fontes independentes (Folha, Gazeta do Povo, Congresso em Foco, Revista Fórum)"
+        },
+        {
+          "texto": "Treze parlamentares dos EUA enviaram carta a Mark Zuckerberg cobrando explicações sobre o tratamento às campanhas na eleição brasileira.",
+          "base": "3 fontes independentes (g1, O Antagonista, ICL Notícias)"
+        },
+        {
+          "texto": "A defesa de Lula pediu ao TSE o cancelamento da anotação do canal 'Exército do Lula' no registro da candidatura.",
+          "base": "2 fontes independentes (g1, O Antagonista)"
+        },
+        {
+          "texto": "Lula disse em live que a Meta 'não pode enganar a humanidade' e defendeu regulação 'sem censura'.",
+          "base": "4 fontes independentes (g1, Estadão, Jovem Pan, Brasil de Fato)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Nunes Marques não descarta derrubar o canal de novo; 'preciso ouvir a plataforma antes de tomar uma decisão'.",
+          "quem": "Kassio Nunes Marques, segundo Estadão e Valor"
+        },
+        {
+          "texto": "Existe coordenação no canal, com ordens e hashtags a publicar.",
+          "quem": "Campanha de Flávio Bolsonaro"
+        },
+        {
+          "texto": "A atuação de Nunes Marques contra Lula é 'pouco disfarçada'.",
+          "quem": "André Perecmanis, professor, ao UOL News (via DCM)"
+        },
+        {
+          "texto": "A Meta vai, no máximo, levar uma multa; não há como repor o tempo perdido pela campanha.",
+          "quem": "Jurista ouvido pelo Brasil de Fato"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "A Meta favoreceu Flávio Bolsonaro na eleição.",
+          "rotulo": "Em apuração",
+          "explicacao": "O TSE cobrou dados da Meta e do X sobre o alcance dos perfis; a empresa admite falhas de moderação e nega favorecimento. Não há decisão.",
+          "onde_circula": "Campanha de Lula, Congresso dos EUA",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": {
+        "governo": "A campanha de Lula vê o TSE agir rápido contra o canal de Janones e devagar contra o alcance dos perfis bolsonaristas.",
+        "oposicao": "A campanha de Flávio diz que o 'Exército do Lula' é máquina coordenada de propaganda e que o TSE finalmente age."
+      },
+      "visao_de_fora": "A carta de 13 parlamentares americanos a Zuckerberg levou a disputa brasileira sobre a Meta ao Congresso dos EUA.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Nunes Marques manda Meta fazer pente-fino no canal 'Exército do Lula'",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/22/nunes-marques-da-24-horas-para-meta-enviar-relatorio-sobre-exercito-do-lula.ghtml",
+          "angulo": "O despacho de Nunes Marques.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Nunes Marques manda Meta fazer pente-fino em canal de Janones e Lula no WhatsApp",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-meta-pente-fino-exercito-do-lula/",
+          "angulo": "Trata como 'pente-fino' no canal de Janones.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "PT aciona TSE contra decisões de Kassio Nunes Marques sobre o Exército do Lula",
+          "url": "https://revistaforum.com.br/politica/pt-aciona-tse-contra-decisoes-de-kassio-nunes-marques-sobre-o-exercito-do-lula/",
+          "angulo": "O PT contesta a atuação de Nunes Marques.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "TSE dá prazo de 12 horas para Meta explicar alcance do perfil de Nikolas no Instagram",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/tse-da-prazo-de-12-horas-para-meta-explicar-alcance-do-perfil-de-nikolas-no-instagram.shtml",
+          "angulo": "O prazo de 12 horas e a multa.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "TSE dá 12h para Meta explicar alcance de Nikolas sob risco de multa de R$ 100 mil por hora",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-da-12h-para-meta-explicar-alcance-de-nikolas-sob-risco-de-multa-de-r-100-mil-por-hora/",
+          "angulo": "Relato do prazo sobre Nikolas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "Professor vê atuação de Kassio contra Lula como “pouco disfarçada”",
+          "url": "https://www.diariodocentrodomundo.com.br/professor-critica-kassio-acaocampanha-lula/",
+          "angulo": "Crítica à seletividade do TSE.",
+          "tipo": "analise",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "‘Preciso ouvir a plataforma antes de tomar uma decisão’, diz Nunes Marques sobre ‘Exército do Lula’",
+          "url": "https://www.estadao.com.br/politica/eleicoes/preciso-ouvir-a-plataforma-antes-de-tomar-uma-decisao-diz-nunes-marques-sobre-exercito-do-lula/",
+          "angulo": "A fala do presidente do TSE.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "jota",
+          "titulo": "Nunes Marques dá 24 horas para Meta, Google e X prestarem informações sobre o ‘Exército do Lula’",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/nunes-marques-da-24-horas-para-meta-google-e-x-prestarem-informacoes-sobre-o-exercito-do-lula",
+          "angulo": "Detalha o pedido da campanha de Flávio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Parlamentares dos EUA cobram explicações de Zuckerberg sobre ações da Meta na eleição brasileira",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/22/parlamentares-dos-eua-cobram-explicacoes-de-zuckerberg-sobre-acoes-da-meta-na-eleicao-brasileira.ghtml",
+          "angulo": "A carta dos parlamentares americanos.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "antagonista",
+          "titulo": "Congressistas dos EUA pedem à Meta explicações sobre eleição no Brasil",
+          "url": "https://oantagonista.com.br/mundo/congressistas-dos-eua-pedem-a-meta-explicacoes-sobre-eleicao-no-brasil/",
+          "angulo": "Relato da carta, com o número de signatários.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "‘Meta vai, no máximo, levar uma multa’, mas não há como repor tempo perdido à campanha de Lula, afirma jurista",
+          "url": "https://www.brasildefato.com.br/2026/10/22/meta-vai-no-maximo-levar-uma-multa-mas-nao-ha-como-repor-tempo-perdido-a-campanha-de-lula-afirma-jurista/",
+          "angulo": "Jurista diz que a punição não repõe o prejuízo à campanha.",
+          "tipo": "analise",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "jovempan",
+          "titulo": "Lula diz que Meta conta mentiras: ‘Favorece alguns em detrimento da democracia’",
+          "url": "https://jovempan.com.br/politica/lula-diz-que-meta-conta-mentiras-favorece-alguns-em-detrimento-da-democracia/",
+          "angulo": "Destaca o ataque de Lula à Meta.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "debate-globo-regras-checagem-estrategias",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Lula e Flávio fazem hoje na Globo o último debate; checagem ao vivo fica nos sites, e campanhas ajustam o tom",
+      "lide": "O debate da TV Globo começa às 21h20, com quatro blocos, mediação de César Tralli e restrição à movimentação dos candidatos. A emissora anunciou checagem em tempo real pelo g1 e Fato ou Fake, mas não na transmissão, o que motivou um ato em frente à sede no Rio. Flávio foi orientado a baixar o tom e afastou Marçal; Lula convocou a consultora Olga Curado.",
+      "contexto": "No debate da Band, no domingo, os dois trocaram acusações pessoais. Folha e Lupa também farão checagem ao vivo.",
+      "continua": {
+        "data": "2026-10-19",
+        "id": "debate-band-lula-flavio",
+        "titulo": "Lula e Flávio Bolsonaro trocam acusações no primeiro debate do segundo turno"
+      },
+      "fatos": [
+        {
+          "texto": "O debate será nesta sexta (23), às 21h20, após o Jornal Nacional, em quatro blocos, com mediação de César Tralli.",
+          "base": "4 fontes independentes (Poder360, Valor, Estadão, Folha)"
+        },
+        {
+          "texto": "A Globo fará checagem em tempo real das falas nos canais digitais (g1 e Fato ou Fake), não na transmissão da TV.",
+          "base": "4 fontes independentes (g1, Gazeta do Povo, Congresso em Foco, Terra Brasil Notícias)"
+        },
+        {
+          "texto": "Manifestantes fizeram ato em frente à sede da Globo, no Rio, pedindo checagem na TV; estudantes da USP entregaram carta à emissora.",
+          "base": "2 fontes independentes (Brasil de Fato, Brasil 247)"
+        },
+        {
+          "texto": "Folha e Agência Lupa farão checagem ao vivo durante o debate.",
+          "base": "Folha"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O empate no Datafolha enterra a esperança de um debate propositivo.",
+          "quem": "Aliados de Flávio e de Lula, à coluna Painel da Folha"
+        },
+        {
+          "texto": "Flávio foi orientado a baixar o tom, e Lula, a evitar provocações.",
+          "quem": "g1, com as campanhas"
+        },
+        {
+          "texto": "Flávio quer passar imagem 'mais técnica', com Tarcísio em vez de Marçal na equipe.",
+          "quem": "Valor"
+        },
+        {
+          "texto": "A checagem anunciada não é a pedida no abaixo-assinado.",
+          "quem": "Revista Fórum"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "Lula disse que fará de tudo para tomar o poder, mesmo se o país entrar em crise.",
+          "rotulo": "Falso",
+          "explicacao": "A frase atribuída a Lula não foi dita; a checagem não encontrou registro da declaração.",
+          "onde_circula": "redes sociais",
+          "checagem": [
+            {
+              "nome": "Estadão Verifica",
+              "url": "https://www.estadao.com.br/estadao-verifica/lula-tomar-o-poder-mesmo-se-pais-entrar-crise-falso/"
+            }
+          ]
+        },
+        {
+          "alegacao": "Cidades registraram mais votos para Lula do que habitantes.",
+          "rotulo": "Falso",
+          "explicacao": "A comparação confunde eleitores (que incluem quem vota fora do domicílio) com a população residente; os dados do TSE não mostram votos acima do eleitorado.",
+          "onde_circula": "redes sociais",
+          "checagem": [
+            {
+              "nome": "Estadão Verifica",
+              "url": "https://www.estadao.com.br/estadao-verifica/e-falso-que-cidades-registraram-mais-votos-para-lula-que-habitantes/"
+            }
+          ]
+        },
+        {
+          "alegacao": "Áudio em que Lula reclama da entrevista de Roberta Luchsinger à CNN.",
+          "rotulo": "Falso",
+          "explicacao": "O áudio é falso, segundo a checagem.",
+          "onde_circula": "WhatsApp e redes",
+          "checagem": [
+            {
+              "nome": "Aos Fatos",
+              "url": "https://www.aosfatos.org/noticias/falso-audio-lula-roberta-luchsinger-cnn/"
+            }
+          ]
+        },
+        {
+          "alegacao": "Lula teria envolvimento em roubo de celular.",
+          "rotulo": "Falso",
+          "explicacao": "Boato falso impulsionado em anúncios pagos por deputados, segundo a checagem.",
+          "onde_circula": "anúncios no Instagram e Facebook",
+          "checagem": [
+            {
+              "nome": "Estadão Verifica",
+              "url": "https://www.estadao.com.br/estadao-verifica/deputados-impulsionaram-anuncios-com-boato-falso-sobre-lula-e-roubo-de-celular/"
+            }
+          ]
+        }
+      ],
+      "enquadramentos": {
+        "governo": "Apoiadores de Lula cobram checagem na TV e tratam o debate como chance de virada.",
+        "oposicao": "A campanha de Flávio aposta em postura técnica e vê na Globo um ambiente hostil."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "poder360",
+          "titulo": "Debate da “Globo” terá 4 blocos e restrição à movimentação de Lula e Flávio",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/debate-da-globo-tera-4-blocos-e-restricao-a-movimentacao-de-lula-e-flavio/",
+          "angulo": "As regras do debate.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Ato em frente à Globo exige que debate tenha checagem de fatos não só nos sites, mas na TV",
+          "url": "https://www.brasildefato.com.br/2026/10/22/ato-em-frente-a-globo-exige-que-debate-tenha-checagem-de-fatos-nao-so-nos-sites-mas-na-tv/",
+          "angulo": "O ato que pede checagem na TV.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Globo anuncia checagem de falas de Lula e Flávio durante debate nos canais digitais",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/globo-anuncia-checagem-falas-lula-flavio-durante-debate-nos-canais-digitais/",
+          "angulo": "Relato da checagem nos canais digitais.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Flávio Bolsonaro é orientado a baixar o tom, e Lula, a evitar provocações no debate da Globo",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-estrategias-flavio-bolsonaro-e-lula.ghtml",
+          "angulo": "As estratégias das duas campanhas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "terrabrasil",
+          "titulo": "Globo anuncia checagem das falas de Lula e Flávio Bolsonaro durante debate, mas decisão sobre transmissão chama atenção; entenda",
+          "url": "https://terrabrasilnoticias.com/2026/10/globo-anuncia-checagem-das-falas-de-lula-e-flavio-bolsonaro-durante-debate-mas-decisao-sobre-transmissao-chama-atencao-entenda/",
+          "angulo": "Destaca que a checagem não vai ao ar na TV.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Empate no Datafolha enterra esperança de debate propositivo na Globo, dizem aliados de Flávio e Lula",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/empate-no-datafolha-enterra-esperanca-de-debate-propositivo-na-globo-dizem-aliados-de-flavio-e-lula.shtml",
+          "angulo": "Aliados dos dois lados preveem debate duro.",
+          "tipo": "analise",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Campanha de Flávio afasta Marçal e aposta em Tarcísio para transmitir postura ‘mais técnica’ no debate da Globo",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/campanha-de-flavio-afasta-marcal-e-aposta-em-tarcisio-para-transmitir-postura-mais-tecnica-no-debate-da-globo.ghtml",
+          "angulo": "A equipe de Flávio para o debate.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "forum",
+          "titulo": "TV dos EUA fez checagem ao vivo que Globo se recusa a fazer",
+          "url": "https://revistaforum.com.br/politica/tv-dos-eua-fez-checagem-ao-vivo-que-globo-se-recusa-a-fazer/",
+          "angulo": "Compara com a TV americana.",
+          "tipo": "opiniao",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Lula convoca consultora de 2006 para debate da Globo",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-convoca-consultora-de-2006-para-debate-da-globo",
+          "angulo": "A preparação de Lula.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "congressoemfoco",
+          "titulo": "Globo anuncia regras do debate sem prever checagem na transmissão",
+          "url": "https://www.congressoemfoco.com.br/noticia/123520/globo-anuncia-regras-do-debate-sem-prever-checagem-na-transmissao",
+          "angulo": "Aponta a ausência de checagem na transmissão.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
+          "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
+          "angulo": "Como a checagem do g1 vai funcionar.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "estadaoverifica",
+          "titulo": "É falso que Lula tenha dito que fará de tudo para tomar o poder, mesmo se o País entrar em crise",
+          "url": "https://www.estadao.com.br/estadao-verifica/lula-tomar-o-poder-mesmo-se-pais-entrar-crise-falso/",
+          "angulo": "Checagem de frase atribuída a Lula.",
+          "tipo": "checagem",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "aosfatos",
+          "titulo": "É falso áudio em que Lula reclama de entrevista de Roberta Luchsinger à CNN",
+          "url": "https://www.aosfatos.org/noticias/falso-audio-lula-roberta-luchsinger-cnn/",
+          "angulo": "Checagem de áudio falso.",
+          "tipo": "checagem",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "estadaoverifica",
+          "titulo": "Deputados impulsionaram anúncios com boato falso sobre Lula e roubo de celular",
+          "url": "https://www.estadao.com.br/estadao-verifica/deputados-impulsionaram-anuncios-com-boato-falso-sobre-lula-e-roubo-de-celular/",
+          "angulo": "Checagem de anúncios pagos com boato.",
+          "tipo": "checagem",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "vorcaro-pgr-visitas-senado-bahamas-pf-festas",
+      "editoria": "Justiça",
+      "escopo": "brasil",
+      "titulo": "Caso Master: PGR é contra abrir registros de visitas de Vorcaro e da mulher de Moraes ao Senado; PF pede apuração de festas e investigadores citam hub nas Bahamas",
+      "lide": "O procurador-geral Paulo Gonet defendeu que o STF rejeite o pedido de um vereador de Curitiba para acessar registros de entrada no Senado de Daniel Vorcaro, de Viviane Barci de Moraes, Lulinha, Frei Chico e outros. A PF pediu a Fachin para investigar suspeita de tráfico de mulheres em festas de Vorcaro, e investigadores apontam uma financeira nas Bahamas como centro do esquema no exterior.",
+      "contexto": "Vorcaro, ex-dono do Banco Master, é investigado por fraudes; mensagens dele citando políticos dos dois campos vêm sendo divulgadas desde a semana passada.",
+      "continua": {
+        "data": "2026-10-22",
+        "id": "caso-master-pgr-fachin-vorcaro-politicos",
+        "titulo": "PGR pede manutenção de prisões no caso Master e que Fachin assuma decisões urgentes; mensagens ligam Vorcaro a políticos"
+      },
+      "fatos": [
+        {
+          "texto": "A PGR se manifestou contra o pedido de acesso aos registros de visitas de Vorcaro, Viviane Barci de Moraes e outros ao Senado.",
+          "base": "7 fontes independentes (g1, Estadão, Gazeta do Povo, Brasil de Fato, CartaCapital, O Antagonista, Jovem Pan)"
+        },
+        {
+          "texto": "A PF pediu a Fachin para investigar suspeita de tráfico de mulheres para exploração sexual em festas de Vorcaro.",
+          "base": "2 fontes independentes (Valor, O Antagonista)"
+        },
+        {
+          "texto": "O Brazil Journal afastou o sócio Flávio Carneiro após a revelação de diálogos com Vorcaro.",
+          "base": "Folha (editorial do próprio Brazil Journal)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Vorcaro usava a Mosaic, financeira em Nassau, como hub de distribuição de dinheiro no exterior.",
+          "quem": "Investigadores do caso, segundo a Folha"
+        },
+        {
+          "texto": "Vorcaro mandou procurar uma garrafa de uísque de R$ 500 mil para presentear Lula.",
+          "quem": "Mensagens citadas pela Revista Oeste e pelo Terra Brasil Notícias"
+        },
+        {
+          "texto": "Negociações de cotas do mesmo avião aparecem em apurações sobre Vorcaro, o escritório Barci de Moraes, Flávio e Willer Tomaz.",
+          "quem": "Valor, com dados da PF"
+        },
+        {
+          "texto": "O caso Master e o fim da escala 6x1 foram as notícias de maior impacto no voto no 1º turno.",
+          "quem": "Quaest"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "A esquerda destaca os laços de Vorcaro com bolsonaristas e trata o uísque como mensagem sem entrega comprovada.",
+        "oposicao": "A direita destaca o presente a Lula, a insulina ao SUS e a proteção da PGR aos registros do Senado."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "Cada lado cobre a parte que atinge o adversário: a Oeste e o Terra Brasil, o uísque para Lula; a Folha e o Valor, o hub nas Bahamas e o avião; a PGR contra os registros do Senado foi coberta por todos.",
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "PGR defende que STF rejeite pedido de acesso a dados de visitas de esposa de Moraes e Vorcaro ao Senado",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/pgr-defende-que-stf-rejeite-pedido-de-acesso-a-dados-de-visitas-de-esposa-de-moraes-e-vorcaro-ao-senado.ghtml",
+          "angulo": "O parecer da PGR.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "oeste",
+          "titulo": "Vorcaro buscou uísque de R$ 500 mil para presentear Lula",
+          "url": "https://revistaoeste.com/politica/vorcaro-buscou-uisque-de-r-500-mil-para-presentear-lula/",
+          "angulo": "O presente a Lula, segundo mensagens.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
+          "url": "https://www.brasildefato.com.br/2026/10/22/pgr-da-parecer-contra-pedido-de-acesso-a-registro-de-vorcaro-no-senado/",
+          "angulo": "Relato do parecer de Gonet.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Investigadores afirmam que Vorcaro usou financeira nas Bahamas como hub para esquema no exterior",
+          "url": "https://c-level.folha.uol.com.br/financas/2026/10/investigadores-afirmam-que-vorcaro-usou-financeira-nas-bahamas-como-hub-para-esquema-no-exterior.shtml",
+          "angulo": "O hub nas Bahamas, segundo investigadores.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "PF pede a Fachin para investigar suposto tráfico de mulheres em festas de Vorcaro",
+          "url": "https://valor.globo.com/politica/noticia/2026/10/22/pf-pede-a-fachin-para-investigar-suposto-trafico-de-mulheres-em-festas-de-vorcaro.ghtml",
+          "angulo": "O pedido da PF sobre as festas.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "PGR é contra pedido para revelar visitas de Vorcaro, mulher de Moraes e Lulinha ao Senado",
+          "url": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-pedido-para-revelar-visitas-de-vorcaro-mulher-de-moraes-e-lulinha-ao-senado/",
+          "angulo": "Inclui Lulinha entre os nomes.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Negociação de cotas do mesmo avião constam de apurações da PF sobre Vorcaro, Moraes, Flávio e Willer Tomaz",
+          "url": "https://valor.globo.com/politica/noticia/2026/10/22/negociao-de-cotas-do-mesmo-avio-constam-de-apuraes-da-pf-sobre-vorcaro-moraes-flvio-e-willer-tomaz.ghtml",
+          "angulo": "As cotas do avião nas apurações da PF.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "gazetadopovo",
+          "titulo": "Investigação apura ligação de Vorcaro com membros do governo Lula na venda de insulina ao SUS",
+          "url": "https://www.gazetadopovo.com.br/republica/investigacao-apura-ligacao-de-vorcaro-com-membros-do-governo-lula-na-venda-de-insulina-ao-sus/",
+          "angulo": "Apuração sobre a insulina ao SUS.",
+          "tipo": "noticia",
+          "enquadramento": "oposicao",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "cartacapital",
+          "titulo": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
+          "url": "https://www.cartacapital.com.br/justica/pgr-da-parecer-contra-pedido-de-acesso-a-registro-de-vorcaro-no-senado/",
+          "angulo": "Relato do parecer.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Brazil Journal anuncia afastamento do sócio Flávio Carneiro após revelação de diálogos com Vorcaro",
+          "url": "https://c-level.folha.uol.com.br/negocios/2026/10/brazil-journal-anuncia-afastamento-do-socio-flavio-carneiro-apos-revelacao-de-dialogos-com-vorcaro.shtml",
+          "angulo": "O afastamento no Brazil Journal.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Quaest: fim da escala 6x1 e Caso Master tiveram maior impacto no voto para presidente no 1º turno",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-noticia-impacto-escolha-voto-presidente-1-turno.ghtml",
+          "angulo": "O peso do caso no voto, segundo a Quaest.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "transporte-gratuito-segundo-turno-indigenas",
+      "editoria": "Eleições",
+      "escopo": "brasil",
+      "titulo": "Transporte gratuito no domingo é obrigatório; Justiça manda União garantir deslocamento de indígenas",
+      "lide": "Estados e prefeituras devem garantir transporte público gratuito no domingo do segundo turno. Uma liminar de alcance nacional obriga a União a garantir transporte e alimentação a eleitores indígenas, e o TRE-AM regularizou o transporte no Vale do Javari depois de negar o pedido na semana passada.",
+      "contexto": "A Funai mapeou 7,2 mil eleitores indígenas que precisam de transporte. Pernambuco editou decreto de gratuidade após pressão da campanha de Lula.",
+      "fatos": [
+        {
+          "texto": "Prefeituras e estados devem garantir transporte gratuito no domingo (25).",
+          "base": "2 fontes independentes (SBT News, Brasil de Fato)"
+        },
+        {
+          "texto": "Uma liminar manda a União garantir transporte e alimentação a indígenas, com multa diária de R$ 1 milhão.",
+          "base": "DCM"
+        },
+        {
+          "texto": "O transporte de eleitores indígenas do Vale do Javari (AM) foi regularizado para o segundo turno.",
+          "base": "4 fontes independentes (SBT News, IstoÉ, Diário do Poder, Brasil de Fato)"
+        },
+        {
+          "texto": "Rio de Janeiro, Rio Grande do Sul e Pernambuco terão transporte público gratuito no domingo.",
+          "base": "3 fontes independentes (g1, Brasil de Fato, Folha)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O decreto de Pernambuco veio após pressão da campanha de Lula.",
+          "quem": "Folha (coluna Painel)"
+        },
+        {
+          "texto": "Cerca de 7,2 mil indígenas precisam de transporte para votar.",
+          "quem": "Funai, segundo o Brasil de Fato"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": {
+        "governo": "O governo e a esquerda tratam o transporte gratuito como condição para o voto dos mais pobres e dos indígenas.",
+        "oposicao": "Veículos de direita relatam as decisões sem o recorte de disputa; não encontramos crítica da oposição à gratuidade."
+      },
+      "visao_de_fora": null,
+      "ponto_cego": "A cobertura é quase toda de centro e esquerda; na direita, só o Diário do Poder noticiou o Vale do Javari.",
+      "materias": [
+        {
+          "fonte": "sbt",
+          "titulo": "Transporte gratuito no 2º turno é obrigatório",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/transporte-gratuito-no-2-turno-e-obrigatorio",
+          "angulo": "A obrigação de estados e prefeituras.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "dcm",
+          "titulo": "Justiça manda União garantir transporte e alimentação a indígenas no 2º turno",
+          "url": "https://www.diariodocentrodomundo.com.br/justica-manda-uniao-garantir-transporte-e-alimentacao-a-indigenas-no-2o-turno/",
+          "angulo": "A liminar nacional para indígenas.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "diariodopoder",
+          "titulo": "TRE-AM garante transporte para indígenas do Vale do Javari no 2º turno",
+          "url": "https://diariodopoder.com.br/brasil-e-regioes/amazonia/e10-amazonia/tre-am-garante-transporte-para-indigenas-do-vale-do-javari-no-2o-turno",
+          "angulo": "O TRE-AM e o Vale do Javari.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "istoe",
+          "titulo": "Vale do Javari regulariza transporte de eleitores para o segundo turno",
+          "url": "https://istoe.com.br/vale-do-javari-regulariza-transporte-eleitores-segundo-turno",
+          "angulo": "Relato da regularização.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Transporte público será gratuito no RS no domingo do segundo turno",
+          "url": "https://www.brasildefato.com.br/2026/10/22/transporte-publico-sera-gratuito-no-rs-no-domingo-do-segundo-turno/",
+          "angulo": "O passe livre no RS.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "folha",
+          "titulo": "Após pressão, governadora de PE edita decreto que garante transporte de graça no dia da eleição",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/apos-pressao-governadora-de-pe-edita-decreto-que-garante-transporte-de-graca-no-dia-da-eleicao.shtml",
+          "angulo": "O decreto em Pernambuco.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Eleições 2026: moradores do RJ terão transporte público gratuito no 2º turno",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/22/eleicoes-transporte-publico-gratuito.ghtml",
+          "angulo": "A gratuidade no Rio.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Funai mapeia 7,2 mil eleitores indígenas que precisam de transporte para votar no 2º turno",
+          "url": "https://www.brasildefato.com.br/2026/10/22/funai-mapeia-72-mil-eleitores-indigenas-que-precisam-de-transporte-para-votar-no-2o-turno/",
+          "angulo": "O mapeamento da Funai.",
+          "tipo": "noticia",
+          "enquadramento": "pro_governo",
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "ibovespa-cai-dolar-sobe-cautela-eleitoral",
+      "editoria": "Economia",
+      "escopo": "brasil",
+      "titulo": "Ibovespa cai 1,15% e dólar fecha a R$ 5,04 com cautela eleitoral e aversão a risco no exterior",
+      "lide": "A bolsa recuou 1,15%, aos 204.120 pontos, e o dólar subiu 0,22%, a R$ 5,038, na quinta. Os juros futuros subiram com a percepção de disputa mais acirrada no domingo, somada à queda forte das ações de tecnologia nos EUA e ao petróleo nos maiores níveis desde maio.",
+      "contexto": null,
+      "fatos": [
+        {
+          "texto": "O Ibovespa caiu 1,15%, aos 204.120 pontos; o dólar fechou em alta de 0,22%, a R$ 5,038.",
+          "base": "3 fontes independentes (g1, SBT News, Exame)"
+        },
+        {
+          "texto": "Os juros futuros subiram com a cautela eleitoral e a aversão a risco no exterior.",
+          "base": "Valor"
+        },
+        {
+          "texto": "Nos EUA, o S&P 500 e o Nasdaq caíram forte com perdas em tecnologia; o Dow Jones ficou estável.",
+          "base": "2 fontes independentes (Exame, SBT News)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "A percepção de eleição mais acirrada pressiona os juros futuros.",
+          "quem": "Valor"
+        },
+        {
+          "texto": "Temores sobre investimentos em IA derrubaram o Nasdaq.",
+          "quem": "Valor"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": null,
+      "ponto_cego": "Só veículos de economia e de centro cobriram; nenhum de esquerda ou direita tratou do mercado no dia.",
+      "materias": [
+        {
+          "fonte": "g1",
+          "titulo": "Dólar sobe e fecha a R$ 5,03 com alta do petróleo e reta final das eleições no radar; Ibovespa cai",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
+          "angulo": "Os números do fechamento.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Juros futuros têm alta firme em meio a cautela eleitoral e aversão a risco no exterior",
+          "url": "https://valor.globo.com/financas/noticia/2026/10/22/juros-futuros-tem-alta-firme-em-meio-a-cautela-eleitoral-e-aversao-a-risco-no-exterior.ghtml",
+          "angulo": "O efeito nos juros futuros.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "exame",
+          "titulo": "Cautela eleitoral e exterior derrubam Ibovespa; dólar avança e Nasdaq cai mais de 2%",
+          "url": "https://exame.com/invest/mercados/cautela-eleitoral-e-exterior-derrubam-ibovespa-dolar-avanca-e-nasdaq-cai-mais-de-2/",
+          "angulo": "O cenário externo.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "valor",
+          "titulo": "Ibovespa recua mais de 1% com menor apetite global a risco",
+          "url": "https://valor.globo.com/financas/noticia/2026/10/22/ibovespa-recua-mais-de-1percent-com-menor-apetite-global-a-risco.ghtml",
+          "angulo": "O peso da tecnologia americana.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Cautela eleitoral e exterior derrubam Ibovespa",
+          "url": "https://sbtnews.sbt.com.br/noticia/economia/cautela-eleitoral-e-exterior-derrubam-ibovespa",
+          "angulo": "Resumo do dia.",
+          "tipo": "noticia",
+          "enquadramento": "neutro",
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "terremoto-tibete-16-mortos",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Terremoto de magnitude 7 no Tibete mata ao menos 16 pessoas e derruba centenas de casas",
+      "lide": "Um terremoto de magnitude 7 atingiu o condado de Baqen, em Nagqu, na Região Autônoma do Tibete, às 22h33 de quinta (horário local). Ao menos 16 pessoas morreram, dezenas ficaram feridas e mais de 300 casas desabaram; mais de 12 mil pessoas foram levadas a locais seguros.",
+      "contexto": "Foi o tremor mais forte na China desde janeiro de 2024, segundo a imprensa chinesa.",
+      "fatos": [
+        {
+          "texto": "O terremoto teve magnitude 7 e atingiu o Tibete às 22h33 locais de quinta (11h33 de Brasília).",
+          "base": "6 fontes independentes (Folha, g1, Le Monde, Euronews, BBC, AFP)"
+        },
+        {
+          "texto": "Ao menos 16 pessoas morreram; o número de feridos subiu de 32 para 65.",
+          "base": "4 fontes independentes (CNN Brasil, NYT, Guardian, Estadão)"
+        },
+        {
+          "texto": "Mais de 300 casas desabaram.",
+          "base": "2 fontes independentes (NYT, Guardian)"
+        },
+        {
+          "texto": "Mais de 12 mil pessoas foram levadas a locais seguros, e 413 réplicas foram registradas.",
+          "base": "CNN Brasil (dados oficiais chineses)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Foi o terremoto mais forte na região em cinco anos.",
+          "quem": "Imprensa chinesa, segundo a Euronews"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, g1, Folha, Estadão, CNN Brasil e SBT noticiaram, a maioria a partir de agências.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "nyt",
+          "titulo": "Powerful Earthquake in Tibet Kills at Least 16",
+          "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+          "angulo": "\"Terremoto poderoso no Tibete mata ao menos 16\"; casas derrubadas e frio.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Número de feridos em terremoto no Tibete sobe para 65; mortes seguem em 16",
+          "url": "https://www.cnnbrasil.com.br/internacional/numero-de-feridos-em-terremoto-no-tibete-sobe/",
+          "angulo": "Atualiza feridos, evacuados e réplicas.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "g1",
+          "titulo": "Terremoto de magnitude 7,0 atinge o Tibete e mata 16 pessoas; VÍDEO mostra desespero",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/22/terremoto-atinge-o-tibete.ghtml",
+          "angulo": "Relato com vídeo.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "guardian",
+          "titulo": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+          "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+          "angulo": "\"Buscas em andamento após o tremor\"; balanço do Guardian.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Terremoto de magnitude 7 atinge região chinesa do Tibete e deixa 16 mortos",
+          "url": "https://www.estadao.com.br/internacional/terremoto-de-magnitude-7-atinge-regiao-chinesa-do-tibete-npr/",
+          "angulo": "Relato via agências.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "elpaisbrasil",
+          "titulo": "Un terremoto de magnitud 7 causa al menos 16 muertos en el Tíbet",
+          "url": "https://elpais.com/internacional/2026-10-23/un-terremoto-de-magnitud-7-causa-al-menos-16-muertos-en-el-tibet.html",
+          "angulo": "\"O tremor mais potente na China desde janeiro de 2024.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "bbc",
+          "titulo": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "angulo": "\"Área montanhosa e pouco povoada.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "sbt",
+          "titulo": "Terremoto de magnitude 7 atinge o Tibete e mata 16 pessoas",
+          "url": "https://sbtnews.sbt.com.br/noticia/mundo/terremoto-de-magnitude-7-atinge-o-tibete",
+          "angulo": "Nota curta do SBT.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "putin-acordo-final-starlink-restaurado",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Putin diz que a Rússia está pronta para negociar um acordo final; Trump afirma que Musk restaurou o Starlink da Ucrânia",
+      "lide": "Vladimir Putin disse que a Rússia está pronta para negociar um acordo final sobre a guerra, com garantias de segurança para Rússia, Ucrânia e Europa, e chamou de 'historicamente russo' o território em disputa. Trump disse que Elon Musk restabeleceu o acesso da Ucrânia ao Starlink depois de relatos de restrições. Os ataques continuaram: uma usina da DTEK parou após bombardeio russo.",
+      "contexto": "Na quarta, após a visita do enviado Steve Witkoff a Moscou, a Rússia aceitou retomar negociações trilaterais em novembro, possivelmente em Abu Dhabi.",
+      "continua": {
+        "data": "2026-10-22",
+        "id": "russia-aceita-negociar-ataques-intensificam",
+        "titulo": "Rússia aceita retomar negociações em novembro, mas ataques se intensificam dos dois lados"
+      },
+      "fatos": [
+        {
+          "texto": "Putin disse que a Rússia está pronta para negociar um acordo final e que as negociações devem focar na segurança de Rússia, Ucrânia e Europa.",
+          "base": "5 fontes independentes (Estadão, Clarín, CNN Brasil, Brasil 247, Brasil de Fato)"
+        },
+        {
+          "texto": "Trump disse que Musk restabeleceu o acesso da Ucrânia ao Starlink/Starshield.",
+          "base": "4 fontes independentes (BBC, Al Jazeera, AFP, Bloomberg)"
+        },
+        {
+          "texto": "Zelensky disse que os novos ataques russos mostram que não houve mudança na atitude de Moscou.",
+          "base": "2 fontes independentes (Estadão, AFP)"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Putin está perto de restaurar laços com os EUA sem ceder nada.",
+          "quem": "The New York Times"
+        },
+        {
+          "texto": "O governo americano manda sinais contraditórios sobre os limites ao Starshield; autoridades culpam umas às outras.",
+          "quem": "AFP"
+        },
+        {
+          "texto": "A lentidão do Starlink ajudou os russos.",
+          "quem": "Evelyn Farkas, ex-subsecretária de Defesa dos EUA, à Bloomberg"
+        },
+        {
+          "texto": "Musk nega ter restringido o acesso.",
+          "quem": "BBC"
+        }
+      ],
+      "em_disputa": [
+        {
+          "alegacao": "O acesso da Ucrânia ao Starlink foi restringido deliberadamente.",
+          "rotulo": "Contraditório",
+          "explicacao": "Kiev relatou limitações e Trump disse que o acesso foi 'restaurado'; Musk nega ter restringido, e Rubio disse que a decisão cabe a Musk.",
+          "onde_circula": "Governos dos EUA e da Ucrânia, imprensa",
+          "checagem": []
+        }
+      ],
+      "enquadramentos": null,
+      "visao_de_fora": "Brasil 247 e Brasil de Fato deram espaço às falas de Putin; a cobertura brasileira do Starlink veio só por agências.",
+      "ponto_cego": null,
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Putin diz que a Rússia está pronta para negociar um acordo final sobre a guerra com a Ucrânia",
+          "url": "https://www.estadao.com.br/internacional/putin-diz-russia-pronta-negociar-acordo-final-guerra-ucrania-npr/",
+          "angulo": "A fala de Putin.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "aljazeera",
+          "titulo": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+          "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+          "angulo": "\"Trump diz que Musk restaurou o Starlink\"; sem detalhes do processo.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "brasildefato",
+          "titulo": "Putin critica debate sobre cessar-fogo com ‘perda territorial’ da Ucrânia: ‘É território historicamente russo’",
+          "url": "https://www.brasildefato.com.br/2026/10/22/putin-critica-debate-sobre-cessar-fogo-com-perda-territorial-da-ucrania-e-territorio-historicamente-russo/",
+          "angulo": "Destaca o 'território historicamente russo'.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "nyt",
+          "titulo": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+          "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+          "angulo": "\"Putin perto de um prêmio: restaurar laços com os EUA sem ceder nada.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "bbc",
+          "titulo": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "angulo": "\"Musk nega repetidamente ter restringido o acesso.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "brasil247",
+          "titulo": "Putin defende garantias para Rússia, Ucrânia e Europa em negociação sobre fim da guerra",
+          "url": "https://www.brasil247.com/mundo/putin-defende-garantias-para-russia-ucrania-e-europa-em-negociacao-sobre-fim-da-guerra/",
+          "angulo": "Relato das garantias pedidas por Putin.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "afp",
+          "titulo": "US offers mixed messages on limits to Ukraine's Starshield system",
+          "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system",
+          "angulo": "\"EUA mandam sinais contraditórios sobre o Starshield.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Negociações devem focar na segurança da Rússia, Ucrânia e Europa, diz Putin",
+          "url": "https://www.cnnbrasil.com.br/internacional/negociacoes-devem-focar-na-seguranca-da-russia-ucrania-e-europa-diz-putin/",
+          "angulo": "Relato da fala de Putin.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "breitbart",
+          "titulo": "MS NOW's Wallace: Only 'Sociopaths' Would Slowdown Ukraine's Starlink",
+          "url": "https://www.breitbart.com/clips/2026/10/22/ms-nows-wallace-only-sociopaths-would-slowdown-ukraines-starlink/",
+          "angulo": "Breitbart reproduz crítica da MS NOW à lentidão do Starlink.",
+          "tipo": "opiniao",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "estadao",
+          "titulo": "Zelenski critica Rússia após novos ataques à Ucrânia",
+          "url": "https://www.estadao.com.br/internacional/zelenski-critica-russia-apos-novos-ataques-ucrania-npr/",
+          "angulo": "A reação de Zelensky.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "ira-ameaca-golfo-trump-novos-ataques-istambul",
+      "editoria": "Internacional",
+      "escopo": "mundo",
+      "titulo": "Irã ameaça infraestrutura de sete países do Golfo se EUA e Israel retomarem ataques; Trump sinaliza nova ofensiva",
+      "lide": "O Irã ameaçou atacar cabos submarinos, centros de dados e de IA e instalações petrolíferas em até sete países do Golfo se EUA e Israel retomarem os bombardeios. Trump disse que os EUA 'podem ir um pouco mais longe' contra o Irã, e ministros europeus e do Oriente Médio se reúnem em Istambul para discutir o Estreito de Ormuz.",
+      "contexto": "Na quarta, reportagens afirmaram que EUA e Israel preparam planos para uma ofensiva curta e intensa depois das eleições americanas de 3 de novembro.",
+      "continua": {
+        "data": "2026-10-22",
+        "id": "eua-israel-planos-ataque-ira",
+        "titulo": "EUA e Israel preparam planos para novos ataques ao Irã depois das eleições americanas, diz jornal"
+      },
+      "fatos": [
+        {
+          "texto": "O Irã ameaçou infraestrutura de até sete países do Golfo, incluindo cabos submarinos, centros de dados e instalações de IA, se os ataques forem retomados.",
+          "base": "3 fontes independentes (Estadão, CNN Brasil, Euronews)"
+        },
+        {
+          "texto": "Trump disse que os EUA podem lançar novos ataques ao Irã ('we may do it a little bit further').",
+          "base": "2 fontes independentes (Breitbart, Al Jazeera)"
+        },
+        {
+          "texto": "Ministros europeus e do Oriente Médio se reúnem em Istambul para tratar do Estreito de Ormuz.",
+          "base": "Al Jazeera"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "Os EUA estão preparados para um impasse longo com o Irã.",
+          "quem": "Enviado de Trump, ao Financial Times"
+        },
+        {
+          "texto": "Teerã diz estar mais preparado para enfrentar os EUA.",
+          "quem": "Governo iraniano, segundo a CNN Brasil"
+        },
+        {
+          "texto": "Um ataque conjunto de três dias não mudaria radicalmente o conflito.",
+          "quem": "Analistas ouvidos pela AFP"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "Para o Brasil, o risco é no petróleo: o barril já está nos maiores níveis desde maio, e uma nova escalada pressiona os combustíveis subsidiados pelo governo.",
+      "ponto_cego": "Na imprensa brasileira, só Estadão (via agência) e CNN Brasil cobriram; não encontramos matérias de esquerda nem de direita.",
+      "materias": [
+        {
+          "fonte": "estadao",
+          "titulo": "Irã ameaça infraestrutura de sete países do Golfo se EUA e Israel retomarem ofensiva, diz jornal",
+          "url": "https://www.estadao.com.br/internacional/ira-ameaca-infraestrutura-sete-paises-golfo-eua-israel-retomarem-ofensiva-npr/",
+          "angulo": "A ameaça aos países do Golfo.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "breitbart",
+          "titulo": "Trump Signals More Iran Strikes — ‘We May Do It a Little Bit Further’",
+          "url": "https://www.breitbart.com/politics/2026/10/22/trump-signals-more-iran-strikes-we-may-do-it-a-little-bit-further/",
+          "angulo": "\"Trump sinaliza mais ataques ao Irã.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Irã ameaça ampliar retaliação e cita possíveis ataques a centros de IA",
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-ameaca-ampliar-retaliacao-e-cita-possiveis-ataques-a-centros-de-ia/",
+          "angulo": "Destaca os centros de IA como alvo.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "euronews",
+          "titulo": "Gulf nations brace for possible return to all-out war between US and Iran",
+          "url": "https://www.euronews.com/2026/10/22/gulf-nations-brace-for-possible-return-to-all-out-war-between-us-and-iran",
+          "angulo": "\"Países do Golfo se preparam para a volta da guerra total.\"",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "aljazeera",
+          "titulo": "Iran war live: European, Middle East ministers meet in Istanbul for talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+          "angulo": "Cobertura ao vivo com a reunião em Istambul.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "ft",
+          "titulo": "US is prepared for long stand-off with Iran, says Trump envoy",
+          "url": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
+          "angulo": "\"EUA preparados para impasse longo\", diz enviado.",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "dw",
+          "titulo": "Is Iran ready for another major US attack after midterm elections?",
+          "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-world-4025-xml-mrss",
+          "angulo": "\"O Irã está pronto para outro grande ataque?\"",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "afp",
+          "titulo": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+          "url": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
+          "angulo": "\"Ataque de três dias não mudaria radicalmente o conflito.\"",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "vacina-mrna-melanoma-moderna-merck",
+      "editoria": "Saúde",
+      "escopo": "mundo",
+      "titulo": "Vacina de mRNA contra o câncer reduz em 42% o risco de morte ou recidiva de melanoma, dizem Moderna e Merck",
+      "lide": "Moderna e Merck anunciaram que sua vacina personalizada de mRNA, combinada à imunoterapia Keytruda, reduziu em 42% o risco de morte ou recidiva em pacientes com melanoma. As empresas vão pedir aprovação nos EUA e preveem lançamento em 2027; o resultado ficou abaixo do que o mercado esperava, e a Moderna perdeu US$ 20 bilhões em valor.",
+      "contexto": null,
+      "fatos": [
+        {
+          "texto": "A vacina reduziu em 42% o risco de morte ou recidiva de melanoma quando combinada à imunoterapia da Merck.",
+          "base": "3 fontes independentes (Folha, CNN Brasil, Exame)"
+        },
+        {
+          "texto": "As empresas vão pedir aprovação nos EUA e preveem lançar o imunizante em 2027.",
+          "base": "CNN Brasil"
+        }
+      ],
+      "inferencias": [
+        {
+          "texto": "O benefício ficou abaixo do esperado pelo mercado.",
+          "quem": "Exame"
+        }
+      ],
+      "em_disputa": [],
+      "enquadramentos": null,
+      "visao_de_fora": "No Brasil, a Merck atua como MSD; não há previsão de disponibilidade no país.",
+      "ponto_cego": "Só três veículos brasileiros, todos de centro ou centro-direita, cobriram o anúncio.",
+      "materias": [
+        {
+          "fonte": "folha",
+          "titulo": "Vacina contra câncer reduz em 42% risco de morte ou recidiva de melanoma",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/vacina-contra-cancer-reduz-em-42-risco-de-morte-ou-recidiva-de-melanoma.shtml",
+          "angulo": "Explica o estudo e a combinação com a imunoterapia.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        },
+        {
+          "fonte": "cnnbrasil",
+          "titulo": "Vacina contra câncer reduz risco de morte ou recorrência de melanoma em 42%",
+          "url": "https://www.cnnbrasil.com.br/saude/vacina-contra-cancer-reduz-risco-de-morte-ou-recorrencia-de-melanoma-em-42/",
+          "angulo": "Destaca o pedido de aprovação e o lançamento em 2027.",
+          "tipo": "noticia",
+          "enquadramento": null,
+          "data": "2026-10-23"
+        },
+        {
+          "fonte": "exame",
+          "titulo": "Moderna perde US$ 20 bi em um dia após vazamento de dados de vacina contra câncer",
+          "url": "https://exame.com/invest/mercados/moderna-perde-us-20-bi-em-um-dia-apos-vazamento-de-dados-de-vacina-contra-cancer/",
+          "angulo": "Foco na reação do mercado.",
+          "tipo": "analise",
+          "enquadramento": null,
+          "data": "2026-10-22"
+        }
+      ]
+    }
+  ]
+}

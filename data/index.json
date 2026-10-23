@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-22T11:49:05+00:00",
+ "atualizado_em": "2026-10-23T09:00:51+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-23",
+   "arquivo": "data/edicoes/2026-10-23.json",
+   "historias": 11,
+   "gerado_em": "2026-10-23T06:00:34-03:00",
+   "manchete": "Datafolha mostra Flávio com 47% e Lula com 46%: empate técnico a três dias do segundo turno"
+  },
   {
    "data": "2026-10-22",
    "arquivo": "data/edicoes/2026-10-22.json",
