@@ -1,0 +1,1564 @@
+{
+ "tipo": "edicao",
+ "data": "2026-10-24",
+ "gerado_em": "2026-10-24T06:04:42-03:00",
+ "historias": [
+  {
+   "id": "debate-globo-ana-clara-nove-dedos-checagens",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Último debate antes do 2º turno tem pedido de desculpas de Flávio, mãe de Ana Clara na plateia e tom mais contido",
+   "lide": "Lula e Flávio Bolsonaro fizeram na noite de sexta (23), na TV Globo, o último debate antes do segundo turno de domingo. Flávio pediu desculpas após chamar Lula de 'nove dedos', confundiu o nome da mãe da menina Ana Clara, convidada da campanha petista, e as checagens apontaram erros dos dois lados.",
+   "contexto": "O debate anterior, na Band, cinco dias antes, foi marcado por ataques pessoais. Ana Clara Gomes Machado, de 5 anos, morreu em 2021 em Niterói (RJ) durante ação policial; Flávio integrou a defesa do PM acusado.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "debate-globo-regras-checagem-estrategias",
+    "titulo": "Lula e Flávio fazem na Globo o último debate antes do 2º turno; equipes definem regras e estratégias"
+   },
+   "fatos": [
+    {
+     "texto": "Flávio Bolsonaro pediu desculpas a Lula durante o debate após usar a expressão 'nove dedos' ao criticar a política econômica do governo.",
+     "base": "4 fontes independentes (Revista Fórum, Valor, CNN Brasil, Folha)"
+    },
+    {
+     "texto": "Ao responder a Lula sobre o caso Ana Clara, Flávio chamou a mãe da menina, Cristiane, pelo nome da filha; ela estava na plateia como convidada da campanha de Lula e reagiu dizendo que a filha 'morreu'.",
+     "base": "5 fontes independentes (Poder360, O Globo, DCM, Gazeta do Povo, CNN Brasil)"
+    },
+    {
+     "texto": "Flávio disse confiar que o tiro que matou Ana Clara não partiu do PM Bruno Dias Delaroli, acusado pelo crime, e que quer saber o autor do disparo.",
+     "base": "3 fontes independentes (DCM, CNN Brasil, SBT News)"
+    },
+    {
+     "texto": "O debate registrou 30 pontos de audiência, com pico próximo ao da transmissão da Copa do Mundo.",
+     "base": "Poder360 (dados de audiência)"
+    },
+    {
+     "texto": "Flávio encerrou sua participação pedindo que a população reze um pai-nosso, sugestão feita pelo deputado Nikolas Ferreira.",
+     "base": "Valor"
+    },
+    {
+     "texto": "Lupa, Aos Fatos e Estadão Verifica checaram o debate em tempo real; a Lupa verificou mais de 40 declarações e apontou que Lula repetiu um erro sobre o PIB e que Flávio fez acusações já desmentidas contra o petista.",
+     "base": "3 checagens (Lupa, Aos Fatos, Estadão Verifica)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O debate não teve vencedor claro; Flávio disputou com Lula o 'título de gastador' em promessas.",
+     "quem": "Diogo Schelp, colunista do Estadão"
+    },
+    {
+     "texto": "Lula se recuperou em relação à Band e levou o adversário a pedir desculpas, mas Flávio conseguiu encaixar frases de efeito.",
+     "quem": "Análise do Valor"
+    },
+    {
+     "texto": "Lula levou vantagem, mas a eleição segue aberta e a mobilização de domingo pesa mais que o debate.",
+     "quem": "Analistas ouvidos pelo Brasil de Fato"
+    },
+    {
+     "texto": "Flávio superou Lula entre eleitores independentes na avaliação do debate; eleitores da sala da Quaest atribuíram a Flávio dois dos três melhores momentos.",
+     "quem": "Revista Oeste e Valor, com dados da Quaest"
+    },
+    {
+     "texto": "Flávio foi melhor no debate, 'mais Tarcísio e menos Marçal', mas cometeu grosseria grave contra Lula.",
+     "quem": "Fabiano Lana, colunista do Estadão"
+    },
+    {
+     "texto": "Lula perdeu boas oportunidades; Flávio apresentou propostas que se distanciam das políticas do pai.",
+     "quem": "Miriam Leitão, O Globo"
+    },
+    {
+     "texto": "O debate não foi o evento decisivo do que sairá das urnas.",
+     "quem": "William Waack, Estadão"
+    },
+    {
+     "texto": "Lula foi 'mais ponderado', mas poderia ter falado mais de futuro.",
+     "quem": "Membros da campanha de Lula, ao Valor"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O filme sobre Lula recebeu R$ 30 milhões de Daniel Vorcaro (dito por Flávio).",
+     "rotulo": "Sem evidência",
+     "explicacao": "O relato vem de uma reportagem da Veja sem comprovante de pagamento; PF e PGR negam depoimento de Vorcaro com esse teor, e Instituto Lula e produtores negam ter recebido o dinheiro.",
+     "onde_circula": "debate da Globo e redes",
+     "checagem": [
+      {
+       "nome": "Revista Fórum (Contra Fake)",
+       "url": "https://revistaforum.com.br/blogs/contra-fake/checagem-debate-globo-f05-o-audio-do-vorcaro-fala-em-r-30-milhoes-por/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Os juros futuros caíram 2% depois que Flávio passou à frente no primeiro turno.",
+     "rotulo": "Exagerado",
+     "explicacao": "Os juros futuros caíram com força após o primeiro turno, mas a queda chegou perto de 2 pontos percentuais só nos contratos mais longos; nos vencimentos curtos foi bem menor.",
+     "onde_circula": "debate da Globo",
+     "checagem": [
+      {
+       "nome": "Revista Fórum (Contra Fake)",
+       "url": "https://revistaforum.com.br/blogs/contra-fake/checagem-debate-globo-f37-quando-passei-a-frente-no-1o-turno-a-taxa-de/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A PEC da Segurança do governo Lula era para controlar as polícias (dito por Flávio).",
+     "rotulo": "Distorcido",
+     "explicacao": "O texto original dava à União poder de legislar sobre normas gerais e coordenar o sistema, mas não transferia ao governo federal o comando das polícias estaduais.",
+     "onde_circula": "debate da Globo",
+     "checagem": [
+      {
+       "nome": "Revista Fórum (Contra Fake)",
+       "url": "https://revistaforum.com.br/blogs/contra-fake/checagem-debate-globo-n48-flavio-bolsonaro-disse-que-a-pec-da-seguranc/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A Casa da Mulher Brasileira ainda precisa ser criada (dito por Flávio).",
+     "rotulo": "Falso",
+     "explicacao": "O programa existe desde 2013, foi mantido no governo Jair Bolsonaro e tinha 11 unidades em funcionamento em fevereiro de 2026.",
+     "onde_circula": "debate da Globo",
+     "checagem": [
+      {
+       "nome": "Revista Fórum (Contra Fake)",
+       "url": "https://revistaforum.com.br/blogs/contra-fake/checagem-debate-casa-mulher-brasileira/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O governo perdoou 'anteontem' quase R$ 15 bilhões em dívidas de 4 milhões de MEIs (dito por Lula).",
+     "rotulo": "Falta contexto",
+     "explicacao": "Lula sancionou em 21 de outubro a lei que perdoa dívidas tributárias federais de MEIs (estimativa oficial de 3,6 milhões de beneficiados e R$ 18,7 bilhões), mas o perdão só vale a partir de janeiro de 2027.",
+     "onde_circula": "debate da Globo",
+     "checagem": [
+      {
+       "nome": "Revista Fórum (Contra Fake)",
+       "url": "https://revistaforum.com.br/blogs/contra-fake/checagem-debate-globo-n56-lula-afirmou-que-anteontem-o-governo-perdoou/"
+      }
+     ]
+    },
+    {
+     "alegacao": "'Vocês fizeram o Vorcaro banqueiro, eu fiz prisioneiro' (dito por Lula).",
+     "rotulo": "Falta contexto",
+     "explicacao": "A compra do banco que virou o Master foi autorizada pelo BC em 2019 e Vorcaro foi preso em 2025, mas nenhum dos dois fatos foi decisão de presidente.",
+     "onde_circula": "debate da Globo",
+     "checagem": [
+      {
+       "nome": "Revista Fórum (Contra Fake)",
+       "url": "https://revistaforum.com.br/blogs/contra-fake/checagem-debate-globo-l31-voces-fizeram-o-vorcaro-banqueiro-eu-fiz-pri/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A campanha de Lula destaca o pedido de desculpas de Flávio, a confusão com o nome da mãe de Ana Clara e diz que o presidente foi mais ponderado.",
+    "oposicao": "Aliados de Flávio destacam o tom propositivo do senador, a avaliação favorável entre independentes e insistem na relação de Lula com Vorcaro."
+   },
+   "visao_de_fora": "La Nación listou as menções à Argentina no debate, de Cristina Kirchner à 'motosserra' de Milei; a Gazeta do Povo diz que a imprensa internacional destacou críticas dos dois lados.",
+   "ponto_cego": "Veículos de direita (Oeste, Gazeta) trataram a presença da mãe de Ana Clara como estratégia da campanha de Lula e não checaram as falas de Flávio; veículos de esquerda (Fórum, DCM, 247) quase não checaram as falas de Lula.",
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/caso-ana-clara-e-fala-sobre-nove-dedos-marcam-ultimo-debate-entre-lula-e-flavio-veja-como-foi-em-10-pontos.shtml",
+     "angulo": "Resume o debate em 10 pontos, com os dois episódios mais comentados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Flávio muda o tom na Globo e prioriza propostas no último debate contra Lula",
+     "url": "https://revistaoeste.com/politica/flavio-muda-o-tom-na-globo-e-prioriza-propostas-no-ultimo-debate-contra-lula/",
+     "angulo": "Destaca o tom mais sóbrio de Flávio e a prioridade a propostas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula faz Flávio Bolsonaro pedir desculpas por chamá-lo de “nove dedos” no debate da Globo",
+     "url": "https://revistaforum.com.br/politica/lula-faz-flavio-bolsonaro-pedir-desculpas-9-dedos-debate/",
+     "angulo": "Enfatiza o pedido de desculpas como derrota de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Em debate sem vencedor claro, Flávio disputa título de gastador com Lula",
+     "url": "https://www.estadao.com.br/politica/diogo-schelp/em-debate-sem-vencedor-claro-flavio-disputa-titulo-de-gastador-com-lula/",
+     "angulo": "Coluna: nenhum vencedor claro; os dois disputaram promessas de gastos.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Na “Globo”, mãe de Ana Clara grita a Flávio que filha “morreu”",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/na-globo-mae-de-ana-clara-grita-a-flavio-que-filha-morreu/",
+     "angulo": "Reporta a reação da mãe de Ana Clara na plateia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Flávio supera Lula entre independentes em avaliação do debate da Globo",
+     "url": "https://revistaoeste.com/politica/flavio-supera-lula-entre-independentes-em-avaliacao-do-debate-da-globo/",
+     "angulo": "Destaca pesquisa em que Flávio venceu entre independentes.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula leva vantagem sobre Flávio em debate da Globo, mas eleição segue aberta e mobilização popular pode decidir, avaliam analistas",
+     "url": "https://www.brasildefato.com.br/2026/10/24/lula-leva-vantagem-sobre-flavio-em-debate-da-globo-mas-eleicao-segue-aberta-e-mobilizacao-popular-pode-decidir-avaliam-analistas/",
+     "angulo": "Analistas veem vantagem de Lula, mas eleição aberta.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "'Ana Clara, quero falar para a senhora': Flávio chama mãe de menina morta por PM pelo nome da filha em debate da Globo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ana-clara-quero-falar-para-a-senhora-flavio-chama-mae-de-menina-morta-por-pm-pelo-nome-da-filha-em-debate-da-globo.ghtml",
+     "angulo": "Foca na confusão de Flávio com o nome da mãe da menina.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ex de Janones e mãe de Ana Clara: Lula e Flávio levam convidados estratégicos para tensionar debate",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/ex-de-janones-e-mae-de-ana-clara-lula-e-flavio-levam-convidados-estrategicos-para-tensionar-debate/",
+     "angulo": "Trata os convidados dos dois lados como estratégia para tensionar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Análise: Lula se recupera e soa mais ofensivo no debate da Globo, enquanto Flávio consegue encaixar frases de efeito",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-se-recupera-e-soa-mais-ofensivo-no-debate-da-globo-enquanto-flavio-consegue-encaixar-frases-de-efeito.ghtml",
+     "angulo": "Análise: Lula se recuperou, Flávio encaixou frases de efeito.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Debate de Lula e Flávio na “Globo” chega a 30 pontos de audiência",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/debate-de-lula-e-flavio-na-globo-chega-a-30-pontos-de-audiencia/",
+     "angulo": "Audiência de 30 pontos, perto da Copa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "Na Globo, Lula repete erro sobre PIB; Flávio faz acusações falsas e já desmentidas contra petista",
+     "url": "https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/",
+     "angulo": "Checagem da Lupa: erro de Lula sobre PIB, acusações já desmentidas de Flávio.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "Checamos Flávio Bolsonaro e Lula no debate da Globo",
+     "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-lula-debate-globo/",
+     "angulo": "Checagem em tempo real do Aos Fatos.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Checamos o debate entre Flávio e Lula na Globo; confira",
+     "url": "https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/",
+     "angulo": "Checagem do Estadão Verifica.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Mais Tarcísio e menos Marçal: Flávio foi melhor no debate, mas cometeu grosseria grave contra Lula",
+     "url": "https://www.estadao.com.br/politica/fabiano-lana/mais-tarcisio-e-menos-marcal-flavio-foi-melhor-no-debate-mas-cometeu-grosseria-grave-contra-lula/",
+     "angulo": "Coluna: Flávio foi melhor, mas cometeu grosseria grave.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Todas las menciones a la Argentina en el último debate entre Lula y Flavio Bolsonaro: de Cristina Kirchner a la motosierra de Milei",
+     "url": "https://www.lanacion.com.ar/el-mundo/todas-las-menciones-a-la-argentina-en-el-ultimo-debate-entre-lula-y-flavio-bolsonaro-de-cristina-nid24102026/",
+     "angulo": "Olhar argentino: as menções a Cristina e à motosserra de Milei.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "meta-google-x-exercito-do-lula-cueva-nikolas-marcal",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Meta, Google e X dizem ao TSE não ter achado irregularidades no 'Exército do Lula'; corregedor restringe Nikolas e Marçal",
+   "lide": "As três plataformas responderam ao presidente do TSE, Kassio Nunes Marques, que não encontraram violações no canal de WhatsApp comandado por André Janones, que passou de 10 milhões de participantes. No mesmo dia, o corregedor Ricardo Villas Bôas Cueva proibiu Nikolas Ferreira e Pablo Marçal de publicar conteúdo falso até a eleição, sob multa de R$ 100 mil por post, mas rejeitou proibir que as plataformas recomendem seus perfis.",
+   "contexto": "Nunes Marques havia dado 24 horas às plataformas para relatório sobre o canal. O ministro Floriano de Azevedo Marques decidiu que a Presidência do TSE não pode suspender o canal administrativamente sem o plenário.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "tse-meta-exercito-do-lula-nikolas-prazos",
+    "titulo": "TSE dá 24 horas para Meta explicar 'Exército do Lula' e abre prazo para Nikolas e Marçal"
+   },
+   "fatos": [
+    {
+     "texto": "Meta, Google e X informaram a Nunes Marques, na sexta (23), não ter identificado irregularidades no canal 'Exército do Lula'; o X relatou atuação coordenada de hashtags, mas com predominância de usuários autênticos.",
+     "base": "5 fontes independentes (Estadão, Jota, Revista Oeste, Brasil de Fato, Gazeta do Povo)"
+    },
+    {
+     "texto": "O canal passou de 10 milhões de seguidores no WhatsApp na tarde de sexta.",
+     "base": "3 fontes independentes (Valor, SBT News, Gazeta do Povo)"
+    },
+    {
+     "texto": "Cueva vedou a publicação de conteúdo falso por Nikolas Ferreira e Pablo Marçal até a eleição, com multa de R$ 100 mil por publicação, e determinou que Meta e X apresentem relatórios a cada seis horas sobre os posts dos dois.",
+     "base": "4 fontes independentes (Folha, CNN Brasil, Revista Fórum, Congresso em Foco)"
+    },
+    {
+     "texto": "Cueva rejeitou o pedido da campanha de Lula para impedir a Meta de recomendar os perfis de Nikolas e Marçal.",
+     "base": "2 fontes independentes (Estadão, Terra)"
+    },
+    {
+     "texto": "O ministro Floriano de Azevedo Marques, a pedido da campanha de Lula, decidiu que a Presidência do TSE não pode determinar administrativamente nova suspensão do canal.",
+     "base": "2 fontes independentes (Opera Mundi, Valor)"
+    },
+    {
+     "texto": "Cueva mandou a 'Tropa do Flávio' retirar áudio enganoso sobre voto de mesários, sob pena de suspensão, mas rejeitou derrubar o canal.",
+     "base": "Jota"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão de Floriano é correta e a suspensão do canal exigiria apuração judicial.",
+     "quem": "Especialistas ouvidos pelo Valor"
+    },
+    {
+     "texto": "O pedido de Kassio às big techs é 'judicialização freestyle' que ajuda a campanha de Flávio.",
+     "quem": "Professor da UFF, à Agência Pública"
+    },
+    {
+     "texto": "Ministros do TSE avaliam que Nunes Marques extrapola as prerrogativas de presidente e amplia a desordem na corte.",
+     "quem": "Ministros do TSE ouvidos pela Folha, sem identificação"
+    },
+    {
+     "texto": "As medidas contra Nikolas e Marçal podem levar à suspensão dos perfis em caso de reincidência.",
+     "quem": "Revista Fórum, sobre a decisão de Cueva"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Mesários estariam votando em Lula no lugar de eleitores ausentes após as 17h, principalmente no Nordeste.",
+     "rotulo": "Falso",
+     "explicacao": "O TSE tem procedimentos de identificação, habilitação e registro de comparecimento que impedem um eleitor de votar no lugar de outro; o corregedor mandou retirar o áudio do canal 'Tropa do Flávio'.",
+     "onde_circula": "canal 'Tropa do Flávio' e redes",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/procedimentos-de-seguranca-impedem-que-mesarios-votem-no-lugar-de-eleitores-ausentes-apos-as-17h/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A campanha de Lula diz que as respostas das plataformas comprovam a legalidade do canal e cobra rigor contra Nikolas e Marçal.",
+    "oposicao": "Aliados de Flávio dizem que o canal é máquina de disparo coordenado e veem censura nas restrições a Nikolas e Marçal."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Oeste, Gazeta) cobriram a resposta das plataformas, mas deram pouco destaque às restrições a Nikolas e Marçal e ao áudio enganoso da 'Tropa do Flávio'.",
+   "materias": [
+    {
+     "fonte": "jota",
+     "titulo": "A Nunes Marques, Meta e Google dizem que não encontraram irregularidades no ‘Exército do Lula’",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/a-nunes-marques-meta-e-google-dizem-que-nao-encontraram-irregularidades-no-exercito-do-lula",
+     "angulo": "Destaca o detalhe do X: hashtags coordenadas, mas usuários autênticos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Big techs não identificam irregularidades no Exército do Lula",
+     "url": "https://revistaoeste.com/politica/ibig-techs-i-nao-identificam-irregularidades-no-exercito-do-lula/",
+     "angulo": "Noticia a resposta das plataformas sem questionar o pedido de Kassio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "TSE proíbe Nikolas e Marçal de publicarem conteúdo falso até a eleição sob pena de R$ 100 mil de multa",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/tse-proibe-nikolas-e-marcal-de-publicarem-conteudo-falso-ate-a-eleicao-sob-pena-r-100-mil-de-multa.shtml",
+     "angulo": "A decisão de Cueva, com a multa e os relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Em resposta a Nunes Marques, Meta, X e Google dizem que não encontraram irregularidades no canal ‘Exército do Lula’",
+     "url": "https://www.brasildefato.com.br/2026/10/23/em-resposta-a-nunes-marques-meta-diz-que-nao-encontrou-irregularidade-no-canal-exercito-do-lula/",
+     "angulo": "Enfatiza que o canal foi liberado pelas três empresas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Após pente-fino, Meta, Google e X descartam violação de regras no canal “Exército do Lula”",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/apos-pente-fino-meta-google-e-x-descartam-violacao-de-regras-no-canal-exercito-do-lula/",
+     "angulo": "Chama de 'pente-fino' e registra os 10 milhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "TSE rejeita pedido de Lula para proibir plataformas de recomendar perfis de Nikolas e Marçal",
+     "url": "https://www.estadao.com.br/politica/tse-rejeita-pedido-de-lula-para-proibir-plataformas-de-recomendar-perfis-de-nikolas-e-marcal/",
+     "angulo": "Destaca a derrota da campanha de Lula no pedido sobre recomendação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "TSE impõe restrições a Nikolas e Marçal e ameaça suspender perfis nas redes",
+     "url": "https://revistaforum.com.br/revista-forum/tse-restricoes-nikolas-e-marcal/",
+     "angulo": "Enfatiza a ameaça de suspensão dos perfis.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Corregedor barra recomendação de posts eleitorais de Nikolas e Marçal",
+     "url": "https://www.congressoemfoco.com.br/noticia/123586/corregedor-barra-recomendacao-de-posts-eleitorais-de-nikolas-e-marcal",
+     "angulo": "Lê a decisão como barreira à recomendação, com multas de até R$ 500 mil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Ministro do TSE proíbe suspensão do ‘Exército do Lula’ sem aval do plenário",
+     "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/ministro-do-tse-proibe-suspensao-do-exercito-do-lula-sem-aval-do-plenario/",
+     "angulo": "A decisão de Floriano, pelo lado da campanha de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "‘Judicialização freestyle’ de Kassio mira Exército do Lula e ajuda Flávio, diz professor",
+     "url": "https://apublica.org/2026/10/judicializacao-freestyle-de-kassio-mira-exercito-do-lula-e-ajuda-flavio-diz-professor/",
+     "angulo": "Crítica acadêmica ao pedido de Kassio.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Cueva manda retirar áudio enganoso sobre voto de mesários de ‘Tropa do Flávio’ sob pena de suspensão",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/cueva-manda-retirar-audio-enganoso-sobre-voto-de-mesarios-de-tropa-do-flavio-sob-pena-de-suspensao",
+     "angulo": "O lado da 'Tropa do Flávio': áudio enganoso sobre mesários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ministros do TSE veem Kassio extrapolar poderes de presidente e ampliar desordem na corte às vésperas do 2° turno",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/ministros-do-tse-veem-kassio-extrapolar-poderes-de-presidente-e-ampliar-desordem-na-corte-as-vesperas-do-2-turno.shtml",
+     "angulo": "Bastidores: ministros do TSE criticam Kassio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "moraes-bloqueia-6-bi-willer-tomaz-alcazar",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Moraes bloqueia até R$ 6 bilhões de Willer Tomaz e quebra sigilos de holding do advogado amigo de Flávio",
+   "lide": "O ministro Alexandre de Moraes determinou na sexta (23) o bloqueio de até R$ 6 bilhões em bens do advogado Willer Tomaz, a quebra dos sigilos bancário, fiscal e cambial da Alcazar Holding, o cancelamento de seus passaportes e a suspensão das atividades de suas empresas. Folha e ICL revelaram que Flávio Bolsonaro advogou durante a campanha para um cliente que também tem Tomaz na defesa.",
+   "contexto": "Tomaz é investigado pela PF por suspeita de lavagem de dinheiro e teve conta conjunta com Flávio Bolsonaro. A PF apontou nesta semana uma 'sala secreta' em imóvel ligado a ele.",
+   "continua": {
+    "data": "2026-10-22",
+    "id": "willer-tomaz-sala-secreta-richarlison",
+    "titulo": "PF aponta 'sala secreta' de Willer Tomaz e pergunta sobre casa de Richarlison; Flávio nega sociedade"
+   },
+   "fatos": [
+    {
+     "texto": "Moraes determinou o bloqueio de até R$ 6 bilhões em bens e valores de Willer Tomaz.",
+     "base": "6 fontes independentes (Gazeta do Povo, Brasil de Fato, O Globo, CartaCapital, Agência Brasil, Congresso em Foco)"
+    },
+    {
+     "texto": "O ministro decretou a quebra dos sigilos bancário, fiscal e cambial da Alcazar Holding, com dados a serem enviados em 24 horas, e ampla análise dos correntistas da empresa.",
+     "base": "4 fontes independentes (Folha, DCM, g1, Gazeta do Povo)"
+    },
+    {
+     "texto": "Moraes cancelou os passaportes do advogado e suspendeu as atividades de suas empresas.",
+     "base": "2 fontes independentes (Gazeta do Povo, Congresso em Foco)"
+    },
+    {
+     "texto": "Flávio Bolsonaro apresentou petição no STJ, em disputa entre sócios da Simas Industrial de Alimentos, no dia da votação do fim da escala 6x1; a defesa do empresário também inclui Willer Tomaz.",
+     "base": "3 fontes independentes (Folha, DCM, ICL Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A PF achou nota de Tomaz citando indiciado no caso Abin Paralela e '180 mil dólares'; os dois negam relação.",
+     "quem": "Agência Pública"
+    },
+    {
+     "texto": "Flávio e Tomaz ampliaram ações judiciais contra veículos de imprensa e jornalistas na reta final.",
+     "quem": "ICL Notícias"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados de Lula tratam a decisão como mais um elo entre Flávio e um investigado por lavagem de dinheiro.",
+    "oposicao": "A campanha de Flávio diz que o senador nunca foi sócio de Tomaz e vê uso eleitoral das investigações às vésperas do segundo turno."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita cobriram o bloqueio pelo noticiário factual, mas não repercutiram a advocacia de Flávio para cliente de Tomaz durante a campanha; não achamos reação da defesa de Tomaz nos feeds.",
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Moraes determina quebra sigilos e bloqueia R$ 6 bilhões de advogado ligado a Flávio Bolsonaro",
+     "url": "https://www.gazetadopovo.com.br/republica/moraes-determina-quebra-sigilos-e-bloqueia-r-6-bilhoes-de-advogado-ligado-a-flavio-bolsonaro/",
+     "angulo": "Noticiário factual, inclui passaportes e empresas suspensas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Moraes manda bloquear R$ 6 bilhões de Willer Tomaz, que tinha conta conjunta com Flávio Bolsonaro",
+     "url": "https://www.brasildefato.com.br/2026/10/23/moraes-manda-bloquear-r-6-bilhoes-de-willer-tomaz-que-tinha-conta-conjunta-com-flavio-bolsonaro/",
+     "angulo": "Destaca a conta conjunta com Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Moraes manda bloquear até R$ 6 bilhões de advogado ligado a Flávio Bolsonaro e determina quebra de sigilo de empresas",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/moraes-manda-bloquear-ate-r-6-bilhoes-de-advogado-ligado-a-flavio-bolsonaro-e-determina-quebra-de-sigilo-de-empresas.ghtml",
+     "angulo": "Enfatiza a suspeita de lavagem de dinheiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz",
+     "angulo": "Agência oficial: as medidas, sem o contexto eleitoral.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio Bolsonaro advogou durante campanha para cliente de Willer e peticionou em dia da votação da 6x1",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-advogou-durante-campanha-para-cliente-de-willer-e-peticionou-em-dia-da-votacao-da-6x1.shtml",
+     "angulo": "Revela a atuação de Flávio como advogado durante a campanha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Moraes quebra sigilos de empresa de Willer Tomaz, amigo de Flávio Bolsonaro",
+     "url": "https://www.diariodocentrodomundo.com.br/moraes-quebra-sigilos-de-empresa-de-willer-tomaz-amigo-de-flavio-bolsonaro/",
+     "angulo": "Destaca o prazo de 24 horas e a amizade com Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Moraes determinou bloqueio de bens e quebra de sigilos de Willer Tomaz",
+     "url": "https://www.congressoemfoco.com.br/noticia/123588/moraes-determinou-bloqueio-de-bens-e-quebra-de-sigilos-de-willer-tomaz",
+     "angulo": "Factual, com o cancelamento de passaportes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "PF acha nota de Willer Tomaz citando indiciado no caso Abin Paralela e “180 mil dólares”",
+     "url": "https://apublica.org/2026/10/pf-acha-nota-de-willer-tomaz-citando-indiciado-no-caso-abin-paralela-e-180-mil-dolares/",
+     "angulo": "Liga Tomaz ao caso Abin Paralela.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
+     "url": "https://www.cartacapital.com.br/justica/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz/",
+     "angulo": "Apresenta Tomaz pela amizade com Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "sigilos-mendonca-reitera-campanhas-trocam-acusacoes",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Mendonça reitera que TSE não fiscaliza 'desafios' de sigilo; campanhas trocam acusações sobre quem descumpriu o acordo",
+   "lide": "O vice-presidente do TSE, André Mendonça, manteve na sexta (23) a decisão de que Lula e Flávio podem abrir seus sigilos por conta própria e que a corte não arbitra 'desafios' entre candidatos. A campanha de Lula diz que Flávio 'fugiu do compromisso'; aliados de Flávio chamam a quebra de sigilos de Lula de 'cortina de fumaça'.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "mendonca-sigilos-ato-proprio-lula-recorre",
+    "titulo": "Mendonça diz que Lula e Flávio podem abrir sigilos por ato próprio; campanha de Lula recorre"
+   },
+   "fatos": [
+    {
+     "texto": "Mendonça reiterou, após novas manifestações das campanhas, que os candidatos podem abrir os sigilos sem aval do TSE e que a corte não fiscaliza 'desafios'.",
+     "base": "3 fontes independentes (g1, Gazeta do Povo, Diário do Poder)"
+    },
+    {
+     "texto": "A coordenação da campanha de Lula acusou Flávio de não cumprir o acordo de abertura simultânea dos sigilos.",
+     "base": "2 fontes independentes (Opera Mundi, A Tarde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Flávio não entregou sigilo completo e omitiu a Dark Horse.",
+     "quem": "Guilherme Boulos, ministro da Secretaria-Geral da Presidência"
+    },
+    {
+     "texto": "A quebra de sigilos de Lula é 'cortina de fumaça'; os dados de Flávio serão divulgados quando o petista apresentar os dele.",
+     "quem": "Deltan Dallagnol, aliado de Flávio"
+    },
+    {
+     "texto": "Documento obtido pela PF indica que empresa de Fabiano Zettel, braço-direito de Vorcaro, enviou R$ 12 milhões à Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme Dark Horse.",
+     "quem": "The Intercept Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A campanha de Lula diz que o presidente cumpriu o acordo e que Flávio fugiu do compromisso, omitindo a Dark Horse.",
+    "oposicao": "Aliados de Flávio dizem que Lula não abriu de fato os sigilos e usam o tema como distração."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A cobertura de direita quase não registrou a acusação de Boulos sobre a Dark Horse; a de esquerda não repercutiu a versão de Dallagnol de que Lula ainda não entregou seus dados.",
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Após novas manifestações, Mendonça reitera que Lula e Flávio podem abrir sigilos por conta própria e que TSE não fiscaliza 'desafios'",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml",
+     "angulo": "Reporta a nova decisão com as manifestações das campanhas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Mendonça descarta ser “árbitro” de sigilos de Lula e Flávio e diz que TSE não fiscaliza “desafios”",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/medonca-descarta-ser-arbitro-de-sigilos-de-lula-e-flavio-e-diz-que-tse-nao-fiscaliza-desafios/",
+     "angulo": "Destaca que cabe aos candidatos decidir.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Campanha de Lula diz que Flávio Bolsonaro ‘fugiu do compromisso’ de abrir sigilos",
+     "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/campanha-de-lula-diz-que-flavio-bolsonaro-fugiu-do-compromisso-de-abrir-sigilos/",
+     "angulo": "O lado da campanha de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Dallagnol: quebra de sigilos de Lula é 'cortina de fumaça'",
+     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/dallagnol-quebra-de-sigilos-de-lula-e-cortina-de-fumaca",
+     "angulo": "O lado de Flávio, pela voz de Dallagnol.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Flávio Bolsonaro não entregou sigilo completo e omitiu Dark Horse",
+     "url": "https://atarde.com.br/eleicoes/flavio-bolsonaro-nao-entregou-sigilo-completo-e-omitiu-dark-horse-1406905",
+     "angulo": "Acusação de Boulos sobre a Dark Horse.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Mendonça rejeita pedido de Lula e mantém decisão sobre sigilo no TSE",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e12-brasil/mendonca-rejeita-pedido-de-lula-e-mantem-decisao-sobre-sigilo-no-tse",
+     "angulo": "Lê a decisão como derrota de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "intercept",
+     "titulo": "Documento obtido pela PF contradiz Flávio e aponta dinheiro ilegal de Vorcaro para ‘Dark Horse",
+     "url": "https://www.intercept.com.br/2026/10/23/documento-pf-flavio-dinheiro-ilegal-vorcaro-dark-horse/",
+     "angulo": "Reportagem sobre documento da PF que contradiz Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "datafolha-economia-violencia-prioridades-df",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Datafolha: 60% esperam melhora da economia, violência lidera prioridades e Flávio vence no DF",
+   "lide": "Pesquisas Datafolha divulgadas na sexta (23) mostram que 60% dos brasileiros esperam melhora da economia em seis meses (eram 36% em junho), 25% apontam o combate à violência como prioridade do próximo presidente e 49% se dizem confiantes contra 48% com medo do futuro. No Distrito Federal, Flávio tem 51% a 42% nos votos totais.",
+   "contexto": "As últimas pesquisas de intenção de voto do segundo turno saem neste sábado (24), ao menos onze delas, segundo levantamento do Brasil de Fato.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "datafolha-empate-50-50-reta-final",
+    "titulo": "Datafolha mostra Flávio com 47% e Lula com 46%: empate técnico a três dias do segundo turno"
+   },
+   "fatos": [
+    {
+     "texto": "60% esperam que a economia melhore nos próximos seis meses, 19% que fique como está e 12% que piore; em junho, 36% esperavam melhora.",
+     "base": "2 fontes independentes (Folha, g1)"
+    },
+    {
+     "texto": "Para 25% dos entrevistados, combater a violência deve ser a prioridade do presidente eleito; 69% a citam entre as prioridades.",
+     "base": "2 fontes independentes (g1, Folha)"
+    },
+    {
+     "texto": "No Distrito Federal, Flávio Bolsonaro tem 51% e Lula 42% dos votos totais, ou 55% a 45% dos válidos.",
+     "base": "2 fontes independentes (g1, Folha)"
+    },
+    {
+     "texto": "43% se dizem otimistas com o Brasil e 36% pessimistas; 59% consideram o fim da escala 6x1 positivo para a vida pessoal; 27% veem a China como parceiro comercial confiável e 22% dizem o mesmo dos EUA.",
+     "base": "g1 (recortes do Datafolha)"
+    },
+    {
+     "texto": "49% se dizem confiantes e 48% com medo do futuro do Brasil.",
+     "base": "Folha (Datafolha)"
+    }
+   ],
+   "inferencias": [],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A campanha de Lula destaca a melhora da expectativa econômica e a aprovação ao fim da 6x1.",
+    "oposicao": "Aliados de Flávio destacam a violência como prioridade e a vantagem no DF."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Os dados temáticos do Datafolha circularam quase só em g1 e Folha (grupos que encomendam ou repercutem o instituto); veículos de direita e de esquerda não os repercutiram nos feeds.",
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Às vésperas do 2º turno, 60% esperam melhora na economia do país, aponta Datafolha",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/as-vesperas-do-2o-turno-60-esperam-melhora-na-economia-do-pais-aponta-datafolha.shtml",
+     "angulo": "Os dados de expectativa econômica.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Datafolha: 25% dizem que combater a violência deve ser a prioridade do presidente eleito",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-violencia-presidente.ghtml",
+     "angulo": "Prioridades: violência em primeiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Datafolha: No DF, Flávio Bolsonaro tem 55% dos votos válidos contra 45% de Lula",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-df-flavio-bolsonaro-tem-55-dos-votos-validos-contra-45-de-lula.shtml",
+     "angulo": "DF em votos válidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Datafolha: 60% acreditam que economia do país vai melhorar nos próximos 6 meses, e 66% afirmam que sua situação também será melhor",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-23-outubro-expectativa-economia.ghtml",
+     "angulo": "Expectativa econômica, com a série desde junho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Datafolha, AtlasIntel, Quaest: quando saem as últimas pesquisas do segundo turno das eleições",
+     "url": "https://www.brasildefato.com.br/2026/10/23/datafolha-atlasintel-quaest-quando-saem-as-ultimas-pesquisas-do-segundo-turno-das-eleicoes/",
+     "angulo": "Calendário das últimas pesquisas de sábado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Datafolha, Quaest e mais: veja horários de divulgação das últimas pesquisas",
+     "url": "https://www.metropoles.com/brasil/datafolha-quaest-e-mais-veja-horarios-de-divulgacao-das-ultimas-pesquisas",
+     "angulo": "Horários de divulgação das pesquisas finais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "bc-protecao-consumidor-credito-aval-previo",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "BC aprova regras que exigem autorização prévia para oferta de crédito a clientes vulneráveis e limitam propaganda",
+   "lide": "O Banco Central aprovou na sexta (23) três resoluções para reforçar a responsabilidade dos bancos na oferta de crédito e prevenir o superendividamento. A oferta ativa a clientes em vulnerabilidade financeira passará a exigir autorização prévia, e a propaganda de empréstimos terá novas regras a partir do próximo ano.",
+   "fatos": [
+    {
+     "texto": "O BC aprovou três resoluções para ampliar a proteção do consumidor nas relações de crédito e prevenir o endividamento excessivo.",
+     "base": "5 fontes independentes (Estadão, Valor, Agência Brasil, Folha, InfoMoney)"
+    },
+    {
+     "texto": "A oferta ativa de crédito a clientes em situação de vulnerabilidade financeira exigirá autorização prévia do cliente.",
+     "base": "2 fontes independentes (Valor, Estadão)"
+    },
+    {
+     "texto": "As propagandas de empréstimos obedecerão a novas regras a partir do próximo ano.",
+     "base": "Agência Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O anúncio, a dois dias do segundo turno, mira os abusos em ofertas que favorecem o superendividamento.",
+     "quem": "Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Nenhum veículo de esquerda ou de direita nos feeds cobriu a medida; a cobertura ficou com imprensa econômica e agência oficial. Não encontramos a reação dos bancos (Febraban).",
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "BC aprova medidas para apertar proteção na oferta de crédito e prevenir endividamento excessivo",
+     "url": "https://www.estadao.com.br/economia/bc-aprova-medidas-para-apertar-protecao-na-oferta-de-credito-e-prevenir-endividamento-excessivo/",
+     "angulo": "Enfatiza o aperto sobre os bancos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "BC aumenta proteção a consumidor de crédito; regra exigirá aval prévio para oferta a vulneráveis",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/23/bc-aumenta-protecao-a-consumidor-de-credito-regra-exigira-aval-previo-para-oferta-a-vulneraveis.ghtml",
+     "angulo": "Detalha a autorização prévia para vulneráveis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "BC passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/23/bc-exige-autorizacao-previa-para-oferecer-credito-a-clientes-em-situacao-de-vulnerabilidade-financeira.ghtml",
+     "angulo": "Foca no cliente em risco de endividamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "BC reforça regras de proteção ao consumidor nas ofertas de crédito",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito",
+     "angulo": "Agência oficial: destaque às regras de propaganda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "BC anuncia medidas para coibir abusos nas ofertas de crédito que favoreçam superendividamento",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/bc-anuncia-medidas-para-coibir-abusos-nas-ofertas-de-credito-que-favorecam-superendividamento.shtml",
+     "angulo": "Registra o timing eleitoral do anúncio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "BC aprova medidas para ampliar proteção de consumidor financeiro em crédito",
+     "url": "https://www.infomoney.com.br/economia/bc-aprova-medidas-para-ampliar-protecao-de-consumidor-financeiro-em-credito/",
+     "angulo": "Cobertura para investidores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "vespera-2-turno-locais-de-votacao-nunes-marques-tv",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Às vésperas do 2º turno, TSE altera locais de votação e Nunes Marques fará pronunciamento na TV",
+   "lide": "O presidente do TSE fará pronunciamento neste sábado (24) sobre as mudanças de locais de votação. A Agência Pública contou 453 seções alteradas nos últimos dois dias, 249 delas vencidas por Lula no primeiro turno; em São Paulo, cinco locais mudaram. O TSE orienta os 158 milhões de eleitores a conferir o endereço antes de sair.",
+   "fatos": [
+    {
+     "texto": "Kassio Nunes Marques fará pronunciamento na TV no sábado (24) sobre as alterações nos locais de votação.",
+     "base": "Valor"
+    },
+    {
+     "texto": "Alterações divulgadas nos últimos dois dias atingem 453 seções; no primeiro turno, Lula venceu em 249 delas (55%).",
+     "base": "Agência Pública (levantamento próprio)"
+    },
+    {
+     "texto": "Subiu para cinco o número de locais de votação alterados para o segundo turno no estado de São Paulo.",
+     "base": "g1"
+    },
+    {
+     "texto": "A votação ocorre neste domingo (25), das 8h às 17h de Brasília; o TSE orienta checar a seção eleitoral antes de sair de casa.",
+     "base": "2 fontes independentes (Folha, ICL Notícias/Agência Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mudanças nas regras eleitorais podem se tornar necessárias diante de novas tecnologias.",
+     "quem": "Kassio Nunes Marques, presidente do TSE, segundo o Terra Brasil Notícias"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados de Lula veem risco de confusão nas mudanças de última hora, concentradas em seções onde o presidente venceu.",
+    "oposicao": "Aliados de Flávio tratam as mudanças como ajustes logísticos normais da Justiça Eleitoral."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "O levantamento da Pública sobre o perfil das seções alteradas só circulou à esquerda; os grandes portais trataram as mudanças como serviço ao eleitor, sem o recorte político.",
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Às vésperas do 2º turno, Nunes Marques fará pronunciamento na TV sobre mudança nos locais de votação",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/as-vesperas-do-2o-turno-nunes-marques-fara-pronunciamento-na-tv-sobre-mudanca-nos-locais-de-votacao.ghtml",
+     "angulo": "O anúncio do pronunciamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Justiça eleitoral muda até 4 vezes ao dia local de votação às vésperas do 2° turno",
+     "url": "https://apublica.org/2026/10/justica-eleitoral-muda-ate-4-vezes-ao-dia-local-de-votacao-as-vesperas-do-2-turno/",
+     "angulo": "Levantamento com o recorte de onde Lula venceu.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Sobe para 5 o número de locais de votação alterados no 2° turno no estado de SP; veja endereços",
+     "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/23/sobe-para-5-o-numero-de-locais-de-votacao-alterados-no-2-turno-em-sp-veja-enderecos.ghtml",
+     "angulo": "Serviço: os endereços em SP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Meu local de votação mudou no 2º turno? Tire essa e outras dúvidas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/meu-local-de-votacao-mudou-no-2o-turno-tire-essa-e-outras-duvidas.shtml",
+     "angulo": "Guia de dúvidas do eleitor.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Segundo turno: saiba como consultar local de votação para domingo",
+     "url": "https://iclnoticias.com.br/segundo-turno-como-consultar-local-de-votacao/",
+     "angulo": "Serviço com a orientação do TSE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "URGENTE: Nunes Marques diz que pode haver mudança nas regras eleitorais às vésperas do 2º turno",
+     "url": "https://terrabrasilnoticias.com/2026/10/urgente-nunes-marques-diz-que-pode-haver-mudanca-nas-regras-eleitorais-as-vesperas-do-2o-turno/",
+     "angulo": "Dá tom de alarme à fala de Kassio sobre regras.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "franca-70-mil-policiais-protestos-ataque-trappes",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "França mobiliza 70 mil policiais e fecha museus para novo dia de protestos após ataque 'terrorista racista' perto de Paris",
+   "lide": "O governo francês destacou cerca de 70 mil policiais e fechou o Louvre e outros museus de Paris para as manifestações deste sábado (24), uma semana após distúrbios em todo o país. Na sexta, um homem atirou de um carro em Trappes e La Verrière, matou uma pessoa e feriu cinco, incluindo uma menina de 12 anos; Macron classificou o caso de 'ataque terrorista racista'.",
+   "contexto": "Coalizão de 'coletes amarelos', sindicatos e estudantes marcha com pautas de condições de estudo e poder de compra. A prefeitura de Limoges foi incendiada na semana passada.",
+   "continua": {
+    "data": "2026-10-22",
+    "id": "europa-protestos-greves-le-pen",
+    "titulo": "Protestos e greves se espalham pela Europa; Le Pen sobe nas pesquisas"
+   },
+   "fatos": [
+    {
+     "texto": "Cerca de 70 mil policiais serão mobilizados em toda a França no sábado, e grandes museus de Paris, entre eles o Louvre, ficarão fechados.",
+     "base": "4 fontes independentes (France 24/AFP, BBC, Financial Times, Breitbart)"
+    },
+    {
+     "texto": "Um homem de 39 anos atirou de um carro em Trappes e La Verrière, a oeste de Paris, na sexta (23), matando uma pessoa e ferindo cinco, entre elas uma menina de 12 anos; o suspeito foi detido.",
+     "base": "4 fontes independentes (The Guardian, BBC, Estadão, CNN Brasil)"
+    },
+    {
+     "texto": "Macron classificou o caso como 'ataque terrorista racista' e o ministro do Interior, Laurent Nuñez, como 'crime terrorista'.",
+     "base": "3 fontes independentes (BBC, The Guardian, Estadão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O ataque marca um ponto de virada para a França.",
+     "quem": "Emmanuel Macron, segundo a CNN Brasil"
+    },
+    {
+     "texto": "A violência na França leva partidos de direita europeus a cobrar fechamento de fronteiras e leis mais duras contra imigração.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Grupos ligados ao Estado Islâmico convocam ataques a policiais e manifestantes durante os protestos na Europa.",
+     "quem": "Gazeta do Povo, citando autoridades espanholas"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a Gazeta do Povo enquadra a crise pela pauta migratória e de segurança; CNN Brasil e Estadão destacam o ataque de Trappes e a fala de Macron.",
+   "ponto_cego": "A direita brasileira cobre a crise pelo viés da imigração; a esquerda brasileira (Fórum, Brasil de Fato, 247) praticamente ignorou os protestos e o ataque racista nos feeds.",
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "French police deploy in big numbers and Paris shuts major museums ahead of new protests",
+     "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests",
+     "angulo": "Os números da mobilização e os museus fechados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+     "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+     "angulo": "Destaca a condenação ao racismo por Macron.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "France prepares for day of protest a week after nationwide riots",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Foco no temor de desobediência às restrições.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Partidos de direita da Europa cobram fronteiras fechadas após caos na França",
+     "url": "https://www.gazetadopovo.com.br/mundo/partidos-de-direita-da-europa-cobram-fronteiras-fechadas-apos-caos-na-franca/",
+     "angulo": "Enquadra pela pauta migratória da direita europeia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "‘Trata-se claramente de um crime terrorista’, diz ministro francês após ataque perto de Paris",
+     "url": "https://www.estadao.com.br/internacional/trata-se-claramente-de-um-crime-terrorista-diz-ministro-frances-apos-ataque-com-morte-em-paris-npr/",
+     "angulo": "Fala do ministro do Interior e detalhes do ataque.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ataque “terrorista” em Paris marca ponto de virada para França, diz Macron",
+     "url": "https://www.cnnbrasil.com.br/internacional/ataque-terrorista-em-paris-marca-ponto-de-virada-para-franca-diz-macron/",
+     "angulo": "Macron fala em ponto de virada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Paris Louvre Museum and Others to Close on Saturday in Anticipation of Violence",
+     "url": "https://www.breitbart.com/europe/2026/10/23/paris-louvre-museum-and-others-to-close-on-saturday-in-anticipation-of-violence/",
+     "angulo": "Enfatiza a expectativa de violência.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "France prepares for protests with big police deployment",
+     "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+     "angulo": "Reforço de 20% nos efetivos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Reportagem em Limoges: a divisão entre moradores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Live: Hundreds of protests expected in France amid high tensions and heavy police presence",
+     "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+     "angulo": "Cobertura ao vivo: quem marcha e por quê.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "israel-hebron-operacao-cisjordania-eleicao-27",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Netanyahu ordena operação 'muito extensa' na Cisjordânia após morte de dois soldados em Hebron, a quatro dias da eleição",
+   "lide": "Dois soldados israelenses foram mortos por atiradores palestinos num posto de controle perto de Hebron na sexta (23); os dois atacantes foram mortos. Netanyahu anunciou uma operação militar de grande escala na Cisjordânia, e forças israelenses começaram a demolir prédios palestinos na cidade. Israel vota em 27 de outubro, com Netanyahu e Gadi Eisenkot empatados nas pesquisas.",
+   "fatos": [
+    {
+     "texto": "Dois soldados israelenses foram mortos em ataque de dois atiradores palestinos num posto de controle nos arredores de Hebron; os dois atacantes foram mortos pelo Exército.",
+     "base": "4 fontes independentes (BBC, El País, Clarín, The Guardian)"
+    },
+    {
+     "texto": "Netanyahu anunciou uma operação militar 'muito extensa' na Cisjordânia e prometeu deslocar parte dos moradores de Hebron.",
+     "base": "4 fontes independentes (France 24/AFP, The Guardian, El País, Breitbart)"
+    },
+    {
+     "texto": "Forças israelenses começaram a demolir prédios palestinos em Hebron.",
+     "base": "2 fontes independentes (BBC, The Guardian)"
+    },
+    {
+     "texto": "A eleição legislativa de Israel ocorre em 27 de outubro.",
+     "base": "3 fontes independentes (Al Jazeera, CNN Brasil, The Guardian)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Trata-se de uma campanha de punição coletiva contra palestinos em Hebron.",
+     "quem": "The Guardian"
+    },
+    {
+     "texto": "A operação, em escala não vista desde 1967, responde a ataques terroristas.",
+     "quem": "Breitbart, com a versão do governo israelense"
+    },
+    {
+     "texto": "Politicamente, a operação 'não vai ajudar ninguém'.",
+     "quem": "Ben-Dror Yemini, jornalista do Yedioth Ahronoth, à France 24"
+    },
+    {
+     "texto": "A disputa é um referendo sobre Netanyahu, empatado com Eisenkot nas pesquisas.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "O Hamas pediu intensificar ataques contra soldados e colonos.",
+     "quem": "El País"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, SBT News e CNN Brasil noticiaram a operação; a CNN analisa se o apoio de Trump ajuda Netanyahu.",
+   "ponto_cego": "A imprensa brasileira de esquerda e de direita quase não cobriu a eleição israelense; a cobertura vem de veículos estrangeiros.",
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+     "angulo": "Reporta as demolições em Hebron.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+     "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+     "angulo": "Chama de punição coletiva.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Benjamin Netanyahu Signals Massive West Bank Operation After Hebron Attack — Days Before Election",
+     "url": "https://www.breitbart.com/politics/2026/10/23/benjamin-netanyahu-signals-massive-west-bank-operation-after-hebron-attack-days-before-election/",
+     "angulo": "Enquadra como resposta a ataque terrorista, em escala desde 1967.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Netanyahu ordena una gran operación en Cisjordania tras la muerte de dos soldados en un ataque palestino",
+     "url": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
+     "angulo": "Registra o pedido do Hamas e o 'casa por casa'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Netanyahu quer ação militar em larga escala na Cisjordânia",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/netanyahu-quer-acao-militar-em-larga-escala-na-cisjordania",
+     "angulo": "Cobertura brasileira factual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "A días de las elecciones en Israel, Netanyahu ordena el \"cierre total\" de Cisjordania tras un ataque en Hebrón",
+     "url": "https://www.clarin.com/mundo/dias-elecciones-israel-netanyahu-ordena-cierre-total-cisjordania-evitar-atentado_0_ffGOwk58x5.html",
+     "angulo": "Destaca o 'fechamento total' da Cisjordânia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "How Benjamin Netanyahu reshaped Israel’s institutions",
+     "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+     "angulo": "Como Netanyahu remodelou as instituições.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+     "angulo": "Netanyahu se reinventou como 'falcão'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?",
+     "url": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
+     "angulo": "Perfil de Eisenkot, o rival.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Análise: O apoio de Trump poderia ser vantagem para Netanyahu nas eleições?",
+     "url": "https://www.cnnbrasil.com.br/internacional/analise-o-apoio-de-trump-poderia-ser-vantagem-para-netanyahu-nas-eleicoes/",
+     "angulo": "Análise brasileira sobre o peso de Trump.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu",
+     "url": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html",
+     "angulo": "Israelenses do exterior voltam para votar contra Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+     "angulo": "Crítica: a operação não ajuda politicamente.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "oleshky-cessar-fogo-melania-starlink-prisioneiros",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Rússia e Ucrânia aceitam cessar-fogo local em Oleshky mediado por Melania Trump; Kiev diz que Starlink segue restrito",
+   "lide": "A Casa Branca anunciou na sexta (23) que Rússia e Ucrânia aceitaram uma trégua temporária em Oleshky, cidade ocupada pela Rússia à beira da fome, a partir de 29 de outubro, para entrada de ajuda e evacuações; Moscou e Kiev confirmaram. A Ucrânia diz que o acesso ao Starlink continua restrito, apesar de Trump dizer que os limites foram suspensos, e os dois países trocaram 270 prisioneiros cada.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "putin-acordo-final-starlink-restaurado",
+    "titulo": "Putin diz que acordo final está perto; Trump afirma que Starlink foi restaurado para a Ucrânia"
+   },
+   "fatos": [
+    {
+     "texto": "A Casa Branca anunciou que Rússia e Ucrânia aceitaram cessar-fogo temporário em Oleshky, cidade ocupada por Moscou, a partir de 29 de outubro, para entrada de ajuda humanitária; Rússia e Ucrânia confirmaram.",
+     "base": "6 fontes independentes (BBC, The Guardian, Al Jazeera, CNN Brasil, Estadão, Clarín)"
+    },
+    {
+     "texto": "Trump atribuiu a iniciativa à primeira-dama Melania Trump, que disse ter conseguido o acordo.",
+     "base": "3 fontes independentes (Al Jazeera, Estadão, Clarín)"
+    },
+    {
+     "texto": "Rússia e Ucrânia trocaram 270 prisioneiros de guerra cada na sexta (23).",
+     "base": "Terra Brasil Notícias"
+    },
+    {
+     "texto": "A Ucrânia afirma que o Starlink continua restrito, após Trump dizer que os limites haviam sido suspensos.",
+     "base": "2 fontes independentes (BBC, The Guardian)"
+    },
+    {
+     "texto": "Zelensky disse que EUA, Rússia e Ucrânia farão negociações em novembro em Abu Dhabi.",
+     "base": "CNN Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Moradores de Oleshky enfrentam crise humanitária grave, com relatos de gente comendo ervas de jardim para sobreviver.",
+     "quem": "BBC e The Guardian, com base em relatos de moradores"
+    },
+    {
+     "texto": "O acordo é 'passo significativo rumo a uma paz duradoura'.",
+     "quem": "Assessor sênior de Melania Trump, ao Breitbart"
+    },
+    {
+     "texto": "'Se houver problema [com o Starlink], eu resolvo.'",
+     "quem": "Donald Trump, segundo a BBC"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "CNN Brasil, Estadão e Opera Mundi noticiaram a trégua; nenhum veículo brasileiro cobriu a restrição persistente ao Starlink.",
+   "ponto_cego": "Veículos de direita (Breitbart) tratam o acordo como feito de Melania Trump; o Guardian e a BBC destacam a crise humanitária e o impasse do Starlink, ausente da cobertura brasileira.",
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Foca na cidade 'à beira do desastre'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Exclusive — Melania Trump Secures Localized Russia-Ukraine Ceasefire, Senior Adviser Calls It ‘Meaningful Step Toward Lasting Peace’",
+     "url": "https://www.breitbart.com/politics/2026/10/23/exclusive-melania-trump-secures-localized-russia-ukraine-ceasefire-senior-adviser-calls-it-meaningful-step-toward-lasting-peace/",
+     "angulo": "Exclusiva: o acordo como feito de Melania.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+     "angulo": "Crise humanitária e problemas com o Starlink.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Rússia confirma cessar-fogo mediado pelos EUA na cidade de Oleshky",
+     "url": "https://www.cnnbrasil.com.br/internacional/russia-confirma-cessar-fogo-mediado-pelos-eua-na-cidade-de-oleshky/",
+     "angulo": "Confirmação russa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Exército ucraniano diz que respeitará trégua em Oleshky a partir de terça-feira",
+     "url": "https://www.estadao.com.br/internacional/exercito-ucraniano-diz-que-respeitara-tregua-em-oleshky-a-partir-de-terca-feira-npr/",
+     "angulo": "Confirmação ucraniana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ukraine says Starlink still restricted after Trump says limits lifted",
+     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Kiev diz que Starlink segue restrito.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Rússia e Ucrânia trocam centenas de prisioneiros em meio a negociações por acordo de paz",
+     "url": "https://terrabrasilnoticias.com/2026/10/russia-e-ucrania-trocam-centenas-de-prisioneiros-em-meio-a-negociacoes-por-acordo-de-paz/",
+     "angulo": "A troca de 270 prisioneiros de cada lado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "EUA, Rússia e Ucrânia realizarão negociações em novembro, diz Zelensky",
+     "url": "https://www.cnnbrasil.com.br/internacional/eua-russia-e-ucrania-realizarao-negociacoes-em-novembro-diz-zelensky/",
+     "angulo": "Negociações em novembro em Abu Dhabi.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Rússia e Ucrânia concordam com cessar-fogo em região afetada por crise humanitária",
+     "url": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-e-ucrania-concordam-com-cessar-fogo-em-regiao-afetada-por-crise-humanitaria/",
+     "angulo": "Cobertura brasileira de esquerda, factual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Inédito: Melania Trump intercede en la guerra de Ucrania y dice que logró un alto el fuego en Oleshky, una ciudad al borde la hambruna",
+     "url": "https://www.clarin.com/mundo/inedito-melania-trump-intercede-guerra-ucrania-dice-logro-alto-fuego-oleshky-ciudad-borde-hambruna_0_amEOvrEU0D.html",
+     "angulo": "Olhar argentino: o inédito papel da primeira-dama.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "milei-libra-arquivado-ataca-jornalistas",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Justiça argentina arquiva caso $LIBRA contra Milei e irmã; presidente fala em 'fins golpistas' e ataca jornalistas",
+   "lide": "Um juiz argentino encerrou na sexta (23) a investigação por fraude contra Javier Milei, sua irmã Karina e outros envolvidos no lançamento da criptomoeda $LIBRA, em 2025, concluindo que o papel do presidente não configura esquema fraudulento. Em jantar da Fundação Faro, Milei disse que o caso teve 'fins golpistas' e atacou jornalistas e o La Nación.",
+   "contexto": "Milei divulgou no X o lançamento da $LIBRA em fevereiro de 2025 e apagou o post; a moeda disparou e desabou, com perdas para mais de 114 mil carteiras.",
+   "fatos": [
+    {
+     "texto": "A Justiça argentina arquivou a investigação contra Milei, Karina Milei e outros envolvidos no caso $LIBRA, descartando fraude.",
+     "base": "6 fontes independentes (O Globo, Gazeta do Povo, La Nación, Le Monde, Al Jazeera, Página/12)"
+    },
+    {
+     "texto": "Em jantar da Fundação Faro, Milei disse que o caso teve 'fins golpistas', atacou jornalistas e o La Nación e rejeitou aumentar a emissão monetária para enfrentar a queda da atividade.",
+     "base": "2 fontes independentes (La Nación, Página/12)"
+    },
+    {
+     "texto": "O colapso da $LIBRA causou perdas a mais de 114 mil carteiras virtuais.",
+     "base": "Le Monde"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão livra o governo de uma causa delicada que tinha o presidente no centro.",
+     "quem": "La Nación"
+    },
+    {
+     "texto": "Milei se vitimizou e insultou jornalistas 'ensobrados, corruptos e mercenários da mentira'.",
+     "quem": "Página/12"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, O Globo, Gazeta do Povo e Valor noticiaram o arquivamento; Flávio Bolsonaro citou Milei como referência no debate da Globo.",
+   "ponto_cego": "A imprensa brasileira cobriu o arquivamento, mas não os ataques de Milei a jornalistas, destacados por La Nación e Página/12.",
+   "materias": [
+    {
+     "fonte": "lanacion",
+     "titulo": "Caso $LIBRA: la trama cripto y el rol de cada uno de los sobreseídos",
+     "url": "https://www.lanacion.com.ar/politica/caso-libra-la-trama-cripto-y-el-rol-de-cada-uno-de-los-sobreseidos-nid24102026/",
+     "angulo": "Reconstitui a trama e o papel de cada absolvido.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Milei amenazó a los medios que investigan la causa $LIBRA",
+     "url": "https://www.pagina12.com.ar/2026/10/24/milei-amenazo-a-los-medios-que-investigan-la-causa-libra/",
+     "angulo": "Foca nos ataques e ameaças à imprensa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Justiça da Argentina arquiva processo contra Milei envolvendo suposta fraude em lançamento de criptomoeda",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/10/23/justica-da-argentina-arquiva-processo-contra-milei-envolvendo-suposta-fraude-em-lancamento-de-criptomoeda.ghtml",
+     "angulo": "Cobertura brasileira factual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Milei dijo que el caso $LIBRA tuvo “fines golpistas”, acusó a periodistas y advirtió: “Los hijos de puta se tienen que quemar en la hoguera”",
+     "url": "https://www.lanacion.com.ar/politica/milei-hablara-en-la-cena-anual-de-faro-discurso-encuentro-con-el-nucleo-libertario-y-empresarios-nid23102026/",
+     "angulo": "O discurso de Milei, com os ataques ao próprio La Nación.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+     "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+     "angulo": "Destaca a fundamentação do juiz.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Argentine : non-lieu pour le président Javier Milei dans l’affaire d’une cryptomonnaie effondrée",
+     "url": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html",
+     "angulo": "Contexto do tuíte apagado e das perdas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Justiça argentina descarta crime e encerra investigação contra Milei e irmã no caso da criptomoeda $LIBRA",
+     "url": "https://www.gazetadopovo.com.br/mundo/justica-argentina-descarta-crime-e-encerra-investigacao-contra-milei-e-irma-no-caso-da-criptomoeda-libra/",
+     "angulo": "Enfatiza que não houve crime.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Justiça da Argentina encerra ação contra Milei sobre a criptomoeda LIBRA",
+     "url": "https://valor.globo.com/mundo/noticia/2026/10/23/justica-da-argentina-encerra-acao-contra-milei-sobre-a-criptomoeda-libra.ghtml",
+     "angulo": "Cobertura econômica, lembra as perdas milionárias.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-23"
+    }
+   ]
+  }
+ ]
+}
