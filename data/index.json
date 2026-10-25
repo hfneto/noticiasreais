@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-24T09:04:42+00:00",
+ "atualizado_em": "2026-10-25T09:00:53+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-25",
+   "arquivo": "data/edicoes/2026-10-25.json",
+   "historias": 12,
+   "gerado_em": "2026-10-25T06:00:53-03:00",
+   "manchete": "Últimas pesquisas mostram Flávio numericamente à frente de Lula em todas, mas dentro da margem de erro"
+  },
   {
    "data": "2026-10-24",
    "arquivo": "data/edicoes/2026-10-24.json",

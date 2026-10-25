@@ -1,0 +1,1838 @@
+{
+ "tipo": "edicao",
+ "data": "2026-10-25",
+ "gerado_em": "2026-10-25T06:00:53-03:00",
+ "historias": [
+  {
+   "id": "ultimas-pesquisas-flavio-51-lula-49-menor-distancia",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Últimas pesquisas mostram Flávio numericamente à frente de Lula em todas, mas dentro da margem de erro",
+   "lide": "Quaest e Datafolha, divulgadas no sábado (24), dão a Flávio Bolsonaro 51% dos votos válidos e a Lula 49%; AtlasIntel (50,8% a 49,2%), Futura (50,1% a 49,9%) e Nexus/BTG (50,5% a 49,5%) apontam diferenças menores. É a menor distância em pesquisas de véspera de segundo turno desde 2006; a rejeição a Flávio (49%) supera a de Lula (47%) na Quaest.",
+   "contexto": "No primeiro turno, a Quaest mostrava Lula um ponto à frente nos votos totais e Flávio venceu nas urnas. A abstenção do primeiro turno foi recorde, e as duas campanhas disputam quem leva o eleitor ausente de volta.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "datafolha-empate-50-50-reta-final",
+    "titulo": "Datafolha mostra Flávio com 47% e Lula com 46%: empate técnico a três dias do segundo turno"
+   },
+   "fatos": [
+    {
+     "texto": "Quaest e Datafolha mostram Flávio Bolsonaro com 51% e Lula com 49% dos votos válidos; nos votos totais, 46% a 45% (Quaest) e 48% a 47% (Datafolha).",
+     "base": "6 fontes independentes (Valor, SBT News, Jota, Brasil de Fato, Opera Mundi, IstoÉ)"
+    },
+    {
+     "texto": "AtlasIntel/Bloomberg aponta 50,8% a 49,2% nos válidos, com margem de erro de 1 ponto; a vantagem de Flávio caiu de 2,2 para 1,6 ponto.",
+     "base": "5 fontes independentes (CNN Brasil, Revista Oeste, DCM, Jota, Exame)"
+    },
+    {
+     "texto": "Futura/100% Cidades registra 50,1% a 49,9%, Nexus/BTG 50,5% a 49,5%, PoderData 51% a 49%, Gerp 52% a 48% e Veritá 51,56% a 48,44%, todos em empate técnico.",
+     "base": "6 fontes independentes (Jota, CNN Brasil, Jovem Pan, Poder360, Revista Oeste, Gazeta do Povo)"
+    },
+    {
+     "texto": "Na Quaest, a rejeição a Flávio caiu de 52% para 49% e a de Lula ficou em 47%; a aprovação do governo subiu para 48%, contra 45% de desaprovação.",
+     "base": "4 fontes independentes (O Globo, CNN Brasil, Revista Fórum, DCM)"
+    },
+    {
+     "texto": "Flávio aparece numericamente à frente em todas as pesquisas divulgadas no sábado (nove, segundo a Exame; oito, segundo a Veja), sempre dentro da margem de erro.",
+     "base": "3 fontes independentes (Exame, Veja, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A distância entre os candidatos é a menor em pesquisas de véspera de segundo turno desde 2006.",
+     "quem": "O Globo (blog Pulso)"
+    },
+    {
+     "texto": "Os números são 'muito ruins' para Lula, apesar do empate técnico.",
+     "quem": "Colunistas do O Globo, em live"
+    },
+    {
+     "texto": "A disputa segue em aberto, mas há risco real de derrota de Lula.",
+     "quem": "Aliados de Lula, nos bastidores, ao Valor"
+    },
+    {
+     "texto": "A campanha de Flávio vê favoritismo; a de Lula aposta em redução da abstenção e crescimento no Nordeste.",
+     "quem": "O Globo, com as duas campanhas"
+    },
+    {
+     "texto": "A abstenção pode surpreender e favorecer Lula.",
+     "quem": "Felipe Nunes, diretor da Quaest, segundo a Revista Fórum"
+    },
+    {
+     "texto": "Pesquisa é retrato, eleição é movimento: em 2026 os números se inverteram em relação ao primeiro turno.",
+     "quem": "Miriam Leitão, O Globo"
+    },
+    {
+     "texto": "Em 2022, as pesquisas de véspera apontavam vitória mais ampla de Lula do que a registrada nas urnas.",
+     "quem": "InfoMoney e Exame"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A campanha de Lula destaca a alta da aprovação, a rejeição maior de Flávio e a tendência de aproximação, falando em virada.",
+    "oposicao": "A campanha de Flávio vê favoritismo consolidado: liderança numérica em todas as pesquisas e vantagem entre os que votaram na terceira via."
+   },
+   "visao_de_fora": "A BBC Brasil comparou as pesquisas de véspera de 2018, 2022 e 2026; La Nación e El País tratam o pleito como decisivo para a região.",
+   "ponto_cego": "Veículos de esquerda (Fórum, 247) destacam espontânea, aprovação e rejeição favoráveis a Lula; os de direita (Oeste, Gazeta) publicam só a liderança numérica de Flávio. Nenhum dos dois lados explica a conta da margem de erro.",
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Quaest: Flávio tem 51%, Lula tem 49% dos votos válidos na véspera de 2º turno",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quaest-flavio-tem-51percent-lula-tem-49percent-dos-votos-validos-na-vespera-de-2o-turno.ghtml",
+     "angulo": "Os números da Quaest com o contexto de empate técnico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula cresce na reta final e empata com Flávio Bolsonaro, diz pesquisa Atlas/Bloomberg",
+     "url": "https://revistaforum.com.br/politica/lula-cresce-na-reta-final-e-empata-com-flavio-bolsonaro-diz-pesquisa-atlas-bloomberg/",
+     "angulo": "Lê a Atlas como crescimento de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "AtlasIntel: Flávio tem 50,8% e Lula, 49,2%",
+     "url": "https://revistaoeste.com/politica/atlasintel-flavio-tem-508-e-lula-492/",
+     "angulo": "Publica a liderança numérica de Flávio na Atlas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Distância entre Flávio Bolsonaro e Lula é a menor nas pesquisas de véspera do segundo turno desde 2006",
+     "url": "https://oglobo.globo.com/blogs/pulso/post/2026/10/distancia-entre-flavio-bolsonaro-e-lula-e-a-menor-nas-pesquisas-de-vespera-do-segundo-turno-desde-2006.ghtml",
+     "angulo": "Menor distância desde 2006.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Flávio Bolsonaro tem 50,1% dos válidos; Lula, 49,9%, diz pesquisa eleitoral Futura",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/flavio-bolsonaro-tem-501-dos-validos-lula-499-diz-pesquisa-eleitoral-futura",
+     "angulo": "Futura: a menor distância do dia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Aliados de Lula veem disputa em aberto, mas admitem risco de derrota, após pesquisas",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/24/aliados-de-lula-veem-disputa-em-aberto-mas-admitem-risco-de-derrota-aps-pesquisas.ghtml",
+     "angulo": "Bastidores: aliados de Lula admitem risco de derrota.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro tem rejeição maior que Lula, diz Quaest",
+     "url": "https://revistaforum.com.br/revista-forum/flavio-bolsonaro-tem-rejeicao-maior-que-lula-diz-quaest/",
+     "angulo": "Destaca a rejeição maior de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Pesquisas na véspera do 2º turno: veja quem liderava em 2022 e os números de 2026",
+     "url": "https://exame.com/brasil/pesquisas-na-vespera-do-2o-turno-veja-quem-liderava-em-2022-e-os-numeros-de-2026/",
+     "angulo": "Compara com 2022, quando as pesquisas superestimaram Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Campanha de Flávio vê favoritismo de candidato após Quaest e Datafolha, enquanto grupo de Lula aposta em redução de abstenção e crescimento no Nordeste",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/campanha-de-flavio-ve-favoritismo-de-candidato-apos-quaest-e-datafolha-enquanto-grupo-de-lula-aposta-em-reducao-de-abstencao-e-crescimento-no-nordeste.ghtml",
+     "angulo": "Como cada campanha leu as pesquisas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "BTG/Nexus: Flávio tem 50,5% dos votos válidos, e Lula, 49,5%, na véspera do 2º turno",
+     "url": "https://jovempan.com.br/politica/btg-nexus-flavio-tem-505-dos-votos-validos-e-lula-495-na-vespera-do-2o-turno/",
+     "angulo": "Nexus/BTG e o modelo de eleitor provável.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "As pesquisas para presidente na véspera do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
+     "url": "https://www.bbc.com/portuguese/articles/ckvgd18g287jo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Pesquisas de véspera em 2018, 2022 e agora.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "transporte-indigenas-nunes-marques-recua-fachin",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Nunes Marques recua e autoriza transporte de indígenas às urnas após PGR acionar o STF e Fachin dar 3 horas ao TSE",
+   "lide": "O presidente do TSE havia negado no sábado (24) autorização geral para que Funai, Sesai e outros órgãos federais transportem eleitores indígenas, exigindo aval prévio de juiz para cada operação. Após a PGR pedir ao STF a derrubada da exigência e Edson Fachin dar três horas para o TSE se explicar, Nunes Marques flexibilizou a regra: juízes aprovarão de uma vez o plano de rotas de cada região, em até duas horas.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "transporte-gratuito-segundo-turno-indigenas",
+    "titulo": "Transporte gratuito no 2º turno: TSE restringe deslocamento de indígenas e cidades ampliam passe livre"
+   },
+   "fatos": [
+    {
+     "texto": "Nunes Marques negou pedido para que veículos e embarcações da Funai, da Sesai e do Ministério dos Povos Indígenas transportem eleitores indígenas sem autorização prévia de juiz eleitoral e aviso aos partidos.",
+     "base": "3 fontes independentes (Agência Brasil, SBT News, CNN Brasil)"
+    },
+    {
+     "texto": "O procurador-geral Paulo Gonet pediu ao STF a derrubada da exigência; Fachin deu três horas para o TSE prestar informações.",
+     "base": "6 fontes independentes (Folha, Terra, Revista Fórum, Gazeta do Povo, SBT News, Congresso em Foco)"
+    },
+    {
+     "texto": "Nunes Marques reviu a decisão: juízes eleitorais usarão o plano logístico da AGU e deverão aprovar de uma só vez o plano de rotas de cada região, em até duas horas após o recebimento.",
+     "base": "5 fontes independentes (CNN Brasil, Revista Fórum, Gazeta do Povo, O Globo, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão original restringia o acesso ao voto de indígenas e comunidades tradicionais.",
+     "quem": "Sonia Guajajara, ministra dos Povos Indígenas, segundo o Estado de Minas"
+    },
+    {
+     "texto": "Nunes Marques faz o TSE pender para Flávio ao priorizar decisões e conduzir pautas.",
+     "quem": "Juristas ouvidos pela Agência Pública"
+    },
+    {
+     "texto": "No RS, disputa eleitoral em terra indígena deixou três mortos; na Amazônia, garimpeiros ameaçam invadir se Flávio vencer.",
+     "quem": "Agência Pública, com denúncias de lideranças indígenas"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governo e PGR tratam a exigência como obstáculo ao voto de comunidades que dependem de transporte público; a revisão é vista como vitória.",
+    "oposicao": "Aliados de Flávio defendem a fiscalização do transporte oficial de eleitores, por verem risco de uso da máquina em favor de Lula."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A cobertura de direita (Gazeta, Oeste) registrou o recuo como 'flexibilização' sem o contexto da pressão da PGR e do STF; não achamos nos feeds a justificativa original de Nunes Marques explicada por veículos de direita.",
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas",
+     "angulo": "A decisão original, pela agência oficial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin dá três horas para TSE explicar restrições ao transporte de eleitores indígenas",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/fachin-da-tres-horas-para-tse-explicar-restricoes-ao-transporte-de-eleitores-indigenas/",
+     "angulo": "Fachin cobra o TSE, com o pedido da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Nunes Marques recua e autoriza transporte de indígenas no 2° turno da eleição",
+     "url": "https://revistaforum.com.br/politica/nunes-marques-autoriza-transporte-indigenas/",
+     "angulo": "Chama de recuo e vitória do acesso ao voto.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Kassio revê decisão e flexibiliza autorizações para transporte de indígenas",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/kassio-reve-decisao-e-flexibiliza-autorizacoes-para-transporte-de-indigenas/",
+     "angulo": "Detalha a nova dinâmica de aprovação em duas horas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Nunes Marques flexibiliza regra para transporte de indígenas",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-flexibiliza-regra-para-transporte-de-indigenas/",
+     "angulo": "Registra como flexibilização, sem a pressão do STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Nunes Marques recua de decisão que restringia transporte de indígenas no segundo turno",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/nunes-marques-recua-de-decisao-que-restringia-transporte-de-indigenas-no-segundo-turno.ghtml",
+     "angulo": "O recuo, com o histórico das decisões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "PGR pede que STF derrube exigência de autorização prévia para transporte de indígenas no 2º turno",
+     "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pgr-pede-que-stf-derrube-exigencia-de-autorizacao-previa-para-transporte-de-indigenas-no-2o-turno.shtml",
+     "angulo": "O pedido de Gonet ao STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Nunes Marques nega transporte indígena para eleição sem aval",
+     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/nunes-marques-nega-transporte-indigena-para-eleicao-sem-aval",
+     "angulo": "A decisão original, com as exigências.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Nunes Marques faz TSE pender para Flávio Bolsonaro ao priorizar decisões e conduzir pautas",
+     "url": "https://apublica.org/2026/10/nunes-marques-faz-tse-pender-para-flavio-bolsonaro-ao-priorizar-decisoes-e-conduzir-pautas/",
+     "angulo": "Juristas veem desequilíbrio na condução da corte.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Ameaças, perseguição e mortes: indígenas denunciam aumento da violência política",
+     "url": "https://apublica.org/2026/10/ameacas-perseguicao-e-mortes-indigenas-denunciam-aumento-da-violencia-politica/",
+     "angulo": "Violência política contra indígenas na eleição.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "flavio-mesarios-fiscalizar-falso-nunes-marques-alerta",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Flávio repete afirmação falsa sobre mesários e manda apoiadores fiscalizar urnas; presidente do TSE alerta contra 'mensagens sensacionalistas'",
+   "lide": "Em live na noite de sábado (24), Flávio Bolsonaro voltou a sugerir, sem provas, que mesários podem votar no lugar de eleitores ausentes após as 17h e pediu que apoiadores fiscalizem as seções. Lupa e Estadão Verifica classificam a alegação como falsa. Em pronunciamento na TV, Kassio Nunes Marques pediu que eleitores confiram o local de votação e elevem o 'senso crítico' com mensagens recebidas.",
+   "continua": {
+    "data": "2026-10-24",
+    "id": "vespera-2-turno-locais-de-votacao-nunes-marques-tv",
+    "titulo": "Às vésperas do 2º turno, TSE altera locais de votação e Nunes Marques fará pronunciamento na TV"
+   },
+   "fatos": [
+    {
+     "texto": "Flávio Bolsonaro, em transmissão ao vivo no sábado, repetiu a afirmação de que mesários podem votar no lugar de eleitores ausentes e convocou apoiadores a fiscalizar os locais de votação após o fechamento das urnas.",
+     "base": "5 fontes independentes (Folha, Estadão, Metrópoles, DCM, Revista Fórum)"
+    },
+    {
+     "texto": "O TSE tem procedimentos de identificação, habilitação e registro de comparecimento que impedem que um eleitor vote no lugar de outro.",
+     "base": "2 checagens (Lupa, Estadão Verifica)"
+    },
+    {
+     "texto": "Nunes Marques, em rede nacional, pediu que eleitores confiram mudanças nos locais de votação e fiquem 'vigilantes' com 'mensagens sensacionalistas'.",
+     "base": "6 fontes independentes (Valor, Gazeta do Povo, CNN Brasil, Agência Brasil, CartaCapital, Folha)"
+    },
+    {
+     "texto": "O número de seções eleitorais com local de votação alterado chegou a 394, atingindo cerca de 123 mil eleitores.",
+     "base": "3 fontes independentes (O Globo, DCM, CNN Brasil)"
+    },
+    {
+     "texto": "Levantamento identificou 60 canais no Telegram, com 891 mil inscritos, compartilhando conteúdo sobre segurança das urnas proibido pelo TSE.",
+     "base": "Agência Pública (levantamento próprio)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A reta final reviveu a retórica de descrédito das instituições e do sistema eleitoral.",
+     "quem": "Revista Fórum"
+    },
+    {
+     "texto": "Flávio assinou 29 das 30 representações do PL ao TSE por notícias falsas, contra 14 do adversário.",
+     "quem": "Agência Lupa (reportagem)"
+    },
+    {
+     "texto": "A campanha de Flávio teme tratamento desigual por ministros do TSE.",
+     "quem": "Campanha de Flávio Bolsonaro, à coluna Painel da Folha"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Mesários podem votar em eleitores ausentes depois das 17h, sobretudo no Nordeste.",
+     "rotulo": "Falso",
+     "explicacao": "A identificação do eleitor, a habilitação da urna pelo mesário e o registro de comparecimento impedem o voto em nome de outra pessoa; o próprio corregedor do TSE mandou retirar áudio com a alegação do canal 'Tropa do Flávio'.",
+     "onde_circula": "live de Flávio Bolsonaro, canais de WhatsApp e Telegram",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/eleicoes/2026/10/24/e-falso-que-mesarios-podem-votar-no-lugar-de-eleitores-ausentes/"
+      },
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/procedimentos-de-seguranca-impedem-que-mesarios-votem-no-lugar-de-eleitores-ausentes-apos-as-17h/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Lula morreu (post com identidade visual de funerária do RS).",
+     "rotulo": "Falso",
+     "explicacao": "A funerária de Ivoti (RS) registrou boletim de ocorrência por uso indevido de sua marca na publicação falsa.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A campanha de Lula e aliados dizem que Flávio prepara o terreno para contestar o resultado, repetindo o roteiro de 2022.",
+    "oposicao": "Flávio e aliados apresentam a convocação como fiscalização legítima e dizem que o TSE trata os dois lados de forma desigual."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Jovem Pan) não noticiaram a fala de Flávio sobre mesários nem a checagem; a cobertura ficou com Folha, Estadão, Metrópoles e veículos de esquerda.",
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Flávio repete afirmação falsa sobre mesários votarem no lugar de eleitores ausentes",
+     "url": "https://www.estadao.com.br/politica/eleicoes/flavio-repete-afirmacao-falsa-sobre-mesarios-votarem-no-lugar-de-eleitores-ausentes/",
+     "angulo": "Chama de falsa a afirmação já no título.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio Bolsonaro repete notícia falsa sobre mesários inserindo votos após fechamento das urnas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-manda-apoiadores-fiscalizarem-mesarios-apos-fechamento-das-urnas.shtml",
+     "angulo": "Foca na convocação de apoiadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "É falso que mesários podem votar no lugar de eleitores ausentes",
+     "url": "https://www.agencialupa.org/eleicoes/2026/10/24/e-falso-que-mesarios-podem-votar-no-lugar-de-eleitores-ausentes/",
+     "angulo": "Checagem: por que é falso.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Flávio repete fake news sobre mesários votarem no lugar de ausentes",
+     "url": "https://www.metropoles.com/brasil/flavio-repete-fake-news-sobre-mesarios-votarem-no-lugar-dos-ausentes",
+     "angulo": "Lembra que o TSE já esclareceu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Na TV, Nunes Marques pede que eleitor cheque local de votação e fique ‘vigilante’ com 'mensagens sensacionalistas'",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/na-tv-nunes-marques-pede-que-eleitor-cheque-local-de-votao-e-fique-vigilante-com-mensagens-sensacionalistas.ghtml",
+     "angulo": "O pronunciamento do presidente do TSE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Nunes Marques orienta eleitores a conferir local de votação e alerta contra “mensagens sensacionalistas”",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/nunes-marques-orienta-eleitores-a-conferir-local-de-votacao-e-alerta-contra-mensagens-sensacionalistas/",
+     "angulo": "Reproduz o pronunciamento com elogio à participação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro manda seus eleitores “fiscalizarem” mesários durante votação",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-eleitores-fiscalizarem-mesarios/",
+     "angulo": "Lê como descrédito das instituições.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Número de seções eleitorais alteradas sobe para 394 na véspera do segundo turno e atinge 123 mil eleitores",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/numero-de-secoes-eleitorais-alteradas-sobe-para-394-na-vespera-do-segundo-turno-e-atinge-123-mil-eleitores.ghtml",
+     "angulo": "Os números das seções alteradas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Às vésperas do 2º turno, canais no Telegram espalham fake news sobre segurança de urnas",
+     "url": "https://apublica.org/2026/10/as-vesperas-do-2o-turno-canais-no-telegram-espalham-fake-news-sobre-seguranca-de-urnas/",
+     "angulo": "Levantamento sobre canais no Telegram.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Campanha de Flávio diz temer interferência e tratamento desigual por ministros do TSE",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-diz-temer-interferencia-e-tratamento-desigual-por-ministros-do-tse.shtml",
+     "angulo": "O lado de Flávio: receio de tratamento desigual.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "Flávio Bolsonaro acionou TSE por fake news duas vezes mais que Lula",
+     "url": "https://www.agencialupa.org/reportagem/2026/10/24/flavio-bolsonaro-acionou-tse-por-fake-news-duas-vezes-mais-que-lula/",
+     "angulo": "Quem mais acionou o TSE por fake news.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Funerária aciona polícia após notícia falsa sobre morte de Lula",
+     "url": "https://istoe.com.br/funeraria-policia-noticia-falsa-morte-lula-ivoti",
+     "angulo": "Funerária aciona polícia por boato sobre morte de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "ultimos-atos-lula-paulista-flavio-rio-bh",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Lula encerra campanha na Paulista e Flávio na Barra da Tijuca e em BH; atos têm incidentes isolados",
+   "lide": "No último dia de campanha, sábado (24), Lula fez caminhada na Avenida Paulista, comparou a eleição à de 1989 e disse que foi o último ato de campanha de sua carreira; Flávio Bolsonaro fez carreata na orla da Barra da Tijuca, no Rio, com Nikolas Ferreira, Tarcísio e Cleitinho, após ato em Belo Horizonte, e encerrou com um pai-nosso. Um homem negro apareceu segurado por uma corrente em ato pró-Flávio no Rio, e um motorista atropelou duas crianças em carreata em Ilhabela (SP).",
+   "fatos": [
+    {
+     "texto": "Lula encerrou a campanha em caminhada na Avenida Paulista na tarde de sábado; Flávio fez carreata na orla da Barra da Tijuca, no Rio, após ato em Belo Horizonte.",
+     "base": "6 fontes independentes (Gazeta do Povo, CNN Brasil, Jovem Pan, Agência Brasil, DW Brasil, Folha)"
+    },
+    {
+     "texto": "Flávio encerrou o ato no Rio com uma oração do pai-nosso e disse estar 'mais convicto' de que o Brasil terá novo presidente.",
+     "base": "2 fontes independentes (Valor, ICL Notícias)"
+    },
+    {
+     "texto": "Um vídeo mostra um homem branco segurando uma corrente junto a um homem negro durante ato de apoiadores de Flávio na Barra da Tijuca.",
+     "base": "3 fontes independentes (Revista Fórum, DCM, Estado de Minas)"
+    },
+    {
+     "texto": "Um homem foi detido após atropelar duas crianças durante carreata pró-Flávio em Ilhabela (SP).",
+     "base": "Estadão"
+    },
+    {
+     "texto": "Lula participou da live de 24 horas de André Janones, que exibiu por engano um número de telefone atribuído ao presidente.",
+     "base": "2 fontes independentes (Metrópoles, IstoÉ)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Foi o último ato de campanha da carreira de Lula, que relatou emoção a aliados.",
+     "quem": "CNN Brasil, com aliados de Lula"
+    },
+    {
+     "texto": "Lula colocou 'milhões' nas ruas de Norte a Sul.",
+     "quem": "Revista Fórum"
+    },
+    {
+     "texto": "Flávio refez os passos do pai ao lotar a orla da Barra.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "O comentário de Flávio no debate sobre o 'cheiro ruim' de Belém foi respondido em ato pró-Lula: 'o que fede é teu preconceito'.",
+     "quem": "Helder Barbalho, governador do Pará, segundo a Revista Fórum"
+    },
+    {
+     "texto": "Lula tem vantagem em alcance nas redes; Flávio, maior engajamento proporcional da base.",
+     "quem": "Ativaweb DataLab, segundo a Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A campanha de Lula fala em mobilização recorde e 'povo organizado', com ênfase em democracia.",
+    "oposicao": "A campanha de Flávio fala em multidões no Rio e em BH e em convicção de vitória, com tom religioso."
+   },
+   "visao_de_fora": "El País escreveu que o Brasil 'decide neste domingo se continuará sendo uma democracia'; a DW Brasil descreveu um país dividido entre o legado de Lula e o projeto de ruptura da família Bolsonaro.",
+   "ponto_cego": "Veículos de esquerda (Fórum, DCM, 247) cobriram os incidentes nos atos de Flávio e o tamanho dos atos de Lula; veículos de direita (Gazeta, Jovem Pan) descreveram os dois lados sem os incidentes. Nenhum lado deu estimativa independente de público.",
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Saiba como foi o último dia das campanhas de Lula e Flávio Bolsonaro",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/saiba-como-foi-o-ultimo-dia-de-campanha-de-lula-e-flavio-bolsonaro/",
+     "angulo": "Resumo dos dois lados, sem incidentes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula encerra campanha na Paulista e mobiliza centenas de milhares de apoiadores",
+     "url": "https://www.brasildefato.com.br/2026/10/24/lula-encerra-campanha-na-paulista-e-mobiliza-centenas-de-milhares-de-apoiadores/",
+     "angulo": "Estimativa de 'centenas de milhares' na Paulista.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio Bolsonaro encerra campanha com multidão no RJ e em BH e ao lado de Nikolas, Tarcísio e Cleitinho",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml",
+     "angulo": "Flávio no Rio e em BH, com aliados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Flávio Bolsonaro encerra ato no Rio com oração e se diz 'mais convicto' de que Brasil terá novo presidente",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/no-rio-flvio-bolsonaro-chega-para-ltimo-ato-presencial-da-campanha.ghtml",
+     "angulo": "O encerramento com oração e a fala de convicção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "CENAS FORTES: Bolsonarista acorrenta homem negro em ato de Flávio Bolsonaro na Barra da Tijuca",
+     "url": "https://revistaforum.com.br/politica/bolsonarista-homem-negro-flavio-barra/",
+     "angulo": "Vídeo do homem acorrentado em ato de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Homem é preso após atropelar crianças em ato pró-Flávio em Ilhabela",
+     "url": "https://www.estadao.com.br/politica/eleicoes/homem-e-preso-apos-atropelar-criancas-em-ato-pro-flavio-em-ilhabela/",
+     "angulo": "O atropelamento em Ilhabela.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Flávio e Lula reúnem multidões e demonstram força na reta final do 2º turno",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-reunem-multidoes-e-demonstram-forca-na-reta-final-do-2o-turno/",
+     "angulo": "Equipara a força dos dois lados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Em último ato com apoiadores na Paulista, Lula compara eleição atual à de 1989",
+     "url": "https://iclnoticias.com.br/em-ultimo-ato-com-apoiadores-na-paulista-lula/",
+     "angulo": "Lula compara a eleição a 1989.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "No último dia de campanha, Flávio Bolsonaro refaz os passos do pai e lota orla da Barra da Tijuca",
+     "url": "https://iclnoticias.com.br/no-ultimo-dia-de-campanha-flavio-bolsonaro-refaz-os-passos-do-pai-e-lota-orla-da-barra-da-tijuca/",
+     "angulo": "Flávio e o roteiro do pai na Barra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Em disputa acirrada, Lula e Flávio mobilizam multidões na véspera do 2º turno",
+     "url": "https://jovempan.com.br/politica/em-disputa-acirrada-lula-e-flavio-mobilizam-multidoes-na-vespera-do-2o-turno/",
+     "angulo": "Cobertura de direita: multidões dos dois lados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Janones expõe número de telefone de Lula por engano durante live",
+     "url": "https://istoe.com.br/janones-expoe-telefone-lula-engano-live",
+     "angulo": "O vazamento do telefone na live de Janones.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Brasil decide este domingo si seguirá siendo una democracia",
+     "url": "https://elpais.com/america/2026-10-25/brasil-decide-este-domingo-si-seguira-siendo-una-democracia.html",
+     "angulo": "Olhar espanhol: a democracia em jogo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "brasil-vota-hoje-abstencao-apuracao-temporais",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Brasil escolhe hoje entre Lula e Flávio: abstenção, temporais no Sul e Sudeste e judicialização pesam no dia da votação",
+   "lide": "Cerca de 158 milhões de eleitores votam das 8h às 17h de Brasília; a apuração começa às 17h e o TSE pretende anunciar o resultado até 20h30. Após a maior abstenção da história em primeiro turno, a presença do eleitor é apontada como fator decisivo, e o Inmet emitiu alerta laranja de tempestades para Sul, Sudeste e Centro-Oeste, com mais de 300 cidades do Paraná sob risco de ventos de 100 km/h.",
+   "fatos": [
+    {
+     "texto": "As seções ficam abertas das 8h às 17h de Brasília; quem não votou no primeiro turno pode votar no segundo; a apuração começa às 17h.",
+     "base": "3 fontes independentes (Folha, CartaCapital, Jovem Pan)"
+    },
+    {
+     "texto": "O Inmet emitiu alerta laranja de tempestades para áreas do Sul, Sudeste e Centro-Oeste no domingo, incluindo 326 cidades do Paraná; a Defesa Civil de SP emitiu alerta severo de chuva na noite de sábado.",
+     "base": "5 fontes independentes (g1, Terra Brasil Notícias, Metrópoles, SBT News, Folha)"
+    },
+    {
+     "texto": "Chuvas recordes no Paraná bloquearam rodovias e obrigaram a mudança de local de votação em Curitiba.",
+     "base": "Gazeta do Povo"
+    },
+    {
+     "texto": "O TSE iniciou no sábado a preparação do teste de integridade das urnas e os TREs definiram as urnas que serão auditadas.",
+     "base": "2 fontes independentes (Valor, Agência Brasil)"
+    },
+    {
+     "texto": "A Justiça do Trabalho proibiu a rede Supermercado Zona Sul de enviar comunicados eleitorais a funcionários e mandou informar que o voto é livre e secreto.",
+     "base": "2 fontes independentes (Valor, Agência Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A cúpula do TSE pretende anunciar o resultado matemático até 20h30.",
+     "quem": "Malu Gaspar, O Globo"
+    },
+    {
+     "texto": "A presença do eleitor é o fator decisivo após a maior abstenção da história em primeiro turno; o comparecimento só aumentou no segundo turno uma vez, em 2022.",
+     "quem": "Estadão e SBT News"
+    },
+    {
+     "texto": "As ações no TSE devem prolongar a disputa com ares de 'terceiro turno'.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Lula obteve 313 vitórias e 182 derrotas no TSE durante a campanha.",
+     "quem": "Gazeta do Povo (levantamento próprio)"
+    },
+    {
+     "texto": "O país vai às urnas em clima de vale-tudo e com fratura exposta.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Milei acompanhará a apuração em Buenos Aires e avalia viajar a São Paulo se Flávio vencer; chamou Lula de 'ladrão e mentiroso' no X.",
+     "quem": "SBT News e Estado de Minas"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Uma eleição é anulada automaticamente se mais de 50% dos eleitores votarem nulo.",
+     "rotulo": "Falso",
+     "explicacao": "Pela legislação, brancos e nulos não entram no cálculo dos votos válidos usados para definir o vencedor.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Valor",
+       "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/50percent-de-votos-nulos-nao-anulam-a-eleicao-entenda-os-votos-validos.ghtml"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo e aliados pedem comparecimento e falam em defesa da democracia; o PT aposta em reduzir a abstenção no Nordeste.",
+    "oposicao": "Aliados de Flávio falam em 'virar a página' e cobram fiscalização; parte deles questiona decisões do TSE."
+   },
+   "visao_de_fora": "A BBC Brasil diz que o duelo é crucial para a América Latina e para Trump; a Opera Mundi analisa como a China avalia um eventual governo Flávio; La Nación discute o impacto na indústria automotiva argentina.",
+   "ponto_cego": "Nenhum veículo de direita nos feeds tratou da judicialização pós-eleição; a esquerda não repercutiu o levantamento da Gazeta sobre as vitórias de Lula no TSE.",
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Apuração começa às 17h no domingo, e viradas podem ocorrer conforme urnas são computadas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/apuracao-comeca-as-17h-no-domingo-e-viradas-podem-ocorrer-conforme-urnas-sao-computadas.shtml",
+     "angulo": "Como funciona a apuração e as viradas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "A que horas o TSE espera anunciar o próximo presidente da República",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/10/a-que-horas-o-tse-espera-anunciar-o-proximo-presidente-da-republica.ghtml",
+     "angulo": "Hora prevista do resultado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Presença de eleitor nas urnas vira fator decisivo neste domingo após maior abstenção em 1º turno",
+     "url": "https://www.estadao.com.br/politica/eleicoes/apos-maior-abstencao-em-1-turno-campanhas-de-lula-e-flavio-vao-as-ruas-para-mobilizar-ausentes/",
+     "angulo": "A abstenção como fator decisivo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Alerta laranja: mais de 300 cidades do Paraná podem registrar temporais com ventos de 100 km/h no domingo de eleição",
+     "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/25/alerta-laranja-temporal-parana.ghtml",
+     "angulo": "Temporais no Paraná no dia da eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ações no TSE devem prolongar disputa entre Lula e Flávio Bolsonaro com ares de 'terceiro turno'",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/acoes-no-tse-devem-prolongar-disputa-entre-lula-e-flavio-bolsonaro-com-ares-de-terceiro-turno.shtml",
+     "angulo": "A judicialização e o 'terceiro turno'.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "STF recua e TSE dá a Lula mais vitórias que derrotas na campanha contra Flávio",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/stf-recua-e-tse-da-a-lula-mais-vitorias-que-derrotas-na-campanha-contra-flavio/",
+     "angulo": "Levantamento: vitórias e derrotas de Lula no TSE.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Comparecimento nas urnas só aumentou no 2º turno uma vez",
+     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/comparecimento-nas-urnas-so-aumentou-no-2-turno-uma-vez",
+     "angulo": "Histórico do comparecimento em segundos turnos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Brasil vai às urnas em clima de vale-tudo, com fratura exposta e briga acirrada entre Lula e Flávio",
+     "url": "https://www.estadao.com.br/politica/eleicoes/brasil-vai-as-urnas-em-clima-de-vale-tudo-com-fratura-exposta-e-briga-acirrada-entre-lula-e-flavio/",
+     "angulo": "O clima da campanha, na avaliação do Estadão.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Defesa Civil emite alerta severo de chuva para São Paulo e cidades vizinhas",
+     "url": "https://www.metropoles.com/sao-paulo/defesa-civil-emite-alerta-severo-de-chuva-para-sao-paulo-e-cidades-vizinhas",
+     "angulo": "Alerta severo em SP na noite de sábado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Terceiro turno? As disputas no TSE que podem mudar o resultado das urnas",
+     "url": "https://www.diariodocentrodomundo.com.br/terceiro-turno-as-disputas-no-tse-que-podem-mudar-o-resultado-das-urnas/",
+     "angulo": "Lado de esquerda: as ações que podem mudar o resultado.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Milei avalia viagem a SP em eventual vitória de Flávio",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/milei-avalia-viagem-a-sp-em-eventual-vitoria-de-flavio",
+     "angulo": "Milei e a apuração.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Por que duelo entre Lula e Flávio é crucial para a América Latina — e para Trump",
+     "url": "https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Por que a eleição importa para a região e para Trump.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "governadores-2-turno-pesquisas-ac-am-es-rn-to-df",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Cinco estados e o DF escolhem governador hoje; pesquisas apontam disputa apertada só no Rio Grande do Norte",
+   "lide": "Acre, Amazonas, Espírito Santo, Rio Grande do Norte, Tocantins e Distrito Federal têm segundo turno para governador. As últimas pesquisas mostram vantagens folgadas para Mailza Assis (AC), Omar Aziz (AM), Lorenzo Pazolini (ES), Vicentinho Júnior (TO) e Celina Leão (DF); no RN, Quaest dá 51% a Allyson Bezerra e AtlasIntel dá 51,1% a Cadu de Lula.",
+   "fatos": [
+    {
+     "texto": "Quaest: Mailza Assis (PP) 62% a 38% no Acre; Omar Aziz (PSD) 59% a 41% no Amazonas; Lorenzo Pazolini (Republicanos) 55% a 45% no Espírito Santo; Vicentinho Júnior (PSDB) 59% a 41% no Tocantins, em votos válidos.",
+     "base": "4 fontes independentes (Estadão, Terra, Valor, O Globo)"
+    },
+    {
+     "texto": "No Rio Grande do Norte, a Quaest aponta Allyson Bezerra (União) com 51% e Cadu de Lula (PT) com 49%; a Atlas aponta Cadu com 51,1% e Allyson com 48,9%.",
+     "base": "4 fontes independentes (Estadão, Terra, Revista Fórum, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "No Distrito Federal, Celina Leão (PP) tem 59% a 41% no Datafolha, 61% na Quaest e 57,9% a 42,1% na AtlasIntel, contra Leandro Grass (PT).",
+     "base": "4 fontes independentes (Estadão, CNN Brasil, Diário do Poder, Exame)"
+    },
+    {
+     "texto": "AtlasIntel: Mailza Assis 60,4% a 39,6% no Acre; Omar Aziz 56,9% a 43,1% no Amazonas; Vicentinho 53,6% a 36,5% dos votos totais no Tocantins.",
+     "base": "2 fontes independentes (Exame, Veja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "RN e ES são os únicos estados do Nordeste e do Sudeste que não resolveram a disputa estadual no primeiro turno.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O PT aposta em Cadu de Lula no RN como única chance de vitória estadual no segundo turno.",
+    "oposicao": "Aliados de Flávio destacam a vantagem de Celina Leão no DF e o favoritismo de candidatos de centro-direita nos demais estados."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A cobertura estadual ficou quase toda com veículos nacionais de centro; veículos de esquerda só repercutiram a pesquisa favorável a Cadu de Lula, e os de direita só as favoráveis a Allyson e Celina.",
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Veja o que dizem as últimas pesquisas sobre as eleições estaduais no AC, AM, ES, RN, TO e DF",
+     "url": "https://www.estadao.com.br/politica/eleicoes/veja-o-que-dizem-as-ultimas-pesquisas-sobre-as-eleicoes-estaduais-no-ac-am-es-rn-to-e-df/",
+     "angulo": "Panorama dos seis segundos turnos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Quaest 2º turno: veja como estão as últimas pesquisas nas disputas estaduais",
+     "url": "https://oglobo.globo.com/blogs/pulso/post/2026/10/quaest-2o-turno-veja-como-estao-as-ultimas-pesquisas-nas-disputas-estaduais.ghtml",
+     "angulo": "Todos os resultados da Quaest por estado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Pesquisa Atlas: Cadu de Lula tem 51,1% e Allyson, 48,9% dos votos válidos no RN a um dia do 2º turno",
+     "url": "https://www.estadao.com.br/politica/eleicoes/pesquisa-atlas-cadu-de-lula-tem-511-e-allyson-489-dos-votos-validos-no-rn-a-um-dia-do-2-turno/",
+     "angulo": "A Atlas no RN, com Cadu à frente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Urgente: Quaest aponta Allyson Bezerra numericamente à frente de Cadu do PT na última pesquisa de segundo turno no RN",
+     "url": "https://terrabrasilnoticias.com/2026/10/urgente-quaest-aponta-allyson-bezerra-numericamente-a-frente-de-cadu-do-pt-na-ultima-pesquisa-de-segundo-turno-no-rn/",
+     "angulo": "Lado de direita: Allyson à frente na Quaest.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Atlas aponta Cadu de Lula à frente na disputa pelo governo do Rio Grande do Norte",
+     "url": "https://revistaforum.com.br/politica/atlas-aponta-cadu-de-lula/",
+     "angulo": "Lado de esquerda: Cadu à frente na Atlas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Pesquisa AtlasIntel: no DF, Celina Leão tem 57,9% e Leandro Grass 42,1% no 2º turno",
+     "url": "https://exame.com/brasil/pesquisa-atlas-no-df-celina-leao-tem-579-e-leandro-grass-421-no-2o-turno/",
+     "angulo": "Atlas no DF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Quaest: Pazolini tem 55% dos votos válidos no ES; Ferraço, 45%",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/quaest-pazolini-tem-55-dos-votos-validos-no-es-ferraco-45,cda2df94bf3485f8e2f6b4521148063a6m0njjj8.html",
+     "angulo": "Quaest no ES.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Pesquisa Atlas: Mailza Assis tem 60,4% e Alan Rick, 39,6%, no 2º turno no Acre",
+     "url": "https://exame.com/brasil/pesquisa-atlas-mailza-assis-tem-604-e-alan-rick-396-no-2o-turno-no-acre/",
+     "angulo": "Atlas no Acre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Celina e Grass participam de atos em Brasília no último dia de campanha",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/celina-e-grass-participam-de-atos-em-brasilia-no-ultimo-dia-de-campanha/",
+     "angulo": "Último dia de campanha no DF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "promessas-campanha-risco-fiscal-proximo-presidente",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Promessas da reta final deixam ao próximo presidente contas públicas pressionadas; Flávio descarta privatizar a Petrobras",
+   "lide": "Economistas ouvidos pela Folha dizem que a corrida de anúncios de Lula e Flávio nos últimos dias amplia o risco fiscal para 2027; a Gazeta do Povo estima o impacto das medidas anunciadas por Lula entre R$ 300 bilhões e R$ 405 bilhões. A campanha de Flávio garantiu que a privatização da Petrobras não está nos planos, mas o mercado espera venda de ativos; a presidente da estatal admitiu surpresa com o petróleo a US$ 116,93.",
+   "fatos": [
+    {
+     "texto": "A campanha de Flávio Bolsonaro afirmou que a privatização da Petrobras não está nos planos de um eventual governo.",
+     "base": "Folha"
+    },
+    {
+     "texto": "A presidente da Petrobras, Magda Chambriard, disse que a estatal não previa o barril a US$ 116,93 em outubro e que a empresa discute medidas diante dos efeitos da guerra.",
+     "base": "Gazeta do Povo"
+    },
+    {
+     "texto": "Educação, ciência e inovação foram pouco abordadas pelos candidatos no segundo turno; Lula promete ampliar a escola em tempo integral e manter o Pé-de-Meia, e Flávio defende método fônico, vouchers e escolas cívico-militares.",
+     "base": "2 fontes independentes (Exame, Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As promessas de Lula e Flávio às vésperas do segundo turno ampliam o risco de colapso fiscal e deixam 'fatura salgada' para 2027.",
+     "quem": "Economistas ouvidos pela Folha"
+    },
+    {
+     "texto": "As 'bondades' anunciadas por Lula custariam de R$ 300 bilhões a R$ 405 bilhões e configuram compra de votos.",
+     "quem": "Editorial da Gazeta do Povo"
+    },
+    {
+     "texto": "O vitorioso terá de recolocar as contas públicas nos trilhos para reduzir juros e pobreza.",
+     "quem": "Editorial da Folha"
+    },
+    {
+     "texto": "O mercado espera retomada da venda de ativos e enxugamento da Petrobras num governo Flávio.",
+     "quem": "Folha, com analistas de mercado"
+    },
+    {
+     "texto": "O próximo governo pode herdar cenário econômico pior que o recebido por Dilma Rousseff.",
+     "quem": "Gabriel Leal de Barros, economista, ao Terra Brasil Notícias"
+    },
+    {
+     "texto": "A eleição coloca em disputa a manutenção de um plano que elevou a dívida pública e o corte de gastos para equilibrar as contas.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Lula 3 e Jair Bolsonaro nunca passaram de 38% de 'ótimo ou bom'; quem vencer governará impopular numa economia difícil.",
+     "quem": "Vinicius Torres Freire, Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo defende que as medidas (fim da 6x1, perdão a MEIs, programas sociais) são políticas de Estado com espaço fiscal, não promessas eleitorais.",
+    "oposicao": "A oposição e a imprensa liberal chamam as medidas de compra de votos e dizem que Flávio cortará gastos para equilibrar as contas."
+   },
+   "visao_de_fora": "La Nación avalia o que a indústria automotiva argentina tem em jogo no resultado brasileiro, com possível renegociação de tarifas.",
+   "ponto_cego": "Veículos de esquerda não discutiram o custo fiscal das medidas; a imprensa de direita e econômica não quantificou o custo das promessas de Flávio (que a Folha também inclui na conta).",
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Promessas de Lula e Flávio às vésperas do 2º turno ampliam risco de colapso fiscal do Brasil",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/promessas-de-lula-e-flavio-as-vesperas-do-2o-turno-ampliam-risco-de-colapso-fiscal-do-brasil.shtml",
+     "angulo": "Economistas: risco fiscal com promessas dos dois lados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Compra de votos sem precedentes marca reta final da campanha de Lula",
+     "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/compra-de-votos-reta-final-campanha-lula/",
+     "angulo": "Editorial: 'compra de votos' de Lula.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio descarta privatizar Petrobras, mas mercado espera venda de ativos",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/flavio-descarta-privatizar-petrobras-mas-mercado-espera-venda-de-ativos.shtml",
+     "angulo": "Flávio e a Petrobras: o que a campanha diz e o que o mercado espera.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Petrobras admite surpresa com escalada do petróleo e ainda não definiu reação",
+     "url": "https://www.gazetadopovo.com.br/economia/petrobras-admite-surpresa-escalada-petroleo-ainda-nao-definiu-reacao/",
+     "angulo": "A Petrobras e o petróleo a US$ 116.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Lula x Flávio Bolsonaro: o que cada um propõe sobre educação?",
+     "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-sobre-educacao/",
+     "angulo": "Propostas de educação comparadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Economista alerta que Lula pode deixar herança econômica pior que a de Dilma",
+     "url": "https://terrabrasilnoticias.com/2026/10/economista-alerta-que-lula-pode-deixar-heranca-economica-pior-que-a-de-dilma/",
+     "angulo": "Lado de direita: herança pior que a de Dilma.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Elecciones en Brasil: qué se juega la industria automotriz argentina y cómo podría cambiar el escenario",
+     "url": "https://www.lanacion.com.ar/autos/elecciones-en-brasil-que-se-juega-la-industria-automotriz-argentina-y-como-podria-cambiar-el-nid25102026/",
+     "angulo": "O que a indústria argentina tem em jogo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "europa-protestos-franca-410-mil-mil-presos-italia-espanha",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Protestos levam 410 mil às ruas na França com quase mil presos e se espalham por Itália, Espanha, Bélgica e Albânia",
+   "lide": "O Ministério do Interior francês contou 410 mil manifestantes no sábado (24), 110 mil em Paris, em marchas majoritariamente pacíficas seguidas de confrontos à noite; houve 964 detenções e menos destruição que na semana anterior. Em Barcelona, cerca de 100 pessoas foram presas após saques e incêndios; em Roma e Milão houve confrontos, e na Albânia o 12º dia de protestos pediu a renúncia do premiê Edi Rama.",
+   "continua": {
+    "data": "2026-10-24",
+    "id": "franca-70-mil-policiais-protestos-ataque-trappes",
+    "titulo": "França mobiliza 70 mil policiais e fecha museus para novo dia de protestos após ataque 'terrorista racista' perto de Paris"
+   },
+   "fatos": [
+    {
+     "texto": "Segundo o governo francês, 410 mil pessoas participaram das manifestações, 110 mil em Paris, com cerca de 70 mil policiais mobilizados.",
+     "base": "5 fontes independentes (France 24/AFP, DW Brasil, SBT News, El País, Clarín)"
+    },
+    {
+     "texto": "Quase mil pessoas foram detidas na França (964, segundo a DW); os distúrbios ocorreram após o fim das marchas e causaram menos danos que no fim de semana anterior.",
+     "base": "6 fontes independentes (BBC, The Guardian, NYT, Gazeta do Povo, g1, Fox News)"
+    },
+    {
+     "texto": "Em Barcelona, cerca de 100 pessoas foram presas após manifestantes encapuzados saquearem lojas e incendiarem mobiliário urbano perto da Praça da Catalunha.",
+     "base": "2 fontes independentes (g1, SBT News)"
+    },
+    {
+     "texto": "Houve protestos e confrontos também na Itália (Roma e Milão, com soldados nas ruas), na Bélgica e na Albânia, onde manifestantes pedem a renúncia do premiê Edi Rama.",
+     "base": "5 fontes independentes (g1, Al Jazeera, Euronews, Estadão, Bloomberg)"
+    },
+    {
+     "texto": "O suspeito do ataque de Trappes tinha um exemplar de 'Mein Kampf' em casa e disse à polícia ter vingado comerciantes saqueados.",
+     "base": "Folha"
+    },
+    {
+     "texto": "A Moody's decidiu não rebaixar a nota de crédito da França.",
+     "base": "Folha"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os protestos têm mais a ver com déficits fiscais e dívida do que com um choque civilizatório.",
+     "quem": "Luis Schenoni, especialista em segurança, ao La Nación"
+    },
+    {
+     "texto": "Jean-Luc Mélenchon é acusado de incentivar protestos violentos.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "O movimento é 'islamo-esquerdista' ('verde-vermelho').",
+     "quem": "Breitbart"
+    },
+    {
+     "texto": "A grande presença policial, as mil prisões e a mudança dos trajetos evitaram o vandalismo em larga escala.",
+     "quem": "The New York Times"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O ataque de Trappes foi o primeiro atentado terrorista por motivação racial ou religiosa na França (dito por Macron).",
+     "rotulo": "Falso",
+     "explicacao": "Macron recuou da afirmação, segundo o Breitbart; a França já registrou atentados com essa motivação.",
+     "onde_circula": "declaração de Macron e redes",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a Gazeta do Povo enquadra pela responsabilidade da esquerda radical (Mélenchon) e pela imigração; DCM e g1 destacam o custo de vida como motor comum aos cinco países.",
+   "ponto_cego": "A direita brasileira (Gazeta, Breitbart) atribui a violência à esquerda e à imigração; a esquerda brasileira (DCM) enquadra como revolta contra o custo de vida e ignora os saques. Só veículos estrangeiros detalharam o número de presos e os danos.",
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Quase mil presos e centenas de milhares nas ruas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Hundreds of thousands march across France in protests over schools and policing",
+     "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+     "angulo": "Pautas: escolas e policiamento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "França registra quase mil prisões após novo dia de protestos",
+     "url": "https://www.gazetadopovo.com.br/mundo/franca-registra-quase-mil-prisoes-apos-novo-dia-de-confrontos/",
+     "angulo": "Cobertura brasileira de direita, factual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Protestos contra custo de vida levam multidões às ruas em cinco países da Europa",
+     "url": "https://www.diariodocentrodomundo.com.br/protestos-custo-de-vida-europa-franca-italia-belgica/",
+     "angulo": "Cobertura de esquerda: custo de vida em cinco países.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Multidões protestam na França, Espanha, Itália, Bélgica e Albânia; confrontos incluem bombas, pedras e prisões",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/24/europa-tem-novo-dia-de-protestos-e-varias-cidades-registram-confrontos-videos.ghtml",
+     "angulo": "Panorama europeu com vídeos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+     "angulo": "Menos danos materiais desta vez.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/24/protesto-em-barcelona-termina-com-presos-lojas-saqueadas-e-incendios.ghtml",
+     "angulo": "Barcelona: 100 presos e saques.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Clashes Break Out at Protests Across France as Green-Red Demonstrations Continue",
+     "url": "https://www.breitbart.com/europe/2026/10/24/clashes-break-out-at-protests-across-france-as-green-red-demonstrations-continue/",
+     "angulo": "Enquadra como movimento 'islamo-esquerdista'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Jean-Luc Mélenchon enfrenta acusações por incentivar protestos violentos na França",
+     "url": "https://www.gazetadopovo.com.br/mundo/jean-luc-melenchon-enfrenta-acusacoes-por-incentivar-protestos-violentos-na-franca/",
+     "angulo": "Mélenchon acusado de incentivar violência.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Albanian Protests Turn Violent as Calls Grow for PM to Resign",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-24/albanian-protests-turn-violent-as-calls-grow-for-pm-to-resign",
+     "angulo": "Albânia: pedidos de renúncia do premiê.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Casi medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
+     "url": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+     "angulo": "Meio milhão desafia Macron.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Polícia encontra 'Mein Kampf', de Hitler, na residência de atirador na França",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/policia-encontra-mein-kampf-de-hitler-na-residencia-de-atirador-na-franca.shtml",
+     "angulo": "O perfil do atirador de Trappes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "França evita rebaixamento pela Moodys, em alívio para o governo Macron",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/franca-evita-rebaixamento-pela-moodys-em-alivio-para-o-governo-macron.shtml",
+     "angulo": "A nota de crédito mantida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "hebron-palestinos-deslocados-protesto-tel-aviv-eleicao",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Israel arrasa bairro em Hebron e desloca ao menos 1.200 palestinos; milhares protestam em Tel Aviv contra Netanyahu a três dias da eleição",
+   "lide": "Um dia após o ataque que matou dois soldados, forças israelenses demoliram casas, lojas e fábricas em Hebron e obrigaram entre 1.200 (segundo autoridade palestina) e 2 mil palestinos a deixar suas casas; Netanyahu prometeu 'destruir este lugar'. Em Tel Aviv, milhares marcharam no sábado contra o governo exigindo inquérito independente sobre o 7 de outubro, antes da eleição de terça (27).",
+   "continua": {
+    "data": "2026-10-24",
+    "id": "israel-hebron-operacao-cisjordania-eleicao-27",
+    "titulo": "Netanyahu ordena operação 'muito extensa' na Cisjordânia após morte de dois soldados em Hebron, a quatro dias da eleição"
+   },
+   "fatos": [
+    {
+     "texto": "Forças israelenses demoliram casas e prédios em Hebron e obrigaram cerca de 1.200 palestinos a deixar suas casas, segundo um integrante do governo em Ramallah; A Tarde e a France 24 citam 2 mil deslocados e a Euronews, 250 famílias.",
+     "base": "6 fontes independentes (Folha, France 24/AFP, BBC, The Guardian, NYT, Euronews)"
+    },
+    {
+     "texto": "Residências, lojas, fábricas e estradas foram demolidas e entradas de cidades e vias da Cisjordânia estão bloqueadas.",
+     "base": "3 fontes independentes (SBT News, The Guardian, O Globo)"
+    },
+    {
+     "texto": "Milhares de israelenses marcharam em Tel Aviv no sábado contra o governo Netanyahu, com líderes da oposição e familiares de vítimas, exigindo investigação independente sobre o 7 de outubro de 2023.",
+     "base": "4 fontes independentes (Al Jazeera, El País, France 24/AFP, Clarín)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A operação é punição coletiva de centenas de famílias por um ataque de militantes.",
+     "quem": "The Guardian"
+    },
+    {
+     "texto": "A Autoridade Palestina pede pressão internacional sobre Israel.",
+     "quem": "Autoridade Palestina, segundo a France 24"
+    },
+    {
+     "texto": "Assessores de Trump veem oportunidade para a agenda no Oriente Médio num governo sem Netanyahu, embora Trump o tenha endossado.",
+     "quem": "Axios, com autoridades americanas"
+    },
+    {
+     "texto": "O banco central de Israel rejeita o plano de Netanyahu de usar criptomoedas para contornar sanções.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "A alta participação dos palestinos cidadãos de Israel busca derrubar Netanyahu.",
+     "quem": "El País"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, Folha, SBT News, O Globo e A Tarde noticiaram as demolições; a Terra Brasil Notícias trata a eleição pelo prisma do 7 de outubro.",
+   "ponto_cego": "A imprensa brasileira de direita não cobriu as demolições nem o protesto em Tel Aviv; a de esquerda também não. A cobertura em português ficou com Folha, SBT, O Globo e A Tarde.",
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Famílias deslocadas pelas demolições.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+     "angulo": "Bairro arrasado; Netanyahu promete 'destruir este lugar'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Cerca de 1.200 palestinos são deslocados após operação do Exército de Israel",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/cerca-de-1200-palestinos-sao-deslocados-em-hebron-apos-israel-iniciar-operacao-militar.shtml",
+     "angulo": "Cobertura brasileira: os 1.200 deslocados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Militares israelenses retiram 1,2 mil palestinos de casas",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/militares-israelenses-retiram-1-2-mil-palestinos-de-casas",
+     "angulo": "O que foi demolido e bloqueado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Israel Cracks Down in West Bank City After Deadly Attack",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+     "angulo": "Centenas de famílias fugiram da operação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
+     "angulo": "Conta 250 famílias removidas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+     "angulo": "O protesto em Tel Aviv.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Miles de personas piden el fin del Gobierno de Netanyahu tres días antes de las elecciones",
+     "url": "https://elpais.com/internacional/2026-10-24/miles-de-personas-piden-el-fin-del-gobierno-de-netanyahu-tres-dias-antes-de-las-elecciones.html",
+     "angulo": "Familiares de vítimas pedem inquérito.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
+     "url": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
+     "angulo": "Assessores de Trump olham além de Netanyahu.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Elecciones en Israel: El \"rey Bibi\" Netanyahu busca mantener el trono tras su mandato más turbulento",
+     "url": "https://www.clarin.com/mundo/elecciones-israel-rey-bibi-netanyahu-busca-mantener-trono-mandato-turbulento_0_dka9JGSMxR.html",
+     "angulo": "O 'rei Bibi' tenta manter o trono.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Exército israelense demole casa de empresário palestino na Cisjordânia: 'Me retiraram à força'",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/10/24/exercito-israelense-demole-casa-de-empresario-palestino-na-cisjordania-me-retiraram-a-forca.ghtml",
+     "angulo": "Relato de um palestino removido à força.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+     "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+     "angulo": "Banco central rejeita plano cripto de Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "starlink-ucrania-restaurado-musk-acusa-violacao",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Ucrânia diz que Starlink voltou a funcionar normalmente; Musk acusa Kiev de violar os termos de uso",
+   "lide": "Zelensky afirmou no sábado (24) que o acesso ao Starlink e ao Starshield voltou às velocidades anteriores, dez dias após as restrições que prejudicaram operações de drones na frente. Em sua primeira declaração sobre o caso, Elon Musk acusou os militares ucranianos de violar os termos de uso, dizendo que o sistema é civil, 'não um meio de matar'.",
+   "continua": {
+    "data": "2026-10-24",
+    "id": "oleshky-cessar-fogo-melania-starlink-prisioneiros",
+    "titulo": "Rússia e Ucrânia aceitam cessar-fogo local em Oleshky mediado por Melania Trump; Kiev diz que Starlink segue restrito"
+   },
+   "fatos": [
+    {
+     "texto": "O governo ucraniano afirmou que a conexão com o Starlink está estável e que as velocidades normais foram restauradas após mais de uma semana de restrições.",
+     "base": "6 fontes independentes (BBC, The Guardian, Financial Times, NPR, g1, SBT News)"
+    },
+    {
+     "texto": "Elon Musk acusou os militares ucranianos de violar os termos de uso do Starlink, afirmando que se trata de um sistema civil e que violações levarão ao fim do serviço.",
+     "base": "4 fontes independentes (NYT, Le Monde, The Guardian, g1)"
+    },
+    {
+     "texto": "Ataques russos nas regiões de Dnipropetrovsk e Kharkiv deixaram quatro mortos; um ataque ucraniano a uma fábrica na região russa de Oryol matou três pessoas, segundo autoridades locais.",
+     "base": "2 fontes independentes (Le Monde, Euronews)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A lentidão do sistema de comunicação dos drones prejudicou a capacidade de Kiev de se defender dos ataques russos.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "Steve Witkoff deveria renunciar.",
+     "quem": "Presidente da comissão de assuntos ucranianos, à France 24"
+    },
+    {
+     "texto": "Melania Trump é 'melhor que os profissionais' e pode visitar a Ucrânia para ver o cessar-fogo de Oleshky.",
+     "quem": "Donald Trump e Melania Trump, segundo Al Jazeera e New York Post"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "g1 e SBT News noticiaram a restauração; o SBT destaca que o Starshield também opera sem limitações.",
+   "ponto_cego": "A cobertura brasileira não repercutiu a acusação de Musk de que a Ucrânia violou os termos de uso, nem a controvérsia sobre o papel do papa na trégua de Oleshky.",
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+     "angulo": "Musk diz que a Ucrânia violou as regras.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/24/ucrania-diz-que-starlink-voltou-a-funcionar-elon-musk-acusa-pais-de-usar-sistema-para-ataques.ghtml",
+     "angulo": "Cobertura brasileira: restauração e acusação de Musk.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Ukraine military says Starlink service restrictions have been lifted",
+     "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+     "angulo": "Restrições suspensas; o impacto na defesa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+     "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+     "angulo": "Conexão estável, mas Musk acusa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Guerra na Ucrânia: Starlink volta a funcionar sem restrições",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/guerra-na-ucrania-starlink-volta-a-funcionar-sem-restricoes",
+     "angulo": "Starshield também sem limitações.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+     "angulo": "Conexão 'agora estável'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "npr",
+     "titulo": "Ukraine says Starlink is back to normal after disruptions",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "angulo": "Zelensky anuncia velocidades normais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "EN DIRECT, guerre en Ukraine : Elon Musk accuse Kiev de violer les conditions d’utilisation du réseau Starlink",
+     "url": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-elon-musk-accuse-kiev-de-violer-les-conditions-d-utilisation-du-reseau-starlink_6799896_3210.html",
+     "angulo": "Ao vivo: a acusação de Musk e os ataques russos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Melania Trump hints she could go to Ukraine to see her cease-fire in action, thanks Pope for his ‘support’",
+     "url": "https://nypost.com/2026/10/24/us-news/melania-trump-hints-she-could-go-to-ukraine-to-see-her-cease-fire-in-action/",
+     "angulo": "Melania pode ir à Ucrânia; agradece ao papa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+     "angulo": "Trump elogia Melania pela trégua.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "ira-eua-alerta-ataques-americanos-trump-domingo",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "EUA retiram diplomatas da Arábia Saudita por alerta de ataques iranianos; Trump fala em atacar o Irã 'já no domingo' ou fechar acordo",
+   "lide": "O governo americano ordenou que diplomatas e funcionários federais deixem a Arábia Saudita e reduziu equipes em outras missões na região, com base em inteligência de que o Irã está em 'estágios avançados' de planejamento de ataques contra americanos. Trump disse considerar um ataque ao Irã já neste domingo (25) ou um grande acordo com Teerã; o Irã culpa os EUA pelo fracasso das negociações e avisa que responderá 'várias vezes mais forte'.",
+   "continua": {
+    "data": "2026-10-23",
+    "id": "ira-ameaca-golfo-trump-novos-ataques-istambul",
+    "titulo": "Irã ameaça Golfo e Trump fala em novos ataques; negociações em Istambul"
+   },
+   "fatos": [
+    {
+     "texto": "O governo dos EUA ordenou a saída de diplomatas e funcionários federais da Arábia Saudita e reduziu o efetivo de outras missões no Oriente Médio, citando inteligência de que o Irã planeja ataques contra americanos em 'estágios avançados'.",
+     "base": "3 fontes independentes (NYT, Financial Times, Folha)"
+    },
+    {
+     "texto": "Trump disse que os EUA consideram um possível ataque ao Irã já no domingo, ou que podem fechar um grande acordo com Teerã.",
+     "base": "Al Jazeera (cobertura ao vivo)"
+    },
+    {
+     "texto": "O Irã culpou os EUA pelo fracasso do acordo, pediu nova tentativa e advertiu que mesmo ataques limitados terão resposta 'várias vezes maior'.",
+     "base": "Al Jazeera"
+    },
+    {
+     "texto": "Barack Obama, em comícios em Ohio e Michigan, criticou a 'crueldade e incompetência' de Trump e disse que ele 'decidiu iniciar uma guerra desnecessária'.",
+     "base": "3 fontes independentes (O Globo, Al Jazeera, La Nación)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A guerra que Trump disse que acabaria em semanas deve escalar ao entrar no nono mês, após as eleições americanas e israelenses.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "Iranianos vivem espera angustiada diante da ameaça de novos ataques.",
+     "quem": "The New York Times"
+    },
+    {
+     "texto": "Uma vitória democrata nas legislativas colocará Trump na defensiva, com efeitos para o Brasil.",
+     "quem": "Lourival Sant'Anna, Estadão"
+    },
+    {
+     "texto": "Trump disse que 'cuidará de Cuba depois do Irã'.",
+     "quem": "Donald Trump, em comício na Flórida, segundo El País"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A Folha noticiou o alerta de inteligência; o Estadão analisa como as legislativas americanas afetam o Brasil. Ataque saudita em Sanaa deixou ao menos 16 mortos, segundo emissora citada pelo g1.",
+   "ponto_cego": "A imprensa brasileira, de todos os lados, quase não acompanha o risco de escalada com o Irã; a cobertura vem de NYT, FT, Al Jazeera e Bloomberg.",
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+     "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+     "angulo": "Alerta de inteligência e retirada de diplomatas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
+     "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+     "angulo": "O memorando de inteligência.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Irã tem planos avançados para atacar americanos, dizem autoridades do governo de Donald Trump",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/ira-tem-planos-avancados-para-atacar-americanos-dizem-autoridades-do-governo-de-donald-trump.shtml",
+     "angulo": "Cobertura brasileira do alerta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+     "angulo": "Trump: ataque no domingo ou acordo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+     "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+     "angulo": "A versão iraniana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Prepares for Iran Escalation After US, Israeli Polls",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-24/trump-prepares-for-iran-escalation-after-us-israeli-elections",
+     "angulo": "Escalada após as eleições.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Iranians Face Anxious Wait as Threat of Attack Looms",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+     "angulo": "Como vivem os iranianos sob a ameaça.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Obama critica 'crueldade e incompetência' de Trump: 'Decidiu iniciar uma guerra desnecessária'",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/10/24/obama-critica-crueldade-e-incompetencia-de-trump-decidiu-iniciar-uma-guerra-desnecessaria.ghtml",
+     "angulo": "Obama ataca a 'guerra desnecessária'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Vitória democrata nas eleições legislativas colocará Trump na defensiva. Como isso afeta o Brasil?",
+     "url": "https://www.estadao.com.br/internacional/lourival-santanna/vitoria-democrata-nas-eleicoes-legislativas-colocara-trump-na-defensiva-como-isso-afeta-o-brasil/",
+     "angulo": "Como as midterms afetam o Brasil.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ataques sauditas no Iêmen deixam ao menos 16 mortos, diz emissora",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/24/ataques-arabia-saudita-iemen.ghtml",
+     "angulo": "Ataque saudita em Sanaa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "id": "kim-jong-un-china-ponte-yalu-aproximacao",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Kim Jong-un visita a China pela nova ponte sobre o rio Yalu em gesto de aproximação com Pequim",
+   "lide": "O líder norte-coreano cruzou no sábado (24) a ponte recém-inaugurada entre os dois países e visitou Dandong, na primeira viagem à China em mais de um ano, um dia após pedir um 'exército mais forte' e uma 'revolução militar'. Analistas dizem que Pequim busca estreitar laços diante da aproximação de Pyongyang com Moscou.",
+   "fatos": [
+    {
+     "texto": "Kim Jong-un cruzou a nova ponte sobre o rio Yalu e visitou Dandong, na província de Liaoning, na primeira visita à China em mais de um ano; a viagem não havia sido anunciada.",
+     "base": "6 fontes independentes (NYT, Financial Times, The Guardian, g1, DW Brasil, IstoÉ)"
+    },
+    {
+     "texto": "A visita ocorreu um dia após Kim pedir um 'exército mais forte' e uma 'revolução militar'.",
+     "base": "2 fontes independentes (g1, IstoÉ)"
+    },
+    {
+     "texto": "Kim depositou coroa de flores no Memorial da Guerra para Resistir à Agressão dos EUA e Ajudar a Coreia e se encontrou com um alto dirigente do Partido Comunista.",
+     "base": "2 fontes independentes (g1, The Guardian)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Pequim está preocupada com a relação mais forte entre Pyongyang e Moscou.",
+     "quem": "Analistas ouvidos pelo Financial Times"
+    },
+    {
+     "texto": "A visita afasta definitivamente os boatos de que Kim teria morrido.",
+     "quem": "g1"
+    },
+    {
+     "texto": "A China 'se opõe firmemente' à proposta do Tesouro americano de ampliar restrições a investimentos no país.",
+     "quem": "Governo chinês, segundo a Bloomberg"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "g1, DW Brasil e IstoÉ noticiaram a visita; a Folha registra que executivos brasileiros trocam o Vale do Silício pela China em busca de inovação.",
+   "ponto_cego": "Nenhum veículo brasileiro de esquerda ou de direita cobriu a visita; a cobertura em português ficou com g1, DW e IstoÉ.",
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "Kim Jong-un Makes First Visit to China in Over a Year",
+     "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+     "angulo": "Primeira visita em mais de um ano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "North Korea’s Kim crosses new China border bridge to reaffirm ties",
+     "url": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
+     "angulo": "A preocupação de Pequim com Moscou.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Kim Jong-un crosses newly opened bridge into China",
+     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+     "angulo": "A travessia da nova ponte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/24/kim-jong-un-visita-china-um-dia-apos-pedir-exercito-mais-forte-e-revolucao-militar.ghtml",
+     "angulo": "Contexto: o pedido de 'revolução militar'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Kim Jong-un viaja à China por ponte recém-inaugurada",
+     "url": "https://www.dw.com/pt-br/kim-jong-un-viaja-à-china-por-ponte-recém-inaugurada/a-79750900?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Cobertura alemã em português.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Kim Jong-un visita China após cobrar “revolução militar”",
+     "url": "https://istoe.com.br/kim-jong-un-visita-china-revolucao-militar",
+     "angulo": "Visita não anunciada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "China Hits Back at US Proposal to Tighten Investment Limits",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-24/china-hits-back-at-us-proposal-to-tighten-investment-limits",
+     "angulo": "China reage a proposta americana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-24"
+    }
+   ]
+  }
+ ]
+}
