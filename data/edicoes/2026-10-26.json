@@ -1,0 +1,1994 @@
+{
+ "tipo": "edicao",
+ "data": "2026-10-26",
+ "gerado_em": "2026-10-26T06:02:31-03:00",
+ "historias": [
+  {
+   "id": "lula-reeleito-51-79-virada-inedita-quarto-mandato",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Lula é reeleito com 51,79% dos votos válidos na primeira virada entre turnos desde a redemocratização",
+   "lide": "Com 100% das urnas apuradas, Lula somou 64,26 milhões de votos (51,79%) contra 59,8 milhões (48,21%) de Flávio Bolsonaro, vantagem de 4,43 milhões, o dobro da obtida sobre Jair Bolsonaro em 2022. Derrotado no primeiro turno, o presidente ganhou 10,3 milhões de votos entre as duas etapas, virou em Minas Gerais e venceu em 13 unidades da federação; o TSE proclamou o resultado às 21h08.",
+   "contexto": "Todas as nove pesquisas divulgadas na véspera mostravam Flávio numericamente à frente, dentro da margem de erro. Lula completa 81 anos na terça (27) e terá o quarto mandato, inédito na história do país.",
+   "continua": {
+    "data": "2026-10-25",
+    "id": "ultimas-pesquisas-flavio-51-lula-49-menor-distancia",
+    "titulo": "Últimas pesquisas mostram Flávio numericamente à frente de Lula em todas, mas dentro da margem de erro"
+   },
+   "fatos": [
+    {
+     "texto": "Lula foi reeleito com 51,79% dos votos válidos (64.256.232 votos) contra 48,21% de Flávio Bolsonaro (59,8 milhões); a diferença foi de 4.430.191 votos, o dobro da registrada em 2022 sobre Jair Bolsonaro.",
+     "base": "7 fontes independentes (Folha, Valor, CNN Brasil, Agência Câmara, SBT News, Jota, Diário do Poder)"
+    },
+    {
+     "texto": "Lula recebeu 10.289.240 votos a mais no segundo turno do que no primeiro, mais que a soma dos 10 candidatos eliminados (9.316.747), e cresceu em todos os estados.",
+     "base": "2 fontes independentes (g1, BBC Brasil)"
+    },
+    {
+     "texto": "Lula venceu em 13 unidades da federação, com virada em Minas Gerais, e Flávio em 14; Lula venceu em 12 capitais e liderava em Salvador, Flávio em 14 capitais.",
+     "base": "4 fontes independentes (Folha, CNN Brasil, g1, Brasil de Fato)"
+    },
+    {
+     "texto": "Lula ganhou em 2.875 municípios e Flávio em 2.695; em 2022, Lula havia vencido em 3.123.",
+     "base": "Poder360 (dados do TSE)"
+    },
+    {
+     "texto": "É a primeira vez desde a redemocratização que o candidato derrotado no primeiro turno vence o segundo.",
+     "base": "4 fontes independentes (Estadão, Jota, DCM, DW Brasil)"
+    },
+    {
+     "texto": "No discurso da vitória na Avenida Paulista, Lula agradeceu à juventude e a André Janones, prometeu regular as plataformas digitais, falou em 'intromissão de fora para dentro' e disse que fará um governo 'diferente' para os 215 milhões de brasileiros.",
+     "base": "5 fontes independentes (g1, Valor, Jota, Revista Fórum, Opera Mundi)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A virada combinou mais eleitores nas urnas, menos brancos e nulos e virada em mais de 200 cidades.",
+     "quem": "g1, com dados do TSE"
+    },
+    {
+     "texto": "A mobilização que saiu das redes e chegou às ruas, puxada por Janones, derrubou a abstenção e abriu caminho para a vitória.",
+     "quem": "Especialistas ouvidos pelo Estadão"
+    },
+    {
+     "texto": "Lula virou a votação com anúncios eleitoreiros e militância na rua; os R$ 300 bilhões a R$ 400 bilhões em medidas tiveram efeito.",
+     "quem": "Gazeta do Povo (reportagem e editorial)"
+    },
+    {
+     "texto": "A vitória quebra a onda mundial de avanço eleitoral da direita acentuada após a eleição de Trump.",
+     "quem": "Valor e Bloomberg"
+    },
+    {
+     "texto": "Lula 'salvou a democracia pela segunda vez'.",
+     "quem": "Geraldo Alckmin, vice-presidente reeleito"
+    },
+    {
+     "texto": "Os institutos de pesquisa erraram o vencedor de novo.",
+     "quem": "Gazeta do Povo e Diário do Poder"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo fala em vitória histórica da democracia e da mobilização popular contra a interferência das big techs e de fora.",
+    "oposicao": "A oposição atribui a virada a 'bondades' fiscais da campanha e à prorrogação da votação, e questiona a legitimidade do resultado."
+   },
+   "visao_de_fora": "NYT, FT, Bloomberg e Le Monde destacam a vitória 'surpresa' que interrompe a sequência de vitórias conservadoras na América Latina; o FT a chama de golpe nos planos de Trump para a região.",
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Diário do Poder) tratam a vitória como fruto de medidas eleitoreiras e tumulto judicial, sem analisar a queda da abstenção; veículos de esquerda não discutem o custo fiscal das promessas.",
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Em virada histórica, Lula se reelege e quebra onda mundial de avanço da direita",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-e-reeleito-presidente-da-republica.ghtml",
+     "angulo": "Enquadra como quebra da onda mundial da direita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lula vira votação com anúncios eleitoreiros e militância na rua",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-vira-votacao-com-anuncios-eleitoreiros-militancia-na-rua/",
+     "angulo": "Atribui a virada a anúncios eleitoreiros e militância.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Mais eleitores nas urnas, menos votos brancos e nulos e virada em mais de 200 cidades: a combinação que levou Lula à vitória histórica",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/entenda-vitoria-historica-lula.ghtml",
+     "angulo": "Os fatores da virada, com dados do TSE.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula vence em todos os estados do Nordeste e amplia vantagem sobre Flávio Bolsonaro para garantir vitória histórica",
+     "url": "https://www.brasildefato.com.br/2026/10/25/lula-amplia-vantagem-sobre-flavio-bolsonaro-em-todos-os-estados-do-nordeste-regiao-decisiva-para-vitoria-historica/",
+     "angulo": "Destaca o Nordeste como região decisiva.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Em discurso da vitória, Lula agradece Janones, reclama de 'intromissão' externa e diz que fará um governo 'diferente'",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/em-discurso-da-vitria-lula-agradece-janones-reclama-de-intromisso-externa-e-diz-que-far-um-governo-diferente.ghtml",
+     "angulo": "O discurso: Janones, big techs e governo 'diferente'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Mobilização nas ruas, Janones e debate; especialistas analisam o que levou à virada de Lula",
+     "url": "https://www.estadao.com.br/politica/eleicoes/mobilizacao-nas-ruas-janones-e-debate-especialistas-analisam-o-que-levou-a-virada-de-lula/",
+     "angulo": "Especialistas explicam a virada.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Os números que mostram de onde vieram os 10 milhões de votos que deram virada histórica a Lula",
+     "url": "https://www.bbc.com/portuguese/articles/cqe8rekpg9lxo?at_medium=RSS&at_campaign=rss",
+     "angulo": "De onde vieram os 10 milhões de votos.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Lula ganha 2º turno em 2.875 cidades; Flávio, em 2.695",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-ganha-2o-turno-em-2-875-cidades-flavio-em-2-695/",
+     "angulo": "Mapa dos municípios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Institutos de pesquisa erram vencedor da eleição presidencial; veja qual chegou mais perto",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/institutos-pesquisa-erram-vencedor-eleicao-veja-qual-chegou-mais-perto/",
+     "angulo": "Direita: os institutos erraram de novo.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Com “exército” de Janones, Lula consegue virada inédita e é reeleito presidente",
+     "url": "https://apublica.org/2026/10/exercito-de-lula-presidente-consegue-virada-inedita/",
+     "angulo": "O papel do 'exército' de Janones.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Alckmin agradece Lula em discurso de vitória: ‘Salvou a democracia pela segunda vez’",
+     "url": "https://jovempan.com.br/politica/alckmin-agradece-lula-em-discurso-de-vitoria-salvou-a-democracia-pela-segunda-vez/",
+     "angulo": "Alckmin: 'salvou a democracia pela segunda vez'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula chora ao ser reeleito e catarse toma conta de sala ‘Bonadei’ onde petistas acompanharam virada",
+     "url": "https://www.estadao.com.br/politica/lula-chora-ao-ser-reeleito-e-catarse-toma-conta-de-sala-bonadei-onde-petistas-acompanham-apuracao/",
+     "angulo": "Bastidores da sala onde o PT acompanhou a virada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Here’s the latest.",
+     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+     "angulo": "Cobertura ao vivo do NYT.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "flavio-nao-reconhece-pede-anulacao-especialistas-remota",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Flávio não reconhece a derrota e diz que pedirá anulação da eleição; partidos aliados parabenizam Lula e especialistas veem chance remota",
+   "lide": "Em pronunciamento na noite de domingo (25), Flávio Bolsonaro disse ser 'impossível reconhecer o resultado', chamou de 'sacanagem' a prorrogação da votação decidida pelo STF e anunciou que acionará juristas para anular o pleito. Republicanos, MDB e PSDB, que o apoiaram, reconheceram a vitória de Lula. Especialistas dizem que seria preciso provar prejuízo maior que os 4,4 milhões de votos de diferença.",
+   "fatos": [
+    {
+     "texto": "Flávio Bolsonaro afirmou que é 'impossível reconhecer o resultado das eleições', classificou a prorrogação como 'sacanagem' e 'inexplicável' e disse que pedirá a anulação do pleito.",
+     "base": "8 fontes independentes (Estadão, g1, Gazeta do Povo, Revista Fórum, CNN Brasil, Agência Brasil, Jota, A Tarde)"
+    },
+    {
+     "texto": "Os presidentes do Republicanos (Marcos Pereira), do MDB e do PSDB (Aécio Neves), partidos que apoiaram Flávio, reconheceram a vitória de Lula e o parabenizaram.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, SBT News)"
+    },
+    {
+     "texto": "Michelle Bolsonaro, senadora eleita, disse que caberá a Flávio dizer se o resultado será aceito; Nikolas Ferreira afirmou que 'Lula não é meu presidente' e sugeriu fraude.",
+     "base": "2 fontes independentes (Valor, Estado de Minas)"
+    },
+    {
+     "texto": "Donald Trump Jr. questionou a extensão do horário de votação, e Jason Miller, conselheiro de Trump, publicou o discurso de Flávio em inglês.",
+     "base": "2 fontes independentes (Estadão, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As chances de anulação ou 'terceiro turno' são remotas: a margem ampla reduz a possibilidade de os questionamentos prosperarem.",
+     "quem": "Especialistas ouvidos pela BBC Brasil"
+    },
+    {
+     "texto": "Advogados de Flávio teriam de provar que os votos depositados após a prorrogação fariam diferença no resultado, maior que 4,4 milhões.",
+     "quem": "BBC Brasil e Gazeta do Povo"
+    },
+    {
+     "texto": "O Código Eleitoral prevê nulidade de votação realizada em hora diferente da designada, o que abre brecha para questionamento.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Kassio Nunes Marques deve manter a proclamação e descartar questionamentos; integrantes do TSE afastam risco de contestação internacional.",
+     "quem": "Folha e SBT News, com integrantes do TSE"
+    },
+    {
+     "texto": "A eleição foi 'roubada' e Flávio é o 'legítimo presidente'.",
+     "quem": "Shane Jett, senador republicano de Oklahoma, segundo a Jovem Pan"
+    },
+    {
+     "texto": "Aliados de Flávio falam em 'pesadelo', mas veem chance de atuação no Congresso.",
+     "quem": "Gazeta do Povo, com Sanderson e Ricardo Salles"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A prorrogação da votação foi um 'golpe' ou 'tapetão' do STF para favorecer Lula; houve fraude.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A prorrogação foi pedida pelas duas campanhas (a de Flávio pediu em alguns estados por causa da chuva), nenhuma urna fechada foi reaberta, o TRE-BA não computou votos em papel, e a diferença de 4,4 milhões supera qualquer efeito da extensão.",
+     "onde_circula": "vídeos de Nikolas Ferreira e Lucas Pavanato, redes bolsonaristas",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/jornalismo/2026/10/25/apos-omissao-do-tse-sobre-votacao-bolsonaristas-falam-sem-provas-em-golpe-de-zanin-e-fraude-na-eleicao/"
+      },
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/eleicoes/2026/10/25/em-video-que-sugere-fraude-nikolas-ferreira-omite-problemas-reais-no-transporte-e-que-pl-tambem-pediu-prorrogacao/"
+      },
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/relatos-supressao-voto-prorrogacao-segundo-turno/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo e o PT dizem que o resultado foi proclamado pelo TSE, reconhecido pelo Congresso e por aliados de Flávio, e que a contestação repete o roteiro de 2022.",
+    "oposicao": "Flávio e o núcleo bolsonarista dizem que a decisão de Zanin mudou a regra do jogo e tornou o resultado ilegítimo; partidos de centro-direita que o apoiaram não endossam a anulação."
+   },
+   "visao_de_fora": "NYT, Le Monde, Al Jazeera e AFP abriram manchetes com a recusa de Flávio em reconhecer o resultado; a Gazeta do Povo registra que a imprensa internacional destacou a confusão da prorrogação.",
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Jovem Pan) repercutem a tese da anulação e a brecha legal sem destacar que os partidos aliados de Flávio reconheceram o resultado; veículos de esquerda não detalham o argumento jurídico da campanha.",
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Flávio Bolsonaro diz ser ‘impossível reconhecer resultado da eleição’ e que pedirá anulação",
+     "url": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-diz-ser-impossivel-reconhecer-resultado-da-eleicao-e-promete-recorrer-npr/",
+     "angulo": "O pronunciamento, com a margem de 4 milhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Sem provas, Flávio Bolsonaro diz que vai pedir anulação das eleições",
+     "url": "https://www.brasildefato.com.br/2026/10/25/sem-provas-flavio-bolsonaro-diz-que-vai-pedir-anulacao-das-eleicoes/",
+     "angulo": "Enfatiza a ausência de provas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Chances de anulação ou 'terceiro turno' a pedido de Flávio são remotas, veem especialistas",
+     "url": "https://www.bbc.com/portuguese/articles/cqdjvnppkdnyo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Especialistas: chances remotas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Diferença de votos na vitória de Lula sobre Flávio dificulta anulação da eleição",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/diferenca-de-votos-na-vitoria-de-lula-sobre-flavio-dificulta-anulacao-da-eleicao/",
+     "angulo": "Mesmo veículo de direita vê dificuldade na anulação.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Decisão de Zanin que estendeu votação abre brecha para anular eleição",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/decisao-de-zanin-que-estendeu-votacao-abre-brecha-para-anular-eleicoes/",
+     "angulo": "Direita: a brecha do Código Eleitoral.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Partidos aliados a Flávio refutam anular votação e parabenizam Lula pela reeleição",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/republicanos-e-mdb-que-apoiaram-flavio-bolsonaro-parabenizam-lula-pela-reeleicao.shtml",
+     "angulo": "Partidos aliados refutam anulação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Kassio deve descartar questionamentos sobre resultado após Flávio não reconhecer derrota eleitoral",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/kassio-deve-descartar-questionamentos-sobre-resultado-apos-flavio-nao-reconhecer-derrota-eleitoral.shtml",
+     "angulo": "Bastidores do TSE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Michelle Bolsonaro diz que Flavio é quem dirá se resultado das eleições será aceito",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/michelle-bolsonaro-diz-que-flavio-quem-dir-se-resultado-das-eleies-ser-aceito.ghtml",
+     "angulo": "Michelle: cabe a Flávio dizer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "'Lula não é meu presidente', diz Nikolas",
+     "url": "https://www.em.com.br/politica/2026/10/7527735-lula-nao-e-meu-presidente-diz-nikolas.html",
+     "angulo": "Nikolas não reconhece.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Filho de Trump questiona extensão de horário de votação no Brasil: ‘Tudo pela causa’",
+     "url": "https://www.estadao.com.br/internacional/filho-de-trump-questiona-extensao-de-horario-de-votacao-no-brasil-tudo-pela-causa/",
+     "angulo": "Trump Jr. entra na discussão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Flávio pode anular a eleição? Veja o que prevê a lei eleitoral",
+     "url": "https://exame.com/brasil/flavio-pode-anular-a-eleicao-veja-o-que-preve-a-lei-eleitoral/",
+     "angulo": "O que diz a lei eleitoral.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Senador dos EUA diz que eleição foi ‘roubada’ e chama Flávio de ‘legítimo presidente’",
+     "url": "https://jovempan.com.br/colunistas/eliseu-caetano/senador-dos-eua-diz-que-eleicao-foi-roubada-e-chama-flavio-de-legitimo-presidente/",
+     "angulo": "Coluna repercute senador americano que fala em roubo.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "Após omissão do TSE sobre votação, bolsonaristas falam sem provas em golpe de Zanin e fraude na eleição",
+     "url": "https://www.agencialupa.org/jornalismo/2026/10/25/apos-omissao-do-tse-sobre-votacao-bolsonaristas-falam-sem-provas-em-golpe-de-zanin-e-fraude-na-eleicao/",
+     "angulo": "Checagem: golpe e fraude sem provas.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "prorrogacao-votacao-zanin-onibus-salvador-nunes-marques",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Falta de ônibus em Salvador e SP leva Zanin a prorrogar votação até 19h; Nunes Marques critica e TSE paralisa apuração por duas horas",
+   "lide": "Após denúncias de ônibus retidos em garagens em Salvador e frota reduzida em São Paulo, a campanha de Lula pediu ao TSE a extensão do horário; sem decisão de Kassio Nunes Marques, o ministro do STF Cristiano Zanin, sorteado relator, mandou manter abertas até 19h as seções que ainda não tinham fechado. O TSE pausou a totalização com 0,25% das urnas, o presidente da corte assinou o ofício às 17h49 e disse depois que a liminar 'gerou dificuldades', mas não alterou o resultado. O TRE-BA mandou prender o secretário de Mobilidade de Salvador e a PF abriu inquérito em cinco estados.",
+   "contexto": "A campanha de Flávio também pediu prorrogação em alguns estados por causa da chuva. O Ministério Público Eleitoral opinou às 17h01 pelo encerramento às 17h.",
+   "continua": {
+    "data": "2026-10-25",
+    "id": "brasil-vota-hoje-abstencao-apuracao-temporais",
+    "titulo": "Brasil escolhe hoje entre Lula e Flávio: abstenção, temporais no Sul e Sudeste e judicialização pesam no dia da votação"
+   },
+   "fatos": [
+    {
+     "texto": "O Procon-BA encontrou centenas de ônibus parados em garagens de Salvador (544 segundo o SBT, 645 segundo o Jota); o presidente do TRE-BA mandou prender em flagrante o secretário municipal de Mobilidade e determinou a circulação de 100% da frota.",
+     "base": "4 fontes independentes (Jota, SBT News, A Tarde, Agência Pública)"
+    },
+    {
+     "texto": "A campanha de Lula pediu ao TSE a extensão da votação até 19h; Nunes Marques pediu informações ao TRE-BA e não decidiu; Zanin, sorteado relator de ação da coligação de Lula no STF, determinou a prorrogação até 19h nos locais onde as urnas não haviam sido fechadas.",
+     "base": "6 fontes independentes (Valor, Jota, Brasil de Fato, Gazeta do Povo, SBT News, BBC Brasil)"
+    },
+    {
+     "texto": "O TSE paralisou a divulgação de resultados com 0,25% das urnas apuradas e retomou a totalização às 19h; Nunes Marques assinou às 17h49 o ofício orientando os TREs a manter abertas só as seções que ainda não tinham encerrado.",
+     "base": "4 fontes independentes (Gazeta do Povo, Brasil de Fato, ICL Notícias, Opera Mundi)"
+    },
+    {
+     "texto": "Nenhuma urna fechada foi reaberta; o TRE-BA afirmou não ter computado votos em papel; em São Paulo, 80% das urnas já estavam fechadas quando Zanin decidiu; mesários em BH não foram avisados.",
+     "base": "4 fontes independentes (Jota, Valor, SBT News, ICL Notícias)"
+    },
+    {
+     "texto": "Ao proclamar o resultado, Nunes Marques disse que a liminar 'gerou dificuldades ao processo eleitoral', exigiu bloqueio de boletins de urna e poderia ter comprometido 'toda a eleição', mas que não houve 'nenhuma alteração' no resultado.",
+     "base": "6 fontes independentes (Estadão, CNN Brasil, Gazeta do Povo, Revista Oeste, Jota, CartaCapital)"
+    },
+    {
+     "texto": "A PF abriu inquérito para apurar suspeitas de crimes contra o exercício do voto em São Paulo, Alagoas, Piauí, Sergipe e Bahia.",
+     "base": "CartaCapital"
+    },
+    {
+     "texto": "A campanha de Flávio também pediu prorrogação da votação em alguns estados por causa da chuva; o MPE opinou às 17h01 pelo encerramento às 17h.",
+     "base": "3 fontes independentes (BBC Brasil, Aos Fatos, Terra Brasil Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A prorrogação é inédita na era da urna eletrônica e teve baixa procura, com eleitores encontrando portões fechados.",
+     "quem": "SBT News e Agência Brasil"
+    },
+    {
+     "texto": "A inação de Kassio levou à decisão de Zanin; ministros do TSE alinhados a Zanin dizem que Kassio demorou a resolver um problema posto há horas.",
+     "quem": "Valor e g1, com ministros do TSE"
+    },
+    {
+     "texto": "A pressão de Lula fez Zanin 'atropelar' o TSE; a decisão gera insegurança jurídica.",
+     "quem": "Gazeta do Povo e Deltan Dallagnol"
+    },
+    {
+     "texto": "O eleitor deve chegar no horário correto; a ordem de Zanin foi equivocada.",
+     "quem": "Marco Aurélio Mello, ex-presidente do STF e do TSE"
+    },
+    {
+     "texto": "A redução da frota em Salvador se deveu à retirada de adesivos de propaganda irregular e às empresas, não a boicote.",
+     "quem": "Bruno Reis, prefeito de Salvador"
+    },
+    {
+     "texto": "Nunes Marques tentou 'dar golpe' ao se abster sobre a prorrogação.",
+     "quem": "Parlamentares eleitos do PT, ao Valor"
+    },
+    {
+     "texto": "A decisão de última hora semeou caos numa das eleições mais apertadas da história.",
+     "quem": "Bloomberg"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Vídeo mostra ônibus circulando normalmente em Salvador, provando que não houve problema no transporte.",
+     "rotulo": "Distorcido",
+     "explicacao": "A gravação mostra um coletivo em circulação, mas Procon-BA e a própria secretaria de Mobilidade confirmam que parte dos veículos estava parada nas garagens.",
+     "onde_circula": "redes bolsonaristas",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/10/25/video-e-usado-para-negar-problemas-no-transporte-de-salvador-durante-eleicao/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A prorrogação repete a manobra de Maduro na Venezuela em 2015.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A comparação ignora que a extensão só valeu para seções ainda abertas, que a campanha de Flávio também pediu prorrogação e que nenhuma urna foi reaberta.",
+     "onde_circula": "Terra Brasil Notícias, redes bolsonaristas, Romeu Zema",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Lula chamou a falta de ônibus de 'banditismo' de prefeitos e aliados dizem que a extensão garantiu o direito de voto.",
+    "oposicao": "Flávio, Tarcísio, Nikolas e deputados do PL falam em intervenção, golpe e tapetão do STF a pedido do PT."
+   },
+   "visao_de_fora": "FT e Bloomberg noticiaram a extensão como fator de tensão e caos; Le Monde fala em 'escrutínio caótico'.",
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Terra Brasil) cobriram a decisão de Zanin sem noticiar os ônibus parados em Salvador e a prisão do secretário; veículos de esquerda (Brasil de Fato, Fórum) não registraram que mesários e eleitores ficaram confusos e que a adesão foi baixa.",
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Cronologia da crise: Inação de Kassio e decisão de Zanin levam à prorrogação da eleição",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/cronologia-da-crise-inao-de-kassio-e-deciso-de-zanin-levam-prorrogao-da-eleio.ghtml",
+     "angulo": "Cronologia: inação de Kassio e decisão de Zanin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Pressão de Lula faz Zanin atropelar TSE, estender votação e atrasar apuração",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pressao-de-lula-faz-zanin-atropelar-tse-estender-votacao-e-atrasar-apuracao/",
+     "angulo": "Direita: Zanin 'atropela' o TSE.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "“Não vi um único ônibus passar”: o dia em que Salvador votou de carona com estranhos",
+     "url": "https://apublica.org/2026/10/onibus-sequestrados-depoimentos-em-salvador-indicam-caos/",
+     "angulo": "Relatos de quem votou de carona em Salvador.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Presidente do TRE-BA manda prender secretário de Mobilidade de Salvador após retenção de ônibus",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/presidente-do-tre-ba-manda-prender-secretario-de-mobilidade-de-salvador-apos-retencao-de-onibus",
+     "angulo": "A ordem de prisão do secretário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Por que o STF ordenou prorrogar votação por duas horas - e o que dizem os juristas sobre medida",
+     "url": "https://www.bbc.com/portuguese/articles/c64g13y5k303o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Por que o STF prorrogou e o que dizem juristas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Nunes Marques diz que decisão do STF provocou dificuldades à eleição",
+     "url": "https://www.estadao.com.br/politica/eleicoes/nunes-marques-diz-que-decisao-do-stf-provocou-dificuldades-a-eleicao/",
+     "angulo": "A versão de Nunes Marques.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Urnas lacradas: os relatos de eleitores e mesários confusos após decisão de Zanin",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/urnas-lacradas-os-relatos-de-eleitores-e-mesarios-confusos-apos-decisao-de-zanin",
+     "angulo": "Confusão nas seções; nenhuma urna reaberta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Demora de Kassio e decisão de Zanin provocam críticas nos tribunais e reunião de emergência no TSE",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/demora-de-kassio-e-decisao-de-zanin-provocam-criticas-nos-tribunais-e-reuniao-de-emergencia-no-tse.ghtml",
+     "angulo": "Reunião de emergência no TSE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Retirar adesivos atrasou ônibus, diz prefeito de Salvador",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/retirar-adesivos-atrasou-onibus-diz-prefeito-de-salvador-1",
+     "angulo": "A defesa do prefeito de Salvador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "PF abre inquérito para apurar falta de ônibus durante eleições em cinco estados",
+     "url": "https://www.cartacapital.com.br/politica/pf-abre-inquerito-para-apurar-falta-de-onibus-durante-eleicoes-em-cinco-estados/",
+     "angulo": "Inquérito da PF em cinco estados.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Tarcísio acusa federação do PT de tumultuar eleição após decisão de Zanin",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-critica-decisao-zanin-horario-votacao/",
+     "angulo": "Tarcísio: decisão não faz sentido.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Marco Aurélio, ex-presidente do STF, critica ordem de Zanin e diz que eleitor deve chegar no horário correto",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/marco-aurelio-ex-presidente-do-stf-critica-ordem-de-zanin-e-diz-que-eleitor-deve-chegar-no-horario-correto.shtml",
+     "angulo": "Crítica de ex-ministro do STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "O que se sabe sobre relatos de supressão do voto e a prorrogação do segundo turno",
+     "url": "https://www.aosfatos.org/noticias/relatos-supressao-voto-prorrogacao-segundo-turno/",
+     "angulo": "Checagem: o que se sabe sobre supressão de voto.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Prorrogação da votação teve baixa procura e frustração de eleitores",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/prorrogacao-da-votacao-teve-baixa-procura-e-frustracao-de-eleitores",
+     "angulo": "Agência oficial: baixa procura e frustração.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Tensions Flare in Chaotic Brazil Election After Voting Extended",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-court-extends-voting-by-two-hours-on-candidate-requests",
+     "angulo": "Bloomberg: caos após extensão.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "abstencao-19-2-menor-desde-2006-urnas-substituidas",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Abstenção cai a 19,2%, a menor em segundo turno desde 2006, com quase 3 milhões de eleitores a mais nas urnas",
+   "lide": "Cerca de 128,2 milhões de eleitores votaram no domingo, quase 3 milhões a mais que no primeiro turno, e a abstenção caiu de 21% para 19,2%, a maior queda entre turnos desde a redemocratização. Bahia, Pernambuco e São Paulo lideraram a redução; brancos e nulos também recuaram. O TSE substituiu 1.551 urnas (0,28%), sem votação manual.",
+   "fatos": [
+    {
+     "texto": "A abstenção no segundo turno foi de 19,2% (cerca de 30,4 milhões de eleitores), a menor em segundo turno desde 2006 (18,99%); no primeiro turno, 33,4 milhões não votaram.",
+     "base": "6 fontes independentes (g1, Revista Oeste, O Antagonista, InfoMoney, BBC Brasil, DCM)"
+    },
+    {
+     "texto": "Cerca de 128,2 milhões de eleitores compareceram, quase 3 milhões a mais que no primeiro turno; a abstenção caiu em 17 estados, no DF e no exterior.",
+     "base": "3 fontes independentes (Valor, Estadão, Terra)"
+    },
+    {
+     "texto": "Na Bahia, a abstenção caiu de 19,97% para 16,71%; no estado de São Paulo, o número de ausentes recuou de 7,69 milhões para 6,76 milhões.",
+     "base": "g1 (dados do TSE)"
+    },
+    {
+     "texto": "1.551 urnas foram substituídas no segundo turno (0,28% do total), sem nenhuma votação manual.",
+     "base": "2 fontes independentes (CNN Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "Flávio perdeu votos em seis estados em relação ao primeiro turno, e a abstenção subiu onde ele tinha vantagem.",
+     "base": "g1 (dados do TSE)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A queda da abstenção e dos votos inválidos favoreceu Lula, após campanha do PT para atrair ausentes.",
+     "quem": "g1, SBT News e A Tarde"
+    },
+    {
+     "texto": "'Tem algum caroço nesse angu': a queda da abstenção precisa ser analisada.",
+     "quem": "Pablo Marçal, aliado de Flávio"
+    },
+    {
+     "texto": "Em Salvador, 154 mil abstenções em dia de ônibus retidos levantam a questão do impacto do transporte.",
+     "quem": "A Tarde"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O PT atribui a queda da abstenção à mobilização do 'Exército do Lula' e à campanha de rua.",
+    "oposicao": "Aliados de Flávio, como Marçal, lançam suspeitas sobre os números sem apresentar evidências."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A suspeita de Marçal só apareceu na Oeste; veículos de direita não publicaram os dados estaduais da queda; a esquerda não discutiu que a abstenção subiu em redutos de Flávio.",
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Abstenção no 2º turno é a menor em eleição presidencial desde 2006",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/abstencao-2-turno-2026-menor-eleicao-presidencial-desde-2006.ghtml",
+     "angulo": "Os números e a comparação com 2006.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Abstenção tem maior queda entre turnos desde a redemocratização",
+     "url": "https://revistaoeste.com/politica/abstencao-cai-no-2o-turno-e-atinge-menor-nivel-desde-2006/",
+     "angulo": "Direita publica a queda com os totais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Efeito Lula: Abstenção cai a 19,22% no 2° turno e atinge menor nível em 20 anos",
+     "url": "https://www.diariodocentrodomundo.com.br/abstencao-cai-segundo-turno-eleicoes-2026/",
+     "angulo": "Esquerda: 'efeito Lula'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Abstenção tem a maior queda entre turnos desde a redemocratização",
+     "url": "https://www.bbc.com/portuguese/articles/cmq8n4pn08p4o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Maior queda entre turnos desde a redemocratização.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Abstenção cai em 17 Estados, no DF e no exterior no segundo turno",
+     "url": "https://www.estadao.com.br/politica/eleicoes/abstencao-cai-em-17-estados-no-df-e-no-exterior-no-segundo-turno/",
+     "angulo": "Levantamento por estado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Marçal contesta queda da abstenção: ‘Tem algum caroço nesse angu’",
+     "url": "https://revistaoeste.com/politica/marcal-contesta-queda-da-abstencao-tem-algum-caroco-nesse-angu/",
+     "angulo": "Marçal contesta os números.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "TSE informa que 1.551 urnas precisaram ser substituídas no segundo turno",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/tse-informa-que-1-551-urnas-precisaram-ser-substituidas-no-segundo-turno/",
+     "angulo": "Urnas substituídas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Derrota de Flávio incluiu perda de votos em seis estados e alta de abstenção onde o candidato teve vantagem no 1º turno",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/26/derrota-de-flavio-incluiu-perda-de-votos-em-seis-estados-e-alta-de-abstencao-onde-o-candidato-teve-vantagem-no-1o-turno.ghtml",
+     "angulo": "Onde Flávio perdeu votos.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Com 154 mil abstenções, entenda como falta de ônibus afetou votação em Salvador",
+     "url": "https://atarde.com.br/eleicoes/com-154-mil-abstencoes-entenda-como-falta-de-onibus-afetou-votacao-em-salvador-1407113",
+     "angulo": "Salvador: abstenção e ônibus.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "governadores-eleitos-2-turno-cadu-celina-pazolini",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Cadu de Lula vira no RN, Celina Leão é a primeira mulher eleita governadora do DF e PL fecha 2026 com mais governadores",
+   "lide": "Os seis segundos turnos estaduais definiram Cadu de Lula (PT) no Rio Grande do Norte, com 50,77%, na disputa mais apertada; Lorenzo Pazolini (Republicanos) no Espírito Santo (52,17%); Omar Aziz (PSD) no Amazonas (61,42%); Vicentinho Júnior (PSDB) no Tocantins (64,52%); e as reeleições de Mailza Assis (PP) no Acre (66,21%) e Celina Leão (PP) no DF. O PL terminou 2026 com seis governadores, o maior número, e o país volta a ter três governadoras.",
+   "continua": {
+    "data": "2026-10-25",
+    "id": "governadores-2-turno-pesquisas-ac-am-es-rn-to-df",
+    "titulo": "Cinco estados e o DF escolhem governador hoje; pesquisas apontam disputa apertada só no Rio Grande do Norte"
+   },
+   "fatos": [
+    {
+     "texto": "Cadu de Lula (PT) foi eleito no Rio Grande do Norte com 50,77% dos votos válidos contra 49,23% de Allyson Bezerra (União), garantindo o terceiro mandato consecutivo do PT no estado.",
+     "base": "5 fontes independentes (Valor, Brasil de Fato, Jota, SBT News, Diário do Poder)"
+    },
+    {
+     "texto": "Lorenzo Pazolini (Republicanos) venceu Ricardo Ferraço (MDB) no Espírito Santo com 52,17%; Omar Aziz (PSD) venceu Professora Maria do Carmo (PL) no Amazonas com 61,42% (1.273.975 votos); Vicentinho Júnior (PSDB) venceu Professora Dorinha (União) no Tocantins com 64,52%.",
+     "base": "4 fontes independentes (Valor, Brasil de Fato, Conexão Política, Diário do Poder)"
+    },
+    {
+     "texto": "Mailza Assis (PP) foi reeleita no Acre com 66,21% (272.635 votos) contra Alan Rick (Republicanos); Celina Leão (PP) foi reeleita no DF contra Leandro Grass (PT) e é a primeira mulher eleita governadora do DF.",
+     "base": "5 fontes independentes (Valor, Conexão Política, CNN Brasil, Brasil de Fato, Gazeta do Povo)"
+    },
+    {
+     "texto": "O PL elegeu seis governadores em 2026, todos no primeiro turno; PSD elegeu cinco e PP, Republicanos e PT, quatro cada; o MDB perdeu quatro dos cinco estados que governava.",
+     "base": "3 fontes independentes (Valor, Exame, DW Brasil)"
+    },
+    {
+     "texto": "O Brasil voltou a eleger três mulheres governadoras numa mesma eleição, igualando o recorde de 2006.",
+     "base": "2 fontes independentes (Folha, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Dois dos três aliados de Lula no segundo turno se elegeram (Aziz e Cadu); Grass perdeu no DF.",
+     "quem": "g1"
+    },
+    {
+     "texto": "A vitória de Pazolini garante alinhamento total do Sudeste ao bolsonarismo e confirma o domínio de Republicanos e PL na região.",
+     "quem": "Veja e Gazeta do Povo"
+    },
+    {
+     "texto": "Tarcísio vira o nome natural da direita e governadores do Nordeste despontam no PT para 2030.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Celina 'driblou' o caso Master e superou 'mentiras e misoginia'.",
+     "quem": "CartaCapital e Diário do Poder"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O PT comemora a virada de Cadu no RN e a eleição de Aziz, aliado de Lula, no Amazonas.",
+    "oposicao": "A direita destaca o PL como partido com mais governadores e a reeleição de Celina com apoio de Flávio e Michelle."
+   },
+   "visao_de_fora": "A DW Brasil lê os resultados estaduais como confirmação do avanço da direita nos estados, apesar da derrota de Flávio.",
+   "ponto_cego": "Veículos de esquerda só destacaram Cadu e Aziz; os de direita só Celina e Pazolini. O mapa partidário completo apareceu em Valor, Exame e DW.",
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Veja quem são os seis governadores eleitos no 2º turno",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/governadores-eleitos-no-2o-turno.ghtml",
+     "angulo": "Quem são os seis eleitos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Mesmo com derrota no 2º turno, PL elege a maior parte dos governadores em 2026; veja lista",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/mesmo-com-derrota-no-2o-turno-pl-elege-a-maior-parte-dos-governadores-em-2026-veja-lista.ghtml",
+     "angulo": "PL com mais governadores; MDB maior perdedor.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Cadu de Lula (PT) é eleito governador do Rio Grande do Norte",
+     "url": "https://www.brasildefato.com.br/2026/10/25/cadu-de-lula-pt-e-eleito-governador-do-rio-grande-do-norte/",
+     "angulo": "A virada de Cadu no RN.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Pazolini se elege governador do Espírito Santo e garante alinhamento total do Sudeste ao bolsonarismo",
+     "url": "https://veja.abril.com.br/politica/pazolini-se-elege-governador-do-espirito-santo-e-garante-alinhamento-total-do-sudeste-a-flavio/",
+     "angulo": "Pazolini e o alinhamento do Sudeste.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Celina Leão é a primeira mulher eleita governadora do DF",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/celina-leao-e-a-primeira-mulher-eleita-governadora-do-df/",
+     "angulo": "Celina: primeira mulher eleita no DF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Brasil elege últimos 6 governadores e confirma avanço da direita nos estados",
+     "url": "https://www.dw.com/pt-br/brasil-elege-últimos-6-governadores-e-confirma-avanço-da-direita-nos-estados/a-79757623?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW: avanço da direita nos estados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Brasil volta a eleger três mulheres governadoras após 20 anos",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/brasil-volta-a-eleger-tres-mulheres-governadoras-apos-20-anos.shtml",
+     "angulo": "Três governadoras após 20 anos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Dois dos três aliados de Lula que concorriam a governador no 2º turno se elegeram",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-lula-governador-segundo-turno.ghtml",
+     "angulo": "Dois dos três aliados de Lula eleitos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Segundo turno define governadores em cinco estados e no Distrito Federal",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/segundo-turno-define-governadores-em-cinco-estados-e-no-distrito-federal/",
+     "angulo": "Cobertura de direita dos seis resultados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Celina Leão dribla o Caso Master, confirma favoritismo e se reelege no DF",
+     "url": "https://www.cartacapital.com.br/politica/celina-leao-dribla-o-caso-master-confirma-favoritismo-e-se-reelege-no-df/",
+     "angulo": "Celina e o caso Master.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Tarcísio vira nome natural da direita, e governadores do Nordeste despontam no PT para 2030",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/tarcisio-vira-nome-natural-da-direita-e-haddad-desponta-no-pt-para-2030.shtml",
+     "angulo": "2030: Tarcísio e os governadores do Nordeste.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "mercado-reacao-reeleicao-lula-real-cai-ajuste-fiscal",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Real cai 10% no mercado futuro e fundo de ações brasileiras despenca 19% no exterior após reeleição de Lula; governo promete ajuste gradual",
+   "lide": "Opções de real contra dólar negociadas na CME caíam 10,17% às 21h58 de domingo, o EWZ (fundo de ações brasileiras nos EUA) recuava 19% no after-hours e um ETF em Tóquio caiu quase 13%. Investidores esperam pregão turbulento nesta segunda (26). O ministro do Planejamento disse ao Valor que o ajuste fiscal 'seguirá em ritmo gradual', e a Folha apurou que a equipe prepara PEC para buscar o centro da meta fiscal.",
+   "continua": {
+    "data": "2026-10-25",
+    "id": "promessas-campanha-risco-fiscal-proximo-presidente",
+    "titulo": "Promessas da reta final deixam ao próximo presidente contas públicas pressionadas; Flávio descarta privatizar a Petrobras"
+   },
+   "fatos": [
+    {
+     "texto": "Opções mensais de real/dólar na CME cediam 10,17% por volta das 21h58 de domingo; o EWZ caía 19% no after-hours às 21h37; um ETF de ações brasileiras em Tóquio desabou quase 13%.",
+     "base": "4 fontes independentes (CNN Brasil, InfoMoney, g1, Bloomberg)"
+    },
+    {
+     "texto": "O ministro do Planejamento disse que o ajuste das contas públicas 'seguirá em ritmo gradual', preservando políticas públicas, a valorização real do salário mínimo e os pisos de saúde e educação.",
+     "base": "Valor (entrevista exclusiva)"
+    },
+    {
+     "texto": "A equipe de Lula prepara uma PEC para permitir buscar o centro da meta fiscal e congelar mais recursos do Orçamento, com previsão de menos crédito subsidiado.",
+     "base": "Folha"
+    },
+    {
+     "texto": "A Febraban parabenizou Lula e Alckmin e saudou a conclusão de 'mais um bem-sucedido' pleito.",
+     "base": "InfoMoney"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O mercado terá sessão muito turbulenta, com perdas em bolsa, real e juros futuros; Lula era o candidato não preferido pelo mercado.",
+     "quem": "Valor e O Globo"
+    },
+    {
+     "texto": "O dólar pode chegar a R$ 5,40 no ano que vem (alta de 7%) ou a R$ 5,60.",
+     "quem": "Veja, com projeções de mercado, e Alfredo Menezes, da Armor Capital, à Exame"
+    },
+    {
+     "texto": "Lula precisará dar forte guinada na economia para evitar que a disparada do dólar vire recessão.",
+     "quem": "Alvaro Gribel, Estadão"
+    },
+    {
+     "texto": "O maior desafio será dar credibilidade à equipe econômica.",
+     "quem": "Monica de Bolle, Peterson Institute"
+    },
+    {
+     "texto": "Economistas, CEOs e entidades setoriais cobram ajuste fiscal, previsibilidade e segurança jurídica.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "A conta da 'babaquice' fiscal, como Lula chamou a obsessão por superávit, terá de ser paga por ele mesmo.",
+     "quem": "Folha (coluna)"
+    },
+    {
+     "texto": "No terceiro mandato, PIB cresceu e desemprego caiu ao menor nível da série, mas juros e dívida pesaram.",
+     "quem": "g1 (balanço)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo fala em ajuste gradual sem cortar políticas sociais e em compromisso com a meta fiscal.",
+    "oposicao": "A oposição e analistas de mercado preveem deterioração fiscal, dólar em alta e juros mais altos."
+   },
+   "visao_de_fora": "La Nación avalia que a desvalorização do real pode baratear férias de argentinos no Brasil; a Bloomberg destaca a queda dos ativos.",
+   "ponto_cego": "Veículos de esquerda não cobriram a reação do mercado; a imprensa econômica não ouviu economistas heterodoxos sobre o ajuste gradual.",
+   "materias": [
+    {
+     "fonte": "infomoney",
+     "titulo": "Real cai 10% no mercado futuro ante dólar após reeleição de Lula",
+     "url": "https://www.infomoney.com.br/mercados/real-cai-10-no-mercado-futuro-ante-dolar-apos-reeleicao-de-lula/",
+     "angulo": "Real cai 10% no futuro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Após reeleição de Lula, fundo de ações brasileiras despenca 19% nos EUA e antecipa reação do mercado",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/25/ewz-desaba-19percent-apos-reeleicao-de-lula.ghtml",
+     "angulo": "EWZ -19% no after-hours.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Exclusivo: Ajuste fiscal seguirá em ritmo gradual, diz ministro do Planejamento",
+     "url": "https://valor.globo.com/brasil/noticia/2026/10/25/exclusivo-ajuste-fiscal-seguira-em-ritmo-gradual-diz-ministro-do-planejamento.ghtml",
+     "angulo": "Ministro: ajuste gradual.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Equipe de Lula prepara PEC para buscar centro da meta fiscal e prevê menos crédito subsidiado",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/equipe-de-lula-prepara-pec-para-buscar-centro-da-meta-fiscal-e-preve-menos-credito-subsidiado.shtml",
+     "angulo": "PEC para o centro da meta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Investidores se preparam para forte correção no mercado brasileiro após virada de Lula",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/investidores-se-preparam-para-forte-correcao-no-mercado-brasileiro-apos-virada-de-lula.ghtml",
+     "angulo": "Investidores esperam correção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão",
+     "url": "https://www.estadao.com.br/economia/alvaro-gribel/lula-precisara-dar-forte-guinada-na-economia-para-evitar-que-disparada-do-dolar-vire-uma-recessao/",
+     "angulo": "Coluna: guinada ou recessão.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Monica de Bolle: Maior desafio de Lula na economia vai ser dar credibilidade à equipe econômica",
+     "url": "https://www.estadao.com.br/economia/monica-de-bolle-maior-desafio-de-lula-na-economia-vai-ser-dar-credibilidade-a-equipe-economica/",
+     "angulo": "De Bolle: credibilidade da equipe.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Mercado já enxerga dólar em 5,40 reais no ano que vem com reeleição de Lula",
+     "url": "https://veja.abril.com.br/economia/mercado-ja-enxerga-dolar-em-540-reais-no-ano-que-vem-com-reeleicao-de-lula/",
+     "angulo": "Dólar a R$ 5,40.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Economistas, CEOs e líderes setoriais cobram ajuste fiscal e previsibilidade no 4º mandato de Lula",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/economistas-ceos-e-lideres-setoriais-cobram-ajuste-fiscal-e-previsibilidade-no-4o-mandato-de-lula.shtml",
+     "angulo": "Setor produtivo cobra ajuste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "PIB cresceu, desemprego caiu, mas juros e dívidas pesaram: veja o balanço da economia de Lula 3",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/26/pib-cresceu-desemprego-caiu-mas-juros-e-dividas-pesaram-veja-o-balanco-da-economia-de-lula-3.ghtml",
+     "angulo": "Balanço da economia de Lula 3.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Febraban parabeniza Lula e Alckmin por vitória na eleição presidencial",
+     "url": "https://www.infomoney.com.br/politica/febraban-parabeniza-lula-e-alckmin-por-vitoria-na-eleicao-presidencial/",
+     "angulo": "Febraban parabeniza.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Lula’s Surprise Brazil Victory Sends Assets Lower",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-26/lula-s-surprise-brazil-victory-sends-assets-lower-video",
+     "angulo": "Bloomberg: ativos em queda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "congresso-direita-motta-alcolumbre-stf-flavio-sem-foro",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Motta e Alcolumbre reconhecem vitória e pedem pacificação; Lula terá Congresso mais à direita, até 4 vagas no STF e Flávio ficará sem foro",
+   "lide": "Os presidentes da Câmara e do Senado parabenizaram Lula em pronunciamento conjunto no TSE, pediram humildade e união e disseram que o Congresso trabalhará com o presidente. O PL terá 121 deputados e 28 senadores em 2027, e analistas preveem dependência maior do Centrão. Lula poderá indicar até quatro ministros do STF até 2030; Flávio perderá o foro privilegiado ao deixar o Senado, mas a investigação da Dark Horse deve seguir no Supremo.",
+   "fatos": [
+    {
+     "texto": "Hugo Motta e Davi Alcolumbre, em pronunciamento conjunto na sede do TSE, reconheceram a vitória de Lula, parabenizaram o presidente, pediram pacificação e disseram que o Congresso trabalhará junto com ele.",
+     "base": "8 fontes independentes (g1, Valor, SBT News, Agência Senado, Revista Oeste, CNN Brasil, Exame, Agência Brasil)"
+    },
+    {
+     "texto": "O PL terá 121 deputados e 28 senadores a partir de 2027.",
+     "base": "InfoMoney"
+    },
+    {
+     "texto": "Lula poderá indicar até quatro ministros ao STF: a vaga de Barroso, aberta em 2025, e as aposentadorias compulsórias de Fux (2028), Cármen Lúcia (2029) e Gilmar Mendes (2030).",
+     "base": "3 fontes independentes (O Globo, Folha, SBT News)"
+    },
+    {
+     "texto": "Flávio Bolsonaro deixa o Senado em fevereiro e ficará sem cargo público em 2027, pela primeira vez desde 2002.",
+     "base": "2 fontes independentes (g1, InfoMoney)"
+    },
+    {
+     "texto": "Edson Fachin, presidente do STF, divulgou nota pregando respeito 'à vontade soberana' do eleitor, paz e harmonia entre os Poderes.",
+     "base": "4 fontes independentes (Valor, Folha, Gazeta do Povo, Exame)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Congresso mais conservador aumenta a dependência de Lula do Centrão; a oposição controlará a pauta.",
+     "quem": "Estadão e analistas ouvidos pela Agência Câmara"
+    },
+    {
+     "texto": "Lula terá de equilibrar dependência do STF e pressão do Congresso por reformas e impeachment.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Sem mandato, Flávio perde o foro privilegiado, mas a investigação da 'Dark Horse' deve seguir na mira do STF.",
+     "quem": "Malu Gaspar, O Globo"
+    },
+    {
+     "texto": "O quarto mandato deve manter ministros e resgatar aliados derrotados nas urnas; Lula deve enviar ao Congresso a regulamentação da 6x1 e detalhes da reforma tributária.",
+     "quem": "Folha e O Globo, com aliados"
+    },
+    {
+     "texto": "A vitória de Lula é uma afirmação contra tentações autocráticas.",
+     "quem": "Celso de Mello, ex-ministro do STF"
+    },
+    {
+     "texto": "O PL sai maior das urnas e disputará o comando da oposição.",
+     "quem": "InfoMoney"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Lula disse que 'não escolhi o Congresso, o povo escolheu, e é com ele que vou trabalhar'.",
+    "oposicao": "Aliados de Flávio veem no Congresso a trincheira contra o governo e falam em barrar pautas e em impeachment."
+   },
+   "visao_de_fora": "La Nación analisa um 'cambio de reglas' e a relação com Milei; o Clarín vê dilema diplomático para a Argentina.",
+   "ponto_cego": "A direita (Gazeta, Oeste) enfatiza o Congresso 'dominado pela direita' como freio; a esquerda celebra Motta e Alcolumbre sem registrar que ambos foram eleitos com apoio da oposição.",
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Alcolumbre e Motta parabenizam Lula pela reeleição e dizem que Congresso trabalhará junto com o presidente",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/alcolumbre-e-motta-segundo-turno-eleicoes-2026.ghtml",
+     "angulo": "O pronunciamento conjunto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Motta e Alcolumbre reconhecem vitória de Lula e elogiam TSE",
+     "url": "https://revistaoeste.com/politica/motta-e-alcolumbre-reconhecem-vitoria-de-lula-e-elogiam-tse/",
+     "angulo": "Direita registra o reconhecimento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula recebe apoio de Alcolumbre e Motta, que buscam barrar avanço da direita no Congresso",
+     "url": "https://revistaforum.com.br/politica/lula-apoio-alcolumbre-motta-direita/",
+     "angulo": "Esquerda: apoio contra avanço da direita.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Congresso mais à direita aumenta dependência de Lula do Centrão no 4º mandato",
+     "url": "https://www.estadao.com.br/politica/congresso-mais-a-direita-aumenta-dependencia-de-lula-do-centrao-no-4-mandato/",
+     "angulo": "Dependência do Centrão.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Lula é reeleito, mas enfrentará Congresso mais à direita; veja os números",
+     "url": "https://www.infomoney.com.br/politica/lula-e-reeleito-mas-enfrentara-congresso-mais-a-direita-veja-os-numeros/",
+     "angulo": "Os números do Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Reeleito, Lula poderá indicar mais quatro ministros ao STF e tentará acordo para aprovar nome no Senado neste ano",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/reeleito-lula-podera-indicar-mais-quatro-ministros-ao-stf-e-tentara-acordo-para-aprovar-nome-no-senado-neste-ano.ghtml",
+     "angulo": "Quatro vagas no STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Derrotado, Flávio Bolsonaro ficará sem cargo e sem foro privilegiado em 2027",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/26/derrotado-flavio-bolsonaro-ficara-sem-cargo-e-sem-foro-privilegiado-em-2027.ghtml",
+     "angulo": "Flávio sem cargo e sem foro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Flávio Bolsonaro perde foro, mas ‘Dark Horse’ deve seguir na mira do STF",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/10/flavio-bolsonaro-perde-foro-mas-dark-horse-deve-seguir-na-mira-do-stf.ghtml",
+     "angulo": "Dark Horse segue no STF.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lula reeleito terá de negociar com Congresso dominado pela direita em 2027",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-reeleito-tera-de-negociar-com-congresso-dominado-pela-direita-em-2027/",
+     "angulo": "Direita: Congresso dominado pela direita.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Presidente do STF prega respeito ‘à vontade soberana’ do eleitor e harmonia entre Poderes",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/presidente-do-stf-prega-respeito-a-vontade-soberana-do-eleitor-e-harmonia-entre-poderes.ghtml",
+     "angulo": "A nota de Fachin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Quarto mandato de Lula deve manter ministros e resgatar aliados",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/quarto-mandato-de-lula-deve-manter-ministros-e-resgatar-aliados.shtml",
+     "angulo": "Ministros e aliados no novo governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Lula: Não escolhi Congresso, o povo escolheu e é com ele que vou trabalhar",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/lula-nao-escolhi-congresso-o-povo-escolheu-e-e-com-ele-que-vou-trabalhar/",
+     "angulo": "Lula sobre o Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "reacoes-internacionais-lula-direita-latina-parabeniza-milei-trump",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Presidentes de direita da América Latina parabenizam Lula; Milei acusa Lula de querer 'roubar' a eleição e Trump silencia",
+   "lide": "Kast (Chile), Peña (Paraguai), Rodrigo Paz (Bolívia) e os presidentes de Peru e Equador, eleitos na 'onda azul', parabenizaram Lula, assim como Sheinbaum, Modi, Carney e a OEA. Javier Milei não cumprimentou e acusou Lula de querer 'roubar' a eleição; Trump, que disse estar 'acompanhando', não se manifestou até a manhã desta segunda. A imprensa internacional lê a virada como derrota para Trump.",
+   "fatos": [
+    {
+     "texto": "Os presidentes do Chile (José Antonio Kast), do Paraguai (Santiago Peña), da Bolívia (Rodrigo Paz), do Peru e do Equador, além dos de México, Uruguai, Cuba e Panamá, parabenizaram Lula na noite de domingo.",
+     "base": "6 fontes independentes (g1, Folha, Metrópoles, Gazeta do Povo, BBC Brasil, Opera Mundi)"
+    },
+    {
+     "texto": "Javier Milei não parabenizou Lula e acusou-o de querer 'roubar' as eleições.",
+     "base": "3 fontes independentes (La Nación, Folha, Metrópoles)"
+    },
+    {
+     "texto": "Narendra Modi, Mark Carney, Bernie Sanders, Gavin Newsom e a OEA saudaram a reeleição.",
+     "base": "4 fontes independentes (Brasil 247, Folha, ICL Notícias, Al Jazeera)"
+    },
+    {
+     "texto": "Trump disse no domingo que estava 'acompanhando' a eleição e que não queria 'entrar nisso'; não se manifestou após o resultado até a manhã de segunda.",
+     "base": "3 fontes independentes (Terra Brasil Notícias, Brasil de Fato, ICL Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A vitória de Lula é a primeira da esquerda na América Latina desde a volta de Trump, após vitórias conservadoras em Colômbia, Peru, Costa Rica, Honduras, Chile, Bolívia e Equador.",
+     "quem": "BBC Brasil"
+    },
+    {
+     "texto": "A virada histórica de Lula é uma derrota para Trump e um golpe no esquema de controle regional de Trump e Rubio.",
+     "quem": "El País e Clarín"
+    },
+    {
+     "texto": "Milei perdeu o sócio que esperava, mas manterá o antagonismo com Lula de olho em 2027.",
+     "quem": "La Nación"
+    },
+    {
+     "texto": "Lula terá Trump como principal desafio externo e apostará em diálogo.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Reeleito, Lula governará isolado na vizinhança e terá Trump como rival.",
+     "quem": "SBT News"
+    },
+    {
+     "texto": "O Planalto minimiza eventual recusa de Trump e Milei em reconhecer a vitória.",
+     "quem": "Brasil 247, com fontes do Planalto"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo destaca o reconhecimento rápido de líderes de direita e esquerda da região como prova de legitimidade.",
+    "oposicao": "Aliados de Flávio repercutem as críticas de Milei, de Trump Jr. e de um senador de Oklahoma à prorrogação da votação."
+   },
+   "visao_de_fora": "NYT: a eleição foi um teste do poder de Trump como 'fazedor de reis'; FT: golpe nos planos de Trump de maior influência na região; Fox News: a onda conservadora encontrou um obstáculo.",
+   "ponto_cego": "Veículos de direita não registraram que Kast, Peña e Paz, aliados ideológicos de Flávio, reconheceram Lula; veículos de esquerda não repercutiram a acusação de Milei.",
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Peru, Chile, Equador, Bolívia, Paraguai: líderes da direita parabenizam Lula, que contrariou a 'onda azul' na América Latina",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/26/peru-chile-equador-bolivia-paraguai-lideres-da-direita-parabenizam-lula-que-contrariou-a-onda-azul-na-america-latina.ghtml",
+     "angulo": "Líderes de direita da região parabenizam.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Líderes de direita a esquerda na América Latina parabenizam Lula; Milei silencia",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/lideres-de-direita-a-esquerda-na-america-latina-parabenizam-lula-milei-silencia.shtml",
+     "angulo": "Milei silencia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
+     "angulo": "Milei acusa Lula de querer 'roubar'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Lula conquista a 1ª vitória da esquerda na América Latina desde que Trump voltou ao poder; veja mapa",
+     "url": "https://www.bbc.com/portuguese/articles/ck5ynlp6qq57o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Primeira vitória da esquerda desde a volta de Trump.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "La remontada histórica de Lula es una derrota para Trump",
+     "url": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html",
+     "angulo": "El País: derrota para Trump.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Lula is re-elected Brazil’s president in knife-edge vote",
+     "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+     "angulo": "FT: golpe nos planos de Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Direita e esquerda da América Latina reconhecem vitória de Lula; Milei e Trump silenciam",
+     "url": "https://iclnoticias.com.br/lider-democrata-comemora-vitoria-de-lula-trump-mantem-silencio/",
+     "angulo": "Esquerda: Trump e Milei silenciam.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Aliado de Flávio, presidente do Chile parabeniza Lula e promete manter parceria com o Brasil",
+     "url": "https://revistaforum.com.br/politica/aliado-flavio-chile-lula/",
+     "angulo": "Kast telefona para Lula.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula terá Trump como principal desafio externo e apostará em diálogo após embates na eleição",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-tera-trump-como-principal-desafio-externo-e-apostara-em-dialogo-apos-embates-na-eleicao.shtml",
+     "angulo": "Trump como desafio externo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+     "url": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+     "angulo": "Fox: onda conservadora encontra obstáculo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "La victoria de Lula en Brasil: un golpe al tablero regional que crea un dilema diplomático para el gobierno de Milei",
+     "url": "https://www.clarin.com/mundo/victoria-lula-brasil-golpe-tablero-regional-crea-dilema-diplomatico-gobierno-milei_0_HqEW9v32y4.html",
+     "angulo": "Clarín: dilema para Milei.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "World reacts to Lula’s victory in Brazil’s presidential election",
+     "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+     "angulo": "Al Jazeera: reações do mundo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "maria-corina-machado-retorna-venezuela-exilio",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "María Corina Machado volta à Venezuela após dez meses de exílio e pede data para eleições presidenciais",
+   "lide": "A líder opositora e Nobel da Paz entrou pela fronteira com a Colômbia no domingo (25), percorreu cinco estados de carro até Caracas e escreveu 'Estou aqui, com vocês'. Ela deixara o país em dezembro, um mês antes de os EUA deporem Nicolás Maduro, hoje preso em território americano. Marco Rubio atribuiu o retorno às negociações facilitadas pelos EUA; Edmundo González anunciou que também voltará.",
+   "fatos": [
+    {
+     "texto": "María Corina Machado anunciou no domingo que retornou à Venezuela após quase dez meses de exílio, entrando pela fronteira com a Colômbia e viajando de carro até Caracas.",
+     "base": "8 fontes independentes (The Guardian, BBC, NYT, Folha, Estadão, Clarín, France 24/AFP, DW Brasil)"
+    },
+    {
+     "texto": "Ela havia deixado o país em dezembro de 2025 para receber o Nobel da Paz, cerca de um mês antes de militares dos EUA deporem Nicolás Maduro, que está preso em território americano.",
+     "base": "3 fontes independentes (Estadão, BBC, Euronews)"
+    },
+    {
+     "texto": "Marco Rubio atribuiu o retorno às conversas de reconciliação facilitadas pelos EUA, que segundo ele permitiram libertar centenas de presos políticos; Edmundo González anunciou que pretende voltar.",
+     "base": "3 fontes independentes (Clarín, Gazeta do Povo, Le Monde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O retorno alimenta a esperança de uma transição à democracia e desafia o governo interino de Delcy Rodríguez, apoiado por Trump.",
+     "quem": "Bloomberg, Financial Times e The Guardian"
+    },
+    {
+     "texto": "Machado volta a um país 'firmemente sob controle americano' e seu objetivo é exigir data para a eleição presidencial.",
+     "quem": "NYT e Clarín"
+    },
+    {
+     "texto": "Ela resolveu o problema da distância, mas não o do tempo.",
+     "quem": "El País (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, Folha, Estadão, SBT, Gazeta do Povo e Opera Mundi noticiaram o retorno; a DW Brasil destaca a mediação dos EUA.",
+   "ponto_cego": "Veículos de esquerda brasileiros (Fórum, 247, DCM) ignoraram o retorno; a direita (Gazeta) não discute o papel dos EUA no governo interino.",
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+     "angulo": "Recepção entusiasmada e o desafio a Delcy Rodríguez.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+     "angulo": "NYT: volta para pressionar por eleições.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "María Corina Machado, líder da oposição na Venezuela, retorna ao país após meses no exílio",
+     "url": "https://www.estadao.com.br/internacional/maria-corina-machado-retorno-venezuela/",
+     "angulo": "Cobertura brasileira com o contexto da deposição de Maduro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "María Corina Machado retorna à Venezuela após quase um ano fora",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/maria-corina-machado-anuncia-volta-a-venezuela-apos-quase-um-ano-fora.shtml",
+     "angulo": "Folha: retomar o protagonismo sob tutela dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Marco Rubio atribuye la vuelta de María Corina Machado a Venezuela a la labor de Estados Unidos",
+     "url": "https://www.clarin.com/mundo/marco-rubio-atribuye-vuelta-maria-corina-machado-venezuela-labor-estados-unidos_0_3NcWN5Z792.html",
+     "angulo": "Rubio credita os EUA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Venezuela: Maria Corina Machado’s Return Fuels Hope for Shift to Democracy",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/venezuela-maria-corina-machado-s-return-fuels-hope-for-shift-to-democracy",
+     "angulo": "Bloomberg: esperança de transição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Venezuelan opposition leader Machado returns from exile",
+     "url": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
+     "angulo": "FT: desafio ao governo interino.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Líder opositora Maria Corina Machado volta à Venezuela após dez meses",
+     "url": "https://www.dw.com/pt-br/líder-opositora-maria-corina-machado-volta-à-venezuela-após-dez-meses/a-79757674?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW: mediação dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Opositora María Corina Machado retorna à Venezuela após um ano",
+     "url": "https://operamundi.uol.com.br/america-latina/opositora-maria-corina-machado-retorna-a-venezuela-apos-um-ano/",
+     "angulo": "Esquerda: cobertura factual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "María Corina retorna à Venezuela após mais de dez meses fora do país: “Estou aqui, com vocês”",
+     "url": "https://www.gazetadopovo.com.br/mundo/maria-corina-retorna-a-venezuela-apos-mais-de-dez-meses-fora-do-pais-estou-aqui-com-voces/",
+     "angulo": "Direita: González também volta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Who Is María Corina Machado?",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
+     "angulo": "Quem é Machado e sua relação com Washington.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "servia-vucic-admite-derrota-movimento-estudantil",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Vučić admite derrota na Sérvia para movimento liderado por estudantes, após 12 anos no poder e recorde de participação",
+   "lide": "Aleksandar Vučić reconheceu no domingo (25) a derrota de seu partido nas eleições parlamentares antecipadas para a Lista Estudantil, movimento nascido de quase dois anos de protestos contra corrupção e autoritarismo. A participação de quase 70% foi a maior desde a dissolução da Iugoslávia, e projeções dão 141 das 250 cadeiras ao movimento, acima da maioria de 126.",
+   "contexto": "Os protestos começaram após a morte de 16 pessoas no desabamento de uma marquise de estação em Novi Sad, em 2024. Vučić, de direita populista, governava desde 2014 e cultivava laços com a família e aliados de Trump.",
+   "fatos": [
+    {
+     "texto": "Vučić admitiu a derrota ('está claro que perdemos estas eleições') em discurso surpreendentemente cedo, parabenizando os adversários.",
+     "base": "8 fontes independentes (BBC, NYT, The Guardian, Financial Times, France 24/AFP, Al Jazeera, Bloomberg, Estadão)"
+    },
+    {
+     "texto": "A participação foi de quase 70%, a maior desde a dissolução da Iugoslávia em 1992.",
+     "base": "2 fontes independentes (France 24/AFP, The Guardian)"
+    },
+    {
+     "texto": "A Lista Estudantil é projetada com 141 cadeiras no novo parlamento, acima das 126 necessárias para a maioria.",
+     "base": "The Guardian (projeção)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A derrota tira de cena um 'homem forte' balcânico que cortejou a família e aliados de Trump e levanta dúvidas sobre as relações com os EUA.",
+     "quem": "Axios"
+    },
+    {
+     "texto": "Foi uma 'aposta ao estilo Putin' que falhou; o movimento cresceu prometendo combater a corrupção e reverter o retrocesso democrático.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "'A porta para a UE está aberta' ao novo governo sérvio.",
+     "quem": "Autoridades europeias, segundo o The Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, só o Estadão noticiou a derrota de Vučić nos feeds.",
+   "ponto_cego": "Nenhum veículo brasileiro de esquerda ou de direita cobriu a eleição sérvia; a cobertura vem de veículos estrangeiros.",
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Celebrações em Belgrado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+     "angulo": "NYT: a concessão precoce.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+     "angulo": "Guardian: eleição 'sísmica'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Serbia’s strongman leader voted out",
+     "url": "https://www.ft.com/content/2d9a682d-fd71-4d76-878b-fe7980f6988a?syn-25a6b1a6=1",
+     "angulo": "FT: o 'homem forte' derrotado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+     "angulo": "AFP: participação recorde.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Líder sérvio Aleksandar Vučić admite derrota em eleição parlamentar altamente acirrada",
+     "url": "https://www.estadao.com.br/internacional/lider-servio-aleksandar-vucic-admite-derrota-em-eleicao-parlamentar-altamente-acirrada/",
+     "angulo": "Cobertura brasileira.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Student movement topples Serbia's longtime ruling party",
+     "url": "https://www.axios.com/2026/10/25/serbia-election-2026-student-protests-vucic",
+     "angulo": "Axios: efeitos para os EUA.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Serbia’s Vucic Concedes Defeat After Putin-Like Gamble Fails",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/serbian-long-time-leader-vucic-concedes-defeat-in-snap-vote",
+     "angulo": "Bloomberg: aposta à Putin falhou.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Aleksandar Vucic, the Serbian leader brought down by students",
+     "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+     "angulo": "Perfil do líder derrubado.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "id": "israel-vota-amanha-netanyahu-eisenkot-hebron-2670",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Israel vota amanhã entre Netanyahu e Eisenkot; Trump renova apoio, chefe militar resiste a ordem sobre o Irã e Hebron soma 2.670 deslocados",
+   "lide": "Pouco mais de 7 milhões de israelenses elegem na terça (27) o novo Parlamento, na primeira eleição desde o 7 de Outubro. Trump renovou o endosso a Netanyahu pedindo 'terminar o trabalho' contra o Irã, enquanto a imprensa israelense relata atrito entre o premiê e o chefe militar Eyal Zamir, que teme escalada e exigiu ordens por escrito. A Autoridade Palestina contabiliza 2.670 palestinos deslocados em Hebron desde sexta; Israel fechará as passagens da Cisjordânia no dia da eleição.",
+   "continua": {
+    "data": "2026-10-25",
+    "id": "hebron-palestinos-deslocados-protesto-tel-aviv-eleicao",
+    "titulo": "Israel arrasa bairro em Hebron e desloca ao menos 1.200 palestinos; milhares protestam em Tel Aviv contra Netanyahu a três dias da eleição"
+   },
+   "fatos": [
+    {
+     "texto": "A eleição legislativa de Israel ocorre na terça (27), com pouco mais de 7 milhões de eleitores aptos, na primeira votação desde o ataque de 7 de outubro de 2023.",
+     "base": "4 fontes independentes (Folha, Al Jazeera, BBC, NPR)"
+    },
+    {
+     "texto": "Trump renovou o endosso a Netanyahu no domingo, pedindo aos israelenses que o reelejam para 'terminar o trabalho' contra o Irã; Netanyahu pressionou Trump por mais apoio público.",
+     "base": "2 fontes independentes (Breitbart, Axios)"
+    },
+    {
+     "texto": "A Autoridade Palestina informou que mais de 2.670 palestinos foram deslocados à força em Hebron desde sexta; Israel ordenou o fechamento das passagens da Cisjordânia no dia da eleição.",
+     "base": "2 fontes independentes (O Globo, Euronews)"
+    },
+    {
+     "texto": "Netanyahu ameaçou o Irã com um golpe 'esmagador' se houver provocação durante a eleição, dizendo que a inteligência detectou possíveis manobras inimigas.",
+     "base": "Clarín"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O chefe militar Eyal Zamir teme que instruções do governo provoquem escalada imediata com o Irã e exigiu autorização por escrito.",
+     "quem": "Imprensa israelense, segundo a France 24"
+    },
+    {
+     "texto": "Gadi Eisenkot, ex-chefe do Exército e de centro-direita, é o principal rival e pode desbancar Netanyahu.",
+     "quem": "NPR e NYT"
+    },
+    {
+     "texto": "Judeus israelenses de todo o espectro encaram uma 'eleição de medos': isolamento externo, segurança e identidade.",
+     "quem": "The New York Times"
+    },
+    {
+     "texto": "Em Sderot, atingida no 7 de Outubro, muitos seguem firmes com Netanyahu.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "Itamar Ben-Gvir pode ser peça-chave do próximo governo.",
+     "quem": "Fox News"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A Folha publicou duas reportagens sobre a eleição e as incertezas de israelenses e palestinos; O Globo noticiou os deslocados de Hebron; o Brasil de Fato registrou que Lula venceu entre eleitores na Palestina e Flávio em Israel.",
+   "ponto_cego": "A imprensa brasileira de direita ignora as demolições em Hebron; a de esquerda ignora a disputa eleitoral em si. O atrito entre Netanyahu e o chefe militar só apareceu na France 24.",
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "À sombra do 7 de Outubro, Israel vai às urnas dividido sobre Netanyahu e o futuro do país",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/a-sombra-do-7-de-outubro-israel-vai-as-urnas-dividido-sobre-netanyahu-e-o-futuro-do-pais.shtml",
+     "angulo": "Folha: Israel dividido às vésperas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Israel’s election: Five key things to know",
+     "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+     "angulo": "Cinco pontos para entender a eleição.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump Re-Endorses Netanyahu Ahead of Israeli Election: ‘We Have to Finish the Job’ Against Iran",
+     "url": "https://www.breitbart.com/politics/2026/10/25/trump-reendorses-netanyahu-ahead-israeli-election-finish-job-iran/",
+     "angulo": "Trump renova apoio a Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+     "url": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
+     "angulo": "Axios: Netanyahu pede mais apoio a Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Report: IDF chief pushes back on Netanyahu's order",
+     "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
+     "angulo": "Atrito entre Netanyahu e o chefe militar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Mais de 2,6 mil palestinos são 'deslocados à força' por operação israelense na Cisjordânia",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/10/26/mais-de-26-mil-palestinos-sao-deslocados-a-forca-por-operacao-israelense-na-cisjordania.ghtml",
+     "angulo": "2.670 deslocados em Hebron.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Israel orders West Bank crossings to close on election day following Hebron shooting",
+     "url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
+     "angulo": "Passagens fechadas no dia da eleição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Israeli Jews Across the Spectrum Face an Election of Fears",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+     "angulo": "NYT: uma eleição de medos.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "npr",
+     "titulo": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+     "angulo": "Perfil de Eisenkot.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "A day in Benjamin Netanyahu’s heartland",
+     "url": "https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173",
+     "angulo": "FT: no reduto de Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Israel: el premier Netanyahu amenaza a Irán con un golpe \"aplastante\" a dos días de las elecciones",
+     "url": "https://www.clarin.com/mundo/israel-premier-netanyahu-amenaza-iran-golpe-aplastante-dias-elecciones_0_SOuAD57hvC.html",
+     "angulo": "Netanyahu ameaça o Irã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Deeply divided Israel braces for pivotal election",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: país profundamente dividido.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "le-pen-lanca-campanha-orleans-protestos-1314-presos",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Le Pen lança campanha presidencial em Orléans um dia após protestos com 1.314 presos e 53 policiais feridos",
+   "lide": "Marine Le Pen, líder nas pesquisas com até 38%, abriu a campanha ao Eliseu no domingo (25) diante de cerca de 10 mil apoiadores, prometendo 'renascimento', ordem, fronteiras reforçadas e leis de imigração mais duras. O balanço final dos protestos de sábado subiu para 1.314 detidos e 53 agentes feridos, com menos saques; sindicatos acusam Macron de ameaçar o direito de protesto com a 'lei dos vândalos'.",
+   "continua": {
+    "data": "2026-10-25",
+    "id": "europa-protestos-franca-410-mil-mil-presos-italia-espanha",
+    "titulo": "Protestos levam 410 mil às ruas na França com quase mil presos e se espalham por Itália, Espanha, Bélgica e Albânia"
+   },
+   "fatos": [
+    {
+     "texto": "Marine Le Pen lançou oficialmente a campanha presidencial em comício em Orléans, diante de cerca de 10 mil apoiadores, com promessas de ordem, fronteiras reforçadas e leis de imigração mais duras.",
+     "base": "4 fontes independentes (France 24/AFP, Estadão, El País, The Guardian)"
+    },
+    {
+     "texto": "O balanço dos protestos de sábado chegou a 1.314 detidos e 53 policiais feridos, com atos violentos e saques menores que na semana anterior.",
+     "base": "3 fontes independentes (Estadão, France 24/AFP, Breitbart)"
+    },
+    {
+     "texto": "Le Pen lidera as pesquisas com até 38% a seis meses da eleição.",
+     "base": "France 24/AFP"
+    },
+    {
+     "texto": "O discurso de Jordan Bardella no congresso do Reagrupamento Nacional foi interrompido por militantes de juventudes judaicas, retirados à força do recinto.",
+     "base": "El País"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Le Pen se beneficia nas pesquisas das semanas de distúrbios e busca capitalizar a inquietação.",
+     "quem": "France 24/AFP"
+    },
+    {
+     "texto": "Macron venceu a aposta de evitar a repetição da violência com policiamento maciço, mas não está mais perto de resolver a raiva que alimenta os protestos.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "O projeto que responsabiliza manifestantes por danos ameaça o direito de protesto e favorece a extrema direita.",
+     "quem": "Sindicatos franceses, segundo o The Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o Estadão cobriu o lançamento da campanha e o balanço dos protestos; a Gazeta do Povo segue enquadrando a crise pela imigração.",
+   "ponto_cego": "Veículos de esquerda brasileiros ignoraram o lançamento de Le Pen; os de direita (Breitbart) tratam os detidos como 'rioters' sem registrar que a maioria das marchas foi pacífica.",
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
+     "url": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+     "angulo": "Le Pen busca capitalizar a inquietação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Marine Le Pen promete restaurar ordem ao lançar campanha presidencial na França",
+     "url": "https://www.estadao.com.br/internacional/marine-le-pen-promete-restaurar-ordem-ao-lancar-campanha-presidencial-na-franca/",
+     "angulo": "Cobertura brasileira do comício.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Le Pen promete seguridad y soberanía al lanzar su carrera al Elíseo",
+     "url": "https://elpais.com/internacional/2026-10-25/le-pen-promete-seguridad-y-soberania-al-lanzar-su-carrera-al-eliseo.html",
+     "angulo": "El País: o incidente com Bardella.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Novos protestos na França têm 1.314 detidos e 53 agentes feridos; saques diminuem",
+     "url": "https://www.estadao.com.br/internacional/novos-protestos-na-franca-terminam-com-1314-detidos-e-53-policiais-feridos-mas-atos-violentos-caem/",
+     "angulo": "Balanço final dos protestos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+     "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+     "angulo": "A 'lei dos vândalos'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Macron Has Few Bargaining Chips as He Keeps Lid on Violence",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/macron-bargaining-chips-paris-protests-violence-student-union-unef",
+     "angulo": "Bloomberg: Macron sem cartas.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-26"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "France: 1,300+ Rioters Arrested, 53 Police Officers Injured in Continued Unrest",
+     "url": "https://www.breitbart.com/europe/2026/10/25/france-1300-rioters-arrested-53-police-officers-injured-in-continued-unrest/",
+     "angulo": "Direita: 1.300 'rioters' presos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Le Pen’s ‘Renaissance’: 4th time lucky?",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
+     "angulo": "Análise: a quarta tentativa de Le Pen.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-25"
+    }
+   ]
+  }
+ ]
+}

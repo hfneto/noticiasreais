@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-25T09:00:53+00:00",
+ "atualizado_em": "2026-10-26T09:02:31+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-26",
+   "arquivo": "data/edicoes/2026-10-26.json",
+   "historias": 12,
+   "gerado_em": "2026-10-26T06:02:31-03:00",
+   "manchete": "Lula é reeleito com 51,79% dos votos válidos na primeira virada entre turnos desde a redemocratização"
+  },
   {
    "data": "2026-10-25",
    "arquivo": "data/edicoes/2026-10-25.json",
