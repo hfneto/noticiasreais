@@ -1,0 +1,2235 @@
+{
+ "tipo": "edicao",
+ "data": "2026-10-28",
+ "gerado_em": "2026-10-28T06:09:55-03:00",
+ "historias": [
+  {
+   "id": "flavio-deixa-brasil-argentina-equador-eua-descumpre-moraes",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Flávio Bolsonaro deixa o Brasil pela Argentina rumo aos EUA após descumprir ordem de Moraes; PF avalia prisão preventiva e bloqueio de bens",
+   "lide": "Dois dias após perder a eleição, o senador Flávio Bolsonaro não entregou os passaportes no prazo fixado por Alexandre de Moraes, cruzou a fronteira com a Argentina por terra com a mulher e as duas filhas e decolou de Puerto Iguazú num jato particular rumo ao Equador e aos Estados Unidos, segundo a Migração argentina. Lula chamou a saída de 'vergonhosa'; a PF estuda pedir prisão preventiva e bloqueio de bens, e ministros do STF e aliados do governo criticam reservadamente a decisão de Moraes.",
+   "contexto": "Na segunda (26), Moraes mandou Flávio entregar os passaportes em 24 horas e o proibiu de deixar o país, num inquérito sobre lavagem de dinheiro ligado ao advogado Willer Tomaz. No mesmo dia, Flávio disse em vídeo que 'nunca pensou' em sair do Brasil e que cumpriria a ordem.",
+   "fatos": [
+    {
+     "texto": "Flávio não entregou os passaportes à PF até as 11h de terça (27), prazo fixado por Moraes; a PF cancelou os documentos e alertou o sistema internacional de monitoramento.",
+     "base": "6 fontes independentes (Folha, SBT News, Brasil de Fato, Gazeta do Povo, JOTA, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Segundo a Direção Nacional de Migrações da Argentina, Flávio, a mulher e as duas filhas entraram no país às 22h50 de terça pela Ponte Tancredo Neves (Foz do Iguaçu–Puerto Iguazú) e decolaram às 0h21 de quarta num Gulfstream G400 rumo a Guayaquil, no Equador.",
+     "base": "comunicado oficial da Migração argentina, reproduzido por g1, Folha, O Globo, Poder360, CNN Brasil, Clarín e La Nación"
+    },
+    {
+     "texto": "Horas antes, o órgão de migração argentino e um integrante do governo Milei haviam negado qualquer registro de entrada do senador no país.",
+     "base": "3 fontes independentes (g1, Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "Ao pedir a apreensão dos passaportes no domingo (25), a PF apontou 'risco concreto de evasão do território nacional'.",
+     "base": "4 fontes independentes (Estadão, Folha, Valor, Terra)"
+    },
+    {
+     "texto": "Na segunda (26), em vídeo, Flávio afirmou que não sairia do país e que entregaria o passaporte à PF.",
+     "base": "3 fontes independentes (Estadão, ICL Notícias, Brasil de Fato)"
+    },
+    {
+     "texto": "Lula, em festa de seu aniversário de 81 anos no Alvorada, chamou a saída de 'ato vergonhoso' e disse que 'quem sai escondido do seu país é porque deve alguma coisa'; afirmou que entregou seu passaporte quando lhe pediram, em 2018.",
+     "base": "6 fontes independentes (Agência Brasil, Estadão, Folha, Gazeta do Povo, Revista Fórum, SBT News)"
+    },
+    {
+     "texto": "Deputados do PT pediram a Moraes prisão preventiva e inclusão de Flávio na difusão vermelha da Interpol; deputadas do PSOL pediram bloqueio de bens e contas do senador e da mulher.",
+     "base": "4 fontes independentes (Gazeta do Povo, SBT News, Folha, CNN Brasil)"
+    },
+    {
+     "texto": "O ministro Flávio Dino mandou a PF abrir inquérito sobre suposto financiamento e interferência estrangeira na campanha de Flávio, incluindo plataformas digitais e o interesse em terras raras.",
+     "base": "5 fontes independentes (Folha, JOTA, Brasil de Fato, Gazeta do Povo, Estadão)"
+    },
+    {
+     "texto": "Flávio tem cidadania italiana reconhecida desde 2023; a PF não pode cancelar passaporte estrangeiro.",
+     "base": "2 fontes independentes (Gazeta do Povo, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Flávio Bolsonaro é investigado em três inquéritos no STF: financiamento do filme Dark Horse, suposta calúnia contra Lula e lavagem de dinheiro com Willer Tomaz.",
+     "base": "CNN Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A saída do país dá base jurídica para a decretação de prisão preventiva e pode configurar descumprimento de ordem judicial, embora não haja mandado de prisão que o torne formalmente 'foragido'.",
+     "quem": "Especialistas ouvidos por Folha, JOTA, Veja e Terra"
+    },
+    {
+     "texto": "A PF avalia pedir ao STF bloqueio de bens e valores como forma de pressionar o retorno, além de rastrear a rota da saída.",
+     "quem": "O Globo, com base em investigadores"
+    },
+    {
+     "texto": "O plano de deixar o país já estava organizado semanas antes da derrota.",
+     "quem": "Bela Megale, colunista de O Globo"
+    },
+    {
+     "texto": "A PF apura se o jato ligado ao advogado Willer Tomaz, que saiu de Brasília antes do prazo dos passaportes, levou Flávio à Argentina.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "Governistas se irritaram com Moraes: a apreensão do passaporte um dia após a eleição fortalece o discurso de perseguição política e amplia tensões; Lula disse estar preocupado com esse discurso.",
+     "quem": "Painel da Folha e Brasil 247, citando aliados do governo"
+    },
+    {
+     "texto": "A decisão de Moraes surpreendeu ministros do STF e gerou preocupação com escalada das tensões.",
+     "quem": "Mônica Bergamo (Folha) e Veja, citando ministros"
+    },
+    {
+     "texto": "A série de medidas contra Flávio tem características de perseguição política, e resistir a 'arbítrios' seria lógico; o pedido de passaporte sete minutos após o resultado reforça a tese.",
+     "quem": "Editorial da Gazeta do Povo e juristas ouvidos pelo jornal"
+    },
+    {
+     "texto": "Ao fugir, Flávio 'comportou-se como culpado dos crimes pelos quais é acusado' e optou pela retórica fácil da perseguição; a fuga é problema para a direita e para Lula.",
+     "quem": "Editorial da Folha"
+    },
+    {
+     "texto": "A fuga 'é uma declaração de culpa' e deveria levar à revogação da prisão domiciliar de Jair Bolsonaro.",
+     "quem": "Paulo Pimenta (PT)"
+    },
+    {
+     "texto": "Flávio deverá pedir asilo político nos EUA; um visto por 'habilidades extraordinárias', como o de Eduardo, seria caminho mais fácil.",
+     "quem": "Valor e advogado de imigração ouvido pela BBC Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Flávio não entrou na Argentina (governo Milei, na terça à tarde).",
+     "rotulo": "Contraditório",
+     "explicacao": "Na madrugada de quarta a própria Direção Nacional de Migrações divulgou comunicado registrando a entrada por terra às 22h50 e a decolagem de Puerto Iguazú às 0h21; a oposição argentina pede investigação.",
+     "onde_circula": "porta-voz e órgão de migração argentinos, reproduzidos pela imprensa brasileira",
+     "checagem": []
+    },
+    {
+     "alegacao": "Vídeo mostra Flávio Bolsonaro chorando após o resultado da eleição.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A gravação foi publicada antes do resultado, segundo o Estadão Verifica.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/video-flavio-bolsonaro-chorando-fora-de-contexto/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Flávio Bolsonaro é 'foragido da Justiça'.",
+     "rotulo": "Falta contexto",
+     "explicacao": "Não há mandado de prisão contra ele; o que há é descumprimento de medida cautelar (entrega de passaportes e proibição de sair do país), que pode fundamentar pedido de prisão preventiva, segundo juristas ouvidos por JOTA, Veja, Terra e BBC Brasil.",
+     "onde_circula": "redes sociais e falas de parlamentares do PT",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Lula e o PT tratam a saída como fuga de quem 'deve alguma coisa' à Justiça e pedem prisão preventiva e Interpol; nos bastidores, aliados reprovam o momento da decisão de Moraes.",
+    "oposicao": "Aliados falam em 'exílio' e perseguição política de Moraes e da PF, questionam a rapidez da ordem e dizem que Flávio pode liderar a oposição do exterior; Marinho e Moro dizem 'compreender'."
+   },
+   "visao_de_fora": "NYT, Guardian, Le Monde, El País, Clarín, La Nación, Página/12, Fox News e NPR deram manchete; La Nación e Clarín destacam a suspeita de participação da Casa Rosada (assessor Caputo no aeroporto) e El País fala em fuga para evitar investigação por lavagem; o DCM contou capas em 16 países.",
+   "ponto_cego": "A direita (Gazeta, Terra Brasil, Diário do Poder, Oeste) enquadra como perseguição e exílio e omite que Flávio prometera em vídeo entregar o passaporte; a esquerda (Fórum, 247, DCM) chama de fuga e dá pouco espaço à crítica de ministros do STF e de governistas ao momento da decisão de Moraes, registrada por Folha e Veja.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "moraes-flavio-entrega-passaportes-proibido-sair-willer",
+    "titulo": "Moraes manda Flávio entregar passaportes em 24 horas, proíbe-o de sair do país e de falar com Willer Tomaz"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "O que se sabe sobre a fuga de Flávio Bolsonaro após derrota nas eleições",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/o-que-se-sabe-sobre-a-possivel-fuga-de-flavio-bolsonaro-apos-derrota-nas-eleicoes.shtml",
+     "angulo": "Folha: cronologia e chegada aos EUA às 16h20, segundo a família.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Sigilo, rapidez e fragilidade de ordem contra Flávio reforçam tese de perseguição política",
+     "url": "https://www.gazetadopovo.com.br/republica/sigilo-rapidez-e-fragilidade-de-ordem-contra-flavio-reforcam-tese-de-perseguicao-politica/",
+     "angulo": "Gazeta: PF pediu passaporte sete minutos após o resultado; tese de perseguição.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Flávio Bolsonaro e família cruzam fronteira e seguem em voo privado para o Equador, diz Migração argentina",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-e-familia-entraram-na-argentina-e-seguiram-em-voo-privado-para-o-equador-diz-migracao-argentina.ghtml",
+     "angulo": "g1: o comunicado da Migração argentina, rota e horários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro fugiu do Brasil pela Argentina e seguiu de jato para o Equador; Trump diz que aprova sua ida aos EUA",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-fugiu-via-argentina-equador-eua/",
+     "angulo": "Fórum: 'fugiu' com passaportes cancelados e ordem expressa do STF.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Bloqueio de bens, prisão preventiva e rastreamento da rota de fuga: PF avalia próximos passos após Flávio deixar o país",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/bloqueio-de-bens-prisao-preventiva-e-rastreamento-da-rota-de-fuga-pf-avalia-proximos-passos-apos-flavio-deixar-o-pais.ghtml",
+     "angulo": "O Globo: os próximos passos que a PF avalia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "BOMBA: Flávio Bolsonaro descumpre ordem de Moraes e não entrega passaportes à PF",
+     "url": "https://terrabrasilnoticias.com/2026/10/bomba-flavio-bolsonaro-descumpre-ordem-de-moraes-e-nao-entrega-passaportes-a-pf/",
+     "angulo": "Terra Brasil: o descumprimento do prazo, em tom de urgência.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "PF citou risco de fuga ao pedir a Moraes apreensão de passaportes de Flávio",
+     "url": "https://www.estadao.com.br/politica/pf-citou-risco-de-fuga-ao-pedir-a-moraes-apreensao-de-passaportes-de-flavio/",
+     "angulo": "Estadão: a PF já apontava 'risco concreto de evasão' no domingo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Flávio Bolsonaro fugiu para os EUA, mas é foragido da Justiça? Entenda",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/flavio-bolsonaro-fugiu-para-os-eua-mas-e-foragido-da-justica-entenda",
+     "angulo": "JOTA: é foragido? O que a lei diz sobre descumprir cautelar.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "‘Isso é coisa de ditadura’, diz Hattem sobre perseguição que forçou saída de Flávio do Brasil",
+     "url": "https://diariodopoder.com.br/justica/ttc-justica/isso-e-coisa-de-ditadura-diz-hattem-sobre-perseguicao-que-forcou-saida-de-flavio-do-brasil",
+     "angulo": "Diário do Poder: Van Hattem fala em 'coisa de ditadura'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "El gobierno de Milei confirmó que Flavio Bolsonaro despegó a la madrugada desde Puerto Iguazú",
+     "url": "https://www.lanacion.com.ar/el-mundo/revuelo-en-el-aeropuerto-de-puerto-iguazu-tras-el-despegue-del-avion-que-esperaba-a-bolsonaro-nid28102026/",
+     "angulo": "La Nación: o jato que esperou 24 h e o assessor Caputo no aeroporto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+     "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+     "angulo": "NYT: 'Leaves Brazil for the U.S.' e o inquérito de lavagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "A reação de ministros do STF à decisão de Moraes sobre passaportes de Flávio Bolsonaro",
+     "url": "https://veja.abril.com.br/politica/a-reacao-de-ministros-do-stf-a-decisao-de-moraes-sobre-passaportes-de-flavio-bolsonaro/",
+     "angulo": "Veja: ministros do STF e a diplomacia veem com desconforto a decisão de Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "eua-concedem-vistos-flavio-trump-aprova-eleicao-estranha-argentina-nao-reconhece-lula",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "EUA concedem vistos a Flávio e família; Trump diz que aprova a ida e chama eleição de 'estranha'; governo Milei não reconhecerá Lula e oposição argentina pede investigação",
+   "lide": "O Departamento de Estado confirmou que dará vistos a Flávio Bolsonaro, à mulher e às filhas, e Trump disse que 'por mim, tudo bem', que ouvira que o senador 'estava na Argentina' e voltou a chamar a eleição brasileira de 'estranha' e a falar em fraude, sem provas, em comício no Texas. O governo Milei disse que não parabenizará Lula porque 'não é hipócrita', e parlamentares da oposição argentina pedem investigação sobre a passagem de Flávio por Puerto Iguazú.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "O Departamento de Estado dos EUA confirmou que concederá vistos a Flávio Bolsonaro e à família, autorizando a entrada no país.",
+     "base": "7 fontes independentes (Estadão, g1, Axios, NPR, Fox News, ICL Notícias/AP, Brasil de Fato/AFP)"
+    },
+    {
+     "texto": "Trump afirmou na noite de terça que aprovaria a entrada de Flávio ('por mim, tudo bem'), disse ter ouvido que ele 'estava na Argentina' e não saber seu paradeiro, e voltou a dizer, sem provas, que a eleição brasileira foi 'muito estranha' e 'fraudada', em comício em Lubbock, Texas.",
+     "base": "8 fontes independentes (g1, Folha, CNN Brasil, Poder360, Gazeta do Povo, SBT News, Opera Mundi, La Nación)"
+    },
+    {
+     "texto": "O porta-voz da Presidência argentina, Adrián Ravier, disse que o governo 'tomou nota' da vitória de Lula, que não emitirá comunicado porque Milei 'não é hipócrita' e que Flávio não pediu asilo na Argentina.",
+     "base": "6 fontes independentes (Folha, Estadão, g1, Gazeta do Povo, SBT News, Opera Mundi)"
+    },
+    {
+     "texto": "Parlamentares de oposição na Argentina pediram investigação sobre a passagem de Flávio pelo país e a decolagem do jato de Puerto Iguazú.",
+     "base": "4 fontes independentes (g1, SBT News, Brasil 247, DCM)"
+    },
+    {
+     "texto": "O governo Lula e a PF acionaram autoridades argentinas na terça para apurar a possível saída de Flávio pela fronteira.",
+     "base": "3 fontes independentes (Gazeta do Povo, Brasil de Fato, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Trump disse que respeitará o resultado das eleições de meio de mandato de 3 de novembro 'se a votação for honesta'.",
+     "base": "2 fontes independentes (g1, Le Monde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O assessor presidencial argentino Santiago Caputo esteve presente na decolagem do jato em Puerto Iguazú, e cresce a suspeita de participação da Casa Rosada na saída.",
+     "quem": "La Nación e Página/12, citando fontes oficiais"
+    },
+    {
+     "texto": "Autoridades brasileiras tentaram alertar o governo americano para que não recebesse Flávio, segundo um funcionário do Departamento de Estado.",
+     "quem": "The Washington Post, via DCM"
+    },
+    {
+     "texto": "O aval de Trump pode elevar a tensão com os EUA no início do quarto mandato, dificultar o acesso americano a minerais críticos e abrir espaço à China; o governo aposta em manter o diálogo.",
+     "quem": "Metrópoles, Gazeta do Povo, Arko Advice (CNN Brasil) e Celso Lafer (NeoFeed)"
+    },
+    {
+     "texto": "O Brasil poderia pedir extradição, mas Trump é obstáculo.",
+     "quem": "Especialistas ouvidos pelo Valor"
+    },
+    {
+     "texto": "A ida de Flávio ocorre em momento eleitoral delicado para Trump, cuja aprovação está em 32% a uma semana das midterms.",
+     "quem": "Metrópoles e Reuters/Ipsos via Folha"
+    },
+    {
+     "texto": "Trump deve explicações ao Congresso americano sobre a participação do governo na saída de Flávio.",
+     "quem": "Deputado democrata, segundo o Valor"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Marco Rubio e Milei organizaram a 'Operação Alba' para tirar Flávio do Brasil, e Trump já concedeu asilo político.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A fonte é o advogado e influenciador Simón Levy, ligado ao movimento MAGA, em posts e entrevistas; o Departamento de Estado confirmou apenas vistos, não asilo, e não há confirmação oficial de participação de Rubio ou de Milei. A Gazeta do Povo e a CNN relatam, de fontes, que Trump deu aval à entrada.",
+     "onde_circula": "Terra Brasil Notícias, Diário do Poder, Fórum, DCM, Opera Mundi, Gazeta do Povo",
+     "checagem": []
+    },
+    {
+     "alegacao": "A eleição brasileira foi fraudada (Trump, Bannon, Musk).",
+     "rotulo": "Sem evidência",
+     "explicacao": "Nenhum deles apresentou indício; o PL reconheceu o resultado, o TSE negou a retirada de fiscais da sala-cofre e levantamentos mostram só 34 mil votos na prorrogação. A Lupa mapeou mais de 100 posts do portal argentino La Derecha Diario alegando fraude sem provas.",
+     "onde_circula": "comício de Trump, redes de Bannon e Musk, La Derecha Diario",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/observatorio/2026/10/27/rede-argentina-espalhou-suspeitas-de-fraude-racismo-e-desinformacao-sobre-eleicao-brasileira/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo e aliados veem interferência externa e ameaça à soberania; Dino abriu inquérito sobre interferência estrangeira e Cappelli fala em ingerência dos EUA.",
+    "oposicao": "A direita apresenta o visto como acolhida a um perseguido político e a fala de Trump como respaldo internacional à tese de perseguição."
+   },
+   "visao_de_fora": "Axios, NPR, Fox e NYT tratam o visto como gesto político de Trump dias após a derrota do aliado; La Nación e Clarín focam no papel da Argentina; Le Monde liga a fuga a casos de corrupção.",
+   "ponto_cego": "A direita (Gazeta, Oeste, Terra Brasil) destaca o apoio de Trump e pouco registra que a Argentina negou e depois confirmou a passagem; a esquerda (Fórum, DCM, 247) amplifica a versão de Simón Levy sobre Rubio e Milei, que não tem confirmação oficial.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "trump-eleicao-pareceu-fraudada-alckmin-rebate-milei-silencia",
+    "titulo": "Trump diz que eleição 'pareceu fraudada' mas que gosta de Lula; Alckmin chama fala de 'equivocada' e Milei é o único da América do Sul a não reconhecer"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "EUA dizem que concederão vistos a Flávio Bolsonaro e família",
+     "url": "https://www.estadao.com.br/politica/eua-visto-flavio-bolsonaro-npr/",
+     "angulo": "Estadão: a confirmação do Departamento de Estado ao jornal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump diz que aprova ida de Flávio Bolsonaro aos EUA",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/28/trump-diz-que-aprova-ida-de-flavio-bolsonaro-aos-eua.ghtml",
+     "angulo": "g1: 'aprova' e volta a criticar a eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "U.S. granting visas to Flávio Bolsonaro and family",
+     "url": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
+     "angulo": "Axios: fonte sênior do governo Trump confirma vistos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump deu aval direto para entrada de Flávio Bolsonaro nos EUA, diz emissora",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-deu-aval-direto-para-entrada-de-flavio-bolsonaro-nos-eua-diz-emissora/",
+     "angulo": "Gazeta: Trump deu aval direto sabendo da ordem de Moraes, diz CNN.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Departamento de Estado dos EUA confirma visto para Flávio Bolsonaro e sua família após fuga do Brasil",
+     "url": "https://www.brasildefato.com.br/2026/10/27/departamento-de-estado-dos-eua-confirma-visto-para-flavio-bolsonaro-e-sua-familia-apos-fuga-do-brasil/",
+     "angulo": "Brasil de Fato: visto 'após fuga', via AFP.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Sen Flávio Bolsonaro flees Brazil for US after election loss, will be issued visas: State Department",
+     "url": "https://www.foxnews.com/world/sen-flavio-bolsonaro-reportedly-flees-brazil-us-election-loss",
+     "angulo": "Fox News: 'far-right senator' rumo à Flórida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Advogado ligado a Trump diz que Flávio chegou aos EUA e que Rubio arquitetou saída",
+     "url": "https://www.gazetadopovo.com.br/mundo/advogado-ligado-trump-diz-flavio-chegou-eua-rubio-arquitetou-saida/",
+     "angulo": "Gazeta: advogado ligado a Trump diz que Rubio arquitetou a saída.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Brasil tentou evitar entrada de Flávio Bolsonaro nos EUA, diz Washington Post",
+     "url": "https://www.diariodocentrodomundo.com.br/brasil-tentou-evitar-entrada-de-flavio-bolsonaro-nos-eua-diz-washington-post/",
+     "angulo": "DCM: Washington Post diz que Brasil tentou evitar a entrada.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Argentina se recusa a reconhecer vitória de Lula e diz que Milei 'não é hipócrita'",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/argentina-recusa-se-manifestar-sobre-vitoria-de-lula-e-diz-que-milei-nao-e-hipocrita.shtml",
+     "angulo": "Folha: Argentina 'não é hipócrita' e não parabeniza Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "La fuga de Flávio Bolsonaro: visas de Trump, un avión en Iguazú y el sello de la cobardía",
+     "url": "https://www.pagina12.com.ar/2026/10/28/la-fuga-de-flavio-bolsonaro-visas-de-trump-un-avion-en-iguazu-y-el-sello-de-la-cobardia/",
+     "angulo": "Página/12: 'o selo da covardia' e o dono do avião.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Governo Lula espera escalada de tensão com EUA após fuga de Flávio",
+     "url": "https://www.metropoles.com/brasil/governo-lula-espera-escalada-de-tensao-com-eua-apos-fuga-de-flavio",
+     "angulo": "Metrópoles: governo espera escalada, mas aposta no diálogo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Aliado de Trump afirma que governo dos EUA autorizou asilo político a Flávio Bolsonaro",
+     "url": "https://terrabrasilnoticias.com/2026/10/aliado-de-trump-afirma-que-governo-dos-eua-autorizou-asilo-politico-a-flavio-bolsonaro/",
+     "angulo": "Terra Brasil: a versão de Simón Levy sobre asilo.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "direita-sem-flavio-tarcisio-valdemar-michelle-marinho-moro-reorganizacao",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Sem Flávio, direita disputa o comando: Tarcísio reconhece vitória de Lula e prega 'oposição vigilante', Valdemar se reúne com Michelle, Marinho e Moro dizem 'compreender' a saída",
+   "lide": "A saída de Flávio Bolsonaro pegou de surpresa a cúpula do PL e abriu a disputa pela liderança da oposição: Tarcísio de Freitas reconheceu a vitória de Lula e defendeu 'unidade da direita' e 'oposição vigilante'; Valdemar Costa Neto convocou reunião de emergência e posou com Michelle Bolsonaro para discutir o 'futuro do partido'. Rogério Marinho, Sergio Moro e o líder da oposição na Câmara disseram compreender ou apoiar a decisão, enquanto Kim Kataguiri falou em 'líder fraco'.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "Tarcísio de Freitas (Republicanos) reconheceu em vídeo a vitória de Lula, disse que 'a eleição passou', agradeceu a Flávio e defendeu 'unidade da direita' e uma 'oposição vigilante'.",
+     "base": "7 fontes independentes (SBT News, Gazeta do Povo, Folha, InfoMoney, A Tarde, Jovem Pan, DW Brasil)"
+    },
+    {
+     "texto": "Valdemar Costa Neto convocou reunião de emergência do PL e se reuniu com Michelle Bolsonaro, publicando foto e falando em 'conversa sobre o futuro do partido'.",
+     "base": "6 fontes independentes (Valor, Veja, Gazeta do Povo, O Antagonista, Brasil 247, CartaCapital)"
+    },
+    {
+     "texto": "Rogério Marinho, coordenador da campanha, disse não ter sido informado nem consultado, não concordar, mas 'compreender' a saída diante das cautelares, e afirmou que Flávio pode liderar a oposição do exterior ('Maria Corina faz isso há muito tempo').",
+     "base": "6 fontes independentes (JOTA, SBT News, Gazeta do Povo, Veja, Folha, Agência Brasil)"
+    },
+    {
+     "texto": "Sergio Moro, governador eleito do Paraná, disse que 'não há normalidade institucional' e que 'Flávio deixar o país é compreensível'.",
+     "base": "4 fontes independentes (Folha, Jovem Pan, DCM, Estado de Minas)"
+    },
+    {
+     "texto": "O advogado Frederick Wassef disse que ele e Valdemar foram 'pegos de surpresa'; a equipe jurídica de Flávio descartou novas ações no TSE.",
+     "base": "3 fontes independentes (Valor, Revista Oeste, Terra)"
+    },
+    {
+     "texto": "O vice da chapa, Alfredo Gaspar, reconheceu a derrota e prometeu oposição no Congresso.",
+     "base": "3 fontes independentes (Gazeta do Povo, DW Brasil, Terra)"
+    },
+    {
+     "texto": "Se Flávio se afastar do mandato, a vaga no Senado vai ao suplente Paulo Marinho, que declarou voto em Lula em 2022 e rompeu com a família em 2020.",
+     "base": "2 fontes independentes (CNN Brasil, SBT News)"
+    },
+    {
+     "texto": "O deputado Pedro Rousseff (PT) pediu à PGR o confisco do passaporte de Nikolas Ferreira; Nikolas reagiu criticando o pedido.",
+     "base": "3 fontes independentes (Estadão, Terra, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Tarcísio é o nome mais forte para assumir a liderança da direita, com sinalização de projeto presidencial para 2030; Michelle amplia sua influência no PL.",
+     "quem": "Aliados ouvidos por CNN Brasil, Metrópoles, O Globo e ICL Notícias"
+    },
+    {
+     "texto": "A fuga 'decreta o fim do bolsonarismo' como o conhecemos nestas eleições.",
+     "quem": "Renato Rovai, Revista Fórum"
+    },
+    {
+     "texto": "A fuga expõe desinteresse em liderar a oposição e medo das investigações.",
+     "quem": "Analistas ouvidos pelo Brasil de Fato"
+    },
+    {
+     "texto": "Flávio não é a maior liderança da oposição hoje; há reorganização da direita com novos protagonistas.",
+     "quem": "Cientista político ouvido pela Veja"
+    },
+    {
+     "texto": "Flávio foi um 'líder fraco' ao fugir.",
+     "quem": "Kim Kataguiri (União Brasil)"
+    },
+    {
+     "texto": "A oposição apoia Flávio, que deixou o país 'para pedir asilo político' por perseguição.",
+     "quem": "Cabo Gilberto Silva, líder da oposição na Câmara"
+    },
+    {
+     "texto": "Aliados de Lula temem um novo 8 de Janeiro; o PT fala em 'pôr gente nas ruas' em reação.",
+     "quem": "Vera Rosa (Estadão) e Edinho Silva (PT), via DCM"
+    },
+    {
+     "texto": "O PL recalcula a rota de olho nas presidências de Câmara e Senado em 2027, quando terá a maior bancada do Senado (29) e da Câmara (121).",
+     "quem": "Terra e Agência Senado"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo exploram a divisão da direita e a 'fuga' como fim do bolsonarismo, mas temem radicalização de rua.",
+    "oposicao": "A direita se divide entre quem 'compreende' a saída como reação à perseguição (Marinho, Moro, Cabo Gilberto) e quem vira a página e busca novo comando (Tarcísio, Kataguiri, dirigentes do Centrão)."
+   },
+   "visao_de_fora": "Clarín e El País descrevem Flávio ampliando a lista de aliados de Bolsonaro que vivem no exterior para escapar da Justiça; o NYT destaca a investigação de lavagem.",
+   "ponto_cego": "A esquerda (Fórum, 247) decreta o fim do bolsonarismo e ignora que o PL sai da eleição com as maiores bancadas e seis governadores; a direita (Gazeta, Oeste) registra o apoio de Marinho e Cabo Gilberto, mas pouco cobre a irritação de dirigentes do PL e a aposta em Tarcísio relatada por O Globo, CNN e Metrópoles.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "pl-reconhece-vitoria-lula-flavio-desiste-anulacao-cassacao",
+    "titulo": "PL reconhece vitória de Lula e Flávio desiste de pedir anulação; agora fala em cassação da chapa por abuso de poder e em liderar a oposição"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Fuga de Flávio abre disputa pelo comando da oposição e aliados de Lula temem novo 8 de Janeiro",
+     "url": "https://www.estadao.com.br/politica/vera-rosa/fuga-de-flavio-abre-disputa-pelo-comando-da-oposicao-e-aliados-de-lula-temem-novo-8-de-janeiro/",
+     "angulo": "Estadão (Vera Rosa): disputa pelo espólio e temor de novo 8 de Janeiro.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Saída de Flávio do país abre disputa por protagonismo na oposição a Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/saida-de-flavio-do-pais-abre-disputa-por-protagonismo-na-oposicao-a-lula.ghtml",
+     "angulo": "O Globo: a saída embaralha os planos do PL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fuga de Flávio Bolsonaro abre disputa por liderança da direita no Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/fuga-de-flavio-bolsonaro-abre-disputa-por-lideranca-da-direita-no-brasil/",
+     "angulo": "CNN Brasil: Tarcísio é o mais forte, dizem aliados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Tarcísio reconhece vitória de Lula e defende “oposição vigilante”",
+     "url": "https://www.gazetadopovo.com.br/republica/tarcisio-reconhece-vitoria-de-lula-e-defende-oposicao-vigilante/",
+     "angulo": "Gazeta: Tarcísio reconhece e pede 'oposição vigilante'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Valdemar e Michelle discutem futuro do PL após Flávio deixar o país",
+     "url": "https://www.gazetadopovo.com.br/republica/valdemar-e-michelle-discutem-futuro-do-pl-apos-flavio-deixar-o-pais/",
+     "angulo": "Gazeta: Valdemar e Michelle discutem o 'futuro do PL'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Rogério Marinho diz \"compreender\" fuga de Flávio do Brasil",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/rogerio-marinho-diz-compreender-fuga-de-flavio-do-brasil",
+     "angulo": "SBT: Marinho 'compreende' e desconhece paradeiro.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Moro diz que não há normalidade institucional e que 'Flávio deixar o país é compreensível'",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/moro-diz-que-nao-ha-normalidade-institucional-e-que-flavio-deixar-o-pais-e-compreensivel.shtml",
+     "angulo": "Folha: Moro, 'compreensível'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Fuga de Flávio Bolsonaro abre caminho para Michelle dentro do PL",
+     "url": "https://iclnoticias.com.br/fuga-flavio-bolsonaro-abre-caminho-michelle-pl/",
+     "angulo": "ICL: caminho aberto para Michelle no PL.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Análise: A fuga de Flávio decreta o fim do bolsonarismo no Brasil",
+     "url": "https://revistaforum.com.br/blogs/blog-do-rovai/fuga-flavio-fim-bolsonarismo-brasil/",
+     "angulo": "Fórum (Rovai): 'o fim do bolsonarismo'.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Líder da oposição apoia viagem de Flávio",
+     "url": "https://revistaoeste.com/politica/lider-da-oposicao-apoia-viagem-de-flavio/",
+     "angulo": "Oeste: líder da oposição apoia a viagem.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "PL convoca reunião de emergência após saída de Flávio do Brasil",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e12-brasil/pl-convoca-reuniao-de-emergencia-apos-saida-de-flavio-do-brasil",
+     "angulo": "Diário do Poder: reunião de emergência no PL.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Fuga de Flávio Bolsonaro expõe desinteresse em liderar oposição e medo de investigação, avaliam analistas",
+     "url": "https://www.brasildefato.com.br/2026/10/27/fuga-de-flavio-bolsonaro-expoe-desinteresse-em-liderar-oposicao-e-medo-de-investigacao-avaliam-analistas/",
+     "angulo": "Brasil de Fato: desinteresse em liderar e medo da investigação.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "mercado-corrige-ibovespa-0-51-dolar-5-35-tesouro-31-bi-durigan-meta-fonteles",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Mercado corrige parte do tombo: Ibovespa cai 0,51% e dólar recua a R$ 5,35; Tesouro já recomprou R$ 31,6 bi e Durigan promete lei para mirar o centro da meta, enquanto ministro diz que ajuste fiscal 'não está em discussão'",
+   "lide": "No segundo pregão após a reeleição, o dólar caiu 0,97% e os juros futuros recuaram, mas a Bolsa fechou em baixa de 0,51% e acumula queda de 14,3% em dois dias. Dario Durigan anunciou projeto de lei para fixar o compromisso com o centro da meta fiscal em 2027, autorizou nova recompra de títulos e disse que o Imposto Seletivo será enviado nesta semana; horas depois, o ministro José Guimarães afirmou que um pacote de ajuste 'não está sendo discutido' e não é prioridade.",
+   "contexto": "Na segunda (26), o Ibovespa caiu 13,88% com circuit breaker e o dólar subiu 8,2%, a R$ 5,40, maior alta diária desde 1999.",
+   "fatos": [
+    {
+     "texto": "O Ibovespa fechou terça em queda de 0,51%, aos 175.705 pontos, acumulando perda de 14,3% em dois dias; o dólar recuou 0,97%, a R$ 5,35, com mínima de R$ 5,308.",
+     "base": "7 fontes independentes (g1, Exame, SBT News, Revista Oeste, Jovem Pan, Brasil 247, Valor)"
+    },
+    {
+     "texto": "O Tesouro recomprou R$ 31,6 bilhões em títulos em dois dias para conter a alta dos juros, a maior intervenção desde março; Durigan autorizou novas rodadas se necessário.",
+     "base": "2 fontes independentes (Folha, Valor)"
+    },
+    {
+     "texto": "Durigan anunciou que o governo enviará ao Congresso projeto de lei fixando o compromisso de atingir o centro da meta fiscal em 2027, disse que a MP com as alíquotas do Imposto Seletivo sai nesta semana e atribuiu o estresse à reversão de apostas do mercado na vitória de Flávio.",
+     "base": "4 fontes independentes (g1, SBT News, Valor, Folha)"
+    },
+    {
+     "texto": "O ministro da Secretaria de Relações Institucionais, José Guimarães, disse que um pacote de ajuste fiscal não é prioridade até o fim do ano e não está sendo discutido; as prioridades seriam PEC da Segurança, Tarifa Zero e fim das bets.",
+     "base": "2 fontes independentes (Folha, SBT News)"
+    },
+    {
+     "texto": "Gabriel Galípolo negou ser cotado para a Fazenda, disse que seu mandato no BC vai até 2028 e que o BC só atuará no câmbio em caso de disfuncionalidade.",
+     "base": "3 fontes independentes (Folha, SBT News, Valor)"
+    },
+    {
+     "texto": "Rafael Fonteles, governador reeleito do Piauí, é o nome mais cotado para a Fazenda; Durigan o chamou de 'excelente nome', mas disse que Lula ainda não discutiu mudanças na equipe.",
+     "base": "5 fontes independentes (SBT News, Folha, Estadão, O Globo, Brasil 247)"
+    },
+    {
+     "texto": "A Fazenda aprovou garantia do Tesouro a empréstimo bancário de R$ 7 bilhões aos Correios, que deve ser liberado nesta semana.",
+     "base": "2 fontes independentes (Folha, O Globo)"
+    },
+    {
+     "texto": "Bilionários brasileiros perderam R$ 75 bilhões em um dia com o tombo da Bolsa.",
+     "base": "g1 (com dados da Forbes)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A eleição não altera a visão sobre o perfil de crédito soberano (Ba1, perspectiva estável); haverá continuidade da política fiscal e juro alto por mais tempo.",
+     "quem": "Moody's, via JOTA"
+    },
+    {
+     "texto": "A prioridade máxima de Lula deve ser escolher rápido o ministro da Fazenda para 'apagar o incêndio' da crise de confiança; petistas rejeitam pressão em 'ressaca eleitoral'.",
+     "quem": "Christopher Garman (Eurasia), Folha"
+    },
+    {
+     "texto": "O temor de 'estelionato eleitoral' limita o espaço de Lula para um ajuste mais duro.",
+     "quem": "Fabio Graner, O Globo"
+    },
+    {
+     "texto": "O PIB deve ficar perto de zero em 2027 e o recado do mercado pode acelerar o ajuste.",
+     "quem": "Alexandre Muller (Leto Capital), InfoMoney"
+    },
+    {
+     "texto": "Bancos estrangeiros reduzem exposição ao Brasil e buscam proteções na Bolsa.",
+     "quem": "InfoMoney"
+    },
+    {
+     "texto": "A reação do mercado foi a pior em seis eleições.",
+     "quem": "Terra Brasil Notícias"
+    },
+    {
+     "texto": "Lula não prometeu ajuste fiscal nem 'pacificação'; não faz sentido cobrá-lo por isso.",
+     "quem": "Fernando Schüler, colunista do Estadão"
+    },
+    {
+     "texto": "O Brasil não precisa de um novo ajuste fiscal; a queda da Bolsa reflete especulação e a perda de lucros 'privatistas'; ceder seria repetir 2015.",
+     "quem": "Brasil de Fato e Outras Palavras"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo não está discutindo ajuste fiscal (ministro José Guimarães).",
+     "rotulo": "Contraditório",
+     "explicacao": "No mesmo dia, o ministro da Fazenda anunciou projeto de lei para mirar o centro da meta e nova recompra de títulos, e o Valor relata que o governo vai encaminhar medidas fiscais ao Congresso.",
+     "onde_circula": "declarações de ministros do governo Lula",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A Fazenda fala em 'racionalidade' do mercado, atribui o estresse a apostas erradas e sinaliza compromisso com a meta; a ala política diz que ajuste não é prioridade.",
+    "oposicao": "A direita diz que a reeleição 'reverteu o otimismo' e gerou instabilidade; parte da esquerda vê 'terceiro turno' do mercado contra o programa eleito."
+   },
+   "visao_de_fora": "O FT acompanha a volatilidade; a Moody's manteve a avaliação.",
+   "ponto_cego": "A esquerda (247, Fórum) destaca a correção e omite a queda acumulada de 14,3%; a direita (Oeste, Gazeta, Terra Brasil) registra o 'tombo histórico' sem o recuo do dólar e dos juros nem o papel do Tesouro.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "ibovespa-cai-13-9-circuit-breaker-dolar-5-40-ajuste-fiscal",
+    "titulo": "Ibovespa cai 13,9% com circuit breaker e dólar sobe 8,2% a R$ 5,40 após reeleição de Lula; governo promete buscar centro da meta"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Ibovespa fecha em queda após eleições e à espera do Fed; dólar recua a R$ 5,35",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml",
+     "angulo": "g1: fechamento, mínima do dólar e Fed no radar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Tesouro recompra R$ 31,6 bi em títulos em dois dias para conter disparada dos juros",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/tesouro-cancela-leilao-de-titulo-prefixado-e-recompra-papeis-de-longo-prazo.shtml",
+     "angulo": "Folha: R$ 31,6 bi em recompras, maior intervenção desde março.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Durigan anuncia projeto para cumprir centro da meta fiscal e pede 'racionalidade' do mercado",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
+     "angulo": "g1: Durigan anuncia projeto e pede 'racionalidade'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/ministro-da-articulacao-politica-diz-que-ajuste-fiscal-nao-esta-em-discussao-e-nao-e-prioridade-de-lula.shtml",
+     "angulo": "Folha: Guimarães, ajuste não é prioridade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Dólar recua 0,97%, e Ibovespa cai 0,51% depois de tombo histórico",
+     "url": "https://revistaoeste.com/economia/dolar-recua-097-e-ibovespa-cai-051-depois-de-tombo-historico/",
+     "angulo": "Oeste: 'depois de tombo histórico'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Reeleição de Lula reverte otimismo do mercado e gera instabilidade econômica",
+     "url": "https://www.gazetadopovo.com.br/economia/reeleicao-de-lula-reverte-otimismo-do-mercado-e-gera-instabilidade-economica/",
+     "angulo": "Gazeta: reeleição 'reverte otimismo' e gera instabilidade.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Moody’s vê continuidade da política fiscal em Lula 4 e juro alto por mais tempo",
+     "url": "https://www.jota.info/tributos-e-empresas/mercado/moodys-ve-continuidade-da-politica-fiscal-em-lula-4-e-juro-alto-por-mais-tempo",
+     "angulo": "JOTA: Moody's mantém visão, juro alto por mais tempo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Temor de estelionato eleitoral limita espaço de Lula para um ajuste fiscal mais duro",
+     "url": "https://oglobo.globo.com/economia/fabio-graner/post/2026/10/temor-de-estelionato-eleitoral-limita-espaco-de-lula-para-um-ajuste-fiscal-mais-duro.ghtml",
+     "angulo": "O Globo (Graner): o dilema do ajuste.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "O Brasil não precisa de um novo ajuste fiscal",
+     "url": "https://www.brasildefato.com.br/2026/10/27/o-brasil-nao-precisa-de-um-novo-ajuste-fiscal/",
+     "angulo": "Brasil de Fato: contra o ajuste.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "outraspalavras",
+     "titulo": "Terceiro turno, a revanche do mercado",
+     "url": "https://outraspalavras.net/mercadovsdemocracia/terceiro-turno-a-revanche-do-mercado/",
+     "angulo": "Outras Palavras: 'terceiro turno' do mercado.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula não prometeu ajuste fiscal e ‘pacificação’ do País. Não faz sentido cobrá-lo por isso",
+     "url": "https://www.estadao.com.br/politica/fernando-schuler/lula-nao-prometeu-ajuste-fiscal-e-pacificacao-do-pais-nao-faz-sentido-cobra-lo-por-isso/",
+     "angulo": "Estadão (Schüler): não faz sentido cobrar ajuste.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Reação do mercado à reeleição de Lula é a pior em 6 eleições",
+     "url": "https://terrabrasilnoticias.com/2026/10/reacao-do-mercado-a-reeleicao-de-lula-e-a-pior-em-6-eleicoes/",
+     "angulo": "Terra Brasil: pior reação em seis eleições.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "fake-news-pos-eleicao-6x1-bolsa-familia-gas-do-povo-governo-desmente-checagens",
+   "editoria": "Checagem",
+   "escopo": "brasil",
+   "titulo": "Onda de desinformação pós-eleição: é falso que Lula recuou do fim da escala 6x1 ou que cortará Bolsa Família e Gás do Povo; governo desmente e agências checam vídeos e boatos",
+   "lide": "Após a reeleição, posts nas redes afirmam que o governo recuou do fim da escala 6x1, vai cortar o Bolsa Família e encerrar o Gás do Povo; a Secom e o Ministério do Trabalho classificaram as mensagens como falsas, e o Aos Fatos mostrou que as exceções à nova jornada já estavam na emenda aprovada em 14 de outubro. A CNN Brasil teve um vídeo adulterado, e Lupa e Estadão Verifica desmontaram boatos sobre barcos no Pará, votos em SC e ônibus em SP.",
+   "contexto": "O fim da escala 6x1 (Emenda Constitucional 141) passa a valer em 16 de dezembro, 60 dias após a promulgação, com jornada 5x2 sem redução de salário.",
+   "fatos": [
+    {
+     "texto": "A Secom e o Ministério do Trabalho negaram, em publicação conjunta na terça (27), recuo no fim da escala 6x1, cortes no Bolsa Família ou no Gás do Povo, e reafirmaram o Bolsa Família a partir de R$ 691.",
+     "base": "nota oficial do governo, reproduzida por DCM, Brasil 247, ICL Notícias e Revista Fórum"
+    },
+    {
+     "texto": "O fim da escala 6x1 começa a valer em 16 de dezembro de 2026, com a escala 5x2 e dois dias de descanso semanal remunerado, sem redução de salário.",
+     "base": "texto da Emenda Constitucional 141 (Folha, SBT News, ICL Notícias)"
+    },
+    {
+     "texto": "Regras diferenciadas para algumas categorias já estavam previstas na proposta aprovada pelo Congresso em 14 de outubro; o governo prepara decreto ou lei complementar com as exceções, segundo a líder do PT no Senado, Teresa Leitão.",
+     "base": "Aos Fatos e SBT News"
+    },
+    {
+     "texto": "Um vídeo da CNN Brasil sobre a regra de transição do Bolsa Família para famílias que aumentaram a renda foi adulterado para sugerir o fim do programa.",
+     "base": "CNN Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A onda de posts busca pôr em dúvida conquistas trabalhistas e programas de renda logo após a vitória de Lula.",
+     "quem": "Revista Fórum"
+    },
+    {
+     "texto": "O fim da 6x1 e a reforma tributária reabrem o debate sobre o equilíbrio de contratos de concessão de infraestrutura, com reflexo em tarifas.",
+     "quem": "NeoFeed"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Lula recuou do fim da escala 6x1 e prepara novas exceções após a eleição.",
+     "rotulo": "Falso",
+     "explicacao": "Não houve recuo; as regras diferenciadas para algumas categorias já constavam da proposta aprovada em 14 de outubro, e a emenda entra em vigor em 16 de dezembro.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/Lula-fim-escala-6x1/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O governo vai cortar o Bolsa Família e acabar com o Gás do Povo.",
+     "rotulo": "Falso",
+     "explicacao": "O governo negou oficialmente; o vídeo da CNN usado como 'prova' foi adulterado e tratava da regra de transição para quem aumentou a renda.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "CNN Brasil",
+       "url": "https://www.cnnbrasil.com.br/eleicoes/video-da-cnn-e-adulterado-com-fake-news-sobre-fim-do-bolsa-familia/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O PT pagou barcos para levar eleitores às urnas no Pará.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Decreto do governo estadual instituiu transporte gratuito para eleitores; o vídeo mostra passageiros desembarcando de embarcação de empresa participante do programa.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/10/27/nao-ha-provas-de-que-pt-pagou-barcos-para-levar-eleitores-no-para-as-urnas/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Flávio Bolsonaro perdeu votos em Santa Catarina no segundo turno enquanto Lula ganhou.",
+     "rotulo": "Falso",
+     "explicacao": "Dados oficiais mostram aumento no percentual de ambos os candidatos no estado.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/noticias/2026/10/27/e-falso-que-flavio-bolsonaro-perdeu-votos-em-sc-no-segundo-turno/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Vídeo mostra jovens carregando um carro para liberar a passagem de ônibus em SP no dia do segundo turno.",
+     "rotulo": "Falta contexto",
+     "explicacao": "O vídeo é de agosto de 2026, antes da eleição.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/video-de-jovens-carregando-carro-para-liberar-passagem-de-onibus-foi-gravado-antes-do-segundo-turno/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo trata os boatos como campanha para desestabilizar o resultado e reafirma os programas.",
+    "oposicao": "Não houve manifestação organizada da oposição sobre os boatos; parte das redes bolsonaristas os replica."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Nenhum veículo de direita (Gazeta, Oeste, Jovem Pan, Terra Brasil) noticiou o desmentido do governo nem as checagens; a cobertura ficou com agências de checagem, CNN e veículos de esquerda.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "aosfatos",
+     "titulo": "É falso que Lula recuou sobre fim da escala 6x1",
+     "url": "https://www.aosfatos.org/noticias/Lula-fim-escala-6x1/",
+     "angulo": "Aos Fatos: a checagem sobre o recuo na 6x1.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Vídeo da CNN é adulterado com fake news sobre fim do Bolsa Família",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/video-da-cnn-e-adulterado-com-fake-news-sobre-fim-do-bolsa-familia/",
+     "angulo": "CNN Brasil: o vídeo adulterado.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "Não há provas de que PT pagou barcos para levar eleitores no Pará às urnas",
+     "url": "https://www.agencialupa.org/verificacao/2026/10/27/nao-ha-provas-de-que-pt-pagou-barcos-para-levar-eleitores-no-para-as-urnas/",
+     "angulo": "Lupa: barcos no Pará.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "É falso que Flávio Bolsonaro perdeu votos em SC no segundo turno",
+     "url": "https://www.agencialupa.org/noticias/2026/10/27/e-falso-que-flavio-bolsonaro-perdeu-votos-em-sc-no-segundo-turno/",
+     "angulo": "Lupa: votos em SC.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Vídeo de jovens carregando carro para liberar passagem de ônibus foi gravado antes do segundo turno",
+     "url": "https://www.estadao.com.br/estadao-verifica/video-de-jovens-carregando-carro-para-liberar-passagem-de-onibus-foi-gravado-antes-do-segundo-turno/",
+     "angulo": "Estadão Verifica: vídeo do carro é de agosto.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Governo desmente fake news sobre fim da escala 6×1, Bolsa Família e Gás do Povo",
+     "url": "https://www.diariodocentrodomundo.com.br/governo-desmente-fake-news-sobre-fim-da-escala-6x1-bolsa-familia-e-gas-do-povo/",
+     "angulo": "DCM: o desmentido conjunto da Secom e do MTE.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Governo desmente cortes no Bolsa Família e recuo no fim da escala 6×1",
+     "url": "https://www.brasil247.com/brasilia/governo-desmente-cortes-no-bolsa-familia-e-recuo-no-fim-da-escala-6x1/",
+     "angulo": "Brasil 247: Bolsa Família a partir de R$ 691.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Após vitória de Lula, fake news sobre Bolsa Família e fim da escala 6×1 se espalham nas redes",
+     "url": "https://revistaforum.com.br/politica/vitoria-de-lula-fake-news-sobre-bolsa-familia/",
+     "angulo": "Fórum: a onda de posts após a vitória.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Governo desmente fake news sobre fim da escala 6×1 e cortes no Bolsa Família",
+     "url": "https://iclnoticias.com.br/economia/governo-desmente-fake-news-6x1-cortes/",
+     "angulo": "ICL: a nota da Secom.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Quais são os próximos passos da escala 6x1? Lula vai mudar regras?",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/quais-sao-os-proximos-passos-da-escala-6x1-lula-vai-mudar-regras.shtml",
+     "angulo": "Folha: o que muda e quando.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Governo deve editar decreto com exceções para fim da 6x1",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/governo-prepara-lei-complementar-para-excecoes-da-escala-6x1",
+     "angulo": "SBT: decreto com exceções, diz Teresa Leitão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "A próxima conta da infraestrutura: fim da escala 6×1 e reforma tributária reabrem debate sobre contratos",
+     "url": "https://neofeed.com.br/economia/a-proxima-conta-da-infraestrutura-fim-da-escala-6x1-e-reforma-tributaria-reabrem-debate-sobre-contratos/",
+     "angulo": "NeoFeed: o custo para concessões.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "fachin-arquiva-inquerito-fake-news-eduardo-malafaia-fiuza-passaporte",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin arquiva três investigações do inquérito das fake news, contra Eduardo Bolsonaro, Silas Malafaia e Guilherme Fiuza, e devolve passaporte ao pastor",
+   "lide": "O presidente do STF, Edson Fachin, que avocou em setembro a relatoria do inquérito das fake news, acolheu pedido da PGR e arquivou as apurações contra Eduardo Bolsonaro (coação de ministros via autoridades americanas, pela qual já foi condenado), o pastor Silas Malafaia e o escritor Guilherme Fiuza. Malafaia recuperou o passaporte e voltou a atacar Moraes; Fachin também pediu informações à PF sobre a apuração envolvendo Jair Bolsonaro.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "Fachin determinou o arquivamento de três investigações derivadas do inquérito das fake news, contra Eduardo Bolsonaro, Silas Malafaia e Guilherme Fiuza, acolhendo pedido da PGR.",
+     "base": "8 fontes independentes (Agência Brasil, Poder360, JOTA, Veja, Gazeta do Povo, Estadão, CartaCapital, Jovem Pan)"
+    },
+    {
+     "texto": "No caso de Eduardo, Fachin destacou que a investigação cumpriu sua finalidade ao resultar em denúncia e condenação por coação; o ex-deputado vive nos EUA desde fevereiro de 2025 e recebeu green card em julho de 2026.",
+     "base": "3 fontes independentes (Estadão, Terra Brasil Notícias, SBT News)"
+    },
+    {
+     "texto": "A decisão sobre Malafaia, assinada na segunda (26) em processo sigiloso, devolveu o passaporte do pastor, que agradeceu a Fachin e voltou a atacar Moraes.",
+     "base": "2 fontes independentes (CNN Brasil, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Fachin pediu informações à PF sobre a apuração envolvendo Jair Bolsonaro no mesmo inquérito.",
+     "base": "O Globo"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As decisões marcam o início do desmonte, por Fachin, do inquérito que Moraes relatou por anos.",
+     "quem": "Veja e CartaCapital"
+    },
+    {
+     "texto": "O arquivamento ocorre no mesmo dia em que Moraes é acusado de perseguição por aliados de Flávio, o que a direita lê como contraste entre os dois ministros.",
+     "quem": "Gazeta do Povo (editorial 'Bom dia')"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governistas não comentaram; a esquerda registra o arquivamento sem contestar.",
+    "oposicao": "A direita celebra como correção de 'perseguição' e contrasta a postura de Fachin com a de Moraes."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A esquerda (Fórum, 247, DCM) praticamente não cobriu os arquivamentos; a direita não lembra que Eduardo já foi condenado pela coação investigada.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Fachin arquiva três investigações do inquérito das Fake News",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-arquiva-tres-investigacoes-do-inquerito-das-fake-news",
+     "angulo": "Agência Brasil: os três arquivamentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Fachin arquiva investigações contra Eduardo, Malafaia e Fiuza",
+     "url": "https://www.poder360.com.br/poder-justica/fachin-arquiva-investigacoes-contra-eduardo-malafaia-e-fiuza/",
+     "angulo": "Poder360: PGR pediu, Fachin acolheu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Fachin arquiva primeiras investigações relacionadas ao inquérito das fake news",
+     "url": "https://www.jota.info/stf/do-supremo/fachin-arquiva-primeiras-investigacoes-relacionadas-ao-inquerito-das-fake-news",
+     "angulo": "JOTA: as primeiras decisões como relator.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Fachin começa a arquivar investigações relacionadas ao inquérito das fake news",
+     "url": "https://veja.abril.com.br/brasil/fachin-comeca-a-arquivar-investigacoes-relacionadas-ao-inquerito-das-fake-news/",
+     "angulo": "Veja: 'começa a arquivar'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin arquiva investigações sobre Eduardo e Malafaia ligadas ao inquérito das fake news",
+     "url": "https://www.gazetadopovo.com.br/republica/fachin-arquiva-investigacoes-sobre-eduardo-e-malafaia-ligadas-ao-inquerito-das-fake-news/",
+     "angulo": "Gazeta: o arquivamento visto pela direita.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fachin arquiva inquérito de Moraes contra Eduardo Bolsonaro já condenado por coação",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-arquiva-inquerito-de-moraes-contra-eduardo-bolsonaro-ja-condenado-por-coacao/",
+     "angulo": "Estadão (Fausto Macedo): Eduardo já condenado por coação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Fachin arquiva investigações relacionadas ao Inquérito das Fake News",
+     "url": "https://www.cartacapital.com.br/justica/fachin-arquiva-investigacoes-relacionadas-ao-inquerito-das-fake-news/",
+     "angulo": "CartaCapital: Fachin avocou o processo em setembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Fachin arquiva três ações ligadas ao inquérito das fake news",
+     "url": "https://jovempan.com.br/politica/fachin-arquiva-tres-acoes-ligadas-ao-inquerito-das-fake-news/",
+     "angulo": "Jovem Pan: os três casos.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Breaking News: Fachin manda devolver passaporte do pastor Malafaia",
+     "url": "https://terrabrasilnoticias.com/2026/10/breaking-news-fachin-manda-devolver-passaporte-do-pastor-malafaia/",
+     "angulo": "Terra Brasil: passaporte de Malafaia devolvido.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Perseguição leva Flávio a deixar o país. Fachin arquiva parte do inquérito das fake news",
+     "url": "https://www.gazetadopovo.com.br/opiniao/bom-dia/perseguicao-flavio-fachin-arquiva-investigacoes/",
+     "angulo": "Gazeta (Bom dia): perseguição a Flávio e arquivamento, lado a lado.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "congresso-pt-apoia-motta-15-partidos-uniao-pp-alcolumbre-tereza-cristina-impeachment-stf",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "PT e 14 partidos fecham com Motta para isolar o PL na Câmara; União e PP apoiam Alcolumbre, e Tereza Cristina mantém candidatura ao Senado com pauta de impeachment de ministros do STF",
+   "lide": "A federação PT-PCdoB-PV, com 88 deputados eleitos, declarou apoio à reeleição de Hugo Motta, que reúne 15 partidos para isolar o PL, maior bancada da próxima Câmara. No Senado, União Brasil e PP abandonaram a aliança com o PL e apoiaram Davi Alcolumbre, mas Tereza Cristina (PP) disse que a disputa só se decide em fevereiro e lançou campanha com a promessa de destravar o impeachment de ministros do STF.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "A federação PT-PCdoB-PV, com 88 deputados eleitos, anunciou apoio à reeleição de Hugo Motta (Republicanos-PB), que passa a reunir 15 partidos.",
+     "base": "8 fontes independentes (Agência Câmara, Folha, Valor, Gazeta do Povo, JOTA, CNN Brasil, Congresso em Foco, Brasil de Fato)"
+    },
+    {
+     "texto": "A Federação União Progressista (União Brasil e PP), em nota de Antonio Rueda e Ciro Nogueira, declarou apoio à reeleição de Alcolumbre, deixando de apoiar a candidatura de Rogério Marinho.",
+     "base": "5 fontes independentes (Estadão, Folha, Gazeta do Povo, CartaCapital, Valor)"
+    },
+    {
+     "texto": "Tereza Cristina (PP-MS) publicou nota dizendo que a eleição do Senado só se decide em fevereiro de 2027 e que manterá candidatura, com a pauta de dar andamento a pedidos de impeachment de ministros do STF.",
+     "base": "4 fontes independentes (Estadão, Veja, O Globo, O Antagonista)"
+    },
+    {
+     "texto": "O PL terá a maior bancada do Senado em 2027 (29 senadores) e da Câmara (121 deputados), além de seis governadores.",
+     "base": "Agência Senado"
+    },
+    {
+     "texto": "A PEC da Segurança Pública deve ser votada na semana que vem no Senado, segundo a líder do PT Teresa Leitão; Alcolumbre ainda não apresentou a agenda até o fim do ano.",
+     "base": "2 fontes independentes (SBT News, JOTA)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Alcolumbre vai propor indulto ou anistia a Jair Bolsonaro em troca do apoio da direita à sua reeleição, para estancar a pressão pelo impeachment de ministros do STF.",
+     "quem": "Dois aliados de Alcolumbre, segundo a Folha"
+    },
+    {
+     "texto": "A oposição discute chapa única (Marinho e Tereza Cristina) com prioridade de tirar Alcolumbre da presidência do Senado.",
+     "quem": "Terra Brasil Notícias"
+    },
+    {
+     "texto": "Presidentes de partidos do Centrão se reúnem com Motta nesta quarta para discutir mudança no sistema eleitoral ainda neste ano.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "O apoio a Motta amplia a governabilidade do novo mandato de Lula e forma frente de centro e esquerda contra a extrema direita.",
+     "quem": "Líder do PT na Câmara (Agência Câmara) e DCM"
+    },
+    {
+     "texto": "Lula deve encaminhar pacote fiscal ao Congresso e o nome de Rodrigo Pacheco ao STF.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo celebra a frente ampla em torno de Motta e Alcolumbre como garantia de governabilidade e isolamento do PL.",
+    "oposicao": "A direita vê o Centrão 'contrariando a aliança com Flávio' e aposta em Tereza Cristina e na pauta do impeachment de ministros do STF."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A esquerda (DCM, Brasil de Fato) trata o acordo como frente 'contra a extrema direita' e omite que a mesma federação União-PP elegeu Celina Leão e Tereza Cristina; a direita (Terra Brasil, Gazeta) destaca a 'traição' de União e PP e ignora que o PL sai com as maiores bancadas.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "lula-motta-alcolumbre-reconducao-pauta-pec-seguranca",
+    "titulo": "Lula recebe Motta e Alcolumbre, anuncia apoio do PT à recondução dos dois e acerta pauta com PEC da Segurança"
+   },
+   "materias": [
+    {
+     "fonte": "agenciacamara",
+     "titulo": "Federação PT-PCdoB-PV anuncia apoio à reeleição de Motta para presidente da Câmara",
+     "url": "https://www.camara.leg.br/noticias/1314337-federacao-pt-pcdob-pv-anuncia-apoio-a-reeleicao-de-motta-para-presidente-da-camara",
+     "angulo": "Agência Câmara: a nota da federação.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Áudio: PL terá mais governadores e maior bancada do Senado em 2027",
+     "url": "https://www12.senado.leg.br/noticias/audios/2026/10/pl-tera-mais-governadores-e-maior-bancada-do-senado-em-2027",
+     "angulo": "Agência Senado: PL terá maior bancada em 2027.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "PT vai apoiar reeleição de Hugo Motta à Presidência da Câmara",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/pt-vai-apoiar-reeleicao-de-hugo-motta-a-presidencia-da-camara.shtml",
+     "angulo": "Folha: PT fecha com Motta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "União-PP declara apoio à reeleição de Alcolumbre para presidente do Senado",
+     "url": "https://www.estadao.com.br/politica/uniao-pp-declara-apoio-a-reeleicao-de-alcolumbre-para-presidente-do-senado/",
+     "angulo": "Estadão: a nota de Rueda e Ciro Nogueira.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "União Brasil e PP contrariam aliança com Flávio e declaram apoio à reeleição de Alcolumbre",
+     "url": "https://www.gazetadopovo.com.br/republica/uniao-pp-contrariam-alianca-flavio-apoio-reeleicao-alcolumbre/",
+     "angulo": "Gazeta: União e PP 'contrariam aliança com Flávio'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Tereza Cristina inicia campanha para presidir Senado e avançar com impeachment de ministros do STF",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/tereza-cristina-inicia-campanha-para-presidir-senado-e-avancar-com-impeachment-de-ministros-do-stf/",
+     "angulo": "Estadão (Coluna): Tereza Cristina e o impeachment de ministros.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Tereza Cristina reage a apoio de caciques à reeleição de Alcolumbre no Senado",
+     "url": "https://veja.abril.com.br/politica/tereza-cristina-reage-a-apoio-de-caciques-a-reeleicao-de-alcolumbre-no-senado/",
+     "angulo": "Veja: 'só se decide em fevereiro'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alcolumbre planeja articular indulto ou anistia a Bolsonaro em busca de votos da direita para se reeleger",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-planeja-articular-indulto-ou-anistia-a-bolsonaro-em-busca-de-votos-da-direita-para-se-reeleger.shtml",
+     "angulo": "Folha: indulto ou anistia em troca de votos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "PT, PCdoB e PV declaram apoio a Motta e formam frente contra extrema-direita na Câmara",
+     "url": "https://www.diariodocentrodomundo.com.br/pt-pcdob-e-pv-declaram-apoio-a-motta-e-formam-frente-contra-extrema-direita-na-camara/",
+     "angulo": "DCM: frente contra a extrema direita.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Federação do PT formaliza apoio a Hugo Motta na Câmara e articula superbloco para isolar o PL",
+     "url": "https://www.brasildefato.com.br/2026/10/27/federacao-do-pt-formaliza-apoio-a-hugo-motta-na-camara-e-articula-superbloco-para-isolar-o-pl/",
+     "angulo": "Brasil de Fato: superbloco para isolar o PL.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Urgente: Oposição tem como prioridade retirar Alcolumbre da presidência do Senado e discute chapa única para a disputa",
+     "url": "https://terrabrasilnoticias.com/2026/10/urgente-oposicao-tem-como-prioridade-retirar-alcolumbre-da-presidencia-do-senado-e-discute-chapa-unica-para-a-disputa/",
+     "angulo": "Terra Brasil: oposição quer tirar Alcolumbre.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "PEC da Segurança Pública e indicação ao STF estão entre temas à espera do Senado",
+     "url": "https://www.jota.info/legislativo/pec-da-seguranca-publica-e-indicacao-ao-stf-estao-entre-temas-a-espera-do-senado",
+     "angulo": "JOTA: o que espera o Senado.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "tse-psol-rede-clausula-barreira-arredondamento-nunes-71-frota-salvador",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "TSE reconhece por arredondamento que PSOL-Rede superou a cláusula de barreira; Nunes diz que SP rodou com 71% da frota e vereadores pedem apuração sobre ônibus em Salvador",
+   "lide": "Por unanimidade, o TSE aceitou o arredondamento do percentual de votos da federação PSOL-Rede no Espírito Santo e reconheceu que ela cumpriu a cláusula de desempenho, preservando fundo partidário e propaganda gratuita por uma margem de menos de 200 votos. No rescaldo do segundo turno, Ricardo Nunes afirmou que São Paulo operou com 71% da frota de ônibus e que acionou as empresas 22 minutos após a notificação judicial, enquanto dados da SPTrans mostram distritos com metade da frota de dia útil.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "O TSE decidiu por unanimidade que a federação PSOL-Rede cumpriu a cláusula de barreira, ao uniformizar as regras de arredondamento do percentual de votos no Espírito Santo, mantendo acesso ao Fundo Partidário e à propaganda em rádio e TV.",
+     "base": "7 fontes independentes (Folha, Estadão, SBT News, DCM, Revista Fórum, CartaCapital, Brasil 247)"
+    },
+    {
+     "texto": "Ricardo Nunes afirmou que São Paulo operou com 71% da frota de ônibus no segundo turno, que recebeu a notificação judicial às 13h10 e que as empresas foram acionadas 22 minutos depois.",
+     "base": "2 fontes independentes (CNN Brasil, O Globo)"
+    },
+    {
+     "texto": "Dados da SPTrans levantados por pesquisador do Cebrap mostram distritos de São Paulo com apenas metade da frota de um dia útil no domingo da eleição.",
+     "base": "O Globo"
+    },
+    {
+     "texto": "Vereadores pediram investigação na Câmara de Salvador sobre a redução da frota de ônibus no segundo turno.",
+     "base": "g1"
+    },
+    {
+     "texto": "A AtlasIntel atribuiu a divergência de suas pesquisas à 'abstenção atípica' do eleitor de Lula no primeiro turno e à mobilização em massa no segundo.",
+     "base": "2 fontes independentes (Jovem Pan, A Tarde)"
+    },
+    {
+     "texto": "Flávio Bolsonaro teve zero voto em 106 urnas, que somaram 14.860 votos para Lula; Lula ficou sem voto em quatro urnas.",
+     "base": "Folha, com dados do TSE"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A 'excelência' do TSE reafirma a segurança das eleições; a abstenção caiu entre os turnos.",
+     "quem": "Kassio Nunes Marques, presidente do TSE"
+    },
+    {
+     "texto": "A decisão sobre o PSOL foi uma 'reviravolta' que salva a estrutura partidária da federação por quatro anos.",
+     "quem": "Revista Fórum e DCM"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados comemoram a sobrevivência da federação PSOL-Rede e cobram explicações de Nunes pela frota reduzida.",
+    "oposicao": "A direita critica o 'arredondamento' como favor ao PSOL e defende a prefeitura de SP, lembrando a notificação tardia."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A direita (Gazeta, Oeste, Jovem Pan) não noticiou a decisão do TSE sobre o PSOL nem os dados do Cebrap sobre a frota de SP; a esquerda não registra a versão de Nunes sobre o horário da notificação.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "onibus-salvador-pf-investiga-justica-alertou-sp-34-mil-votos-prorrogacao",
+    "titulo": "Só 34 mil votos foram registrados após as 17h; PF investiga ônibus parados em Salvador e Justiça já havia alertado prefeitura de SP"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "TSE arredonda votação de PSOL e Rede no ES, e federação cumpre cláusula de barreira",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/tse-arredonda-votacao-de-psol-e-rede-no-es-e-federacao-cumpre-clausula-de-barreira.shtml",
+     "angulo": "Folha: o arredondamento no ES.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "TSE decide que PSOL fez votos suficientes para superar a cláusula de barreira",
+     "url": "https://www.estadao.com.br/politica/eleicoes/tse-decide-que-psol-fez-votos-suficientes-para-superar-a-clausula-de-barreira-nprp/",
+     "angulo": "Estadão: a regra de 2017 e a decisão unânime.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "TSE garante recursos eleitorais ao PSol/Rede",
+     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/tse-garante-recursos-eleitorais-ao-p-sol-rede",
+     "angulo": "SBT: recursos garantidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Por 0,01%, TSE salva PSOL-Rede da cláusula de barreira",
+     "url": "https://www.diariodocentrodomundo.com.br/por-001-tse-salva-psol-rede-da-clausula-de-barreira/",
+     "angulo": "DCM: 'por 0,01%'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Reviravolta: TSE dá vitória ao PSOL após impasse por menos de 200 votos",
+     "url": "https://revistaforum.com.br/politica/tse-da-vitoria-ao-psol-apos-impasse/",
+     "angulo": "Fórum: 'reviravolta' por menos de 200 votos.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "TSE unifica regras de arredondamento e federação PSOL/Rede supera cláusula de barreira",
+     "url": "https://www.cartacapital.com.br/cartaexpressa/tse-unifica-regras-de-arredondamento-e-federacao-psol-rede-supera-clausula-de-barreira/",
+     "angulo": "CartaCapital: a uniformização das regras.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Nunes diz que São Paulo operou com 71% da frota de ônibus no 2º turno",
+     "url": "https://www.cnnbrasil.com.br/politica/nunes-diz-que-sao-paulo-operou-com-71-da-frota-de-onibus-no-2o-turno/",
+     "angulo": "CNN Brasil: a versão de Nunes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Domingo do segundo turno teve bairros de SP com apenas metade da frota de dias úteis",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/domingo-do-segundo-turno-teve-bairros-de-sp-com-apenas-metade-da-frota-de-dias-uteis.ghtml",
+     "angulo": "O Globo: dados da SPTrans por distrito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "AtlasIntel atribui divergência em pesquisas à ‘abstenção atípica’ de eleitor de Lula no 1º turno",
+     "url": "https://jovempan.com.br/politica/atlasintel-atribui-divergencia-em-pesquisas-a-abstencao-atipica-de-eleitor-de-lula-no-1o-turno/",
+     "angulo": "Jovem Pan: AtlasIntel explica o erro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Eleitor de Lula se mobilizou em massa no 2º turno, aponta CEO da AtlasIntel",
+     "url": "https://atarde.com.br/atlasatarde/eleitor-de-lula-se-mobilizou-em-massa-no-2-turno-aponta-ceo-da-atlasintel-1407376",
+     "angulo": "A Tarde: mobilização do eleitor de Lula, diz AtlasIntel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Kassio: 'excelência’ no TSE reafirma segurança das eleições",
+     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/kassio-excelencia-no-tse-reafirma-seguranca-das-eleicoes",
+     "angulo": "SBT: Kassio defende a segurança do pleito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio teve zero voto em 106 urnas no segundo turno e Lula, em 4",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-teve-zero-voto-em-106-urnas-nas-quais-somou-quase-15-mil.shtml",
+     "angulo": "Folha (Painel): urnas sem voto para Flávio e para Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "retaliacao-pos-eleicao-boicote-demissao-eleitores-lula-mpt-indigenas-ameacas-ms",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "Políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações, juiz manda deputada apagar post e indígenas do MS denunciam ameaças",
+   "lide": "Mensagens de eleitores de Flávio Bolsonaro e de políticos passaram a defender a demissão de trabalhadores que votaram em Lula e o boicote a empresas; o Ministério Público do Trabalho aponta violações, processou a deputada Índia Armelau (PL) e um juiz mandou apagar seu post. A Apib denunciou ameaças a indígenas em Mato Grosso do Sul, e a deputada Célia Xakriabá pediu investigação de suposto envenenamento de água no território Guarani Kaiowá.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "Publicações de políticos e influenciadores após a eleição defendem demissão de trabalhadores, recusa de contratação e boicote a estabelecimentos ligados a eleitores de Lula; o MPT aponta violações à legislação trabalhista.",
+     "base": "3 fontes independentes (g1, Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "Um juiz determinou que a deputada Índia Armelau (PL) exclua post sugerindo demissão de eleitores de Lula, por fortalecer 'sentimentos de ódio, perseguição ou discriminação'; o MPT a processou.",
+     "base": "2 fontes independentes (Gazeta do Povo, DCM)"
+    },
+    {
+     "texto": "A Apib denunciou ameaças e tentativas de impedir votação de indígenas em Mato Grosso do Sul; Célia Xakriabá (PSOL) pediu apuração de suposto envenenamento de água no território Guarani Kaiowá, e o Ministério dos Povos Indígenas pediu investigação à PF.",
+     "base": "3 fontes independentes (CNN Brasil, Agência Brasil, Brasil de Fato)"
+    },
+    {
+     "texto": "Entidades e autoridades da região de Ribeirão Preto repudiaram listas de boicote a empresários por apoio a Lula.",
+     "base": "g1"
+    },
+    {
+     "texto": "O ministro do Trabalho, Luiz Marinho, gravou vídeo repudiando a campanha de empresários por demissões.",
+     "base": "Folha"
+    },
+    {
+     "texto": "Uma mulher de 30 anos foi atingida por rojão ao comemorar a vitória de Lula em praça no interior de SP, com perda de audição e queimaduras.",
+     "base": "CNN Brasil"
+    },
+    {
+     "texto": "O Conselho Nacional de Direitos Humanos cobrou uma política nacional contra o extremismo após a saudação nazista em local de votação no Rio, cuja autora foi identificada pela Polícia Civil.",
+     "base": "3 fontes independentes (Brasil de Fato, ICL Notícias, Diário do Poder)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A proposta de um advogado bolsonarista de marcar lojas de petistas em Teresópolis com estrela vermelha replica tática nazista.",
+     "quem": "DCM, a partir de relato da coluna de Ancelmo Gois"
+    },
+    {
+     "texto": "A deputada afirma integrar movimento para que empresários conservadores contratem 'de acordo com seus ideais'.",
+     "quem": "Índia Armelau, à Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo e aliados tratam como perseguição política no trabalho e extremismo, acionando MPT e PF.",
+    "oposicao": "A direita noticia a decisão judicial e o processo do MPT dando voz à deputada, que fala em liberdade de contratação."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Oeste, Jovem Pan e Terra Brasil não cobriram a campanha por demissões nem as denúncias indígenas; a esquerda não menciona casos de agressão a apoiadores de Flávio registrados em edições anteriores.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "violencia-politica-pos-eleicao-santos-goianesia-recife-corrente",
+    "titulo": "Mestrando espancado após ato pró-Lula morre em Santos; polícia investiga homem acorrentado em ato de Flávio e saudação nazista no Rio"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações",
+     "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/politicos-e-influenciadores-incentivam-demissao-e-boicote-a-quem-votou-em-lula-mpt-aponta-violacoes.ghtml",
+     "angulo": "g1: MPT aponta violações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Bolsonaristas divulgam listas de boicote a empresas e falam em demitir petistas após reeleição de Lula",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/bolsonaristas-divulgam-listas-de-boicote-a-empresas-e-falam-em-demitir-petistas-apos-reeleicao-de-lula.shtml",
+     "angulo": "Folha: as listas de boicote.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Juiz manda deputada excluir post sobre demissão de eleitores de Lula",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/juiz-manda-remover-postagem-de-deputada-que-sugere-demissao-de-eleitores/",
+     "angulo": "Gazeta: juiz manda deputada apagar post.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "MP do Trabalho processa deputada que sugeriu demissão de eleitores de Lula",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/mp-do-trabalho-processa-deputada-que-sugeriu-demissao-de-eleitores-de-lula/",
+     "angulo": "Gazeta: MPT processa; a defesa da deputada.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Tática nazista: bolsonarista propõe marcar lojas de petistas com estrela vermelha",
+     "url": "https://www.diariodocentrodomundo.com.br/tatica-nazista-bolsonarista-propoe-marcar-lojas-de-petistas-com-estrela-vermelha/",
+     "angulo": "DCM: a 'estrela vermelha' em Teresópolis.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Indígenas denunciam ameaças após eleições no MS",
+     "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/indigenas-denunciam-ameacas-apos-eleicoes-no-ms/",
+     "angulo": "CNN Brasil: Apib denuncia ameaças no MS.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Indígenas relatam violência após resultado das eleições",
+     "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/indigenas-relatam-violencia-apos-resultado-das-eleicoes",
+     "angulo": "Agência Brasil: Xakriabá pede investigação de envenenamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "CNDH cobra política nacional contra extremismo após saudação nazista em local de votação no Rio",
+     "url": "https://www.brasildefato.com.br/2026/10/27/cndh-cobra-politica-nacional-contra-extremismo-apos-saudacao-nazista-em-local-de-votacao-no-rio/",
+     "angulo": "Brasil de Fato: CNDH cobra política contra extremismo.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Mulher é atingida por rojão ao comemorar vitória de Lula no interior de SP",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mulher-e-atingida-por-rojao-ao-comemorar-vitoria-de-lula-no-interior-de-sp/",
+     "angulo": "CNN Brasil: rojão em comemoração no interior de SP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ministro do Trabalho rebate campanha por demissão de eleitores de Lula",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/ministro-do-trabalho-rebate-campanha-por-demissao-de-eleitores-de-lula.shtml",
+     "angulo": "Folha (Painel): Marinho rebate empresários.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Polícia Civil investiga mulher que fez saudação nazista em local de votação no Rio",
+     "url": "https://diariodopoder.com.br/uncategorized/policia-civil-investiga-mulher-que-fez-saudacao-nazista-em-local-de-votacao-no-rio",
+     "angulo": "Diário do Poder: a investigação da saudação nazista.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "israel-eleicao-sem-maioria-netanyahu-56-eisenkot-49-partidos-arabes-recorde",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Israel vota em massa e termina sem maioria: bloco de Netanyahu lidera com 56 cadeiras na apuração parcial, oposição de Eisenkot tem 49 e partidos árabes batem recorde e viram fiéis da balança",
+   "lide": "Com metade dos votos apurados, a Comissão Eleitoral de Israel dá 56 das 120 cadeiras ao bloco de Benjamin Netanyahu, 49 à oposição de Gadi Eisenkot e 15 aos partidos árabes, nenhum dos blocos perto dos 61 necessários; a contagem pode levar dias e a formação de governo, semanas. O comparecimento foi o maior desde 1999, os partidos árabes tiveram votação recorde, e Netanyahu, que acusou sem provas uma tentativa de 'roubar a eleição' e chamou de 'vergonha' uma coalizão com árabes, reivindica 'maioria decisiva'.",
+   "contexto": "Primeira eleição geral desde o ataque do Hamas em 7 de outubro de 2023; na véspera, o NYT revelou que Netanyahu pressionou por um novo ataque ao Irã antes do pleito.",
+   "fatos": [
+    {
+     "texto": "Com cerca de 50% dos votos apurados pela Comissão Eleitoral, o bloco de Netanyahu somava 56 das 120 cadeiras, a oposição de Eisenkot 49 e os partidos árabes 15; nenhum bloco alcança os 61 assentos da maioria.",
+     "base": "dados parciais da Comissão Eleitoral de Israel (Estadão, Folha, El País, Clarín, Poder360)"
+    },
+    {
+     "texto": "As pesquisas de boca de urna dos canais 11, 12 e 13 haviam dado ligeira vantagem ao bloco de Eisenkot; as projeções foram revisadas durante a noite.",
+     "base": "5 fontes independentes (Brasil de Fato, Opera Mundi, The Guardian, Al Jazeera, Estadão)"
+    },
+    {
+     "texto": "O comparecimento superou três quartos do eleitorado, o maior desde 1999; a participação de cidadãos palestinos de Israel chegou a cerca de 80%, e os partidos árabes projetam 15 a 18 cadeiras, recorde.",
+     "base": "5 fontes independentes (Axios, Al Jazeera, CNN Brasil, Bloomberg, France 24/AFP)"
+    },
+    {
+     "texto": "Netanyahu acusou sem provas opositores e cidadãos árabes de tentar 'roubar a eleição', após prisões em investigação de compra de votos, e disse que uma coalizão com partidos árabes seria 'uma desgraça e uma vergonha'.",
+     "base": "5 fontes independentes (g1, The New York Times, Breitbart, Al Jazeera, Financial Times)"
+    },
+    {
+     "texto": "Netanyahu e Eisenkot discursaram após a meia-noite prometendo formar o próximo governo; cabe ao presidente Isaac Herzog indicar quem tentará.",
+     "base": "4 fontes independentes (France 24/AFP, The New York Times, CNN Brasil, Al Jazeera)"
+    },
+    {
+     "texto": "Um jovem de 16 anos foi morto a tiros após atacar um policial diante da embaixada de Israel em Belgrado; o ministro do Interior sérvio falou em ataque terrorista.",
+     "base": "Bloomberg"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O impasse é o resultado mais provável e pode prolongar a permanência de Netanyahu no poder como premiê interino, inclusive via nova eleição.",
+     "quem": "Axios, Brasil 247, Metrópoles e Michael Oren (Bloomberg)"
+    },
+    {
+     "texto": "Eisenkot terá de trabalhar com líderes árabe-israelenses para ter chance de governar, o que redesenha o mapa político.",
+     "quem": "The Guardian e BBC"
+    },
+    {
+     "texto": "A alta participação é mau sinal para Netanyahu, por empurrar partidos de seu bloco abaixo da cláusula de barreira.",
+     "quem": "Axios"
+    },
+    {
+     "texto": "A eleição pode trocar o líder, mas não a estratégia: o Irã seguirá como principal adversário e um Estado palestino, distante; o genocídio não está na pauta, e sim a rejeição a Netanyahu.",
+     "quem": "Analistas ouvidos pela Folha, DW e Brasil de Fato"
+    },
+    {
+     "texto": "Netanyahu tem 'oportunidade histórica', com Trump, de eliminar a ameaça iraniana com um governo de direita.",
+     "quem": "Netanyahu, via Breitbart"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Opositores e eleitores árabes tentaram 'roubar a eleição' (Netanyahu).",
+     "rotulo": "Sem evidência",
+     "explicacao": "A acusação foi feita nas últimas horas de votação, citando prisões por suspeita de compra de votos, sem apresentação de provas de fraude; a Comissão Eleitoral conduz a apuração normalmente.",
+     "onde_circula": "discursos de Netanyahu e redes de direita",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a cobertura é de agências e correspondentes; Folha e Valor destacam o impasse, Brasil de Fato enquadra como eleição entre dois opositores do Estado palestino, e Breitbart ecoa a 'maioria decisiva' reivindicada por Netanyahu.",
+   "ponto_cego": "A direita brasileira (Gazeta, Oeste, Jovem Pan) deu pouco espaço ao recorde dos partidos árabes e à acusação sem provas de Netanyahu; a esquerda (BdF, Opera Mundi) destacou a boca de urna favorável à oposição e tardou a registrar a virada parcial do Likud.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "israel-vota-netanyahu-eisenkot-ira-onu-exterminio",
+    "titulo": "Israel vota hoje em eleição mais disputada em décadas; Netanyahu pressionou por ataque ao Irã e comissão da ONU acusa Israel de 'extermínio' na Cisjordânia"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Bloco de Netanyahu lidera eleições legislativas em Israel após apuração de 50% dos votos",
+     "url": "https://www.estadao.com.br/internacional/bloco-de-netanyahu-lidera-eleicoes-legislativas-em-israel-apos-apuracao-de-50-dos-votos-npr/",
+     "angulo": "Estadão: 56 x 49 x 15 com metade apurada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Partido de Netanyahu lidera eleições legislativas em Israel após apuração de 51% dos votos",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/apuracao-em-andamento-em-israel-mostra-partido-de-netanyahu-a-frente-com-222-dos-votos.shtml",
+     "angulo": "Folha: coalizão de Netanyahu supera oposição na apuração.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Five key takeaways from Israel’s parliamentary elections",
+     "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+     "angulo": "Al Jazeera: cinco lições da eleição.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+     "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+     "angulo": "Guardian: a ascensão dos partidos palestinos.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory",
+     "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: partidos árabes podem ter a chave.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Netanyahu ahead but no clear winner in Israeli election",
+     "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+     "angulo": "FT: Netanyahu à frente, sem vencedor claro; pede coalizão 'judaica'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Israël : au lendemain de législatives cruciales pour l’avenir du pays, le vertige d’une Knesset sans majorité",
+     "url": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
+     "angulo": "Le Monde: 'a vertigem de um Knesset sem maioria'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Israel election: Netanyahu and Eisenkot battle to form government after deadlock",
+     "url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
+     "angulo": "France 24/AFP: impasse e comparecimento recorde.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Israeli Arab Parties Claim Kingmaker Status in Tight Vote",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-arab-parties-claim-kingmaker-status-in-extra-tight-vote",
+     "angulo": "Bloomberg: árabes reivindicam papel de fiel da balança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Netanyahu Claims ‘Decisive Majority,’ Vows ‘National Right-Wing Government’ — ‘Historic’ Chance to End Iran Threat",
+     "url": "https://www.breitbart.com/politics/2026/10/27/netanyahu-claims-decisive-majority-vows-national-right-wing-government/",
+     "angulo": "Breitbart: 'maioria decisiva' e chance de acabar com a ameaça iraniana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Genocídio não está na pauta das eleições de Israel, mas, sim, posição anti-Netanyahu, diz pesquisador",
+     "url": "https://www.brasildefato.com.br/2026/10/27/genocidio-nao-esta-na-pauta-das-eleicoes-de-israel-mas-sim-posicao-anti-netanyahu-diz-pesquisador/",
+     "angulo": "Brasil de Fato: genocídio fora da pauta, diz pesquisador.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Sem apresentar provas, Netanyahu alega tentativa de fraude nas eleições em Israel",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/27/netanyahu-denuncia-tentativa-de-fraude-nas-eleicoes-em-israel.ghtml",
+     "angulo": "g1: Netanyahu alega fraude sem provas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-tregua-estendida-kherson-nordicos-ligam-putin-kharkiv-trump-reuniao",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trégua de Oleshky é estendida a toda a região de Kherson; líderes da Finlândia e da Noruega fazem rara ligação a Putin e Trump promete reunião com Putin e Zelensky 'em breve'",
+   "lide": "O cessar-fogo local mediado por Melania Trump foi ampliado para toda a região de Kherson sem violações relatadas, enquanto drones russos feriram cinco pessoas em Kharkiv, incluindo uma criança de 4 anos. Alexander Stubb e Jonas Gahr Støre telefonaram a Putin, no primeiro contato de líderes europeus aliados de Kiev desde julho de 2025, com reações céticas em parte da Europa; Trump disse que uma reunião com Putin e Zelensky será marcada em breve e estuda aliviar sanções ao fundo soberano russo.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "A trégua iniciada em Oleshky foi estendida a toda a região de Kherson; Rússia e Ucrânia dizem não haver violações, e a evacuação de cerca de 2 mil civis está prevista.",
+     "base": "2 fontes independentes (BBC, The Guardian)"
+    },
+    {
+     "texto": "O presidente finlandês Alexander Stubb e o premiê norueguês Jonas Gahr Støre telefonaram a Putin na terça, em conversa combinada com a Ucrânia, o primeiro contato de líderes europeus aliados de Kiev desde julho de 2025; Putin disse que os interesses russos devem ser atendidos 'de forma plena e incondicional'.",
+     "base": "6 fontes independentes (BBC, The New York Times, El País, SBT News, Brasil de Fato, Euronews)"
+    },
+    {
+     "texto": "Um ataque de drones russos a Kharkiv na noite de terça feriu cinco pessoas, incluindo uma criança de 4 anos, e incendiou prédios.",
+     "base": "2 fontes independentes (Euronews, Al Jazeera)"
+    },
+    {
+     "texto": "Trump afirmou que uma reunião com Putin e Zelensky será marcada em breve.",
+     "base": "Bloomberg"
+    },
+    {
+     "texto": "Dois homens foram mortos e 13 feridos em ataques ucranianos a Belgorod e Voronezh no fim de semana, segundo autoridades russas.",
+     "base": "2 fontes independentes (Estadão, Euronews)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Trump estuda suspender sanções ao fundo soberano russo RDIF, e Washington discute o retorno de petroleiras americanas à Rússia, como concessões para encerrar a guerra.",
+     "quem": "The New York Times e Financial Times"
+    },
+    {
+     "texto": "Putin alterna conversas com americanos e europeus para fragilizar o apoio a Kiev; a ligação dos nórdicos divide a Europa.",
+     "quem": "Le Figaro e The New York Times"
+    },
+    {
+     "texto": "Kiev espera 'novo impulso' nas negociações após a ligação.",
+     "quem": "Governo ucraniano, via The Guardian"
+    },
+    {
+     "texto": "Zelensky pediu a Hegseth que autorize a transferência de mísseis Patriot de terceiros países antes do inverno e diz que mais de 100 mísseis balísticos atingiram Kiev e região desde 14 de outubro.",
+     "quem": "Zelensky, via Bloomberg e Le Monde"
+    },
+    {
+     "texto": "Putin instalou 16 novos sistemas antiaéreos em torno de uma residência privada por temer ataque pessoal.",
+     "quem": "Investigação da Radio Liberty, via Le Figaro"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Na imprensa brasileira, Gazeta do Povo noticia a trégua como feito de Melania Trump, SBT e Brasil de Fato registram a ligação dos nórdicos; o Brasil de Fato também publica texto defendendo o apoio dos russos a Putin.",
+   "ponto_cego": "A cobertura brasileira ignora a possível suspensão de sanções ao fundo russo e a discussão sobre petroleiras americanas; os veículos de esquerda não mencionam os ataques a Kharkiv.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "oleshky-tregua-comeca-ataque-kiev-onu-crime-contra-humanidade",
+    "titulo": "Trégua humanitária em Oleshky entra em vigor enquanto ataque russo mata uma pessoa em Kiev; painel da ONU vê crime contra a humanidade nos ataques à energia"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Ceasefire extended across Ukraine's Kherson region, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: trégua estendida a toda Kherson.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+     "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+     "angulo": "Guardian: trégua se mantém e ligação 'franca' a Putin.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "European Leaders Split Over Phone Call to Putin",
+     "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+     "angulo": "NYT: europeus divididos sobre a ligação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Los líderes de Finlandia y Noruega llaman a Putin para buscar una salida a la guerra en Ucrania",
+     "url": "https://elpais.com/internacional/2026-10-27/los-lideres-de-finlandia-y-noruega-llaman-a-putin-para-buscar-una-salida-a-la-guerra-en-ucrania.html",
+     "angulo": "El País: primeiro contato desde julho de 2025.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Says Meeting With Zelenskyy and Putin Will Be Set Up Soon",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-says-meeting-with-zelenskyy-and-putin-will-be-set-up-soon",
+     "angulo": "Bloomberg: Trump promete reunião em breve.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "What a local ceasefire means for the Russia-Ukraine war",
+     "url": "https://www.ft.com/content/77d0bba5-264d-4c2e-bdbc-d8493b1b4a25?syn-25a6b1a6=1",
+     "angulo": "FT: o que a trégua local significa; petroleiras americanas na mesa.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+     "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+     "angulo": "NYT: Trump estuda aliviar sanções ao RDIF.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Vladimir Poutine cherche la faille chez les Occidentaux pour faire plier l’Ukraine",
+     "url": "https://www.lefigaro.fr/international/vladimir-poutine-cherche-la-faille-chez-les-occidentaux-pour-faire-plier-l-ukraine-20261027",
+     "angulo": "Le Figaro: Putin busca a brecha entre ocidentais.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
+     "url": "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv",
+     "angulo": "Euronews: ataque a Kharkiv fere cinco.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Líderes de Finlândia e Noruega falam com Putin sobre guerra",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/lideres-de-finlandia-e-noruega-falam-com-putin-sobre-guerra",
+     "angulo": "SBT: a ligação combinada com a Ucrânia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Putin discute guerra da Ucrânia com líderes da Noruega e da Finlândia",
+     "url": "https://www.brasildefato.com.br/2026/10/27/putin-discute-guerra-da-ucrania-com-lideres-da-noruega-e-da-finlandia/",
+     "angulo": "Brasil de Fato: a versão do Kremlin sobre a ligação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Cessar-fogo negociado por esposa de Trump entra em vigor em cidade da Ucrânia",
+     "url": "https://www.gazetadopovo.com.br/mundo/cessar-fogo-negociado-por-esposa-de-trump-entra-em-vigor-em-cidade-da-ucrania/",
+     "angulo": "Gazeta: a trégua como feito de Melania Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "golfo-plano-paz-hormuz-egito-aprova-tropas-arabia-houthis-guerra-ira-europa",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Países do Golfo negociam acordo para reabrir Hormuz e evitar nova guerra EUA-Irã; Parlamento do Egito autoriza tropas na Arábia Saudita e houthis falam em 'declaração de guerra'",
+   "lide": "Estados do Golfo trabalham num acordo em várias partes para reabrir o Estreito de Hormuz em até quatro dias após o alívio de sanções ao Irã e retirar forças houthis no Iêmen, segundo o Guardian, enquanto o Wall Street Journal relata que Washington pediu a países do Golfo que se preparem para uma campanha militar 'curta e intensa' após as eleições de meio de mandato. O Parlamento egípcio autorizou o envio de tropas para defender a Arábia Saudita, que interceptou cinco mísseis houthis, e o Reino Unido acusou dois homens de agir para o Irã num ataque à base de RAF Fairford.",
+   "contexto": "Na segunda (26), delegações de Arábia Saudita, Turquia e Paquistão (Pacto de Meca) estiveram em Teerã para evitar a retomada da guerra entre EUA e Irã, que mantém o Estreito de Hormuz fechado.",
+   "fatos": [
+    {
+     "texto": "O Parlamento do Egito aprovou autorização para o presidente Sisi enviar tropas em apoio à Arábia Saudita contra ataques houthis, se solicitado.",
+     "base": "3 fontes independentes (Euronews, Breitbart, The New York Times)"
+    },
+    {
+     "texto": "Os houthis declararam que o apoio militar do Egito à Arábia Saudita equivale a uma declaração de guerra.",
+     "base": "2 fontes independentes (Folha, Le Monde)"
+    },
+    {
+     "texto": "A Arábia Saudita disse ter interceptado cinco mísseis balísticos houthis, dois contra Riad e três contra o leste do país.",
+     "base": "Estadão (com agências)"
+    },
+    {
+     "texto": "Promotores britânicos acusaram dois homens sob a Lei de Segurança Nacional por um incidente em setembro na base de RAF Fairford, usada por bombardeiros dos EUA, que teria sido coordenado por um agente a serviço do Irã.",
+     "base": "3 fontes independentes (The New York Times, Folha, Fox News)"
+    },
+    {
+     "texto": "O Catar pediu que o Irã mostre 'boa vontade' encerrando ameaças à região e reabrindo Hormuz; o emir do Catar e Putin pediram diplomacia, e o presidente iraniano Pezeshkian disse que o Oriente Médio pode resolver seus problemas sem os EUA.",
+     "base": "2 fontes independentes (Euronews, Al Jazeera)"
+    },
+    {
+     "texto": "Um tribunal do Cairo ordenou o fechamento do site independente Mada Masr e multou a editora Lina Attalah, libertada após pagar a multa.",
+     "base": "4 fontes independentes (Bloomberg, The New York Times, Le Monde, BBC)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O plano dos países do Golfo prevê reabrir Hormuz em quatro dias após o levantamento de sanções e a retirada substancial de forças houthis dentro do Iêmen.",
+     "quem": "The Guardian, citando fontes das negociações"
+    },
+    {
+     "texto": "Os EUA disseram a vários países do Golfo que se preparem para uma campanha militar curta e intensa após as eleições de meio de mandato; o petróleo subiu com a notícia.",
+     "quem": "The Wall Street Journal, via Bloomberg"
+    },
+    {
+     "texto": "Inspetores nucleares não veem evidência de que o Irã tenha reparado as instalações bombardeadas.",
+     "quem": "Bloomberg, citando a AIEA"
+    },
+    {
+     "texto": "Serviços de inteligência europeus veem ameaça iraniana duradoura e global na Europa (assassinatos, incêndios, sabotagem, ciberataques), com multiplicação de prisões.",
+     "quem": "Le Monde"
+    },
+    {
+     "texto": "Netanyahu vê 'oportunidade histórica', com Trump, de eliminar a ameaça iraniana; a troca de liderança em Israel não deve mudar o foco no Irã.",
+     "quem": "Netanyahu (Breitbart) e analistas (DW, Folha)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Folha e Estadão acompanham via agências; Opera Mundi cobre o Pacto de Meca a partir de Teerã; o Brasil, que depende do petróleo a US$ 115, quase não discute o risco de retomada da guerra após as midterms.",
+   "ponto_cego": "Nenhum veículo brasileiro repercutiu o plano do Golfo revelado pelo Guardian nem o alerta do WSJ sobre campanha pós-midterms; a direita brasileira ignora o fechamento do Mada Masr pelo aliado Sisi.",
+   "continua": {
+    "data": "2026-10-27",
+    "id": "ira-arabia-turquia-paquistao-teera-conversas-houthis",
+    "titulo": "Arábia Saudita, Turquia e Paquistão fazem visita conjunta a Teerã para evitar nova guerra; houthis atacam oleoduto e aeroporto de Riad"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+     "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+     "angulo": "Guardian: o acordo em várias partes dos países do Golfo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
+     "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
+     "angulo": "Euronews: Parlamento egípcio aprova apoio militar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Egyptian Parliament Authorizes Troops to Defend Saudi Arabia",
+     "url": "https://www.breitbart.com/middle-east/2026/10/27/egyptian-parliament-authorizes-troops-to-defend-saudi-arabia/",
+     "angulo": "Breitbart: tropas egípcias contra os houthis 'apoiados pelo Irã'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Apoio do Egito à Arábia Saudita é declaração de guerra, dizem houthis",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/apoio-do-egito-a-arabia-saudita-e-declaracao-de-guerra-dizem-houthis.shtml",
+     "angulo": "Folha: houthis, 'declaração de guerra'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Arábia Saudita intercepta cinco mísseis lançados por houthis do Iêmen",
+     "url": "https://www.estadao.com.br/internacional/arabia-saudita-intercepta-cinco-misseis-lancados-por-houthis-do-iemen-npr/",
+     "angulo": "Estadão: cinco mísseis interceptados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Roknifard: 47 Years of Hostility Means No US-Iran Trust",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-28/roknifard-47-years-of-hostility-means-no-us-iran-trust-video",
+     "angulo": "Bloomberg: WSJ, campanha 'curta e intensa' após as midterms; petróleo sobe.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say",
+     "url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
+     "angulo": "NYT: acusação por trama coordenada para o Irã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "UK charges 2 men in suspected Iran-linked incident at RAF Fairford after US bombers pulled",
+     "url": "https://www.foxnews.com/world/uk-charges-2-men-suspected-iran-linked-incident-raf-fairford-us-bombers-pulled",
+     "angulo": "Fox News: as acusações no Reino Unido.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
+     "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
+     "angulo": "Euronews: Catar cobra 'boa vontade' do Irã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Autoridades iranianas e do Pacto de Meca discutem cessar-fogo entre Irã e EUA",
+     "url": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/autoridades-iranianas-e-do-pacto-de-meca-discutem-cessar-fogo-entre-ira-e-eua/",
+     "angulo": "Opera Mundi: o Pacto de Meca em Teerã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-27"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Inquiétude des services de renseignement européens sur la persistance de la menace iranienne en Europe",
+     "url": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html",
+     "angulo": "Le Monde: a ameaça iraniana na Europa.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Egypt Court Orders Closure of Prominent Independent News Website",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/egypt-court-orders-closure-of-prominent-independent-news-website",
+     "angulo": "Bloomberg: fechamento do Mada Masr.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-28"
+    }
+   ]
+  }
+ ]
+}

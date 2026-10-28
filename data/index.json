@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-27T09:06:23+00:00",
+ "atualizado_em": "2026-10-28T09:09:56+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-28",
+   "arquivo": "data/edicoes/2026-10-28.json",
+   "historias": 12,
+   "gerado_em": "2026-10-28T06:09:55-03:00",
+   "manchete": "Flávio Bolsonaro deixa o Brasil pela Argentina rumo aos EUA após descumprir ordem de Moraes; PF avalia prisão preventiva e bloqueio de bens"
+  },
   {
    "data": "2026-10-27",
    "arquivo": "data/edicoes/2026-10-27.json",
