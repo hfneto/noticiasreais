@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-28T09:09:56+00:00",
+ "atualizado_em": "2026-10-29T09:08:19+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-29",
+   "arquivo": "data/edicoes/2026-10-29.json",
+   "historias": 12,
+   "gerado_em": "2026-10-29T06:08:19-03:00",
+   "manchete": "Em Miami, Flávio divulga carta em que se declara 'verdadeiro presidente eleito', recua para 'líder do Brasil' e usa brasão errado; TSE fala em 'absoluta normalidade' e aliados rejeitam o texto"
+  },
   {
    "data": "2026-10-28",
    "arquivo": "data/edicoes/2026-10-28.json",
