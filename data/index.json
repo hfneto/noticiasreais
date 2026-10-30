@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-29T09:08:19+00:00",
+ "atualizado_em": "2026-10-30T09:12:20+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-30",
+   "arquivo": "data/edicoes/2026-10-30.json",
+   "historias": 12,
+   "gerado_em": "2026-10-30T06:12:20-03:00",
+   "manchete": "Valdemar diz que 'ninguém aprovou' a carta de Flávio e que Bolsonaro não sabia da saída; aliados culpam o ChatGPT pelas versões do texto, o senador prepara pedido de asilo nos EUA e o PT pede sua inelegibilidade por oito anos"
+  },
   {
    "data": "2026-10-29",
    "arquivo": "data/edicoes/2026-10-29.json",

@@ -1,0 +1,2458 @@
+{
+ "tipo": "edicao",
+ "data": "2026-10-30",
+ "gerado_em": "2026-10-30T06:12:20-03:00",
+ "historias": [
+  {
+   "id": "valdemar-ninguem-aprovou-carta-flavio-aliados-culpam-ia-asilo-eua-pt-pede-inelegibilidade-tarcisio-2030",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Valdemar diz que 'ninguém aprovou' a carta de Flávio e que Bolsonaro não sabia da saída; aliados culpam o ChatGPT pelas versões do texto, o senador prepara pedido de asilo nos EUA e o PT pede sua inelegibilidade por oito anos",
+   "lide": "Um dia após a carta em que se declarou 'presidente eleito', Flávio Bolsonaro perdeu apoio público até no PL: Valdemar Costa Neto disse que 'não gostou' do texto e que Jair Bolsonaro não foi avisado da viagem, e só um dos 15 aliados do discurso de derrota reproduziu a carta nas redes. Enquanto o influenciador Paulo Figueiredo atribui ao ChatGPT a versão com 'presidente eleito', o senador reúne argumentos para pedir asilo político e o PT levou à Procuradoria-Geral Eleitoral um pedido de inelegibilidade; na direita, Tarcísio já é tratado como nome para 2030.",
+   "contexto": "Flávio saiu do Brasil pela Argentina na noite de 27/10, descumprindo ordem de Moraes de entregar os passaportes, e divulgou de Miami uma carta com ao menos quatro versões em que fala em 'fraude eleitoral' sem provas.",
+   "fatos": [
+    {
+     "texto": "Valdemar Costa Neto, presidente do PL, afirmou em 29/10 que não aprovou a carta ('não gostei'), que 'ninguém aprovou' e que Jair Bolsonaro não sabia que o filho deixaria o país.",
+     "base": "4 fontes independentes (g1, Folha, A Tarde, Congresso em Foco)"
+    },
+    {
+     "texto": "Paulo Figueiredo, aliado de Flávio e Eduardo Bolsonaro, afirmou no X que o ChatGPT incluiu uma versão anterior da carta e que o documento mantém a posição do senador sobre a suposta ilegitimidade da eleição.",
+     "base": "3 fontes independentes (Folha, SBT News, A Tarde)"
+    },
+    {
+     "texto": "Apenas um dos 15 aliados que estavam ao lado de Flávio no discurso após a derrota, em 25/10, reproduziu a carta nas redes sociais; a maioria se calou.",
+     "base": "g1 (levantamento próprio, fonte única)"
+    },
+    {
+     "texto": "O vice-líder do PT na Câmara, Alencar Santana, apresentou em 29/10 à Procuradoria-Geral Eleitoral uma representação pedindo investigação e inelegibilidade de Flávio por oito anos por causa da carta; parlamentares de PT e PSOL também pediram ao STF prisão, bloqueio de bens e apreensão de passaportes de aliados.",
+     "base": "IstoÉ (pedido na PGE, fonte única); Gazeta do Povo noticia os pedidos de PT e PSOL ao STF"
+    },
+    {
+     "texto": "Flávio não comunicou à presidência do Senado a saída do país, como exige o regimento da Casa, que também pede o prazo de ausência.",
+     "base": "Folha (Painel, fonte única)"
+    },
+    {
+     "texto": "A Executiva Nacional do PT aprovou em 29/10 resolução que classifica os atos de Flávio como 'reação autoritária' e pede atenção à postura de Trump; a cúpula do partido articulou com partidos de centro e direita uma reação pública à carta.",
+     "base": "3 fontes independentes (Folha, Valor, Diário do Centro do Mundo)"
+    },
+    {
+     "texto": "A bancada do PL no Congresso divulgou em 28/10 nota de 'total apoio' a Flávio e contestou a classificação de 'foragido'.",
+     "base": "Terra Brasil Notícias (fonte única)"
+    },
+    {
+     "texto": "A Agência Lupa classificou como falsas as alegações de fraude da carta: Lula venceu o segundo turno por mais de 4,4 milhões de votos e nenhuma prova foi apresentada.",
+     "base": "checagem da Agência Lupa (28/10)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Flávio 'perdeu as credenciais políticas' ao se alinhar ao radicalismo de direita e apresentou 'dupla personalidade': moderado na campanha, extremista na carta.",
+     "quem": "Aliados do núcleo próximo do senador, ouvidos por Gerson Camarotti (g1)"
+    },
+    {
+     "texto": "É provável que Flávio obtenha asilo político do governo Trump alegando perseguição do Judiciário.",
+     "quem": "Especialistas em imigração ouvidos pela Gazeta do Povo"
+    },
+    {
+     "texto": "A direita 'entra em parafuso' e Tarcísio desponta como novo líder, já falando para 2030; o PL ficou de 'ressaca' e foi escanteado das negociações na Câmara.",
+     "quem": "Painel da Folha, Clarín, Brasil de Fato e Valor"
+    },
+    {
+     "texto": "A fuga 'patética' uniu o mundo político num rechaço uníssono, deu à direita o pretexto para negociar com Lula e isolou o bolsonarismo mais danoso.",
+     "quem": "Eliane Cantanhêde, colunista do Estadão (opinião)"
+    },
+    {
+     "texto": "A carta 'joga uma pá de cal' nas pretensões da oposição de conquistar a presidência do Senado.",
+     "quem": "NeoFeed"
+    },
+    {
+     "texto": "Flávio está 'recebendo menos apoio do que deveria' da oposição.",
+     "quem": "Alexandre Garcia, colunista da Gazeta do Povo (opinião)"
+    },
+    {
+     "texto": "A maioria das postagens com posicionamento nas redes criticou a fuga e a carta; em grupos de mensagens a divisão foi mais equilibrada, com leve vantagem do apoio.",
+     "quem": "Levantamento da plataforma Palver, citado pela Folha"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Flávio Bolsonaro é o 'verdadeiro presidente eleito' e a eleição foi fraudada.",
+     "rotulo": "Falso",
+     "explicacao": "Lula venceu por mais de 4,4 milhões de votos; o TSE, aliados do senador e o próprio Rogério Marinho disseram não haver provas de fraude; o relatório apócrifo que circula distorce microdados do TSE.",
+     "onde_circula": "carta de Flávio, redes bolsonaristas",
+     "checagem": [
+      {
+       "nome": "Agência Lupa",
+       "url": "https://www.agencialupa.org/checagem/2026/10/28/apos-fuga-do-brasil-flavio-bolsonaro-mente-sobre-eleicoes-em-carta-com-teor-golpista/"
+      },
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/relatorio-fraude-eleitoral-distorce-dados-omite-fatos/"
+      }
+     ]
+    },
+    {
+     "alegacao": "As versões diferentes da carta foram erro da inteligência artificial (ChatGPT).",
+     "rotulo": "Sem evidência",
+     "explicacao": "Aliados não apresentaram prova de uso da ferramenta; a primeira versão foi publicada pelo próprio aliado Paulo Figueiredo e o texto foi apagado e editado ao menos duas vezes pelo senador.",
+     "onde_circula": "X (Paulo Figueiredo), aliados de Flávio",
+     "checagem": []
+    },
+    {
+     "alegacao": "Vídeo mostra urna registrando votos sozinha na prorrogação do segundo turno.",
+     "rotulo": "Falso",
+     "explicacao": "Checagem mostra que o vídeo não registra voto automático; a prorrogação de duas horas foi decidida pela Justiça Eleitoral.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/video-nao-mostra-urna-registrando-votos-sozinha/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "PT e Planalto tratam a carta como 'reação autoritária' e apelo à interferência externa, mas evitam alimentar o caso: Flávio é 'página virada' e a vitória nas urnas basta.",
+    "oposicao": "A bancada do PL fala em 'total apoio' e rejeita o rótulo de 'foragido', mas Valdemar, Tarcísio e Marinho se afastam da carta; veículos de direita enquadram a saída como fuga de perseguição judicial e tratam o asilo como provável."
+   },
+   "visao_de_fora": "Washington Post e Wall Street Journal publicaram editoriais criticando o STF ('quando juízes se tornam promotores'); o New York Times registrou a chegada a Miami após a fuga via Argentina; o Clarín diz que a direita brasileira 'já tem candidato' (Tarcísio) horas após a fuga; o Breitbart destaca que Flávio se comparou a De Gaulle.",
+   "ponto_cego": "Veículos de direita (Gazeta do Povo, Terra Brasil Notícias, Oeste) quase não cobrem a rejeição interna à carta e o silêncio dos aliados, concentrando-se no asilo e nos editoriais americanos; veículos de esquerda (Brasil 247, DCM, Fórum) não repercutem os editoriais do Washington Post e do WSJ críticos ao STF.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "flavio-miami-carta-golpista-presidente-eleito-recua-lider-brasao-errado-tse-aliados-rejeitam",
+    "titulo": "Em Miami, Flávio divulga carta em que se declara 'verdadeiro presidente eleito', recua para 'líder do Brasil' e usa brasão errado; TSE fala em 'absoluta normalidade' e aliados rejeitam o texto"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Valdemar diz que 'ninguém aprovou' carta de Flávio e que ele não avisou ao pai que sairia do país",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/29/valdemar-critica-carta-em-que-flavio-se-diz-lider-do-brasil-antes-de-visitar-jair-bolsonaro-nao-gostei.ghtml",
+     "angulo": "Valdemar: 'não gostei', 'ninguém aprovou' e Bolsonaro não sabia da viagem; vídeo da declaração.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Flávio Bolsonaro articula pedido de asilo político nos Estados Unidos",
+     "url": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-pedido-de-asilo-politico-nos-estados-unidos/",
+     "angulo": "Flávio prepara pedido de asilo alegando perseguição do Judiciário; busca apoio do governo Trump.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "PT pede inelegibilidade de Flávio Bolsonaro por carta contra eleições",
+     "url": "https://istoe.com.br/pt-pede-inelegibilidade-flavio-bolsonaro-carta-eleicoes",
+     "angulo": "Representação do PT à Procuradoria-Geral Eleitoral pede inelegibilidade por oito anos.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Aliado de Flávio culpa IA por título de “presidente eleito”",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/aliado-de-flavio-culpa-ia-pela-alegoria-presidente-eleito",
+     "angulo": "Paulo Figueiredo culpa o ChatGPT pela expressão 'presidente eleito' e mantém tese de ilegitimidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Após carta golpista, PL e direita isolam Flávio Bolsonaro e aliados já focam em Tarcísio para 2030",
+     "url": "https://www.brasildefato.com.br/2026/10/29/apos-carta-golpista-pl-e-direita-isolam-flavio-bolsonaro-e-aliados-ja-focam-em-tarcisio-para-2030/",
+     "angulo": "PL e direita isolam Flávio; União Brasil e PSD ratificam o resultado; aliados focam em Tarcísio para 2030.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Valdemar diz que ninguém aprovou carta golpista de Flávio e que Bolsonaro não sabia de fuga do filho",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/valdemar-costa-neto-diz-que-nao-gostou-de-carta-golpista-de-flavio-bolsonaro.shtml",
+     "angulo": "Valdemar diz que ninguém aprovou a carta 'em que mente sobre fraude' e que Bolsonaro não sabia da fuga.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "'I Did Not Flee Brazil': Flavio Bolsonaro Compares Himself to Charles de Gaulle in Letter from Miami",
+     "url": "https://www.breitbart.com/latin-america/2026/10/29/i-did-not-flee-brazil-flavio-bolsonaro-compares-himself-to-charles-de-gaulle-in-letter-from-miami/",
+     "angulo": "Reproduz a carta: Flávio se diz vítima de 'caça às bruxas', compara-se a De Gaulle; nota que o texto foi apagado e editado duas vezes.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Só um dos 15 aliados que estavam ao lado de Flávio no discurso após eleição reproduziu carta nas redes; maioria se calou",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/29/so-um-dos-15-aliados-que-estavam-ao-lado-de-flavio-no-discurso-apos-eleicao-reproduziu-carta-nas-redes-maioria-se-calou.ghtml",
+     "angulo": "Só um dos 15 aliados do palco da derrota reproduziu a carta; maioria se calou.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Bancada do PL manifesta “total apoio” a Flávio Bolsonaro e contesta classificação de “foragido”",
+     "url": "https://terrabrasilnoticias.com/2026/10/pl-manifesta-total-apoio-a-flavio-bolsonaro-e-contesta-classificacao-de-foragido/",
+     "angulo": "Bancada do PL declara 'total apoio' e contesta rótulo de 'foragido'; único veículo a destacar a nota.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ao fugir de avião, Flávio deixou seus aliados e eleitores a ver navios",
+     "url": "https://www.estadao.com.br/politica/eliane-cantanhede/ao-fugir-de-aviao-flavio-deixou-seus-aliados-e-eleitores-a-ver-navios/",
+     "angulo": "Coluna: fuga 'patética' uniu o mundo político contra Flávio e dá à direita pretexto para negociar com Lula.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Esquerda intensifica ofensiva judicial contra Flávio Bolsonaro e a direita no STF",
+     "url": "https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/",
+     "angulo": "Enquadra os pedidos de PT e PSOL ao STF como 'ofensiva judicial da esquerda' contra a direita.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Apenas a horas de la huida de Flávio Bolsonaro, la derecha de Brasil ya tiene un candidato y rechaza las denuncias de fraude",
+     "url": "https://www.clarin.com/mundo/apenas-horas-huida-flavio-bolsonaro-derecha-brasil-candidato-rechaza-denuncias-fraude_0_USbmXVRFOh.html",
+     "angulo": "Visão argentina: direita já tem candidato (Tarcísio) e rejeita denúncias de fraude; Michelle cresce.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "Após fuga do Brasil, Flávio Bolsonaro mente sobre eleições em carta com teor golpista",
+     "url": "https://www.agencialupa.org/checagem/2026/10/28/apos-fuga-do-brasil-flavio-bolsonaro-mente-sobre-eleicoes-em-carta-com-teor-golpista/",
+     "angulo": "Checagem da carta: alegações de fraude são falsas, sem provas; Lula venceu por 4,4 milhões de votos.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": "jato-flavio-pago-intermediario-eua-jason-miller-trump-vergonha-falara-com-lula-juiza-argentina-preserva-imagens",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Dono da empresa diz que o jato de Flávio foi pago por intermediário com conta nos EUA, e NYT e WSJ apontam assessor de Trump na operação; Trump chama a eleição de 'vergonha', mas diz que falará com Lula, e juíza argentina manda preservar imagens da fuga",
+   "lide": "O argentino Luis Grande, dono da Baires Fly, afirmou à AFP que o voo que levou Flávio Bolsonaro de Buenos Aires a Miami foi contratado e pago por um intermediário do setor aeronáutico por meio de uma conta nos Estados Unidos; New York Times e Wall Street Journal dizem que Jason Miller, assessor de comunicação da Casa Branca, providenciou o jato. Trump voltou a chamar o segundo turno de 'vergonha', sem apresentar provas, mas disse que conversará com Lula e que o brasileiro lhe pediu para não tomar partido; o Planalto decidiu não reagir, estuda adiar o aval ao novo embaixador americano e, na Argentina, a juíza federal María Eugenia Capuchetti ordenou ao governo Milei preservar as imagens da passagem do senador.",
+   "contexto": "Flávio saiu da Argentina à meia-noite de 28/10 com passaporte italiano; o Clarín relatou que Santiago Caputo, assessor de Milei, acompanhou a decolagem. A reunião de chanceleres do G20, presidida por Marco Rubio, ocorre em Atlanta em 30 e 31/10.",
+   "fatos": [
+    {
+     "texto": "Luis Grande, dono da Baires Fly, disse à AFP em 29/10 que o voo de Flávio para sair da Argentina foi contratado e pago por um intermediário do setor aeronáutico, por meio de uma conta nos Estados Unidos; Brasil 247 cita valor de US$ 150 mil.",
+     "base": "declaração à AFP publicada pelo Estadão e repercutida por CartaCapital, Jovem Pan e Brasil 247"
+    },
+    {
+     "texto": "O New York Times e o Wall Street Journal reportaram que Jason Miller, da equipe de comunicação da Casa Branca e aliado da família Bolsonaro, providenciou o jato usado na viagem; Miller já depôs à PF e foi recebido por Bolsonaro no passado.",
+     "base": "reportagens do NYT e do WSJ, repercutidas por Valor, Folha, SBT News e Le Monde"
+    },
+    {
+     "texto": "Trump afirmou em 29/10 que conversará com Lula, que o presidente brasileiro lhe pediu para não tomar partido e 'não tomei partido', e voltou a classificar a eleição como 'uma vergonha', sem apresentar provas; é a quinta vez que questiona o pleito.",
+     "base": "5 fontes independentes (Folha, g1, Gazeta do Povo, SBT News, Brasil de Fato)"
+    },
+    {
+     "texto": "A juíza federal argentina María Eugenia Capuchetti ordenou a órgãos do governo Milei que preservem todas as imagens de câmeras de segurança que mostrem Flávio no país, após denúncia de dirigente da esquerda contra Milei.",
+     "base": "3 fontes independentes (Estadão, Gazeta do Povo, Jovem Pan)"
+    },
+    {
+     "texto": "Diego Santilli, chefe de gabinete de Milei, defendeu em 29/10 a atuação do governo argentino na saída de Flávio.",
+     "base": "3 fontes independentes (Folha, Estado de Minas, O Antagonista)"
+    },
+    {
+     "texto": "O chanceler Mauro Vieira viajou em 29/10 aos EUA para a reunião de chanceleres do G20 em Atlanta (30 e 31/10), presidida por Marco Rubio e com o chanceler argentino; é o primeiro encontro com Rubio desde a fuga.",
+     "base": "3 fontes independentes (Opera Mundi, Brasil de Fato, SBT News)"
+    },
+    {
+     "texto": "Flávio, a mulher e ao menos uma filha receberam autorização temporária para permanecer nos EUA até outubro de 2027, na categoria 'DT' (parole discricionário), segundo registros da CBP citados pela CNN Brasil.",
+     "base": "Terra Brasil Notícias citando CNN Brasil (fonte única)"
+    },
+    {
+     "texto": "É falsa a imagem em que Trump recepciona Flávio nos EUA: foi gerada por IA, e Trump estava em outra cidade no dia do desembarque.",
+     "base": "checagem da Agência Lupa"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula não vai procurar Trump, nem para explicar o processo eleitoral nem para pedir reconhecimento; diplomatas tratam Flávio como 'página virada' e a prioridade é a negociação comercial.",
+     "quem": "Interlocutores de Lula (Painel da Folha, Brasil 247, DCM)"
+    },
+    {
+     "texto": "O governo avalia adiar o 'agrément' a Daniel Perez, indicado por Trump para a embaixada em Brasília, enquanto o americano questiona a eleição; descarta, por ora, retirar o embaixador em Buenos Aires.",
+     "quem": "Fontes do Planalto e do Itamaraty (DCM, Exame, SBT News, JOTA)"
+    },
+    {
+     "texto": "O Itamaraty orientou Lula a não reagir às provocações de Trump e Milei e adotar estratégia pragmática.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Flávio deverá pedir residência permanente e o governo Trump poderá acelerar a análise, em caminho semelhante ao de outros aliados.",
+     "quem": "The New York Times, citado por Gazeta do Povo e Terra Brasil Notícias"
+    },
+    {
+     "texto": "A ajuda argentina atinge a cooperação jurídica e internacional entre Brasil e Argentina.",
+     "quem": "Regiane Nitsch Bressan, professora de relações internacionais (Valor)"
+    },
+    {
+     "texto": "Trump 'não quer estar ao lado de perdedores' e faz agenda dupla: acolhe Flávio e mantém canal com Brasília, onde o alinhamento contra o narcotráfico é prioridade de segurança nacional.",
+     "quem": "Analistas ouvidos por Brasil de Fato, CNN Brasil (Lourival Sant'Anna e William Waack) e BBC Brasil"
+    },
+    {
+     "texto": "A Casa Branca rejeitou a tentativa de Flávio de se colocar como 'Guaidó brasileiro' e recomendou que fique 'abaixo do radar'.",
+     "quem": "Fonte diplomática citada por Jamil Chade (ICL Notícias)"
+    },
+    {
+     "texto": "Para acolher Flávio, Trump recorre ao sistema de acolhida humanitária que ele próprio desmontou no segundo mandato.",
+     "quem": "Folha (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Trump recepcionou Flávio Bolsonaro pessoalmente ao chegar aos EUA.",
+     "rotulo": "Falso",
+     "explicacao": "A imagem foi gerada por inteligência artificial; pela agenda oficial, Trump estava em outra cidade quando o senador desembarcou em Miami.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Agência Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/10/29/e-falso-que-trump-recepcionou-flavio-bolsonaro-nos-eua-imagem-foi-gerada-com-ia/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O segundo turno brasileiro 'foi uma vergonha' e a reação do mercado prova problemas na eleição (Trump).",
+     "rotulo": "Sem evidência",
+     "explicacao": "Trump não apresentou indício de irregularidade em nenhuma das cinco vezes em que questionou o pleito; o TSE, a OEA e aliados de Flávio reconhecem o resultado; a queda da bolsa é atribuída pelo mercado à incerteza fiscal e ao exterior.",
+     "onde_circula": "declarações de Trump a jornalistas",
+     "checagem": []
+    },
+    {
+     "alegacao": "Jason Miller confirmou ter providenciado o jato.",
+     "rotulo": "Em apuração",
+     "explicacao": "Brasil 247 e Diário do Poder afirmam que Miller admitiu a organização do voo; CartaCapital registra que a Casa Branca não se pronunciou; a origem são as reportagens do NYT e do WSJ.",
+     "onde_circula": "Brasil 247, Diário do Poder",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Planalto trata o caso como 'página virada', não pedirá reconhecimento a Trump e mantém a negociação comercial como prioridade, mas segura o aval ao embaixador e avalia o 'timing' para cobrar explicações de Milei.",
+    "oposicao": "Marinho diz esperar que os EUA não interfiram; veículos de direita destacam que Trump autorizou a entrada, o visto humanitário e os editoriais americanos que falam em perseguição do STF."
+   },
+   "visao_de_fora": "Le Monde: Flávio teria fugido num avião pago a partir dos EUA; NYT e WSJ revelaram o papel de Jason Miller; o Washington Post e o WSJ publicaram editoriais contra o STF; Clarín e La Nación acompanham a investigação argentina; deputados argentinos de oposição cobram Milei e reconhecimento da vitória de Lula.",
+   "ponto_cego": "Veículos de direita (Gazeta do Povo, Terra Brasil, Oeste) cobrem o visto e os editoriais, mas quase nada sobre o pagamento do jato por intermediário e a ordem da juíza argentina; veículos de esquerda (247, DCM, Fórum) não registram que Trump disse 'não vou me envolver' na carta nem que Lula lhe pediu para não tomar partido.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "rota-fuga-passaporte-italiano-caputo-iguazu-jato-irma-milei-pf-investiga-democratas-cobram-rubio",
+    "titulo": "Flávio usou passaporte italiano e saiu da Argentina à meia-noite; Clarín diz que assessor de Milei acompanhou a decolagem, deputados argentinos cobram explicações e democratas nos EUA questionam Rubio"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Voo de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono de empresa",
+     "url": "https://www.estadao.com.br/politica/voo-flavio-bolsonaro-pago-intermediario-eua-npr/",
+     "angulo": "Dono da Baires Fly diz à AFP que voo foi contratado e pago por intermediário via conta nos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Flavio Bolsonaro aurait fui le Brésil à bord d’un avion payé depuis les Etats-Unis",
+     "url": "https://www.lemonde.fr/international/article/2026/10/30/flavio-bolsonaro-aurait-fui-le-bresil-a-bord-d-un-avion-paye-depuis-les-etats-unis_6802658_3210.html",
+     "angulo": "Avião pago a partir dos EUA e fretado por conselheiro de Trump, segundo WSJ e NYT (visão francesa).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Quem é Jason Miller, funcionário da Casa Branca que ajudou em fuga de Flávio Bolsonaro",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/29/quem-e-jason-miller-funcionario-da-casa-branca-que-ajudou-em-fuga-de-flavio-bolsonaro.ghtml",
+     "angulo": "Perfil de Jason Miller, funcionário da Casa Branca apontado por NYT e WSJ como quem providenciou o jato.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Fuga de Flávio Bolsonaro teve jato de US$ 150 mil pago por intermediário residente nos EUA",
+     "url": "https://www.brasil247.com/brasil/fuga-de-flavio-bolsonaro-teve-jato-de-us-150-mil-pago-por-intermediario-residente-nos-eua/",
+     "angulo": "Jato de US$ 150 mil pago por intermediário residente nos EUA; diz que Miller admite ter providenciado.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Homem de confiança de Trump confirma haver providenciado jato que levou Flávio aos EUA",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/homem-de-confianca-de-trump-confirma-haver-providenciado-jato-que-levou-flavio-aos-eua",
+     "angulo": "Veículo de direita afirma que Miller 'confirmou' ter providenciado o jato.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump diz que não tomou partido nas eleições no Brasil a pedido de Lula",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/29/trump-diz-que-falara-com-lula-e-volta-a-criticar-eleicoes.ghtml",
+     "angulo": "Trump diz que não tomou partido a pedido de Lula, que falará com ele, e volta a criticar a eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump diz que eleições no Brasil foram “uma vergonha”",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-diz-que-eleicoes-no-brasil-foram-uma-vergonha/",
+     "angulo": "Destaca a 'vergonha' e que Trump desconversou sobre quem venceu; omite o 'não tomei partido'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Trump diz que falará com Lula e que presidente reeleito o pediu para não intervir em eleições",
+     "url": "https://www.brasildefato.com.br/2026/10/29/trump-revela-que-lula-pediu-que-ele-nao-tomasse-partido-na-eleicao-e-diz-que-vai-conversar-com-presidente/",
+     "angulo": "Destaca que Lula pediu a Trump para não intervir e que o americano manteve 'críticas vagas'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Justiça argentina ordena ao governo Milei que preserve imagens de fuga de Flávio Bolsonaro",
+     "url": "https://www.estadao.com.br/politica/justica-argentina-ordena-ao-governo-milei-que-preserve-imagens-de-fuga-de-flavio-bolsonaro-nprp/",
+     "angulo": "Juíza Capuchetti ordena preservar imagens de Flávio na Argentina, segundo o Clarín.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Chefe de gabinete de Milei defende operação para saída de Flávio",
+     "url": "https://oantagonista.com.br/mundo/chefe-de-gabinete-de-milei-defende-operacao-para-saida-de-flavio/",
+     "angulo": "Santilli defende a operação argentina; Caputo acompanhou a decolagem, segundo o Clarín.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Em meio à crise, aval a embaixador dos EUA deve demorar",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/em-meio-a-crise-aval-a-embaixador-dos-eua-deve-demorar",
+     "angulo": "Aval ao embaixador Daniel Perez deve demorar; ajuda da Casa Branca prolonga 'banho-maria'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Governo Trump concede autorização para Flávio Bolsonaro e família permanecerem nos EUA por um ano",
+     "url": "https://terrabrasilnoticias.com/2026/10/governo-trump-concede-autorizacao-para-flavio-bolsonaro-e-familia-permanecerem-nos-eua-por-um-ano/",
+     "angulo": "Registros da CBP: autorização 'DT' até outubro de 2027 para Flávio e família; enquadra como acolhida.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "É falso que Trump recepcionou Flávio Bolsonaro nos EUA; imagem foi gerada com IA",
+     "url": "https://www.agencialupa.org/verificacao/2026/10/29/e-falso-que-trump-recepcionou-flavio-bolsonaro-nos-eua-imagem-foi-gerada-com-ia/",
+     "angulo": "Imagem de Trump recebendo Flávio é falsa, gerada por IA.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "depoimentos-master-ex-brb-diz-ibaneis-ordenou-venda-imoveis-146-mi-vorcaro-nega-defesa-celular-alterado-fachin-mantem-caso-devolve-inss",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Depoimentos do caso Master vêm à luz: ex-presidente do BRB diz que Ibaneis ordenou o negócio e que Vorcaro ofereceu imóveis de R$ 146 milhões; Vorcaro nega fraude e sua defesa diz que o celular foi alterado após a apreensão; Fachin mantém o caso por 90 dias e devolve o INSS a Mendonça",
+   "lide": "A PF enviou ao STF os vídeos dos depoimentos de 15/10: Paulo Henrique Costa, ex-presidente do BRB, disse que o então governador Ibaneis Rocha pediu em 2024 que estruturasse a venda do banco ao Master e que Daniel Vorcaro se ofereceu para 'comprar todos' os apartamentos de uma lista; Ibaneis e os dois negam propina. Vorcaro negou fraudes, atribuiu a crise do BRB à própria prisão e sua defesa entregou perícia particular que aponta 657 arquivos modificados no celular após a apreensão, pedindo anulação das provas e soltura. No mesmo dia, Fachin devolveu a André Mendonça as investigações do INSS, mas manteve o caso Master na Presidência do STF por até 90 dias.",
+   "contexto": "Em 28/10 a PF indiciou Vorcaro, Costa e mais 13 por fraudes na venda de carteiras do Master ao BRB (R$ 17,5 bilhões em operações). Os inquéritos do Master e do INSS estavam retidos na Presidência do STF desde setembro, após disputa entre ministros.",
+   "fatos": [
+    {
+     "texto": "Fachin decidiu em 29/10 devolver a André Mendonça a relatoria das investigações sobre descontos indevidos no INSS (Operação Sem Desconto) e manter os inquéritos do Banco Master sob a Presidência do STF por até 90 dias, pedindo à PF relatório sobre menções a ministros da Corte.",
+     "base": "decisão do STF noticiada por Folha, g1, Agência Brasil, JOTA e CNN Brasil"
+    },
+    {
+     "texto": "Em depoimento à PF em 15/10, enviado ao STF em 29/10, Paulo Henrique Costa afirmou que Ibaneis Rocha pediu em 2024, num jantar com Vorcaro, que ele estruturasse a venda do BRB ao Master e que deu aval para ele presidir uma holding após a operação; a defesa de Ibaneis nega.",
+     "base": "4 fontes independentes (Valor, Estadão, SBT News, Jovem Pan)"
+    },
+    {
+     "texto": "Costa disse que Vorcaro se ofereceu para 'comprar todos' os apartamentos de uma lista que ele havia escolhido em São Paulo; a PF apura seis imóveis de R$ 146,5 milhões como propina. Costa negou ter recebido os imóveis e Vorcaro disse que serviriam de moradia se Costa assumisse cargo no conglomerado.",
+     "base": "3 fontes independentes (g1, SBT News, Poder360)"
+    },
+    {
+     "texto": "Vorcaro negou à PF fraudes na venda de carteiras, disse estar 'preso injustamente' e atribuiu a crise do BRB à sua prisão e à liquidação do Master, que teriam gerado perda de credibilidade e saques bilionários.",
+     "base": "3 fontes independentes (Valor, Estadão, Poder360)"
+    },
+    {
+     "texto": "A defesa de Vorcaro protocolou no STF em 29/10 perícia particular preliminar que aponta 657 arquivos modificados e 436 criados no celular depois da apreensão (17/11/2025), incluindo alteração no banco de dados do WhatsApp às 1h48 após conexão USB, e pediu anulação das provas e revogação da prisão preventiva.",
+     "base": "4 fontes independentes (Agência Brasil, Estadão, CartaCapital, Jovem Pan)"
+    },
+    {
+     "texto": "Augusto Lima, ex-sócio do Master, disse à PF que Vorcaro 'tinha pleno conhecimento' das carteiras de consignados e que omitia operações suspeitas.",
+     "base": "2 fontes independentes (Estadão, Valor)"
+    },
+    {
+     "texto": "Segundo a PF, o BRB fracionou as operações com o Master em blocos de R$ 750 milhões para evitar a análise do Conselho de Administração; Costa admitiu que a diretoria ignorou alertas.",
+     "base": "SBT News (fonte única para o fracionamento; relatório da PF citado na edição de 29/10)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O celular virou uma 'maldição' e as mensagens extraídas foram descontextualizadas pela investigação.",
+     "quem": "Daniel Vorcaro, em depoimento à PF (Poder360)"
+    },
+    {
+     "texto": "O laudo da defesa pode anular as mensagens que citam Alexandre de Moraes e, assim, favorecer o ministro.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "A PGR deve apresentar as denúncias do caso Master separadamente, por núcleos, começando pelas operações com o BRB, no método usado na trama golpista.",
+     "quem": "CNN Brasil, citada pelo DCM"
+    },
+    {
+     "texto": "A decisão de Fachin sobre a relatoria deverá ser levada ao plenário.",
+     "quem": "JOTA"
+    },
+    {
+     "texto": "A investigação, e não as operações, causou o 'rombo bilionário' do BRB, porque 'banco vive de credibilidade'.",
+     "quem": "Daniel Vorcaro (g1)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O celular de Vorcaro foi adulterado pela PF depois da apreensão.",
+     "rotulo": "Em apuração",
+     "explicacao": "A perícia foi encomendada pela defesa e é preliminar; o relatório identifica atividade no aparelho, mas não quem a realizou nem quais informações foram alteradas (Jovem Pan); a PF não respondeu nos textos consultados.",
+     "onde_circula": "petição da defesa ao STF, Gazeta do Povo, Terra Brasil Notícias",
+     "checagem": []
+    },
+    {
+     "alegacao": "Vorcaro disse à PF que repassou R$ 20 milhões em dinheiro vivo ao ministro Alexandre Silveira em 2024.",
+     "rotulo": "Em apuração",
+     "explicacao": "Só o Terra Brasil Notícias traz a afirmação; nenhum outro veículo que publicou o depoimento a registrou, e não há manifestação do ministro nos textos consultados.",
+     "onde_circula": "Terra Brasil Notícias",
+     "checagem": []
+    },
+    {
+     "alegacao": "Ibaneis Rocha ordenou a venda do BRB ao Master.",
+     "rotulo": "Contraditório",
+     "explicacao": "É a versão de Paulo Henrique Costa à PF; Ibaneis nega, e o ex-presidente do BRB só agora diz ter sido contrário à operação.",
+     "onde_circula": "depoimento à PF",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Gazeta do Povo, Terra Brasil, Diário do Poder) destacam a perícia da defesa, o possível benefício a Moraes e ligações de advogados com Lula; veículos de esquerda (Fórum, DCM) destacam Ibaneis; o conteúdo do depoimento de Vorcaro em si aparece quase só em Poder360, Valor, Estadão e g1.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "pf-indicia-vorcaro-ex-presidente-brb-mais-13-caso-master-relatorio-700-paginas-60-dias",
+    "titulo": "PF indicia Daniel Vorcaro, o ex-presidente do BRB e mais 13 por fraudes bilionárias na venda de carteiras do Master ao banco de Brasília; relatório diz que diretoria foi alertada em 2024 e seguiu comprando"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "'Compro todos': ex-presidente do BRB diz que Vorcaro se ofereceu para bancar lista de imóveis; PF apura R$ 146 milhões em propina",
+     "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/compro-todos-ex-presidente-do-brb-diz-que-vorcaro-se-ofereceu-para-bancar-lista-de-imoveis-pf-apura-r-146-milhoes-em-propina.ghtml",
+     "angulo": "Costa diz que Vorcaro se ofereceu para bancar lista de imóveis; PF apura R$ 146 milhões em propina.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Em depoimento à PF, ex-presidente do BRB diz que Ibaneis pediu venda do banco ao Master",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/29/em-depoimento-pf-ex-presidente-do-brb-diz-que-ibaneis-pediu-venda-do-banco-ao-master.ghtml",
+     "angulo": "Costa afirma que Ibaneis pediu em 2024 que estruturasse a venda do BRB ao Master.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ex-presidente do BRB diz à PF que negócio com Master foi ordenado por Ibaneis em jantar com Vorcaro",
+     "url": "https://www.estadao.com.br/economia/ex-presidente-do-brb-diz-a-pf-que-negocio-com-master-foi-ordenado-por-ibaneis-em-jantar-com-vorcaro/",
+     "angulo": "Negócio acertado em jantar entre Vorcaro e Ibaneis, segundo Costa; defesa de Ibaneis não respondeu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Ex-chefe do BRB diz que venda ao Master foi ordem de Ibaneis",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/ex-chefe-do-brb-diz-que-venda-ao-master-foi-ordem-de-ibaneis",
+     "angulo": "Costa diz que venda foi ordem de Ibaneis; Ibaneis nega.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Vorcaro culpa investigação por crise no BRB e nega prejuízo",
+     "url": "https://www.poder360.com.br/poder-justica/vorcaro-culpa-investigacao-por-crise-no-brb-e-nega-prejuizo/",
+     "angulo": "Vorcaro culpa a investigação e a liquidação pela crise do BRB e nega prejuízo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Vorcaro tenta rebater PF, diz que não houve fraude com BRB e afirma estar ‘preso injustamente’",
+     "url": "https://www.estadao.com.br/economia/vorcaro-tenta-rebater-pf-diz-que-nao-houve-fraude-com-brb-e-afirma-estar-preso-injustamente/",
+     "angulo": "Vorcaro em tom de confronto: não houve fraude, está 'preso injustamente'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Defesa diz que 657 arquivos do celular de Vorcaro foram modificados",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defesa-diz-que-arquivos-do-celular-de-vorcaro-foram-modificados",
+     "angulo": "Perícia particular da defesa: centenas de arquivos criados e modificados após a apreensão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Defesa aponta 657 arquivos modificados no celular de Vorcaro após prisão",
+     "url": "https://jovempan.com.br/politica/defesa-aponta-657-arquivos-modificados-no-celular-de-vorcaro-apos-prisao/",
+     "angulo": "657 arquivos modificados e 436 criados; defesa questiona integridade das provas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Defesa de Vorcaro contesta provas com laudo que pode favorecer Moraes",
+     "url": "https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-contesta-provas-com-laudo-que-pode-favorecer-moraes/",
+     "angulo": "Enquadra o laudo como algo que pode favorecer Moraes ao anular mensagens.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ibaneis Rocha ordenou negócio com Vorcaro, diz ex-presidente do BRB à PF",
+     "url": "https://revistaforum.com.br/politica/ibaneis-vorcaro-brb-pf/",
+     "angulo": "Destaca a orientação de Ibaneis em jantar na residência oficial.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Vorcaro diz à PF que repassou quantia milionária a ministro de Lula",
+     "url": "https://terrabrasilnoticias.com/2026/10/vorcaro-diz-a-pf-que-repassou-quantia-milionaria-a-ministro-de-lula/",
+     "angulo": "Único a afirmar que Vorcaro disse ter repassado R$ 20 milhões a Alexandre Silveira; sem confirmação.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Advogado de ex-diretor do Master é tão ligado a Lula que até foi ao casamento dele com Janja",
+     "url": "https://diariodopoder.com.br/coluna-claudio-humberto/advogado-de-ex-diretor-do-master-e-tao-ligado-a-lula-que-ate-foi-ao-casamento-dele-com-janja",
+     "angulo": "Coluna liga advogado de ex-diretor do Master a Lula e Janja.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fachin devolve caso INSS para relatoria de Mendonça e mantém inquérito do Master na Presidência por 90 dias",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/fachin-devolve-caso-inss-para-relatoria-de-mendonca-mas-mantem-inquerito-do-master-na-presidencia.shtml",
+     "angulo": "Fachin devolve INSS a Mendonça e mantém Master na Presidência por 90 dias.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "fachin-arquiva-mais-5-frentes-inquerito-fake-news-moraes-arquiva-monark-silveira-kassio-mendonca-afastam-flavio-pt-reforma-judiciario",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin arquiva mais cinco investigações do inquérito das fake news e Moraes encerra os casos de Monark e Daniel Silveira; Kassio e Mendonça se afastam de Flávio, Bolsonaro pede visita de Marinho e PT lista reforma do Judiciário entre prioridades do novo mandato",
+   "lide": "A pedido da PGR, o presidente do STF, Edson Fachin, determinou o arquivamento de cinco investigações derivadas do inquérito das fake news, aberto em 2019, por falta de provas ou prescrição; Alexandre de Moraes arquivou o inquérito contra o youtuber Monark, após multa de R$ 300 mil, e o que investigava Daniel Silveira por lavagem e crimes tributários. Os ministros do TSE Kassio Nunes Marques e André Mendonça, vistos como próximos de Flávio, tentam se desvincular do senador após a carta, enquanto a Executiva do PT aprovou resolução que põe a reforma do Judiciário e a regulação das big techs entre as prioridades do quarto mandato de Lula.",
+   "contexto": "Em 28/10 Fachin já havia arquivado frentes do inquérito das fake news envolvendo Eduardo Bolsonaro, Silas Malafaia e Bruno Fiuza. O Washington Post e o WSJ publicaram editoriais criticando a concentração de funções no STF.",
+   "fatos": [
+    {
+     "texto": "Fachin determinou em 29/10 o arquivamento de cinco investigações ligadas ao inquérito das fake news, atendendo a manifestações da PGR por falta de provas, impossibilidade de identificar suspeitos ou prescrição; entre os beneficiados há um ex-ministro de Bolsonaro e o presidente do PCO, e perfis em redes foram desbloqueados.",
+     "base": "4 fontes independentes (g1, Folha, JOTA, Gazeta do Povo)"
+    },
+    {
+     "texto": "Moraes determinou o arquivamento do inquérito contra Bruno Aiub (Monark) por descumprimento de decisão judicial, a pedido da PGR, após o pagamento de multa de R$ 300 mil.",
+     "base": "3 fontes independentes (g1, Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "Moraes arquivou em 28/10 inquérito que investigava Daniel Silveira por fraude à execução, lavagem de dinheiro e crimes tributários, após manifestação favorável da PGR.",
+     "base": "2 fontes independentes (JOTA, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Moraes concedeu liberdade condicional a Davis Baek, condenado a 12 anos pelo 8 de janeiro, com 12 condições, entre elas tornozeleira eletrônica.",
+     "base": "Revista Oeste (fonte única)"
+    },
+    {
+     "texto": "A defesa de Jair Bolsonaro pediu a Moraes autorização para visita do senador Rogério Marinho, com datas sugeridas entre 3 e 5/11; Moraes já havia liberado a visita de Valdemar.",
+     "base": "4 fontes independentes (Gazeta do Povo, Jovem Pan, SBT News, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "A Executiva Nacional do PT aprovou em 29/10 resolução que lista reforma do Judiciário, regulação das big techs e mudanças no sistema político-eleitoral entre as prioridades do novo mandato.",
+     "base": "2 fontes independentes (Brasil 247, InfoMoney)"
+    },
+    {
+     "texto": "Toffoli rejeitou queixa-crime de Flávio contra André Janones por injúria, invocando imunidade parlamentar; Cármen Lúcia relatará ação de Janones contra Flávio.",
+     "base": "Gazeta do Povo e CartaCapital (decisões distintas, uma fonte cada)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Kassio Nunes Marques e André Mendonça, presidente e vice do TSE, tentam se desvincular de Flávio e teriam relatado a interlocutores 'perda de bom senso' do senador após a carta.",
+     "quem": "Interlocutores dos ministros, citados por Folha e Revista Fórum"
+    },
+    {
+     "texto": "Lula enfrenta pressão para apoiar mudanças na estrutura e no funcionamento do STF, em meio à repercussão das decisões de Moraes sobre Flávio.",
+     "quem": "Bloomberg, citada pela IstoÉ"
+    },
+    {
+     "texto": "Fachin 'avança contra' o inquérito das fake news; o pacote de decisões reconhece excessos.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Alcolumbre considerou excessiva a ordem de apreensão do passaporte de Flávio, reclamou com aliados e procurou Gilmar Mendes para tentar anular a decisão.",
+     "quem": "Aliados de Alcolumbre, citados pela Folha"
+    },
+    {
+     "texto": "As sabatinas de Kassio e Mendonça expuseram a complacência do Senado na aprovação de ministros.",
+     "quem": "Frederico Vasconcelos, blog na Folha (opinião)"
+    },
+    {
+     "texto": "O STF concentra funções de juiz e promotor e enfraquece garantias processuais; o Brasil ruma para a autocracia.",
+     "quem": "Editoriais do Washington Post e do Wall Street Journal, citados por Oeste, Antagonista, Brazil Journal e Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "PT apresenta a reforma do Judiciário e a regulação das big techs como agenda estrutural do novo mandato; aliados defendem a atuação do STF nas eleições e tratam os arquivamentos como rotina processual.",
+    "oposicao": "Direita lê os arquivamentos como reconhecimento de excessos do inquérito das fake news, cobra impeachment ou limites a Moraes e usa os editoriais americanos como validação da tese de perseguição."
+   },
+   "visao_de_fora": "Editorial do Washington Post ('Quando juízes se tornam promotores') e do Wall Street Journal criticam o STF e a condução de Moraes; Bloomberg relata pressão sobre Lula por reforma do STF.",
+   "ponto_cego": "Veículos de esquerda (Brasil 247, DCM, Fórum) não noticiaram os arquivamentos do inquérito das fake news nem o caso Monark; veículos de direita (Terra Brasil, Gazeta) não registram a resolução do PT nem o pedido de visita de Marinho como movimento pela presidência do Senado.",
+   "continua": {
+    "data": "2026-10-28",
+    "id": "fachin-arquiva-inquerito-fake-news-eduardo-malafaia-fiuza-passaporte",
+    "titulo": "Fachin arquiva frentes do inquérito das fake news contra Eduardo Bolsonaro, Malafaia e Fiuza, e manda devolver passaporte"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fachin determina arquivamento de cinco investigações ligadas ao inquérito das fake news",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/29/fachin-determina-arquivamento-de-cinco-investigacoes-ligadas-ao-inquerito-das-fake-news.ghtml",
+     "angulo": "Cinco investigações arquivadas a pedido da PGR; explica a origem do inquérito em 2019.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fachin arquiva mais cinco investigações ligadas a inquérito das fake news",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/fachin-arquiva-mais-cinco-investigacoes-ligadas-a-inquerito-das-fake-news.shtml",
+     "angulo": "Arquivamentos por falta de provas e prescrição; inquérito aberto há mais de sete anos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Fachin arquiva mais 5 investigações relacionadas ao inquérito das fake news",
+     "url": "https://www.jota.info/stf/do-supremo/fachin-e-moraes-arquivam-mais-5-investigacoes-relacionadas-ao-inquerito-das-fake-news",
+     "angulo": "Reúne as decisões de Fachin (fake news) e de Moraes (Silveira e Monark).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin avança contra inquérito das fake news e encerra mais cinco frentes",
+     "url": "https://www.gazetadopovo.com.br/republica/fachin-arquiva-mais-cinco-investigacoes-do-inquerito-das-fake-news/",
+     "angulo": "Enquadra como Fachin 'avançando contra' o inquérito; lista beneficiados de ex-ministro a presidente do PCO.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "URGENTE: Fachin arquiva mais 5 procedimentos no inquérito das Fake News manda desbloquear perfis em redes sociais e extinguiu procedimento contra deputado",
+     "url": "https://terrabrasilnoticias.com/2026/10/presidente-do-stf-fachin-arquiva-cinco-investigacoes-ligadas-ao-inquerito-das-fake-news/",
+     "angulo": "'Urgente': arquivamentos, desbloqueio de perfis e extinção de procedimento contra deputado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "STF arquiva inquérito que investigava Monark por descumprimento de ordem judicial",
+     "url": "https://www.estadao.com.br/politica/stf-arquiva-o-inquerito-no-qual-monark-era-investigado-por-descumprimento-de-ordem-judicial-nprp/",
+     "angulo": "Moraes arquiva inquérito de Monark a pedido da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Moraes concede liberdade condicional a preso do 8/1, mas impõe 12 condições",
+     "url": "https://revistaoeste.com/no-ponto/moraes-concede-liberdade-condicional-a-preso-do-8-de-janeiro-mas-impoe-12-condicoes/",
+     "angulo": "Condicional a preso do 8/1 com 12 condições; destaca as restrições.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Kassio e Mendonça tentam se desvincular de Flávio após carta golpista e falam em perda de bom senso",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/kassio-e-mendonca-tentam-se-desvincular-de-flavio-apos-carta-golpista-e-falam-em-perda-de-bom-senso.shtml",
+     "angulo": "Kassio e Mendonça, do TSE, tentam se desvincular de Flávio e falam em 'perda de bom senso'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Em posição desconfortável, Kassio e Mendonça sinalizam afastamento de Flávio Bolsonaro",
+     "url": "https://revistaforum.com.br/revista-forum/desconfortavel-kassio-mendonca-afastamento-flavio-bolsonaro/",
+     "angulo": "Leitura à esquerda: carta 'contaminou' a Justiça Eleitoral e atingiu Kassio e Mendonça.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Lula sofre pressão por reforma do STF após decisões de Alexandre de Moraes",
+     "url": "https://istoe.com.br/lula-pressao-reforma-stf-alexandre-de-moraes",
+     "angulo": "Bloomberg: Lula sob pressão para apoiar mudanças no STF após decisões de Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Reforma do Judiciário e regulação das big techs estão entre prioridades do novo mandato de Lula, diz PT",
+     "url": "https://www.brasil247.com/brasil/reforma-do-judiciario-e-regulacao-das-big-techs-estao-entre-prioridades-do-novo-mandato-de-lula-diz-pt/",
+     "angulo": "PT: reforma do Judiciário e regulação de big techs são prioridades do novo mandato.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Washington Post vê falha na democracia brasileira após fuga de Flávio",
+     "url": "https://oantagonista.com.br/mundo/washington-post-ve-falha-na-democracia-brasileira-apos-fuga-de-flavio/",
+     "angulo": "Editorial do Washington Post: 'Quando juízes se tornam promotores'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Defesa de Bolsonaro pede autorização para visita de Rogério Marinho",
+     "url": "https://www.gazetadopovo.com.br/republica/defesa-de-bolsonaro-pede-autorizacao-para-visita-de-rogerio-marinho/",
+     "angulo": "Defesa de Bolsonaro pede a Moraes visita de Marinho, coordenador da campanha de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "assedio-eleitoral-3754-denuncias-mpt-processa-meta-50-mi-justica-manda-remover-posts-24h-governo-confirma-lista-suja",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Denúncias de assédio eleitoral chegam a 3.754 e superam 2022; MPT processa a Meta em R$ 50 milhões, Justiça do Trabalho dá 24 horas para remover posts que incentivam demissão por voto e governo confirma 'lista suja' de empresas",
+   "lide": "O Ministério Público do Trabalho ajuizou ação civil pública contra a Meta pedindo R$ 50 milhões por danos morais coletivos e a remoção de publicações que incentivam empregadores a vigiar, expor e demitir funcionários por causa do voto; horas depois, a 77ª Vara do Trabalho de São Paulo deu liminar com eficácia nacional para a empresa apagar 14 posts do Instagram em 24 horas, sob multa de R$ 200 mil. O Ministério do Trabalho confirmou um cadastro de empregadores denunciados e passou a enviar alertas pela carteira de trabalho digital, enquanto as denúncias ao MPT subiram para 3.754 em 2026, acima do total de 2022.",
+   "contexto": "As denúncias dispararam após o segundo turno de 25/10, com relatos de retaliação a eleitores de Lula. A edição de 29/10 registrava 3.290 denúncias.",
+   "fatos": [
+    {
+     "texto": "As denúncias de assédio eleitoral ao MPT chegaram a 3.754 em 29/10, superando o total de 2022 (3.373); pela manhã o órgão contava 3.396.",
+     "base": "dados do MPT (Estadão para 3.754; g1 e Jovem Pan para 3.396)"
+    },
+    {
+     "texto": "O MPT ajuizou em 29/10 ação civil pública contra a Meta (Instagram, Facebook, WhatsApp/Threads) pedindo R$ 50 milhões por danos morais coletivos, retirada dos conteúdos em 24 horas e multa de R$ 500 mil por conteúdo mantido.",
+     "base": "5 fontes independentes (g1, Folha, JOTA, IstoÉ, Jovem Pan)"
+    },
+    {
+     "texto": "A 77ª Vara do Trabalho de São Paulo concedeu liminar com eficácia nacional dando 24 horas para a Meta remover 14 publicações do Instagram que incentivam demissão por motivo político, com multa de R$ 200 mil em caso de descumprimento, e obrigou a empresa a divulgar comunicado sobre a ilegalidade do assédio eleitoral.",
+     "base": "4 fontes independentes (g1, JOTA, CNN Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "MTE, MPT, AGU, TST e Ministério da Justiça anunciaram pacote contra o assédio eleitoral; o MTE confirmou a criação de um cadastro de empregadores denunciados ('lista suja') e estuda outras sanções, inclusive restrição de crédito.",
+     "base": "3 fontes independentes (Brasil de Fato, Gazeta do Povo, SBT News); JOTA para a restrição de crédito"
+    },
+    {
+     "texto": "O MTE está enviando mensagens pela carteira de trabalho digital incentivando trabalhadores a denunciar ameaça de demissão ou discriminação política.",
+     "base": "Folha (fonte única; texto republicado por ICL via Folhapress)"
+    },
+    {
+     "texto": "A Senacon notificou a Meta pedindo informações sobre contas e publicações derrubadas no Instagram e no Facebook durante o período eleitoral, após denúncia de que a empresa teria agido de forma desigual.",
+     "base": "g1 (fonte única)"
+    },
+    {
+     "texto": "Em apenas dois dias após o resultado, o MPT recebeu 530 denúncias, 21,4% das 2.467 registradas em todo 2026 até então.",
+     "base": "Estadão (dados do MPT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "'Empresa não é zona fora da Constituição': os casos criam riscos éticos e reputacionais para as companhias.",
+     "quem": "Analistas de governança ouvidos pelo Estadão"
+    },
+    {
+     "texto": "Boicote a comércio e demissão por motivação política são 'prática nazista'.",
+     "quem": "Deputada Maria do Rosário (PT), em Brasil de Fato"
+    },
+    {
+     "texto": "O assédio eleitoral é 'o ovo da serpente' de um projeto autoritário.",
+     "quem": "Artigo de opinião em Brasil de Fato"
+    },
+    {
+     "texto": "A 'lista suja' é medida do governo Lula contra empresas acusadas, nos moldes da lista do trabalho escravo.",
+     "quem": "Gazeta do Povo (enquadramento)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Estado reage a perseguição política no trabalho com ação coordenada; plataformas são corresponsáveis pelos conteúdos.",
+    "oposicao": "Veículos de direita tratam a 'lista suja' como medida do governo Lula contra empresas e quase não repercutem as denúncias; a oposição política não se manifestou nas matérias dos feeds."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita cobrem apenas a 'lista suja' (Gazeta do Povo) e a ação contra a Meta (Jovem Pan, Diário do Poder), sem o volume de denúncias nem os relatos de retaliação; nenhum veículo trouxe a posição da Meta sobre a ação e a liminar.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "assedio-eleitoral-3290-denuncias-governo-lista-suja-credito-mpt-aciona-politicos-santos-sem-motivacao-politica",
+    "titulo": "Denúncias de assédio eleitoral dobram em um dia e chegam a 3.290; governo estuda 'lista suja' e corte de crédito a empresas, e polícia descarta motivação política na morte do engenheiro em Santos"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Assédio eleitoral: Denúncias superam 2022 e chegam a 3.754 com relatos de retaliação após resultado",
+     "url": "https://www.estadao.com.br/economia/assedio-eleitoral-denuncias-superam-2022-e-chegam-a-3754-com-relatos-de-retaliacao-apos-resultado/",
+     "angulo": "3.754 denúncias, recorde; relatos de retaliação após o resultado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "MPT processa Meta em R$ 50 milhões e quer remoção imediata de conteúdos de assédio eleitoral",
+     "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/mpt-processa-meta-em-r-50-milhoes-e-quer-remocao-imediata-de-conteudos-de-assedio-eleitoral.ghtml",
+     "angulo": "MPT processa Meta em R$ 50 milhões e quer remoção imediata.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "MPT processa Meta em R$ 50 milhões por assédio eleitoral nas redes sociais",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/mpt-processa-meta-em-r-50-milhoes-por-assedio-eleitoral-nas-redes-sociais.shtml",
+     "angulo": "Ação civil pública contra a Meta por danos morais coletivos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "MPT aciona Meta por publicações que estimulam assédio eleitoral e pede R$ 50 milhões em danos coletivos",
+     "url": "https://www.jota.info/trabalho/mpt-aciona-meta-por-publicacoes-que-estimulam-assedio-eleitoral-e-pede-r-50-milhoes-em-danos-coletivos",
+     "angulo": "Detalha pedido: remoção em 24 h e multa de R$ 500 mil por conteúdo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "MPT aciona Meta e cobra R$ 50 mi por denúncias de assédio eleitoral",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e12-brasil/mpt-aciona-meta-e-cobra-r-50-mi-por-denuncias-de-assedio-eleitoral",
+     "angulo": "Registro factual da ação por veículo de direita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Justiça do Trabalho manda Meta remover posts que incentivam demissão de quem votou em Lula",
+     "url": "https://www.jota.info/trabalho/justica-do-trabalho-manda-meta-remover-posts-que-incentivam-demissao-de-quem-votou-em-lula",
+     "angulo": "Liminar da 77ª Vara de SP com eficácia nacional: 14 posts em 24 horas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Justiça do Trabalho manda Meta remover publicações que incentivam demissão por causa do voto",
+     "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/justica-do-trabalho-meta-publicacoes-demissao-por-causa-do-voto.ghtml",
+     "angulo": "Justiça manda remover publicações que incentivam demissão por causa do voto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Justiça obriga Meta a excluir posts que estimulam demissão por divergência política",
+     "url": "https://www.gazetadopovo.com.br/republica/justica-obriga-meta-a-excluir-posts-que-estimulam-demissao-por-divergencia-politica/",
+     "angulo": "Destaca a obrigação de a Meta divulgar comunicado sobre ilegalidade do assédio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Lula confirma “lista suja” de empresas acusadas de assédio eleitoral",
+     "url": "https://www.gazetadopovo.com.br/economia/governo-lula-confirma-lista-suja-empresas-acusadas-assedio-eleitoral/",
+     "angulo": "Enquadra o cadastro como 'lista suja do governo Lula' contra empresas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Com 3,3 mil denúncias, governo e MPT anunciam medidas contra assédio eleitoral",
+     "url": "https://www.brasildefato.com.br/2026/10/29/com-33-mil-denuncias-governo-e-mpt-anunciam-medidas-contra-assedio-eleitoral/",
+     "angulo": "Pacote integrado de MTE, MPT, AGU, TST e MJSP; destaca proteção ao trabalhador.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Governo anuncia medidas contra assédio eleitoral no trabalho",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/governo-anuncia-medidas-contra-assedio-eleitoral-no-trabalho",
+     "angulo": "Medidas incluem retirada de conteúdos e notificação de plataformas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "‘Empresa não é zona fora da Constituição’: analistas veem riscos éticos em casos de assédio político",
+     "url": "https://www.estadao.com.br/economia/governanca/empresa-nao-e-zona-fora-da-constituicao-analistas-veem-riscos-eticos-em-casos-de-assedio-politico/",
+     "angulo": "Analistas veem riscos éticos e reputacionais para empresas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Boicote a comércio e demissão por motivação política é prática nazista, afirma Maria do Rosário",
+     "url": "https://www.brasildefato.com.br/2026/10/29/boicote-a-comercio-e-demissao-por-motivacao-politica-e-pratica-nazista-afirma-maria-do-rosario/",
+     "angulo": "Maria do Rosário chama demissões por voto de 'prática nazista'; relata violência de bolsonaristas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "ibovespa-4a-queda-perde-17-na-semana-dolar-5-39-ifi-40-bi-superavit-2027-improvavel-fonteles-cotado-fazenda-nega-cargos",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Ibovespa cai pelo 4º dia e acumula perda de 17% na semana; dólar vai a R$ 5,39. IFI diz que promessas de campanha somam R$ 40 bilhões e que superávit em 2027 é improvável, enquanto Fonteles, cotado para a Fazenda, nega ter tratado de cargos",
+   "lide": "A bolsa caiu 1,06%, para 169.186 pontos, no quarto pregão seguido de perdas desde a reeleição de Lula, e o dólar subiu 0,89%, a R$ 5,387; o valor de mercado das empresas do índice encolheu R$ 840 bilhões desde segunda. A Instituição Fiscal Independente do Senado calculou que o reajuste do Bolsa Família, a perda da arrecadação das bets e o pacote dos MEIs representam R$ 40 bilhões de desequilíbrio e vê superávit em 2027 como praticamente inatingível, no dia em que o Tesouro divulgou superávit de R$ 4,8 bilhões em setembro e dívida de R$ 9,4 trilhões. O governador do Piauí, Rafael Fonteles, cotado para a Fazenda, disse nunca ter tratado de cargos com Lula.",
+   "contexto": "Na véspera, o Ibovespa havia caído 2,68% e o Fed manteve os juros sinalizando alta em dezembro. Nos EUA, a Alphabet perdeu US$ 500 bilhões em valor de mercado em um dia após balanço abaixo do esperado.",
+   "fatos": [
+    {
+     "texto": "O Ibovespa fechou em queda de 1,06%, aos 169.186 pontos, no quarto dia seguido de perdas; o dólar subiu 0,89%, a R$ 5,387, com máxima de R$ 5,4285.",
+     "base": "4 fontes independentes (g1, Exame, Agência Brasil, Brasil 247)"
+    },
+    {
+     "texto": "A queda acumulada na semana passa de 17% (g1) ou 17,5% desde a eleição (Exame); o valor de mercado das empresas do índice caiu R$ 840 bilhões desde segunda-feira; o dólar acumula alta de 7,9% na semana.",
+     "base": "g1 e Exame (percentuais conforme a base de cálculo); Valor para o valor de mercado; Jovem Pan para o dólar na semana"
+    },
+    {
+     "texto": "A IFI estimou que o reajuste do Bolsa Família, o fim da arrecadação das bets e o pacote dos MEIs anunciados na campanha somam R$ 40 bilhões de desequilíbrio fiscal e exigirão ajuste maior.",
+     "base": "3 fontes independentes (Estadão, g1, Jovem Pan)"
+    },
+    {
+     "texto": "O diretor da IFI avaliou que premissas otimistas e novas despesas obrigatórias tornam praticamente inatingível o superávit de 2027.",
+     "base": "CNN Brasil (fonte única)"
+    },
+    {
+     "texto": "Rafael Fonteles afirmou em 29/10 nunca ter tratado 'com Lula ou qualquer pessoa' sobre cargos no próximo governo e disse desconhecer visita do presidente ao Piauí.",
+     "base": "4 fontes independentes (Gazeta do Povo, Jovem Pan, CNN Brasil, InfoMoney)"
+    },
+    {
+     "texto": "O governo central teve superávit primário de R$ 4,8 bilhões em setembro, melhor resultado para o mês em três anos, com déficit de R$ 90,2 bilhões no ano; a dívida pública federal subiu 0,97%, para R$ 9,4 trilhões.",
+     "base": "dados do Tesouro Nacional (g1, Folha, Diário do Poder)"
+    },
+    {
+     "texto": "O Tesouro afirmou não ver, por enquanto, necessidade de novas intervenções no mercado de títulos após as operações extraordinárias do início da semana.",
+     "base": "Valor (fonte única)"
+    },
+    {
+     "texto": "Bradesco, Itaú e Santander anunciaram reajustes nas taxas de financiamento imobiliário em razão da alta dos juros futuros.",
+     "base": "Folha (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A extensão do ajuste abriu impasse no governo: Lula resiste a medidas mais robustas que poderiam configurar 'estelionato eleitoral'.",
+     "quem": "Fontes do governo, citadas pela Folha"
+    },
+    {
+     "texto": "A ala do PT contrária ao ajuste teme que Fonteles tenha perfil 'fiscalista' mais acentuado que o de Haddad.",
+     "quem": "Lideranças petistas, citadas pelo Valor"
+    },
+    {
+     "texto": "A possível indicação de Fonteles acalmou o mercado e reduziu as taxas curtas, enquanto as longas subiram por temor fiscal.",
+     "quem": "Valor (fechamento dos juros)"
+    },
+    {
+     "texto": "Lula fará o equilíbrio fiscal com corte de privilégios e desperdícios, não em programas sociais, cumprindo as promessas de campanha.",
+     "quem": "Rafael Fonteles, em entrevista ao Estadão"
+    },
+    {
+     "texto": "É preciso um plano fiscal com apoio político para conter o crescimento dos gastos e recuperar a confiança; 'não há como fugir da situação fiscal no próximo ano'.",
+     "quem": "Mansueto Almeida (BTG, em Gazeta do Povo) e Gustavo Loyola (ex-BC, em InfoMoney)"
+    },
+    {
+     "texto": "A Frente Parlamentar do Empreendedorismo quer se adiantar ao governo e apresentar PEC própria de equilíbrio fiscal.",
+     "quem": "Painel S.A., Folha"
+    },
+    {
+     "texto": "O ajuste não pode ser feito 'em cima dos pobres'.",
+     "quem": "Resolução da Executiva Nacional do PT (Valor)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Lula bloqueou o Gás do Povo e o Bolsa Família após as eleições.",
+     "rotulo": "Falso",
+     "explicacao": "Os programas seguem ativos; os posts viralizaram após a vitória de Lula sem base em qualquer ato oficial.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Fato ou Fake",
+       "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/29/e-fake-que-governo-lula-bloqueou-gas-do-povo-e-bolsa-familia-apos-eleicoes-de-2026.ghtml"
+      },
+      {
+       "nome": "Agência Lupa",
+       "url": "https://www.agencialupa.org/jornalismo/2026/10/29/fakes-sobre-fim-de-beneficios-sociais-se-espalham-apos-2o-turno-veja-o-que-e-boato/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Lula vai acabar com o Bolsa Família (vídeo da CNN).",
+     "rotulo": "Falso",
+     "explicacao": "O trecho é de 2025 e tratava de regras de transição do programa, não do fim do benefício, como a própria emissora desmentiu.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Agência Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/10/29/video-da-cnn-de-2025-e-usado-para-alegar-que-lula-vai-acabar-com-o-bolsa-familia/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O governo prevê corte de 670 mil beneficiários do BPC.",
+     "rotulo": "Falso",
+     "explicacao": "Não há previsão oficial de corte desse tamanho; a checagem não encontrou base para o número.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/governo-corte-670-mil-bpc/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A queda da bolsa prova que a eleição foi 'uma vergonha' (Trump).",
+     "rotulo": "Falta contexto",
+     "explicacao": "Analistas atribuem a queda à incerteza sobre o ajuste fiscal do novo mandato e ao exterior (balanço da Alphabet, Fed); a reação do mercado não indica irregularidade no pleito.",
+     "onde_circula": "declaração de Trump; Gazeta do Povo",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Fonteles e o PT falam em ajuste por corte de privilégios, sem atingir programas sociais, e o Tesouro destaca o superávit de setembro.",
+    "oposicao": "Mercado, IFI e oposição cobram plano fiscal e preparam PEC própria; veículos de direita associam a queda da bolsa à vitória de Lula e repercutem Trump citando o mercado."
+   },
+   "visao_de_fora": "Trump citou a reação do mercado como 'prova' de problemas na eleição; o FT destaca a frustração com os balanços das big techs que derrubou as bolsas de Nova York.",
+   "ponto_cego": "Veículos de esquerda publicam o fechamento da bolsa sem contextualizar a IFI e o impasse do ajuste; veículos de direita não registram o superávit de setembro nem a resistência do PT a Fonteles.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "ibovespa-cai-2-68-perde-16-na-semana-fed-mantem-juros-tebet-ajuste-divergencias-raizen-checagens",
+    "titulo": "Ibovespa cai mais 2,68% e acumula perda de 16% na semana; Fed mantém juros e sinaliza alta em dezembro; Tebet defende ajuste 'com muita gordura para cortar' enquanto governo diverge"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Ibovespa cai pelo 4º dia, e queda na semana passa de 17%; dólar sobe e fecha a R$ 5,38",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/29/dolar-ibovespa.ghtml",
+     "angulo": "Quarto dia de queda, perda semanal acima de 17%; dólar a R$ 5,38.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ibovespa recua pela 4ª sessão seguida com extensão da liquidação de ativos",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/29/ibovespa-recua-pela-4a-sessao-seguida-com-extensao-da-liquidacao-de-ativos.ghtml",
+     "angulo": "Liquidação de ativos continua; R$ 840 bilhões a menos em valor de mercado desde segunda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Ibovespa cai pela 4ª sessão e acumula perda de 17,5% desde a eleição; dólar vai a R$ 5,38",
+     "url": "https://exame.com/invest/mercados/ibovespa-cai-pela-4a-sessao-e-acumula-perda-de-175-desde-a-eleicao-dolar-vai-a-r-538/",
+     "angulo": "Perda de 17,5% desde a eleição; NY também no vermelho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Ibovespa cai 1,06% e fecha abaixo de 170 mil pontos",
+     "url": "https://www.brasil247.com/economia/ibovespa-cai-106-e-fecha-abaixo-de-170-mil-pontos/",
+     "angulo": "Registro seco do fechamento; cita cenário externo e juros futuros.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "IFI: Reajuste do Bolsa Família, fim de bets e pacote de MEIs somam R$ 40 bi de desequilíbrio fiscal",
+     "url": "https://www.estadao.com.br/economia/ifi-reajuste-do-bolsa-familia-fim-de-bets-e-pacote-de-meis-somam-r-40-bi-de-desequilibrio-fiscal/",
+     "angulo": "IFI: Bolsa Família, bets e MEIs somam R$ 40 bilhões de desequilíbrio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Órgão do Senado diz que medidas da campanha pioraram contas públicas e exigirão ajuste maior para reequilibrar economia",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/29/orgao-do-senado-diz-que-medidas-da-campanha-pioraram-contas-publicas-e-exigirao-ajuste-maior-para-reequilibrar-economia.ghtml",
+     "angulo": "IFI: medidas da campanha pioraram as contas e exigirão ajuste maior.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Tamanho do ajuste nas contas públicas gera impasse no governo Lula, e equipe discute medidas",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/tamanho-do-ajuste-nas-contas-publicas-gera-impasse-no-governo-lula-e-equipe-discute-medidas.shtml",
+     "angulo": "Impasse no governo sobre o tamanho do ajuste; Lula resiste a 'estelionato eleitoral'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ala do PT contrária ao ajuste fiscal manifesta preocupação com eventual indicação de Fonteles para a Fazenda",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/29/ala-do-pt-contraria-ao-ajuste-fiscal-manifesta-preocupacao-com-eventual-indicacao-de-fonteles-para-a-fazenda.ghtml",
+     "angulo": "Ala do PT teme perfil 'fiscalista' de Fonteles.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Rafael Fonteles: Nunca tratei com Lula ou qualquer outra pessoa sobre cargos",
+     "url": "https://www.infomoney.com.br/politica/rafael-fonteles-nunca-tratei-com-lula-ou-qualquer-outra-pessoa-sobre-cargos/",
+     "angulo": "Fonteles nega ter tratado de cargos com Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Economista-chefe do BTG cobra plano fiscal de Lula para recuperar confiança do mercado",
+     "url": "https://www.gazetadopovo.com.br/economia/economista-chefe-do-btg-cobra-plano-fiscal-de-lula-para-recuperar-confianca-do-mercado/",
+     "angulo": "Mansueto Almeida cobra plano fiscal com apoio político.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula fará equilíbrio fiscal com corte em privilégios, não em programas sociais, diz Rafael Fonteles",
+     "url": "https://www.estadao.com.br/economia/entrevista-rafael-fonteles-lula-fiscal-corte-privilegios/",
+     "angulo": "Fonteles: equilíbrio com corte de privilégios, não em programas sociais.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Oposição quer se adiantar ao governo e mandar PEC própria de equilíbrio fiscal ao Congresso",
+     "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/oposicao-quer-se-adiantar-ao-governo-e-mandar-pec-propria-de-equilibrio-fiscal-ao-congresso.shtml",
+     "angulo": "Oposição prepara PEC própria de equilíbrio fiscal para responder ao mercado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "Vídeo da CNN de 2025 é usado para alegar que Lula vai acabar com o Bolsa Família",
+     "url": "https://www.agencialupa.org/verificacao/2026/10/29/video-da-cnn-de-2025-e-usado-para-alegar-que-lula-vai-acabar-com-o-bolsa-familia/",
+     "angulo": "Checagem: vídeo de 2025 não prova fim do Bolsa Família.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "petrobras-3a-descoberta-poco-morpho-foz-do-amazonas-oleo-leve-perfuracao-concluida-sonda-vai-bacia-potiguar",
+   "editoria": "Energia",
+   "escopo": "brasil",
+   "titulo": "Petrobras anuncia a terceira descoberta de petróleo no mesmo poço na Foz do Amazonas, conclui a perfuração e desloca a sonda para a Bacia Potiguar; óleo leve reforça aposta na Margem Equatorial",
+   "lide": "A Petrobras identificou mais um intervalo portador de óleo no poço Morpho, no bloco FZA-M-59, em lâmina d'água de 2.886 metros na costa do Amapá, a terceira descoberta no local desde agosto, e concluiu a perfuração; a sonda segue para o poço Mãe de Ouro, na Bacia Potiguar. A análise preliminar aponta óleo leve, de grau API entre 35 e 40, e o presidente do Senado, Davi Alcolumbre, do Amapá, celebrou o anúncio.",
+   "contexto": "A exploração da Margem Equatorial é a principal aposta da estatal para repor reservas e foi objeto de disputa com o Ibama pelo licenciamento, concedido em 2025.",
+   "fatos": [
+    {
+     "texto": "A Petrobras anunciou em 29/10 a terceira descoberta de petróleo no poço Morpho, bloco FZA-M-59, em águas ultraprofundas (2.886 m) na costa do Amapá, e informou ter concluído a perfuração; é a terceira descoberta no poço desde agosto.",
+     "base": "comunicado da Petrobras (Agência Brasil, Estadão, Valor, Folha, SBT News)"
+    },
+    {
+     "texto": "A sonda será deslocada para perfurar o poço Mãe de Ouro, na Bacia Potiguar (RN).",
+     "base": "2 fontes independentes (SBT News, Jovem Pan)"
+    },
+    {
+     "texto": "A análise preliminar indica óleo leve, com grau API entre 35 e 40, mais leve que o do pré-sal.",
+     "base": "Revista Fórum (fonte única para o grau API)"
+    },
+    {
+     "texto": "O presidente do Senado, Davi Alcolumbre (União-AP), celebrou a descoberta.",
+     "base": "Agência Senado"
+    },
+    {
+     "texto": "Petrobras, Petrochina e CNOOC arremataram cargas de petróleo da União em leilão da PPSA (4,5 milhões de barris).",
+     "base": "InfoMoney (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "'Nossa persistência técnica permitiu três descobertas no mesmo poço'; a empresa está 'ainda mais otimista' com a região.",
+     "quem": "Petrobras, em comunicado (Agência Brasil, DCM)"
+    },
+    {
+     "texto": "A exploração na Margem Equatorial é uma das apostas da estatal para recompor reservas de petróleo e gás.",
+     "quem": "CartaCapital"
+    },
+    {
+     "texto": "Com três descobertas sucessivas, o litoral do Amapá ganhou destaque nas discussões sobre o futuro da exploração no Brasil.",
+     "quem": "g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Nenhuma matéria dos feeds, de qualquer lado, traz a reação de ambientalistas ou do Ibama à nova descoberta; a cobertura reproduz o comunicado da estatal. Veículos de direita não deram a notícia além de Jovem Pan e SBT News.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Petrobras anuncia 3ª descoberta de petróleo em poço na Foz do Amazonas",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas",
+     "angulo": "Comunicado: terceira descoberta, 2.886 m de lâmina d'água; cita 'persistência técnica'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Petrobras conclui perfuração e confirma 3ª descoberta de petróleo na costa do Amapá",
+     "url": "https://www.estadao.com.br/economia/negocios/petrobras-conclui-perfuracao-e-confirma-3-descoberta-de-petroleo-na-costa-do-amapa/",
+     "angulo": "Explica o 'intervalo portador de petróleo' e a conclusão da perfuração.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Petrobras conclui perfuração com terceira descoberta de petróleo em águas ultraprofundas do Amapá",
+     "url": "https://valor.globo.com/empresas/noticia/2026/10/29/petrobras-conclui-perfurao-com-terceira-descoberta-de-petrleo-em-guas-ultraprofundas-do-amap.ghtml",
+     "angulo": "Terceira descoberta desde agosto; continuidade da avaliação geológica.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Petrobras encontra petróleo pela 3ª vez no mesmo poço na costa do Amapá",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/29/petrobras-conclui-perfuracao-com-mais-uma-descoberta-de-petroleo-em-aguas-ultra-profundas-do-amapa.ghtml",
+     "angulo": "Petróleo pela terceira vez no mesmo poço, em mar muito profundo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Petrobras encontra petróleo mais leve que o pré-sal em nova descoberta na Foz do Amazonas",
+     "url": "https://revistaforum.com.br/economia/petrobras-encontra-petroleo-mais-leve/",
+     "angulo": "Destaca óleo leve (API 35–40), 'mais leve que o pré-sal'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Petrobras confirma nova descoberta de petróleo no Amapá: “Ainda mais otimistas”",
+     "url": "https://www.diariodocentrodomundo.com.br/petrobras-confirma-nova-descoberta-de-petroleo-no-amapa-ainda-mais-otimistas/",
+     "angulo": "Destaca o otimismo da estatal; soma aos achados de agosto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Petrobras faz terceira descoberta de petróleo no Amapá",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/petrobras-faz-terceira-descoberta-de-petroleo-no-amapa",
+     "angulo": "Perfuração concluída; sonda vai ao poço Mãe de Ouro, na Bacia Potiguar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Petrobras anuncia 3ª descoberta de petróleo no Amapá",
+     "url": "https://jovempan.com.br/economia/petrobras-anuncia-3a-descoberta-de-petroleo-no-amapa/",
+     "angulo": "Registra o deslocamento dos esforços para a Bacia Potiguar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Petrobras anuncia terceira descoberta de petróleo na costa do Amapá",
+     "url": "https://www.cartacapital.com.br/economia/petrobras-anuncia-terceira-descoberta-de-petroleo-na-costa-do-amapa/",
+     "angulo": "Aposta da estatal para recompor reservas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Petrobras anuncia terceira descoberta de petróleo em poço na Foz do Amazonas",
+     "url": "https://www.infomoney.com.br/mercados/petrobras-anuncia-terceira-descoberta-de-petroleo-em-poco-na-foz-do-amazonas/",
+     "angulo": "Cobertura voltada ao investidor.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Petrobras anuncia terceira descoberta de petróleo em poço na Foz do Amazonas",
+     "url": "https://veja.abril.com.br/economia/petrobras-anuncia-terceira-descoberta-de-petroleo-em-poco-na-foz-do-amazonas/",
+     "angulo": "Registro factual do bloco e da localização.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Davi celebra terceira descoberta de petróleo em poço no litoral do Amapá",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/10/29/davi-celebra-terceira-descoberta-de-petroleo-em-poco-no-litoral-do-amapa",
+     "angulo": "Alcolumbre celebra; nota oficial do Senado.",
+     "tipo": "fonte_primaria",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Entenda o que é a Margem Equatorial e por que o Amapá está no centro das buscas por petróleo",
+     "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/30/entenda-o-que-e-a-margem-equatorial-e-por-que-o-amapa-esta-no-centro-das-buscas-por-petroleo.ghtml",
+     "angulo": "Explica o que é a Margem Equatorial e por que o Amapá está no centro das buscas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "alcolumbre-admite-indulto-anistia-conter-impeachment-stf-por-reeleicao-direita-rejeita-rui-costa-critica-derrite-rompe-pl-29-senadores",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Alcolumbre admite discutir indulto ou anistia a Bolsonaro e conter o impeachment de ministros do STF em troca da reeleição no Senado; direita rejeita a troca e prioriza redução de penas, Rui Costa critica e Derrite rompe com a federação",
+   "lide": "O presidente do Senado, Davi Alcolumbre, avalia um acordo que envolva conter a pressão por impeachment de ministros do STF e discutir um eventual indulto ou anistia a Jair Bolsonaro para garantir votos à sua recondução em fevereiro de 2027. A oposição deu de ombros e prioriza a redução de penas, o senador eleito Rui Costa questionou a negociação, e Guilherme Derrite anunciou que não votará em Alcolumbre no dia em que a federação União-PP oficializou o apoio; Carlos Bolsonaro declarou apoio a Rogério Marinho, e Alcolumbre e a direita somam 93 votos num Senado de 81.",
+   "contexto": "A partir de fevereiro de 2027 o PL terá 29 senadores, a maior bancada, e o PT, 10. Na Câmara, PT e 14 partidos fecharam com Hugo Motta para isolar o PL.",
+   "fatos": [
+    {
+     "texto": "Alcolumbre avalia negociar acordo que envolva conter a pressão por impeachment de ministros do STF e discutir indulto ou anistia a Bolsonaro em busca da reeleição.",
+     "base": "g1 (Andréia Sadi); Folha e Brasil 247 repercutem a iniciativa"
+    },
+    {
+     "texto": "Rui Costa, ministro da Casa Civil e senador eleito, questionou em 29/10 a articulação que prevê anistia ou indulto a Bolsonaro em troca de apoio a Alcolumbre.",
+     "base": "2 fontes independentes (g1, Brasil 247)"
+    },
+    {
+     "texto": "Guilherme Derrite (PP-SP), senador eleito, anunciou que não votará em Alcolumbre e defendeu candidato único da oposição, no mesmo dia em que a Federação União Progressista oficializou apoio à reeleição.",
+     "base": "2 fontes independentes (Gazeta do Povo, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Carlos Bolsonaro declarou apoio à candidatura de Rogério Marinho à presidência do Senado.",
+     "base": "Diário do Poder (fonte única)"
+    },
+    {
+     "texto": "O PL terá 29 senadores a partir de fevereiro de 2027 e o PT, 10; a eleição da Mesa é em 1º de fevereiro de 2027.",
+     "base": "Agência Senado"
+    },
+    {
+     "texto": "Rogério Marinho afirmou que o PL não pode sustentar que houve fraude na eleição presidencial porque 'não há provas nesse sentido'.",
+     "base": "Conexão Política (fonte única)"
+    },
+    {
+     "texto": "Flávio não informou à presidência do Senado a saída do país, como exige o regimento, e pode perder o mandato por faltas injustificadas.",
+     "base": "Folha (Painel) e Estadão (regras)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A oposição rejeita trocar apoio a Alcolumbre por indulto e prioriza um projeto de redução de penas; alguns senadores veem o gesto como primeiro passo de reaproximação.",
+     "quem": "Senadores de oposição, citados pela Folha"
+    },
+    {
+     "texto": "'A conta não fecha': Alcolumbre diz ter 48 votos e a direita, 45, num Senado de 81 cadeiras; a disputa será decidida por senadores que aparecem nas duas listas.",
+     "quem": "Terra Brasil Notícias"
+    },
+    {
+     "texto": "A carta golpista de Flávio 'desidrata' os planos da oposição de presidir o Senado e enfraquece a candidatura de Marinho.",
+     "quem": "NeoFeed e Jovem Pan"
+    },
+    {
+     "texto": "A vitória de Lula mudou a disputa pelo Senado e deu fôlego a Moraes, acuado pelo caso Vorcaro.",
+     "quem": "Raquel Landim, colunista do Estadão"
+    },
+    {
+     "texto": "O PL vive 'ressaca' e foi escanteado das negociações por espaços na Mesa e pautas na Câmara.",
+     "quem": "Valor"
+    },
+    {
+     "texto": "Senadores de esquerda traçam estratégias para enfrentar a bancada recorde do PL, que terá mais de um terço da Casa.",
+     "quem": "g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Rui Costa e o PT rejeitam anistia ou indulto como moeda de troca e defendem priorizar 'as necessidades da população'.",
+    "oposicao": "A direita quer candidato único (Derrite), prefere redução de penas a indulto e trata a reeleição de Alcolumbre como aliança com o governo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (Brasil 247) cobrem a crítica de Rui Costa mas não a divisão da direita; veículos de direita (Terra Brasil, Diário do Poder) cobrem as contas e Marinho, mas não a proposta de Alcolumbre de conter o impeachment de ministros.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "motta-reforma-eleitoral-distrital-misto-regras-redes-conter-pl-marinho-tereza-frente-alcolumbre-oea",
+    "titulo": "Motta fecha com o Centrão reforma eleitoral com voto distrital misto e regras para redes 'para conter o PL'; Marinho e Tereza Cristina articulam frente contra Alcolumbre, e OEA valida eleição com alerta ao STF"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Alcolumbre articula acordo para conter impeachment de ministros do STF e admite discutir indulto e anistia a Bolsonaro em busca da reeleição",
+     "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/29/alcolumbre-acordo-indulto-bolsonaro.ghtml",
+     "angulo": "Alcolumbre articula acordo para conter impeachment de ministros e admite discutir indulto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Direita rejeita trocar apoio a Alcolumbre por plano de indulto a Bolsonaro e prioriza redução de penas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/direita-rejeita-trocar-apoio-a-alcolumbre-por-plano-de-indulto-a-bolsonaro-e-prioriza-reducao-de-penas.shtml",
+     "angulo": "Oposição dá de ombros ao indulto e prioriza redução de penas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Rui Costa critica articulação por anistia a Bolsonaro no Senado",
+     "url": "https://www.brasil247.com/nordeste/rui-costa-critica-articulacao-por-anistia-a-bolsonaro-no-senado/",
+     "angulo": "Rui Costa critica negociação ligada à reeleição de Alcolumbre.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Derrite contraria PP e rejeita apoio à reeleição de Alcolumbre no Senado",
+     "url": "https://www.gazetadopovo.com.br/republica/derrite-contraria-pp-e-rejeita-apoio-a-reeleicao-de-alcolumbre-no-senado/",
+     "angulo": "Derrite rejeita apoio a Alcolumbre e defende candidato único da oposição.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Derrite anuncia que não votará em Alcolumbre e contraria federação",
+     "url": "https://terrabrasilnoticias.com/2026/10/derrite-anuncia-que-nao-votara-em-alcolumbre-e-contraria-federacao/",
+     "angulo": "Derrite contraria a federação no dia do apoio oficial a Alcolumbre.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "A conta não fecha: Alcolumbre diz ter 48 votos para sua reeleição e a direita afirma ter 45 votos para eleger seu candidato",
+     "url": "https://terrabrasilnoticias.com/2026/10/a-conta-nao-fecha-alcolumbre-diz-ter-48-votos-para-sua-reeleicao-e-a-direita-afirma-ter-45-votos-para-eleger-seu-candidato/",
+     "angulo": "'A conta não fecha': 48 + 45 = 93 votos em 81 cadeiras.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Carlos Bolsonaro declara apoio a Rogério Marinho para presidir o Senado",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/carlos-bolsonaro-declara-apoio-a-rogerio-marinho-para-presidir-o-senado",
+     "angulo": "Carlos Bolsonaro apoia Marinho para presidir o Senado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Vídeo: Conheça a composição do Senado a partir de 2027",
+     "url": "https://www12.senado.leg.br/noticias/videos/2026/10/conheca-a-composicao-do-senado-a-partir-de-2027",
+     "angulo": "Composição do Senado a partir de 2027: PL 29, PT 10.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "O futuro de Moraes na disputa entre Alcolumbre e o PL",
+     "url": "https://www.estadao.com.br/politica/raquel-landim/o-futuro-de-moraes-na-disputa-entre-alcolumbre-e-o-pl/",
+     "angulo": "Coluna: vitória de Lula muda a disputa pelo Senado e dá fôlego a Moraes.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Carta golpista de Flávio Bolsonaro desidrata planos da oposição para presidir Senado",
+     "url": "https://neofeed.com.br/poder/carta-golpista-de-flavio-bolsonaro-desidrata-planos-da-oposicao-para-presidir-senado/",
+     "angulo": "Carta de Flávio desidrata planos da oposição de presidir o Senado.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Derrota de Flávio deixa PL de 'ressaca' e partido é escanteado de negociação por espaços e pautas na Câmara",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/29/derrota-de-flavio-deixa-pl-de-ressaca-e-partido-e-escanteado-de-negociacao-por-espacos-e-pautas-na-camara.ghtml",
+     "angulo": "PL escanteado das negociações por espaços e pautas na Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Senadores de partidos de esquerda traçam estratégias para fazer frente à bancada recorde do PL",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/30/senado-esquerda-bancada-recorde-do-pl.ghtml",
+     "angulo": "Senadores de esquerda traçam estratégias contra bancada recorde do PL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "conexaopolitica",
+     "titulo": "Marinho diz que PL não tem provas para sustentar fraude eleitoral",
+     "url": "https://www.conexaopolitica.com.br/politica/marinho-diz-que-pl-nao-tem-provas-para-sustentar-fraude-eleitoral/",
+     "angulo": "Marinho: PL não tem provas para sustentar fraude.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "binance-ataque-hacker-6-3-bi-maior-da-historia-3-bi-congelados-coreia-do-norte-suspeita-saques-suspensos",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Binance sofre ataque hacker de US$ 6,3 bilhões, o maior da história das criptomoedas; corretora suspende saques, congela cerca de US$ 3 bilhões com Tether e Circle, e analistas atribuem o roubo a grupo da Coreia do Norte",
+   "lide": "A Binance, maior corretora de criptomoedas do mundo, informou que uma violação de segurança iniciada no notebook comprometido de um engenheiro afetou cerca de US$ 6,3 bilhões em ativos, no que analistas consideram o maior roubo cripto já registrado; depósitos e saques foram suspensos e a empresa diz ter recuperado ou congelado cerca de US$ 3 bilhões, com ajuda das emissoras de stablecoins Tether e Circle. Duas empresas de análise de blockchain atribuem o ataque à unidade norte-coreana TraderTraitor, e o bitcoin e outras moedas caíram.",
+   "contexto": "O ataque ocorre no mesmo dia em que a plataforma de mercados preditivos Polymarket foi hackeada, num ano já recordista de roubos no setor. No Brasil, 30/10 é o prazo para corretoras pedirem licença ao Banco Central.",
+   "fatos": [
+    {
+     "texto": "A Binance informou em 29/10 uma violação de segurança com impacto estimado em US$ 6,3 bilhões em ativos, potencialmente o maior roubo de criptomoedas já registrado; o incidente começou com o comprometimento de um notebook de um engenheiro.",
+     "base": "comunicado da Binance (BBC, AFP/France 24, g1, Exame, The Guardian)"
+    },
+    {
+     "texto": "A corretora suspendeu depósitos e saques enquanto investiga; a suspeita de ataque provocou queda acentuada nos preços dos ativos digitais.",
+     "base": "3 fontes independentes (Valor, Axios, Folha)"
+    },
+    {
+     "texto": "A Binance diz ter recuperado ou congelado cerca de US$ 3 bilhões; inicialmente informou US$ 2,54 bilhões congelados, com Tether e Circle bloqueando ativos em coordenação com autoridades.",
+     "base": "4 fontes independentes (AFP/France 24, Exame, Poder360, Folha)"
+    },
+    {
+     "texto": "Duas empresas de análise atribuem o ataque à unidade de hackers norte-coreana TraderTraitor.",
+     "base": "3 fontes independentes (BBC, CNN Brasil, Al Jazeera)"
+    },
+    {
+     "texto": "A Polymarket também foi hackeada em 29/10.",
+     "base": "Exame (fonte única)"
+    },
+    {
+     "texto": "No Brasil, 38 instituições, entre elas Coinbase, Foxbit e Braza, tinham pedidos de licença cripto pendentes no Banco Central na véspera do prazo de 30/10; o Bradesco formalizou atuação como prestador de serviços de ativos virtuais.",
+     "base": "Valor (duas matérias, fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os fundos dos usuários 'estão a salvo' e a empresa cobrirá todas as perdas.",
+     "quem": "Binance, em comunicado (La Nación, CNN Brasil)"
+    },
+    {
+     "texto": "A sequência Binance, Bitget e Polymarket expõe a vulnerabilidade do mercado cripto em 2026, ano recordista de roubos.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "O ataque se soma a uma onda de ciberataques e vazamentos no 'Outubro Negro'.",
+     "quem": "Axios"
+    },
+    {
+     "texto": "Pode ser uma das intrusões mais significativas já registradas.",
+     "quem": "Analistas citados pelo The Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o ataque coincide com o prazo do Banco Central para corretoras pedirem licença: 38 pedidos estavam pendentes e o Bradesco formalizou operação com criptoativos; a cobertura brasileira (g1, Valor, Exame, Folha, CNN Brasil, Poder360) acompanhou os números internacionais.",
+   "ponto_cego": "Nenhum veículo brasileiro de direita ou de esquerda cobriu o caso; a cobertura ficou com veículos de economia e tecnologia e com a imprensa estrangeira.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+     "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Maior hack da história; duas empresas atribuem a unidade norte-coreana TraderTraitor.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Crypto exchange Binance freezes billions in funds amid potential $6.3bn security breach",
+     "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+     "angulo": "Ataque pode ter começado em notebook de engenheiro; uma das intrusões mais significativas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Binance hit by $6.3 billion security breach in potential record crypto heist",
+     "url": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
+     "angulo": "Binance confirma US$ 6,3 bilhões; recuperou ou congelou cerca de US$ 3 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Hackers roubam US$ 6,3 bilhões da Binance no maior ataque da história das criptomoedas",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/30/maior-plataforma-de-criptomoedas-do-mundo-suspende-saques-e-depositos-apos-possivel-ataque-hacker.ghtml",
+     "angulo": "US$ 6,3 bilhões roubados; impacto para investidores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Binance halts trading after biggest-ever crypto hack",
+     "url": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
+     "angulo": "Negociações suspensas; parte do 'Outubro Negro' de ciberataques.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Binance says $6.3bn stolen in biggest crypto heist in history",
+     "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+     "angulo": "Atribuição a hackers patrocinados pela Coreia do Norte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Binance suspende saques após suspeita de ataque hacker provocar onda de vendas de criptomoedas",
+     "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/10/29/suposto-ataque-hacker-de-bilhoes-de-dolares-a-binance-gera-temor-no-mercado-de-criptomoedas.ghtml",
+     "angulo": "Suspensão de saques e depósitos; onda de vendas de criptomoedas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Caso Binance: corretora diz que ataque hacker atingiu US$ 6,3 bilhões",
+     "url": "https://exame.com/future-of-money/caso-binance-corretora-diz-que-ataque-hacker-atingiu-us-63-bilhoes/",
+     "angulo": "Binance confirma US$ 6,3 bilhões e origem no notebook de engenheiro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Caso Binance: corretora diz que US$ 3 bilhões do roubo foram congelados",
+     "url": "https://exame.com/future-of-money/caso-binance-corretora-diz-que-us-3-bilhoes-do-roubo-foram-congelados/",
+     "angulo": "US$ 3 bilhões congelados; US$ 5,8 bilhões desviados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Binance congela US$ 2,54 bi após suspeita de ataque hacker",
+     "url": "https://www.poder360.com.br/poder-economia/binance-congela-us-254-bi-apos-possivel-ataque-hacker/",
+     "angulo": "Congelamento de US$ 2,54 bilhões com Tether e Circle.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Hackers da Coreia do Norte são suspeitos de roubo de US$ 6 bi na Binance",
+     "url": "https://www.cnnbrasil.com.br/economia/hackers-da-coreia-do-norte-sao-suspeitos-de-roubo-de-us-6-bi-na-binance/",
+     "angulo": "Suspeita de hackers norte-coreanos; cerca de US$ 3 bilhões congelados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Binance congela US$ 2,54 bilhões após suspeita de ataque hacker",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/binance-congela-us-254-bilhoes-apos-suspeita-de-ataque-hacker.shtml",
+     "angulo": "Circle e Tether congelam ativos relacionados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Cómo fue el robo por US$6300 millones a Binance que puso patas arriba a todo el mundo cripto",
+     "url": "https://www.lanacion.com.ar/tecnologia/como-fue-el-robo-por-us6300-millones-a-binance-que-puso-patas-arriba-a-todo-el-mundo-cripto-nid29102026/",
+     "angulo": "Como foi o roubo: duas hot wallets atacadas; Tether e Circle agiram para frear transferências.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "israel-resultado-final-netanyahu-53-oposicao-48-arabes-19-likud-27-yashar-21-catar-turquia-negam-interferencia-eisenkot",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Contagem final em Israel confirma impasse: bloco de Netanyahu tem 53 cadeiras, oposição 48 e partidos árabes 19; Likud acusa Catar de interferência, Catar e Turquia chamam a acusação de 'ridícula e perigosa' e Eisenkot fala em tentativa de deslegitimar a eleição",
+   "lide": "A Comissão Eleitoral Central de Israel encerrou a contagem dois dias após a votação: o Likud obteve 27 cadeiras e seu bloco, 53, oito abaixo da maioria de 61; o Yashar, de Gadi Eisenkot, ficou com 21 e o bloco de oposição com 48, e os dois partidos árabes somaram 19, recorde. Netanyahu e o Likud dizem que a eleição foi 'roubada' por partidos árabes com apoio estrangeiro e pedem que partidos judeus não pactuem com eles; Catar e Turquia negaram interferência, a polícia israelense descartou fraude e Eisenkot acusou o premiê de tentar deslegitimar o resultado.",
+   "contexto": "Netanyahu segue no cargo enquanto o presidente Isaac Herzog decide a quem dar a primeira chance de formar governo. Uma coalizão de oposição dependeria de apoio ou abstenção dos partidos árabes Ra'am e Lista Conjunta.",
+   "fatos": [
+    {
+     "texto": "Com a contagem concluída, o bloco de Netanyahu tem 53 das 120 cadeiras (Likud, 27), o bloco de oposição liderado por Gadi Eisenkot tem 48 (Yashar, 21) e os partidos árabes Ra'am e Lista Conjunta somam 19.",
+     "base": "resultados oficiais da Comissão Eleitoral Central (Folha, The New York Times, AFP/France 24, Jovem Pan)"
+    },
+    {
+     "texto": "O Likud afirmou que a eleição foi 'roubada por partidos árabes que apoiam o terrorismo' com apoio estrangeiro, e Netanyahu pediu que partidos judeus não pactuem com os árabes; Catar e Turquia negaram interferência e chamaram as acusações de 'ridículas e perigosas'.",
+     "base": "4 fontes independentes (The Guardian, Euronews, Opera Mundi, Brasil de Fato)"
+    },
+    {
+     "texto": "Gadi Eisenkot acusou Netanyahu de embarcar numa campanha para 'deslegitimar' o resultado.",
+     "base": "3 fontes independentes (Estadão, BBC, Axios)"
+    },
+    {
+     "texto": "A polícia israelense descartou as alegações de fraude e interferência; o comitê eleitoral pediu aos serviços secretos que investiguem as denúncias de interferência estrangeira.",
+     "base": "The Guardian (polícia) e El País (pedido do comitê)"
+    },
+    {
+     "texto": "Manifestantes em Tel Aviv pediram um governo de unidade árabe-judaico; a polícia dispersou bloqueios de trânsito.",
+     "base": "Euronews (fonte única)"
+    },
+    {
+     "texto": "Javier Milei parabenizou Netanyahu pelo resultado ('mais uma vez demonstrou a força de sua liderança'); Netanyahu o chamou de 'verdadeiro amigo do Estado judeu'.",
+     "base": "Clarín (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Netanyahu tenta assustar a oposição para que não coopere com os partidos árabes, após perder 11 cadeiras.",
+     "quem": "Axios"
+    },
+    {
+     "texto": "Netanyahu superou as expectativas ao explorar, de novo, o medo dos eleitores judeus do poder político árabe e de ameaças à segurança.",
+     "quem": "The New York Times (análise)"
+    },
+    {
+     "texto": "O presidente Herzog, conhecido pela prudência, pode empurrar um governo de união, como fez seu pai em 1984.",
+     "quem": "Le Monde"
+    },
+    {
+     "texto": "Colonos israelenses temem que um governo com partidos árabes congele a expansão na Cisjordânia.",
+     "quem": "El País"
+    },
+    {
+     "texto": "A oposição tem um bloco potencial de 67 cadeiras se somar os árabes; há três caminhos possíveis para um novo governo.",
+     "quem": "Fox News"
+    },
+    {
+     "texto": "Netanyahu foi 'derrotado' e perdeu a maioria.",
+     "quem": "Diário do Centro do Mundo (enquadramento)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A eleição foi 'roubada' por partidos árabes com financiamento do Catar.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A polícia israelense descartou fraude e interferência, o Catar e a Turquia negaram, e o comitê eleitoral apenas pediu investigação; nenhuma prova foi apresentada.",
+     "onde_circula": "Likud, Netanyahu, Breitbart",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Milei parabenizou Netanyahu como vencedor; g1, Folha e BBC Brasil publicaram análises sobre as consequências globais das eleições em Israel e nos EUA; veículos brasileiros de esquerda (DCM, Opera Mundi, Brasil de Fato) enquadram como derrota de Netanyahu.",
+   "ponto_cego": "Breitbart e Fox News reproduzem a acusação de 'eleição roubada' sem registrar que a polícia descartou fraude; veículos de esquerda brasileiros decretam a 'derrota' de Netanyahu embora seu bloco lidere e ele siga no cargo.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "israel-90-apurados-netanyahu-53-oposicao-48-arabes-19-likud-acusa-fraude-policia-descarta",
+    "titulo": "Com 90% apurados, Israel segue sem maioria: bloco de Netanyahu tem 53 cadeiras, oposição 48 e partidos árabes 19; Likud acusa árabes de 'roubar' a eleição e polícia descarta fraude"
+   },
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "No Clear Winner in Israel Election, Final Results Show",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+     "angulo": "Resultado final: 53 para o bloco de Netanyahu, 48 para a oposição de Eisenkot.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Netanyahu bloc leads but lacks majority, Israel's official results show",
+     "url": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
+     "angulo": "Resultados oficiais; partidos árabes como 'fiéis da balança'; alegações de interferência complicam formação de governo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Apuração em Israel termina com bloco de Netanyahu à frente, mas futuro governo segue indefinido",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/apuracao-em-israel-termina-com-bloco-de-netanyahu-a-frente-mas-futuro-governo-segue-indefinido.shtml",
+     "angulo": "Likud com 27 cadeiras, Yashar com 21; governo segue indefinido.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Partido de Netanyahu conquista 53 cadeiras, mas fica sem controle do Parlamento de Israel",
+     "url": "https://jovempan.com.br/mundo/partido-de-netanyahu-conquista-53-cadeiras-mas-fica-sem-controle-do-parlamento-de-israel/",
+     "angulo": "Registro dos números: 53, 48 e 19.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Netanyahu accused of smearing Arab voters to hold on to power",
+     "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+     "angulo": "Netanyahu acusado de difamar eleitores árabes para se manter no poder.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Oposição acusa Netanyahu de tentar 'deslegitimar' a eleição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Eisenkot acusa Netanyahu de querer ‘deslegitimar’ as eleições em Israel",
+     "url": "https://www.estadao.com.br/internacional/eisenkot-acusa-netanyahu-de-querer-deslegitimar-as-eleicoes-em-israel-npr/",
+     "angulo": "Eisenkot: Likud embarcou em campanha para deslegitimar os resultados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Netenyahu's Likud party alleges interference and fraud in Israel's election",
+     "url": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
+     "angulo": "Likud alega interferência; Catar nega e chama acusação de 'ridícula e perigosa'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Catar e Turquia negam interferência nas eleições israelenses: ‘acusações perigosas’",
+     "url": "https://operamundi.uol.com.br/israel/catar-e-turquia-negam-interferencia-nas-eleicoes-israelenses-acusacoes-perigosas/",
+     "angulo": "Catar e Turquia negam; centro turco de combate à desinformação se manifesta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Benjamin Netanyahu's Party Says Israeli Election Was ‘Stolen by Arab Parties’",
+     "url": "https://www.breitbart.com/middle-east/2026/10/29/benjamin-netanyahus-party-says-israeli-election-was-stolen-by-arab-parties/",
+     "angulo": "Reproduz o Likud: eleição 'roubada por partidos árabes que apoiam o terrorismo'; sem contraponto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Netanyahu falls short of majority as Israel faces three possible paths to a new government",
+     "url": "https://www.foxnews.com/world/netanyahu-bloc-falls-short-arab-vote-surges-qatar-election-interference-allegations-emerge",
+     "angulo": "Três caminhos possíveis; oposição teria bloco potencial de 67.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Netanyahu é derrotado em Israel e perde maioria no Parlamento",
+     "url": "https://www.diariodocentrodomundo.com.br/netanyahu-e-derrotado-em-israel-e-perde-maioria-no-parlamento/",
+     "angulo": "Enquadra como derrota de Netanyahu; nota que o impasse o mantém no poder.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Netanyahu trata de desacreditar el resultado electoral",
+     "url": "https://elpais.com/internacional/2026-10-29/el-comite-electoral-de-israel-pide-a-los-servicios-secretos-investigar-graves-alegaciones-de-injerencia-extranjera.html",
+     "angulo": "Comitê eleitoral pede aos serviços secretos investigar interferência; oposição vê estratagema.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "midterms-4-dias-trump-cancela-comicios-tele-rallies-alasca-dois-dan-sullivan-governador-investiga-peltola-certificacao-43-mi-votos",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "A quatro dias das midterms, Trump cancela comícios e migra para 'tele-rallies' em 20 estados; no Alasca, governador abre investigação sobre a campanha democrata que recrutou um homônimo do senador Dan Sullivan e ameaça não certificar o resultado, e votos antecipados passam de 43 milhões",
+   "lide": "O Comitê Nacional Republicano cancelou os comícios de Trump no Kansas e em Iowa no fim de semana e anunciou que o presidente fará 'um grande número de tele-rallies' em cerca de 20 estados. No Alasca, após o New York Times revelar que assessores da candidata democrata Mary Peltola ajudaram a recrutar um segundo 'Dan Sullivan' para confundir eleitores, Trump pediu que ela seja processada, o governador republicano Mike Dunleavy ordenou investigação e sugeriu reter a certificação se ela vencer, e o governo renovou a ação para bloquear os resultados do estado. Mais de 43 milhões de americanos já votaram antecipadamente, e um juiz federal bloqueou regra do Medicaid que exigia prova de incapacidade de doentes.",
+   "contexto": "A votação de 3/11 renova a Câmara, um terço do Senado e 26 governos estaduais. Na véspera, um juiz rejeitou pedido do governo para separar 20 mil votos na Califórnia e a Justiça vetou FBI e ICE nas urnas.",
+   "fatos": [
+    {
+     "texto": "O Comitê Nacional Republicano anunciou em 29/10 o cancelamento dos comícios de Trump no Kansas e em Iowa; o presidente participará de 'tele-rallies' em cerca de 20 estados no fim de semana.",
+     "base": "3 fontes independentes (Bloomberg, Al Jazeera, Le Monde)"
+    },
+    {
+     "texto": "O New York Times reportou em 28/10 que assessores de Mary Peltola ajudaram a recrutar um candidato homônimo do senador republicano Dan Sullivan para a cédula do Alasca.",
+     "base": "reportagem do NYT, repercutida por BBC, Axios, Le Monde e El País"
+    },
+    {
+     "texto": "O governador do Alasca, Mike Dunleavy (R), ordenou investigação sobre a campanha de Peltola e sugeriu que o estado poderia reter a certificação do resultado do Senado se ela vencer.",
+     "base": "3 fontes independentes (BBC, Axios, Breitbart)"
+    },
+    {
+     "texto": "Trump chamou o recrutamento de 'ato criminoso' e 'fraude eleitoral', pediu que Peltola seja processada, e o governo atualizou a ação judicial para bloquear os resultados do Alasca citando a reportagem.",
+     "base": "3 fontes independentes (The Guardian, Al Jazeera, Breitbart)"
+    },
+    {
+     "texto": "Mais de 43 milhões de votos antecipados já foram depositados, com forte participação de eleitores hispânicos.",
+     "base": "BBC (fonte única); Bloomberg registra 'surto' de votação antecipada"
+    },
+    {
+     "texto": "Um juiz federal distrital bloqueou regra do governo Trump para o Medicaid que obrigava doentes a comprovar incapacidade, em ação de 25 estados e do Distrito de Columbia.",
+     "base": "Al Jazeera (fonte única)"
+    },
+    {
+     "texto": "Um juiz federal recusou-se a obrigar a Califórnia a separar votos por correio de mais de 20 mil pessoas que o Departamento de Justiça diz serem não cidadãs.",
+     "base": "Breitbart (decisão já noticiada na edição de 29/10)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Recrutar um candidato de terceiro partido que tira votos do adversário 'é parte do processo' no voto ranqueado do Alasca.",
+     "quem": "Deputado Suhas Subramanyam (D-VA), em Breitbart"
+    },
+    {
+     "texto": "As manobras democratas no Alasca dão munição a Trump para não acatar os resultados.",
+     "quem": "El País (análise)"
+    },
+    {
+     "texto": "O acúmulo de ações e disputas sobre cédulas levanta temor sobre a confiança na eleição antes mesmo do fim da votação.",
+     "quem": "Axios"
+    },
+    {
+     "texto": "Pesquisa CNN coloca democratas bem à frente nas disputas ao Senado no Texas e em Michigan, e disputas apertadas no Kansas e no Maine; James Talarico lidera no Texas.",
+     "quem": "CNN, citada pelo The Guardian; Gazeta do Povo sobre Talarico"
+    },
+    {
+     "texto": "O 'voto da mudança' que levou Trump ao poder pode agora puni-lo; o presidente encerra a campanha com mensagens 'surreais' enquanto eleitores querem preços menores.",
+     "quem": "Euronews e Financial Times (análises)"
+    },
+    {
+     "texto": "Cortes em programas sociais alimentam a rejeição a Trump e podem influenciar a eleição.",
+     "quem": "g1 (reportagem no Arizona)"
+    },
+    {
+     "texto": "A fuga de Flávio Bolsonaro para os EUA virou munição contra Trump nas midterms.",
+     "quem": "Opera Mundi"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Recrutar um homônimo para a cédula é fraude eleitoral e crime (Trump).",
+     "rotulo": "Em apuração",
+     "explicacao": "O governador ordenou investigação e o governo acionou a Justiça, mas não há acusação formal; democratas afirmam que a tática é legal no sistema de voto ranqueado do Alasca.",
+     "onde_circula": "declarações de Trump, Breitbart, Fox News",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A fuga de Flávio para os EUA e o acolhimento por Trump viraram tema da campanha democrata, segundo Opera Mundi; g1 relaciona cortes sociais à rejeição a Trump; Estadão cobre o temor de eleitores de Ohio com a bolha de IA.",
+   "ponto_cego": "Breitbart e New York Post publicaram sete matérias sobre o Alasca e nenhuma sobre o cancelamento dos comícios; veículos de esquerda brasileiros não tocaram no caso do Alasca.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "midterms-5-dias-juiz-rejeita-trump-20-mil-votos-california-fbi-ice-alasca-dan-sullivan-obama",
+    "titulo": "A cinco dias das midterms, juiz rejeita pedido de Trump para barrar 20 mil votos na Califórnia e Justiça veta FBI e ICE nas urnas; Trump acusa democratas de 'fraude' por candidato homônimo no Alasca"
+   },
+   "materias": [
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Cancels Rallies, Switches to Remote Midterm Campaigning",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/trump-cancels-rallies-switches-to-remote-midterm-campaigning",
+     "angulo": "RNC cancela comícios no Kansas e Iowa; Trump fará 'tele-rallies'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
+     "url": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+     "angulo": "Transmissões em cerca de 20 estados substituem os comícios finais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "EN DIRECT, midterms 2026 : après l’annulation de ses meetings au Kansas et dans l’Iowa, Donald Trump participera à des « meetings virtuels » dans « près de 20 Etats »",
+     "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-apres-l-annulation-de-ses-meetings-au-kansas-et-dans-l-iowa-donald-trump-participera-a-des-meetings-virtuels-dans-pres-de-20-etats_6801590_3210.html",
+     "angulo": "Ao vivo: comícios virtuais em 'quase 20 estados' a cinco dias da eleição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+     "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+     "angulo": "Governador do Alasca ordena investigação sobre ligação da campanha democrata com homônimo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Alaska governor casts doubt on certifying election if Peltola wins",
+     "url": "https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification",
+     "angulo": "Dunleavy sugere reter certificação se Peltola vencer.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump administration renews bid to block Alaska election results",
+     "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+     "angulo": "Governo renova ação para bloquear resultados do Alasca citando a reportagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump Says Peltola Should Be Prosecuted over Dem Scheme to Recruit 2nd Dan Sullivan into Alaska Senate Race",
+     "url": "https://www.breitbart.com/politics/2026/10/29/trump-says-peltola-should-be-prosecuted-over-dem-scheme-to-recruit-2nd-dan-sullivan-into-alaska-senate-race/",
+     "angulo": "Trump: esquema é 'ato criminoso' e Peltola deve ser processada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Las maniobras demócratas en Alaska dan munición a Trump para no acatar el resultado de las elecciones",
+     "url": "https://elpais.com/us/2026-10-29/las-maniobras-democratas-en-alaska-dan-municion-a-trump-para-no-acatar-el-resultado-de-las-elecciones.html",
+     "angulo": "Manobras democratas dão munição a Trump para não acatar o resultado.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "More than 43 million ballots cast so far in midterms early voting surge",
+     "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
+     "angulo": "Mais de 43 milhões de votos antecipados; eleitores hispânicos puxam a alta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "The change vote turns: Why America's midterms could punish the party that promised it",
+     "url": "https://www.euronews.com/2026/10/30/the-change-vote-turns-why-americas-midterms-could-punish-the-party-that-promised-it",
+     "angulo": "O voto da mudança pode punir o partido que a prometeu.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
+     "url": "https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1",
+     "angulo": "'Pilha de músculos': Trump encerra campanha com mensagens surreais enquanto eleitores querem preços menores.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Cortes em programas sociais alimentam rejeição a Trump e podem influenciar eleições nos EUA",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/30/cortes-em-programas-sociais-alimentam-rejeicao-a-trump-e-podem-influenciar-eleicoes-nos-eua.ghtml",
+     "angulo": "Cortes sociais alimentam rejeição a Trump; reportagem no Arizona.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Fuga de Flávio Bolsonaro aos EUA vira munição contra Trump nas eleições de meio de mandato",
+     "url": "https://operamundi.uol.com.br/estados-unidos/fuga-de-flavio-bolsonaro-aos-eua-vira-municao-contra-trump-nas-eleicoes-de-meio-de-mandato/",
+     "angulo": "Fuga de Flávio vira munição contra Trump nas midterms.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "id": "espanha-trens-69-mortos-audios-vazados-liberacao-com-trem-parado-luto-rei-visita-acidente-vira-tema-eleitoral-brasileira-ferida",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Mortos na colisão de trens perto de Toledo sobem para 69 e áudios vazados indicam que um trem foi liberado a velocidade normal com outro parado à frente; Espanha decreta luto, o rei visita feridos, uma brasileira está entre eles e o acidente entra na campanha a um mês da eleição",
+   "lide": "O balanço da colisão entre dois trens de alta velocidade em Urda, província de Toledo, subiu para 69 mortos e 110 feridos, 57 deles hospitalizados; gravações entre o centro de controle e os maquinistas, divulgadas pela BBC, indicam que um trem recebeu autorização para seguir em velocidade normal apesar de outro ter parado na via, e o governo fala em 'cadeia de erros'. A Espanha começou três dias de luto, o rei Felipe VI e a rainha Letizia visitaram feridos em Toledo, o Itamaraty confirmou uma brasileira entre os feridos, e o desastre, o segundo em nove meses, virou tema da campanha para as eleições gerais de novembro.",
+   "contexto": "É o pior acidente ferroviário espanhol desde 2013 e o segundo com trens de alta velocidade em menos de um ano. Pedro Sánchez tenta a reeleição no pleito antecipado de novembro.",
+   "fatos": [
+    {
+     "texto": "O número de mortos subiu para 69 em 29/10, com 110 feridos e 57 hospitalizados, 15 em UTI; BBC Brasil, na madrugada de 30/10, fala em ao menos 74 mortos.",
+     "base": "4 fontes independentes (g1, Folha, Estadão, Euronews); AFP para a UTI; BBC Brasil para 74"
+    },
+    {
+     "texto": "Áudios vazados entre o centro de controle e os maquinistas indicam que um trem foi liberado para seguir em velocidade normal apesar de outro ter parado na via; o governo espanhol diz que as instruções do operador foram uma 'cadeia de erros'.",
+     "base": "BBC (áudios) e DW Brasil (governo)"
+    },
+    {
+     "texto": "A Espanha decretou três dias de luto; o rei Felipe VI e a rainha Letizia visitaram feridos no Hospital Universitário de Toledo, e houve um minuto de silêncio no local.",
+     "base": "4 fontes independentes (The Guardian, AFP/France 24, Le Monde, Euronews)"
+    },
+    {
+     "texto": "O Itamaraty confirmou uma brasileira entre os feridos.",
+     "base": "3 fontes independentes (Estadão, g1, SBT News)"
+    },
+    {
+     "texto": "A Guarda Civil coleta amostras de DNA de familiares para identificar vítimas; equipes usam drones, guindastes e cães.",
+     "base": "3 fontes independentes (Le Figaro, The Guardian, g1)"
+    },
+    {
+     "texto": "Moradores de Urda, vilarejo de cerca de 2.500 habitantes, se mobilizaram para ajudar as vítimas.",
+     "base": "BBC Brasil (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "É 'um absurdo' atribuir o desastre a um erro humano isolado; acidentes assim 'nunca deveriam' acontecer.",
+     "quem": "Francisco Badea, engenheiro ferroviário (France 24)"
+    },
+    {
+     "texto": "A Espanha gasta menos em manutenção da rede ferroviária que outros países europeus, segundo dados da Comissão Europeia; especialistas pedem mais investimento.",
+     "quem": "Le Figaro"
+    },
+    {
+     "texto": "O país se pergunta se seu sistema ferroviário, antes exaltado, está velho e propenso a erro humano.",
+     "quem": "The New York Times"
+    },
+    {
+     "texto": "Sánchez, que esperava explorar o descontentamento com a direita, agora precisa defender o histórico de segurança do governo; as linhas da campanha foram redesenhadas.",
+     "quem": "The Guardian e Estadão"
+    },
+    {
+     "texto": "Sobreviventes dos piores acidentes ferroviários do país pedem investimento em segurança ao ver 'a história se repetir'.",
+     "quem": "Al Jazeera"
+    },
+    {
+     "texto": "A sucessão de acidentes reforça a ansiedade dos viajantes, que buscam avião e ônibus, e provoca crise no setor.",
+     "quem": "Le Figaro"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O acidente foi causado por erro humano isolado do operador.",
+     "rotulo": "Em apuração",
+     "explicacao": "O governo fala em 'cadeia de erros' nas instruções do centro de controle, especialistas contestam a tese do erro individual e apontam manutenção e sistemas de segurança; a investigação oficial está em curso.",
+     "onde_circula": "declarações do governo espanhol, imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Uma brasileira está entre os feridos e o Itamaraty acompanha o caso; a cobertura brasileira (g1, Folha, Estadão, SBT News, CNN Brasil) concentrou-se no balanço e na vítima brasileira.",
+   "ponto_cego": "Veículos brasileiros de direita e de esquerda não cobriram o acidente; a discussão sobre manutenção e a dimensão eleitoral aparece só na imprensa estrangeira (Guardian, Figaro, NYT, Al Jazeera) e no Estadão.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "espanha-colisao-trens-alta-velocidade-toledo-68-mortos-ordem-errada-luto-segundo-acidente",
+    "titulo": "Colisão entre trens de alta velocidade perto de Toledo mata 68 e fere mais de 100; ministro fala em ordem 'inexplicável' para retomar circulação, e Espanha decreta três dias de luto no segundo desastre em um ano"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Colisão de trens na Espanha: sobe para 69 número de mortos; buscas continuam com drones, guindaste e cães farejadores",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/29/tragedia-espanha-colisao-trens-sobe-numero-de-mortos-equipes-buscam-sobreviventes.ghtml",
+     "angulo": "Mortos sobem para 69; buscas com drones, guindaste e cães.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Mortes em colisão de trens na Espanha sobem para 69; brasileira fica ferida",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/mortes-em-colisao-de-trens-na-espanha-sobem-para-69-equipes-buscam-vitimas.shtml",
+     "angulo": "69 mortos, 57 hospitalizados; segundo choque fatal com trens de alta velocidade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Brasileira está entre feridos em colisão envolvendo trens de alta velocidade na Espanha",
+     "url": "https://www.estadao.com.br/internacional/brasileira-feridos-colisao-trens-alta-velocidade-espanha-npr/",
+     "angulo": "Itamaraty confirma brasileira entre os feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+     "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Áudios vazados: trem liberado a velocidade normal apesar de outro parado à frente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "A \"série de erros\" que causou o acidente de trens na Espanha",
+     "url": "https://www.dw.com/pt-br/a-série-de-erros-que-causou-o-acidente-de-trens-na-espanha/a-79795059?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Governo descreve 'cadeia de erros' nas instruções do centro de controle.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Spain begins mourning period as search continues for train crash victims",
+     "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+     "angulo": "Três dias de luto; buscas e coleta de DNA de familiares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
+     "url": "https://www.france24.com/en/an-absurdity-to-blame-human-error-spain-s-deadly-train-crash-should-never-have-happened",
+     "angulo": "Engenheiro: 'absurdo' culpar erro humano isolado.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "«Nous pourrions et devrions faire plus» : en Espagne, les experts appellent à investir davantage dans l’entretien des lignes à grande vitesse",
+     "url": "https://www.lefigaro.fr/international/nous-pourrions-et-devrions-faire-plus-en-espagne-les-experts-appellent-a-investir-davantage-dans-l-entretien-des-lignes-a-grande-vitesse-20261029",
+     "angulo": "Espanha gasta menos em manutenção ferroviária que vizinhos europeus.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
+     "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+     "angulo": "Sistema ferroviário velho e propenso a erro humano? Espanha se questiona.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Acidente de trens na Espanha se converte em tema da campanha eleitoral a um mês da eleição",
+     "url": "https://www.estadao.com.br/internacional/acidente-de-trens-na-espanha-se-converte-em-tema-da-campanha-eleitoral-a-um-mes-da-eleicao-npr/",
+     "angulo": "Acidente vira tema da campanha a um mês da eleição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-29"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Battle lines redrawn in Spain’s snap election after latest train disaster",
+     "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
+     "angulo": "Linhas da campanha redesenhadas; Sánchez defende histórico de segurança.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Survivors of Spain’s worst train crashes urge action after latest disaster",
+     "url": "https://www.aljazeera.com/news/2026/10/30/survivors-of-spains-worst-train-crashes-urge-action-after-latest-disaster?traffic_source=rss",
+     "angulo": "Sobreviventes de acidentes anteriores pedem ação e investimento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "'Não há palavras pra descrever a dor': a mobilização de um vilarejo para ajudar vítimas de acidente de trem na Espanha",
+     "url": "https://www.bbc.com/portuguese/articles/cmdxwpr40zjzo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Mobilização do vilarejo de Urda; fala em ao menos 74 mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    }
+   ]
+  }
+ ]
+}
