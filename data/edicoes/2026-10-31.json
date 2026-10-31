@@ -1,0 +1,2334 @@
+{
+ "tipo": "edicao",
+ "data": "2026-10-31",
+ "gerado_em": "2026-10-31T06:05:05-03:00",
+ "historias": [
+  {
+   "id": "flavio-live-miami-fugiu-sem-avisar-perseguicao-moraes-candidato-antes-de-2030-lanca-marinho-3-em-4-eleitos-pl-nao-endossam-michelle-uniao",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Em primeira live de Miami, Flávio diz que fugiu sem avisar aliados, fala em 'perseguição' de Moraes, aposta que 'o Brasil vai quebrar' e que pode disputar a Presidência 'antes de 2030'; lança Marinho ao Senado, enquanto três em cada quatro eleitos do PL ignoram sua carta e Michelle pede 'união'",
+   "lide": "Dois dias após a carta em que se declarou 'presidente eleito', Flávio Bolsonaro fez sua primeira transmissão ao vivo dos Estados Unidos: disse que decidiu sair após conversar com a mulher e um alerta do pai, que não avisou aliados 'para não dar errado', que a fuga 'não é sinal de fraqueza', que vai reagir juridicamente à 'perseguição' de Alexandre de Moraes e que, com o desgaste econômico de Lula, pode haver 'novas eleições' antes de 2030; voltou a insinuar fraude, sem provas, e pediu mobilização para eleger Rogério Marinho presidente do Senado. Levantamento do Globo mostra que três em cada quatro dos 155 eleitos do PL não endossaram a carta, e Michelle Bolsonaro, falando em nome do marido, pediu união e defendeu Tarcísio, Nikolas e Damares das críticas de bolsonaristas.",
+   "contexto": "Flávio deixou o Brasil em 27/10 descumprindo ordem de Moraes de entregar os passaportes e divulgou de Miami uma carta com ao menos quatro versões. Em 29/10, Valdemar Costa Neto disse que 'ninguém aprovou' o texto.",
+   "fatos": [
+    {
+     "texto": "Em live no Instagram na noite de 30/10, Flávio afirmou que ninguém além da mulher sabia da saída, que não avisou aliados 'para não dar errado', que recebeu um alerta do pai no último encontro, que a fuga 'não é sinal de fraqueza' e que saiu 'pelo Brasil'.",
+     "base": "5 fontes independentes (CNN Brasil, Poder360, La Nación, O Globo, Jovem Pan)"
+    },
+    {
+     "texto": "Flávio disse que espera concorrer à Presidência 'antes de 2030', apostando que 'o Brasil vai quebrar' com a economia do governo Lula, e defendeu a indicação de Rogério Marinho ao comando do Senado, pedindo que aliados pressionem parlamentares.",
+     "base": "6 fontes independentes (Estadão, Folha, SBT News, Brasil 247, Gazeta do Povo, Revista Oeste)"
+    },
+    {
+     "texto": "O senador voltou a questionar o resultado sem apresentar provas, falando em 'gol de mão' e situações 'matematicamente impossíveis', atacou Moraes e anunciou 'reação jurídica'; o TSE registra vantagem de 4,43 milhões de votos de Lula e o PL admite não ter provas de fraude.",
+     "base": "4 fontes independentes (Folha, Valor, CartaCapital, Poder360)"
+    },
+    {
+     "texto": "Três em cada quatro dos 155 políticos eleitos pelo PL em 2026 para o Congresso e governos estaduais não endossaram a carta golpista, segundo levantamento do Globo.",
+     "base": "O Globo (levantamento próprio, fonte única)"
+    },
+    {
+     "texto": "Michelle Bolsonaro, senadora eleita, publicou em 30/10 mensagem em nome de Jair Bolsonaro dizendo que o ex-presidente pede união e 'não busca culpados', chamou-o de 'nosso líder' e defendeu Tarcísio, Damares, Nikolas Ferreira e Silas Malafaia das críticas pela derrota.",
+     "base": "6 fontes independentes (g1, Estadão, Gazeta do Povo, Poder360, A Tarde, SBT News)"
+    },
+    {
+     "texto": "O governador reeleito de Santa Catarina, Jorginho Mello (PL), se distanciou do discurso de Flávio e disse respeitar o resultado das urnas.",
+     "base": "2 fontes independentes (CNN Brasil, Terra)"
+    },
+    {
+     "texto": "Nikolas Ferreira evitou criticar a carta e usa as redes para defender boicote a estabelecimentos supostamente ligados à esquerda; o ministro do Trabalho, Luiz Marinho, pediu ao MP providências contra o deputado.",
+     "base": "Folha (Nikolas) e DCM (ministro)"
+    },
+    {
+     "texto": "O governo de São Paulo exonerou em 28/10 Silvana Gimenes, coordenadora da Secretaria dos Direitos da Pessoa com Deficiência, quatro dias após ela criticar Flávio.",
+     "base": "A Tarde (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Flávio perde capital político e abre espaço na direita: governadores, dirigentes e senadores disputam o comando da oposição, e a fuga enfraquece os herdeiros sem eliminar a força do movimento.",
+     "quem": "Poder360, DW Brasil e Agência Pública (análises)"
+    },
+    {
+     "texto": "Nos EUA, Flávio poderá denunciar 'abusos' no Brasil com mais liberdade, mas sua capacidade de orientar a oposição fica limitada; o papel envolve ganhos, riscos e limites.",
+     "quem": "Analistas ouvidos pela Gazeta do Povo"
+    },
+    {
+     "texto": "A tentativa de liderar a oposição à distância foi recebida com deboche pela imprensa brasileira ('amadores') e internacional.",
+     "quem": "The Guardian"
+    },
+    {
+     "texto": "Com baixo interesse do governo em cassação, Flávio deve concluir o mandato de senador, embora se aproxime do limite de faltas e possa sofrer desconto salarial e representação por decoro.",
+     "quem": "Valor, JOTA e Folha"
+    },
+    {
+     "texto": "Jair Bolsonaro voltou a ter crises de soluço e taquicardia após a derrota e a fuga do filho.",
+     "quem": "Revista Fórum"
+    },
+    {
+     "texto": "A direita precisa, ou não, abandonar o bolsonarismo para voltar ao poder: Jair e Flávio somaram 175,8 milhões de votos em três segundos turnos.",
+     "quem": "Debate de opinião na Folha (duas colunas)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Houve 'gol de mão' e evolução de votos 'matematicamente impossível' na eleição (Flávio e Jason Miller).",
+     "rotulo": "Sem evidência",
+     "explicacao": "Nem o senador nem o assessor de Trump apresentaram dados; o TSE registra 4,43 milhões de votos de diferença, o PL admite não ter provas e checagens derrubaram os vídeos e 'relatórios' que circulam.",
+     "onde_circula": "live de Flávio; X (Jason Miller); Terra Brasil Notícias",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/relatorio-fraude-eleitoral-distorce-dados-omite-fatos/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Vídeo mostra militares dos EUA rindo durante o 'resgate' de Flávio Bolsonaro.",
+     "rotulo": "Falso",
+     "explicacao": "A gravação é dos bastidores da série de TV Seal Team, com atores americanos.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Agência Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/10/30/video-de-militares-dos-eua-gargalhando-nao-mostra-resgate-de-flavio-bolsonaro/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Trump declarou estar ciente de que tentaram prender Flávio Bolsonaro.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A fala é anterior à fuga e não se referia a este episódio.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/donald-trump-prisao-flavio-bolsonaro/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo e PT tratam a live como 'discurso golpista' e aposta na quebra do país; ministra Luciana Santos chama a autoproclamação de 'ridícula e inócua'; Planalto evita gastar energia com cassação.",
+    "oposicao": "Veículos de direita apresentam Flávio como líder da oposição 'a partir dos EUA após ordem do STF' e destacam a previsão de crise econômica; PL e família Bolsonaro, via Michelle, pedem união e evitam a tese de fraude."
+   },
+   "visao_de_fora": "The Guardian: a alegação de 'presidente eleito' durou 58 minutos e foi recebida com deboche ('amadores'); Le Monde registra que Flávio segue 'gritando fraude' sem provas e é desaprovado no próprio campo; La Nación destaca a 'advertência do pai'; AFP: o senador não deu detalhes de como saiu do país.",
+   "ponto_cego": "Veículos de direita (Gazeta do Povo, Oeste, Terra Brasil) não noticiaram o levantamento do Globo sobre os eleitos do PL nem o distanciamento de Jorginho Mello; veículos de esquerda (247, DCM, Fórum) não registram a mensagem de Michelle pedindo união.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "valdemar-ninguem-aprovou-carta-flavio-aliados-culpam-ia-asilo-eua-pt-pede-inelegibilidade-tarcisio-2030",
+    "titulo": "Valdemar diz que 'ninguém aprovou' a carta de Flávio e que Bolsonaro não sabia da saída; aliados culpam o ChatGPT pelas versões do texto, o senador prepara pedido de asilo nos EUA e o PT pede sua inelegibilidade por oito anos"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Após fuga, Flávio lança Marinho ao comando do Senado e quer concorrer ao Planalto ‘antes de 2030′",
+     "url": "https://www.estadao.com.br/politica/apos-fuga-flavio-lanca-marinho-ao-comando-do-senado-e-quer-concorrer-ao-planalto-antes-de-2030/",
+     "angulo": "Flávio lança Marinho ao Senado e quer concorrer 'antes de 2030'; aposta que 'o Brasil vai quebrar'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio diz que fuga não é fraqueza, insinua fraude sem provas e fala em 'novas eleições' antes de 2030",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-fuga-nao-e-fraqueza-e-fala-em-novas-eleicoes-antes-de-2030.shtml",
+     "angulo": "Fuga 'não é fraqueza'; insinua fraude sem provas; fala em 'novas eleições'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Flávio reforça discurso golpista ao dizer que será candidato à Presidência antes de 2030 e apoia Marinho para o Senado",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/30/flavio-reforca-discurso-golpista-ao-dizer-que-sera-candidato-a-presidencia-antes-de-2030-e-apoia-marinho-para-o-senado.ghtml",
+     "angulo": "Enquadra a live como reforço do 'discurso golpista'; acusa fraude sem provas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dos EUA, Flávio prevê crise econômica de Lula e fala em possível eleição antes de 2030",
+     "url": "https://www.gazetadopovo.com.br/republica/dos-eua-flavio-preve-crise-economica-de-lula-e-fala-em-possivel-eleicao-antes-de-2030/",
+     "angulo": "Destaca a previsão de crise econômica e a possibilidade de eleição antes de 2030.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Flávio Bolsonaro lidera oposição a partir dos Estados Unidos após ordem do STF",
+     "url": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-lidera-oposicao-a-partir-dos-estados-unidos-apos-ordem-do-stf/",
+     "angulo": "Flávio 'lidera a oposição' dos EUA 'após ordem do STF'; ganhos, riscos e limites.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Flávio fala em disputar a Presidência antes de 2030",
+     "url": "https://revistaoeste.com/politica/flavio-fala-em-disputar-a-presidencia-antes-de-2030/",
+     "angulo": "'Qualquer coisa que aconteça, vou estar aqui': registro simpático da live.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-1o-video-de-flavio-bolsonaro-nos-eua/",
+     "angulo": "Vídeo da live: saída do Brasil, questionamento da eleição, nova candidatura.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ninguém é responsável pela minha saída do Brasil, diz Flávio",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/ninguem-e-responsavel-pela-minha-saida-do-brasil-diz-flavio/",
+     "angulo": "Só a mulher sabia dos planos; 'ninguém é responsável pela minha saída'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Três em cada quatro eleitos do PL não endossam texto golpista e ampliam isolamento de Flávio após fuga para os EUA",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/tres-em-cada-quatro-eleitos-do-pl-nao-endossam-texto-golpista-e-ampliam-isolamento-de-flavio-apos-fuga-para-os-eua.ghtml",
+     "angulo": "Levantamento: 3 em 4 eleitos do PL ignoraram a carta golpista.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "“Gol de mão”: sem provas, Flávio Bolsonaro insiste na tese de fraude eleitoral",
+     "url": "https://www.diariodocentrodomundo.com.br/gol-de-mao-sem-provas-flavio-bolsonaro-insiste-na-tese-de-fraude-eleitoral/",
+     "angulo": "'Gol de mão': insiste na fraude sem provas; TSE registra 4,43 milhões de diferença.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Flávio Bolsonaro diz que fuga para os EUA ‘não é sinal de fraqueza’ e fala em nova eleição presidencial antes de 2030",
+     "url": "https://www.brasil247.com/brasil/flavio-bolsonaro-diz-que-fuga-para-os-eua-nao-e-sinal-de-fraqueza-e-fala-em-nova-eleicao-presidencial-antes-de-2030/",
+     "angulo": "Fuga 'não é fraqueza'; insinua fraude sem provas e admite nova candidatura.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Após críticas de aliados, Michelle diz que Bolsonaro pediu para direita se unir e não buscar culpados",
+     "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-criticas-michelle-bolsonaro-faz-agradecimento-a-politicos-que-atuaram-na-campanha-de-flavio.ghtml",
+     "angulo": "Michelle: Bolsonaro pediu união e orientou a não buscar culpados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+     "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+     "angulo": "'Amateur morons': alegação de presidente eleito durou 58 minutos e virou deboche.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "itamaraty-convoca-diplomata-argentina-milei-nega-vieira-rubio-acertam-reuniao-g20-25-democratas-cobram-rubio-107-paises-reconhecem-lula",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Itamaraty convoca a encarregada da embaixada argentina para explicar a passagem de Flávio, e Milei nega ter sido cobrado; Vieira e Rubio conversam no G20 e marcam reunião antes da cúpula de dezembro, 25 deputados democratas cobram Rubio e 107 países já reconheceram Lula, sem EUA e Argentina",
+   "lide": "O Ministério das Relações Exteriores convocou em 29/10 a encarregada de Negócios da Argentina, María Emilia Cortés, para prestar esclarecimentos sobre a passagem de Flávio Bolsonaro pelo país; o Clarín ouviu da chancelaria que foi 'só uma conversa, sem drama', e Milei nega que o Brasil tenha cobrado explicações. Em Atlanta, o chanceler Mauro Vieira e o secretário de Estado Marco Rubio conversaram brevemente na reunião do G20, evitaram o tema Flávio e acertaram uma bilateral antes da cúpula de dezembro em Miami; nos EUA, 25 deputados democratas enviaram carta a Rubio cobrando o papel do governo na fuga e na emissão de vistos, e a bancada progressista exigiu que Trump reconheça a vitória de Lula. Segundo o TSE, 107 países e 11 organismos reconheceram a reeleição; EUA e Argentina não se manifestaram.",
+   "contexto": "O jato que levou Flávio de Puerto Iguazú a Miami custou US$ 150 mil e foi pago por um intermediário com conta nos EUA, segundo o dono da Baires Fly à AFP; NYT e WSJ apontam o assessor Jason Miller na operação.",
+   "fatos": [
+    {
+     "texto": "O Itamaraty convocou em 29/10 a encarregada de Negócios da Embaixada da Argentina, María Emilia Cortés, para prestar esclarecimentos sobre a passagem de Flávio pelo território argentino; a informação veio a público em 30/10.",
+     "base": "6 fontes independentes (g1, Estadão, JOTA, Gazeta do Povo, Brasil de Fato, BBC Brasil)"
+    },
+    {
+     "texto": "Milei negou que o Brasil tenha tomado a medida; fontes da chancelaria argentina disseram ao Clarín que a conversa durou minutos e serviu só para 'coletar informação', não devendo ser lida como represália.",
+     "base": "3 fontes independentes (Folha, Jovem Pan, Clarín); Euronews registra a negativa de Buenos Aires"
+    },
+    {
+     "texto": "Mauro Vieira e Marco Rubio conversaram brevemente em 30/10, em Atlanta, durante a reunião de chanceleres do G20, não trataram da eleição nem de Flávio e combinaram uma reunião bilateral antes da cúpula do G20, em dezembro, em Miami.",
+     "base": "6 fontes independentes (Folha, Valor, CNN Brasil, Gazeta do Povo, ICL Notícias, Bloomberg)"
+    },
+    {
+     "texto": "Um grupo de 25 deputados democratas enviou em 29/10 carta a Rubio cobrando esclarecimentos sobre a participação do governo Trump na saída de Flávio e sobre a concessão dos vistos; a bancada progressista exigiu que Trump reconheça a vitória de Lula e acusou 'negacionismo eleitoral'.",
+     "base": "6 fontes independentes (Estadão, IstoÉ, Opera Mundi, Gazeta do Povo, g1, Clarín); SBT News e CartaCapital para a bancada progressista"
+    },
+    {
+     "texto": "Até 30/10, 107 países e 11 organizações internacionais reconheceram a reeleição de Lula, segundo levantamento do TSE; Argentina e Estados Unidos não se manifestaram oficialmente.",
+     "base": "levantamento do TSE (Estadão, Jovem Pan, Opera Mundi)"
+    },
+    {
+     "texto": "Trump disse que 'não apoiou candidatos no Brasil' e pensou que ficaria à margem, e confirmou ter autorizado a entrada de Flávio; segundo a Reuters, não planeja apoiar a pretensão do senador de ser 'verdadeiro líder do Brasil'.",
+     "base": "La Nación (declaração) e Gazeta do Povo citando a Reuters"
+    },
+    {
+     "texto": "A posse de Lula será em 5 de janeiro de 2027, e o presidente deve convidar Trump e Milei para a cerimônia.",
+     "base": "3 fontes independentes (IstoÉ, Terra Brasil Notícias, Clarín); Brasil de Fato para a data"
+    },
+    {
+     "texto": "Os EUA cancelaram a 'foto de família' da reunião de chanceleres do G20 depois que Reino Unido, Austrália, Alemanha e outros se recusaram a posar com o russo Sergei Lavrov.",
+     "base": "3 fontes independentes (The Guardian, BBC, Euronews)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A convocação de um diplomata é, na linguagem diplomática, uma demonstração de reprovação; é um 'gesto político forte' numa relação bilateral que vive seu pior momento em um século.",
+     "quem": "BBC Brasil e JOTA"
+    },
+    {
+     "texto": "O caso Flávio é um 'fardo' para Trump nas midterms, mas minerais críticos, influência chinesa e narcotráfico são as prioridades reais em relação ao Brasil.",
+     "quem": "Thiago de Aragão (Arko Advice), em CNN Brasil; análise em Terra Brasil Notícias"
+    },
+    {
+     "texto": "Trump usa os instrumentos do governo de forma 'flagrante' e 'indevida' para proteger Flávio; uma maioria democrata após as midterms investigaria a ajuda e a influência da Meta nas eleições brasileiras.",
+     "quem": "Senadora Jeanne Shaheen e deputada Pramila Jayapal, à Folha"
+    },
+    {
+     "texto": "Lula avalia convidar também opositores de Milei para a posse; o peronista Axel Kicillof é o favorito na Argentina.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "A reeleição de Lula frustra planos de Trump para a América Latina e deve acelerar a pressão sobre a região.",
+     "quem": "g1 (análise)"
+    },
+    {
+     "texto": "Ao menos dez chanceleres cumprimentaram Vieira pela vitória de Lula durante o G20.",
+     "quem": "Painel da Folha"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O Brasil não cobrou explicações da Argentina (Milei).",
+     "rotulo": "Contraditório",
+     "explicacao": "O Itamaraty afirma ter convocado a encarregada de Negócios em 29/10, e a chancelaria argentina confirmou ao Clarín uma conversa 'para coletar informação'; a divergência é sobre o caráter do encontro, não sobre sua existência.",
+     "onde_circula": "declaração de Milei; Jovem Pan; Euronews",
+     "checagem": []
+    },
+    {
+     "alegacao": "Os EUA e a Argentina reconheceram a reeleição de Lula.",
+     "rotulo": "Falso",
+     "explicacao": "Segundo o TSE, os dois países são os únicos do G20 nas Américas que não se manifestaram oficialmente até 30/10.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Planalto mantém o pragmatismo: cobra a Argentina em tom baixo, acerta agenda com Rubio sobre tarifas e crime organizado e planeja convidar Trump e Milei para a posse.",
+    "oposicao": "Veículos de direita destacam que Trump 'não pretende ajudar Flávio a chegar ao poder' e a convocação como gesto do 'governo Lula'; a oposição política não comentou a convocação nas matérias dos feeds."
+   },
+   "visao_de_fora": "Clarín minimiza a convocação ('não há drama') e noticia o convite a Milei para a posse; Página/12 destaca a carta dos democratas; Bloomberg registra que Rubio e Vieira se reunirão 'após a tensão eleitoral'; Euronews: Buenos Aires nega ter sido questionada.",
+   "ponto_cego": "Veículos de direita (Gazeta do Povo, Terra Brasil, Jovem Pan) não noticiaram a carta dos democratas nem a cobrança de reconhecimento a Trump, exceto a Gazeta; veículos de esquerda (247, DCM, Fórum) não registram a negativa argentina nem a declaração de Trump de que não apoiou candidatos.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "jato-flavio-pago-intermediario-eua-jason-miller-trump-vergonha-falara-com-lula-juiza-argentina-preserva-imagens",
+    "titulo": "Dono da empresa diz que o jato de Flávio foi pago por intermediário com conta nos EUA, e NYT e WSJ apontam assessor de Trump na operação; Trump chama a eleição de 'vergonha', mas diz que falará com Lula, e juíza argentina manda preservar imagens da fuga"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/30/itamaraty-convoca-representante-da-embaixada-da-argentina-apos-flavio-cruzar-fronteira-do-brasil-com-o-pais-vizinho-e-fugir-para-eua.ghtml",
+     "angulo": "Itamaraty convoca encarregada de Negócios argentina para explicar a fuga.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Itamaraty diz ter convocado diplomata após fuga de Flávio pela Argentina; Milei nega",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/itamaraty-convoca-diplomata-de-milei-apos-fuga-de-flavio-pela-argentina.shtml",
+     "angulo": "Itamaraty diz ter convocado diplomata; Milei nega.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "La cancillería brasileña convocó a la encargada de la embajada argentina para informarse sobre la huida de Flávio Bolsonaro",
+     "url": "https://www.clarin.com/mundo/cancilleria-brasilena-convoco-encargada-embajada-argentina-informarse-huida-flavio-bolsonaro_0_G5dBYgXyWQ.html",
+     "angulo": "Visão argentina: encontro de minutos, 'só uma conversa, não há drama'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Itamaraty convoca representante argentina para explicar fuga de Flávio Bolsonaro",
+     "url": "https://www.jota.info/executivo/itamaraty-convoca-representante-argentina-para-explicar-fuga-de-flavio-bolsonaro",
+     "angulo": "'Gesto político forte'; relação bilateral no pior momento do século.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Itamaraty cobra explicações da Argentina sobre passagem de Flávio pelo país vizinho rumo aos EUA",
+     "url": "https://www.gazetadopovo.com.br/republica/itamaraty-cobra-explicacoes-da-argentina-sobre-passagem-de-flavio-pelo-pais-vizinho-rumo-aos-eua/",
+     "angulo": "Registro factual pela direita: Itamaraty pede esclarecimentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Itamaraty convoca diplomata argentina para cobrar explicações sobre fuga de Flávio Bolsonaro",
+     "url": "https://www.brasildefato.com.br/2026/10/30/itamaraty-convoca-diplomata-argentina-para-cobrar-explicacoes-sobre-fuga-de-flavio-bolsonaro/",
+     "angulo": "Destaca a 'possível participação do governo Milei' na fuga.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Mauro Vieira e Marco Rubio evitam tratar de fuga de Flávio Bolsonaro em reunião pré-G20",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/mauro-vieira-e-marco-rubio-evitam-tratar-de-fuga-de-flavio-bolsonaro-em-reuniao-pre-g20.shtml",
+     "angulo": "Vieira e Rubio conversam em Atlanta e evitam eleição e Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
+     "angulo": "Rubio e Vieira se reunirão nas próximas semanas após a tensão eleitoral.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Marco Rubio e Mauro Vieira acertam reunião antes de encontro entre Lula e Trump",
+     "url": "https://www.brasil247.com/brasil/marco-rubio-e-mauro-vieira-acertam-reuniao-antes-de-encontro-entre-lula-e-trump/",
+     "angulo": "Acertam avançar em tarifas e combate ao crime organizado antes de Lula-Trump.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Deputados democratas questionam papel do governo Trump na fuga de Flávio Bolsonaro para os EUA",
+     "url": "https://www.estadao.com.br/internacional/deputados-democratas-questionam-papel-do-governo-trump-na-fuga-de-flavio-bolsonaro-para-os-eua-npr/",
+     "angulo": "25 deputados democratas cobram Rubio sobre papel do governo na fuga.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump não pretende ajudar Flávio a chegar ao poder no Brasil, diz agência",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-nao-pretende-ajudar-flavio-chegar-poder-brasil-diz-agencia/",
+     "angulo": "Reuters: Trump não planeja apoiar Flávio na pretensão de 'líder do Brasil'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Mais de 100 países reconheceram reeleição de Lula; Argentina e EUA não se manifestaram oficialmente",
+     "url": "https://www.estadao.com.br/politica/eleicoes/107-paises-reconheceram-a-reeleicao-de-lula-argentina-e-eua-nao-se-manifestaram-oficialmente-nprp/",
+     "angulo": "107 países e 11 organismos reconheceram Lula; EUA e Argentina não.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+     "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+     "angulo": "EUA cancelam foto de família do G20 após boicote a Lavrov.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ibovespa-perde-18-na-semana-pior-desde-2020-dolar-5-44-maior-alta-semanal-desde-2008-b3-perde-963-bi-itau-corta-pib-2027-0-5",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Ibovespa fecha a semana da reeleição com queda de 18%, a pior desde março de 2020; dólar vai a R$ 5,44 com a maior alta semanal desde 2008, empresas da B3 perdem R$ 963 bilhões e Itaú corta o PIB de 2027 para 0,5% e vê inflação acima da meta",
+   "lide": "A bolsa caiu 0,75% na sexta, para 167.922 pontos, no quinto pregão seguido de perdas, e acumulou queda de 18,12% na semana, a maior desde março de 2020 e a quinta maior desde o Plano Real; o dólar subiu 1,05%, a R$ 5,44, com alta de 9,04% na semana, a maior desde a crise de 2008. As empresas da B3 perderam R$ 963 bilhões em valor de mercado, fundos de investimento perderam R$ 157,5 bilhões em patrimônio e títulos do Tesouro recuaram até 17%. O Itaú cortou a projeção do PIB de 2027 de 1,2% para 0,5%, elevou a inflação para 6,1% e passou a ver o fim do ciclo de cortes da Selic, enquanto Bradesco, Itaú e Santander subiram os juros do crédito imobiliário.",
+   "contexto": "Na quinta, a IFI calculou R$ 40 bilhões de desequilíbrio nas promessas de campanha e o governador Rafael Fonteles, cotado para a Fazenda, negou tratar de cargos. O Ibovespa havia batido 200 mil pontos em outubro.",
+   "fatos": [
+    {
+     "texto": "O Ibovespa fechou em queda de 0,75%, aos 167.922 pontos, no quinto pregão consecutivo de baixa; na semana, recuou 18,12%, a maior perda semanal desde março de 2020 e a quinta maior desde o início do Plano Real.",
+     "base": "4 fontes independentes (g1, Agência Brasil, SBT News, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "O dólar à vista subiu 1,05%, a R$ 5,44, com máxima de R$ 5,4621; na semana acumulou alta de 9,04%, a maior desde a semana encerrada em 24 de outubro de 2008.",
+     "base": "3 fontes independentes (Valor, Agência Brasil, Jovem Pan)"
+    },
+    {
+     "texto": "As empresas listadas na B3 perderam R$ 963 bilhões em valor de mercado na semana; VAMO3 e MGLU3 caíram mais de 50%, enquanto exportadoras subiram.",
+     "base": "InfoMoney (fonte única; Oeste fala em 'quase R$ 1 trilhão')"
+    },
+    {
+     "texto": "A indústria de fundos perdeu R$ 157,5 bilhões em patrimônio (1,44%) entre segunda e quarta, segundo a Economática; títulos do Tesouro perderam até 17% na semana, com prefixados a 15,36% e IPCA+ a 7,89%.",
+     "base": "Folha (Economática) e InfoMoney (Tesouro), fonte única cada"
+    },
+    {
+     "texto": "O Itaú cortou a projeção do PIB de 2027 de 1,2% para 0,5%, elevou a do IPCA de 4,6% para 6,1% e passou a esperar que o Copom mantenha a Selic em 13,75%, encerrando o ciclo de cortes.",
+     "base": "3 fontes independentes (Folha, Valor, NeoFeed)"
+    },
+    {
+     "texto": "Bradesco, Itaú e Santander elevaram os juros do crédito imobiliário; o Santander passou a cobrar a partir de 12,49% ao ano mais TR a partir de 30/10.",
+     "base": "3 fontes independentes (O Globo/Anefac, Folha, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Investidores estrangeiros ampliaram em US$ 6,84 bilhões a exposição ao dólar em derivativos da B3 em 26/10, volume recorde segundo a B3/DataWise.",
+     "base": "ICL Notícias citando levantamento publicado pelo InfoMoney (fonte única)"
+    },
+    {
+     "texto": "É falso que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após a eleição; o vídeo que circula é de 2024.",
+     "base": "checagem do Fato ou Fake (g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O mercado reprecifica ativos e reavalia riscos fiscais à espera de sinais sobre o comando da Fazenda e a política fiscal; a definição da equipe econômica será decisiva para ancorar expectativas.",
+     "quem": "CNN Brasil e Brasil 247 (análises)"
+    },
+    {
+     "texto": "A queda também reflete o excesso de otimismo que levou o Ibovespa a recordes antes da votação; a reação não pode ser impulsiva e analistas recomendam cautela.",
+     "quem": "Analistas ouvidos por SBT News e Folha"
+    },
+    {
+     "texto": "O Ibovespa pode cair até a faixa de 164,8 mil a 159 mil pontos.",
+     "quem": "Analista da Clear, em InfoMoney"
+    },
+    {
+     "texto": "A queda do real tornou as exportações brasileiras mais competitivas e derrubou as commodities agrícolas em Chicago.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "Os juros futuros embutiram prêmios de risco adicionais pela incerteza fiscal e pela reprecificação da inflação com a depreciação do câmbio.",
+     "quem": "Valor (fechamento dos juros)"
+    },
+    {
+     "texto": "'Ajuste fiscal ou estelionato eleitoral?': o 'tesouraço' foi derrotado nas urnas.",
+     "quem": "Colunas em Brasil de Fato e Revista Fórum; leitor na Folha (opinião)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após a eleição.",
+     "rotulo": "Falso",
+     "explicacao": "O vídeo foi exibido em 2024 e não trata de medida do novo mandato.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Fato ou Fake",
+       "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml"
+      }
+     ]
+    },
+    {
+     "alegacao": "A bolsa 'afundou' por causa da vitória de Lula.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A reeleição foi o gatilho da liquidação, mas analistas citam também o excesso de otimismo prévio (200 mil pontos), a incerteza sobre o ajuste fiscal e o tombo das bolsas de Nova York com as big techs.",
+     "onde_circula": "Oeste, Terra Brasil, Conexão Política, Gazeta do Povo",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados falam em ataque especulativo e cobram do mercado paciência até a definição da Fazenda; PT rejeita 'estelionato eleitoral' de um ajuste duro.",
+    "oposicao": "Veículos de direita atribuem a queda diretamente à reeleição ('após vitória de Lula') e destacam o 'quase R$ 1 trilhão' perdido; mercado cobra plano fiscal."
+   },
+   "visao_de_fora": "Financial Times: a vitória surpresa de Lula derrubou as commodities agrícolas e investidores estão nervosos com as midterms; La Nación nota que a Argentina 'se divorciou' da queda de Chicago.",
+   "ponto_cego": "Veículos de esquerda (247, Fórum, BdF) tratam a queda como especulação e quase não citam a revisão do Itaú e a alta dos juros imobiliários; veículos de direita não mencionam a alta recorde de posições em dólar nem o papel das bolsas americanas na semana.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "ibovespa-4a-queda-perde-17-na-semana-dolar-5-39-ifi-40-bi-superavit-2027-improvavel-fonteles-cotado-fazenda-nega-cargos",
+    "titulo": "Ibovespa cai pelo 4º dia e acumula perda de 17% na semana; dólar vai a R$ 5,39. IFI diz que promessas de campanha somam R$ 40 bilhões e que superávit em 2027 é improvável, enquanto Fonteles, cotado para a Fazenda, nega ter tratado de cargos"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Ibovespa recua 18,12% na semana e tem 5ª maior queda desde o Plano Real; dólar sobe a R$ 5,44",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
+     "angulo": "Queda de 18,12% na semana, 5ª maior desde o Plano Real; dólar a R$ 5,44.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ibovespa cai 18% no pós-reeleição de Lula, maior perda semanal desde março de 2020",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/30/ibovespa-cai-18percent-no-pos-reeleicao-de-lula-maior-perda-semanal-desde-marco-de-2020.ghtml",
+     "angulo": "Maior perda semanal desde março de 2020; índice volta a níveis de agosto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Dólar à vista tem maior alta semanal desde a crise global de 2008",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/30/dolar-a-vista-tem-maior-alta-semanal-desde-a-crise-global-de-2008.ghtml",
+     "angulo": "Dólar: maior alta semanal desde a crise global de 2008.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008",
+     "angulo": "Outubro termina sob pressão: dólar perto de R$ 5,45 e bolsa em queda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50%",
+     "url": "https://www.infomoney.com.br/mercados/vamo3-mglu3-caem-mais-50-suzb3-embj3-wege3-sobem-10-semana-ibovespa-26-10-2026/",
+     "angulo": "Empresas da B3 perdem R$ 963 bi; VAMO3 e MGLU3 caem mais de 50%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/itau-corta-projecao-do-pib-de-2027-para-05-e-ve-inflacao-acima-da-meta.shtml",
+     "angulo": "Itaú corta PIB de 2027 para 0,5% e vê inflação acima do teto da meta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Itaú vê fim do ciclo de cortes da Selic diante de cenário mais adverso",
+     "url": "https://neofeed.com.br/economia/itau-ve-fim-do-ciclo-de-cortes-da-selic-diante-de-cenario-mais-adverso/",
+     "angulo": "Itaú vê fim do ciclo de cortes da Selic, mantida em 13,75%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Bancos aumentam juros do crédito para casa própria",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/10/31/bancos-aumentam-juros-do-credito-para-casa-propria.ghtml",
+     "angulo": "Bancos elevam juros do crédito imobiliário, segundo a Anefac.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Ibovespa ‘queima’ quase R$ 1 trilhão em uma semana após reeleição de Lula",
+     "url": "https://revistaoeste.com/economia/ibovespa-queima-trilhao-eleicao-lula/",
+     "angulo": "'Queima' de quase R$ 1 trilhão 'após reeleição de Lula'; uma das maiores desvalorizações desde o Real.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Bolsa brasileira tem pior semana desde março de 2020 após vitória de Lula",
+     "url": "https://terrabrasilnoticias.com/2026/10/bolsa-brasileira-tem-pior-semana-desde-marco-de-2020-apos-vitoria-de-lula/",
+     "angulo": "Pior semana desde março de 2020 'após vitória de Lula'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Ataque especulativo: após vitória de Lula, investidores fazem aposta recorde contra o real",
+     "url": "https://iclnoticias.com.br/ataque-especulativo-vitoria-lula-contra-real/",
+     "angulo": "'Ataque especulativo': aposta recorde de estrangeiros contra o real.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Tombo da bolsa e disparada do dólar exigem Fazenda capaz de ancorar expectativas",
+     "url": "https://www.brasil247.com/economia/tombo-da-bolsa-e-disparada-do-dolar-exigem-fazenda-capaz-de-ancorar-expectativas/",
+     "angulo": "Tombo exige Fazenda capaz de ancorar expectativas; compromisso fiscal.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Lula’s surprise election victory sends agri-commodities tumbling",
+     "url": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1",
+     "angulo": "Vitória surpresa de Lula derruba commodities agrícolas com a queda do real.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "alcolumbre-pauta-pec-seguranca-terca-ministerio-lula-maioridade-penal-senadores-rejeitam-anistia-ate-dosimetria-stf-pl-lanca-marinho-pp-racha",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Alcolumbre pauta a PEC da Segurança para terça, condição de Lula para criar o Ministério da Segurança Pública, com a maioridade penal como impasse; senadores rejeitam anistia a Bolsonaro até o STF julgar a dosimetria, ala do Supremo quer votar ainda em 2026, e PL lança Marinho enquanto o PP racha",
+   "lide": "O presidente do Senado marcou para as 16h de terça-feira (3) a votação da PEC 18/2025, que amplia a integração dos órgãos de segurança no combate ao crime organizado; Lula condiciona a criação do Ministério da Segurança Pública à aprovação, e o governo tenta costurar um acordo para que a redução da maioridade penal não trave de novo o texto. Na disputa pela presidência da Casa, senadores da oposição e do Centrão dizem que não votam anistia enquanto o STF não decidir sobre a Lei da Dosimetria, que ministros querem julgar antes do recesso e pode beneficiar Bolsonaro; o PL marcou para quarta (4) a reunião que deve lançar Rogério Marinho, metade da bancada do PP se prepara para um ato por ele, e Lula planeja uma 'frente ampla' apoiando a reeleição de Alcolumbre e de Motta.",
+   "contexto": "Na quinta, Alcolumbre admitiu discutir indulto ou anistia e conter o impeachment de ministros em troca de votos; Derrite rompeu com a federação União-PP. A partir de fevereiro de 2027 o PL terá 29 senadores.",
+   "fatos": [
+    {
+     "texto": "Alcolumbre incluiu a PEC 18/2025 (Segurança Pública) na ordem do dia de terça-feira (3), às 16h; o texto amplia as competências da União e a integração dos órgãos de segurança, e Lula condiciona a criação do Ministério da Segurança Pública à sua aprovação.",
+     "base": "Agência Senado; 6 fontes independentes (g1, Valor, Jovem Pan, SBT News, Gazeta do Povo, Exame)"
+    },
+    {
+     "texto": "A PEC havia sido retirada da pauta em meados de outubro após a oposição tentar incluir a redução da maioridade penal; o governo discute um acordo sobre o tema, e o senador eleito Rui Costa defende tratar a maioridade separadamente, admitindo responsabilização de jovens por crimes hediondos.",
+     "base": "Veja e SBT News (retirada); Folha (Painel) e A Tarde (acordo e Rui Costa)"
+    },
+    {
+     "texto": "Senadores da oposição e do Centrão afirmam que não votarão anistia a Bolsonaro enquanto o STF não decidir sobre a Lei da Dosimetria aprovada pelo Congresso; uma ala do STF defende julgar as ações ainda em 2026, antes do recesso, o que pode beneficiar o ex-presidente.",
+     "base": "Folha (senadores); Valor e Oeste citando O Globo (ala do STF)"
+    },
+    {
+     "texto": "O PL marcou para quarta-feira (4) reunião para definir a candidatura de Rogério Marinho; mais da metade da bancada do PP, cuja federação declarou apoio a Alcolumbre, deve comparecer a um ato com PL e Novo por Marinho na terça.",
+     "base": "Terra Brasil Notícias e A Tarde (PL); Jovem Pan (PP)"
+    },
+    {
+     "texto": "Lula planeja montar uma 'frente ampla' com apoio à reeleição de Alcolumbre e de Hugo Motta e nova relação com a base; o PL deve apoiar a reeleição de Motta na Câmara e insistir em candidato próprio no Senado.",
+     "base": "Folha (Lula) e CNN Brasil (PL)"
+    },
+    {
+     "texto": "O deputado e senador eleito Carlos Jordy (PL) chamou de 'conversa fiada' o suposto indulto a Bolsonaro oferecido por Alcolumbre.",
+     "base": "Diário do Poder (fonte única)"
+    },
+    {
+     "texto": "Lula deve indicar novamente Jorge Messias ao STF, agora com apoio de Alcolumbre, após a rejeição pelo Senado; o entorno do presidente se divide entre Messias e Rodrigo Pacheco.",
+     "base": "Jovem Pan e CartaCapital (Messias); CNN Brasil (divisão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Marinho pode alcançar 41 votos, a maioria absoluta, e derrotar Alcolumbre.",
+     "quem": "Levantamento do Diário do Brasil Notícias, citado por Terra Brasil Notícias"
+    },
+    {
+     "texto": "As promessas de Alcolumbre despertam desconfiança tanto no governo (perdão a Bolsonaro) quanto na oposição; integrantes do PP dizem não ter sido consultados sobre o apoio anunciado por Ciro Nogueira.",
+     "quem": "Terra Brasil Notícias (bastidores)"
+    },
+    {
+     "texto": "Hugo Motta pode convencer os partidos do seu 'blocão' a apoiar Alcolumbre.",
+     "quem": "Caciques do Centrão, ouvidos pela coluna de Igor Gadelha (Metrópoles)"
+    },
+    {
+     "texto": "O bolsonarismo tenta criar clima político para retomar a anistia, apesar da falta de acordo no Senado e de apoio nas pesquisas.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "Os movimentos de Moraes contra Flávio forçam a oposição a se unir já para conquistar a presidência do Senado.",
+     "quem": "Silvio Ribas, colunista da Gazeta do Povo (opinião)"
+    },
+    {
+     "texto": "Chico Lucas é o nome mais cotado para comandar o futuro Ministério da Segurança Pública, cuja estrutura já está definida.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governo trata a PEC como prioridade e condição para o novo ministério, quer a maioridade penal fora do texto e aposta na reeleição de Alcolumbre e Motta como base da 'frente ampla'.",
+    "oposicao": "PL e aliados lançam Marinho, rejeitam a troca de apoio por indulto e insistem em incluir a maioridade penal; parte do PP se rebela contra o apoio a Alcolumbre."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, DCM, Fórum) não cobriram a reunião do PL, o racha do PP nem a divergência de Rui Costa sobre maioridade penal; veículos de direita (Terra Brasil, Diário do Poder) não registram a PEC da Segurança como condição para o novo ministério nem o plano de 'frente ampla' de Lula.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "alcolumbre-admite-indulto-anistia-conter-impeachment-stf-por-reeleicao-direita-rejeita-rui-costa-critica-derrite-rompe-pl-29-senadores",
+    "titulo": "Alcolumbre admite discutir indulto ou anistia a Bolsonaro e conter o impeachment de ministros do STF em troca da reeleição no Senado; direita rejeita a troca e prioriza redução de penas, Rui Costa critica e Derrite rompe com a federação"
+   },
+   "materias": [
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Davi marca para terça votação da PEC da Segurança",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
+     "angulo": "Nota oficial: votação da PEC 18/2025 às 16h de terça, com outros quatro itens.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça-feira",
+     "url": "https://g1.globo.com/politica/noticia/2026/10/30/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica-para-a-proxima-terca-feira.ghtml",
+     "angulo": "Lula condiciona o Ministério da Segurança à aprovação; regras de PEC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Rui Costa quer PEC da Segurança separada do debate sobre maioridade penal",
+     "url": "https://atarde.com.br/politica/rui-costa-defende-reducao-da-maioridade-penal-para-crimes-hediondos-1407750",
+     "angulo": "Rui Costa quer a PEC separada da maioridade e admite responsabilização em crimes hediondos.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Alcolumbre marca votação da PEC da Segurança Pública para terça (3)",
+     "url": "https://www.gazetadopovo.com.br/republica/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-3/",
+     "angulo": "Votação 'em meio ao impasse sobre a redução da maioridade penal'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Alcolumbre marca votação da PEC da Segurança Pública em meio a impasse",
+     "url": "https://revistaforum.com.br/politica/alcolumbre-marca-pec-seguranca-publica/",
+     "angulo": "Governo tenta impedir que a maioridade atrase de novo a proposta.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Senadores rejeitam anistia a Bolsonaro até que STF decida sobre redução de penas",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/senadores-rejeitam-anistia-a-bolsonaro-ate-que-stf-decida-sobre-reducao-de-penas.shtml",
+     "angulo": "Senadores não votam anistia até o STF decidir a dosimetria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ala do STF defende julgar dosimetria ainda neste ano, o que pode beneficiar Bolsonaro",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/30/ala-do-stf-defende-julgar-dosimetria-ainda-neste-ano-o-que-pode-beneficiar-bolsonaro.ghtml",
+     "angulo": "Ala do STF quer julgar a dosimetria em 2026; pode beneficiar Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Rogério Marinho pode alcançar 41 votos e derrotar Alcolumbre na disputa pelo Senado; veja a lista",
+     "url": "https://terrabrasilnoticias.com/2026/10/rogerio-marinho-pode-alcancar-41-votos-e-derrotar-alcolumbre-na-disputa-pelo-senado-veja-a-lista/",
+     "angulo": "Marinho 'pode alcançar 41 votos'; lista de cenários.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "PP racha sobre presidência do Senado e ala prepara ato junto ao PL e Novo por Marinho",
+     "url": "https://jovempan.com.br/colunistas/beatriz-manfredini/pp-racha-sobre-presidencia-do-senado-e-ala-prepara-ato-junto-ao-pl-e-novo-por-marinho/",
+     "angulo": "PP racha: metade da bancada vai a ato por Marinho com PL e Novo.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "PL lança Rogério Marinho contra reeleição de Alcolumbre no Senado",
+     "url": "https://atarde.com.br/politica/pl-lanca-rogerio-marinho-contra-reeleicao-de-alcolumbre-no-senado-1407729",
+     "angulo": "PL lança Marinho contra a reeleição de Alcolumbre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula planeja montar frente ampla com Alcolumbre e Motta e nova relação com base",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-planeja-montar-frente-ampla-com-alcolumbre-e-motta-e-nova-relacao-com-base.shtml",
+     "angulo": "Lula planeja frente ampla com Alcolumbre e Motta e nova relação com a base.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Jordy diz que é ‘conversa fiada’ de Alcolumbre suposto induto a Bolsonaro",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/jordy-diz-que-e-conversa-fiada-de-alcolumbre-suposto-induto-a-bolsonaro",
+     "angulo": "Jordy: indulto de Alcolumbre é 'conversa fiada'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "peritos-pf-rebatem-laudo-vorcaro-fachin-trava-6-pedidos-prisao-cnj-precatorios-leilao-master-445-lotes-piaui-videos-ciro-nogueira",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Peritos federais rebatem a defesa de Vorcaro e dizem que alterações no celular não indicam adulteração; Fachin trava ao menos seis pedidos de revisão de prisões do caso Master, CNJ fecha acordo para rastrear precatórios, móveis do banco vão a leilão e piauí divulga vídeos da viagem de Ciro Nogueira paga pelo banqueiro",
+   "lide": "A Associação Nacional dos Peritos Criminais Federais afirmou que os questionamentos da defesa de Daniel Vorcaro não comprovam falha na perícia nem adulteração do celular apreendido pela PF: registros de alteração em arquivos são esperados na extração forense. Com o caso retido na Presidência do STF por até 90 dias, ao menos seis pedidos de revisão de prisões preventivas ficam parados; o CNJ firmará na terça acordo com a B3 e outras registradoras para rastrear precatórios, 445 lotes de móveis e equipamentos do Master e da Will Financeira serão leiloados em 9/11, e a revista piauí publicou vídeos da viagem de R$ 2 milhões aos Alpes que o senador Ciro Nogueira fez custeada por Vorcaro.",
+   "contexto": "Em 29/10 a defesa de Vorcaro entregou ao STF perícia particular apontando 657 arquivos modificados após a apreensão; no mesmo dia Fachin devolveu o INSS a Mendonça e manteve o Master consigo. A PF indiciou 15 pessoas em 28/10.",
+   "fatos": [
+    {
+     "texto": "A Associação Nacional dos Peritos Criminais Federais (APCF) afirmou em 30/10 que os questionamentos da defesa de Vorcaro não comprovam falha na perícia nem adulteração do conteúdo do celular; alterações em registros digitais não indicam adulteração de prova.",
+     "base": "2 fontes independentes (Valor, Gazeta do Povo)"
+    },
+    {
+     "texto": "Com o caso Master retido na Presidência do STF, ao menos seis pedidos de revisão de prisões preventivas estão travados.",
+     "base": "CNN Brasil (fonte única)"
+    },
+    {
+     "texto": "O CNJ firmará em 3/11 acordo de cooperação técnica com registradoras de ativos financeiros, como a B3, para desenvolver um sistema de monitoramento de precatórios, após o caso Master.",
+     "base": "2 fontes independentes (Folha, Brasil 247)"
+    },
+    {
+     "texto": "Móveis, televisores de 98 polegadas, cadeiras Herman Miller e equipamentos do Banco Master e da Will Financeira irão a leilão online em 9/11, em 445 lotes com lances iniciais de R$ 21 a R$ 98 mil, pela plataforma Kwara.",
+     "base": "4 fontes independentes (g1, SBT News, Gazeta do Povo, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "A revista piauí obteve vídeos que mostram o senador Ciro Nogueira (PP) na viagem de R$ 2 milhões aos Alpes franceses custeada por Vorcaro.",
+     "base": "piauí (fonte única)"
+    },
+    {
+     "texto": "Augusto Ferreira Lima, ex-sócio de Vorcaro e dono do Banco Pleno, afirmou à PF que o ex-banqueiro conhecia em detalhes e comandava as operações de consignado do Master.",
+     "base": "Folha (depoimento; republicado por ICL via Folhapress); Estadão e Valor noticiaram em 29/10"
+    },
+    {
+     "texto": "Paulo Henrique Costa, ex-presidente do BRB, disse à PF que Ibaneis Rocha pediu a venda do banco ao Master em jantar com Vorcaro; Ibaneis nega.",
+     "base": "já noticiado em 29/10 por Valor, Estadão, SBT News e Jovem Pan; Brasil de Fato repercute"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Ao devolver o INSS e manter o Master, Fachin buscou um meio-termo para conter a divisão interna, mas a decisão incomodou aliados de Moraes.",
+     "quem": "Folha (bastidores)"
+    },
+    {
+     "texto": "O laudo da defesa pode abrir 'saída jurídica' para Moraes se a Justiça reconhecer comprometimento dos arquivos.",
+     "quem": "Revista Oeste e Gazeta do Povo"
+    },
+    {
+     "texto": "'Ibaneis atuava como funcionário de Vorcaro'; o deputado cobra a prisão preventiva do ex-governador.",
+     "quem": "Gabriel Magno, deputado distrital do PT, à TV 247"
+    },
+    {
+     "texto": "O presidente do STF 'tem uma baita encrenca nas mãos' com investigações que envolvem a própria Corte.",
+     "quem": "Cientista político ouvido pela Veja"
+    },
+    {
+     "texto": "Passada a eleição, o STF busca 'desintoxicar' temas que agitam o bolsonarismo e sanear investigações que geram desgaste.",
+     "quem": "JOTA (coluna de Flávia Maia e newsletter)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O celular de Vorcaro foi adulterado pela PF após a apreensão.",
+     "rotulo": "Contraditório",
+     "explicacao": "A perícia particular da defesa aponta 657 arquivos modificados; a associação dos peritos federais responde que registros de alteração são normais na extração e não indicam adulteração; cabe ao STF decidir.",
+     "onde_circula": "petição da defesa; Gazeta do Povo, Oeste",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste) deram a resposta dos peritos, mas enquadrada no possível benefício a Moraes; veículos de esquerda (247, Fórum) concentram-se em Ibaneis e não registram a réplica dos peritos nem os pedidos de prisão travados; os vídeos de Ciro Nogueira só aparecem na piauí.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "depoimentos-master-ex-brb-diz-ibaneis-ordenou-venda-imoveis-146-mi-vorcaro-nega-defesa-celular-alterado-fachin-mantem-caso-devolve-inss",
+    "titulo": "Depoimentos do caso Master vêm à luz: ex-presidente do BRB diz que Ibaneis ordenou o negócio e que Vorcaro ofereceu imóveis de R$ 146 milhões; Vorcaro nega fraude e sua defesa diz que o celular foi alterado após a apreensão; Fachin mantém o caso por 90 dias e devolve o INSS a Mendonça"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Peritos da PF dizem que questionamento de defesa de Vorcaro não prova adulteração do celular",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/30/peritos-da-pf-dizem-que-questionamento-de-defesa-de-vorcaro-no-prova-adulterao-do-celular.ghtml",
+     "angulo": "APCF: questionamentos da defesa não provam adulteração do celular.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Peritos da PF rebatem laudo da defesa de Vorcaro",
+     "url": "https://www.gazetadopovo.com.br/republica/peritos-da-pf-rebatem-laudo-da-defesa-de-vorcaro/",
+     "angulo": "Peritos rebatem laudo; alterações não indicam adulteração.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Laudo sobre celular de Vorcaro pode beneficiar Moraes",
+     "url": "https://revistaoeste.com/politica/laudo-sobre-celular-de-vorcaro-pode-beneficiar-moraes/",
+     "angulo": "Laudo da defesa 'pode beneficiar Moraes'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Master: Fachin trava ao menos 6 pedidos de revisão de prisões preventivas",
+     "url": "https://www.cnnbrasil.com.br/politica/master-fachin-trava-ao-menos-6-pedidos-de-revisao-de-prisoes-preventivas/",
+     "angulo": "Fachin trava ao menos seis pedidos de revisão de prisões preventivas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "CNJ vai firmar acordo com registradoras de ativos para rastrear precatórios após caso Master",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/cnj-vai-firmar-acordo-com-registradoras-de-ativos-para-rastrear-precatorios-apos-caso-master.shtml",
+     "angulo": "CNJ fecha acordo com registradoras para rastrear precatórios.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "TVs de 98 polegadas, cadeiras de alto padrão e mais: veja itens do Banco Master que vão a leilão",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/30/tvs-de-98-polegadas-cadeiras-de-alto-padrao-e-mais-veja-itens-do-banco-master-que-vao-a-leilao.ghtml",
+     "angulo": "Itens do Master vão a leilão em novembro; lances de R$ 21 a R$ 98 mil.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Banco Master leiloa itens de luxo; veja como participar",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/banco-master-leiloa-itens-de-luxo-veja-como-participar",
+     "angulo": "445 lotes de móveis e equipamentos; como participar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "piaui",
+     "titulo": "A farra de Ciro Nogueira e Daniel Vorcaro, em novas imagens",
+     "url": "https://piaui.uol.com.br/web/ciro-nogueira-daniel-vorcaro-alpes-franceses-imagens/",
+     "angulo": "Vídeos exclusivos da viagem de R$ 2 milhões de Ciro Nogueira paga por Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Paulo Henrique diz à Polícia Federal que Ibaneis Rocha pediu venda do BRB ao Banco Master em jantar com Daniel Vorcaro",
+     "url": "https://www.brasildefato.com.br/2026/10/30/paulo-henrique-diz-a-policia-federal-que-ibaneis-rocha-pediu-venda-do-brb-ao-banco-master-em-jantar-com-daniel-vorcaro/",
+     "angulo": "Ex-BRB: Ibaneis pediu a venda em jantar com Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Gabriel Magno: “Ibaneis atuava como funcionário de Vorcaro”",
+     "url": "https://www.brasil247.com/entrevistas/gabriel-magno-ibaneis-atuava-como-funcionario-de-vorcaro/",
+     "angulo": "Deputado do PT: 'Ibaneis atuava como funcionário de Vorcaro'; cobra prisão.",
+     "tipo": "opiniao",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fachin tenta conter divisão no STF, mas decisão sobre INSS incomoda aliados de Moraes",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/fachin-tenta-conter-divisao-no-stf-mas-decisao-sobre-inss-incomoda-aliados-de-moraes.shtml",
+     "angulo": "Fachin busca meio-termo; decisão sobre INSS incomoda aliados de Moraes.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Presidente do STF tem uma baita encrenca nas mãos, diz cientista político",
+     "url": "https://veja.abril.com.br/politica/presidente-do-stf-tem-uma-baita-encrenca-nas-maos-diz-cientista-politico/",
+     "angulo": "Cientista político: Fachin tem 'uma baita encrenca nas mãos'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "moraes-nega-devolver-minuta-do-golpe-destruir-armas-torres-pms-solta-desembargador-gonet-endossa-quebra-sigilo-fonte-jornalista-dino",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Moraes nega devolver a 'minuta do golpe' a Anderson Torres, manda destruir em 48 horas as armas do ex-ministro e de PMs condenados pelo 8/1 e solta o desembargador acusado de vazar operação da PF; Gonet endossa a quebra de sigilo da fonte do jornalista que revelou uso de carros oficiais por Dino",
+   "lide": "Em despacho de 30/10, Alexandre de Moraes decidiu que a 'minuta do golpe' apreendida na casa de Anderson Torres deve ficar sob guarda da PF como prova da trama golpista, negou a devolução de passaportes e determinou a destruição, em 48 horas, de armas, munições e acessórios do ex-ministro e de dois ex-coronéis da PM do DF; no mesmo dia, mandou soltar com tornozeleira o desembargador Macário Judice, preso desde dezembro na operação Unha e Carne, e mandou prender um eletricista condenado a 14 anos pelo 8 de janeiro. O procurador-geral Paulo Gonet opinou contra o arquivamento da investigação sobre o jornalista Luís Pablo e a favor da busca e da quebra do sigilo da fonte da reportagem sobre carros do TJ-MA usados pela família do ministro Flávio Dino.",
+   "contexto": "Na quinta, Fachin arquivou mais cinco frentes do inquérito das fake news e Moraes encerrou os casos de Monark e Daniel Silveira. Editoriais do Washington Post e do WSJ criticaram a concentração de funções no STF.",
+   "fatos": [
+    {
+     "texto": "Moraes negou em 30/10 a devolução da 'minuta do golpe' e determinou que o documento fique sob guarda da PF como prova da trama para subverter o resultado de 2022; a defesa de Torres nega ligação com uma trama real.",
+     "base": "5 fontes independentes (Estadão, Gazeta do Povo, Revista Fórum, Diário do Poder, DCM)"
+    },
+    {
+     "texto": "No mesmo despacho, Moraes mandou destruir em 48 horas armas, munições e acessórios apreendidos com Anderson Torres e dois ex-coronéis da PMDF condenados pelo 8 de janeiro, e negou a devolução de passaportes.",
+     "base": "3 fontes independentes (SBT News, Gazeta do Povo, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Moraes determinou a soltura, com tornozeleira eletrônica, do desembargador Macário Judice, preso preventivamente em dezembro de 2025 na operação Unha e Carne por suspeita de vazar operação da PF; Rodrigo Bacellar será transferido para o Rio e TH Joias segue preso.",
+     "base": "2 fontes independentes (Estadão, DCM)"
+    },
+    {
+     "texto": "Moraes mandou a PF prender um eletricista mineiro de 50 anos condenado a 14 anos pelos atos de 8 de janeiro, após o fim dos recursos; no julgamento, Cármen Lúcia propôs um ano e Kassio votou pela absolvição.",
+     "base": "Metrópoles (coluna de Manoela Alcântara, fonte única)"
+    },
+    {
+     "texto": "Paulo Gonet emitiu parecer favorável à busca contra o jornalista Luís Pablo Almeida e à quebra do sigilo da fonte da reportagem sobre uso de carros do Tribunal de Justiça do Maranhão pela família de Flávio Dino, manifestando-se contra o arquivamento.",
+     "base": "4 fontes independentes (Estadão, Folha, Brasil 247, O Antagonista)"
+    },
+    {
+     "texto": "O STF validou, por 4 a 3, regra da reforma da Previdência de 2019 que aumenta a contribuição de servidores aposentados por incapacidade causada por doença grave, e, por 7 a 3, invalidou equiparação salarial entre MP de Contas e MP estadual no Espírito Santo.",
+     "base": "Folha (Previdência) e JOTA (MP de Contas), fonte única cada"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula sinaliza a integrantes do governo que terá relação mais distante e equilibrada com os ministros do STF, em especial com Moraes.",
+     "quem": "Bela Megale, O Globo (bastidores)"
+    },
+    {
+     "texto": "O STF busca 'desintoxicação' de temas que agitam o bolsonarismo, mas não está claro até quando Moraes abraçará a estratégia.",
+     "quem": "JOTA (coluna de Flávia Maia)"
+    },
+    {
+     "texto": "O Judiciário brasileiro 'ultrapassa limites' e persegue adversários após a derrota de Flávio.",
+     "quem": "Yanis Varoufakis, ex-ministro grego (Folha); editoriais do WSJ e Washington Post"
+    },
+    {
+     "texto": "A Bloomberg aponta Moraes como 'grande problema' para Lula, mas ignora a aliança que favoreceu o presidente.",
+     "quem": "Terra Brasil Notícias (crítica à Bloomberg)"
+    },
+    {
+     "texto": "Ministros do STF querem que Moraes pause logo a Lei da Dosimetria, que pode reduzir a pena de Bolsonaro.",
+     "quem": "Terra Brasil Notícias e Valor"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo veem as decisões como encerramento ordenado do caso do 8/1 e preservação de provas; o governo evita comentar a quebra de sigilo da fonte.",
+    "oposicao": "Direita enquadra a destruição das armas e a guarda da minuta como perseguição e destaca o parecer de Gonet como ataque à imprensa; cobra que o STF pause a dosimetria."
+   },
+   "visao_de_fora": "Bloomberg relata pressão sobre Lula por reforma do STF; Varoufakis critica o Judiciário brasileiro; editoriais do Washington Post e do WSJ seguem repercutindo.",
+   "ponto_cego": "Nenhum veículo de esquerda ou centro cobrou o parecer de Gonet como ameaça ao sigilo de fonte, exceto o registro factual de Folha e Estadão; a soltura do desembargador aparece só em Estadão e DCM; a direita não noticiou a soltura.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "fachin-arquiva-mais-5-frentes-inquerito-fake-news-moraes-arquiva-monark-silveira-kassio-mendonca-afastam-flavio-pt-reforma-judiciario",
+    "titulo": "Fachin arquiva mais cinco investigações do inquérito das fake news e Moraes encerra os casos de Monark e Daniel Silveira; Kassio e Mendonça se afastam de Flávio, Bolsonaro pede visita de Marinho e PT lista reforma do Judiciário entre prioridades do novo mandato"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Moraes decide que ‘minuta do golpe’ deve ser armazenada como prova da trama golpista",
+     "url": "https://www.estadao.com.br/politica/moraes-decide-que-minuta-do-golpe-deve-ser-armazenada-como-prova-da-trama-golpista-nprp/",
+     "angulo": "Minuta deve ser armazenada como prova; destino de passaportes e pistola.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Moraes manda PF guardar “minuta do golpe” e destruir armas de Torres e PMs",
+     "url": "https://www.gazetadopovo.com.br/republica/moraes-manda-pf-guardar-minuta-do-golpe-e-destruir-armas-de-torres-e-pms/",
+     "angulo": "Guarda da minuta, destruição de armas em 48 h, passaportes negados.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Moraes toma nova decisão sobre minuta do golpe",
+     "url": "https://revistaforum.com.br/politica/moraes-decisao-minuta-golpe/",
+     "angulo": "Moraes nega devolução; documento previa estado de defesa no TSE.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Moraes nega devolução da “minuta do golpe” apreendida com Torres",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e12-brasil/moraes-nega-devolucao-da-minuta-do-golpe-apreendida-com-torres",
+     "angulo": "Registro pela direita da negativa de devolução.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Moraes manda destruir armas de Torres e PMs do 8 de Janeiro",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/moraes-manda-destruir-armas-de-torres-e-p-ms-do-8-de-janeiro",
+     "angulo": "Destruição de armas de Torres e PMs em 48 horas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Moraes determina destruição de armas apreendidas com Anderson Torres e ex-PMs condenados pelo 8 de Janeiro",
+     "url": "https://terrabrasilnoticias.com/2026/10/moraes-determina-destruicao-de-armas-apreendidas-com-anderson-torres-e-ex-pms-condenados-pelo-8-de-janeiro/",
+     "angulo": "Enquadra a destruição das armas dos 'condenados pelo 8 de Janeiro'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Moraes solta desembargador acusado de vazar operação da Polícia Federal",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-solta-desembargador-acusado-de-vazar-operacao-da-policia-federal/",
+     "angulo": "Soltura de Macário Judice com tornozeleira.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Moraes solta desembargador acusado de vazar operação contra TH Joias",
+     "url": "https://www.diariodocentrodomundo.com.br/moraes-solta-desembargador-acusado-de-vazar-operacao-contra-th-joias/",
+     "angulo": "Soltura do desembargador; Bacellar transferido, TH Joias preso.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Moraes manda PF prender eletricista condenado pelos atos de 8 de Janeiro",
+     "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-manda-pf-prender-eletricista-condenado-pelos-atos-de-8-de-janeiro",
+     "angulo": "Eletricista condenado a 14 anos pelo 8/1 é preso após fim dos recursos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "PGR endossa decisão de Moraes sobre quebra de sigilo da fonte de jornalista do Maranhão",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/pgr-endossa-decisao-de-moraes-sobre-quebra-de-sigilo-da-fonte-de-jornalista-do-maranhao.shtml",
+     "angulo": "PGR endossa quebra de sigilo da fonte do jornalista do Maranhão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PGR apoia quebra de sigilo de jornalista que investigou Flávio Dino",
+     "url": "https://www.brasil247.com/brasilia/pgr-apoia-quebra-de-sigilo-de-jornalista-que-investigou-flavio-dino/",
+     "angulo": "Gonet defende identificar a fonte das reportagens sobre a família de Dino.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Economista Yanis Varoufakis critica STF após derrota de Flávio e diz que Judiciário ultrapassa limites no Brasil",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/economista-yanis-varoufakis-critica-stf-apos-derrota-de-flavio-e-diz-que-judiciario-ultrapassa-limites-no-brasil.shtml",
+     "angulo": "Varoufakis critica STF: Judiciário ultrapassa limites no Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "lula-envia-ministros-ms-ameacas-indigenas-tacuru-agua-envenenada-casa-de-reza-incendiada-apib-30-denuncias-funai-pf-boicotes-listas",
+   "editoria": "Direitos Humanos",
+   "escopo": "brasil",
+   "titulo": "Lula envia comitiva de ministros a Mato Grosso do Sul após ameaça de envenenar a água de aldeia Guarani-Kaiowá e incêndio de casa de reza; Apib registra mais de 30 ataques desde a eleição, Funai aciona a PF e MPF dá 48 horas a Tacuru, enquanto listas de boicote a 'petistas' se espalham",
+   "lide": "Uma missão liderada pela ministra Sônia Guajajara, com representantes de três ministérios, desembarca neste sábado em Dourados para apurar relatos de ameaças e agressões a indígenas Guarani e Kaiowá depois do segundo turno; a Força Nacional foi acionada. Em Tacuru, um servidor público enviou áudio estimulando envenenar a água consumida pela aldeia e uma casa de reza foi incendiada em Jaguapiré; o MPF deu 48 horas ao município para se explicar, descartou atentado em Naviraí, e a Funai pediu à PF a apuração de mais de 30 casos registrados pela Apib. Em paralelo, listas de boicote a comerciantes e servidores que votaram em Lula circulam em Minas, médicos são acusados de sugerir boicote a pacientes, uma professora do Pará foi afastada por defender violência contra filhos de eleitores de Lula, e a Câmara de São Paulo rejeitou apurar posts de um secretário que incentivavam demissões.",
+   "contexto": "Em 29/10 o MPT contabilizava 3.754 denúncias de assédio eleitoral e a Justiça do Trabalho mandou a Meta remover posts que incentivam demissão por voto. Deputado Nikolas Ferreira defende o boicote a empresas 'de petistas'.",
+   "fatos": [
+    {
+     "texto": "Lula enviou uma comitiva de ministros a Mato Grosso do Sul em razão de relatos de violência contra indígenas após o segundo turno; a missão, liderada por Sônia Guajajara com representantes de três ministérios, desembarca em Dourados no sábado (31), e a Força Nacional foi acionada.",
+     "base": "3 fontes independentes (Poder360, Veja, Exame)"
+    },
+    {
+     "texto": "Em Tacuru (MS), um servidor público enviou áudio estimulando envenenar a água consumida pela aldeia Guarani-Kaiowá; o MPF deu 48 horas ao município para se manifestar e descartou atentado em Naviraí.",
+     "base": "3 fontes independentes (SBT News, Exame, Brasil de Fato)"
+    },
+    {
+     "texto": "A casa de reza da rezadeira Ñandesy Roberta, de 90 anos, na região de Jaguapiré, em Tacuru, foi incendiada em 29/10, segundo a Apib, que registra mais de 30 denúncias de violência desde as eleições.",
+     "base": "3 fontes independentes (Opera Mundi, Brasil de Fato, Mídia Ninja)"
+    },
+    {
+     "texto": "A Funai acionou a PF e pediu apuração dos ataques; o governo federal criou um canal para denúncias de violência contra indígenas.",
+     "base": "3 fontes independentes (CartaCapital, Jovem Pan, A Tarde)"
+    },
+    {
+     "texto": "Uma lista sugerindo boicote a dezenas de comerciantes, servidores e professores circula em Cláudio (MG); médicos de diferentes estados são acusados de expor colegas e sugerir discriminação a pacientes que teriam votado no PT.",
+     "base": "Revista Fórum (lista em MG) e BBC Brasil (médicos), fonte única cada"
+    },
+    {
+     "texto": "Uma professora da rede municipal de Melgaço (PA) foi afastada após publicar mensagens defendendo violência sexual contra filhos de eleitores de Lula; a Câmara de São Paulo rejeitou por 16 a 1 requerimento para apurar posts do secretário Bruno Botacin incentivando demissão de petistas.",
+     "base": "ICL Notícias (professora) e DCM (Câmara de SP), fonte única cada"
+    },
+    {
+     "texto": "O ministro do Trabalho, Luiz Marinho, chamou Nikolas Ferreira de 'irresponsável' e pediu ao Ministério Público providências pelo incentivo ao boicote.",
+     "base": "DCM (fonte única); Folha registra a defesa do boicote por Nikolas"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "'Há uma retaliação por nossa campanha a Lula'; os indígenas cobram proteção e demarcações.",
+     "quem": "Deputada Célia Xakriabá e Apib (Brasil de Fato, SBT News)"
+    },
+    {
+     "texto": "'O Brasil não é terra sem lei': a onda de violência pós-eleitoral atingiu as comunidades indígenas.",
+     "quem": "Ministro Guilherme Boulos (Revista Fórum)"
+    },
+    {
+     "texto": "A frustração de 60 milhões de eleitores não justifica boicote econômico e ataques a quem votou 13.",
+     "quem": "Ricardo Noblat, Metrópoles (opinião)"
+    },
+    {
+     "texto": "Listas de boicote podem configurar crime a depender do conteúdo, mas parte é liberdade de expressão.",
+     "quem": "Advogados ouvidos pela BBC Brasil"
+    },
+    {
+     "texto": "O caso de Tacuru reacende um conflito centenário pela terra na região.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "Boicotes e demissões de eleitores de Lula dizem algo sobre a polarização brasileira.",
+     "quem": "Nexo (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Houve atentado contra indígenas em Naviraí (MS).",
+     "rotulo": "Sem evidência",
+     "explicacao": "O MPF descartou a ocorrência de atentado em Naviraí, embora apure outras denúncias na região.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo trata os ataques como retaliação política contra indígenas e trabalhadores, mobiliza ministérios, Força Nacional e PF e cobra o MP contra quem incita boicote.",
+    "oposicao": "Nikolas Ferreira defende o boicote como escolha do consumidor; veículos de direita não cobriram os ataques aos indígenas e registram apenas a atuação da Funai (Jovem Pan)."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Gazeta do Povo, Terra Brasil, Oeste, Diário do Poder) não publicaram nada sobre as ameaças aos Guarani-Kaiowá nem sobre a comitiva de ministros; veículos de esquerda não registram que o MPF descartou o atentado em Naviraí.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "assedio-eleitoral-3754-denuncias-mpt-processa-meta-50-mi-justica-manda-remover-posts-24h-governo-confirma-lista-suja",
+    "titulo": "Denúncias de assédio eleitoral chegam a 3.754 e superam 2022; MPT processa a Meta em R$ 50 milhões, Justiça do Trabalho dá 24 horas para remover posts que incentivam demissão por voto e governo confirma 'lista suja' de empresas"
+   },
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Lula envia comitiva de ministros ao MS por ameaças a indígenas",
+     "url": "https://www.poder360.com.br/poder-governo/lula-envia-comitiva-de-ministros-ao-ms-por-ameacas-a-indigenas/",
+     "angulo": "Lula envia ministros ao MS; Força Nacional acionada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Missão federal vai a MS após denúncias de violência contra comunidades indígenas",
+     "url": "https://veja.abril.com.br/politica/missao-federal-vai-a-ms-apos-denuncias-de-violencia-contra-comunidades-indigenas/",
+     "angulo": "Missão liderada por Sônia Guajajara desembarca em Dourados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Ameaças a indígenas após eleição em MS mobilizam PF e três ministérios; entenda",
+     "url": "https://exame.com/esg/ameacas-a-indigenas-apos-eleicao-em-ms-mobilizam-pf-e-tres-ministerios-entenda/",
+     "angulo": "Caso de Tacuru mobiliza PF e três ministérios; conflito centenário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Após ameaça de envenenamento da água, indígenas de Tacuru relatam medo e insegurança; veja como vivem as comunidades",
+     "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/31/apos-ameaca-de-envenenamento-da-agua-indigenas-de-tacuru-relatam-medo-e-inseguranca-veja-como-vivem-as-comunidades.ghtml",
+     "angulo": "Como vivem as comunidades de Tacuru após a ameaça de envenenar a água.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "MPF apura ameaças contra povos indígenas nas eleições em MS",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/mpf-apura-ameacas-contra-povos-indigenas-nas-eleicoes-em-ms",
+     "angulo": "MPF dá 48 h a Tacuru e descarta atentado em Naviraí.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Há uma retaliação por nossa campanha a Lula’, afirma Célia Xakriabá sobre violência contra indígenas",
+     "url": "https://www.brasildefato.com.br/2026/10/30/ha-uma-retaliacao-por-nossa-campanha-a-lula-afirma-celia-xakriaba-sobre-violencia-contra-indigenas/",
+     "angulo": "Célia Xakriabá: 'retaliação por nossa campanha a Lula'; casa de reza incendiada.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "MPF e PF investigam denúncias de violência contra indígenas em MS",
+     "url": "https://operamundi.uol.com.br/meio-ambiente/mpf-e-pf-investigam-denuncias-de-violencia-contra-indigenas-em-ms/",
+     "angulo": "Escalada de ameaças; casa da rezadeira de 90 anos incendiada.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "Após reeleição de Lula, indígenas denunciam ataques e cobram proteção",
+     "url": "https://midianinja.org/apos-reeleicao-de-lula-indigenas-denunciam-ataques-e-cobram-protecao/",
+     "angulo": "Apib: mais de 30 denúncias; relatos de agressões e possíveis assassinatos.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Funai aciona PF e pede apuração de casos de ataques contra indígenas",
+     "url": "https://jovempan.com.br/brasil/funai-aciona-pf-e-pede-apuracao-de-casos-de-ataques-contra-indigenas/",
+     "angulo": "Funai aciona PF; único veículo de direita a registrar o caso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Funai aciona PF e pede apuração de casos de ataques contra indígenas",
+     "url": "https://www.cartacapital.com.br/politica/funai-aciona-pf-e-pede-apuracao-de-casos-de-ataques-contra-indigenas/",
+     "angulo": "Funai pede apuração; mais de 30 ataques em MS.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
+     "url": "https://www.bbc.com/portuguese/articles/c63el2njn4zko?at_medium=RSS&at_campaign=rss",
+     "angulo": "Médicos acusados de perseguir colegas e sugerir boicote a pacientes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Bolsonaristas promovem boicote contra comerciantes que votaram em Lula em MG",
+     "url": "https://revistaforum.com.br/politica/bolsonaristas-boicote-lula-mg/",
+     "angulo": "Lista de boicote a comerciantes e servidores em Cláudio (MG).",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Nikolas zomba de críticas a carta golpista de Flávio e defende boicote a empresas de petistas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas.shtml",
+     "angulo": "Nikolas zomba das críticas à carta e defende boicote a empresas de petistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "raizen-aprova-recuperacao-extrajudicial-65-bi-dividida-em-duas-oncoclinicas-61-6-credores-chilli-beans-aneel-bandeira-verde-novembro",
+   "editoria": "Empresas",
+   "escopo": "brasil",
+   "titulo": "Acionistas da Raízen aprovam a maior recuperação extrajudicial do país: dívida de R$ 65 bilhões, capitalização de até R$ 39,8 bilhões, credores com cerca de 80% e empresa dividida em duas; Oncoclínicas atinge 61,6% de adesão, Chilli Beans pede recuperação e Aneel mantém bandeira verde em novembro",
+   "lide": "Em assembleias de 30/10, a Raízen aprovou as medidas do plano de recuperação extrajudicial homologado em julho: reestrutura R$ 61,4 bilhões em dívidas, prevê capitalização de até R$ 39,8 bilhões, separa combustíveis de açúcar e etanol e transforma credores em sócios com cerca de 80% do capital, com conversão prevista até 17 de dezembro. A Oncoclínicas obteve adesão de credores com 61,6% dos R$ 5,7 bilhões abrangidos, acima do mínimo legal, e a Chilli Beans pediu recuperação extrajudicial para R$ 340 milhões. A Aneel manteve a bandeira tarifária verde em novembro, pelo segundo mês seguido, com os reservatórios recuperados pelas chuvas no Sul e no Sudeste.",
+   "contexto": "A Raízen, joint venture de Cosan e Shell, pediu recuperação extrajudicial em 2026 para um passivo de cerca de R$ 65 bilhões. A bandeira amarela vigorou por cinco meses até setembro, com custo de R$ 1,885 a cada 100 kWh.",
+   "fatos": [
+    {
+     "texto": "Acionistas da Raízen e da Raízen Energia aprovaram em 30/10 as medidas para implementar o plano de recuperação extrajudicial, que reestrutura R$ 61,4 bilhões em dívidas, prevê capitalização de até R$ 39,8 bilhões e separa as operações de combustíveis das de açúcar e etanol; novos conselhos foram eleitos.",
+     "base": "5 fontes independentes (g1, Exame, SBT News, Folha, InfoMoney)"
+    },
+    {
+     "texto": "Os credores passam a ser sócios com cerca de 80% da empresa e esperam concluir a conversão de dívida em ações até 17 de dezembro, para aproveitar benefícios fiscais ainda neste exercício.",
+     "base": "NeoFeed (participação) e Valor (prazo), fonte única cada"
+    },
+    {
+     "texto": "A Oncoclínicas informou em fato relevante que credores com 61,6% dos créditos abrangidos (mais de R$ 3,5 bilhões de uma dívida de R$ 5,7 bilhões) aderiram ao plano, superando o quórum legal para a homologação.",
+     "base": "5 fontes independentes (Valor, g1, CNN Brasil, Folha, Brasil 247)"
+    },
+    {
+     "texto": "A Chilli Beans, maior rede de óculos escuros da América Latina, protocolou em 30/10 pedido de recuperação extrajudicial para renegociar dívida de R$ 340 milhões, com aporte conduzido pelos próprios credores.",
+     "base": "2 fontes independentes (NeoFeed, Exame)"
+    },
+    {
+     "texto": "A Aneel manteve a bandeira tarifária verde para novembro, pelo segundo mês consecutivo, sem cobrança adicional, em razão do aumento das chuvas no Sul e no Sudeste e da recuperação dos reservatórios; antes de outubro foram cinco meses de bandeira amarela.",
+     "base": "7 fontes independentes (Agência Brasil, Estadão, Folha, g1, InfoMoney, IstoÉ, Gazeta do Povo)"
+    },
+    {
+     "texto": "A Aneel prevê três leilões de transmissão de energia em 2027.",
+     "base": "Agência Brasil (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A maior recuperação extrajudicial do Brasil 'está perto do fim' com os credores virando sócios.",
+     "quem": "NeoFeed"
+    },
+    {
+     "texto": "O pedido de recuperação da Raízen preocupa produtores de cana fornecedores.",
+     "quem": "g1"
+    },
+    {
+     "texto": "A bandeira verde reflete condições favoráveis de geração, com custos mais baixos.",
+     "quem": "Aneel, em nota (Valor)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Nenhum veículo de esquerda cobriu a Raízen ou a Oncoclínicas, e a direita só registrou a bandeira verde (Gazeta do Povo); a cobertura é toda de veículos econômicos e grandes portais.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Raízen aprova plano para sair de crise de R$ 65 bilhões e será dividida em duas empresas",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/30/raizen-aprova-plano-para-evitar-falencia-e-preve-injecao-de-ate-r-398-bilhoes.ghtml",
+     "angulo": "Raízen aprova plano para sair de crise de R$ 65 bi e será dividida em duas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Credores viram sócios na Raízen e abrem caminho para fim de maior recuperação extrajudicial do Brasil",
+     "url": "https://neofeed.com.br/negocios/credores-viram-socios-na-raizen-e-abrem-caminho-para-fim-de-maior-recuperacao-extrajudicial-do-brasil/",
+     "angulo": "Credores viram sócios com cerca de 80%; fim da maior recuperação extrajudicial do país.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Raízen aprova reestruturação e credores miram conversão de dívida até dezembro",
+     "url": "https://valor.globo.com/empresas/noticia/2026/10/30/acionistas-da-razen-aprovam-plano-de-recuperao-extrajudicial-dizem-fontes.ghtml",
+     "angulo": "Conversão de dívida em ações até 17 de dezembro, por benefícios fiscais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Raízen aprova recuperação extrajudicial e prevê capitalização de até R$ 39,8 bi",
+     "url": "https://exame.com/invest/mercados/raizen-aprova-recuperacao-extrajudicial-e-preve-capitalizacao-de-ate-r-398-bi/",
+     "angulo": "Reestrutura R$ 61,4 bi; capitalização de até R$ 39,8 bi.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Raízen aprova recuperação extrajudicial e prevê R$ 39,8 bi",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/raizen-aprova-recuperacao-extrajudicial-e-preve-r-39-8-bi",
+     "angulo": "Separação de combustíveis e açúcar e etanol.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Oncoclínicas obtém apoio de 61,6% dos credores e avança com recuperação extrajudicial",
+     "url": "https://valor.globo.com/empresas/noticia/2026/10/30/oncoclnicas-obtm-apoio-de-616-pontos-percentuais-dos-credores-e-avana-com-recuperao-extrajudicial.ghtml",
+     "angulo": "Oncoclínicas atinge 61,6% de adesão e segue para homologação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Oncoclínicas obtém apoio de credores para renegociar dívida de R$ 5,7 bilhões",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/30/oncoclinicas-obtem-apoio-de-credores-para-renegociar-divida-de-r-57-bilhoes.ghtml",
+     "angulo": "Renegociação de dívida de R$ 5,7 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Com dívidas de R$ 340 milhões, Chilli Beans entra com pedido de recuperação extrajudicial",
+     "url": "https://neofeed.com.br/negocios/com-dividas-de-r-340-milhoes-chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/",
+     "angulo": "Chilli Beans pede recuperação extrajudicial para R$ 340 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Aneel mantém bandeira tarifária verde em novembro",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aneel-mantem-bandeira-tarifaria-verde-em-novembro",
+     "angulo": "Aneel mantém bandeira verde pelo segundo mês.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Bandeira tarifária em novembro segue verde, sem adicional na conta de luz",
+     "url": "https://www.estadao.com.br/economia/bandeira-tarifaria-em-novembro-segue-verde-sem-adicional-na-conta-de-luz/",
+     "angulo": "Antes de outubro, cinco meses de bandeira amarela a R$ 1,885 por 100 kWh.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Aneel mantém bandeira verde na conta de luz em novembro",
+     "url": "https://www.gazetadopovo.com.br/economia/aneel-mantem-bandeira-verde-na-conta-de-luz-em-novembro/",
+     "angulo": "Conta de luz sem taxa extra em novembro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Aneel prevê três leilões de transmissão de energia em 2027",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aneel-preve-tres-leiloes-de-transmissao-de-energia-em-2027",
+     "angulo": "Aneel prevê três leilões de transmissão em 2027.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "midterms-3-dias-trump-remarca-comicios-promete-5-mil-dolares-alasca-promotor-federal-investiga-peltola-corte-rejeita-doj-california-papa-leao-vota",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "A três dias das midterms, Trump remarca os comícios que havia cancelado e promete US$ 5 mil a cada americano se os republicanos vencerem; promotor federal confirma investigação criminal sobre a campanha de Peltola no Alasca, tribunal de apelações rejeita de novo o bloqueio de 20 mil votos na Califórnia e o papa Leão XIV vota pelo correio",
+   "lide": "Um dia depois de cancelar os comícios no Kansas e em Iowa, Trump os recolocou na agenda de domingo e, num ato na Flórida, voltou a prometer US$ 5 mil a cada americano em caso de vitória republicana, apesar das dúvidas sobre legalidade e financiamento. No Alasca, o procurador federal confirmou investigações criminal e civil sobre o suposto esquema da campanha de Mary Peltola para recrutar um homônimo do senador Dan Sullivan, e o Departamento de Justiça pediu liminar para impedir o estado de oficializar o resultado; um tribunal de apelações rejeitou por 2 a 1 o pedido para separar os votos de 20 mil californianos suspeitos de não serem cidadãos, um juiz proibiu o DOJ de ameaçar funcionários eleitorais, e o Departamento abriu investigação sobre registros de eleitores no Arizona. O Vaticano confirmou que Leão XIV votou pelo correio em Illinois, o primeiro papa a votar numa eleição americana; mais de 43 milhões já votaram antecipadamente.",
+   "contexto": "A votação de 3/11 renova a Câmara, um terço do Senado e 26 governos. Na quinta, o governador do Alasca ordenou investigação e sugeriu não certificar o resultado se Peltola vencer.",
+   "fatos": [
+    {
+     "texto": "Os comícios de Trump no Kansas e em Iowa, cancelados na quinta, voltaram à agenda de domingo; em comício na Flórida na sexta, Trump voltou a prometer US$ 5 mil a cada americano em caso de vitória republicana.",
+     "base": "Breitbart e El País (comícios); Le Monde (promessa)"
+    },
+    {
+     "texto": "O procurador federal do Alasca confirmou em 30/10 a existência de investigações criminal e civil sobre o suposto esquema para colocar um segundo Dan Sullivan na cédula; Peltola nega conhecimento, e o DOJ afirma que a campanha dela enganou o tribunal e pediu liminar para impedir o estado de oficializar o resultado.",
+     "base": "4 fontes independentes (The Guardian, BBC, Bloomberg, g1); Breitbart para a alegação do DOJ"
+    },
+    {
+     "texto": "Um tribunal federal de apelações rejeitou por 2 a 1 o pedido de emergência do DOJ para separar os votos por correio de mais de 20 mil californianos que o governo suspeita não serem cidadãos.",
+     "base": "3 fontes independentes (Axios, Al Jazeera, El País)"
+    },
+    {
+     "texto": "Um juiz federal proibiu em 30/10 o governo de ameaçar funcionários eleitorais com processo criminal por contar votos de eleitores registrados que o governo considera inelegíveis; o DOJ anunciou investigação sobre três grupos de registro de eleitores no Arizona.",
+     "base": "Axios (duas matérias, fonte única cada); El País registra a intensificação das investigações"
+    },
+    {
+     "texto": "O Vaticano confirmou em 30/10 que o papa Leão XIV, nascido em Chicago, enviou pelo correio seu voto para as eleições em Illinois, tornando-se o primeiro pontífice a votar numa eleição americana; a Santa Sé falou em 'direito e dever dos cidadãos de participar dos processos democráticos'.",
+     "base": "7 fontes independentes (Axios, BBC, Al Jazeera, Estadão, DW Brasil, g1, Breitbart)"
+    },
+    {
+     "texto": "Mais de 43 milhões de americanos votaram antecipadamente, e democratas lideram as pesquisas.",
+     "base": "Al Jazeera e Bloomberg"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Recrutar candidatos sem chance para enfraquecer um rival ('ballot stacking') é uma velha tática eleitoral que ressurge no Alasca.",
+     "quem": "El País (análise)"
+    },
+    {
+     "texto": "O risco de violência política existe, mas não é inevitável; investidores estão nervosos com as midterms.",
+     "quem": "Martin Wolf e Barbara F. Walter, Financial Times"
+    },
+    {
+     "texto": "Pesquisas falsas expõem vulnerabilidades do processo eleitoral num ambiente polarizado.",
+     "quem": "Al Jazeera (análise)"
+    },
+    {
+     "texto": "Os republicanos estão em 'situação muito difícil' na Câmara; o governo pode virar 'pato manco'.",
+     "quem": "Pat Toomey (Bloomberg) e especialista ouvido pela CNN Brasil"
+    },
+    {
+     "texto": "Uma maioria democrata abriria investigação sobre a ajuda de Trump a Flávio Bolsonaro.",
+     "quem": "Deputada Pramila Jayapal, à Folha"
+    },
+    {
+     "texto": "Os democratas abandonaram as pautas 'woke' para focar no custo de vida, mas os republicanos seguem explorando o tema.",
+     "quem": "Le Monde (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Cada americano receberá US$ 5 mil se os republicanos vencerem (Trump).",
+     "rotulo": "Sem evidência",
+     "explicacao": "Não há proposta legislativa nem fonte de financiamento definida; o próprio Le Monde registra as dúvidas sobre legalidade e custo.",
+     "onde_circula": "comício de Trump na Flórida",
+     "checagem": []
+    },
+    {
+     "alegacao": "A campanha de Peltola cometeu fraude e crime ao recrutar um homônimo (Trump e DOJ).",
+     "rotulo": "Em apuração",
+     "explicacao": "O procurador federal confirmou investigações criminal e civil, mas não há acusação formal; Peltola nega conhecimento e democratas dizem que a tática é legal no voto ranqueado.",
+     "onde_circula": "DOJ, Breitbart, Fox News",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "g1 e InfoMoney discutem como as midterms podem afetar a relação Brasil-EUA e o caso Flávio; Jayapal diz à Folha que uma maioria democrata investigaria a ajuda de Trump ao senador.",
+   "ponto_cego": "Breitbart e New York Post seguem concentrados no Alasca e na promessa de 'blue tsunami' de Newsom, sem registrar as derrotas judiciais do DOJ; veículos brasileiros de esquerda só cobriram o voto do papa.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "midterms-4-dias-trump-cancela-comicios-tele-rallies-alasca-dois-dan-sullivan-governador-investiga-peltola-certificacao-43-mi-votos",
+    "titulo": "A quatro dias das midterms, Trump cancela comícios e migra para 'tele-rallies' em 20 estados; no Alasca, governador abre investigação sobre a campanha democrata que recrutou um homônimo do senador Dan Sullivan e ameaça não certificar o resultado, e votos antecipados passam de 43 milhões"
+   },
+   "materias": [
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Trump retoma sus mítines en Iowa y Kansas, tras una abrupta cancelación casi a las puertas de las ‘midterms’",
+     "url": "https://elpais.com/us/2026-10-30/trump-retoma-sus-mitines-en-iowa-y-kansas-tras-una-abrupta-cancelacion-casi-a-las-puertas-de-las-midterms.html",
+     "angulo": "Trump retoma os comícios em Iowa e Kansas após o cancelamento abrupto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump's Sunday Rallies in Kansas, Iowa Added Back to Schedule",
+     "url": "https://www.breitbart.com/politics/2026/10/30/trumps-sunday-rallies-in-kansas-iowa-added-back-to-schedule/",
+     "angulo": "Comícios de domingo voltam à agenda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "EN DIRECT, midterms 2026 : retrouvez les dernières informations à quelques jours des élections",
+     "url": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-midterms-2026-retrouvez-les-dernieres-informations-a-quelques-jours-des-elections_6801590_3210.html",
+     "angulo": "Ao vivo: Trump promete de novo US$ 5 mil a cada americano, apesar das dúvidas legais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+     "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+     "angulo": "Procurador federal confirma investigações criminal e civil no Alasca.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Peltola nega conhecimento do suposto esquema do segundo Dan Sullivan.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Departamento de Justiça dos EUA pede liminar para impedir Alasca de oficializar resultado da eleição",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/30/justica-dos-eua-pede-liminar-apos-denuncia-de-estrategia-democrata-para-confundir-eleitores-no-alasca.ghtml",
+     "angulo": "DOJ pede liminar para impedir o Alasca de oficializar o resultado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "DOJ Claims Mary Peltola, Democrats Misled Federal Court on Second Dan Sullivan Candidate Scheme",
+     "url": "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
+     "angulo": "DOJ afirma que Peltola e democratas enganaram o tribunal.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Trump DOJ loses last-minute California ballot bid",
+     "url": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
+     "angulo": "Apelação rejeita por 2 a 1 o pedido do DOJ sobre 20 mil votos na Califórnia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Judge blocks DOJ from threatening election workers before midterms",
+     "url": "https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms",
+     "angulo": "Juiz proíbe DOJ de ameaçar funcionários eleitorais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "El Gobierno de Trump intensifica sus investigaciones electorales a días de las ‘midterms’",
+     "url": "https://elpais.com/us/2026-10-30/el-gobierno-de-trump-intensifica-sus-investigaciones-judiciales-electorales-a-cuatro-dias-de-las-midterms.html",
+     "angulo": "Governo intensifica investigações eleitorais a dias da votação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Leão XIV vota pelo correio nas eleições dos EUA e se torna 1º papa a participar de eleição nacional",
+     "url": "https://www.estadao.com.br/internacional/leao-xiv-vota-pelo-correio-nas-eleicoes-dos-eua-e-se-torna-1-papa-a-participar-de-eleicao-nacional-npr/",
+     "angulo": "Papa vota pelo correio; Vaticano fala em dever cívico.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "US midterms: 3 days to go – What latest polls say as early voting surges",
+     "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss",
+     "angulo": "Três dias: 43 milhões de votos antecipados e democratas à frente nas pesquisas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "polonia-crise-constitucional-juiza-afasta-presidente-tribunal-constitucional-policia-de-choque-nawrocki-interrompe-viagem-acusa-tusk-golpe",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Polônia mergulha em crise constitucional: juíza afasta por um mês o presidente do Tribunal Constitucional, governo move acusações criminais, polícia de choque cerca a corte em Varsóvia e o presidente Nawrocki interrompe viagem ao Senegal para acusar o governo Tusk de 'golpe'",
+   "lide": "A juíza Anna Korwin-Piotrowska determinou em 30/10 o afastamento por um mês do presidente do Tribunal Constitucional, Bogdan Święczkowski, e do vice, Bartłomiej Sochański, acusados de impedir o exercício de cinco juízes eleitos pelo Parlamento; o governo moveu acusações criminais contra os dois, que rejeitam a decisão. Policiais de choque bloquearam o acesso à corte enquanto militantes do partido Lei e Justiça protestavam, houve detidos, e o presidente Karol Nawrocki, nacionalista, interrompeu o voo para o Senegal, foi ao local, chamou a medida de tentativa de golpe do governo de Donald Tusk e convocou consultas com os partidos para 'restaurar a ordem constitucional'. A disputa pelo controle do tribunal se arrasta desde 2015, e as eleições legislativas são em um ano.",
+   "contexto": "O bloqueio do Tribunal Constitucional nasceu da recusa de Nawrocki em receber o juramento de juízes eleitos pela Dieta; o governo pró-europeu de Tusk e a oposição nacionalista disputam a legitimidade da corte há uma década.",
+   "fatos": [
+    {
+     "texto": "A juíza Anna Korwin-Piotrowska determinou em 30/10 o afastamento por um mês do presidente do Tribunal Constitucional, Bogdan Święczkowski, e do vice, Bartłomiej Sochański, por impedir o exercício das funções de cinco magistrados eleitos pelo Parlamento; Święczkowski rejeita a decisão.",
+     "base": "4 fontes independentes (Revista Oeste, Folha, El País, Le Monde)"
+    },
+    {
+     "texto": "O governo suspendeu os dois magistrados e moveu acusações criminais contra eles; a suspensão foi publicada no site oficial da corte.",
+     "base": "BBC (acusações) e Folha (publicação)"
+    },
+    {
+     "texto": "Policiais de choque foram mobilizados ao redor do Tribunal Constitucional em Varsóvia na noite de 30/10, em confronto com manifestantes do partido Lei e Justiça; houve detidos.",
+     "base": "5 fontes independentes (The Guardian, BBC, Le Monde, CartaCapital, Clarín)"
+    },
+    {
+     "texto": "O presidente Karol Nawrocki interrompeu o voo para o Senegal e retornou a Varsóvia, foi ao tribunal, acusou o governo de Donald Tusk de tentativa de golpe e convocou consultas urgentes com os partidos parlamentares para 'restaurar a ordem constitucional'.",
+     "base": "6 fontes independentes (CNN Brasil, Al Jazeera, El País, Bloomberg, Fox News, Metrópoles)"
+    },
+    {
+     "texto": "A crise sobre a composição e a legitimidade do Tribunal Constitucional começou em 2015, e as eleições legislativas ocorrem em cerca de um ano.",
+     "base": "Metrópoles e Le Monde"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A disputa entre presidente e primeiro-ministro pelas nomeações ao tribunal é uma 'batalha pelo Estado de direito' que escala.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "O impasse ameaça desencadear uma crise política ampla; nenhum compromisso se desenha a um ano das legislativas.",
+     "quem": "Bloomberg e Le Monde"
+    },
+    {
+     "texto": "A decisão intensifica a disputa entre o governo pró-europeu e o presidente nacionalista pelo controle do Judiciário.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "A oposição ultraconservadora acusa o governo de golpe de Estado.",
+     "quem": "El País"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Tusk deu um 'golpe' ao afastar o presidente do Tribunal Constitucional (Nawrocki e PiS).",
+     "rotulo": "Em apuração",
+     "explicacao": "O afastamento foi determinado por uma juíza com base em acusação de obstrução a magistrados eleitos pelo Parlamento; o governo o apresenta como decisão judicial e a oposição como manobra política; a legitimidade da corte é contestada desde 2015.",
+     "onde_circula": "declarações de Nawrocki e do PiS; Fox News, Clarín",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Veículos brasileiros de direita (Oeste) e de esquerda (CartaCapital) cobriram, cada um com seu enquadramento: Oeste chama a corte de 'STF da Polônia' e destaca o afastamento; CartaCapital destaca a escalada e a mobilização policial.",
+   "ponto_cego": "Fox News e Clarín adotam o termo 'golpe' de Nawrocki no título; veículos brasileiros, com exceção de Folha, Oeste, CartaCapital, Metrópoles e CNN Brasil, não cobriram.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Riot police deployed to Poland’s constitutional court after judge suspended",
+     "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+     "angulo": "Polícia de choque na corte; Nawrocki tenta entrar no prédio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Police deployed during stand-off over control of top Poland court",
+     "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Governo suspende dois juízes e move acusações criminais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Poland suspends top judges as battle over rule of law escalates",
+     "url": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
+     "angulo": "Batalha pelo Estado de direito escala entre presidente e premiê.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "En Pologne, nuit de heurts devant le Tribunal constitutionnel",
+     "url": "https://www.lemonde.fr/international/article/2026/10/31/en-pologne-nuit-de-heurts-devant-le-tribunal-constitutionnel_6803472_3210.html",
+     "angulo": "Noite de confrontos; origem no bloqueio dos juramentos; sem compromisso à vista.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "La suspensión del presidente del Tribunal Constitucional de Polonia desata una crisis institucional",
+     "url": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
+     "angulo": "Suspensão desata crise institucional; oposição fala em golpe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Polish President Seeks Talks to Resolve Stand-Off at Top Court",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/poland-moves-against-top-court-in-a-showdown-with-the-opposition",
+     "angulo": "Nawrocki pede consultas para 'restaurar a ordem constitucional'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Poland’s president joins protest amid constitutional crisis at top court",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+     "angulo": "Presidente se junta aos manifestantes após cortar viagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Polish president turns plane around after 'coup' at nation’s top court",
+     "url": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
+     "angulo": "'Golpe' na corte suprema: enquadramento alinhado ao presidente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Crisis en Polonia: el Presidente acusa al Primer Ministro de un intento de Golpe y hay un fuerte operativo policial frente al Tribunal Constitucional",
+     "url": "https://www.clarin.com/mundo/crisis-polonia-presidente-acusa-primer-ministro-intento-golpe-fuerte-operativo-policial-frente-tribunal-constitucional_0_tOR9ZXwkCC.html",
+     "angulo": "Presidente acusa premiê de tentativa de golpe; detidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Direita acusa governo da Polônia de golpe após suspensão do presidente do Tribunal Constitucional",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/direita-acusa-governo-da-polonia-de-golpe-apos-suspensao-do-presidente-do-tribunal-constitucional.shtml",
+     "angulo": "Direita acusa governo de golpe após suspensão do presidente da corte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Presidente do ‘STF da Polônia’ é afastado sob acusação de impedir atuação de juízes",
+     "url": "https://revistaoeste.com/mundo/presidente-do-stf-da-polonia-e-afastado-sob-acusacao-de-impedir-atuacao-de-juizes/",
+     "angulo": "'STF da Polônia': juíza afasta presidente e vice por impedir juízes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Escalada da crise na Polônia: polícia é mobilizada ao redor do Tribunal Constitucional",
+     "url": "https://www.cartacapital.com.br/mundo/escalada-da-crise-na-polonia-policia-e-mobilizada-ao-redor-do-tribunal-constitucional/",
+     "angulo": "Escalada da crise; polícia mobilizada ao redor do tribunal.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Suspensão de chefe do Tribunal Constitucional gera manifestação na Polônia",
+     "url": "https://www.metropoles.com/mundo/suspensao-de-chefe-do-tribunal-constitucional-gera-manifestacao-na-polonia",
+     "angulo": "Crise sobre a corte começou em 2015; presidente desiste de viagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "eua-aprovam-500-patriot-ucrania-2-1-bi-evacuacao-oleshky-primeira-operacao-conjunta-g20-foto-cancelada-lavrov-novaya-gazeta-fecha",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões, e Zelensky diz que a entrega pode levar anos; Rússia e Ucrânia evacuam centenas de civis de Oleshky na primeira operação conjunta da guerra, boicote a Lavrov cancela a foto do G20 e o Novaya Gazeta anuncia fechamento",
+   "lide": "O governo Trump aprovou em 30/10 a venda de 500 interceptadores Patriot PAC-3 à Ucrânia, uma das medidas mais significativas de armamento defensivo desde 2025, ainda sujeita ao Congresso; Zelensky agradeceu a 'decisão forte', mas alertou que a entrega pode levar anos e que os estoques são necessários agora. Em Oleshky, cidade ocupada e sitiada na margem do Dnieper, centenas de moradores foram retirados em ônibus numa operação conjunta de Moscou e Kiev, a primeira do tipo em quatro anos e oito meses de guerra, sob trégua de 72 horas mediada pelos EUA. Em Atlanta, os EUA cancelaram a 'foto de família' do G20 depois que Reino Unido, Austrália e outros se recusaram a posar com Sergei Lavrov, e em Moscou o Novaya Gazeta, jornal do Nobel Dmitri Muratov, anunciou que deixa de existir em 9 de novembro: 'nos mataram'.",
+   "contexto": "A trégua local em Oleshky e Kherson foi negociada com mediação americana atribuída a Melania Trump; na quarta, um drone russo matou 14 pessoas numa estação de trem em Dnipro.",
+   "fatos": [
+    {
+     "texto": "O Departamento de Estado aprovou em 30/10 a venda de 500 mísseis Patriot PAC-3 à Ucrânia por cerca de US$ 2,1 bilhões; a venda ainda precisa passar pelo Congresso.",
+     "base": "6 fontes independentes (BBC, Financial Times, Bloomberg, Al Jazeera, Folha, CartaCapital)"
+    },
+    {
+     "texto": "Zelensky chamou a decisão de 'forte', mas alertou que a entrega pode levar anos e pediu fornecimento imediato; os Patriot são a única arma eficaz contra mísseis balísticos russos.",
+     "base": "3 fontes independentes (The Guardian, Euronews, Le Monde); BBC sobre a eficácia"
+    },
+    {
+     "texto": "Centenas de moradores de Oleshky, cidade ocupada pela Rússia desde 2022, foram evacuados em 30/10 numa operação conjunta de autoridades russas e ucranianas, a primeira do tipo em quatro anos e oito meses de guerra, durante trégua de 72 horas; os evacuados seguem via Anapa e Belarus de volta à Ucrânia, e centenas permaneceram na cidade.",
+     "base": "6 fontes independentes (BBC, The Guardian, AFP/France 24, Folha, Estadão, El País)"
+    },
+    {
+     "texto": "Os EUA cancelaram a 'foto de família' da reunião de chanceleres do G20 em Atlanta após cerca de um terço dos países, incluindo Reino Unido, Austrália e Alemanha, se recusar a posar com Lavrov; o britânico Ed Miliband confrontou o russo e o acusou de matar civis.",
+     "base": "4 fontes independentes (The Guardian, BBC, Euronews, DCM)"
+    },
+    {
+     "texto": "O Novaya Gazeta anunciou em 30/10 que encerra as atividades em 9 de novembro, após buscas na casa do editor-chefe, prisão de um jornalista e censura; seis de seus jornalistas foram assassinados ao longo da história.",
+     "base": "6 fontes independentes (The New York Times, The Guardian, AFP/France 24, g1, Estadão, El País)"
+    },
+    {
+     "texto": "Lavrov disse que Zelensky terá de ir a Moscou se quiser se reunir com Putin; a Ucrânia retomou ataques a refinarias russas, atingindo Novokuibishevsk, em Samara.",
+     "base": "Brasil de Fato (Lavrov); El País e Le Figaro (refinarias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A sociedade russa está sendo 'sistematicamente esmagada'; o governo orquestrou a morte do jornal.",
+     "quem": "Novaya Gazeta, em nota (The Guardian, NYT)"
+    },
+    {
+     "texto": "A trégua oferece oportunidade limitada de ajuda humanitária numa cidade sem acesso a necessidades básicas.",
+     "quem": "Jens Schumacher, Solidarités International (France 24)"
+    },
+    {
+     "texto": "A Rússia está pronta para a guerra com a Europa e transformaria o Báltico num 'segundo Estreito de Ormuz'.",
+     "quem": "Vladimir Putin, citado pelo Breitbart"
+    },
+    {
+     "texto": "O Pentágono pediu à Europa que modere a retórica contra a Rússia.",
+     "quem": "Fontes à Reuters, citadas pelo SBT News"
+    },
+    {
+     "texto": "A guerra devastou o Mar Negro, matando mais de 120 mil golfinhos.",
+     "quem": "Al Jazeera"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O chanceler Mauro Vieira estava na reunião de Atlanta em que a foto foi cancelada; a cobertura brasileira (Folha, Estadão, g1, CartaCapital, Brasil de Fato, DCM) acompanhou Patriot, Oleshky e Novaya Gazeta.",
+   "ponto_cego": "Breitbart cobre apenas a ameaça de Putin à Europa; veículos de esquerda brasileiros (BdF, DCM) destacam Lavrov e o 'climão' do G20, mas não o fechamento do Novaya Gazeta; a direita brasileira não cobriu nada do tema.",
+   "continua": {
+    "data": "2026-10-28",
+    "id": "ucrania-tregua-estendida-kherson-nordicos-ligam-putin-kharkiv-trump-reuniao",
+    "titulo": "Trégua local em Kherson é estendida; líderes nórdicos ligam para Putin e Trump fala em reunião"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "US approves sale of 500 Patriot missiles to Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "angulo": "EUA aprovam venda de 500 Patriot; única arma eficaz contra balísticos russos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+     "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+     "angulo": "Zelensky elogia, mas alerta que entrega pode levar anos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "US Approves $2.1 Billion in Patriot Interceptors for Ukraine",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-approves-2-1-billion-in-patriot-missiles-for-ukraine",
+     "angulo": "Aprovação vem após Zelensky acusar os EUA de atrasar remessas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania-por-us-21-bilhoes.shtml",
+     "angulo": "Uma das medidas mais significativas de armas defensivas desde o início do governo Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Governo Trump aprova venda de 500 mísseis à Ucrânia",
+     "url": "https://www.cartacapital.com.br/mundo/governo-trump-aprova-venda-de-500-misseis-a-ucrania/",
+     "angulo": "Venda ainda precisa do Congresso americano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Centenas evacuados de Oleshky; centenas ficaram apesar dos perigos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+     "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+     "angulo": "Primeira operação conjunta de socorro em quatro anos e oito meses de guerra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Rússia e Ucrânia realizam operação humanitária e retiram moradores de cidade ocupada",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/russia-e-ucrania-realizam-operacao-humanitaria-e-retiram-moradores-de-cidade-ocupada.shtml",
+     "angulo": "Operação conjunta retira moradores de ônibus.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Cessar-fogo temporário: Rússia e Ucrânia iniciam evacuação humanitária na cidade de Oleshky",
+     "url": "https://www.brasildefato.com.br/2026/10/30/cessar-fogo-temporario-russia-e-ucrania-iniciam-evacuacao-humanitaria-na-cidade-de-oleshky/",
+     "angulo": "Evacuação com participação de representantes russos e ucranianos; destaca a defensora pública russa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Climão no G20: europeus rejeitam foto com russo e EUA cancelam “foto de família”",
+     "url": "https://www.diariodocentrodomundo.com.br/climao-no-g20-europeus-rejeitam-foto-com-russo-e-eua-cancelam-foto-de-familia/",
+     "angulo": "'Climão' no G20: Alemanha e Reino Unido recusam foto com Lavrov.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+     "angulo": "Novaya Gazeta fecha: 'eles nos mataram'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Novaya Gazeta, principal jornal de oposição da Rússia fundado por Nobel da Paz, anuncia fechamento: 'Nos mataram'",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/30/jornal-independente-russo-novaya-gazeta-anuncia-fechamento-sob-pressao-das-autoridades.ghtml",
+     "angulo": "Principal jornal de oposição da Rússia, fundado por Nobel da Paz, anuncia fechamento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "binance-trump-investiga-coreia-do-norte-fbi-secret-service-ataque-20-minutos-binance-brasil-suspende-saques-63-empresas-pedem-licenca-bc",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Trump diz que os EUA investigam se a Coreia do Norte está por trás do roubo de US$ 6,3 bilhões da Binance; FBI e Serviço Secreto apuram, ataque teria durado 20 minutos, Binance Brasil suspende saques e diz que clientes estão seguros, e 63 empresas pedem licença cripto ao Banco Central no prazo final",
+   "lide": "Um dia após o maior roubo da história das criptomoedas, Trump afirmou que os Estados Unidos investigam se hackers norte-coreanos são os autores; duas empresas de análise de blockchain atribuem o ataque ao grupo TraderTraitor, FBI e Serviço Secreto apuram, e especialistas dizem que os hackers de Pyongyang estão entre os melhores do mundo e que o roubo de cripto gera metade da receita externa do regime. A invasão teria durado cerca de 20 minutos, a Binance diz ter recuperado ou congelado cerca de US$ 3 bilhões e tenta recuperar o restante; no Brasil, a Binance Brasil suspendeu saques, mas afirma que os investimentos dos clientes estão seguros, e 63 empresas, entre elas a Bitget, pediram licença ao Banco Central no último dia do prazo.",
+   "contexto": "A Binance informou em 29/10 uma violação iniciada no notebook comprometido de um engenheiro, com impacto de US$ 6,3 bilhões; Tether e Circle ajudaram a congelar ativos. A Polymarket foi hackeada no mesmo dia.",
+   "fatos": [
+    {
+     "texto": "Trump afirmou em 30/10 que os EUA estão investigando se hackers da Coreia do Norte estão por trás do ataque à Binance; FBI e Serviço Secreto investigam o caso.",
+     "base": "3 fontes independentes (g1, Bloomberg, Exame); DW Brasil sobre FBI e Serviço Secreto"
+    },
+    {
+     "texto": "Duas empresas de análise de blockchain atribuem o ataque ao grupo norte-coreano TraderTraitor; a Binance descreve o ataque como complexo e tenta recuperar os ativos, tendo congelado cerca de US$ 3 bilhões.",
+     "base": "4 fontes independentes (BBC, BBC Brasil, Terra Brasil Notícias, Opera Mundi)"
+    },
+    {
+     "texto": "A invasão teria durado cerca de 20 minutos.",
+     "base": "2 fontes independentes (SBT News, Brazil Journal)"
+    },
+    {
+     "texto": "A Binance Brasil informou em 30/10 que os saques de clientes no país estão suspensos, mas que os investimentos dos brasileiros permanecem seguros.",
+     "base": "2 fontes independentes (Folha, g1)"
+    },
+    {
+     "texto": "No último dia do prazo, 63 empresas e instituições pediram ao Banco Central autorização para operar com criptoativos no Brasil, entre elas a Bitget.",
+     "base": "Exame (63 pedidos) e Valor (Bitget)"
+    },
+    {
+     "texto": "EUA, Coreia do Sul e Japão pediram a 'desnuclearização completa' da Coreia do Norte em comunicado conjunto, enquanto Trump busca novo encontro com Kim Jong Un.",
+     "base": "Al Jazeera (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Hackers norte-coreanos estão entre os ladrões de cripto mais prolíficos do mundo, e os recursos financiam os programas de armas do regime; o roubo de criptomoedas gera cerca de metade da receita em moeda estrangeira do país.",
+     "quem": "Especialistas em cibersegurança (Valor, InfoMoney) e The Guardian"
+    },
+    {
+     "texto": "Se as acusações se confirmarem, o roubo recorde mostra quão poderosos se tornaram os hackers da Coreia do Norte.",
+     "quem": "BBC (análise)"
+    },
+    {
+     "texto": "O incidente abala a confiança no setor justamente quando a indústria cripto busca legitimidade como alternativa às finanças tradicionais.",
+     "quem": "Brazil Journal e NeoFeed"
+    },
+    {
+     "texto": "O ataque reacende o debate sobre seguros de criptoativos e quais prejuízos são cobertos.",
+     "quem": "g1"
+    },
+    {
+     "texto": "Seul teme ser deixada de lado na aproximação de Trump com Pyongyang.",
+     "quem": "DW"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Coreia do Norte é a autora do ataque à Binance.",
+     "rotulo": "Em apuração",
+     "explicacao": "A atribuição parte de duas empresas privadas de análise de blockchain; Trump disse que o governo investiga e nenhuma autoridade confirmou oficialmente.",
+     "onde_circula": "empresas de análise; Terra Brasil ('Coreia do Norte é acusada')",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a Binance Brasil suspendeu saques e 63 empresas pediram licença ao Banco Central no prazo final; g1, Folha, Exame e Valor cobriram o impacto local.",
+   "ponto_cego": "Veículos de esquerda brasileiros não cobriram, exceto Opera Mundi; a direita só reproduziu a atribuição à Coreia do Norte (Terra Brasil, Breitbart) sem registrar que a investigação está em curso.",
+   "continua": {
+    "data": "2026-10-30",
+    "id": "binance-ataque-hacker-6-3-bi-maior-da-historia-3-bi-congelados-coreia-do-norte-suspeita-saques-suspensos",
+    "titulo": "Binance sofre ataque hacker de US$ 6,3 bilhões, o maior da história das criptomoedas; corretora suspende saques, congela cerca de US$ 3 bilhões com Tether e Circle, e analistas atribuem o roubo a grupo da Coreia do Norte"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
+     "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/trump-diz-que-eua-investigam-se-ataque-contra-a-binance-foi-feita-por-hackers-da-coreia-do-norte.ghtml",
+     "angulo": "Trump: EUA investigam se hackers norte-coreanos atacaram a Binance.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Ataque hacker à Binance: como a Coreia do Norte virou 'vilã' dos ataques cibernéticos?",
+     "url": "https://exame.com/mundo/ataque-hacker-a-binance-como-a-coreia-do-norte-virou-vila-dos-ataques-ciberneticos/",
+     "angulo": "Como a Coreia do Norte virou 'vilã' dos ciberataques; Trump diz que envolvimento é investigado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+     "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Por que os hackers de 'elite' da Coreia do Norte são os principais suspeitos.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Binance tenta recuperar os US$ 6,3 bilhões; ataque 'complexo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "How crypto hacking funds isolated North Korea’s nuclear programme",
+     "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+     "angulo": "Como o roubo de cripto financia o programa nuclear norte-coreano.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ataque à Binance: Hackers norte-coreanos de criptomoedas estão entre os melhores do mundo, dizem especialistas",
+     "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/10/30/hackers-norte-coreanos-ligados-a-roubos-de-criptomoedas-esto-entre-os-melhores-do-mundo-dizem-especialistas.ghtml",
+     "angulo": "Especialistas: hackers norte-coreanos entre os melhores do mundo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "US$ 6,3 bilhões: como aconteceu o maior roubo de criptomoedas da história",
+     "url": "https://www.dw.com/pt-br/us-6-3-bilhões-como-aconteceu-o-maior-roubo-de-criptomoedas-da-história/a-79810808?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Como aconteceu o maior roubo; Serviço Secreto e FBI investigam.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Ataque contra Binance expõe brechas em criptomoedas",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/ataque-a-binance-expoe-brechas-em-criptomoedas-diz-especialista",
+     "angulo": "Invasão de cerca de 20 minutos expõe brechas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "braziljournal",
+     "titulo": "O maior roubo cibernético da história: Binance perde US$ 6,3 bi (em 20 minutos)",
+     "url": "https://braziljournal.com/o-maior-roubo-cibernetico-da-historia-binance-perde-us-6-3-bi-em-20-minutos",
+     "angulo": "US$ 6,3 bi em 20 minutos; golpe na busca de legitimidade do setor.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Binance Brasil suspende saques após ataque hacker de US$ 6,3 bilhões",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/binance-brasil-suspende-saques-apos-ataque-hacker-de-us-63-bilhoes.shtml",
+     "angulo": "Binance Brasil suspende saques de clientes no país.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
+     "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/apos-ataque-hacker-bilionario-binance-diz-que-investimentos-de-brasileiros-estao-seguros.ghtml",
+     "angulo": "Binance diz que investimentos de brasileiros estão seguros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Bitget e mais empresas pedem licença cripto ao BC na data final; veja a lista completa",
+     "url": "https://exame.com/future-of-money/bitget-e-mais-empresas-pedem-licenca-cripto-ao-bc-na-data-final-veja-a-lista-completa/",
+     "angulo": "63 empresas pedem licença cripto ao BC no prazo final.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Coreia do Norte é acusada do maior roubo de criptomoedas da história",
+     "url": "https://terrabrasilnoticias.com/2026/10/coreia-do-norte-e-acusada-do-maior-roubo-de-criptomoedas-da-historia/",
+     "angulo": "'Coreia do Norte é acusada': atribuição sem ressalva de investigação em curso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    }
+   ]
+  }
+ ]
+}

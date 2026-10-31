@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-30T09:12:20+00:00",
+ "atualizado_em": "2026-10-31T09:05:05+00:00",
  "edicoes": [
+  {
+   "data": "2026-10-31",
+   "arquivo": "data/edicoes/2026-10-31.json",
+   "historias": 12,
+   "gerado_em": "2026-10-31T06:05:05-03:00",
+   "manchete": "Em primeira live de Miami, Flávio diz que fugiu sem avisar aliados, fala em 'perseguição' de Moraes, aposta que 'o Brasil vai quebrar' e que pode disputar a Presidência 'antes de 2030'; lança Marinho ao Senado, enquanto três em cada quatro eleitos do PL ignoram sua carta e Michelle pede 'união'"
+  },
   {
    "data": "2026-10-30",
    "arquivo": "data/edicoes/2026-10-30.json",
