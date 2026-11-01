@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-10-31T09:05:05+00:00",
+ "atualizado_em": "2026-11-01T09:07:44+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-01",
+   "arquivo": "data/edicoes/2026-11-01.json",
+   "historias": 12,
+   "gerado_em": "2026-11-01T06:07:44-03:00",
+   "manchete": "Rubio diz que os EUA 'não facilitaram nada' na fuga de Flávio, mas confirma que Trump autorizou a entrada; Trump diz que o senador 'pode ficar quanto tempo quiser' e que não planeja encontrá-lo, enquanto Clarín fala em agentes americanos no aeroporto de Puerto Iguazú e Página/12 em agente da SIDE"
+  },
   {
    "data": "2026-10-31",
    "arquivo": "data/edicoes/2026-10-31.json",

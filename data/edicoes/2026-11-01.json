@@ -1,0 +1,2111 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-01",
+ "gerado_em": "2026-11-01T06:07:44-03:00",
+ "historias": [
+  {
+   "id": "rubio-nega-ajuda-direta-fuga-flavio-trump-pode-ficar-quanto-quiser-sem-encontro-pagina12-agente-side-clarin-agentes-eua-aeroporto",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Rubio diz que os EUA 'não facilitaram nada' na fuga de Flávio, mas confirma que Trump autorizou a entrada; Trump diz que o senador 'pode ficar quanto tempo quiser' e que não planeja encontrá-lo, enquanto Clarín fala em agentes americanos no aeroporto de Puerto Iguazú e Página/12 em agente da SIDE",
+   "lide": "No encerramento da reunião do G20 em Atlanta, o secretário de Estado Marco Rubio afirmou que o governo americano 'não esteve diretamente envolvido' na saída de Flávio Bolsonaro do Brasil, mas que havia ordem de Trump para que o senador recebesse permissão especial de permanência se chegasse a um posto de imigração; horas depois, em Mar-a-Lago, Trump disse que Flávio foi 'tratado de forma mesquinha', pode ficar 'quanto tempo quiser' e que não há planos de encontro. Na Argentina, o Clarín relatou que agentes dos EUA assumiram parte do aeroporto de Puerto Iguazú e que três jatos foram contratados, e o Página/12 afirma que um agente da SIDE coordenou a operação; o Metrópoles classifica a crise Brasil-Argentina como no 'ponto máximo', e o G20 terminou sem consenso sobre os conflitos.",
+   "contexto": "O Itamaraty convocou em 29/10 a encarregada de Negócios argentina; Milei nega ter sido cobrado. NYT e WSJ apontaram o assessor Jason Miller como quem providenciou o jato de US$ 150 mil, pago por um intermediário nos EUA.",
+   "fatos": [
+    {
+     "texto": "Marco Rubio afirmou em 31/10, em Atlanta, que o governo dos EUA 'não esteve diretamente envolvido' na saída de Flávio e 'não facilitou nada', mas que Trump determinou que o senador recebesse permissão especial para permanecer no país se chegasse a um posto oficial de imigração; Flávio já tinha visto americano.",
+     "base": "9 fontes independentes (g1, Folha, Estadão, Veja, Exame, Gazeta do Povo, Brasil de Fato, SBT News, Al Jazeera)"
+    },
+    {
+     "texto": "Trump disse na noite de 31/10, em Mar-a-Lago, que não tem planos de se reunir com Flávio, que o senador 'foi tratado de forma mesquinha' e pode permanecer nos EUA 'quanto tempo quiser', voltando a criticar a eleição brasileira.",
+     "base": "8 fontes independentes (Folha, Estadão, g1, Poder360, Gazeta do Povo, Jovem Pan, DCM, Oeste)"
+    },
+    {
+     "texto": "Segundo o Clarín (30/10), agentes dos Estados Unidos tomaram o controle de parte do aeroporto de Puerto Iguazú para a fuga e ao menos três jatos privados foram contratados para garantir o plano.",
+     "base": "reportagem do Clarín, repercutida por Folha, Estado de Minas e ICL Notícias"
+    },
+    {
+     "texto": "O Página/12 afirma que um agente da SIDE (inteligência argentina), que trabalhou na embaixada dos EUA, coordenou a fuga, e cita o papel de Santiago Caputo.",
+     "base": "Página/12 (fonte única)"
+    },
+    {
+     "texto": "A reunião de chanceleres do G20 terminou em 31/10 sem consenso sobre os principais conflitos internacionais; Rubio disse que 'não vai fingir' que soluções estão próximas e defendeu a presença da Rússia.",
+     "base": "3 fontes independentes (Estadão, Oeste, InfoMoney); Bloomberg e NPR sobre a Rússia e as dificuldades"
+    },
+    {
+     "texto": "Lula retomará a agenda internacional em novembro, com as cúpulas do Mercosul e a COP, e a ida aos EUA para o G20 está prevista para dezembro.",
+     "base": "CNN Brasil (fonte única)"
+    },
+    {
+     "texto": "Dos 29 partidos levantados pelo Metrópoles (além do PT), 27 reconheceram a vitória de Lula; o Novo contesta o resultado e o Mobiliza não se manifestou.",
+     "base": "Metrópoles e g1 (levantamentos próprios)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A família Bolsonaro 'virou fardo político para Trump' às vésperas das midterms.",
+     "quem": "José Guimarães, ministro de Lula (Veja)"
+    },
+    {
+     "texto": "Piorar a relação com o Brasil está fora dos planos de Trump: ele quer difundir que a esquerda vence por fraude e que não abandona aliados, sem deteriorar os laços com Lula.",
+     "quem": "Lourival Sant'Anna, Estadão (análise)"
+    },
+    {
+     "texto": "A fuga envolveu um ex-agente do Mossad, duas vans na travessia e apoio de pessoas ligadas ao governo Milei, segundo imagens de câmeras de segurança obtidas pela CNN Brasil.",
+     "quem": "Revista Fórum e Brasil 247, citando a CNN Brasil"
+    },
+    {
+     "texto": "Rubio se desmarcou da operação para não brigar com Lula, e o Brasil prefere ignorar Milei.",
+     "quem": "Página/12 (análise)"
+    },
+    {
+     "texto": "'Sob pressão', Rubio agora nega a ajuda; a negativa contraria as reportagens que apontam o assessor da Casa Branca na obtenção do avião.",
+     "quem": "ICL Notícias e Congresso em Foco"
+    },
+    {
+     "texto": "A ida de Flávio aos EUA tem impactos diplomáticos e comerciais limitados.",
+     "quem": "Priscila Caneparo, especialista em direito internacional (CNN Brasil)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo dos EUA não teve envolvimento na fuga de Flávio (Rubio).",
+     "rotulo": "Contraditório",
+     "explicacao": "Rubio nega envolvimento 'direto' e confirma a ordem de Trump para a permanência; NYT e WSJ reportaram que Jason Miller, assessor de comunicação da Casa Branca, providenciou o jato, e o Clarín fala em agentes americanos no aeroporto argentino.",
+     "onde_circula": "coletiva de Rubio; Terra Brasil ('contraria especulações'), Diário do Poder",
+     "checagem": []
+    },
+    {
+     "alegacao": "Um ex-agente do Mossad e um agente da SIDE participaram da operação.",
+     "rotulo": "Em apuração",
+     "explicacao": "As afirmações vêm de reportagens da CNN Brasil (via Fórum e 247) e do Página/12, sem confirmação oficial de Brasil, Argentina, EUA ou Israel.",
+     "onde_circula": "Revista Fórum, Brasil 247, Página/12",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Ministros tratam a negativa de Rubio como sinal de que Flávio virou 'fardo' para Trump e mantêm o pragmatismo com Washington; Lula já planeja o G20 nos EUA em dezembro.",
+    "oposicao": "Veículos de direita destacam que Rubio 'desmente especulações' e que Trump garante a permanência de Flávio; a oposição não reagiu às reportagens argentinas nas matérias dos feeds."
+   },
+   "visao_de_fora": "Al Jazeera registra a negativa de Rubio e o 'pode ficar quanto quiser' de Trump; Página/12 e Clarín seguem apurando a operação do lado argentino; Bloomberg e NPR descrevem um G20 sem acordo e com Rubio defendendo a presença russa.",
+   "ponto_cego": "Veículos de direita (Gazeta, Terra Brasil, Diário do Poder, Oeste) não noticiaram as reportagens do Clarín e do Página/12 sobre agentes americanos e da SIDE; veículos de esquerda (247, Fórum, DCM) não registram que Rubio confirmou que Flávio já tinha visto e autorização prévia.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "itamaraty-convoca-diplomata-argentina-milei-nega-vieira-rubio-acertam-reuniao-g20-25-democratas-cobram-rubio-107-paises-reconhecem-lula",
+    "titulo": "Itamaraty convoca a encarregada da embaixada argentina para explicar a passagem de Flávio, e Milei nega ter sido cobrado; Vieira e Rubio conversam no G20 e marcam reunião antes da cúpula de dezembro, 25 deputados democratas cobram Rubio e 107 países já reconheceram Lula, sem EUA e Argentina"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Governo dos EUA 'não se envolveu diretamente' na saída de Flávio Bolsonaro do Brasil, diz Marco Rubio",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/31/nao-tivemos-qualquer-envolvimento-diz-marco-rubio-sobre-a-vinda-de-flavio-bolsonaro-aos-eua.ghtml",
+     "angulo": "Rubio: EUA 'não se envolveram diretamente'; vídeo da coletiva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Marco Rubio nega que EUA ajudaram Flávio Bolsonaro a fugir do Brasil",
+     "url": "https://www.estadao.com.br/politica/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-fugir-do-brasil/",
+     "angulo": "Rubio nega ajuda, mas cita ordem de Trump para permissão especial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Marco Rubio nega que governo dos EUA tenha facilitado saída de Flávio Bolsonaro do Brasil",
+     "url": "https://exame.com/brasil/marco-rubio-nega-que-governo-dos-eua-tenha-facilitado-saida-de-flavio-bolsonaro-do-brasil/",
+     "angulo": "Rubio: senador já tinha visto; aliados de Trump teriam ajudado a organizar o voo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Sob pressão, Rubio agora nega que tenha ajudado Flávio Bolsonaro a fugir",
+     "url": "https://iclnoticias.com.br/sob-pressao-rubio-agora-nega-que-tenha-ajudado-flavio-bolsonaro-a-fugir/",
+     "angulo": "'Sob pressão', Rubio nega; confirma aval de Trump e reunião com Vieira.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Urgente: Marco Rubio nega participação dos EUA na saída de Flávio Bolsonaro do Brasil; Veja vídeo",
+     "url": "https://terrabrasilnoticias.com/2026/10/urgente-marco-rubio-nega-participacao-dos-eua-na-saida-de-flavio-bolsonaro-do-brasil-veja-video/",
+     "angulo": "'Urgente': negativa de Rubio 'contraria especulações'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Trump diz não ter plano de encontrar Flávio Bolsonaro, mas que senador pode ficar quanto quiser nos EUA",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-quanto-quiser-nos-eua.shtml",
+     "angulo": "Trump: sem planos de encontro, mas Flávio pode ficar 'o tempo que quiser'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Flávio pode ficar nos EUA o tempo que quiser, diz Trump",
+     "url": "https://www.poder360.com.br/poder-internacional/flavio-pode-ficar-nos-eua-o-tempo-que-quiser-diz-trump/",
+     "angulo": "Trump: senador foi tratado 'muito mal'; volta a criticar a eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/",
+     "angulo": "Registro pela direita da garantia de permanência.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Agentes dos EUA assumiram controle de parte de aeroporto para fuga de Flávio, diz jornal argentino",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/agentes-dos-eua-assumiram-controle-de-parte-de-aeroporto-para-fuga-de-flavio-diz-jornal-argentino.shtml",
+     "angulo": "Clarín: agentes dos EUA controlaram parte do aeroporto de Puerto Iguazú; três jatos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro",
+     "url": "https://www.pagina12.com.ar/2026/11/01/un-agente-de-la-side-coordino-la-fuga-de-flavio-bolsonaro/",
+     "angulo": "Página/12: agente da SIDE coordenou a fuga; papel de Caputo.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Fuga de Flávio Bolsonaro teve ex-agente do Mossad, apoio da Argentina e jato particular",
+     "url": "https://www.brasil247.com/mundo/fuga-de-flavio-bolsonaro-teve-ex-agente-do-mossad-apoio-da-argentina-e-jato-particular/",
+     "angulo": "Cita CNN Brasil: ex-agente do Mossad, duas vans e apoio argentino.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Piora da relação com o Brasil está fora dos planos de Trump",
+     "url": "https://www.estadao.com.br/internacional/lourival-santanna/piora-da-relacao-com-o-brasil-esta-fora-dos-planos-de-trump/",
+     "angulo": "Análise: piorar a relação com o Brasil está fora dos planos de Trump.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
+     "url": "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss",
+     "angulo": "Visão externa: Rubio nega ajuda; Trump diz que Flávio pode ficar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "flavio-pede-moraes-fora-investigacao-revisao-stf-aposta-bolsonaro-tarcisio-2030-governadores-viram-pagina-carlos-marinho-estudantes-atos-9-estados",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Flávio pede ao STF que Moraes saia da investigação e devolva o passaporte; revisão da condenação vira a principal aposta de Bolsonaro, Tarcísio admite 2030 'em grupo', governadores da direita 'viram a página', Carlos reforça Marinho e estudantes marcam atos em nove estados",
+   "lide": "Em três petições protocoladas na sexta à noite, Flávio Bolsonaro pediu que Alexandre de Moraes deixe de atuar na investigação sobre sua relação com o advogado Willer Tomaz, que o caso vá para André Mendonça e que a retenção do passaporte seja revista. Para Jair Bolsonaro, a revisão criminal da condenação de 27 anos passou a ser a principal aposta, com Kassio Nunes Marques dando dez dias à PGR, embora uma ala do tribunal veja chance mínima. Na direita, Tarcísio admite a 'possibilidade' de 2030 'em grupo, e não sozinho', 11 dos 15 governadores que estiveram com Flávio se afastaram da carta, Carlos Bolsonaro reafirma Marinho para o Senado e relata soluços do pai, e estudantes convocam atos neste domingo em nove estados contra o senador e em apoio à reeleição de Lula.",
+   "contexto": "Na live de 30/10, Flávio disse que pode disputar a Presidência 'antes de 2030' e lançou Marinho ao Senado. Ações no Senado e na Justiça pedem a suspensão do salário e a perda do mandato do senador.",
+   "fatos": [
+    {
+     "texto": "Flávio apresentou em 30/10 três petições ao STF: duas pedem que Moraes deixe de atuar na investigação sobre sua relação com o advogado Willer Tomaz e que o caso seja transferido a André Mendonça; a terceira pede a revisão da retenção do passaporte.",
+     "base": "2 fontes independentes (Revista Oeste, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "A defesa de Jair Bolsonaro tenta anular a condenação de 27 anos por revisão criminal; o ministro Kassio Nunes Marques deu dez dias para a PGR se manifestar.",
+     "base": "CNN Brasil (fonte única)"
+    },
+    {
+     "texto": "Tarcísio de Freitas admitiu haver 'possibilidade' de disputar a Presidência em 2030, a ser avaliada 'em grupo, e não sozinho'.",
+     "base": "O Globo; Folha (coluna de Elio Gaspari)"
+    },
+    {
+     "texto": "Levantamento do Globo mostra que governadores eleitos que apoiaram Flávio se afastaram dos movimentos golpistas do aliado; o governador reeleito de Minas, Cleitinho, é cobrado pela derrota no estado e vê a aliança com o PL em xeque.",
+     "base": "O Globo (duas reportagens, fonte única)"
+    },
+    {
+     "texto": "Carlos Bolsonaro, após visitar o pai por duas horas em 31/10, reafirmou o apoio a Rogério Marinho para a presidência do Senado e disse que Jair Bolsonaro voltou a ter crises de soluço.",
+     "base": "4 fontes independentes (Jovem Pan, Diário do Poder, DCM, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "Entidades estudantis convocaram atos para 1º/11 em nove estados contra Flávio Bolsonaro e em apoio à reeleição de Lula.",
+     "base": "Folha (fonte única)"
+    },
+    {
+     "texto": "Parlamentares do PSOL acionaram Alcolumbre e ao menos duas iniciativas pedem a suspensão do salário de R$ 46 mil e a perda do mandato de Flávio por abandono.",
+     "base": "2 fontes independentes (Brasil de Fato, Gazeta do Povo)"
+    },
+    {
+     "texto": "Estudantes de nove estados protestam; 'vídeo de Flávio divide aliados e governistas': Alencar Santana (PT) acusa o senador de se vitimizar e Carlos Jordy (PL) defende a permanência nos EUA e Marinho.",
+     "base": "SBT News (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A ida de Flávio aos EUA e as decisões do STF 'fortalecem' a direita na disputa pela presidência do Senado e o nome de Marinho.",
+     "quem": "Gazeta do Povo (duas análises)"
+    },
+    {
+     "texto": "Uma ala do STF vê chance mínima de a revisão criminal alterar a condenação de Bolsonaro.",
+     "quem": "CNN Brasil (bastidores)"
+    },
+    {
+     "texto": "Tarcísio 'entrou na disputa pela Presidência' sem fanfarra; seus desafios são a família Bolsonaro, as promessas e a presença fora de São Paulo.",
+     "quem": "Elio Gaspari (Folha) e O Globo"
+    },
+    {
+     "texto": "'Direita sem Bolsonaro é oportunismo'.",
+     "quem": "Gilson Machado, ex-ministro (Poder360)"
+    },
+    {
+     "texto": "Moraes 'escorregou em casca de banana' ao mandar apreender os passaportes: 'faço porque posso'.",
+     "quem": "Elio Gaspari, Folha (opinião)"
+    },
+    {
+     "texto": "A reeleição de Lula 'baixa a bola' do PL no Congresso, que antes esperava conquistar Câmara e Senado; 'a vaidade é uma merda', diz Janones sobre a disputa de crédito na esquerda enquanto a direita cresce no Congresso.",
+     "quem": "Veja; André Janones (DCM, Jovem Pan, A Tarde)"
+    },
+    {
+     "texto": "O bolsonarismo 'não está derrotado, está disseminado'; a carta foi um tiro no pé que desqualificou Flávio como líder.",
+     "quem": "Renato Lessa, filósofo da PUC-Rio (BBC Brasil)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governistas tratam a live e as petições como vitimização e cobram sanções ao mandato; PT aciona STF por atos ligados a Willer Tomaz.",
+    "oposicao": "PL apresenta Moraes como perseguidor e aposta na revisão criminal e na presidência do Senado; Tarcísio e governadores se descolam de Flávio e olham para 2030."
+   },
+   "visao_de_fora": "O Clarín descreve os 'manotazos' de Flávio para não cair no esquecimento interno; La Nación entrevista Brian Winter: as ações de Moraes 'estiveram alinhadas com o PT' nos últimos anos.",
+   "ponto_cego": "Veículos de esquerda (247, DCM, Fórum) não noticiaram as petições de Flávio ao STF nem a revisão criminal de Bolsonaro; veículos de direita não registram o afastamento dos governadores (Globo) nem os atos estudantis.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "flavio-live-miami-fugiu-sem-avisar-perseguicao-moraes-candidato-antes-de-2030-lanca-marinho-3-em-4-eleitos-pl-nao-endossam-michelle-uniao",
+    "titulo": "Em primeira live de Miami, Flávio diz que fugiu sem avisar aliados, fala em 'perseguição' de Moraes, aposta que 'o Brasil vai quebrar' e que pode disputar a Presidência 'antes de 2030'; lança Marinho ao Senado, enquanto três em cada quatro eleitos do PL ignoram sua carta e Michelle pede 'união'"
+   },
+   "materias": [
+    {
+     "fonte": "oeste",
+     "titulo": "Flávio pede que Alexandre de Moraes deixe investigação",
+     "url": "https://revistaoeste.com/politica/flavio-pede-que-alexandre-de-moraes-deixe-investigacao/",
+     "angulo": "Três petições: Moraes fora da investigação e revisão do passaporte.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Flávio Bolsonaro tenta tirar Moraes de investigação e pede transferência do caso para Mendonça",
+     "url": "https://terrabrasilnoticias.com/2026/10/flavio-bolsonaro-tenta-tirar-moraes-de-investigacao-e-pede-transferencia-do-caso-para-mendonca/",
+     "angulo": "Defesa questiona imparcialidade e pede transferência a Mendonça.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Após derrota de Flávio, revisão no STF vira principal aposta para Bolsonaro",
+     "url": "https://www.cnnbrasil.com.br/politica/apos-derrota-de-flavio-revisao-no-stf-vira-principal-aposta-para-bolsonaro/",
+     "angulo": "Revisão criminal vira principal aposta de Bolsonaro; ala do STF vê chance mínima.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Família Bolsonaro, promessas e presença fora de São Paulo: os desafios de Tarcísio para virar liderança nacional em 2030",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/familia-bolsonaro-promessas-e-presenca-fora-de-sao-paulo-os-desafios-de-tarcisio-para-virar-lideranca-nacional-em-2030.ghtml",
+     "angulo": "Tarcísio admite 2030 'em grupo'; desafios para virar liderança nacional.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Com Flávio nos EUA, governadores da direita 'viram página' da eleição diante de desafios fiscais e relação com Planalto",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/com-flavio-nos-eua-governadores-da-direita-viram-pagina-da-eleicao-diante-de-desafios-fiscais-e-relacao-com-planalto.ghtml",
+     "angulo": "Governadores da direita 'viram a página' e se afastam dos movimentos golpistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Tarcísio de Freitas entrou na disputa pela Presidência",
+     "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/tarcisio-de-freitas-entrou-na-disputa-pela-presidencia.shtml",
+     "angulo": "Gaspari: Tarcísio entrou na disputa pela Presidência, com cautela.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ida de Flávio Bolsonaro aos Estados Unidos impulsiona direita na eleição do Senado",
+     "url": "https://www.gazetadopovo.com.br/republica/ida-de-flavio-bolsonaro-aos-estados-unidos-impulsiona-direita-na-eleicao-do-senado/",
+     "angulo": "Viagem de Flávio e decisões do STF reorganizam a disputa pelo Senado a favor de Marinho.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Carlos diz que Bolsonaro voltou a ter crises de soluço e sente saudade de Flávio",
+     "url": "https://jovempan.com.br/politica/carlos-diz-que-bolsonaro-voltou-a-ter-crises-de-soluco-e-sente-saudade-de-flavio/",
+     "angulo": "Carlos: Bolsonaro com soluços, saudade de Flávio; apoio a Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Estudantes fazem ato em 9 estados contra Flávio Bolsonaro e de apoio à reeleição de Lula",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/estudantes-fazem-ato-em-9-estados-contra-flavio-bolsonaro-e-de-apoio-a-reeleicao-de-lula.shtml",
+     "angulo": "Estudantes fazem atos em nove estados contra Flávio e por Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Ações pedem suspensão de salário de R$ 46 mil e perda de mandato de Flávio Bolsonaro após fuga para os EUA",
+     "url": "https://www.brasildefato.com.br/2026/10/31/acoes-pedem-suspensao-de-salario-de-r-46-mil-e-perda-de-mandato-de-flavio-bolsonaro-apos-fuga-para-os-eua/",
+     "angulo": "Ações pedem suspensão do salário de R$ 46 mil e perda do mandato.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Vídeo de Flávio divide aliados e governistas no Congresso",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/video-de-flavio-divide-governistas-e-aliados-no-congresso",
+     "angulo": "Vídeo divide Congresso: Alencar Santana x Carlos Jordy.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Direita sem Bolsonaro é oportunismo, diz Gilson Machado",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/direita-sem-bolsonaro-e-oportunismo-diz-gilson-machado/",
+     "angulo": "Gilson Machado: direita sem Bolsonaro é oportunismo.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "'Bolsonarismo não está derrotado, está disseminado. Basta ver os patrões demitindo funcionários que votaram no Lula', diz filósofo Renato Lessa",
+     "url": "https://www.bbc.com/portuguese/articles/cwzd679v845vo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Renato Lessa: bolsonarismo 'disseminado'; carta foi tiro no pé.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "mte-4305-denuncias-assedio-3-dias-sp-lidera-forca-nacional-tempo-indeterminado-aldeias-ms-ministros-189-casos-servidores-admitem-audios-mec-pf",
+   "editoria": "Direitos Humanos",
+   "escopo": "brasil",
+   "titulo": "Canal do Ministério do Trabalho recebe 4.305 denúncias de assédio eleitoral em três dias, com São Paulo à frente; ministros visitam aldeias Guarani-Kaiowá em MS, governo identifica 189 casos de violência pós-eleição e mantém a Força Nacional por tempo indeterminado, e servidores de Tacuru admitem à PF os áudios de ameaça",
+   "lide": "O canal criado pelo MTE em 28/10 registrou 4.305 denúncias de assédio eleitoral no trabalho até sexta, 1.325 delas em São Paulo, e a AGU anunciou ações judiciais; em Mato Grosso do Sul, os ministros Eloy Terena e Janine Mello visitaram no sábado as aldeias Sassoró, em Tacuru, e Taquaperi, ouviram relatos de ameaças, racismo e agressões, e a ministra disse que os 189 casos identificados no país estão sob investigação. O Ministério da Justiça decidiu manter e ampliar a Força Nacional nas aldeias por tempo indeterminado, dois servidores da prefeitura de Tacuru admitiram à PF ter gravado os áudios com ameaças mas negaram intenção de cumpri-las, e o MEC acionou PF e AGU por ataques a estudantes, incluindo uso de símbolos nazistas.",
+   "contexto": "Na véspera, a comitiva de ministros havia sido anunciada após o áudio que sugeria envenenar a água de uma aldeia e o incêndio de uma casa de reza. O MPT contabilizava 3.754 denúncias em 29/10 e processou a Meta.",
+   "fatos": [
+    {
+     "texto": "O MTE registrou 4.305 denúncias de assédio eleitoral no trabalho entre 28 e 30/10, nos três primeiros dias do canal específico; São Paulo lidera com 1.325 registros, e os casos estão sob investigação da Auditoria Fiscal do Trabalho.",
+     "base": "dados do MTE (Estadão, g1, Agência Brasil, Jovem Pan, Folha)"
+    },
+    {
+     "texto": "Os ministros Eloy Terena (Povos Indígenas) e Janine Mello (Direitos Humanos) visitaram em 31/10 as aldeias Sassoró, em Tacuru, e Taquaperi, em MS; a ministra afirmou que todos os casos estão sob investigação e que 189 casos de violência pós-eleição foram identificados.",
+     "base": "4 fontes independentes (Estadão, Valor, Brasil de Fato, Terra)"
+    },
+    {
+     "texto": "O Ministério da Justiça decidiu manter a Força Nacional nas aldeias Guarani-Kaiowá por tempo indeterminado e ampliar o efetivo.",
+     "base": "4 fontes independentes (Agência Brasil, Poder360, Jovem Pan, Revista Fórum)"
+    },
+    {
+     "texto": "Dois servidores da Prefeitura de Tacuru admitiram à PF que gravaram os áudios com ameaças contra indígenas da aldeia Sassoró, mas negaram intenção de cumprir os ataques.",
+     "base": "DCM (fonte única)"
+    },
+    {
+     "texto": "O MEC acionou a PF e a AGU para investigar ataques e ameaças a estudantes após a eleição, com relatos de intimidação, uso de símbolos nazistas e exposição de imagens de menores.",
+     "base": "Revista Fórum (fonte única)"
+    },
+    {
+     "texto": "A AGU, chefiada por Jorge Messias, anunciou ações judiciais contra o assédio eleitoral no trabalho; a Justiça do Trabalho mandou a psicóloga Mara Suassuna apagar vídeo em que orientava empresários a não contratar petistas.",
+     "base": "Brasil 247 (AGU) e DCM (psicóloga), fonte única cada"
+    },
+    {
+     "texto": "A prefeita de Conceição do Jacuípe (BA), Tânia Yoshida (PSD), é acusada de exonerar servidores que apoiaram Lula.",
+     "base": "IstoÉ (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Além do suposto envenenamento, ruralistas estariam tentando atropelar indígenas na região.",
+     "quem": "Liderança Guarani-Kaiowá ouvida por DW Brasil e CartaCapital"
+    },
+    {
+     "texto": "Os ataques são represálias pelo resultado da eleição; PF e MPF investigam.",
+     "quem": "Congresso em Foco; Ministério dos Povos Indígenas"
+    },
+    {
+     "texto": "Gestores da educação ligados a Jorginho Mello (SC) compartilharam imagem de Hitler e propuseram listar colegas de esquerda em grupo de mensagens ('Hans, liga o gás').",
+     "quem": "Coluna citada pelo DCM, com base no ICL; a Secretaria de Educação não respondeu"
+    },
+    {
+     "texto": "O governo age para conter casos de assédio e violência enquanto estuda divulgar a lista de empregadores responsabilizados.",
+     "quem": "Metrópoles e DCM"
+    },
+    {
+     "texto": "Deputado do PT cobra explicações de Tarcísio e do secretário de Segurança de SP por omissão nos episódios pós-eleição.",
+     "quem": "Emidio de Souza (PT), via Revista Fórum"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Os áudios de Tacuru eram ameaças reais de envenenamento da água indígena.",
+     "rotulo": "Em apuração",
+     "explicacao": "Os servidores admitiram à PF a autoria dos áudios, mas negaram intenção de executar os ataques; o MPF deu prazo ao município e a PF investiga.",
+     "onde_circula": "depoimentos à PF (DCM); redes",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo mobiliza ministérios, Força Nacional, PF e AGU, trata os casos como violência política e prepara responsabilização de empregadores.",
+    "oposicao": "Veículos de direita cobrem apenas a Força Nacional (Jovem Pan) e o volume de denúncias (Jovem Pan), sem os casos concretos; a oposição não se manifestou nas matérias dos feeds."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Gazeta do Povo, Oeste, Terra Brasil e Diário do Poder não publicaram nada sobre as visitas às aldeias nem sobre as 4.305 denúncias; veículos de esquerda não registram que os servidores negaram intenção de cumprir as ameaças.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "lula-envia-ministros-ms-ameacas-indigenas-tacuru-agua-envenenada-casa-de-reza-incendiada-apib-30-denuncias-funai-pf-boicotes-listas",
+    "titulo": "Lula envia comitiva de ministros a Mato Grosso do Sul após ameaça de envenenar a água de aldeia Guarani-Kaiowá e incêndio de casa de reza; Apib registra mais de 30 ataques desde a eleição, Funai aciona a PF e MPF dá 48 horas a Tacuru, enquanto listas de boicote a 'petistas' se espalham"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Ministério do Trabalho registra 4,3 mil denúncias de assédio eleitoral em 3 dias; São Paulo lidera",
+     "url": "https://www.estadao.com.br/economia/ministerio-do-trabalho-registra-43-mil-denuncias-de-assedio-eleitoral-em-3-dias-sao-paulo-lidera/",
+     "angulo": "4.305 denúncias em três dias; SP lidera; Auditoria Fiscal investiga.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral no trabalho em três dias",
+     "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/mte-recebe-denuncias-de-assedio-eleitoral-no-trabalho.ghtml",
+     "angulo": "MTE: 4.305 denúncias no canal criado em 28/10.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "MTE recebe mais de 4,3 mil denúncias de assédio eleitoral em três dias",
+     "url": "https://jovempan.com.br/politica/mte-recebe-mais-de-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias/",
+     "angulo": "SP lidera com 1.325 registros; registro factual pela direita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias",
+     "angulo": "Agência oficial: canal começou em 28/10 após onda de denúncias.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Jorge Messias anuncia ações judiciais contra assédio eleitoral no trabalho",
+     "url": "https://www.brasil247.com/brasil/jorge-messias-anuncia-acoes-judiciais-contra-assedio-eleitoral-no-trabalho/",
+     "angulo": "AGU anuncia ações judiciais contra assédio eleitoral.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ministros vão ao MS verificar denúncias de violência contra indígenas depois da eleição",
+     "url": "https://www.estadao.com.br/politica/eleicoes/ministros-vao-ao-ms-verificar-denuncias-de-violencia-contra-indigenas-depois-da-eleicao/",
+     "angulo": "Eloy Terena e Janine Mello visitam aldeias após denúncias de racismo e violência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ministros de Lula vão ao MS após onda de violência pós-eleição; 189 casos foram identificados",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/31/ministros-de-lula-vao-ao-ms-apos-onda-de-violencia-pos-eleicao-189-casos-foram-identificados.ghtml",
+     "angulo": "189 casos de violência pós-eleição identificados, segundo a ministra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Todos os casos estão em investigação’, afirma ministra dos Direitos Humanos sobre ameaças a indígenas em MS",
+     "url": "https://www.brasildefato.com.br/2026/10/31/todos-os-casos-estao-em-investigacao-afirma-ministra-dos-direitos-humanos-sobre-ameacas-a-indigenas-em-ms/",
+     "angulo": "Ministra: todos os casos em investigação; visita a Sassoró e Taquaperi.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
+     "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional",
+     "angulo": "Força Nacional ampliada nas aldeias Guarani Kaiowá.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Aldeias em MS vão receber proteção da Força Nacional",
+     "url": "https://jovempan.com.br/politica/aldeias-em-ms-vao-receber-protecao-da-forca-nacional/",
+     "angulo": "Aldeias receberão Força Nacional; único veículo de direita a cobrir.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Servidores admitiram autoria de ameaças a indígenas, mas negaram intenção de cumprir ataques; entenda",
+     "url": "https://www.diariodocentrodomundo.com.br/pf-ouve-servidores-ameacas-indigenas-tacuru-ms/",
+     "angulo": "Servidores admitem autoria dos áudios, negam intenção de executar.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Violência política: MEC aciona PF para investigar ataques e ameaças a estudantes",
+     "url": "https://revistaforum.com.br/politica/violencia-politica-mec-pf-estudantes/",
+     "angulo": "MEC aciona PF e AGU por ataques a estudantes com símbolos nazistas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "\"Veneno na água\": cresce ameaça a indígenas após reeleição de Lula",
+     "url": "https://www.dw.com/pt-br/veneno-na-água-cresce-ameaça-a-indígenas-após-reeleição-de-lula/a-79815753?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "'Veneno na água': liderança relata tentativas de atropelamento por ruralistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "mercado-revisa-pib-ve-inflacao-6-2027-expectativas-saltam-bgc-dolar-el-nino-fazenda-desenha-ajuste-penduricalhos-boulos-chantagem-tabata-alckmin",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Após a semana de queda de 18% da bolsa, mercado revisa o PIB para baixo e já vê inflação de até 6% em 2027; dólar alto e El Niño pressionam preços, Fazenda desenha ajuste com penduricalhos e supersalários, Boulos fala em 'chantagem do mercado' e Tabata defende Alckmin para o ministério",
+   "lide": "Pesquisa da BGC Liquidez com cerca de 30 participantes mostra que as expectativas de inflação saltaram após o segundo turno, para 5,3% em 2027 e 4,3% em 2028, e analistas já falam em IPCA de até 6% no ano que vem, com PIB menor e menos espaço para o BC cortar juros; o dólar mais alto se soma ao El Niño como risco adicional, e estrangeiros retiraram R$ 8,86 bilhões da bolsa em quatro pregões. Pressionado, o governo prepara para 2027 um pacote de ajuste que mira penduricalhos e supersalários; o ministro Guilherme Boulos vê 'chantagem do mercado' e quer cortes em desonerações e privilégios, enquanto Tabata Amaral defende Geraldo Alckmin para a Fazenda, no dia em que o acordo Mercosul-EFTA passa a valer com a Noruega.",
+   "contexto": "O Ibovespa fechou a semana com queda de 18,12%, a pior desde 2020, e o dólar subiu 9%; o Itaú cortou o PIB de 2027 para 0,5% e vê a Selic parada em 13,75%. Fonteles, cotado para a Fazenda, negou tratar de cargos.",
+   "fatos": [
+    {
+     "texto": "Pesquisa da BGC Liquidez com cerca de 30 participantes de mercado aponta inflação de 5,3% em 2027 e 4,3% em 2028, acima das expectativas anteriores ao segundo turno; o mercado reduziu as apostas em cortes de juros.",
+     "base": "2 fontes independentes (Folha, Brasil 247)"
+    },
+    {
+     "texto": "Analistas revisam o PIB para baixo e veem inflação de até 6% em 2027, com maior dificuldade para o BC cortar juros numa economia fraca.",
+     "base": "CNN Brasil (fonte única; convergente com a revisão do Itaú noticiada em 30/10)"
+    },
+    {
+     "texto": "Investidores estrangeiros retiraram R$ 8,86 bilhões da bolsa em quatro pregões.",
+     "base": "CNN Brasil (fonte única)"
+    },
+    {
+     "texto": "O governo prepara para 2027 um pacote de ajuste fiscal que inclui penduricalhos e supersalários, para garantir credibilidade das contas públicas; Rafael Fonteles e outros nomes são cotados para a Fazenda.",
+     "base": "Metrópoles (duas matérias, fonte única)"
+    },
+    {
+     "texto": "A deputada Tabata Amaral (PSB) defendeu Geraldo Alckmin para a Fazenda, por conciliar 'o social e o fiscal', e admitiu disputar a Prefeitura de SP em 2028.",
+     "base": "3 fontes independentes (Estadão, Poder360, Brasil 247)"
+    },
+    {
+     "texto": "O acordo de livre comércio Mercosul-EFTA passou a valer entre Brasil e Noruega em 1º/11; a CNI estima 300 oportunidades de exportação.",
+     "base": "2 fontes independentes (Valor, Estadão)"
+    },
+    {
+     "texto": "A taxa de desemprego do terceiro trimestre foi a menor da série histórica para o período, com recordes na massa de rendimentos e no número de ocupados.",
+     "base": "Valor (dados do IBGE)"
+    },
+    {
+     "texto": "A Bolívia decretou estado de emergência por secas e enchentes associadas ao 'super El Niño'; estudo do Climate Impact Lab estima 19,5 mil mortes adicionais por calor no Brasil até março.",
+     "base": "3 fontes independentes (Estadão, g1, Jovem Pan) para a Bolívia; Valor para o estudo"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O dólar mais alto após a reeleição é risco adicional para a inflação e começa a provocar revisões do IPCA.",
+     "quem": "Economistas ouvidos pela Folha"
+    },
+    {
+     "texto": "Há 'chantagem do mercado' no debate do ajuste; os cortes devem mirar privilégios, desonerações e supersalários, não 'o lombo dos mais pobres'.",
+     "quem": "Guilherme Boulos, ministro da Secretaria-Geral (Folha)"
+    },
+    {
+     "texto": "O mercado busca um novo patamar de preços na bolsa; Copom e fiscal são os fatores-chave.",
+     "quem": "José Cassiolato, estrategista (CNN Brasil)"
+    },
+    {
+     "texto": "O mercado de trabalho pode ter acomodação mais lenta que a esperada.",
+     "quem": "Economistas ouvidos pelo Valor"
+    },
+    {
+     "texto": "Secas, enchentes e ondas de calor elevam preços e dificultam o controle da inflação; é preciso discutir a adaptação do regime de metas.",
+     "quem": "Artigo no Estadão"
+    },
+    {
+     "texto": "Lula 4 terá de escolher entre o Lula 1 (ajuste) e o Lula 3; a 'ala paulista' do PT perde influência para o Nordeste e Alckmin.",
+     "quem": "O Globo (coluna e reportagem)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Boulos e a ala social do PT falam em chantagem do mercado e em cortar privilégios; a Fazenda desenha ajuste para dar credibilidade sem atingir programas sociais.",
+    "oposicao": "Mercado e veículos de direita cobram definição rápida do ministro da Fazenda e do plano fiscal e atribuem as revisões à reeleição."
+   },
+   "visao_de_fora": "La Nación analisa o impacto da eleição brasileira na economia argentina; o acordo Mercosul-EFTA com a Noruega entra em vigor.",
+   "ponto_cego": "Veículos de direita não publicaram as revisões de inflação nem o pacote de ajuste; veículos de esquerda (247) publicam a pesquisa BGC, mas não a saída de R$ 8,86 bi de estrangeiros nem o recorde de emprego, que seria favorável ao governo.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "ibovespa-perde-18-na-semana-pior-desde-2020-dolar-5-44-maior-alta-semanal-desde-2008-b3-perde-963-bi-itau-corta-pib-2027-0-5",
+    "titulo": "Ibovespa fecha a semana da reeleição com queda de 18%, a pior desde março de 2020; dólar vai a R$ 5,44 com a maior alta semanal desde 2008, empresas da B3 perdem R$ 963 bilhões e Itaú corta o PIB de 2027 para 0,5% e vê inflação acima da meta"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/expectativas-de-inflacao-para-2027-e-2028-saltam-apos-segundo-turno.shtml",
+     "angulo": "Pesquisa BGC: expectativas de inflação saltam após o 2º turno.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Crescem expectativas de inflação para 2027 e 2028",
+     "url": "https://www.brasil247.com/economia/crescem-expectativas-de-inflacao-para-2027-e-2028/",
+     "angulo": "5,3% em 2027 e 4,3% em 2028; mercado reduz apostas em cortes.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Mercado revisa PIB para baixo e já vê inflação até 6% em 2027",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-revisa-pib-para-baixo-e-ja-ve-inflacao-ate-6-em-2027/",
+     "angulo": "Analistas revisam PIB e veem inflação de até 6% em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Penduricalhos, supersalários e mais: Fazenda desenha ajuste para 2027",
+     "url": "https://www.metropoles.com/brasil/penduricalhos-supersalarios-e-mais-fazenda-desenha-ajuste-para-2027",
+     "angulo": "Fazenda desenha ajuste para 2027 com penduricalhos e supersalários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Saiba quem são os cotados para assumir o Ministério da Fazenda",
+     "url": "https://www.metropoles.com/brasil/cotados-para-assumir-fazenda",
+     "angulo": "Quem são os cotados para a Fazenda além de Fonteles.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Boulos fala em chantagem do mercado sobre ajuste fiscal e defende corte em desoneração e supersalário",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/boulos-fala-em-chantagem-do-mercado-sobre-ajuste-fiscal-e-defende-corte-em-desoneracao-e-supersalario.shtml",
+     "angulo": "Boulos: 'chantagem do mercado'; cortar desoneração e supersalário.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Tabata apoia Alckmin na Fazenda, admite disputar SP em 28 e quer pressão popular para rever emendas",
+     "url": "https://www.estadao.com.br/politica/tabata-apoia-alckmin-na-fazenda-admite-disputar-sp-em-28-e-quer-pressao-popular-para-rever-emendas/",
+     "angulo": "Tabata defende Alckmin na Fazenda e pressão popular sobre emendas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Mercado busca novo patamar de preços na Bolsa, avalia estrategista",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-busca-novo-patamar-de-precos-na-bolsa-avalia-estrategista/",
+     "angulo": "Estrangeiros retiram R$ 8,86 bi em quatro pregões; Copom e fiscal decidem.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Mercado de trabalho pode ter acomodação mais lenta que a esperada, apontam economistas",
+     "url": "https://valor.globo.com/brasil/noticia/2026/10/31/mercado-de-trabalho-pode-ter-acomodao-mais-lenta-que-a-esperada-apontam-economistas.ghtml",
+     "angulo": "Desemprego recorde de baixa no 3º tri; acomodação mais lenta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Ala paulista do PT perde influência no partido para grupo do Nordeste após eleição",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/ala-paulista-do-pt-perde-influencia-no-partido-para-grupo-do-nordeste-apos-eleicao.ghtml",
+     "angulo": "Ala paulista do PT perde influência para o Nordeste e Alckmin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "El Niño: 19,5 mil pessoas podem morrer por calor associado ao fenômeno climático até março, estima estudo",
+     "url": "https://valor.globo.com/brasil/esg/noticia/2026/10/31/el-nino-195-mil-pessoas-podem-morrer-por-calor-associado-ao-fenomeno-climatico-ate-marco-estima-estudo.ghtml",
+     "angulo": "El Niño: 19,5 mil mortes por calor até março, estima estudo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "transicao-lula-4-vaga-stf-nome-de-consenso-novo-senado-pl-29-ameaca-barrar-messias-defesa-cinara-mucio-agenda-mercosul-cop-g20-posse",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Montagem do Lula 4: aliados aconselham nome de consenso para o STF ainda em 2026 diante de um Senado com 29 do PL que pode barrar Messias; Múcio deixa a Defesa e indica Cinara Wagner Fredo, Márcio França é cotado a voltar, e Lula retoma a agenda com Mercosul, COP e G20",
+   "lide": "Com o PL como maior bancada do Senado a partir de fevereiro, interlocutores do governo aconselham Lula a indicar ainda em 2026 um nome de consenso para a vaga no STF, com apoio de Alcolumbre e das lideranças, em vez de insistir em Jorge Messias, rejeitado pela Casa; veículos de direita falam em 'bloqueio histórico' a indicações políticas. José Múcio avisou que deixa a Defesa e indicou a secretária-geral Cinara Wagner Fredo, que seria a primeira mulher no cargo; Márcio França é cotado a voltar à Esplanada, e Lula retoma em novembro a agenda internacional, com Mercosul e COP, antes do G20 nos EUA em dezembro e da posse em 5 de janeiro.",
+   "contexto": "Lula indicou Messias ao STF em 2026 e o Senado o rejeitou; a reaproximação com Alcolumbre, que busca a reeleição, reabriu a possibilidade. O PL terá 29 senadores e o PT, 10.",
+   "fatos": [
+    {
+     "texto": "Integrantes do governo e aliados aconselham Lula a indicar ainda em 2026 um nome de consenso para a vaga no STF, com apoio de Alcolumbre e das principais lideranças do Senado; Lula sinalizou intenção de insistir em Jorge Messias.",
+     "base": "Terra Brasil Notícias (fonte única); Jovem Pan e CartaCapital noticiaram em 30/10 a intenção de insistir em Messias"
+    },
+    {
+     "texto": "José Múcio disse a Lula que não continuará na Defesa e indicou para o lugar a secretária-geral do ministério, Cinara Wagner Fredo, que seria a primeira mulher ministra da Defesa.",
+     "base": "3 fontes independentes (Estadão, Terra, DCM)"
+    },
+    {
+     "texto": "Márcio França (PSB), ex-governador de SP e ex-ministro do Empreendedorismo, é cotado para voltar ao governo em 2027.",
+     "base": "IstoÉ (fonte única)"
+    },
+    {
+     "texto": "Lula retomará a agenda internacional em novembro, com as cúpulas do Mercosul e a COP, e deve ir aos EUA para o G20 em dezembro; a posse do quarto mandato será em 5 de janeiro de 2027.",
+     "base": "CNN Brasil (agenda); Brasil de Fato e IstoÉ (posse)"
+    },
+    {
+     "texto": "O PL terá 29 senadores e o PT, 10, a partir de fevereiro de 2027.",
+     "base": "Agência Senado (noticiado em 30/10)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "'Lula terá a caneta, mas a direita terá os votos': o novo Senado pode impor uma sequência de derrotas se o presidente insistir em aliados para o STF; juristas independentes surgem como alternativa.",
+     "quem": "Terra Brasil Notícias (análise)"
+    },
+    {
+     "texto": "Ao menos dois petistas não eleitos viraram 'dor de cabeça' para serem acomodados no Lula 4.",
+     "quem": "Diário do Poder (coluna)"
+    },
+    {
+     "texto": "A vaga de Rodrigo Pacheco no TCU, caso ele saia, já é cobiçada por aliados, com ao menos três cotados.",
+     "quem": "Painel da Folha"
+    },
+    {
+     "texto": "É preciso seguir a regra do 'notável saber jurídico' na escolha para o STF.",
+     "quem": "Leitora da Folha sobre a hipótese Simone Tebet (opinião)"
+    },
+    {
+     "texto": "A ala paulista do PT saiu da campanha menos influente; o Nordeste e Alckmin ganharam força na montagem do governo.",
+     "quem": "O Globo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados defendem acordo com Alcolumbre para a vaga no STF e preparam a troca na Defesa com nome técnico indicado por Múcio.",
+    "oposicao": "Direita apresenta o novo Senado como barreira a 'indicações políticas' e cobra juristas independentes."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda não trataram da vaga no STF nem da sucessão na Defesa; a cobertura da sucessão de Múcio ficou com Estadão, Terra e DCM.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "alcolumbre-pauta-pec-seguranca-terca-ministerio-lula-maioridade-penal-senadores-rejeitam-anistia-ate-dosimetria-stf-pl-lanca-marinho-pp-racha",
+    "titulo": "Alcolumbre pauta a PEC da Segurança para terça, condição de Lula para criar o Ministério da Segurança Pública, com a maioridade penal como impasse; senadores rejeitam anistia a Bolsonaro até o STF julgar a dosimetria, ala do Supremo quer votar ainda em 2026, e PL lança Marinho enquanto o PP racha"
+   },
+   "materias": [
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Aliados aconselham Lula a escolher nome de consenso para vaga no STF ainda em 2026",
+     "url": "https://terrabrasilnoticias.com/2026/10/aliados-aconselham-lula-a-escolher-nome-de-consenso-para-vaga-no-stf-ainda-em-2026/",
+     "angulo": "Aliados aconselham nome de consenso para o STF ainda em 2026.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Lula terá a caneta, mas a direita terá os votos: novo Senado ameaça barrar indicações políticas ao STF",
+     "url": "https://terrabrasilnoticias.com/2026/10/lula-tera-a-caneta-mas-a-direita-tera-os-votos-novo-senado-ameaca-barrar-indicacoes-politicas-ao-stf/",
+     "angulo": "'Lula terá a caneta, mas a direita terá os votos': Senado pode barrar indicações.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula procura ministro da Defesa para quarto mandato e Múcio indica uma mulher",
+     "url": "https://www.estadao.com.br/politica/lula-procura-ministro-da-defesa-para-quarto-mandato-e-mucio-indica-uma-mulher/",
+     "angulo": "Múcio avisa que sai e indica Cinara Wagner Fredo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Quem é Cinara Wagner Fredo, cotada para ser a primeira mulher ministra da Defesa",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/quem-e-cinara-wagner-fredo-cotada-para-ser-a-primeira-mulher-ministra-da-defesa,9cd68b2c989711588f0222745a33a048o5ig07ok.html",
+     "angulo": "Quem é Cinara Wagner Fredo, cotada para ser a 1ª ministra da Defesa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lula busca sucessor de Múcio na Defesa e avalia indicação de uma mulher",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-busca-sucessor-mucio-ministerio-defesa-cinara-fredo",
+     "angulo": "Lula busca sucessor de Múcio e avalia indicar uma mulher.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Márcio França é cotado para voltar ao governo após reeleição de Lula",
+     "url": "https://istoe.com.br/marcio-franca-cotado-voltar-governo-lula-2027",
+     "angulo": "Márcio França é cotado para voltar ao governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Lula retomará agenda internacional com ida a cúpulas do Mercosul, COP e G20",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-retomara-agenda-internacional-com-ida-a-cupulas-do-mercosul-cop-e-g20/",
+     "angulo": "Agenda: Mercosul e COP em novembro, G20 nos EUA em dezembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Posse de Lula será em 5 de janeiro em Brasília; no DF, governadora e deputados distritais assumem no dia 6",
+     "url": "https://www.brasildefato.com.br/2026/10/30/posse-de-lula-sera-em-5-de-janeiro-em-brasilia-no-df-governadora-e-deputados-distritais-assumem-no-dia-6/",
+     "angulo": "Posse em 5 de janeiro; mudança no calendário institucional.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Petistas sem mandatos ‘encalham’ no Lula 4",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/petistas-sem-mandatos-encalham-no-lula-4",
+     "angulo": "Petistas sem mandato 'encalham' no Lula 4.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Lula 4 terá de fazer escolha entre Lula 1 e Lula 3",
+     "url": "https://oglobo.globo.com/opiniao/artigos/coluna/2026/11/lula-4-tera-de-fazer-escolha-entre-lula-1-e-lula-3.ghtml",
+     "angulo": "Lula 4 terá de escolher entre Lula 1 e Lula 3.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "camara-retoma-reforma-eleitoral-distrital-misto-frear-perda-partidos-gaspari-mandato-sem-voto-congresso-inelegibilidade-violencia-mulher-11-anos-13-propostas",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Líderes da Câmara retomam a reforma eleitoral com voto distrital misto para 'frear a perda de espaço' dos partidos tradicionais, e Elio Gaspari alerta para 'mandato sem voto'; Congresso tem 13 propostas paradas há 11 anos sobre inelegibilidade por violência contra a mulher, tema que o TSE decidiu na quinta",
+   "lide": "Líderes da Câmara e presidentes de partido pretendem retomar a tramitação da proposta que institui o sistema distrital misto para a eleição de deputados, com o objetivo declarado de conter a perda de espaço de partidos tradicionais para a onda bolsonarista; o colunista Elio Gaspari adverte que o modelo pode 'tungar' parcialmente o direito de escolha dos eleitores e permitir mandato a quem não teve voto. Em paralelo, ao menos 13 propostas apresentadas desde 2015 para tornar inelegíveis condenados por violência contra a mulher estão paradas no Congresso, dois dias depois de o TSE decidir que a condenação pode barrar candidaturas e pedir mudança na lei.",
+   "contexto": "Em 29/10, Motta fechou com o Centrão a retomada da reforma eleitoral com voto distrital misto e regras para redes 'para conter o PL'. O TSE decidiu em 29/10 que condenados por violência de gênero são inelegíveis e propôs alteração legal.",
+   "fatos": [
+    {
+     "texto": "Líderes da Câmara e presidentes de partido articulam retomar a proposta que altera a forma de escolha dos deputados e institui o sistema distrital misto; o objetivo principal é frear a perda de espaço de partidos tradicionais.",
+     "base": "g1 (fonte única); Folha e O Globo (coluna de Gaspari) confirmam a reunião de líderes convocada por Motta"
+    },
+    {
+     "texto": "Ao menos 13 propostas para tornar inelegíveis condenados por violência contra a mulher foram apresentadas no Congresso desde 2015 e estão paradas; em 29/10 o TSE decidiu que a condenação por violência de gênero pode barrar candidatura e pediu mudança na lei.",
+     "base": "CNN Brasil (levantamento próprio); decisão do TSE noticiada em 29/10 por InfoMoney, ICL e Jovem Pan"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A reforma 'parece bobagem, mas pode resultar numa tunga parcial do direito de escolha' e realizar o sonho de quem quer mandato sem ter voto; mudará a cara da política nacional.",
+     "quem": "Elio Gaspari, colunista (Folha e O Globo)"
+    },
+    {
+     "texto": "O distrital misto é a resposta dos partidos tradicionais à bancada recorde do PL.",
+     "quem": "g1 (análise)"
+    },
+    {
+     "texto": "A direita precisa 'honrar os votos' e fazer oposição dura.",
+     "quem": "Victor Jansen, deputado distrital eleito (Conexão Política)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "PT e aliados apoiam a reforma eleitoral como forma de conter o avanço do PL; o governo defende a inelegibilidade por violência contra a mulher.",
+    "oposicao": "PL, maior beneficiado do sistema atual, resiste ao distrital misto; direita trata a reforma como manobra para 'conter o PL'."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Nenhum veículo de direita ou de esquerda cobriu a retomada da reforma eleitoral neste fim de semana; o levantamento sobre as 13 propostas paradas apareceu só na CNN Brasil.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "motta-reforma-eleitoral-distrital-misto-regras-redes-conter-pl-marinho-tereza-frente-alcolumbre-oea",
+    "titulo": "Motta fecha com o Centrão reforma eleitoral com voto distrital misto e regras para redes 'para conter o PL'; Marinho e Tereza Cristina articulam frente contra Alcolumbre, e OEA valida eleição com alerta ao STF"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/01/camara-quer-mudar-a-forma-de-eleicao-dos-deputados-entenda-o-novo-modelo-em-discussao.ghtml",
+     "angulo": "Câmara quer o distrital misto; entenda o novo modelo em discussão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Reforma eleitoral pode realizar sonho de quem quer mandato sem ter voto",
+     "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/reforma-eleitoral-pode-realizar-sonho-de-quem-quer-mandato-sem-ter-voto.shtml",
+     "angulo": "Gaspari: reforma pode dar mandato a quem não tem voto.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "O voto distrital é coisa séria",
+     "url": "https://oglobo.globo.com/opiniao/elio-gaspari/coluna/2026/11/o-voto-distrital-e-coisa-seria.ghtml",
+     "angulo": "'O voto distrital é coisa séria': versão da coluna no Globo.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Congresso analisa inelegibilidade por violência contra mulher há 11 anos",
+     "url": "https://www.cnnbrasil.com.br/politica/congresso-analisa-inelegibilidade-por-violencia-contra-mulher-ha-11-anos/",
+     "angulo": "13 propostas paradas há 11 anos; TSE decidiu e pediu mudança na lei.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "conexaopolitica",
+     "titulo": "‘A direita precisa honrar os votos que recebeu e ser uma oposição dura’, diz distrital mais jovem eleito do DF",
+     "url": "https://www.conexaopolitica.com.br/politica/a-direita-precisa-honrar-os-votos-que-recebeu-e-ser-uma-oposicao-dura-diz-distrital-mais-jovem-eleito-do/",
+     "angulo": "Distrital mais jovem do DF: direita deve fazer 'oposição dura'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Reeleição de Lula baixa a bola do PL de Bolsonaro no Congresso",
+     "url": "https://veja.abril.com.br/politica/reeleicao-de-lula-baixa-a-bola-do-pl-de-bolsonaro-no-congresso/",
+     "angulo": "Reeleição de Lula 'baixa a bola' do PL no Congresso.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "chilli-beans-recuperacao-extrajudicial-340-mi-aporte-50-mi-credores-itau-akron-vega-900-franquias",
+   "editoria": "Empresas",
+   "escopo": "brasil",
+   "titulo": "Chilli Beans, dona de 900 franquias, pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas bancárias, com aporte de até R$ 50 milhões financiado pelos próprios credores, entre eles Itaú, Akron e Vega",
+   "lide": "A rede de óculos e relógios fundada por Caito Maia em 1997 protocolou na noite de sexta um pedido de recuperação extrajudicial para reestruturar R$ 340 milhões em dívidas com bancos; o plano, alinhado com os principais credores, prevê novos prazos e condições e um aporte de até R$ 50 milhões com recursos dos próprios credores, e foi estruturado com a participação de Itaú, Akron e Vega. A empresa se junta a Raízen, Oncoclínicas e outras que recorreram ao mecanismo em 2026.",
+   "contexto": "Na sexta, a Raízen aprovou a maior recuperação extrajudicial do país e a Oncoclínicas atingiu o quórum de credores. O Itaú passou a ver o fim do ciclo de cortes da Selic, mantida em 13,75%.",
+   "fatos": [
+    {
+     "texto": "A Chilli Beans protocolou em 30/10 pedido de recuperação extrajudicial para renegociar cerca de R$ 340 milhões em dívidas bancárias, com novos prazos e condições de pagamento.",
+     "base": "7 fontes independentes (g1, Estadão, Folha, InfoMoney, Veja, Gazeta do Povo, A Tarde)"
+    },
+    {
+     "texto": "O plano prevê aporte de até R$ 50 milhões em novos recursos, provenientes dos próprios credores, e foi estruturado com a participação de Itaú, Akron e Vega.",
+     "base": "InfoMoney (financiadores); Estadão, A Tarde e Veja (aporte)"
+    },
+    {
+     "texto": "A rede opera cerca de 900 franquias e foi fundada em 1997 por Caito Maia.",
+     "base": "Veja e Brasil 247 (franquias); NeoFeed (fundação, 30/10)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A empresa é mais uma a recorrer ao mecanismo em meio a dificuldades financeiras em 2026, ao lado de Raízen e Oncoclínicas.",
+     "quem": "g1 (lista de casos)"
+    },
+    {
+     "texto": "O acordo com os credores sustenta a operação das 900 franquias.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Cobertura ampla e homogênea, baseada no comunicado da empresa; nenhum veículo trouxe a posição de franqueados ou de credores além do que a empresa informou.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "raizen-aprova-recuperacao-extrajudicial-65-bi-dividida-em-duas-oncoclinicas-61-6-credores-chilli-beans-aneel-bandeira-verde-novembro",
+    "titulo": "Acionistas da Raízen aprovam a maior recuperação extrajudicial do país: dívida de R$ 65 bilhões, capitalização de até R$ 39,8 bilhões, credores com cerca de 80% e empresa dividida em duas; Oncoclínicas atinge 61,6% de adesão, Chilli Beans pede recuperação e Aneel mantém bandeira verde em novembro"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
+     "angulo": "Pedido de recuperação extrajudicial para R$ 340 milhões; aporte de até R$ 50 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+     "url": "https://www.estadao.com.br/economia/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
+     "angulo": "Novos recursos vêm dos próprios credores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+     "url": "https://www.infomoney.com.br/business/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
+     "angulo": "Plano estruturado com Itaú, Akron e Vega.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Dona de 900 franquias, Chilli Beans busca saída para dívida de R$ 340 milhões",
+     "url": "https://veja.abril.com.br/brasil/dona-de-900-franquias-chilli-beans-busca-saida-para-divida-de-r-340-milhoes/",
+     "angulo": "Dona de 900 franquias busca saída para a dívida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Chilli Beans entra com recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
+     "url": "https://www.gazetadopovo.com.br/economia/chilli-beans-entra-com-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/",
+     "angulo": "Registro pela direita do pedido e do plano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Chilli Beans negocia R$ 340 milhões em dívidas e prepara reestruturação",
+     "url": "https://www.brasil247.com/economia/chilli-beans-negocia-r-340-milhoes-em-dividas-e-prepara-reestruturacao/",
+     "angulo": "Acordo com bancos sustenta a operação de 900 franquias.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Chilli Beans recorre à recuperação extrajudicial por dívida de R$ 340 milhões",
+     "url": "https://atarde.com.br/economia/chilli-beans-recorre-a-recuperacao-extrajudicial-por-divida-de-r-340-milhoes-1407872",
+     "angulo": "Aporte financiado pelos próprios credores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Chilli Beans entra para lista de empresas que recorreram à recuperação em 2026; veja os casos",
+     "url": "https://g1.globo.com/economia/negocios/noticia/2026/10/31/chilli-beans-entra-para-lista-de-empresas-que-recorreram-a-recuperacao-em-2026-veja-os-casos.ghtml",
+     "angulo": "Lista de empresas que recorreram à recuperação em 2026.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Chilli Beans faz pedido de recuperação extrajudicial com dívida de R$ 340 milhões",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/chilli-beans-faz-pedido-de-recuperacao-extrajudicial-com-divida-de-r-340-milhoes.shtml",
+     "angulo": "Pedido protocolado na noite de sexta para reestruturar R$ 340 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "raio-x-voto-flavio-perde-votos-585-cidades-nordeste-mg-virada-queda-abstencao-df-lula-cresce-95-mil-bahia-acm-neto-cleitinho",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Raio-X do segundo turno: Flávio perdeu votos em 585 cidades do Nordeste com bases desmobilizadas, Lula virou em Minas com queda da abstenção e ganhou 95 mil votos no DF em relação a 2022; na Bahia, o apoio a Flávio aumentou o desafio de ACM Neto, e Cleitinho é cobrado pela derrota em Minas",
+   "lide": "Uma semana após o segundo turno, levantamentos regionais detalham a virada: a Folha mostra que Flávio Bolsonaro perdeu votos entre o primeiro e o segundo turno em 585 cidades do Nordeste, onde bases locais trocaram o 22 pelo 13 nos últimos dias; em Minas, Lula virou sobre o senador com redução da abstenção e registros de assédio eleitoral; no DF, o presidente ganhou 95 mil votos em relação a 2022 enquanto Flávio deixou de herdar 61 mil votos do pai. Na Bahia, especialistas avaliam que o apoio de ACM Neto a Flávio dificultou a oposição ao PT, que governa o estado há 20 anos, e em Minas o governador eleito Cleitinho é acusado de falta de engajamento e vê a aliança com o PL em xeque.",
+   "contexto": "Lula venceu o segundo turno por 4,4 milhões de votos em 25/10. A Folha atribui a virada ao 'freio de arrumação' da campanha, à mobilização espontânea de jovens e ao 'exército digital' de Janones.",
+   "fatos": [
+    {
+     "texto": "Flávio Bolsonaro perdeu votos em 585 cidades do Nordeste entre o primeiro e o segundo turno, com bases locais desmobilizadas e lideranças que migraram para Lula na reta final.",
+     "base": "Folha (levantamento próprio, fonte única)"
+    },
+    {
+     "texto": "Em Minas Gerais, o segundo turno teve virada de Lula sobre Flávio, queda na abstenção e denúncias de assédio eleitoral.",
+     "base": "g1 Minas (balanço próprio, fonte única)"
+    },
+    {
+     "texto": "No Distrito Federal, Lula ganhou 95 mil votos em relação ao segundo turno de 2022, e Flávio deixou de herdar 61 mil votos de Jair Bolsonaro.",
+     "base": "Metrópoles (levantamento próprio, fonte única)"
+    },
+    {
+     "texto": "André Janones criticou em 31/10 a disputa na esquerda por crédito pela vitória ('a vaidade é uma merda') e apontou a força da extrema direita no Congresso.",
+     "base": "4 fontes independentes (Jovem Pan, DCM, A Tarde, Congresso em Foco)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O apoio de ACM Neto a Flávio aumentou o desafio do ex-prefeito para ampliar a oposição ao PT na Bahia.",
+     "quem": "Especialistas ouvidos pelo g1 Bahia"
+    },
+    {
+     "texto": "Cleitinho, acusado de falta de engajamento na campanha, é cobrado pela derrota de Flávio em Minas e vê a aliança com o PL em xeque.",
+     "quem": "O Globo (bastidores)"
+    },
+    {
+     "texto": "Três fatores explicam a virada: o 'freio de arrumação' da campanha, a tomada espontânea das ruas por jovens e o exército digital de Janones; Lula terá de cumprir as promessas feitas à multidão da Paulista.",
+     "quem": "Ensaio na Ilustríssima (Folha)"
+    },
+    {
+     "texto": "O 'janonismo' inspira a esquerda de outros países, com canais análogos na Espanha, França e Argentina; o Planalto avalia como manter o legado do 'Exército do Lula'.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "O voto bolsonarista segue crescendo e consolidou domínio no Congresso; a extrema direita 'não foi embora com Flávio'.",
+     "quem": "Ensaio na Ilustríssima (Folha)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Áudio atribuído ao presidente do Sindicato dos Rodoviários de Salvador descreve mobilização para adesivar ônibus no segundo turno.",
+     "rotulo": "Em apuração",
+     "explicacao": "A gravação foi divulgada pela imprensa local e repercutida pela Conexão Política; não há manifestação do sindicato nem apuração da Justiça Eleitoral nos textos consultados.",
+     "onde_circula": "Conexão Política, imprensa local da Bahia",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "PT lê a virada como mobilização espontânea e resultado da campanha digital; Janones pede que a esquerda pare de disputar crédito.",
+    "oposicao": "Direita atribui a derrota a bases desmobilizadas e a aliados pouco engajados (Cleitinho, ACM Neto), e candidatos derrotados falam em filtrar contatos 'não bolsonaristas'."
+   },
+   "visao_de_fora": "O 'janonismo' virou referência para a esquerda na Espanha, França e Argentina, segundo o Globo; a Fórum registra que uma empresa argentina se apresenta como vitoriosa da campanha digital de Lula.",
+   "ponto_cego": "Veículos de direita não publicaram análises regionais do voto; veículos de esquerda destacam Janones, mas não o levantamento da Folha sobre a desmobilização das bases do PL no Nordeste.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Flávio Bolsonaro perde votos em 585 cidades do Nordeste com bases desmobilizadas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-perde-votos-em-585-cidades-do-nordeste-com-bases-desmobilizadas.shtml",
+     "angulo": "Flávio perde votos em 585 cidades do Nordeste; bases trocaram o 22 pelo 13.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Segundo turno em MG teve virada de Lula, queda na abstenção e denúncias de assédio eleitoral; veja balanço",
+     "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/11/01/segundo-turno-em-mg-teve-virada-de-lula-queda-na-abstencao-e-denuncias-de-assedio-eleitoral-veja-balanco.ghtml",
+     "angulo": "Minas: virada de Lula, queda da abstenção e denúncias de assédio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Lula cresce eleitorado e bolsonarismo perde votos no DF em relação a 2022",
+     "url": "https://www.metropoles.com/distrito-federal/lula-cresce-eleitorado-e-bolsonarismo-perde-votos-no-df-em-relacao-a-2022",
+     "angulo": "DF: Lula ganha 95 mil votos; Flávio não herda 61 mil do pai.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Apoio a Flávio Bolsonaro aumentou desafio de ACM Neto para ampliar força da oposição ao PT na Bahia, avaliam especialistas",
+     "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/11/01/apoio-a-flavio-aumentou-desafio-de-acm-neto-para-ampliar-forca-da-oposicao-na-bahia.ghtml",
+     "angulo": "Bahia: apoio a Flávio aumentou o desafio de ACM Neto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Acusado de falta de engajamento, Cleitinho é cobrado por derrota de Flávio em Minas e vê aliança com PL em xeque",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/acusado-de-falta-de-engajamento-cleitinho-e-cobrado-por-derrota-de-flavio-em-minas-e-ve-alianca-com-pl-em-xeque.ghtml",
+     "angulo": "Cleitinho cobrado pela derrota em Minas; aliança com PL em xeque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "'Janonismo' inspira esquerda de outros países, enquanto presidente avalia como manter legado do 'Exército de Lula'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/janonismo-inspira-esquerda-de-outros-paises-enquanto-presidente-avalia-como-manter-legado-do-exercito-de-lula.ghtml",
+     "angulo": "'Janonismo' inspira a esquerda de outros países.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Janones critica disputa por protagonismo em vitória de Lula: ‘A vaidade é uma merda’",
+     "url": "https://jovempan.com.br/politica/janones-critica-disputa-por-protagonismo-em-vitoria-de-lula-a-vaidade-e-uma-merda/",
+     "angulo": "Janones: 'a vaidade é uma merda'; direita cresce no Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "“A vaidade é uma merda”: Janones critica disputa por crédito na vitória de Lula",
+     "url": "https://www.diariodocentrodomundo.com.br/a-vaidade-e-uma-merda-janones-critica-disputa-por-credito-na-vitoria-de-lula/",
+     "angulo": "Janones critica a disputa por crédito na esquerda.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Depois de virada incrível, Lula terá que cumprir as promessas feitas à multidão da Paulista",
+     "url": "https://www1.folha.uol.com.br/ilustrissima/2026/10/depois-de-virada-incrivel-lula-tera-que-cumprir-as-promessas-feitas-a-multidao-da-paulista.shtml",
+     "angulo": "Ensaio: três fatores da virada e as promessas da Paulista.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Depois de tríplice fracasso, candidato de Nikolas na Bahia quer petistas identificados com estrela",
+     "url": "https://revistaforum.com.br/revista-forum/depois-de-triplice-fracasso-nikolas-na-bahia/",
+     "angulo": "Candidato de Nikolas na Bahia quer 'identificar' petistas após a derrota.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "conexaopolitica",
+     "titulo": "Áudio atribuído a sindicalista aponta articulação para adesivar ônibus no segundo turno em Salvador",
+     "url": "https://www.conexaopolitica.com.br/politica/audio-atribuido-a-sindicalista-aponta-articulacao-para-adesivar-onibus-no-segundo-turno-em-salvador/",
+     "angulo": "Áudio atribuído a sindicalista sobre adesivar ônibus em Salvador.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "franca-terceiro-fim-de-semana-320-mil-500-mil-565-presos-alemanha-gen-z-saques-frankfurt-portugal-lisboa-londres-140-presos-polonia-tusk",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Terceiro fim de semana de protestos na França reúne 320 mil pessoas segundo o governo e quase 500 mil segundo organizadores, com 565 presos após confrontos; onda chega à Alemanha com saques em Frankfurt, a Lisboa, a Londres e a Varsóvia, onde Tusk diz que não recuará na crise do Tribunal Constitucional",
+   "lide": "Com fantasias de Halloween e 70 mil policiais mobilizados, cerca de 150 atos contra o custo de vida e pela educação pública tomaram a França no sábado: o Ministério do Interior contou 320 mil manifestantes, menos que nos dois fins de semana anteriores, e a coalizão estudantil, quase 500 mil; as marchas foram majoritariamente pacíficas, mas terminaram em confrontos em Paris, Marselha, Lyon e Bordeaux, com carros incendiados e 565 detidos. Na Alemanha, o movimento 'GenZ regelt!' levou dezenas de milhares às ruas de 34 cidades e terminou com saques em Frankfurt; a polícia desmontou um acampamento contra a crise imobiliária em Lisboa, quase 140 pessoas foram presas em Londres num protesto contra a proibição do Palestine Action, e na Polônia o premiê Donald Tusk disse em pronunciamento que 'em certas matérias não pode haver compromisso' sobre o Tribunal Constitucional.",
+   "contexto": "Os protestos franceses começaram em meados de outubro: 17/10 reuniu mais de 500 mil pessoas e 24/10, 410 mil. Na sexta, a Polônia viu polícia de choque cercar o Tribunal Constitucional após o afastamento de seu presidente.",
+   "fatos": [
+    {
+     "texto": "O Ministério do Interior francês estimou 320 mil manifestantes em todo o país em 31/10, número menor que nos protestos de 17/10 (mais de 500 mil) e 24/10 (410 mil); a coalizão de organizações juvenis e sindicatos contou quase 500 mil, 200 mil só em Paris.",
+     "base": "4 fontes independentes (AFP/France 24, Estadão, Folha, El País)"
+    },
+    {
+     "texto": "As marchas foram majoritariamente pacíficas, mas terminaram em confrontos em Paris, Marselha, Lyon, Bordeaux, Nantes e Grenoble, com carros incendiados; 565 pessoas foram detidas, segundo o balanço mais recente.",
+     "base": "El País e Jovem Pan (565); g1 ('mais de 500'); contagens anteriores de cerca de 300 em Gazeta do Povo e Clarín"
+    },
+    {
+     "texto": "Cerca de 70 mil policiais e gendarmes foram mobilizados; o ministro do Interior, Laurent Nuñez, alertou que cobrir o rosto com fantasias poderia gerar multas.",
+     "base": "3 fontes independentes (Estadão, Jovem Pan, The Guardian)"
+    },
+    {
+     "texto": "Na Alemanha, o coletivo 'GenZ regelt!' levou dezenas de milhares de jovens às ruas de 34 cidades por mais verbas para educação e contra o custo de vida e o serviço militar; manifestantes encapuzados saquearam lojas em Frankfurt e houve confrontos em Hamburgo.",
+     "base": "5 fontes independentes (BBC, g1, AFP/France 24, Folha, InfoMoney)"
+    },
+    {
+     "texto": "A polícia portuguesa desmontou na madrugada de 1º/11 um acampamento de protesto contra a crise imobiliária na praça do Rossio, em Lisboa, após manifestação de milhares contra projeto que facilita despejos.",
+     "base": "2 fontes independentes (Al Jazeera, CNN Brasil)"
+    },
+    {
+     "texto": "Quase 140 pessoas foram presas em Londres, diante da embaixada dos EUA, no maior protesto contra a proibição do Palestine Action desde que Andy Burnham virou premiê.",
+     "base": "3 fontes independentes (The Guardian, Exame, g1); números parciais menores no g1 e Exame"
+    },
+    {
+     "texto": "Donald Tusk afirmou em pronunciamento na TV em 31/10 que levará adiante a reforma do Tribunal Constitucional, 'em certas matérias não pode haver compromisso', e acusou a oposição de incitar violência; o presidente Nawrocki reuniu-se com os partidos em busca de saída.",
+     "base": "5 fontes independentes (The Guardian, Financial Times, Bloomberg, g1, Jovem Pan)"
+    },
+    {
+     "texto": "O presidente do STF, Edson Fachin, classificou a crise polonesa como 'sério' alerta à independência judicial.",
+     "base": "2 fontes independentes (DCM, Terra Brasil Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A mobilização da geração Z na Alemanha ficou abaixo das expectativas; na França, o número caiu em relação às semanas anteriores.",
+     "quem": "DW Brasil, Le Figaro e Estadão"
+    },
+    {
+     "texto": "O governo francês atribui a violência ao 'movimento de ultraesquerda'; Mélenchon é acusado de manipular os protestos estudantis.",
+     "quem": "Breitbart, citando o governo"
+    },
+    {
+     "texto": "Macron negou que o governo tenha considerado suspender plataformas, mas disse que será preciso 'vigilância' sobre o papel das redes na promoção da desordem.",
+     "quem": "The New York Times"
+    },
+    {
+     "texto": "A onda de protestos atingiu ao menos cinco países europeus no sábado, com pautas diferentes (França, Alemanha, Portugal, Albânia e Holanda); a Europa 'entra em ebulição'.",
+     "quem": "Poder360 e Brasil 247"
+    },
+    {
+     "texto": "A Alemanha não cumpriu a meta de armazenamento de gás para o inverno, o que pode elevar preços na UE.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Quase 500 mil pessoas protestaram na França (organizadores) / 320 mil (governo).",
+     "rotulo": "Contraditório",
+     "explicacao": "As duas contagens divergem como de costume; o governo registra queda em relação aos fins de semana anteriores, e os organizadores falam em 200 mil só em Paris, enquanto a polícia contou pouco mais de 70 mil na capital.",
+     "onde_circula": "governo francês, coalizão estudantil, Clarín",
+     "checagem": []
+    },
+    {
+     "alegacao": "O número de presos na França foi de cerca de 300.",
+     "rotulo": "Falta contexto",
+     "explicacao": "Os cerca de 300 foram o balanço do fim da tarde; o Ministério do Interior atualizou para mais de 560 à noite.",
+     "onde_circula": "Gazeta do Povo, Clarín, Exame, Jovem Pan (matéria anterior)",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Fachin usou a crise polonesa como alerta ao Brasil sobre pressões a tribunais; Brasil 247 e Fórum enquadram a onda europeia como revolta contra o custo de vida, e Breitbart como 'caos multicultural' e tumultos de 'extrema esquerda'.",
+   "ponto_cego": "Breitbart e Terra Brasil mostram só a violência (molotov, saques) e omitem que a maioria dos atos foi pacífica e que as pautas são custo de vida e educação; veículos de esquerda (247, Fórum, BdF) omitem os saques em Frankfurt e os 565 presos.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "polonia-crise-constitucional-juiza-afasta-presidente-tribunal-constitucional-policia-de-choque-nawrocki-interrompe-viagem-acusa-tusk-golpe",
+    "titulo": "Polônia mergulha em crise constitucional: juíza afasta por um mês o presidente do Tribunal Constitucional, governo move acusações criminais, polícia de choque cerca a corte em Varsóvia e o presidente Nawrocki interrompe viagem ao Senegal para acusar o governo Tusk de 'golpe'"
+   },
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+     "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+     "angulo": "Interior: 320 mil; organizadores: quase 500 mil; maioria pacífica.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Governo francês diz que 320 mil protestaram no país neste sábado; número é menor do que o esperado",
+     "url": "https://www.estadao.com.br/internacional/governo-frances-diz-que-320-mil-protestaram-no-pais-neste-sabado-numero-e-menor-do-que-o-esperado/",
+     "angulo": "320 mil, menos que nos dois fins de semana anteriores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Quase meio milhão de pessoas protestam na França neste sábado, segundo organizadores",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml",
+     "angulo": "Organizadores: quase 500 mil, 200 mil em Paris.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Más de 300.000 franceses salen a la calle por tercer fin de semana para protestar por el coste de la vida",
+     "url": "https://elpais.com/internacional/2026-10-31/mas-de-300000-franceses-salen-a-la-calle-por-tercer-fin-de-semana-para-protestar-por-el-coste-de-la-vida.html",
+     "angulo": "Choques em Paris, Marselha, Lyon e Bordeaux; 565 detidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Educação e custo de vida: por que a França tem sido tomada por uma onda de protestos",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/31/onda-protestos-franca.ghtml",
+     "angulo": "Por que a França foi tomada por protestos: educação e custo de vida.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Multicultural Mayhem: Hundreds Arrested, Police Firebombed, Curfews Imposed During French Halloween",
+     "url": "https://www.breitbart.com/europe/2026/10/31/multicultural-mayhem-hundreds-arrested-police-firebombed-curfews-imposed-during-french-halloween/",
+     "angulo": "'Caos multicultural': centenas de presos, polícia atacada; governo culpa 'ultraesquerda'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Manifestantes na França atacam policiais com coquetéis molotov; Veja vídeo",
+     "url": "https://terrabrasilnoticias.com/2026/10/manifestantes-na-franca-atacam-policiais-com-coqueteis-molotov-veja-video/",
+     "angulo": "Vídeo de coquetéis molotov contra policiais; só a violência.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Shops looted as German cost of living protests turn violent",
+     "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Alemanha: lojas saqueadas quando protestos pelo custo de vida ficam violentos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "França reúne 320 mil em atos nacionais; mobilização da geração Z decepciona na Alemanha",
+     "url": "https://www.dw.com/pt-br/frança-reúne-320-mil-em-atos-nacionais-mobilização-da-geração-z-decepciona-na-alemanha/a-79819033?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Mobilização da geração Z decepciona na Alemanha; mais de 400 presos na França.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Police storm Portugal housing protest camps",
+     "url": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
+     "angulo": "Polícia desmonta acampamentos contra a crise de moradia em Lisboa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+     "angulo": "Quase 140 presos em Londres em protesto contra a proibição do Palestine Action.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+     "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+     "angulo": "Tusk: 'em certas matérias não pode haver compromisso' sobre a corte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Europa entra em ebulição e atos mobilizam outros países além da França (vídeo)",
+     "url": "https://www.brasil247.com/mundo/europa-entra-em-ebulicao-e-atos-mobilizam-outros-paises-alem-da-franca-video/",
+     "angulo": "'Europa entra em ebulição': atos em vários países por salários e moradia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "fbi-atribui-coreia-do-norte-tradertraitor-roubo-binance-6-3-bi-corretora-cobre-90-perdas-retoma-saques-tesouraria-propria",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "FBI atribui oficialmente à Coreia do Norte o roubo de US$ 6,3 bilhões da Binance, pelo grupo TraderTraitor, o mesmo do ataque à Bybit; corretora diz ter coberto 90% das perdas com a própria tesouraria e retoma os saques neste domingo",
+   "lide": "Em comunicado de 31/10, o FBI afirmou que o maior roubo da história das criptomoedas foi obra do TraderTraitor, grupo patrocinado pelo Estado norte-coreano e responsável pelo ataque de US$ 1,5 bilhão à Bybit no ano passado; a agência, com o Serviço Secreto e o IRS, observou os agentes convertendo os ativos roubados principalmente em bitcoin. A Binance anunciou que recompôs 90% do valor com recursos próprios, que os 10% restantes são tokens de menor liquidez e que os saques voltam até domingo; a CNN Brasil fala em 95% recuperados, e corretoras concorrentes correm para reforçar a segurança.",
+   "contexto": "O ataque de 29/10, iniciado no notebook comprometido de um engenheiro, durou cerca de 20 minutos; Trump havia dito na sexta que os EUA investigavam a autoria norte-coreana, e a Binance Brasil suspendeu saques.",
+   "fatos": [
+    {
+     "texto": "O FBI afirmou em 31/10 que a Coreia do Norte foi responsável pelo roubo de mais de US$ 6 bilhões da Binance, atribuindo-o ao grupo TraderTraitor, o mesmo do roubo de US$ 1,5 bilhão da Bybit em 2025; FBI, Serviço Secreto e IRS observaram a conversão dos ativos roubados, principalmente em bitcoin.",
+     "base": "7 fontes independentes (Valor, g1, BBC, Al Jazeera, Le Monde, DW, Jovem Pan)"
+    },
+    {
+     "texto": "A Binance informou ter coberto 90% dos US$ 6,3 bilhões com recursos da própria tesouraria; os 10% restantes são tokens menos líquidos, que podem levar mais tempo para obter; os saques seriam restabelecidos até 1º/11.",
+     "base": "6 fontes independentes (Valor, g1, BBC, Exame, SBT News, Oeste)"
+    },
+    {
+     "texto": "A CNN Brasil afirma que a corretora retomou os saques após recuperar 95% do valor.",
+     "base": "CNN Brasil (fonte única, número divergente)"
+    },
+    {
+     "texto": "Corretoras de criptomoedas reforçam mecanismos de segurança e buscam tranquilizar clientes após o roubo.",
+     "base": "Folha (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Não é o primeiro grande roubo norte-coreano; seria o maior já obtido pelo regime em anos de cibercrime.",
+     "quem": "The New York Times (análise)"
+    },
+    {
+     "texto": "A IA pode ter tido papel ao aperfeiçoar os enganos a pessoas, sem precisar quebrar criptografia.",
+     "quem": "Página/12 (análise)"
+    },
+    {
+     "texto": "A Coreia do Norte 'aperfeiçoou' o roubo de cripto e se tornou uma 'superpotência' em ataques hackers, de Hollywood à Binance.",
+     "quem": "Axios e Valor (análises)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Binance recuperou 95% do valor roubado.",
+     "rotulo": "Contraditório",
+     "explicacao": "A própria corretora e a maioria dos veículos falam em 90% repostos com recursos próprios, não em recuperação dos fundos; o número de 95% aparece só na CNN Brasil.",
+     "onde_circula": "CNN Brasil",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A Binance Brasil havia suspendido saques na sexta e disse que clientes brasileiros estão seguros; a cobertura brasileira (Valor, g1, Folha, Exame, SBT, Jovem Pan, Oeste) acompanhou a atribuição do FBI.",
+   "ponto_cego": "Veículos de esquerda brasileiros não cobriram a atribuição do FBI; a direita (Oeste, Jovem Pan) cobriu sem registrar que a 'recuperação' é reposição com recursos próprios da empresa.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "binance-trump-investiga-coreia-do-norte-fbi-secret-service-ataque-20-minutos-binance-brasil-suspende-saques-63-empresas-pedem-licenca-bc",
+    "titulo": "Trump diz que os EUA investigam se a Coreia do Norte está por trás do roubo de US$ 6,3 bilhões da Binance; FBI e Serviço Secreto apuram, ataque teria durado 20 minutos, Binance Brasil suspende saques e diz que clientes estão seguros, e 63 empresas pedem licença cripto ao Banco Central no prazo final"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "FBI afirma que hackers norte-coreanos são responsáveis pelo ciberataque à Binance",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/31/fbi-afirma-que-hackers-norte-coreanos-sao-responsaveis-pelo-ataque-hacker-a-binance.ghtml",
+     "angulo": "FBI: TraderTraitor convertia ativos em bitcoin; Serviço Secreto e IRS acompanharam.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história",
+     "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/31/fbi-acusa-coreia-do-norte-por-ataque-a-binance-considerado-maior-roubo-de-criptomoedas-da-historia.ghtml",
+     "angulo": "FBI acusa Coreia do Norte pelo maior roubo de cripto da história.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Binance cobre 90% das perdas; FBI aponta Coreia do Norte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "angulo": "90% repostos; saques voltam no domingo; FBI culpa TraderTraitor.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "dw",
+     "titulo": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-xml-mrss",
+     "angulo": "Mesmo grupo do ataque de US$ 1,5 bi à Bybit.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Piratage de la plateforme de cryptomonnaies Binance : le FBI accuse la Corée du Nord du « casse du siècle »",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408996.html",
+     "angulo": "FBI acusa a Coreia do Norte do 'roubo do século'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Binance recupera 90% das criptomoedas roubadas e promete saques em breve",
+     "url": "https://valor.globo.com/financas/noticia/2026/10/31/binance-recupera-90percent-das-criptomoedas-roubadas-e-promete-saques-em-breve.ghtml",
+     "angulo": "Binance repõe 90% e promete saques em breve.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Binance diz ter coberto 90% das perdas após ataque hacker de US$ 6,3 bilhões",
+     "url": "https://exame.com/future-of-money/binance-diz-ter-coberto-90-das-perdas-apos-ataque-hacker-de-us-63-bilhoes/",
+     "angulo": "Recursos próprios; 10% restantes em tokens de menor liquidez.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Binance retoma saques após recuperar 95% de US$ 6,3 bi roubados em ataque",
+     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/binance-retoma-saques-apos-recuperar-95-de-us-63-bi-roubados-em-ataque/",
+     "angulo": "Saques retomados após 'recuperar 95%' (número divergente).",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Binance recupera 90% dos US$ 6,3 bilhões roubados em ataque hacker",
+     "url": "https://revistaoeste.com/mundo/binance-recupera-90-dos-us-63-bilhoes-roubados-em-ataque-ihacker-i/",
+     "angulo": "Registro pela direita da reposição de 90%.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "angulo": "Não é o primeiro roubo norte-coreano, mas seria o maior.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Corretoras de criptomoedas reforçam segurança após roubo de US$ 6,3 bilhões na Binance",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/corretoras-de-criptomoedas-reforcam-seguranca-apos-roubo-de-us-63-bilhoes-na-binance.shtml",
+     "angulo": "Corretoras reforçam segurança após o roubo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "How North Korea perfected the crypto heist",
+     "url": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
+     "angulo": "Como a Coreia do Norte aperfeiçoou o roubo de cripto.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "midterms-2-dias-52-mi-votaram-fbi-doadores-decoy-dan-california-pede-barrar-confisco-juiz-rejeita-acao-10-bi-trump-wsj-epstein-polymarket-71",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "A dois dias das midterms, mais de 52 milhões já votaram antecipadamente; FBI visita doadores do 'Decoy Dan' no Alasca, Califórnia pede à Justiça barrar o 'confisco' de votos, juiz rejeita em definitivo a ação de US$ 10 bilhões de Trump contra o Wall Street Journal pela carta a Epstein, e Polymarket dá 71% para derrota republicana nas duas Casas",
+   "lide": "Com recorde de votação antecipada, 52 milhões de americanos já votaram, e os democratas superam os republicanos nos estados que divulgam a filiação; no Alasca, agentes do FBI procuraram doadores do candidato homônimo Dan J. Sullivan, que deixou sua cidade dias antes da eleição, e a Califórnia pediu à Justiça que barre as tentativas do governo de separar votos de 20 mil supostos não cidadãos, depois que cientistas de dados mostraram que muitos foram sinalizados por erro. Um juiz federal da Flórida rejeitou pela segunda vez, agora em definitivo, a ação de US$ 10 bilhões de Trump contra o WSJ e Rupert Murdoch pela reportagem sobre a carta a Jeffrey Epstein, por falta de 'dolo real'; mercados de previsão dão 70% a 71% de chance de os democratas tomarem Câmara e Senado, e Trump remarcou para domingo os comícios em Iowa e Kansas.",
+   "contexto": "A votação de 3/11 renova a Câmara, um terço do Senado e 26 governos. Na sexta, o promotor federal do Alasca confirmou investigações criminal e civil sobre a campanha de Mary Peltola, e um tribunal de apelações já havia negado o pedido do DOJ na Califórnia.",
+   "fatos": [
+    {
+     "texto": "Mais de 52 milhões de americanos votaram antecipadamente até 1º/11, recorde para uma eleição de meio de mandato; nos estados que divulgam a filiação, democratas superam republicanos.",
+     "base": "3 fontes independentes (Le Monde, The Guardian, SBT News)"
+    },
+    {
+     "texto": "Agentes do FBI contataram doadores do candidato independente Dan J. Sullivan em ao menos duas comunidades remotas do Alasca e em Massachusetts; o candidato deixou sua cidade natal dias antes da eleição, segundo a CBS.",
+     "base": "New York Post (doadores) e Breitbart citando CBS (saída da cidade), fonte única cada"
+    },
+    {
+     "texto": "A Califórnia pediu à Justiça que barre as tentativas do governo Trump de confiscar votos de mais de 20 mil pessoas apontadas como não cidadãs; um documento judicial com análise de cientistas de dados mostra que muitos 'prováveis não cidadãos' foram sinalizados por erro.",
+     "base": "2 fontes independentes (CNN Brasil, Al Jazeera)"
+    },
+    {
+     "texto": "O juiz federal Darrin Gayles rejeitou em 31/10, pela segunda vez e em definitivo, a ação de US$ 10 bilhões de Trump contra o Wall Street Journal e Rupert Murdoch pela reportagem sobre a carta a Epstein, por não ter provado 'dolo real'; o juiz não decidiu sobre a autenticidade da carta.",
+     "base": "6 fontes independentes (Estadão, Folha, g1, Le Monde, Al Jazeera, Axios)"
+    },
+    {
+     "texto": "A Polymarket dá 70% a 71% de probabilidade de os democratas conquistarem Câmara e Senado e 5% de os republicanos manterem as duas Casas.",
+     "base": "2 fontes independentes (Valor, DCM)"
+    },
+    {
+     "texto": "Pesquisa Economist/YouGov mostra desaprovação de 58% de Trump e vantagem de 11 pontos dos democratas para a Câmara.",
+     "base": "Revista Fórum (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Em caso de derrota, Trump enfrentará bloqueio legislativo, investigações e até tentativas de impeachment; republicanos entrarão em 'guerra civil'.",
+     "quem": "Le Figaro (cenários) e Steve Bannon (Financial Times)"
+    },
+    {
+     "texto": "A contagem no Alasca pode levar semanas e decidir o controle do Senado.",
+     "quem": "New York Post"
+    },
+    {
+     "texto": "As pesquisas privadas de Talarico mostram a disputa no Texas mais apertada do que os democratas admitem.",
+     "quem": "Breitbart, citando relatório"
+    },
+    {
+     "texto": "Grandes gestores de fundos estão em 'pausa' diante da eleição 'mais consequente' em anos; anúncios acusando republicanos de proteger Epstein dominam a reta final.",
+     "quem": "Financial Times e The Guardian"
+    },
+    {
+     "texto": "A inflação alta assombra Trump e os republicanos na véspera; 'fui eleito por causa dos preços altos', disse o presidente.",
+     "quem": "Estadão (reportagem)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Mais de 20 mil não cidadãos estão registrados para votar na Califórnia (Trump e DOJ).",
+     "rotulo": "Sem evidência",
+     "explicacao": "O estado e especialistas contestam a lista; análise de cientistas de dados em documento judicial mostra que muitos foram sinalizados por erro, e dois tribunais já negaram o pedido de separar esses votos.",
+     "onde_circula": "DOJ, declarações de Trump",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Deputada Pramila Jayapal disse à Folha que uma maioria democrata investigaria a ajuda de Trump a Flávio Bolsonaro; o DCM destaca a Polymarket e a Fórum a rejeição de 58%.",
+   "ponto_cego": "Breitbart e New York Post seguem focados no 'Decoy Dan' e omitem a derrota de Trump no caso Epstein e o pedido da Califórnia; veículos de esquerda brasileiros destacam só as pesquisas desfavoráveis a Trump.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "midterms-3-dias-trump-remarca-comicios-promete-5-mil-dolares-alasca-promotor-federal-investiga-peltola-corte-rejeita-doj-california-papa-leao-vota",
+    "titulo": "A três dias das midterms, Trump remarca os comícios que havia cancelado e promete US$ 5 mil a cada americano se os republicanos vencerem; promotor federal confirma investigação criminal sobre a campanha de Peltola no Alasca, tribunal de apelações rejeita de novo o bloqueio de 20 mil votos na Califórnia e o papa Leão XIV vota pelo correio"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+     "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+     "angulo": "Mais de 50 milhões votaram; democratas à frente onde há dados de filiação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "EN DIRECT, midterms 2026 : plus de 52 millions d’Américains ont déjà voté par anticipation",
+     "url": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-midterms-2026-plus-de-52-millions-d-americains-ont-deja-vote-par-anticipation_6801590_3210.html",
+     "angulo": "Ao vivo: 52 milhões já votaram; Trump em 'tele-rallies' no sábado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate",
+     "url": "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
+     "angulo": "FBI visita doadores do 'Decoy Dan'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Report: Alaska’s Second Dan Sullivan Leaves Hometown Days Before Election",
+     "url": "https://www.breitbart.com/midterm-election/2026/10/30/report-alaska-second-dan-sullivan-leaves-hometown-days-before-election/",
+     "angulo": "Segundo Dan Sullivan deixa a cidade natal dias antes da eleição (CBS).",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-30"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Califórnia pede que Justiça barre tentativas de Trump de confiscar votos",
+     "url": "https://www.cnnbrasil.com.br/internacional/california-pede-que-justica-barre-tentativas-de-trump-de-confiscar-votos/",
+     "angulo": "Califórnia pede à Justiça barrar o 'confisco' de votos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Legal filing questions Trump’s claims of non-citizen voting in California",
+     "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+     "angulo": "Documento judicial: muitos 'não cidadãos' foram sinalizados por erro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Justiça dos EUA rejeita ação de US$ 10 bi de Trump contra jornal americano por carta a Epstein",
+     "url": "https://www.estadao.com.br/internacional/justica-dos-eua-rejeita-acao-de-us-10-bi-de-trump-contra-jornal-americano-por-carta-a-epstein/",
+     "angulo": "Juiz rejeita ação de US$ 10 bi de Trump contra WSJ e Murdoch.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+     "angulo": "Juiz não decide sobre autenticidade da carta, mas vê boa-fé dos jornalistas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "url": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+     "angulo": "Segunda derrota judicial de Trump contra o WSJ no caso Epstein.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Polymarket aponta que partido de Trump deve perder midterms",
+     "url": "https://valor.globo.com/mundo/noticia/2026/10/31/polymarket-aponta-que-partido-de-trump-deve-perder-midterms.ghtml",
+     "angulo": "Polymarket: 70% para democratas tomarem as duas Casas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Trump enfrenta 58% de rejeição e democratas lideram pesquisa para Câmara",
+     "url": "https://revistaforum.com.br/global/trump-rejeicao-democratas-lideram/",
+     "angulo": "Economist/YouGov: 58% de desaprovação; democratas +11 para a Câmara.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Blocage, enquêtes, impeachment… Les scénarios de l’après midterms pour Donald Trump en cas de défaite",
+     "url": "https://www.lefigaro.fr/international/blocage-enquetes-impeachment-les-scenarios-de-l-apres-midterms-pour-donald-trump-en-cas-de-defaite-20261031",
+     "angulo": "Cenários pós-midterms para Trump em caso de derrota.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+     "url": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
+     "angulo": "Bannon prevê 'guerra civil' republicana após as midterms.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "trump-ameaca-ira-um-ou-dois-sites-kolang-natanz-khamenei-resposta-sem-limites-geograficos-catar-doha-plano-hormuz-2-dias",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump ameaça atacar 'um ou dois sites' no Irã, incluindo o monte Kolang, perto de Natanz, 'em dez minutos'; Khamenei ordena resposta 'imediata e sem limites geográficos', negociadores iranianos se reúnem com mediadores do Catar em Doha, e Teerã fala em plano de dois dias para reabrir Hormuz",
+   "lide": "Enquanto a imprensa americana relata a possibilidade de uma campanha militar curta e intensa após as midterms, Trump disse no sábado que os EUA podem atingir 'um ou dois sites' iranianos, entre eles o monte Kolang, junto ao complexo nuclear de Natanz, 'em dez minutos', embora Rubio afirme que a decisão não foi tomada e que as conversas 'vão bem'. O líder supremo Mojtaba Khamenei ordenou aos comandantes militares uma resposta 'imediata e efetiva, sem limitações geográficas' a qualquer novo ataque, para 'dissuasão máxima'; negociadores iranianos se reuniram em Doha com mediadores do Catar, o chanceler Araghchi fala em um plano de dois dias para reabrir o Estreito de Hormuz se os EUA cumprirem condições, e uma autoridade iraniana disse que o país discute rever a doutrina nuclear se a guerra for retomada.",
+   "contexto": "Em 29/10, Vance enviou carta ao Irã propondo retomar negociações 'incluindo o nuclear'; mediadores do Catar discutiram em Teerã um plano de sete dias para Hormuz. Em Israel, o resultado eleitoral deixa Netanyahu sem maioria e em negociações de coalizão.",
+   "fatos": [
+    {
+     "texto": "Trump afirmou em 31/10 que os EUA podem atacar 'um ou dois sites' no Irã, incluindo o monte Kolang, perto do complexo nuclear de Natanz, e que 'podemos fazer isso em dez minutos'; Rubio disse que Trump ainda não decidiu se retoma os ataques.",
+     "base": "Le Monde (declaração) e InfoMoney (Rubio); Estadão e France 24 registram as ameaças de Trump e Netanyahu"
+    },
+    {
+     "texto": "O líder supremo Mojtaba Khamenei ordenou em 31/10, em reunião com os três principais comandantes militares, resposta 'imediata e efetiva, sem limitações geográficas' a qualquer novo ataque dos EUA ou de Israel, para alcançar 'dissuasão máxima'.",
+     "base": "7 fontes independentes (Estadão, g1, Axios, Financial Times, AFP/France 24, Clarín, Opera Mundi)"
+    },
+    {
+     "texto": "Negociadores iranianos se reuniram em Doha em 31/10 com mediadores do Catar para discutir saídas para a guerra no Golfo e evitar novos confrontos após as midterms; o chanceler Abbas Araghchi disse que Irã e Catar chegaram a um plano para reabrir Hormuz em dois dias se os EUA atenderem às condições de Teerã.",
+     "base": "Valor (Reuters) e Al Jazeera (Araghchi)"
+    },
+    {
+     "texto": "Uma autoridade iraniana disse que o país discute rever sua doutrina nuclear caso a guerra seja retomada, sem decisão tomada.",
+     "base": "InfoMoney (fonte única, via Reuters)"
+    },
+    {
+     "texto": "A televisão estatal iraniana acusou forças dos EUA de atacar barcos de pesca perto de Hormuz, com um pescador ferido; Washington não confirmou.",
+     "base": "Terra Brasil Notícias (fonte única)"
+    },
+    {
+     "texto": "Em fórum de segurança no Bahrein, representantes da Arábia Saudita e do Egito pediram contenção para evitar uma guerra de grandes proporções.",
+     "base": "Terra Brasil Notícias (fonte única)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os líderes iranianos esperam mais guerra, qualquer que seja o resultado das eleições nos EUA e em Israel.",
+     "quem": "The New York Times (análise)"
+    },
+    {
+     "texto": "As opções americanas e israelenses vão de campanhas marítimas a tentativa de mudança de regime, com risco de retaliação.",
+     "quem": "Financial Times (military briefing)"
+    },
+    {
+     "texto": "Um fim diplomático da guerra 'ainda é possível', dizem os chanceleres dos EUA e do Irã.",
+     "quem": "Al Jazeera (resumo)"
+    },
+    {
+     "texto": "As negociações para formar governo em Israel correm em paralelo aos preparativos de Netanyahu e Trump para um novo ataque ao Irã; a oposição 'se atola' após a vitória.",
+     "quem": "El País"
+    },
+    {
+     "texto": "Milhares protestaram em Israel por uma coalizão 'judaico-árabe' para derrubar Netanyahu; apoiadores do premiê fizeram contraprotesto contra um governo 'com terroristas'.",
+     "quem": "Al Jazeera e Brasil 247"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Forças dos EUA atacaram barcos de pesca iranianos perto de Hormuz.",
+     "rotulo": "Em apuração",
+     "explicacao": "A acusação vem da TV estatal iraniana, citando uma autoridade provincial; Washington não confirmou.",
+     "onde_circula": "IRIB; Terra Brasil Notícias",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Veículos brasileiros de esquerda (Opera Mundi, Brasil de Fato) destacam a ordem de Khamenei; Terra Brasil destaca a acusação iraniana contra os EUA e os apelos de contenção; a cobertura brasileira não registrou a ameaça específica de Trump a Kolang, noticiada pelo Le Monde.",
+   "ponto_cego": "Nenhum veículo brasileiro publicou a ameaça de Trump a 'um ou dois sites' e a Natanz, só o Le Monde; veículos de esquerda não registram que Rubio diz que a decisão não foi tomada e que as conversas avançam em Doha.",
+   "continua": {
+    "data": "2026-10-29",
+    "id": "vance-carta-ira-retomar-negociacoes-nuclear-plano-7-dias-hormuz-ataques-pos-midterms-houthis",
+    "titulo": "Vance envia carta ao Irã propondo retomar negociações 'incluindo o nuclear'; Teerã discute com mediadores plano de sete dias para reabrir Hormuz, enquanto fontes falam em grandes ataques após as midterms"
+   },
+   "materias": [
+    {
+     "fonte": "lemonde",
+     "titulo": "Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le mont Kolang, près du complexe nucléaire de Natanz",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/donald-trump-menace-l-iran-de-nouvelles-frappes-sur-un-ou-deux-sites-dont-le-mont-kolang-pres-du-complexe-nucleaire-de-natanz_6804009_3210.html",
+     "angulo": "Trump ameaça 'um ou dois sites', incluindo o monte Kolang, perto de Natanz.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Irã adverte EUA e Israel contra novos ataques após ameaças de Trump e Netanyahu",
+     "url": "https://www.estadao.com.br/internacional/ira-adverte-eua-e-israel-contra-novos-ataques-apos-ameacas-de-trump-e-netanyahu/",
+     "angulo": "Khamenei adverte EUA e Israel após ameaças de Trump e Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Irã promete resposta 'imediata e contundente' a novos ataques dos EUA",
+     "url": "https://g1.globo.com/mundo/noticia/2026/10/31/lider-supremo-iraniano-adverte-estados-unidos-contra-novos-ataques.ghtml",
+     "angulo": "Irã promete resposta 'imediata e contundente'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+     "url": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+     "angulo": "'Dissuasão máxima': ordem a três comandantes militares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
+     "url": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1",
+     "angulo": "Retaliação 'sem limites geográficos'; Catar tenta evitar campanha de bombardeios.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Iran's Khamenei warns US and Israel against new attacks",
+     "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+     "angulo": "Khamenei alerta contra novos ataques; Rubio diz que decisão não foi tomada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Irã ameaça responder ‘sem limites geográficos’ a eventual ataque durante negociações por acordo",
+     "url": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-ameaca-responder-sem-limites-geograficos-a-eventual-ataque-durante-negociacoes-por-acordo/",
+     "angulo": "Irã ameaça responder 'sem limites geográficos' durante negociações.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Negociadores iranianos se reúnem com mediadores do Catar em meio à ameaça de ataques dos EUA",
+     "url": "https://valor.globo.com/mundo/noticia/2026/10/31/negociadores-iranianos-se-reunem-com-mediadores-do-catar-em-meio-a-ameaca-de-ataques-dos-eua.ghtml",
+     "angulo": "Negociadores iranianos se reúnem em Doha com mediadores do Catar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+     "angulo": "Araghchi: plano de dois dias para reabrir Hormuz se EUA cumprirem condições.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade",
+     "url": "https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/",
+     "angulo": "Irã discute rever doutrina nuclear se a guerra for retomada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Irã acusa forças dos EUA de atacar barcos de pesca perto do Estreito de Ormuz",
+     "url": "https://terrabrasilnoticias.com/2026/10/ira-acusa-forcas-dos-eua-de-atacar-barcos-de-pesca-perto-do-estreito-de-ormuz/",
+     "angulo": "Irã acusa EUA de atacar barcos de pesca perto de Hormuz; Washington não confirma.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+     "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+     "angulo": "Irã se prepara para mais guerra, qualquer que seja o resultado eleitoral.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-10-31"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "La oposición israelí se atasca tras su victoria electoral",
+     "url": "https://elpais.com/internacional/2026-11-01/la-oposicion-israeli-transforma-en-embrollo-su-victoria-sobre-netanyahu.html",
+     "angulo": "Oposição israelense 'se atola' enquanto Netanyahu e Trump preparam ataque.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    }
+   ]
+  }
+ ]
+}
