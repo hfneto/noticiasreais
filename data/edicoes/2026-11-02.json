@@ -1,0 +1,2214 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-02",
+ "gerado_em": "2026-11-02T06:08:22-03:00",
+ "historias": [
+  {
+   "id": "fantastico-tres-entradas-na-argentina-em-40-minutos-ex-agente-de-israel-van-para-familia-pf-apura-aviao-de-willer-tomaz-flavio-saiu-em-panico-diz-clarin",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Fantástico mostra três registros de Flávio no controle migratório argentino em 40 minutos, um ex-agente de inteligência de Israel na operação e uma van para a família; PF apura se o senador saiu de Brasília no avião do advogado Willer Tomaz",
+   "lide": "A reportagem exibida pela TV Globo no domingo (1º) detalhou, com documentos do sistema de imigração da Argentina, a logística da saída de Flávio Bolsonaro do Brasil em 27 de outubro, enquanto ele estava intimado a entregar o passaporte. A Polícia Federal investiga a rota e o avião usados, e os veículos de esquerda e de direita destacam partes distintas da história.",
+   "contexto": "Flávio deixou o país na noite de 27 de outubro pela Ponte da Amizade, embarcou em jato privado em Puerto Iguazú e chegou a Miami. No sábado, o secretário de Estado Marco Rubio negou que os EUA tenham facilitado a saída; o Clarín e o Página/12 relataram presença de agentes americanos e argentinos na operação.",
+   "fatos": [
+    {
+     "texto": "O Fantástico (TV Globo) exibiu em 1º de novembro reportagem baseada em registros do sistema de imigração argentino segundo a qual Flávio Bolsonaro aparece três vezes no controle migratório da Argentina em um intervalo de 40 minutos antes de embarcar para os EUA.",
+     "base": "3 fontes independentes (g1, Terra, DCM)"
+    },
+    {
+     "texto": "Segundo a mesma reportagem, um ex-integrante do serviço de inteligência de Israel está entre os envolvidos na operação que levou o senador da fronteira até os Estados Unidos, e uma van foi usada para transportar a família.",
+     "base": "3 fontes independentes (Valor, Terra, Brasil 247)"
+    },
+    {
+     "texto": "O jornal israelense The Jerusalem Post publicou em 1º de novembro que um ex-agente do Mossad teria acompanhado Flávio na saída do Brasil rumo à Argentina.",
+     "base": "2 fontes independentes (Brasil de Fato, ICL)"
+    },
+    {
+     "texto": "Flávio Bolsonaro saiu do Brasil sem entregar os passaportes exigidos pela Justiça, após intimação feita depois de visita ao pai, Jair Bolsonaro.",
+     "base": "3 fontes independentes (Estadão, A Tarde, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Uma das linhas de investigação da PF é que Flávio voou de Brasília a San Fernando, na Argentina, na manhã de 27 de outubro em aeronave de Willer Tomaz, advogado investigado junto com ele.",
+     "quem": "TV Globo, segundo o Poder360"
+    },
+    {
+     "texto": "Flávio estava 'em pânico' e 'muito nervoso' durante a operação, segundo autoridades argentinas que a acompanharam.",
+     "quem": "Clarín, segundo A Tarde"
+    },
+    {
+     "texto": "Um alerta enviado da Argentina a um aliado de Lula às 23h50 de 26 de outubro teria contribuído para adiar a saída do senador.",
+     "quem": "IstoÉ"
+    },
+    {
+     "texto": "Advogados e aliados aconselharam Flávio a abandonar os ataques às urnas e avisaram do risco de prisão e de ele 'virar um novo Jair'.",
+     "quem": "Folha e DCM, com base em relatos de aliados"
+    },
+    {
+     "texto": "A operação mostra que Flávio era 'fantoche de interesses estrangeiros'.",
+     "quem": "ICL Notícias (análise)"
+    },
+    {
+     "texto": "Ao ignorar ordem do STF e fugir 'sob o manto de uma suposta perseguição', Flávio repete o roteiro do pai.",
+     "quem": "Ricardo Noblat (Metrópoles, opinião)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Agentes dos EUA tomaram o controle de área do aeroporto de Puerto Iguazú para a saída de Flávio.",
+     "rotulo": "Em apuração",
+     "explicacao": "A informação é do Clarín, que cita apoio de integrantes do governo Milei; Rubio negou que os EUA tenham facilitado a saída e nenhuma autoridade argentina confirmou. Não há documento público sobre a presença de agentes americanos.",
+     "onde_circula": "Clarín, Brasil 247, DCM, InfoMoney",
+     "checagem": []
+    },
+    {
+     "alegacao": "Flávio Bolsonaro 'fraudou registros migratórios' na saída do país.",
+     "rotulo": "Em apuração",
+     "explicacao": "Os registros mostrados pelo Fantástico indicam três passagens pelo controle argentino em 40 minutos, o que a reportagem trata como indício de irregularidade; a PF ainda apura e não há conclusão oficial sobre fraude.",
+     "onde_circula": "Revista Fórum",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados do governo e veículos de esquerda tratam a operação como fuga com ajuda estrangeira e cobram investigação da PF sobre o avião e os registros migratórios.",
+    "oposicao": "Veículos de direita destacam a negativa de Rubio e as declarações de Trump, e não repercutiram a reportagem do Fantástico."
+   },
+   "visao_de_fora": "O Clarín (Argentina) e o The Jerusalem Post (Israel) publicaram as peças que alimentaram a cobertura brasileira: o primeiro sobre agentes americanos e o 'pânico' do senador, o segundo sobre o ex-agente do Mossad.",
+   "ponto_cego": "Gazeta do Povo, Oeste, Terra Brasil e Diário do Poder não noticiaram a reportagem do Fantástico nem a apuração da PF sobre o avião de Willer Tomaz; veículos de esquerda (247, Fórum, ICL) tratam as hipóteses da reportagem como fatos consumados.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "rubio-nega-ajuda-direta-fuga-flavio-trump-pode-ficar-quanto-quiser-sem-encontro-pagina12-agente-side-clarin-agentes-eua-aeroporto",
+    "titulo": "Rubio diz que os EUA 'não facilitaram nada' na fuga de Flávio, mas confirma que Trump autorizou a entrada; Trump diz que o senador 'pode ficar quanto tempo quiser' e que não planeja encontrá-lo, enquanto Clarín fala em agentes americanos no aeroporto de Puerto Iguazú e Página/12 em agente da SIDE"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Três entradas na Argentina em 40 minutos: os bastidores da fuga de Flávio Bolsonaro do Brasil",
+     "url": "https://g1.globo.com/fantastico/noticia/2026/11/01/bastidores-da-saida-de-flavio-bolsonaro-do-brasil.ghtml",
+     "angulo": "Reportagem original: três entradas em 40 minutos e a logística da operação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Eduardo Bolsonaro elogia declaração de Trump sobre Flávio: “Posicionamento de líder nato”; Veja vídeo",
+     "url": "https://terrabrasilnoticias.com/2026/11/eduardo-bolsonaro-elogia-declaracao-de-trump-sobre-flavio-posicionamento-de-lider-nato/",
+     "angulo": "Eduardo celebra Trump e volta a questionar o resultado; ignora o Fantástico.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ex-agente de Israel estaria envolvido na fuga de Flávio Bolsonaro aos EUA, mostra Fantástico",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/01/ex-agente-de-israel-estaria-envolvido-na-fuga-de-flvio-bolsonaro-aos-eua-mostra-fantstico.ghtml",
+     "angulo": "Ex-integrante da inteligência de Israel entre os envolvidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro usou carro diplomático argentino, escolta e fraudou registros migratórios na fuga",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-carro-diplomatico-argentino-escolta-fraudou/",
+     "angulo": "Fórum fala em carro diplomático, escolta e fraude migratória.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "PF apura se Flávio saiu do Brasil em avião de amigo advogado",
+     "url": "https://www.poder360.com.br/poder-justica/pf-apura-se-flavio-saiu-do-brasil-em-aviao-de-amigo-advogado/",
+     "angulo": "PF apura voo Brasília–San Fernando em avião de Willer Tomaz.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Rubio nega participação dos EUA na saída de Flávio e evita atrito com o Brasil",
+     "url": "https://www.gazetadopovo.com.br/vozes/governo-americano-evita-atritos-diplomaticos-com-brasil-flavio/",
+     "angulo": "Gazeta destaca que Rubio nega participação e evita atrito.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Ajuda de ex-agente secreto e van para família: confira bastidores da fuga de Flávio Bolsonaro do Brasil",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/ajuda-de-ex-agente-secreto-e-van-para-familia-confira-bastidores-da-fuga-de-flavio-bolsonaro-do-brasil,975b25116b901353ccfbbb46ee5fe15estmaabfg.html",
+     "angulo": "Resumo dos bastidores: ex-agente, van e três passagens.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Ex-agente do Mossad é investigado por suposta ajuda a Flávio Bolsonaro em fuga para os EUA",
+     "url": "https://www.brasil247.com/brasil/ex-agente-do-mossad-e-investigado-por-suposta-ajuda-a-flavio-bolsonaro-em-fuga-para-os-eua/",
+     "angulo": "247 nomeia o ex-agente e diz que ele cruzou a fronteira sete minutos antes da van.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Alerta vindo da Argentina teria adiado saída de Flávio Bolsonaro para os EUA",
+     "url": "https://istoe.com.br/alerta-argentina-adiado-saida-flavio-bolsonaro-eua",
+     "angulo": "Alerta vindo da Argentina teria adiado a saída.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Flávio Bolsonaro saiu do Brasil em pânico, diz jornal argentino",
+     "url": "https://atarde.com.br/politica/flavio-bolsonaro-saiu-do-brasil-em-panico-diz-jornal-argentino-1407933",
+     "angulo": "Clarín: senador saiu 'em pânico'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Aliados avisaram Flávio Bolsonaro sobre risco de prisão e de ele virar novo Jair",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/aliados-avisaram-flavio-bolsonaro-sobre-risco-de-prisao-e-de-ele-virar-novo-jair.shtml",
+     "angulo": "Aliados avisaram do risco de prisão e de virar 'novo Jair'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Ex-agente do Mossad teria ajudado Flávio Bolsonaro a fugir do Brasil, afirma jornal",
+     "url": "https://www.brasildefato.com.br/2026/11/01/ex-agente-do-mossad-teria-ajudado-flavio-bolsonaro-a-fugir-do-brasil-afirma-jornal/",
+     "angulo": "Brasil de Fato repercute o Jerusalem Post.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Brasil acima de tudo, a Flórida só para eles, golpistas",
+     "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/brasil-acima-de-tudo-a-florida-so-para-eles-golpistas",
+     "angulo": "Noblat: Flávio repete o roteiro paterno.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Veja todos os detalhes dos bastidores da fuga de Flávio Bolsonaro",
+     "url": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-tres-registros-argentina-40-minutos/",
+     "angulo": "DCM detalha os três registros migratórios.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "flavio-nota-nao-me-arrependo-de-nada-ataca-globo-e-moraes-defesa-pede-impedimento-e-troca-por-mendonca-acao-popular-pede-suspensao-do-salario-pl-quer-tirar-moraes",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Flávio publica nota dos EUA dizendo que 'não se arrepende de absolutamente nada', ataca Moraes e a Globo; defesa pede a Fachin o impedimento de Moraes e a troca por Mendonça, e ação popular pede a suspensão do salário de R$ 46 mil do senador",
+   "lide": "Em sua primeira manifestação longa desde que chegou a Miami, o senador alegou perseguição política, disse que o processo contra ele não é 'justo e imparcial' e anunciou uma série de entrevistas 'sem cortes'. No mesmo dia, a defesa formalizou o pedido para tirar o inquérito das mãos de Alexandre de Moraes, enquanto cresce a pressão para cortar sua remuneração.",
+   "contexto": "Flávio é investigado no STF pela relação com o advogado Willer Tomaz, em inquérito relatado por Moraes, e saiu do país sem entregar o passaporte. A partir de fevereiro, o PL terá 29 senadores, a maior bancada de um partido no início de uma legislatura desde 1988, e defendeu na campanha o impeachment de ministros do Supremo.",
+   "fatos": [
+    {
+     "texto": "Flávio Bolsonaro publicou em 1º de novembro, nas redes sociais, nota em que afirma não se arrepender 'de absolutamente nada', alega perseguição política, critica decisões de Alexandre de Moraes e diz que a Globo desistiu de entrevista após ele exigir exibição sem cortes.",
+     "base": "4 fontes independentes (Estadão, Jovem Pan, A Tarde, DCM)"
+    },
+    {
+     "texto": "A defesa de Flávio pediu ao presidente do STF, Edson Fachin, que Moraes seja declarado impedido de relatar o inquérito sobre sua relação com Willer Tomaz, com redistribuição a André Mendonça e revogação das medidas cautelares.",
+     "base": "3 fontes independentes (Folha, Gazeta do Povo, DCM)"
+    },
+    {
+     "texto": "Uma ação popular na 6ª Vara Federal do Rio pede a suspensão do salário de R$ 46 mil e das verbas de gabinete do senador; deputados do PSOL cobraram providências de Davi Alcolumbre.",
+     "base": "2 fontes independentes (Valor, Terra Brasil)"
+    },
+    {
+     "texto": "Eduardo Bolsonaro publicou vídeo em 1º de novembro agradecendo a Trump pelo apoio ao irmão e voltou a questionar o resultado da eleição.",
+     "base": "3 fontes independentes (Oeste, Terra Brasil, Diário do Poder)"
+    },
+    {
+     "texto": "Paulo Marinho, primeiro suplente de Flávio, afirmou que não fará articulações para assumir a cadeira no Senado.",
+     "base": "DCM, com declaração pública do suplente"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Globo recusou a entrevista sem cortes 'porque tem medo'.",
+     "quem": "Flávio Bolsonaro"
+    },
+    {
+     "texto": "Flávio será a 'voz da oposição no exterior'.",
+     "quem": "Carlos Jordy (PL-RJ), senador eleito"
+    },
+    {
+     "texto": "O autoexílio do senador abre espaço para que setores moderados da oposição deixem a órbita de Bolsonaro, a 'direita limpinha'.",
+     "quem": "Veja (análise)"
+    },
+    {
+     "texto": "O PL quer tirar Moraes do STF, mas não quer que Lula escolha o substituto, o que muda o cálculo do impeachment.",
+     "quem": "Lara Mesquita (Folha, coluna)"
+    },
+    {
+     "texto": "As articulações pelo impeachment de ministros do STF perdem força com o fortalecimento de Alcolumbre após a vitória de Lula.",
+     "quem": "Terra (análise)"
+    },
+    {
+     "texto": "Flávio Dino, relator de ações contra Flávio, se firma como 'herdeiro' do estilo de Gilmar Mendes e Moraes, com decisões monocráticas.",
+     "quem": "Gazeta do Povo (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo tratam a nota como tentativa de manter engajamento digital e desviar o foco do isolamento político, e cobram a suspensão do salário.",
+    "oposicao": "A oposição bolsonarista sustenta que Flávio é perseguido por um juiz parcial e que a saída do país foi forçada por 'falta de democracia'."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, Fórum, DCM) não repercutiram a declaração de Marinho de que não tentará a vaga nem a análise de que o impeachment perde força; veículos de direita (Gazeta, Oeste, Terra Brasil) não noticiaram a ação popular contra o salário nem a crítica da Folha ao cálculo do PL.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "flavio-pede-moraes-fora-investigacao-revisao-stf-aposta-bolsonaro-tarcisio-2030-governadores-viram-pagina-carlos-marinho-estudantes-atos-9-estados",
+    "titulo": "Flávio pede ao STF que Moraes saia da investigação e devolva o passaporte; revisão da condenação vira a principal aposta de Bolsonaro, Tarcísio admite 2030 'em grupo', governadores da direita 'viram a página', Carlos reforça Marinho e estudantes marcam atos em nove estados"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Flávio Bolsonaro após fugir do Brasil: ‘Não me arrependo de absolutamente nada do que fiz’",
+     "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-apos-fugir-do-brasil-nao-me-arrependo-de-absolutamente-nada-do-que-fiz/",
+     "angulo": "Íntegra da nota: 'Não saí do Brasil, saí pelo Brasil'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro divulga nota em que ataca a Globo, o “sistema” e elogia os EUA",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-nota-ataca-globo-sistema-eua/",
+     "angulo": "Fórum: nota tenta manter engajamento e desviar do isolamento.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Nota de Flávio aponta perseguição e fala sobre condição para dar entrevista a emissora",
+     "url": "https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/",
+     "angulo": "Gazeta destaca a condição imposta à Globo e a série de entrevistas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Defesa de Flávio Bolsonaro pede afastamento de Moraes e troca por Mendonça em inquérito",
+     "url": "https://www.diariodocentrodomundo.com.br/defesa-flavio-bolsonaro-afastamento-moraes-inquerito-mendonca/",
+     "angulo": "Pedido de impedimento de Moraes e troca por Mendonça.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Flávio diz que não se arrepende de “absolutamente nada” e ataca Alexandre de Moraes",
+     "url": "https://veja.abril.com.br/politica/flavio-diz-que-nao-se-arrepende-de-absolutamente-nada-e-ataca-alexandre-de-moraes/",
+     "angulo": "Veja: entrevistas 'sem filtro' para dizer 'o que ninguém pode dizer no Brasil'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ação popular pede suspensão de salário de R$ 46 mil de Flávio Bolsonaro como senador",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/01/ao-popular-pede-suspenso-de-salrio-de-r-46-mil-de-flvio-bolsonaro-como-senador.ghtml",
+     "angulo": "Ação popular na 6ª Vara Federal do Rio contra o salário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Eduardo Bolsonaro agradece a Trump por apoio a Flávio",
+     "url": "https://revistaoeste.com/politica/eduardo-bolsonaro-agradece-a-trump-por-apoio-a-flavio/",
+     "angulo": "Eduardo agradece a Trump e questiona as instituições.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "A conta mudou para o PL: o partido quer tirar Moraes, mas não quer que Lula escolha o substituto",
+     "url": "https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-conta-mudou-para-o-pl-o-partido-quer-tirar-moraes-mas-nao-quer-que-lula-escolha-o-substituto.shtml",
+     "angulo": "A conta mudou: PL quer tirar Moraes, mas não quer Lula escolhendo o substituto.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "“Globo” recusa entrevista sem cortes porque tem medo, diz Flávio",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/globo-recusa-entrevista-sem-cortes-porque-tem-medo-diz-flavio/",
+     "angulo": "Flávio: Globo recusa 'porque tem medo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Flávio Bolsonaro enfrenta ações na Justiça e pressão no Senado para suspensão de salário e benefícios",
+     "url": "https://terrabrasilnoticias.com/2026/11/flavio-bolsonaro-enfrenta-acoes-na-justica-e-pressao-no-senado-para-suspensao-de-salario-e-beneficios/",
+     "angulo": "Terra Brasil registra ação popular, PSOL e abaixo-assinado de 45 mil.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Flávio Bolsonaro alega perseguição política e diz que não se arrepende de ida aos EUA",
+     "url": "https://atarde.com.br/politica/flavio-bolsonaro-alega-perseguicao-politica-e-diz-que-nao-se-arrepende-ida-aos-eua-1407969",
+     "angulo": "A Tarde: alegação de perseguição e crítica a Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Jordy reafirma que Flávio será ‘voz da oposição no exterior’",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/jordy-reafirma-que-flavio-sera-voz-da-oposicao-no-exterior",
+     "angulo": "Jordy: 'voz da oposição no exterior'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Autoexílio de Flávio Bolsonaro cria oportunidade para a “direita limpinha”",
+     "url": "https://veja.abril.com.br/politica/autoexilio-de-flavio-bolsonaro-cria-oportunidade-para-a-direita-limpinha/",
+     "angulo": "Autoexílio abre espaço para a 'direita limpinha'.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Impeachment de ministros do STF perde força com ressurgimento de Alcolumbre após triunfo de Lula",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/impeachment-de-ministros-do-stf-perde-forca-com-ressurgimento-de-alcolumbre-apos-triunfo-de-lula,05a769c3e5be6e627dc47e859c1ac286di8y985i.html",
+     "angulo": "Impeachment de ministros perde força com Alcolumbre fortalecido.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "lula-diz-que-nenhum-programa-social-sera-extinto-e-que-a-mentira-tomou-conta-kassab-oferece-psd-por-agenda-ao-centro-reforma-ministerial-para-o-centrao-janones-recusa-ministerio",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Lula reaparece em vídeo, diz que 'a mentira tomou conta' na semana em que ficou sem falar e que nenhum programa social será extinto; Kassab condiciona aproximação do PSD a uma agenda econômica 'ao centro', Lula prepara reforma ministerial para o Centrão e Janones recusa ministério",
+   "lide": "Uma semana após a reeleição, o presidente usou as redes para desmentir rumores de cortes em programas sociais e prometer cumprir o que disse na campanha. Ao mesmo tempo, o presidente do PSD, Gilberto Kassab, disse em entrevista que o partido pode aprofundar a relação com o governo se houver compromisso fiscal, e começam a circular os nomes da reforma ministerial de 2027.",
+   "contexto": "Lula venceu o segundo turno em 25 de outubro, mas enfrentará um Congresso com a maior bancada do PL da história. O mercado reagiu com queda da bolsa e alta do dólar na semana passada e cobra um ajuste fiscal.",
+   "fatos": [
+    {
+     "texto": "Lula publicou vídeo em 1º de novembro afirmando que nenhum programa social será extinto no quarto mandato, que pode criar novos ou ampliar os existentes, e que 'a mentira tomou conta' na semana em que ficou sem falar.",
+     "base": "4 fontes independentes (Estadão, Gazeta do Povo, A Tarde, Agência Brasil)"
+    },
+    {
+     "texto": "Gilberto Kassab, presidente do PSD, disse em entrevista ao Canal Livre (Band), exibida em 1º de novembro, que o partido pode aprofundar a relação com o governo se o Planalto sinalizar agenda econômica voltada ao centro e comprometida com o equilíbrio fiscal, e que questionar o resultado das eleições prejudica o campo bolsonarista.",
+     "base": "4 fontes independentes (Valor, Jovem Pan, Terra, Estadão)"
+    },
+    {
+     "texto": "André Janones (Rede-MG) afirmou ao Fantástico, em 1º de novembro, que não aceitará convite para ministério e continuará na Câmara.",
+     "base": "3 fontes independentes (Poder360, Estadão, Terra)"
+    },
+    {
+     "texto": "Treze dos 15 governadores eleitos que apoiaram Flávio Bolsonaro reconheceram a reeleição de Lula e descartaram aderir à contestação das urnas.",
+     "base": "DCM, levantamento com base em declarações públicas dos governadores"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula precisa encontrar uma dupla na economia como Palocci e Meirelles e 'empoderá-la', e não terá dificuldades na Câmara, com o bolsonarismo isolado.",
+     "quem": "Gilberto Kassab (PSD)"
+    },
+    {
+     "texto": "Lula prepara ampla reforma ministerial para acomodar aliados derrotados nas urnas e ampliar o espaço do Centrão, com volta de ex-ministros e troca de pastas.",
+     "quem": "Terra Brasil e IstoÉ, com base em bastidores do Planalto"
+    },
+    {
+     "texto": "A governadora do RN, Fátima Bezerra (PT), é cotada para um ministério da área social.",
+     "quem": "Painel (Folha)"
+    },
+    {
+     "texto": "O 'Exército do Lula' reuniu mais de 10 milhões de pessoas e o estado de 'democracia mitigada' foi necessário para vencer a eleição.",
+     "quem": "André Janones"
+    },
+    {
+     "texto": "Lula 4 precisa moderar pautas diante de um Congresso hostil.",
+     "quem": "Folha (editorial)"
+    },
+    {
+     "texto": "O mercado tem razões para estar consternado com a eleição de Lula, por gastos e dívida crescentes.",
+     "quem": "The Economist, segundo Gazeta do Povo e Terra Brasil"
+    },
+    {
+     "texto": "Lula apelou ao populismo para conquistar pequenos empreendedores na reta final da eleição.",
+     "quem": "Gazeta do Povo (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Lula planeja cortar ou extinguir programas sociais, como o Bolsa Família, para adequar o Orçamento de 2027.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Não há anúncio oficial nem documento orçamentário que preveja extinção; o governo desmentiu em 27 de outubro e Lula negou em vídeo em 1º de novembro. A discussão real em curso é sobre ajuste fiscal, sem detalhes divulgados.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta a semana de silêncio como terreno de 'mentiras' e reafirma as promessas de campanha e a manutenção dos programas sociais.",
+    "oposicao": "A direita enquadra as promessas como populismo eleitoral e repercute a Economist para dizer que o mercado tem razão em temer o quarto mandato."
+   },
+   "visao_de_fora": "The Economist publicou análise sobre riscos fiscais do Brasil após a reeleição e defendeu ajuste fiscal, repercutida pela Gazeta do Povo e pelo Terra Brasil.",
+   "ponto_cego": "Veículos de esquerda (247, Fórum, DCM) repercutem Kassab e a cotação de Fátima Bezerra, mas não a reforma ministerial para acomodar derrotados e o Centrão; veículos de direita (Gazeta, Oeste) não noticiaram a recusa de Janones nem a entrevista completa de Kassab, destacando só a 'democracia mitigada'.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "transicao-lula-4-vaga-stf-nome-de-consenso-novo-senado-pl-29-ameaca-barrar-messias-defesa-cinara-mucio-agenda-mercosul-cop-g20-posse",
+    "titulo": "Montagem do Lula 4: aliados aconselham nome de consenso para o STF ainda em 2026 diante de um Senado com 29 do PL que pode barrar Messias; Múcio deixa a Defesa e indica Cinara Wagner Fredo, Márcio França é cotado a voltar, e Lula retoma a agenda com Mercosul, COP e G20"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Lula diz que cumprirá promessas de campanha e que nenhum programa social será extinto",
+     "url": "https://www.estadao.com.br/politica/lula-diz-que-cumprira-promessas-de-campanha-e-que-nenhum-programa-social-sera-extinto/",
+     "angulo": "Vídeo: promessas serão cumpridas; nenhum programa cortado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Janones diz que estado de ‘democracia mitigada’ foi necessário para vencer eleição",
+     "url": "https://www.gazetadopovo.com.br/republica/janones-diz-que-estado-de-democracia-mitigada-foi-necessario-para-vencer-eleicao/",
+     "angulo": "Gazeta destaca a 'democracia mitigada' de Janones.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Lula precisa ter agenda econômica 'voltada ao centro' para se aproximar do PSD, diz Kassab",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/02/lula-precisa-ter-agenda-economica-voltada-ao-centro-para-se-aproximar-do-psd-diz-kassab.ghtml",
+     "angulo": "Kassab: agenda ao centro e equilíbrio fiscal para aprofundar relação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Kassab rifa clã Bolsonaro e sinaliza “relação mais profunda” com Lula em entrevista",
+     "url": "https://revistaforum.com.br/politica/kassab-rifa-bolsonaro-relacao-mais-profunda-lula/",
+     "angulo": "Fórum: Kassab 'rifa' o clã Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Lula prepara reforma ministerial para acomodar aliados derrotados e ampliar espaço do Centrão",
+     "url": "https://terrabrasilnoticias.com/2026/11/lula-prepara-reforma-ministerial-para-acomodar-aliados-derrotados-e-ampliar-espaco-do-centrao/",
+     "angulo": "Reforma ministerial para derrotados e Centrão.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Lula garante que programas sociais serão mantidos",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-que-programas-sociais-serao-mantidos",
+     "angulo": "Agência Brasil: programas mantidos, novos possíveis.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab",
+     "url": "https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/",
+     "angulo": "Kassab: dupla Palocci–Meirelles.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Exército do Lula': Janones fala sobre canal com 10 milhões de pessoas e descarta ministério",
+     "url": "https://g1.globo.com/fantastico/noticia/2026/11/01/janones-exercito-lula-descarta-ministerio.ghtml",
+     "angulo": "Fantástico acompanha Janones; canal com 10 milhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lula apelou ao populismo para conquistar pequenos empreendedores na reta final da eleição",
+     "url": "https://www.gazetadopovo.com.br/economia/lula-empreendedores-populismo-mei-eleicao/",
+     "angulo": "Gazeta: populismo na reta final.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governadora do RN é cotada para ministério da área social de Lula",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/governadora-do-rn-e-cotada-para-ministerio-da-area-social-de-lula.shtml",
+     "angulo": "Fátima Bezerra cotada para pasta social.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Kassab diz que questionar resultado das eleições prejudica campo bolsonarista",
+     "url": "https://jovempan.com.br/politica/kassab-diz-que-questionar-resultado-das-eleicoes-prejudica-campo-bolsonarista/",
+     "angulo": "Jovem Pan: questionar eleição prejudica bolsonarismo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Lula nega fim de programas sociais e dispara: \"Fake news\"",
+     "url": "https://atarde.com.br/politica/lula-nega-fim-de-programas-sociais-e-dispara-fake-news-1407947",
+     "angulo": "Lula: 'fake news' sobre fim do Bolsa Família.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Não vou ser ministro do governo Lula, diz Janones",
+     "url": "https://www.poder360.com.br/poder-governo/nao-vou-ser-ministro-do-governo-lula-diz-janones/",
+     "angulo": "Janones: fica na Câmara 'representando o povo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Com fuga de Flávio do país, governadores de direita miram relação com Lula",
+     "url": "https://www.diariodocentrodomundo.com.br/governadores-reconhecem-vitoria-lula-apos-apoio-flavio/",
+     "angulo": "13 dos 15 governadores eleitos pró-Flávio reconhecem Lula.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "semana-do-copom-proposta-de-lara-resende-para-limitar-a-selic-assusta-mercado-durigan-nega-gleisi-elogia-loyola-ve-juros-de-dois-digitos-ate-2028-alerta-sobre-ajuste-de-2024",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Na semana do Copom, proposta de André Lara Resende para limitar a Selic 'assusta' o mercado; Durigan diz que tabelamento 'não está na mesa' e que não há encontro com Lula, Gleisi elogia o economista, e interlocutores alertam a Fazenda para não repetir a frustração do ajuste de 2024",
+   "lide": "O debate sobre juros e ajuste fiscal dominou o fim de semana depois que um artigo de um dos formuladores do Plano Real atribuiu ao Banco Central parte do desequilíbrio fiscal. O ministro da Fazenda negou qualquer discussão sobre teto para a Selic, enquanto o mercado espera que o Copom encerre o ciclo de cortes nesta semana.",
+   "contexto": "Na semana passada, o Ibovespa caiu 18% e o dólar teve a maior alta semanal desde 2008 após a reeleição de Lula. Pesquisas com o mercado mostram expectativas de inflação em alta para 2027 e 2028, e a Fazenda desenha um pacote de ajuste.",
+   "fatos": [
+    {
+     "texto": "O ministro da Fazenda, Dario Durigan, afirmou em 1º de novembro que a proposta de tabelamento ou limite para a Selic não está na mesa de Lula e que não há encontro agendado entre o presidente e André Lara Resende.",
+     "base": "3 fontes independentes (Folha, Valor, Brasil 247)"
+    },
+    {
+     "texto": "O Copom se reúne nesta semana, com a divulgação da decisão de juros em um calendário que inclui dados de emprego e as eleições de meio de mandato nos EUA.",
+     "base": "3 fontes independentes (CNN Brasil, InfoMoney, Brasil 247)"
+    },
+    {
+     "texto": "Um manifesto de economistas divulgado em 30 de outubro pede novo regime fiscal e taxação dos mais ricos em vez de corte de gastos sociais.",
+     "base": "Operamundi, com base no texto do manifesto"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A política de juros do Banco Central agrava o desequilíbrio fiscal.",
+     "quem": "André Lara Resende (artigo), elogiado por Gleisi Hoffmann"
+    },
+    {
+     "texto": "A proposta de limitar a Selic por novo arranjo entre política fiscal e monetária entrou no radar de integrantes do governo, que querem apresentá-la a Lula, e a simples avaliação já assusta o mercado.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "O mercado chega à semana do Copom esperando o fim do ciclo de corte de juros, com alta na percepção de risco fiscal e desancoragem da inflação.",
+     "quem": "CNN Brasil, com base em agentes de mercado"
+    },
+    {
+     "texto": "Os juros ficarão em dois dígitos até 2028 e a trajetória da dívida é 'perigosa'.",
+     "quem": "Gustavo Loyola, ex-presidente do BC"
+    },
+    {
+     "texto": "A equipe econômica corre o risco de repetir a frustração com o pacote de ajuste fiscal de 2024.",
+     "quem": "Interlocutores do mercado ouvidos pelo Valor"
+    },
+    {
+     "texto": "O ajuste fiscal precisa ser socialmente justo, revendo benefícios tributários.",
+     "quem": "Sergio Firpo (Insper)"
+    },
+    {
+     "texto": "O resultado das midterms nos EUA pode mexer com dólar e juros no Brasil.",
+     "quem": "g1 (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Lula vai tabelar os juros ou impor um teto à Selic.",
+     "rotulo": "Em apuração",
+     "explicacao": "A proposta é de um economista fora do governo; a Folha relata que ela entrou no radar de integrantes do governo, mas o ministro da Fazenda negou publicamente qualquer discussão e disse não haver encontro com Lula marcado.",
+     "onde_circula": "colunas, redes sociais e mercado financeiro",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A Fazenda tenta acalmar o mercado negando o teto para a Selic, enquanto a ala petista (Gleisi) endossa a crítica ao BC.",
+    "oposicao": "A direita usa a Economist e o movimento do mercado para dizer que a vitória de Lula é risco fiscal e cobrar corte de gastos."
+   },
+   "visao_de_fora": "A Economist afirma que o mercado tem razões para a 'consternação' e cobra mudança na política econômica, segundo a Gazeta do Povo e o Terra Brasil.",
+   "ponto_cego": "Veículos de direita não noticiaram a negativa de Durigan nem o manifesto dos economistas; veículos de esquerda (247) publicam Durigan e Loyola, mas não o alerta de interlocutores do mercado sobre o ajuste de 2024.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "mercado-revisa-pib-ve-inflacao-6-2027-expectativas-saltam-bgc-dolar-el-nino-fazenda-desenha-ajuste-penduricalhos-boulos-chantagem-tabata-alckmin",
+    "titulo": "Após a semana de queda de 18% da bolsa, mercado revisa o PIB para baixo e já vê inflação de até 6% em 2027; dólar alto e El Niño pressionam preços, Fazenda desenha ajuste com penduricalhos e supersalários, Boulos fala em 'chantagem do mercado' e Tabata defende Alckmin para o ministério"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Proposta de Lara Resende para limitar Selic assusta mercado; Durigan nega discussão no governo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-lara-resende-para-limitar-selic-entra-no-radar-de-lula-e-assusta-mercado.shtml",
+     "angulo": "Proposta entra no radar do governo e assusta o mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Gleisi elogia André Lara Resende, para quem o Banco Central agrava o desequilíbrio fiscal",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/01/gleisi-elogia-andre-lara-resende-para-quem-o-banco-central-agrava-o-desequilibrio-fiscal.ghtml",
+     "angulo": "Gleisi elogia Lara Resende: BC agrava desequilíbrio fiscal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "The Economist afirma que mercado tem razões para estar consternado com eleição de Lula",
+     "url": "https://www.gazetadopovo.com.br/economia/the-economist-afirma-que-mercado-tem-razao-para-estar-consternado-com-eleicao-de-lula/",
+     "angulo": "Gazeta: Economist diz que mercado tem razão de estar consternado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Tabelamento de juros não está na mesa de Lula, diz ministro da Fazenda",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/tabelamento-de-juros-nao-esta-na-mesa-de-lula-diz-ministro-da-fazenda.shtml",
+     "angulo": "Durigan: tabelamento não está na mesa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Economistas propõem taxar ricos em vez de cortar gastos sociais",
+     "url": "https://operamundi.uol.com.br/brasil/economistas-propoem-taxar-ricos-em-vez-de-cortar-gastos-sociais/",
+     "angulo": "Manifesto: taxar ricos, não cortar gastos sociais.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Mercado chega à semana do Copom com expectativa por fim do corte de juros",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-chega-a-semana-do-copom-com-expectativa-por-fim-do-corte-de-juros/",
+     "angulo": "Mercado espera fim do ciclo de cortes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Frustração do mercado com ajuste fiscal de 2024 soa alerta na equipe econômica",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/01/frustracao-do-mercado-com-ajuste-fiscal-de-2024-soa-alerta-na-equipe-economica.ghtml",
+     "angulo": "Alerta para não repetir 2024.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "The Economist aponta riscos fiscais para o Brasil após reeleição de Lula e cobra mudança na política econômica",
+     "url": "https://terrabrasilnoticias.com/2026/11/the-economist-aponta-riscos-fiscais-para-o-brasil-apos-reeleicao-de-lula-e-cobra-mudanca-na-politica-economica/",
+     "angulo": "Terra Brasil repercute a Economist.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques",
+     "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-copom-trabalho-e-eleicoes-nos-eua-sao-destaques/",
+     "angulo": "Calendário: Copom, emprego e EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ajuste fiscal de Lula precisa ser socialmente justo, diz Sergio Firpo",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ajuste-fiscal-de-lula-precisa-ser-socialmente-justo-diz-sergio-firpo/",
+     "angulo": "Firpo: ajuste socialmente justo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
+     "angulo": "Midterms podem mexer com dólar e juros no Brasil.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "motta-acelera-acordos-com-15-partidos-ze-trovao-lanca-candidatura-pl-deve-anunciar-marinho-ao-senado-alcolumbre-aciona-modo-lula-lira-mira-senado-reforma-eleitoral-divide-camara",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Disputa pelo comando do Congresso em 2027 se antecipa: Motta acelera acordos com 15 partidos, Zé Trovão lança candidatura à Câmara se o PL não tiver nome, PL deve anunciar Rogério Marinho ao Senado na quarta, Alcolumbre 'negocia até o impossível' e o modelo da reforma eleitoral divide a Casa",
+   "lide": "O avanço do PL nas urnas pressiona os atuais presidentes da Câmara e do Senado, que buscam reeleição em fevereiro, e abre uma corrida por candidaturas na direita. Ao mesmo tempo, o acordo de Hugo Motta com o Centrão por voto distrital misto a partir de 2034 ameaça implodir por divergências sobre o modelo.",
+   "contexto": "O PL terá a maior bancada do Senado a partir de fevereiro. Na semana passada, líderes da Câmara retomaram a discussão da reforma eleitoral com o objetivo declarado de frear a perda de espaço dos partidos tradicionais.",
+   "fatos": [
+    {
+     "texto": "O deputado Zé Trovão (PL-SC) anunciou em vídeo no Instagram, em 1º de novembro, que disputará a presidência da Câmara em 2027 se o PL não apresentar candidato.",
+     "base": "2 fontes independentes (Oeste, Poder360)"
+    },
+    {
+     "texto": "Hugo Motta costurou acordo com dirigentes do Centrão para adotar o voto distrital misto a partir de 2034, e o modelo divide os deputados.",
+     "base": "2 fontes independentes (Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "Davi Alcolumbre negou ser investigado após reportagem relacioná-lo a episódios dos casos Master, INSS e Carbono Oculto.",
+     "base": "DCM, com nota do senador"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O PL deve anunciar na quarta-feira (4) Rogério Marinho (RN) como candidato à presidência do Senado, apesar das tratativas de Alcolumbre com senadores do partido.",
+     "quem": "g1, com base em fontes do PL"
+    },
+    {
+     "texto": "Motta busca alianças com 15 partidos para conter o avanço do PL e manter a presidência.",
+     "quem": "Gazeta do Povo, com base em bastidores"
+    },
+    {
+     "texto": "Alcolumbre acionou o 'modo Lula' e 'negocia até o impossível', alardeando apoios de lideranças que sequer votam no pleito.",
+     "quem": "Coluna do Estadão"
+    },
+    {
+     "texto": "Arthur Lira trabalha discretamente para disputar a presidência do Senado, mas carrega decisões que a direita conservadora não esqueceu.",
+     "quem": "Terra Brasil, citando Lauro Jardim"
+    },
+    {
+     "texto": "A reforma eleitoral de Motta não tem apoio nem no próprio partido.",
+     "quem": "Diário do Poder (coluna)"
+    },
+    {
+     "texto": "A reforma visa frear 'puxadores de voto' como Nikolas Ferreira e o crescimento do PL.",
+     "quem": "Folha (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Davi Alcolumbre é investigado pela Polícia Federal.",
+     "rotulo": "Falta contexto",
+     "explicacao": "O senador foi citado em reportagens sobre três casos (Master, INSS e Carbono Oculto), mas nega ser alvo de investigação e não há confirmação oficial de inquérito contra ele.",
+     "onde_circula": "DCM e redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados do governo apostam na reeleição de Motta e Alcolumbre como anteparo ao PL e defendem a reforma eleitoral para conter os 'puxadores de voto'.",
+    "oposicao": "O PL e seus aliados tratam a reforma como manobra para barrar quem tem voto e lançam candidaturas próprias às duas Casas."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, Fórum, BdF) não cobriram a candidatura de Zé Trovão nem o anúncio previsto de Marinho; a direita não noticiou a citação de Alcolumbre em casos da PF, que só o DCM publicou.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "camara-retoma-reforma-eleitoral-distrital-misto-frear-perda-partidos-gaspari-mandato-sem-voto-congresso-inelegibilidade-violencia-mulher-11-anos-13-propostas",
+    "titulo": "Líderes da Câmara retomam a reforma eleitoral com voto distrital misto para 'frear a perda de espaço' dos partidos tradicionais, e Elio Gaspari alerta para 'mandato sem voto'; Congresso tem 13 propostas paradas há 11 anos sobre inelegibilidade por violência contra a mulher, tema que o TSE decidiu na quinta"
+   },
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Hugo Motta acelera acordos para manter comando da Câmara em 2027",
+     "url": "https://www.gazetadopovo.com.br/republica/hugo-motta-acelera-acordos-para-manter-comando-da-camara-em-2027/",
+     "angulo": "Motta busca 15 partidos para conter o PL.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Presidência do Senado: PL deve ter candidato próprio, mesmo com aproximação de Alcolumbre",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/02/presidencia-do-senado-pl-deve-ter-candidato-proprio-mesmo-com-aproximacao-de-alcolumbre.ghtml",
+     "angulo": "PL deve anunciar Marinho na quarta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Zé Trovão disputará comando da Câmara se PL não escolher candidato",
+     "url": "https://revistaoeste.com/politica/ze-trovao-anuncia-candidatura-a-camara-se-pl-nao-anunciar-ninguem/",
+     "angulo": "Zé Trovão se lança contra Motta.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Alcolumbre é citado em três casos da PF enquanto articula reeleição ao comando do Senado",
+     "url": "https://www.diariodocentrodomundo.com.br/alcolumbre-citado-casos-pf-reeleicao-senado/",
+     "angulo": "DCM: Alcolumbre citado em três casos da PF.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Alcolumbre aciona ‘modo Lula’ e negocia até o impossível para tentar reeleição no comando do Senado",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/alcolumbre-aciona-modo-lula-e-negocia-ate-o-impossivel-para-tentar-reeleicao-no-comando-do-senado/",
+     "angulo": "Alcolumbre 'negocia até o impossível'.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Modelo da reforma eleitoral divide Câmara e ameaça implodir acordo para frear PL",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/modelo-da-reforma-eleitoral-divide-camara-e-ameaca-implodir-acordo-para-frear-pl.shtml",
+     "angulo": "Modelo da reforma ameaça implodir acordo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Zé Trovão anuncia candidatura à presidência da Câmara contra Motta",
+     "url": "https://www.poder360.com.br/poder-congresso/ze-trovao-anuncia-candidatura-a-presidencia-da-camara-contra-motta/",
+     "angulo": "Poder360: candidatura condicionada ao PL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Arthur Lira mira presidência do Senado, mas carrega duas decisões que a direita conservadora não esqueceu",
+     "url": "https://terrabrasilnoticias.com/2026/11/arthur-lira-mira-presidencia-do-senado-mas-carrega-duas-decisoes-que-a-direita-conservadora-nao-esqueceu/",
+     "angulo": "Lira mira o Senado, mas carrega decisões que a direita não esqueceu.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Câmara discute reforma eleitoral para frear puxadores de voto como Nikolas; veja modelos e debates",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/camara-discute-reforma-eleitoral-para-frear-puxadores-de-voto-como-nikolas-veja-modelos-e-debates.shtml",
+     "angulo": "Modelos em debate e o alvo: puxadores de voto.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara",
+     "url": "https://www.gazetadopovo.com.br/republica/avanco-do-pl-pressiona-hugo-motta-e-leva-partidos-a-antecipar-disputa-pela-camara/",
+     "angulo": "Avanço do PL antecipa a disputa.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Proposta de ‘reforma’ de Hugo Motta não tem apoio nem no seu partido",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/proposta-de-reforma-de-hugo-motta-nao-tem-apoio-nem-no-seu-partido",
+     "angulo": "Reforma sem apoio nem no partido de Motta.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Impeachment de ministros do STF perde força com ressurgimento de Alcolumbre após triunfo de Lula",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/impeachment-de-ministros-do-stf-perde-forca-com-ressurgimento-de-alcolumbre-apos-triunfo-de-lula,05a769c3e5be6e627dc47e859c1ac286di8y985i.html",
+     "angulo": "Alcolumbre fortalecido esvazia impeachment no STF.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "violencia-politica-189-denuncias-no-disque-100-casos-quadruplicam-em-outubro-mec-encaminha-denuncias-a-pf-estudantes-de-medicina-expulsos-em-maringa-por-mensagens-nazistas-jacobina-demissoes",
+   "editoria": "Direitos Humanos",
+   "escopo": "brasil",
+   "titulo": "Governo contabiliza 189 denúncias de violência política no período eleitoral, com casos quadruplicando em outubro; MEC encaminha à PF relatos de universidades, faculdade de Maringá expulsa alunos de medicina por mensagens com referências nazistas contra bolsistas e empresários de Jacobina articulam demissões de eleitores de Lula",
+   "lide": "Uma semana após o segundo turno, os registros oficiais de violência e assédio político seguem crescendo em várias frentes: Disque 100, universidades, ambiente de trabalho e aldeias indígenas de MS, onde a Força Nacional fica por tempo indeterminado. A direita reage acusando o PT de criar 'listas negras'.",
+   "contexto": "O canal do Ministério do Trabalho recebeu 4,3 mil denúncias de assédio eleitoral em três dias. Em Tacuru (MS), servidores admitiram à PF áudios com ameaças a indígenas, e dois foram afastados.",
+   "fatos": [
+    {
+     "texto": "O Ministério dos Direitos Humanos recebeu 189 denúncias de violência política no período eleitoral, somando Disque 100 e outros canais; todas foram encaminhadas ao Ministério da Justiça.",
+     "base": "Agência Brasil, com dados oficiais do MDHC"
+    },
+    {
+     "texto": "O MEC passou a reunir denúncias de violência política em universidades e institutos federais, durante e após as eleições, para encaminhá-las à Polícia Federal e à AGU.",
+     "base": "2 fontes independentes (Brasil de Fato, Agência Brasil)"
+    },
+    {
+     "texto": "Alunos de medicina da UniCesumar, em Maringá (PR), foram expulsos após enviar em grupo de WhatsApp mensagens com referências ao nazismo para atacar estudantes bolsistas depois do resultado da eleição.",
+     "base": "3 fontes independentes (g1, CartaCapital, ICL)"
+    },
+    {
+     "texto": "A Força Nacional permanecerá por tempo indeterminado em aldeias indígenas de Mato Grosso do Sul; a mobilização prevê 145 agentes em três comunidades, e dois servidores foram afastados após ameaças de envenenamento da água.",
+     "base": "3 fontes independentes (Gazeta do Povo, Valor, Terra Brasil)"
+    },
+    {
+     "texto": "O Ministério do Trabalho recebeu cerca de 4,3 mil denúncias de assédio eleitoral nos três primeiros dias do canal criado em 28 de outubro, quase metade no Sudeste.",
+     "base": "2 fontes independentes (CartaCapital, Brasil de Fato)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Empresários de Jacobina (BA) organizaram mobilização coordenada para demitir funcionários que declararam voto em Lula.",
+     "quem": "A Tarde, com base em denúncia de assédio eleitoral"
+    },
+    {
+     "texto": "O PT-SP montou força-tarefa para defender vítimas de perseguição e boicote.",
+     "quem": "Metrópoles"
+    },
+    {
+     "texto": "Povos terena, tupi-guarani e kaingang de Avaí (SP) relatam temor após áudios atribuídos a um grupo bolsonarista.",
+     "quem": "DCM, com relatos indígenas"
+    },
+    {
+     "texto": "O governo classifica as ameaças a indígenas como crime político.",
+     "quem": "Ministério da Justiça, segundo Gazeta do Povo"
+    },
+    {
+     "texto": "O boicote a petistas é errado; o governador eleito relatou caso de cliente eleitora de Lula da família.",
+     "quem": "Cleitinho (Republicanos), governador eleito de MG"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O PT e o governo Lula criaram 'listas negras' de inspiração fascista, comparáveis à perseguição a judeus na Alemanha nazista.",
+     "rotulo": "Distorcido",
+     "explicacao": "A força-tarefa do PT-SP, segundo o Metrópoles, destina-se a dar assistência jurídica a vítimas de perseguição e boicote. A 'lista suja' do governo federal, já existente, inclui empregadores com assédio eleitoral comprovado em processo administrativo, não eleitores.",
+     "onde_circula": "Diário do Poder (coluna Claudio Humberto) e redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta os dados como prova de uma onda de violência política pós-eleitoral que exige PF, Força Nacional e canais de denúncia.",
+    "oposicao": "A oposição e colunistas de direita enquadram a reação do governo e do PT como perseguição a quem boicota petistas."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Gazeta do Povo, Oeste e Terra Brasil cobriram só a Força Nacional nas aldeias; nenhum veículo de direita noticiou os 189 casos do Disque 100, a expulsão em Maringá nem Jacobina. Veículos de esquerda não registram a posição de Cleitinho contra boicotes.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "mte-4305-denuncias-assedio-3-dias-sp-lidera-forca-nacional-tempo-indeterminado-aldeias-ms-ministros-189-casos-servidores-admitem-audios-mec-pf",
+    "titulo": "Canal do Ministério do Trabalho recebe 4.305 denúncias de assédio eleitoral em três dias, com São Paulo à frente; ministros visitam aldeias Guarani-Kaiowá em MS, governo identifica 189 casos de violência pós-eleição e mantém a Força Nacional por tempo indeterminado, e servidores de Tacuru admitem à PF os áudios de ameaça"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Denúncias de violência política quadriplicam em outubro no Disque 100",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-disque-100-recebeu-189-denuncias-durante-eleicao",
+     "angulo": "189 denúncias; casos quadruplicam em outubro.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo fala em crime político e envia Força Nacional para proteger indígenas",
+     "url": "https://www.gazetadopovo.com.br/republica/governo-fala-em-crime-politico-e-envia-forca-nacional-para-proteger-indigenas/",
+     "angulo": "Gazeta: 145 agentes em três comunidades; dois servidores afastados.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Veja prints: alunos de Medicina no Paraná enviaram mensagens com referência ao nazismo para atacar estudantes bolsistas após eleição",
+     "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/02/veja-prints-alunos-de-medicina-no-parana-enviaram-mensagens-com-referencia-ao-nazismo-para-atacar-estudantes-bolsistas-apos-eleicao.ghtml",
+     "angulo": "Prints das mensagens dos alunos expulsos em Maringá.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Listas negras petistas contra boicote lembram perseguição a judeus na Alemanha nazista",
+     "url": "https://diariodopoder.com.br/coluna-claudio-humberto/listas-negras-petistas-contra-boicote-lembram-perseguicao-a-judeus-na-alemanha-nazista",
+     "angulo": "Coluna compara força-tarefa do PT a perseguição nazista.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Ministério da Educação quer que PF e AGU apurem denúncias de violência política durante e após eleições",
+     "url": "https://www.brasildefato.com.br/2026/11/01/ministerio-da-educacao-quer-que-pf-e-agu-apurem-denuncias-de-violencia-politica-durante-e-apos-eleicoes/",
+     "angulo": "MEC encaminha denúncias à PF e AGU.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Empresários de Jacobina articulam demissões para eleitores de Lula",
+     "url": "https://atarde.com.br/politica/empresarios-de-jacobina-articulam-demissoes-para-eleitores-de-lula-1407931",
+     "angulo": "Jacobina: empresários articulam demissões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Universidade do Paraná expulsa estudantes após ataques políticos contra bolsistas",
+     "url": "https://www.cartacapital.com.br/educacao/universidade-do-parana-expulsa-estudantes-apos-ataques-politicos-contra-bolsistas/",
+     "angulo": "Expulsão após ataques a bolsistas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Segurança em aldeias indígenas do MS será reforçada diante de ameaças pós-eleição",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/01/segurana-em-aldeias-indgenas-do-ms-ser-reforada-diante-de-ameaas-ps-eleio.ghtml",
+     "angulo": "Força Nacional reforça aldeias com polícias estaduais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "⁠Cleitinho se posiciona sobre boicotes a petistas e fala de cliente do passado",
+     "url": "https://veja.abril.com.br/politica/%e2%81%a0cleitinho-se-posiciona-sobre-boicotes-a-petistas-e-fala-de-cliente-do-passado/",
+     "angulo": "Cleitinho se posiciona contra boicotes a petistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Força Nacional permanecerá por tempo indeterminado em aldeias indígenas de Mato Grosso do Sul",
+     "url": "https://terrabrasilnoticias.com/2026/11/forca-nacional-permanecera-por-tempo-indeterminado-em-aldeias-indigenas-de-mato-grosso-do-sul/",
+     "angulo": "Terra Brasil: Força Nacional sem data para sair.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
+     "url": "https://www.cartacapital.com.br/politica/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias/",
+     "angulo": "4,3 mil denúncias de assédio; metade no Sudeste.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Indígenas denunciam perseguição política no interior de SP",
+     "url": "https://www.diariodocentrodomundo.com.br/indigenas-temem-ataques-ameacas-politicas-avai-sp/",
+     "angulo": "Indígenas de Avaí (SP) relatam temor.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Estudantes de medicina são expulsos de universidade por ofensas a bolsistas após as eleições",
+     "url": "https://iclnoticias.com.br/estudantes-expulsos-ofensas-bolsistas/",
+     "angulo": "Folhapress/ICL: UniCesumar expulsa alunos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "petrobras-sobe-querosene-de-aviacao-7-2-terceiro-reajuste-seguido-apos-11-76-em-outubro-boulos-e-tarcisio-trocam-ataques-por-icms-do-diesel-que-sobe-em-fevereiro",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Petrobras aumenta o querosene de aviação em 7,2% (R$ 0,45 por litro), terceiro reajuste seguido, e atribui a alta ao Oriente Médio e à perda de refino na Rússia e na Ucrânia; Boulos e Tarcísio trocam ataques pela alta do ICMS do diesel prevista para fevereiro",
+   "lide": "O combustível de aviação acumula alta de mais de 19% em dois meses e pressiona o preço das passagens. No mesmo domingo, o ministro Guilherme Boulos e o governador Tarcísio de Freitas discutiram nas redes quem é responsável pelo aumento do diesel em 2027, decidido pelos estados.",
+   "contexto": "O preço internacional do petróleo e derivados subiu com a guerra entre EUA, Israel e Irã e a ameaça de novos ataques. O reajuste do ICMS do diesel foi aprovado pelos estados em conjunto, inclusive por governos de esquerda.",
+   "fatos": [
+    {
+     "texto": "A Petrobras elevou em 7,2% o preço médio do querosene de aviação vendido às distribuidoras a partir de 1º de novembro, alta de R$ 0,45 por litro, após reajuste de 11,76% em outubro.",
+     "base": "4 fontes independentes (Estadão, Folha, Agência Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "A estatal atribuiu o aumento à elevação das cotações internacionais do QAV, por tensões no Oriente Médio e redução da capacidade de refino na Rússia e na Ucrânia.",
+     "base": "3 fontes independentes (Valor, Estadão, Exame)"
+    },
+    {
+     "texto": "Boulos e Tarcísio trocaram ataques nas redes sociais em 1º de novembro por causa do aumento previsto do diesel a partir de fevereiro de 2027.",
+     "base": "3 fontes independentes (Valor, Jovem Pan, Oeste)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O reajuste do ICMS foi aprovado por unanimidade pelos estados, e Boulos 'distorce dados e alimenta desinformação'.",
+     "quem": "Tarcísio de Freitas (Republicanos), governador de SP"
+    },
+    {
+     "texto": "A resposta de Tarcísio ao aumento do ICMS é 'hipocrisia e oportunismo político'.",
+     "quem": "Guilherme Boulos (PSOL), ministro da Secretaria-Geral"
+    },
+    {
+     "texto": "Boulos criticou Tarcísio sem citar que a medida foi aprovada em conjunto com estados governados pela esquerda.",
+     "quem": "Poder360"
+    },
+    {
+     "texto": "O reajuste do QAV aumenta a pressão sobre o preço das passagens aéreas.",
+     "quem": "Terra Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo de São Paulo é o responsável pela alta do diesel prevista para 2027.",
+     "rotulo": "Falta contexto",
+     "explicacao": "O aumento do ICMS do diesel foi decidido pelos estados em conjunto, por unanimidade segundo Tarcísio e o Poder360, incluindo governos de esquerda; São Paulo apoiou o reajuste, mas não o decidiu sozinho.",
+     "onde_circula": "vídeo de Boulos nas redes",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Boulos culpa o governador bolsonarista pelo aumento do diesel e o acusa de hipocrisia.",
+    "oposicao": "Tarcísio diz que o ministro distorce dados e que a decisão foi unânime entre os estados."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, Fórum, BdF) não noticiaram o reajuste do QAV; a direita cobre a troca de ataques pelo lado de Tarcísio e não registra que ele apoiou o reajuste do ICMS.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Petrobras aumenta preço do querosene de aviação em novembro",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml",
+     "angulo": "Mais um aumento consecutivo do QAV.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Tarcísio rebate Boulos sobre alta do diesel: ‘Distorce dados e alimenta desinformação’",
+     "url": "https://revistaoeste.com/politica/tarcisio-rebate-boulos-sobre-alta-do-diesel-distorce-dados-e-alimenta-desinformacao/",
+     "angulo": "Tarcísio: Boulos 'distorce dados'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Petrobras aumenta preço do querosene de aviação em 7,2% a partir deste domingo",
+     "url": "https://www.estadao.com.br/economia/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-a-partir-deste-domingo/",
+     "angulo": "7,2% a partir deste domingo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Boulos critica Tarcísio por resposta ao aumento do ICMS: ‘Hipocrisia e oportunismo político’",
+     "url": "https://jovempan.com.br/politica/boulos-critica-tarcisio-por-resposta-ao-aumento-do-icms-hipocrisia-e-oportunismo-politico/",
+     "angulo": "Boulos: 'hipocrisia e oportunismo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Petrobras reajusta combustível de aviação em R$ 0,45 por litro",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro",
+     "angulo": "Agência Brasil: R$ 0,45 por litro após 11,76% em outubro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Boulos e Tarcísio trocam ataques por alta prevista no preço do diesel",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/01/boulos-e-tarcsio-trocam-ataques-por-alta-prevista-no-preo-do-diesel.ghtml",
+     "angulo": "Troca de ataques por alta prevista do diesel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Petrobras aumenta querosene de aviação em 7,2%",
+     "url": "https://www.gazetadopovo.com.br/economia/petrobras-aumenta-querosene-de-aviacao-em-7/",
+     "angulo": "Gazeta: valorização internacional e tensões geopolíticas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Boulos é criticado por não citar a esquerda ao falar do ICMS do diesel",
+     "url": "https://www.poder360.com.br/poder-economia/boulos-e-criticado-por-nao-citar-a-esquerda-ao-falar-do-icms-do-diesel/",
+     "angulo": "Boulos criticado por omitir estados da esquerda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Petrobras aumenta preço do querosene de aviação em 7,2% em novembro",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-em-novembro.shtml",
+     "angulo": "Folha: reajuste após alta de outubro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Petrobras reajusta querosene de aviação em 7,2% e aumenta pressão sobre passagens aéreas",
+     "url": "https://terrabrasilnoticias.com/2026/11/petrobras-reajusta-querosene-de-aviacao-em-72-e-aumenta-pressao-sobre-passagens-aereas/",
+     "angulo": "Terra Brasil: pressão sobre passagens aéreas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Petrobras faz novo reajuste de 7,2% no querosene de aviação",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/petrobras-faz-novo-reajuste-de-7-2-no-querosene-de-aviacao",
+     "angulo": "SBT: terceiro reajuste consecutivo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Petrobras aumenta preço do querosene de aviação em 7,2% a partir deste domingo",
+     "url": "https://exame.com/economia/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-a-partir-deste-domingo/",
+     "angulo": "Exame: Oriente Médio e guerra na Ucrânia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "fuvest-2027-tem-menor-abstencao-da-historia-6-4-prova-cita-bad-bunny-ia-e-escala-6x1-professora-aponta-erro-em-questao-de-matematica-enem-em-uma-semana-com-5-milhoes-de-inscritos",
+   "editoria": "Educação",
+   "escopo": "brasil",
+   "titulo": "Fuvest 2027 registra a menor abstenção da história (6,4%) na primeira fase, com questões sobre Bad Bunny, inteligência artificial e o fim da escala 6x1; professora aponta erro em questão de matemática, e o Enem começa em uma semana com mais de 5 milhões de inscritos",
+   "lide": "A prova de acesso à USP foi aplicada no domingo (1º), das 13h às 18h, com 80 questões, e o gabarito oficial já foi divulgado. A semana marca também a reta final para o Enem, nos dias 8 e 15 de novembro.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "A primeira fase da Fuvest 2027 foi aplicada em 1º de novembro, das 13h às 18h, com 80 questões de múltipla escolha, e teve abstenção de 6,4%, a menor da história do vestibular.",
+     "base": "3 fontes independentes (SBT, CNN Brasil, Folha)"
+    },
+    {
+     "texto": "A prova trouxe menções a Bad Bunny, ao uso de inteligência artificial e ao fim da escala 6x1.",
+     "base": "3 fontes independentes (InfoMoney, Jovem Pan, CNN Brasil)"
+    },
+    {
+     "texto": "O Enem 2026 será aplicado nos domingos 8 e 15 de novembro para mais de 5 milhões de inscritos; no primeiro dia há redação e provas de linguagens e ciências humanas.",
+     "base": "2 fontes independentes (Agência Brasil, A Tarde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A questão 23 da versão 1 traz um conceito geográfico errado.",
+     "quem": "Vera Lúcia Antunes, coordenadora pedagógica do Objetivo (CNN Brasil)"
+    },
+    {
+     "texto": "A prova cobrou interpretação, repertório e conexão entre áreas do conhecimento.",
+     "quem": "Professores ouvidos pelo g1 e pela CNN Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A questão 23 de matemática da versão 1 tem erro.",
+     "rotulo": "Em apuração",
+     "explicacao": "A alegação é de uma coordenadora de cursinho; a Fuvest foi questionada e a decisão sobre anulação ou manutenção da questão cabe à fundação.",
+     "onde_circula": "CNN Brasil e cursinhos",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Cobertura concentrada em veículos de centro e serviços; veículos de direita não trataram do vestibular e os de esquerda publicaram apenas o serviço sobre o Enem.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "sbt",
+     "titulo": "Fuvest 2027: 1ª fase tem menor abstenção da história",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/fuvest-2027-1-fase-tem-menor-abstencao-da-historia",
+     "angulo": "Menor abstenção da história.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fuvest 2027: professora aponta erro em questão de matemática da versão 1",
+     "url": "https://www.cnnbrasil.com.br/educacao/fuvest-2027-professora-aponta-erro-em-questao-de-matematica-da-versao-1/",
+     "angulo": "Professora aponta erro na questão 23.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1",
+     "url": "https://www.infomoney.com.br/brasil/fuvest-1a-fase-da-prova-traz-mencoes-a-bad-bunny-uso-de-ia-e-fim-da-escala-6x1/",
+     "angulo": "Bad Bunny, IA e escala 6x1 na prova.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Falta uma semana para o Enem 2026; veja horários e o que levar",
+     "url": "https://www.brasildefato.com.br/2026/11/01/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar/",
+     "angulo": "Enem em uma semana: horários e o que levar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fuvest registra menor taxa de abstenção da história",
+     "url": "https://www.cnnbrasil.com.br/educacao/fuvest-registra-menor-taxa-de-abstencao-da-historia/",
+     "angulo": "6,4% de ausência; atendimento médico em Ribeirão Preto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Gabarito oficial da Fuvest 2027 é divulgado; veja respostas da 1ª fase",
+     "url": "https://www1.folha.uol.com.br/educacao/2026/11/gabarito-oficial-da-fuvest-2027-e-divulgado-veja-respostas-da-1a-fase.shtml",
+     "angulo": "Gabarito oficial da 1ª fase.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Fuvest tem 1ª fase com menções a Bad Bunny, uso de IA e fim da escala 6×1",
+     "url": "https://jovempan.com.br/educacao/fuvest-tem-1a-fase-com-mencoes-a-bad-bunny-uso-de-ia-e-fim-da-escala-6x1/",
+     "angulo": "Jovem Pan: 88 locais de prova.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Falta uma semana para o Enem 2026; veja horários e o que levar",
+     "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar",
+     "angulo": "Agência Brasil: mais de 5 milhões de inscritos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Fuvest divulga gabarito da 1ª fase; confira respostas",
+     "url": "https://atarde.com.br/brasil/fuvest-divulga-gabarito-da-1-fase-confira-respostas-1407974",
+     "angulo": "A Tarde: 80 questões, versões da prova.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Provas do Enem 2026 começam em uma semana; veja horários e o que levar",
+     "url": "https://atarde.com.br/educacao/enem/provas-do-enem-2026-comecam-em-uma-semana-veja-horarios-e-o-que-levar-1407932",
+     "angulo": "Enem nos dias 8 e 15.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "midterms-vespera-democrata-haley-stevens-apoia-republicano-rogers-em-michigan-trump-encerra-campanha-e-fala-em-mr-veto-juiza-rejeita-acao-no-alasca-chris-murphy-tem-avc-gasolina-recorde",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Na véspera das midterms, a deputada democrata Haley Stevens apoia o republicano Mike Rogers na disputa pelo Senado em Michigan e racha o partido; Trump encerra a campanha em Iowa e Kansas, diz que pode virar 'Mr. Veto', juíza rejeita ação do governo no Alasca e o senador Chris Murphy sofre AVC",
+   "lide": "A dois dias da eleição que define o controle do Congresso, a deserção de Stevens, derrotada nas primárias pelo progressista Abdul El-Sayed, expôs a divisão entre moderados e progressistas em uma das disputas mais apertadas do país. Trump admitiu pela primeira vez a possibilidade de derrota, e a gasolina atinge preço recorde no seu mandato.",
+   "contexto": "Pesquisas e agregadores dão aos democratas mais de 90% de chance de retomar a Câmara; o Senado depende de oito estados-chave, entre eles Michigan, Alasca, Iowa, Ohio, Maine, Texas, Kansas e Carolina do Norte. No sábado, um juiz já havia rejeitado em definitivo a ação de Trump contra o Wall Street Journal.",
+   "fatos": [
+    {
+     "texto": "A deputada Haley Stevens (D-MI), derrotada por Abdul El-Sayed nas primárias democratas, anunciou em 1º de novembro apoio ao republicano Mike Rogers na disputa pelo Senado em Michigan; Trump a chamou de 'muito corajosa' e a convidou a entrar no Partido Republicano.",
+     "base": "4 fontes independentes (AFP, The Guardian, Axios, El País)"
+    },
+    {
+     "texto": "Trump encerrou a campanha com comícios em Iowa e Kansas em 1º de novembro e disse, em entrevista ao New York Post, que pode se tornar 'Mr. Veto' se os democratas vencerem.",
+     "base": "3 fontes independentes (Le Monde, Bloomberg, Clarín)"
+    },
+    {
+     "texto": "Uma juíza federal rejeitou em 1º de novembro a ação do governo Trump que buscava impedir o Alasca de certificar o resultado da eleição para o Senado caso o republicano Dan Sullivan perdesse; Sullivan disse que aceitará o resultado.",
+     "base": "3 fontes independentes (The Guardian, Valor, Jovem Pan)"
+    },
+    {
+     "texto": "O senador Chris Murphy (D-CT), 53, foi hospitalizado no Johns Hopkins após sofrer um AVC no sábado (31), segundo seu gabinete.",
+     "base": "3 fontes independentes (Folha, Axios, Bloomberg)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Casa Branca prepara desde abril um plano para avançar a agenda por decretos e se antecipar a investigações caso os democratas tomem o Congresso.",
+     "quem": "Bloomberg, com base em funcionário da Casa Branca (repercutido por Valor e Operamundi)"
+    },
+    {
+     "texto": "O apoio de Stevens é uma 'traição desprezível' e há pressão para expulsá-la da bancada democrata.",
+     "quem": "Deputados e dirigentes democratas, segundo Axios e Breitbart"
+    },
+    {
+     "texto": "Os preços da gasolina atingem recorde no segundo mandato de Trump e superam os níveis da era Biden, com custo de vida dominando a eleição.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "As promessas renegadas por Trump (inflação e não entrar em guerras) o expõem a um voto-sanção.",
+     "quem": "Le Monde (análise)"
+    },
+    {
+     "texto": "O Partido Republicano se prepara para uma derrota e tenta mitigar os danos em estados como Ohio.",
+     "quem": "Estadão (enviado especial a Ohio)"
+    },
+    {
+     "texto": "Os republicanos manterão a maioria no Senado, 'inequivocamente sim'.",
+     "quem": "Senador Tim Scott (R-SC)"
+    },
+    {
+     "texto": "Mais de 54 milhões de americanos já votaram antecipadamente.",
+     "quem": "Le Monde, com dados de participação"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Democratas do Alasca cometem fraude eleitoral e a integridade das eleições em três estados está comprometida.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Trump fez as acusações em comício em Iowa sem apresentar provas; a ação do governo sobre o Alasca foi rejeitada por uma juíza federal e o próprio senador Sullivan disse que aceitará o resultado.",
+     "onde_circula": "comício de Trump em Iowa, redes sociais",
+     "checagem": []
+    },
+    {
+     "alegacao": "Abdul El-Sayed é um 'jihadista'.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Trump usou o termo repetidamente no comício de Iowa; El-Sayed é médico e ex-diretor de saúde de Detroit, candidato democrata, e não há qualquer acusação formal nesse sentido.",
+     "onde_circula": "comício de Trump, Breitbart",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "O g1 e a InfoMoney destacam que o resultado pode mexer com dólar e juros no Brasil; o Estadão avalia que a perda da maioria não seria o maior incentivo para Trump se aproximar de Lula.",
+   "ponto_cego": "Breitbart e New York Post concentram a cobertura em Stevens e em El-Sayed ('socialista muçulmano') e omitem a derrota do governo no Alasca e a gasolina recorde; veículos de esquerda brasileiros (247, Fórum) destacam só as pesquisas desfavoráveis a Trump.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "midterms-2-dias-52-mi-votaram-fbi-doadores-decoy-dan-california-pede-barrar-confisco-juiz-rejeita-acao-10-bi-trump-wsj-epstein-polymarket-71",
+    "titulo": "A dois dias das midterms, mais de 52 milhões já votaram antecipadamente; FBI visita doadores do 'Decoy Dan' no Alasca, Califórnia pede à Justiça barrar o 'confisco' de votos, juiz rejeita em definitivo a ação de US$ 10 bilhões de Trump contra o Wall Street Journal pela carta a Epstein, e Polymarket dá 71% para derrota republicana nas duas Casas"
+   },
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Michigan Democrat stuns party to back Republican candidate in critical Senate race",
+     "url": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+     "angulo": "AFP: deserção expõe divisões democratas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump Invites Haley Stevens to Join GOP After Mike Rogers Endorsement: 'She Was Very Brave'",
+     "url": "https://www.breitbart.com/politics/2026/11/01/trump-invites-haley-stevens-join-go-mike-rogers-endorsement-very-brave/",
+     "angulo": "Trump convida Stevens a entrar no Partido Republicano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+     "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+     "angulo": "Guardian: 'rebuke extraordinário' ao candidato do partido.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Says He May Be ‘Mr. Veto’ If Democrats Win Midterms",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/trump-says-he-may-become-mr-veto-if-democrats-take-majority",
+     "angulo": "Trump: 'Mr. Veto' se democratas vencerem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
+     "url": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed",
+     "angulo": "Equipe e colegas de Stevens reagem: 'traição'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Midterms 2026 : les reniements de Donald Trump l’exposent à un vote sanction de la part des électeurs américains",
+     "url": "https://www.lemonde.fr/international/article/2026/11/02/midterms-2026-les-reniements-de-donald-trump-l-exposent-a-un-vote-sanction-de-la-part-des-electeurs-americains_6804843_3210.html",
+     "angulo": "Le Monde: promessas renegadas e voto-sanção.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Petrol prices set to hit record high under Trump on eve of US elections",
+     "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
+     "angulo": "FT: gasolina em recorde no mandato de Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Justiça rejeita ação de Trump sobre eleições no Alasca",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/01/justia-rejeita-ao-de-trump-sobre-eleies-no-alasca.ghtml",
+     "angulo": "Juíza indefere ação sobre o Alasca.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Senador democrata sofre AVC a dias das eleições legislativas nos EUA",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/senador-democrata-sofre-avc-a-dias-das-eleicoes-legislativas-nos-eua.shtml",
+     "angulo": "Chris Murphy hospitalizado após AVC.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Trump questiona integridade das eleições em três estados em comício em Iowa",
+     "url": "https://www.cnnbrasil.com.br/internacional/trump-questiona-integridade-das-eleicoes-em-tres-estados-em-comicio-em-iowa/",
+     "angulo": "Trump acusa democratas do Alasca de fraude.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Casa Branca traçou plano para governar sem Congresso caso democratas vençam, diz agência",
+     "url": "https://operamundi.uol.com.br/estados-unidos/casa-branca-tracou-plano-para-governar-sem-congresso-caso-democratas-vencam/",
+     "angulo": "Casa Branca planeja governar sem o Congresso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ohio vira laboratório para os republicanos conterem o avanço democrata nas midterms",
+     "url": "https://www.estadao.com.br/internacional/ohio-vira-laboratorio-para-os-republicanos-conterem-o-avanco-democrata-nas-midterms/",
+     "angulo": "Estadão em Ohio: republicanos se preparam para derrota.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "El apoyo de una demócrata al rival republicano de El-Sayed ahonda en la crisis del partido en Míchigan",
+     "url": "https://elpais.com/us/2026-11-01/el-apoyo-de-una-democrata-de-michigan-al-rival-republicano-de-el-sayed-provoca-una-ruptura-en-el-partido.html",
+     "angulo": "El País: crise do partido em Michigan.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Sen. Tim Scott: 'Unequivocally Yes,' GOP Will Hold the Majority in the Senate",
+     "url": "https://www.breitbart.com/clips/2026/11/01/sen-tim-scott-unequivocally-yes-gop-will-hold-the-majority-in-the-senate/",
+     "angulo": "Tim Scott: GOP mantém o Senado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "learjet-60-cai-em-bairro-de-palm-beach-e-mata-as-9-pessoas-a-bordo-piloto-relatou-gelo-e-turbulencia-voo-do-texas-para-bahamas-a-poucos-km-de-mar-a-lago-faa-e-ntsb-investigam",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Jato Learjet 60 cai em bairro residencial de Palm Beach, na Flórida, e mata as nove pessoas a bordo; áudio mostra piloto relatando gelo e turbulência antes do mergulho, e FAA e NTSB investigam o acidente a poucos quilômetros de Mar-a-Lago",
+   "lide": "O avião, que havia decolado de Austin (Texas) com destino às Bahamas, mergulhou de nariz perto de uma via movimentada no domingo (1º) e explodiu em uma bola de fogo registrada por câmeras de carros. Não houve vítimas no solo, segundo o governador Ron DeSantis.",
+   "contexto": null,
+   "fatos": [
+    {
+     "texto": "Um Learjet 60 caiu em 1º de novembro em um bairro residencial do condado de Palm Beach, na Flórida, perto de uma via movimentada; as nove pessoas a bordo morreram, segundo o secretário de Transportes, Sean Duffy.",
+     "base": "5 fontes independentes (g1, Estadão, BBC, Al Jazeera, AFP)"
+    },
+    {
+     "texto": "A aeronave havia decolado do aeroporto de Austin-Bergstrom, no Texas, com destino às Bahamas, segundo a FAA.",
+     "base": "3 fontes independentes (Jovem Pan, The Guardian, Clarín)"
+    },
+    {
+     "texto": "Gravações do controle de tráfego aéreo mostram a piloto relatando gelo, precipitação e turbulência severa e declarando emergência antes do mergulho.",
+     "base": "3 fontes independentes (AFP, g1, CNN Brasil)"
+    },
+    {
+     "texto": "A FAA e o NTSB investigam o acidente; DeSantis disse não haver vítimas no solo e descreveu a queda como 'cataclísmica'.",
+     "base": "3 fontes independentes (SBT, Al Jazeera, New York Post)"
+    },
+    {
+     "texto": "O local fica a poucos quilômetros do resort Mar-a-Lago, de Donald Trump: 14 km segundo a BBC, menos de 11 km segundo a Euronews.",
+     "base": "2 fontes independentes (BBC, Euronews)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A queda parecia 'um míssil caindo' e deixou uma grande cratera na beira da estrada.",
+     "quem": "Ron DeSantis, governador da Flórida"
+    },
+    {
+     "texto": "Destroços atingiram casas e 'tudo estava em chamas', inclusive a estrada.",
+     "quem": "Moradores ouvidos pelo New York Post"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Nenhuma das matérias menciona brasileiros entre as vítimas; a cobertura brasileira, da direita (Oeste, Jovem Pan) à esquerda (DCM, Fórum), reproduz agências e TV americanas.",
+   "ponto_cego": "Cobertura homogênea e factual em todos os lados; nenhum veículo trouxe ainda a identidade das vítimas ou o operador da aeronave.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/02/nove-pessoas-morrem-em-acidente-de-aviao-na-florida-veja-o-que-se-sabe.ghtml",
+     "angulo": "O que se sabe: Learjet 60, cratera no asfalto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Queda de jatinho mata 9 pessoas nos Estados Unidos",
+     "url": "https://revistaoeste.com/mundo/queda-de-jatinho-mata-9-pessoas-nos-estados-unidos/",
+     "angulo": "Oeste: queda perto de Mar-a-Lago.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
+     "url": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC Brasil: 'tragédia horrível', a 14 km de Mar-a-Lago.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "IMAGENS FORTES: o momento em que jato executivo mata nove pessoas na Flórida",
+     "url": "https://www.diariodocentrodomundo.com.br/queda-jato-executivo-mata-nove-pessoas-florida/",
+     "angulo": "DCM: vídeo do momento da queda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Nove pessoas morrem após queda de avião em bairro residencial de Palm Beach, na Flórida",
+     "url": "https://www.estadao.com.br/internacional/nove-pessoas-morrem-apos-queda-de-aviao-em-bairro-residencial-de-palm-beach-na-florida/",
+     "angulo": "Estadão/AP: mergulho de nariz e bola de fogo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "“Estamos sem tempo”: áudio registra queda de avião que matou 9 na Flórida",
+     "url": "https://www.cnnbrasil.com.br/internacional/estamos-sem-tempo-audio-registra-queda-de-aviao-na-florida/",
+     "angulo": "Áudio: 'estamos sem tempo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Nine die in ‘cataclysmic’ Florida business jet crash",
+     "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+     "angulo": "Al Jazeera: sem vítimas no solo, diz DeSantis.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Nine killed as business jet crashes into South Florida neighbourhood",
+     "url": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+     "angulo": "AFP: piloto relatou gelo e turbulência severa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "All nine people aboard business jet that crashed in Florida have died",
+     "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+     "angulo": "Guardian: voo de Austin para as Bahamas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Residents describe moment Learjet plummets and explodes in Florida mobile home park: ‘Everything was on fire’",
+     "url": "https://nypost.com/2026/11/02/us-news/residents-describe-moment-learjet-plummets-and-explodes-in-florida-mobile-home-park-everything-was-on-fire/",
+     "angulo": "NY Post: relatos de moradores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "\"Nos vamos a estrellar. Se nos acaba el tiempo\": el último mensaje desde el avión que cayó en Florida",
+     "url": "https://www.clarin.com/mundo/vamos-estrellar-acaba-tiempo-ultimo-mensaje-avion-cayo-florida_0_QJvQcD8KFz.html",
+     "angulo": "Clarín: última mensagem da tripulação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Nove pessoas morrem após queda de avião em avenida na Flórida; veja vídeo",
+     "url": "https://jovempan.com.br/mundo/nove-pessoas-morrem-apos-queda-de-aviao-em-avenida-na-florida-veja-video/",
+     "angulo": "Jovem Pan: rota segundo a FAA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Acidente de jatinho mata 9 pessoas no sul da Flórida; veja vídeo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/acidente-de-jatinho-mata-9-pessoas-no-sul-da-florida.shtml",
+     "angulo": "Folha: nove mortos no sul da Flórida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "trump-ameaca-golpe-contundente-no-ira-e-diz-que-eua-estao-acabando-com-teera-netanyahu-pressiona-por-ataque-apos-midterms-ira-alerta-guerra-mais-longa-3o-dia-de-negociacoes-em-doha",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump diz que pode dar um 'golpe contundente' no Irã e que o país 'não tem mais defesas nem líderes'; Netanyahu pressiona por ataque logo após as midterms, Teerã alerta que uma nova guerra seria mais longa, negociadores iranianos têm terceiro dia de conversas em Doha e o Golfo pede desescalada",
+   "lide": "Com o cessar-fogo por um fio, os países do Golfo se preparam para uma retomada dos ataques americanos e israelenses após a eleição de terça-feira nos EUA, enquanto o Catar tenta negociar a reabertura do Estreito de Hormuz. O Irã diz que a decisão sobre a duração de uma nova guerra não será de Trump.",
+   "contexto": "Na sexta-feira, Trump ameaçou atacar 'um ou dois sites' no Irã, incluindo o monte Kolang, perto de Natanz, e o líder supremo Ali Khamenei ordenou resposta 'sem limites geográficos'. Petroleiros foram atingidos em Hormuz e o Irã apresentou um plano de dois dias para reabrir o estreito.",
+   "fatos": [
+    {
+     "texto": "Trump afirmou em comício em Iowa, em 1º de novembro, que poderá ser necessário dar um 'golpe contundente' no Irã; na véspera, disse que os EUA 'estão acabando' com o país, que não teria mais defesas nem líderes.",
+     "base": "3 fontes independentes (Estadão, Jovem Pan, AFP)"
+    },
+    {
+     "texto": "O Irã declarou em 1º de novembro que uma nova guerra com os EUA poderia durar mais que a anterior e que Trump não determinaria sua duração; o país ameaça retaliação sem limites geográficos.",
+     "base": "3 fontes independentes (AFP, Estadão, g1)"
+    },
+    {
+     "texto": "Negociadores iranianos estiveram em Doha em 1º de novembro para o terceiro dia consecutivo de conversas com mediadores do Catar sobre o fim da guerra e a reabertura de Hormuz.",
+     "base": "3 fontes independentes (Valor, The Guardian, NPR)"
+    },
+    {
+     "texto": "Dois ataques aéreos israelenses mataram ao menos oito pessoas em Gaza em 1º de novembro, incluindo uma criança, apesar da trégua em vigor desde outubro de 2025.",
+     "base": "3 fontes independentes (BBC, DW, Operamundi)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Netanyahu pressiona Trump a atacar o Irã imediatamente após as midterms, em ligação franca no sábado sobre o estado das negociações.",
+     "quem": "Axios, com uma fonte israelense e uma americana"
+    },
+    {
+     "texto": "Trump descartou novos ataques antes da eleição de terça-feira.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "Os Estados do Golfo temem que um novo ataque a um Irã mais preparado desencadeie uma guerra ainda mais destrutiva na região, e os líderes reunidos em Manama pediram desescalada.",
+     "quem": "Bloomberg e Le Monde, com diplomatas do Golfo"
+    },
+    {
+     "texto": "O Catar tenta negociar a liberação de US$ 6 bilhões em ativos iranianos que poderia levar à reabertura de Hormuz antes das midterms; negociadores estão 'preparados para o pior'.",
+     "quem": "The Guardian, com autoridades do Golfo"
+    },
+    {
+     "texto": "Moradores de Teerã estocam provisões convencidos de que os bombardeios serão retomados após 3 de novembro.",
+     "quem": "Clarín"
+    },
+    {
+     "texto": "O Irã admite que pode revisar sua doutrina nuclear, sob pressão de parlamentares.",
+     "quem": "Operamundi, com base em autoridades iranianas"
+    },
+    {
+     "texto": "O Estreito de Hormuz continua perigoso e caro para a navegação, apesar das afirmações dos EUA de que está aberto.",
+     "quem": "Al Jazeera"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O Irã 'não tem mais defesas nem líderes'.",
+     "rotulo": "Exagerado",
+     "explicacao": "O líder supremo Ali Khamenei e o governo iraniano seguem no poder e emitiram ameaças de resposta no mesmo fim de semana; não há verificação independente da destruição total das defesas iranianas.",
+     "onde_circula": "declaração de Trump, Jovem Pan",
+     "checagem": []
+    },
+    {
+     "alegacao": "O Estreito de Hormuz está aberto.",
+     "rotulo": "Falta contexto",
+     "explicacao": "Os EUA afirmam que o estreito está aberto, mas petroleiros foram atingidos nos últimos dias e a navegação segue com riscos e custos elevados, segundo a Al Jazeera e o Guardian.",
+     "onde_circula": "declarações do governo americano",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Para o Brasil, o efeito imediato é no preço dos combustíveis: a Petrobras citou as tensões no Oriente Médio ao reajustar o querosene de aviação em 7,2%.",
+   "ponto_cego": "Nenhum veículo brasileiro noticiou a pressão de Netanyahu relatada pelo Axios nem a reunião do Golfo em Manama; veículos de direita (Jovem Pan, Terra Brasil) reproduzem as declarações de Trump sem a resposta iraniana, e os de esquerda não registram que Trump descartou ataques antes das eleições.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "trump-ameaca-ira-um-ou-dois-sites-kolang-natanz-khamenei-resposta-sem-limites-geograficos-catar-doha-plano-hormuz-2-dias",
+    "titulo": "Trump ameaça atacar 'um ou dois sites' no Irã, incluindo o monte Kolang, perto de Natanz, 'em dez minutos'; Khamenei ordena resposta 'imediata e sem limites geográficos', negociadores iranianos se reúnem com mediadores do Catar em Doha, e Teerã fala em plano de dois dias para reabrir Hormuz"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Trump volta a ameaçar Irã com novos ataques e diz que poderá dar ‘golpe contundente’",
+     "url": "https://www.estadao.com.br/internacional/trump-volta-a-ameacar-ira-com-novos-ataques-e-diz-que-podera-dar-golpe-contundente-npr/",
+     "angulo": "Trump: 'golpe contundente' em algum momento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Trump has frank call with Netanyahu about next move in Iran war",
+     "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+     "angulo": "Axios: Netanyahu pressiona por ataque após as midterms.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Trump diz que EUA ‘estão acabando’ com o Irã e país não tem mais defesas, nem líderes",
+     "url": "https://jovempan.com.br/mundo/trump-diz-que-eua-estao-acabando-com-o-ira-e-pais-nao-tem-mais-defesas-nem-lideres/",
+     "angulo": "Jovem Pan: 'sem defesas nem líderes'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Iran warns renewed war with US could outlast previous conflict",
+     "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+     "angulo": "AFP: Irã alerta para guerra mais longa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Irã e mediadores do Catar travam 3º dia de negociações para fim de guerra",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/01/ir-e-mediadores-do-catar-travam-3-dia-de-negociaes-para-fim-de-guerra.ghtml",
+     "angulo": "Terceiro dia de negociações em Doha.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+     "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+     "angulo": "Guardian: US$ 6 bi em ativos e a reabertura de Hormuz.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/01/nova-guerra-pode-ser-mais-longa-alerta-ira-apos-novas-ameacas-de-trump.ghtml",
+     "angulo": "g1: resposta iraniana às ameaças.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "npr",
+     "titulo": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+     "angulo": "NPR: Golfo em alerta com mediação do Catar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Gulf States Fear Fiercer Iran Retaliation If US Strikes",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/gulf-states-fear-fiercer-iran-retaliation-if-us-strikes-again",
+     "angulo": "Bloomberg: Golfo teme retaliação mais feroz.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Les pays du Golfe en plein désarroi, à l’aube d’une possible reprise des frappes américaines sur l’Iran",
+     "url": "https://www.lemonde.fr/international/article/2026/11/02/a-l-aube-d-une-possible-reprise-des-frappes-en-iran-les-pays-du-golfe-en-plein-desarroi_6805119_3210.html",
+     "angulo": "Le Monde: líderes do Golfo em Manama pedem desescalada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Para los iraníes, las elecciones en Estados Unidos son el inicio de nuevos bombardeos",
+     "url": "https://www.clarin.com/mundo/iranies-elecciones-estados-unidos-inicio-nuevos-bombardeos_0_BC2IGD44QH.html",
+     "angulo": "Clarín: iranianos estocam provisões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
+     "url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+     "angulo": "Euronews: Khamenei ameaça, mas Irã vê avanços na mediação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Irã avalia revisar doutrina nuclear e reconhece alteração no tom dos EUA",
+     "url": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-avalia-revisar-doutrina-nuclear-e-reconhece-alteracao-no-tom-dos-eua/",
+     "angulo": "Irã avalia revisar doutrina nuclear.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "fim-da-tregua-em-kherson-russia-recusa-prorrogar-apps-de-alerta-hackeados-em-kiev-e-moscou-ucrania-retoma-ataques-a-refinarias-contra-trump-bulgaria-reelege-iotova-pro-moscou",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trégua mais longa da guerra termina em Kherson após recusa da Rússia em prorrogar, apps de alerta de Kiev e Moscou são hackeados com falsos avisos nucleares, Ucrânia retoma ataques a refinarias russas contra a vontade de Trump, e a Bulgária reelege a presidente pró-Moscou Iliana Iotova",
+   "lide": "O cessar-fogo local que permitiu evacuar cerca de 700 moradores de Oleshky terminou na noite de domingo (1º), e ambos os lados se acusaram de ataques cibernéticos aos sistemas de alerta à população. No mesmo dia, a Bulgária, país da zona do euro, consolidou uma liderança cética em relação ao apoio à Ucrânia.",
+   "contexto": "Na quinta-feira, os EUA aprovaram a venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões, e a trégua em Oleshky foi a primeira operação humanitária conjunta da guerra. Trump pressiona Kiev a não atacar refinarias russas antes das midterms.",
+   "fatos": [
+    {
+     "texto": "A trégua local na região de Kherson, a mais longa da guerra, terminou em 1º de novembro após a Rússia recusar prorrogá-la; ela permitiu uma missão humanitária à cidade ocupada de Oleshky.",
+     "base": "3 fontes independentes (AFP, The Guardian, Le Monde)"
+    },
+    {
+     "texto": "A Força Aérea ucraniana afirmou que o aplicativo nacional de alerta aéreo foi hackeado e emitiu falsos avisos de risco nuclear e químico sobre Kiev em 1º de novembro.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Al Jazeera)"
+    },
+    {
+     "texto": "A Rússia afirmou em seguida que o aplicativo de seu Ministério de Situações de Emergência também foi alvo de ataque cibernético, e os dois países se acusaram mutuamente.",
+     "base": "2 fontes independentes (AFP, Al Jazeera)"
+    },
+    {
+     "texto": "Iliana Iotova, presidente interina, venceu o segundo turno na Bulgária em 1º de novembro e se tornou a primeira mulher eleita presidente do país.",
+     "base": "3 fontes independentes (Financial Times, g1, Bloomberg)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Ucrânia retomou ataques a refinarias russas em desafio à pressão de Trump, e o Kremlin diz que Kiev 'simplesmente ignora' os desejos americanos.",
+     "quem": "The Guardian"
+    },
+    {
+     "texto": "Kiev sinalizou que pode interromper os ataques a refinarias em troca de mísseis Patriot.",
+     "quem": "AFP"
+    },
+    {
+     "texto": "Putin atenderia uma ligação de Zelensky e nunca se recusou a dialogar.",
+     "quem": "Yuri Ushakov, assessor do Kremlin"
+    },
+    {
+     "texto": "A vitória de Iotova consolida a posição pró-Kremlin e o controle do premiê Rumen Radev, cético quanto à Ucrânia.",
+     "quem": "Financial Times e Bloomberg"
+    },
+    {
+     "texto": "Soldados ucranianos avançam 15 km por gasodutos subterrâneos na 'Operação Veles' para cercar russos.",
+     "quem": "Gazeta do Povo, com base em relatos ucranianos"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Há risco de radiação e ataque químico em Kiev.",
+     "rotulo": "Falso",
+     "explicacao": "Os alertas foram emitidos pelo aplicativo oficial após uma invasão hacker, segundo a Força Aérea ucraniana; não houve incidente nuclear ou químico, e a Rússia relatou ataque semelhante ao seu próprio app.",
+     "onde_circula": "aplicativo de alerta ucraniano, redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A Folha informa que o brasileiro Hendrick Lima Gonçalves, 22, morreu lutando pelo Exército da Ucrânia, onde atuava como instrutor de tiro desde maio.",
+   "ponto_cego": "Veículos de esquerda e de direita brasileiros não cobriram o fim da trégua nem a eleição na Bulgária; a Gazeta do Povo publica os avanços ucranianos por gasodutos sem a versão russa, e nenhum veículo brasileiro registra a retomada dos ataques a refinarias contra a vontade de Trump.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "eua-aprovam-500-patriot-ucrania-2-1-bi-evacuacao-oleshky-primeira-operacao-conjunta-g20-foto-cancelada-lavrov-novaya-gazeta-fecha",
+    "titulo": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia por US$ 2,1 bilhões, e Zelensky diz que a entrega pode levar anos; Rússia e Ucrânia evacuam centenas de civis de Oleshky na primeira operação conjunta da guerra, boicote a Lavrov cancela a foto do G20 e o Novaya Gazeta anuncia fechamento"
+   },
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+     "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+     "angulo": "AFP: fim da trégua após recusa russa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Soldados da Ucrânia avançam por tubos de gás subterrâneos para cercar russos",
+     "url": "https://www.gazetadopovo.com.br/mundo/soldados-da-ucrania-avancam-por-tubos-de-gas-subterraneos-para-cercar-russos/",
+     "angulo": "Gazeta: Operação Veles por gasodutos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+     "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+     "angulo": "Al Jazeera: apps dos dois lados atacados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Moradores da Ucrânia recebem alertas de risco químico e nuclear; autoridades falam em ação hacker",
+     "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/01/moradores-da-ucrania-recebem-alerta-de-risco-quimico-e-nuclear-autoridades-falam-em-acao-hacker.ghtml",
+     "angulo": "g1: alertas falsos em Kiev.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+     "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+     "angulo": "Guardian: Ucrânia desafia Trump e ataca refinarias.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "App ucraniano de alerta de ataques sofre invasão hacker, diz Força Aérea",
+     "url": "https://www.cnnbrasil.com.br/internacional/app-ucraniano-de-alerta-de-ataques-sofre-invasao-hacker-diz-forca-aerea/",
+     "angulo": "CNN Brasil: invasão hacker, diz Força Aérea.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Putin atenderia ligação de Zelensky para negociar guerra, diz agência",
+     "url": "https://veja.abril.com.br/mundo/putin-atenderia-ligacao-de-zelensky-para-negociar-guerra-diz-agencia/",
+     "angulo": "Kremlin: Putin atenderia Zelensky.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
+     "url": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+     "angulo": "AFP: Kiev pode parar ataques a refinarias por Patriots.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
+     "url": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv",
+     "angulo": "Fox: pânico em Kiev com alerta falso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Bulgarians re-elect pro-Russian president",
+     "url": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
+     "angulo": "FT: Bulgária reelege presidente pró-Rússia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Presidente interina da Bulgária vence 2º turno das eleições no país",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/02/presidente-interina-da-bulgaria-vence-2o-turno-das-eleicoes-no-pais.ghtml",
+     "angulo": "g1: Iotova vence 2º turno.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Presidential Win Strengthens Bulgaria Ukraine-Skeptic Leader",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/incumbent-yotova-wins-bulgarian-president-vote-exit-poll-shows",
+     "angulo": "Bloomberg: vitória fortalece Radev, cético da Ucrânia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Brasileiro de 22 anos morre na guerra na Ucrânia",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/brasileiro-de-22-anos-morre-na-guerra-na-ucrania.shtml",
+     "angulo": "Folha: brasileiro de 22 anos morre na guerra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-01"
+    }
+   ]
+  }
+ ]
+}

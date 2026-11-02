@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-01T09:07:44+00:00",
+ "atualizado_em": "2026-11-02T09:08:22+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-02",
+   "arquivo": "data/edicoes/2026-11-02.json",
+   "historias": 12,
+   "gerado_em": "2026-11-02T06:08:22-03:00",
+   "manchete": "Fantástico mostra três registros de Flávio no controle migratório argentino em 40 minutos, um ex-agente de inteligência de Israel na operação e uma van para a família; PF apura se o senador saiu de Brasília no avião do advogado Willer Tomaz"
+  },
   {
    "data": "2026-11-01",
    "arquivo": "data/edicoes/2026-11-01.json",
