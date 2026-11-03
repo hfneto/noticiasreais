@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-02T09:08:22+00:00",
+ "atualizado_em": "2026-11-03T09:07:19+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-03",
+   "arquivo": "data/edicoes/2026-11-03.json",
+   "historias": 12,
+   "gerado_em": "2026-11-03T06:07:19-03:00",
+   "manchete": "Flávio recorre ao STF para reaver os passaportes e tirar Moraes do inquérito, faz a primeira aparição pública nos EUA em culto evangélico na Flórida ao lado de Eduardo e posta 'não acabou'; Fantástico aponta que o voo custou US$ 150 mil pagos por intermediário, e Kassab chama a carta do senador de 'desastrosa'"
+  },
   {
    "data": "2026-11-02",
    "arquivo": "data/edicoes/2026-11-02.json",

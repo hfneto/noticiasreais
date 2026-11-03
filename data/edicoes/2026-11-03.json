@@ -1,0 +1,2268 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-03",
+ "gerado_em": "2026-11-03T06:07:19-03:00",
+ "historias": [
+  {
+   "id": "flavio-recorre-ao-stf-contra-apreensao-de-passaportes-e-pede-impedimento-de-moraes-vai-a-culto-na-florida-com-eduardo-voo-custou-816-mil-pago-por-intermediario-kassab-chama-carta-de-desastrosa",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Flávio recorre ao STF para reaver os passaportes e tirar Moraes do inquérito, faz a primeira aparição pública nos EUA em culto evangélico na Flórida ao lado de Eduardo e posta 'não acabou'; Fantástico aponta que o voo custou US$ 150 mil pagos por intermediário, e Kassab chama a carta do senador de 'desastrosa'",
+   "lide": "Uma semana depois de deixar o país, o senador tenta na Justiça reverter as restrições impostas por Alexandre de Moraes enquanto a Polícia Federal e a TV Globo detalham quem pagou e quem operou a saída pela Argentina. No campo político, aliados de centro e lideranças evangélicas começam a tomar distância.",
+   "contexto": "Flávio deixou o Brasil em 27 de outubro sem entregar os passaportes exigidos pelo STF e publicou no domingo nota em que diz não se arrepender. O Fantástico mostrou três registros migratórios na Argentina em 40 minutos e a presença de um ex-agente de inteligência israelense na operação.",
+   "fatos": [
+    {
+     "texto": "A defesa de Flávio Bolsonaro recorreu ao STF em 2 de novembro pedindo a revogação da decisão de Moraes que determinou a entrega dos passaportes e o impedimento do ministro no inquérito sobre lavagem de dinheiro com o advogado Willer Tomaz, com redistribuição a André Mendonça.",
+     "base": "4 fontes independentes (g1, CartaCapital, A Tarde, Terra Brasil)"
+    },
+    {
+     "texto": "Flávio participou em 1º de novembro de culto na igreja Celeiro, em Coral Springs, na Flórida, acompanhado da mulher e do irmão Eduardo, na primeira aparição pública desde que chegou aos EUA.",
+     "base": "4 fontes independentes (Estadão, Gazeta do Povo, SBT, Terra Brasil)"
+    },
+    {
+     "texto": "A investigação sobre a saída do senador aponta a participação de um ex-oficial do serviço de inteligência de Israel, identificado como Menachem Booky Halevy, e de uma agência de turismo apontada como 'fantasma'.",
+     "base": "3 fontes independentes (Estadão, Folha, Terra Brasil)"
+    },
+    {
+     "texto": "Flávio publicou no X, em 2 de novembro, em resposta ao irmão Carlos, a mensagem 'não acabou'.",
+     "base": "A Tarde, com base na publicação do senador"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O voo da Argentina aos EUA custou US$ 150 mil (cerca de R$ 816 mil) e foi pago por um intermediário do setor de aviação que mora em território americano.",
+     "quem": "g1/Fantástico, com base em documentos"
+    },
+    {
+     "texto": "Uma das linhas de apuração da PF é que a esposa e as filhas de Flávio viajaram em um voo até Cascavel (PR) na manhã de 27 de outubro.",
+     "quem": "Igor Gadelha (Metrópoles)"
+    },
+    {
+     "texto": "Fachin deve negar o pedido para afastar Moraes da investigação.",
+     "quem": "O Globo, com base em interlocutores do STF"
+    },
+    {
+     "texto": "A saída de Flávio e a carta publicada nos EUA foram 'desastrosas' e desgastam, sem eliminar, o bolsonarismo.",
+     "quem": "Gilberto Kassab (PSD)"
+    },
+    {
+     "texto": "A fuga leva militares a abraçar Tarcísio de Freitas como nome da direita para 2030.",
+     "quem": "Folha, com base em relatos de oficiais"
+    },
+    {
+     "texto": "Lideranças evangélicas marcam distância estratégica do bolsonarismo após o revés nas urnas e a carta do senador.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "A decisão de Moraes de apreender os passaportes 'junta-se a seu histórico de abusos' e municia a alegação de perseguição política.",
+     "quem": "Folha (editorial), repercutido pelo Terra Brasil"
+    },
+    {
+     "texto": "Ao atrelar seu destino a Trump, Flávio adotou um caminho arriscado, e seus argumentos sobre fraude 'são muito fracos'.",
+     "quem": "James N. Green, historiador (Universidade Brown), ao Valor"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Flávio Bolsonaro é 'foragido' e está 'procurado' pela Justiça.",
+     "rotulo": "Distorcido",
+     "explicacao": "O senador descumpriu a ordem de entregar os passaportes e é investigado, mas não há mandado de prisão contra ele nem inclusão em lista de procurados; os cartazes de 'procurado' espalhados nos EUA são material não oficial de ativistas.",
+     "onde_circula": "cartazes de ativistas nos EUA, Revista Fórum",
+     "checagem": []
+    },
+    {
+     "alegacao": "Alexandre de Moraes tem ligações com o Banco Master que o tornam impedido de relatar o caso.",
+     "rotulo": "Em apuração",
+     "explicacao": "A alegação é da defesa de Flávio na petição ao STF; cabe a Fachin decidir sobre o impedimento, e não há decisão ou prova pública que confirme a relação apontada.",
+     "onde_circula": "Diário do Poder, petição da defesa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados do governo tratam o recurso como manobra de um 'foragido' e destacam o custo do voo e a ajuda estrangeira revelados pela PF e pelo Fantástico.",
+    "oposicao": "A oposição bolsonarista apresenta o recurso como reação a um juiz parcial e enquadra o culto como gesto de fé do senador perseguido."
+   },
+   "visao_de_fora": "O historiador americano James Green diz ao Valor que o desgaste de Trump nas midterms põe em xeque o futuro de Flávio nos EUA; o g1 discute se democratas poderiam agir contra ele.",
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Terra Brasil) não noticiaram o pagamento do voo nem a apuração sobre o avião da família; veículos de esquerda (247, Fórum, DCM) tratam Flávio como foragido, o que não corresponde à situação processual.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "flavio-nota-nao-me-arrependo-de-nada-ataca-globo-e-moraes-defesa-pede-impedimento-e-troca-por-mendonca-acao-popular-pede-suspensao-do-salario-pl-quer-tirar-moraes",
+    "titulo": "Flávio publica nota dos EUA dizendo que 'não se arrepende de absolutamente nada', ataca Moraes e a Globo; defesa pede a Fachin o impedimento de Moraes e a troca por Mendonça, e ação popular pede a suspensão do salário de R$ 46 mil do senador"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Flávio Bolsonaro recorre contra apreensão de passaportes; defesa pede que Moraes seja declarado impedido em investigação",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-recorre-contra-apreensao-de-passaportes-defesa-pede-tambem-que-moraes-seja-declarado-impedido-em-investigacao.ghtml",
+     "angulo": "Recurso pede revogação das cautelares e impedimento de Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Flávio Bolsonaro faz primeira aparição pública nos EUA após deixar o Brasil",
+     "url": "https://terrabrasilnoticias.com/2026/11/flavio-bolsonaro-faz-primeira-aparicao-publica-nos-eua-apos-deixar-o-brasil/",
+     "angulo": "Terra Brasil: aparição em culto, foto divulgada pela igreja.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "O caminho dos R$ 816 mil: como foi pago o voo de Flávio Bolsonaro aos EUA",
+     "url": "https://g1.globo.com/fantastico/noticia/2026/11/03/o-caminho-dos-r-816-mil-como-foi-pago-o-voo-de-flavio-bolsonaro-aos-eua.ghtml",
+     "angulo": "O caminho dos R$ 816 mil: quem pagou o voo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro pede reativação de passaportes e retirada de Moraes de seu caso",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-passaportes-retirada-moraes/",
+     "angulo": "Fórum chama o senador de 'foragido'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Flávio Bolsonaro vai a culto evangélico em primeira aparição pública após fuga para os EUA",
+     "url": "https://www.estadao.com.br/politica/flavio-culto-evangelico-primeira-aparicao-publica-fuga-eua-npr/",
+     "angulo": "Estadão: culto na Celeiro Casa de Oração.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Kassab critica saída de Flávio do Brasil e chama carta nos EUA de ‘desastrosa’",
+     "url": "https://jovempan.com.br/politica/kassab-critica-saida-de-flavio-do-brasil-e-chama-carta-nos-eua-de-desastrosa/",
+     "angulo": "Kassab: carta 'desastrosa'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fuga de Flávio teve participação de agência ‘fantasma’ e ex-oficial de inteligência de Israel",
+     "url": "https://www.estadao.com.br/politica/tres-entradas-na-argentina-em-40-minutos-os-bastidores-da-fuga-de-flavio-bolsonaro-npr/",
+     "angulo": "Estadão: agência 'fantasma' e ex-oficial de inteligência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ativistas espalham cartazes de “procurado” com foto de Flávio Bolsonaro",
+     "url": "https://www.gazetadopovo.com.br/republica/ativistas-espalham-cartazes-de-procurado-com-foto-de-flavio-bolsonaro/",
+     "angulo": "Gazeta: cartazes não oficiais; senador não é procurado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Flávio Bolsonaro recorre contra ordem de apreensão de passaportes e pede impedimento de Moraes no caso",
+     "url": "https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/",
+     "angulo": "CartaCapital: recurso no inquérito com Willer Tomaz.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "PF apura voo que pode ter levado esposa e filhas de Flávio até a fronteira",
+     "url": "https://www.metropoles.com/colunas/igor-gadelha/pf-apura-voo-que-pode-ter-levado-esposa-e-filhas-de-flavio-ate-a-fronteira",
+     "angulo": "PF apura voo da família até Cascavel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Defesa de Flávio aponta ligações de Moraes com Master",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/lsf-brasil/defesa-de-flavio-aponta-ligacoes-de-moraes-com-master",
+     "angulo": "Diário do Poder: defesa aponta ligações de Moraes com o Master.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fuga de Flávio Bolsonaro aos EUA após derrota leva militares a abraçarem Tarcísio",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/fuga-de-flavio-bolsonaro-aos-eua-apos-derrota-leva-militares-a-abracarem-tarcisio.shtml",
+     "angulo": "Folha: militares abraçam Tarcísio.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Desgaste de Trump põe em xeque futuro de Flávio nos EUA",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/03/desgaste-de-trump-poe-em-xeque-futuro-de-flavio-nos-eua.ghtml",
+     "angulo": "Valor: desgaste de Trump põe em xeque futuro de Flávio.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "FOLHA: Decisão de Moraes sobre passaportes de Flávio junta-se a seu histórico de abusos e acaba municiando alegação de perseguição política",
+     "url": "https://terrabrasilnoticias.com/2026/11/folha-decisao-de-moraes-sobre-passaportes-de-flavio-junta-se-a-seu-historico-de-abusos-e-acaba-municiando-alegacao-de-perseguicao-politica/",
+     "angulo": "Terra Brasil repercute editorial da Folha contra Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "senado-vota-pec-da-seguranca-com-impasse-sobre-maioridade-penal-lula-condiciona-ministerio-da-seguranca-a-aprovacao-stf-faz-audiencia-sobre-proibicao-das-bets-com-34-expositores",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "Senado vota hoje a PEC da Segurança Pública com impasse sobre a redução da maioridade penal, que o Planalto quer fora do texto; Lula condiciona a criação do Ministério da Segurança à aprovação, e o STF faz audiência pública sobre a proibição das bets, cuja arrecadação bancaria a nova pasta",
+   "lide": "O governo joga suas fichas para aprovar em dois turnos, no mesmo dia, a emenda que amplia o papel federal no combate ao crime organizado, mas a defesa da redução da maioridade feita por Lula na campanha virou munição da oposição. Em paralelo, Luiz Fux ouve 34 entidades sobre a medida provisória que proibiu as apostas on-line.",
+   "contexto": "A PEC já passou pela Câmara; o governo quer evitar que o texto volte para lá. Lula defendeu a redução da maioridade penal para crimes hediondos a dois dias do segundo turno. A MP 1.394/2026 proibiu o funcionamento das bets, e o novo ministério dependeria de recursos ligados ao setor.",
+   "fatos": [
+    {
+     "texto": "O plenário do Senado deve votar em 3 de novembro a PEC da Segurança Pública; governistas querem votar os dois turnos no mesmo dia, e a oposição articula emenda para reduzir a maioridade penal em crimes hediondos.",
+     "base": "4 fontes independentes (CNN Brasil, Metrópoles, g1, Estadão)"
+    },
+    {
+     "texto": "O governo planeja criar o Ministério da Segurança Pública após a aprovação da PEC, e Lula condiciona a criação da pasta à aprovação no Congresso.",
+     "base": "3 fontes independentes (g1, Folha, O Globo)"
+    },
+    {
+     "texto": "O ministro Luiz Fux realiza em 3 de novembro audiência pública no STF com 34 expositores sobre a MP que proibiu as bets, incluindo clubes de futebol, Abras e os ministérios da Saúde e da Justiça, incluídos a pedido da AGU.",
+     "base": "3 fontes independentes (CNN Brasil, Congresso em Foco, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Dos 34 expositores convocados, ao menos 22 já se posicionaram pela derrubada da MP das bets.",
+     "quem": "CNN Brasil, com base em levantamento próprio"
+    },
+    {
+     "texto": "A redução da maioridade penal defendida por Lula 'subiu no telhado' e o Planalto quer o tema fora da PEC.",
+     "quem": "Coluna do Estadão e Milena Teixeira (Metrópoles)"
+    },
+    {
+     "texto": "Lula 'aplicou um calote' nos eleitores ao recuar da maioridade penal.",
+     "quem": "Deltan Dallagnol (Novo-PR), senador eleito"
+    },
+    {
+     "texto": "O fim das bets reduz os efeitos da PEC e inviabiliza o novo ministério, que dependeria da arrecadação do setor.",
+     "quem": "Folha (editorial)"
+    },
+    {
+     "texto": "A proibição das bets pode empurrar R$ 28,1 bilhões para o mercado clandestino e fortalecer as apostas ilegais.",
+     "quem": "Estudo citado pelo Diário do Poder"
+    },
+    {
+     "texto": "O novo ministério deve herdar PF e PRF, reduzindo a estrutura da Justiça, com foco em facções e roubos.",
+     "quem": "O Globo, com base em planos do governo"
+    },
+    {
+     "texto": "A PEC vai testar a capacidade de coalizão do governo Lula.",
+     "quem": "Mateus de Albuquerque, cientista político (Brasil de Fato)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A proibição das bets empurra R$ 28 bilhões para o mercado clandestino.",
+     "rotulo": "Em apuração",
+     "explicacao": "A cifra vem de um estudo citado pelo Diário do Poder sem detalhamento público de metodologia; o STF ainda discute os efeitos da MP e não há dado oficial sobre migração para apostas ilegais.",
+     "onde_circula": "Diário do Poder, lobby do setor de apostas",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta a PEC como prioridade contra o crime organizado e tenta blindá-la da discussão sobre maioridade penal, que divide o PT.",
+    "oposicao": "A oposição cobra a redução da maioridade prometida por Lula na campanha e enquadra o recuo como 'calote'."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, BdF) cobrem a audiência das bets sem registrar que a maioria dos convidados é contra a proibição; veículos de direita (Diário do Poder, Terra Brasil) destacam o 'calote' e o mercado clandestino, mas não o conteúdo da PEC.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "alcolumbre-pauta-pec-seguranca-terca-ministerio-lula-maioridade-penal-senadores-rejeitam-anistia-ate-dosimetria-stf-pl-lanca-marinho-pp-racha",
+    "titulo": "Alcolumbre pauta a PEC da Segurança para terça, condição de Lula para criar o Ministério da Segurança Pública, com a maioridade penal como impasse; senadores rejeitam anistia a Bolsonaro até o STF julgar a dosimetria, ala do Supremo quer votar ainda em 2026, e PL lança Marinho enquanto o PP racha"
+   },
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Senado inicia hoje análise da PEC da Segurança com impasse sobre maioridade",
+     "url": "https://www.cnnbrasil.com.br/politica/senado-inicia-hoje-debate-da-pec-da-seguranca-com-impasse-sobre-maioridade/",
+     "angulo": "CNN: dois turnos no mesmo dia e emenda da oposição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Dallagnol acusa Lula de aplicar calote nos eleitores sobre maioridade penal",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/lsf-brasil/dallagnol-acusa-lula-de-aplicar-calote-nos-eleitores-sobre-maioridade-penal",
+     "angulo": "Dallagnol: 'calote' sobre maioridade penal.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "PEC da Segurança amplia papel federal na área e governo Lula planeja estrutura de novo ministério",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/pec-da-seguranca-amplia-papel-federal-na-area-e-governo-lula-planeja-estrutura-de-novo-ministerio.shtml",
+     "angulo": "Folha: PEC amplia papel federal e governo planeja ministério.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "STF debate proibição das bets em audiência com clubes e governo",
+     "url": "https://www.brasil247.com/brasilia/stf-debate-proibicao-das-bets-em-audiencia-com-clubes-e-governo/",
+     "angulo": "247: Fux ouve 34 entidades sobre a MP.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Planalto aposta na aprovação da PEC da Segurança, mas redução da maioridade penal sobe no telhado",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/reducao-da-maioridade-penal-que-lula-defendeu-a-dois-dias-do-2-turno-sobe-no-telhado/",
+     "angulo": "Coluna do Estadão: maioridade 'sobe no telhado'.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Maioria convocada por Fux para audiência sobre bets é contra a proibição",
+     "url": "https://www.cnnbrasil.com.br/politica/maioria-convocada-por-fux-para-audiencia-sobre-bets-e-contra-a-proibicao/",
+     "angulo": "CNN: 22 dos 34 expositores contra a proibição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Planalto entra em campo e quer maioridade penal fora da PEC da Segurança",
+     "url": "https://www.metropoles.com/colunas/milena-teixeira/planalto-entra-em-campo-e-quer-maioridade-penal-de-fora-da-pec-da-seguranca",
+     "angulo": "Metrópoles: Guimarães aciona líderes para aprovar nesta semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Proibição das bets pode empurrar R$ 28 bilhões para mercado clandestino",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/lsf-brasil/proibicao-das-bets-pode-empurrar-r-28-bilhoes-para-mercado-clandestino",
+     "angulo": "Diário do Poder: R$ 28 bi para o mercado clandestino.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "PEC da Segurança Pública vai testar capacidade de coalizão do governo Lula, afirma cientista político",
+     "url": "https://www.brasildefato.com.br/2026/11/02/pec-da-seguranca-publica-vai-testar-capacidade-de-coalizacao-do-governo-lula-afirma-cientista-politico/",
+     "angulo": "BdF: PEC testa coalizão do governo.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fim das bets reduz efeitos da PEC da Segurança e inviabiliza o novo ministério",
+     "url": "https://www1.folha.uol.com.br/opiniao/2026/11/fim-das-bets-reduz-efeitos-da-pec-da-seguranca-e-inviabiliza-o-novo-ministerio.shtml",
+     "angulo": "Editorial: fim das bets inviabiliza o novo ministério.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Senado deve votar nesta terça PEC da Segurança Pública",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/03/senado-deve-votar-nesta-terca-pec-da-seguranca-publica.ghtml",
+     "angulo": "g1: tema prioritário para o governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Fux convoca ministérios da Saúde e da Justiça para discussão sobre bets",
+     "url": "https://terrabrasilnoticias.com/2026/11/fux-convoca-ministerios-da-saude-e-da-justica-para-discussao-sobre-bets/",
+     "angulo": "Terra Brasil: ministérios incluídos a pedido da AGU.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Bets: Veja os 34 participantes e horários da audiência no STF",
+     "url": "https://www.congressoemfoco.com.br/noticia/131246/bets-veja-os-34-participantes-e-horarios-da-audiencia-no-stf",
+     "angulo": "Lista dos 34 participantes da audiência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "marinho-defende-voto-aberto-da-direita-contra-alcolumbre-pl-lanca-candidatura-quarta-com-apoio-do-novo-damares-qualquer-um-menos-alcolumbre-pl-decide-sobre-motta-ze-trovao-eu-serei-o-candidato",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Rogério Marinho defende que a direita divulgue o voto para derrotar Alcolumbre, PL marca para quarta o lançamento da candidatura ao Senado com apoio do Novo e Damares diz 'qualquer um menos Alcolumbre'; na Câmara, PL reúne a bancada para decidir sobre Hugo Motta enquanto Zé Trovão insiste: 'eu serei o candidato'",
+   "lide": "A disputa pelo comando das duas Casas em fevereiro de 2027 se antecipou com o avanço do PL nas urnas. A estratégia do voto aberto busca impedir que senadores de direita apoiem Alcolumbre em segredo, e a Gazeta do Povo trata a eleição do Senado como decisiva para a direita 'conter o STF'.",
+   "contexto": "O PL terá a maior bancada do Senado a partir de fevereiro. No fim de semana, Motta acelerou acordos com 15 partidos e Zé Trovão anunciou que disputaria a Câmara se o PL não tivesse candidato.",
+   "fatos": [
+    {
+     "texto": "Rogério Marinho (PL-RN), líder da oposição no Senado, afirmou que defenderá que senadores de direita divulguem publicamente seus votos na eleição de 1º de fevereiro de 2027 para evitar apoio secreto à reeleição de Alcolumbre.",
+     "base": "3 fontes independentes (Folha, Gazeta do Povo, Brasil 247)"
+    },
+    {
+     "texto": "O PL se reúne em 4 de novembro, em Brasília, para lançar a candidatura de Marinho à presidência do Senado, com presença de representantes do Novo e de outros partidos.",
+     "base": "2 fontes independentes (Folha, Diário do Poder)"
+    },
+    {
+     "texto": "A senadora Damares Alves disse que o candidato 'pode ser qualquer um menos Alcolumbre'.",
+     "base": "Brasil 247, com declaração pública da senadora"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O PL reúne a bancada da Câmara nesta terça para debater apoio a Hugo Motta.",
+     "quem": "CNN Brasil, com base em fontes do partido"
+    },
+    {
+     "texto": "Zé Trovão desafia o acordo do PL com Motta e diz que será o candidato.",
+     "quem": "DCM e Diário do Poder, com base em vídeo do deputado"
+    },
+    {
+     "texto": "Sem tirar Alcolumbre do comando do Senado, a direita terá dificuldade de fiscalizar ministros e avançar reformas sobre o STF.",
+     "quem": "Gazeta do Povo (análise)"
+    },
+    {
+     "texto": "Alcolumbre subestimou a resistência dos novos senadores e admite dificuldade com a ala que considera 'radical'.",
+     "quem": "Terra Brasil, com base em bastidores"
+    },
+    {
+     "texto": "Rodrigo Pacheco ganha força para a vaga de Barroso no STF e tenta aprovar o novo Código Civil antes de 2027.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Os partidos que apoiaram Flávio no segundo turno elegeram 286 deputados, contra 124 dos que apoiaram Lula, embora a composição não represente a futura base do governo.",
+     "quem": "Metrópoles (levantamento)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Em 2027 o Senado terá 54 senadores favoráveis ao impeachment de ministros do STF, o número exigido para condenar.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A contagem do Diário do Poder soma posições de campanha; o impeachment exige 54 votos (dois terços) em julgamento após admissão pelo presidente do Senado, e a própria Folha registra que o PL não quer que Lula indique substitutos, o que esvazia o incentivo para votar.",
+     "onde_circula": "Diário do Poder, redes bolsonaristas",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo atua junto a Alcolumbre e aposta na reeleição dele e de Motta como anteparo ao PL.",
+    "oposicao": "A direita trata a derrota de Alcolumbre como condição para 'conter o STF' e lança candidaturas próprias nas duas Casas."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (BdF, Fórum, DCM) cobrem Zé Trovão e Damares, mas não a análise de que a direita precisa do Senado para avançar sobre o STF; a direita (Gazeta, Diário do Poder) não registra que a reunião do PL sobre Motta pode manter o acordo com o atual presidente.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "motta-acelera-acordos-com-15-partidos-ze-trovao-lanca-candidatura-pl-deve-anunciar-marinho-ao-senado-alcolumbre-aciona-modo-lula-lira-mira-senado-reforma-eleitoral-divide-camara",
+    "titulo": "Disputa pelo comando do Congresso em 2027 se antecipa: Motta acelera acordos com 15 partidos, Zé Trovão lança candidatura à Câmara se o PL não tiver nome, PL deve anunciar Rogério Marinho ao Senado na quarta, Alcolumbre 'negocia até o impossível' e o modelo da reforma eleitoral divide a Casa"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Rogério Marinho vai defender que direita divulgue voto em estratégia para derrotar Alcolumbre",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/rogerio-marinho-vai-defender-que-direita-divulgue-voto-em-estrategia-para-derrotar-alcolumbre.shtml",
+     "angulo": "Marinho: voto aberto para evitar apoio velado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Direita tenta barrar reeleição de Alcolumbre para retomar controle do Senado",
+     "url": "https://www.gazetadopovo.com.br/vida-e-cidadania/direita-tenta-barrar-reeleicao-de-alcolumbre-para-retomar-controle-do-senado/",
+     "angulo": "Gazeta: barrar Alcolumbre para retomar o Senado.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "“Pode ser qualquer um menos Alcolumbre”, diz Damares",
+     "url": "https://www.brasil247.com/brasilia/pode-ser-qualquer-um-menos-alcolumbre-diz-damares/",
+     "angulo": "Damares: 'qualquer um menos Alcolumbre'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PL reúne bancada nesta terça para debater apoio a Hugo no comando da Câmara",
+     "url": "https://www.cnnbrasil.com.br/politica/pl-reune-bancada-nesta-terca-para-debater-apoio-a-hugo-no-comando-da-camara/",
+     "angulo": "PL decide sobre apoio a Motta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Marinho terá apoio do Novo em lançamento para presidente do Senado e busca outros partidos",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/marinho-tera-apoio-do-novo-em-lancamento-para-presidente-do-senado-e-busca-outros-partidos.shtml",
+     "angulo": "Painel: Novo apoia lançamento de Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "PL se reúne quarta para discutir Rogério Marinho contra Alcolumbre",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/lsf-brasil/pl-se-reune-quarta-para-discutir-rogerio-marinho-contra-alcolumbre",
+     "angulo": "Diário do Poder: reunião do PL na quarta.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Rogério Marinho defende voto aberto na disputa contra Alcolumbre pela Presidência do Senado",
+     "url": "https://www.gazetadopovo.com.br/republica/rogerio-marinho-defende-voto-aberto-na-disputa-contra-alcolumbre-pela-presidencia-do-senado/",
+     "angulo": "Gazeta: voto aberto contra apoio velado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Alcolumbre subestimou resistência dos novos senadores e admite dificuldade para conquistar ala que considera “radical”",
+     "url": "https://terrabrasilnoticias.com/2026/11/alcolumbre-subestimou-resistencia-dos-novos-senadores-e-admite-dificuldade-para-conquistar-ala-que-considera-radical/",
+     "angulo": "Terra Brasil: Alcolumbre subestimou novos senadores.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Rogério Marinho revela plano contra Alcolumbre no Senado",
+     "url": "https://atarde.com.br/politica/rogerio-marinho-revela-plano-contra-alcolumbre-no-senado-1408049",
+     "angulo": "A Tarde: o plano de Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "No Senado, em 2027, serão 54 pró-impeachment de ministros do STF",
+     "url": "https://diariodopoder.com.br/justica/ttc-justica/no-senado-em-2027-serao-54-pro-impeachment-de-ministros-do-stf",
+     "angulo": "Diário do Poder: 54 pró-impeachment em 2027.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Partidos que apoiaram Flávio elegem 286 deputados; Lula, 124",
+     "url": "https://www.metropoles.com/brasil/partidos-que-apoiaram-flavio-elegem-286-deputados-lula-124",
+     "angulo": "Metrópoles: 286 x 124 deputados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "copom-comeca-reuniao-com-72-de-105-analistas-esperando-selic-parada-em-13-75-durigan-descarta-tabelar-juros-e-usar-reservas-gabrielli-elogia-lara-resende-gleisi-recua-fonteles-viva-o-equilibrio-fiscal",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Copom inicia reunião com a maioria do mercado apostando em Selic parada em 13,75% após a reeleição; Durigan descarta tabelar juros ou 'queimar reservas', Gabrielli, coordenador do programa de Lula, elogia Lara Resende e vê quadro fiscal 'menos dramático', Gleisi recua, e Fonteles, cotado para a Fazenda, posta 'viva o equilíbrio fiscal'",
+   "lide": "A primeira decisão de juros após a eleição ocorre em meio a uma disputa pública dentro do campo governista sobre o rumo da política econômica, com aliados de Lula atacando o 'terrorismo' do mercado e a Fazenda tentando acalmar investidores. Lula, segundo a Folha, rejeita antecipar o nome do ministro para fazer um gesto ao mercado.",
+   "contexto": "Na semana passada a bolsa caiu 18% e o dólar subiu 9%. O economista André Lara Resende publicou artigo acusando o BC de causar desequilíbrio fiscal via juros e propondo limitar a Selic; Gleisi Hoffmann elogiou o texto e o ministro Durigan negou que a ideia esteja em discussão.",
+   "fatos": [
+    {
+     "texto": "O Copom começa em 3 de novembro a reunião que define a Selic, hoje em 13,75% ao ano; de 105 bancos e consultorias ouvidos pelo Valor, 72 esperam manutenção, e pesquisa do Broadcast com 75 instituições mostra o mercado dividido entre corte de 0,25 ponto e pausa.",
+     "base": "3 fontes independentes (Valor, Estadão, Folha)"
+    },
+    {
+     "texto": "O ministro Dario Durigan afirmou em 2 de novembro que propostas como tabelar juros ou queimar reservas cambiais 'não estão em avaliação'; Aloizio Mercadante (BNDES) também negou controles sobre juros.",
+     "base": "2 fontes independentes (g1, Brasil 247)"
+    },
+    {
+     "texto": "José Sergio Gabrielli, coordenador do programa de governo de Lula, divulgou artigo em 2 de novembro dizendo que a situação fiscal é 'menos dramática' do que apontam defensores do ajuste e elogiando a proposta de Lara Resende, com revisão de benefícios tributários e controle de emendas.",
+     "base": "3 fontes independentes (Folha, Poder360, Brasil 247)"
+    },
+    {
+     "texto": "Parlamentares governistas, entre eles Lindbergh Farias (PT-RJ), intensificaram em 2 de novembro críticas ao mercado e ao BC por redução de juros antes do Copom.",
+     "base": "3 fontes independentes (Estadão, Jovem Pan, InfoMoney)"
+    },
+    {
+     "texto": "Rafael Fonteles (PT), governador do Piauí cotado para a Fazenda, publicou 'viva o equilíbrio fiscal' ao manter seu secretário estadual da Fazenda.",
+     "base": "3 fontes independentes (Folha, Estadão, InfoMoney)"
+    },
+    {
+     "texto": "Gleisi Hoffmann afirmou que o mercado financeiro tem 'DNA do autoritarismo' e, depois, disse que conversar sobre o artigo de Lara Resende não significa adotar a proposta.",
+     "base": "2 fontes independentes (Valor, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula descarta antecipar a nomeação do ministro da Fazenda para acalmar o mercado.",
+     "quem": "Painel (Folha), com base em conversas com aliados"
+    },
+    {
+     "texto": "A proposta de Lara Resende é ameaça para a inflação e para o juro de longo prazo; o dólar iria 'a 6, 7 reais' com redução artificial da Selic.",
+     "quem": "Economistas ouvidos pelo Valor e Maílson da Nóbrega (Veja)"
+    },
+    {
+     "texto": "Juros não são a única razão da dívida; o problema maior é a ausência de superávits primários.",
+     "quem": "José Júlio Senna, ex-diretor do BC (CNN Brasil)"
+    },
+    {
+     "texto": "A cobrança por ajuste fiscal é 'chantagem do mercado'; cortes devem recair sobre benefícios fiscais.",
+     "quem": "Guilherme Boulos (PSOL), ministro"
+    },
+    {
+     "texto": "Lula poderá indicar seis diretores do BC até o fim de 2027, e o mercado teme mudança de perfil.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Empresas seguram novos investimentos à espera da política econômica do Lula 4.",
+     "quem": "Folha, com gestores e empresários"
+    },
+    {
+     "texto": "A piora na percepção de risco pressiona o BC a interromper o ciclo de cortes na quarta.",
+     "quem": "Folha e Valor, com base em analistas"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo vai usar as reservas internacionais para derrubar os juros.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A ideia aparece no debate sobre o artigo de Lara Resende, mas o ministro da Fazenda e o presidente do BNDES negaram publicamente qualquer plano de usar reservas ou tabelar juros.",
+     "onde_circula": "colunas de opinião e mercado financeiro",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A ala petista enquadra a pressão do mercado como 'chantagem' e 'terrorismo', enquanto a Fazenda e Fonteles sinalizam compromisso com equilíbrio fiscal.",
+    "oposicao": "A direita e colunistas econômicos tratam o debate como risco de heterodoxia e preveem fuga de capitais e inflação."
+   },
+   "visao_de_fora": "O FT publica que o triunfo digital de Lula vira modelo global para a esquerda, mas a cobertura estrangeira do debate sobre juros é escassa; o Valor registra que o BC da Austrália elevou juros ao maior nível em 18 anos.",
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Terra Brasil) destacam Gleisi e Boulos, mas não a negativa de Durigan nem o 'viva o equilíbrio fiscal' de Fonteles; veículos de esquerda (247, ICL) omitem a divisão do mercado e as críticas técnicas à proposta.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "semana-do-copom-proposta-de-lara-resende-para-limitar-a-selic-assusta-mercado-durigan-nega-gleisi-elogia-loyola-ve-juros-de-dois-digitos-ate-2028-alerta-sobre-ajuste-de-2024",
+    "titulo": "Na semana do Copom, proposta de André Lara Resende para limitar a Selic 'assusta' o mercado; Durigan diz que tabelamento 'não está na mesa' e que não há encontro com Lula, Gleisi elogia o economista, e interlocutores alertam a Fazenda para não repetir a frustração do ajuste de 2024"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia",
+     "url": "https://valor.globo.com/impresso/noticia/2026/11/03/mercado-aposta-que-taxa-selic-pare-de-cair-e-teme-solucoes-heterodoxas-na-economia.ghtml",
+     "angulo": "Valor: 72 de 105 esperam Selic parada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Governo Lula descarta tabelar juros e usar reservas cambiais, afirma Durigan",
+     "url": "https://www.brasil247.com/economia/governo-lula-descarta-tabelar-juros-e-usar-reservas-cambiais-afirma-durigan/",
+     "angulo": "247: Durigan e Mercadante descartam tabelar juros.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Gleisi volta a atacar mercado e recua na defesa do tabelamento de juros",
+     "url": "https://www.gazetadopovo.com.br/republica/gleisi-volta-a-atacar-mercado-e-recua-na-defesa-do-tabelamento-de-juros/",
+     "angulo": "Gazeta: Gleisi ataca mercado e recua.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Economista ligado a Lula vê quadro fiscal menos dramático no Brasil e elogia proposta de Lara Resende",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/economista-ligado-a-lula-ve-quadro-fiscal-menos-dramatico-no-brasil-e-elogia-proposta-de-lara-resende.shtml",
+     "angulo": "Gabrielli: quadro 'menos dramático'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Parlamentares governistas aumentam críticas a mercado e juros altos antes de reunião do Copom",
+     "url": "https://www.estadao.com.br/economia/parlamentares-governistas-aumentam-criticas-a-mercado-e-juros-altos-antes-de-reuniao-do-copom/",
+     "angulo": "Estadão: governistas elevam o tom contra o BC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Cobrança por ajuste fiscal é ‘chantagem do mercado’, diz Boulos",
+     "url": "https://revistaoeste.com/politica/cobranca-por-ajuste-fiscal-e-chantagem-do-mercado-diz-boulos/",
+     "angulo": "Oeste: Boulos fala em 'chantagem'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/02/propostas-como-tabelar-os-juros-ou-queimar-reservas-cambiais-nao-estao-em-avaliacao-diz-durigan.ghtml",
+     "angulo": "g1: Durigan nega tabelamento e uso de reservas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Dólar iria a 6, 7 reais com redução artificial da Selic, diz ex-ministro da Fazenda",
+     "url": "https://veja.abril.com.br/economia/dolar-iria-a-6-7-reais-com-reducao-artificial-da-selic-diz-ex-ministro-da-fazenda/",
+     "angulo": "Maílson: dólar a 6 ou 7 reais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Leia a íntegra do documento sobre política fiscal de Lula",
+     "url": "https://www.poder360.com.br/poder-integras/leia-a-integra-do-documento-sobre-politica-fiscal-de-lula/",
+     "angulo": "Íntegra do documento de Gabrielli.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Corte de 0,25 ponto ou manutenção da Selic? Mercado se divide sobre projeção para decisão do Copom",
+     "url": "https://www.estadao.com.br/economia/corte-manutencao-selic-mercado-dividido-copom/",
+     "angulo": "Broadcast: mercado dividido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula rejeita fazer gesto ao mercado e antecipar nome para Fazenda",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-rejeita-fazer-gesto-ao-mercado-e-antecipar-nome-para-fazenda.shtml",
+     "angulo": "Painel: Lula não antecipa nome da Fazenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário",
+     "url": "https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/",
+     "angulo": "Fonteles: 'viva o equilíbrio fiscal'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Aliados de Lula fazem ofensiva contra pressão do mercado financeiro às vésperas do Copom",
+     "url": "https://iclnoticias.com.br/economia/aliados-de-lula-fazem-ofensiva-contra-pressao-do-mercado-financeiro-as-vesperas-do-copom/",
+     "angulo": "ICL/Folhapress: ofensiva contra 'terrorismo' do mercado.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Juros não são única razão da dívida pública, diz ex-diretor do BC",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/juros-nao-sao-unica-razao-da-divida-publica-diz-ex-diretor-do-bc/",
+     "angulo": "Senna: juros não são a única razão da dívida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "janones-se-reune-com-cristina-kirchner-e-massa-em-buenos-aires-e-grava-video-no-exercito-do-peronismo-para-derrotar-milei-cristina-nao-descarta-candidatura-ft-ve-modelo-global-para-a-esquerda",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Janones se reúne em Buenos Aires com Cristina Kirchner, em prisão domiciliar, e com Sergio Massa, grava vídeo no canal 'Exército do Peronismo' e convoca argentinos a derrotar Milei em 2027; Cristina diz ao Washington Post que não descarta candidatura, e o FT vê na campanha digital de Lula um modelo global para a esquerda",
+   "lide": "Um dia depois de recusar um ministério, o deputado mineiro exportou a estratégia do 'Exército do Lula' para a oposição argentina, em encontros que a direita brasileira enquadra pela condenação da ex-presidente e a esquerda, como preparação para derrubar a extrema direita. Milei reagiu à derrota de Flávio com 'desespero e insultos', segundo o Clarín.",
+   "contexto": "Cristina Kirchner cumpre prisão domiciliar após condenação a seis anos por corrupção no caso Vialidad, confirmada pela Suprema Corte argentina, e está inabilitada para cargos públicos. A Argentina elege presidente em outubro de 2027.",
+   "fatos": [
+    {
+     "texto": "André Janones (Rede-MG) reuniu-se em 2 de novembro, em Buenos Aires, com a ex-presidente Cristina Kirchner e com o ex-ministro Sergio Massa para apresentar a estratégia digital usada na campanha de Lula.",
+     "base": "4 fontes independentes (Estadão, Jovem Pan, Oeste, Operamundi)"
+    },
+    {
+     "texto": "Janones gravou vídeo no canal 'Exército do Peronismo' convocando argentinos a vencer Milei.",
+     "base": "3 fontes independentes (Brasil de Fato, Gazeta do Povo, Poder360)"
+    },
+    {
+     "texto": "Cristina Kirchner disse ao Washington Post que pretende disputar a Presidência em 2027 se recuperar os direitos políticos: 'por que não?'.",
+     "base": "3 fontes independentes (Brasil de Fato, Página/12, La Nación)"
+    },
+    {
+     "texto": "Janones afirmou ao Fantástico que não aceitará ministério e seguirá na Câmara.",
+     "base": "2 fontes independentes (Brasil de Fato, Estadão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Até 60% da estratégia digital de Lula pode ser reproduzida na Argentina.",
+     "quem": "André Janones"
+    },
+    {
+     "texto": "O triunfo digital de Lula oferece um modelo global para a esquerda, copiado por ativistas na França, Espanha e Argentina.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "A campanha argentina de 2027 será uma guerra entre os 'exércitos' digitais de Milei e de Massa, 'lulismo contra trumpismo'.",
+     "quem": "La Nación (análise)"
+    },
+    {
+     "texto": "Milei reagiu à vitória de Lula com uma noite de 'desespero e insultos'.",
+     "quem": "Clarín, repercutido pela Fórum"
+    },
+    {
+     "texto": "A recusa do ministério reflete a preferência de Lula por Janones no Congresso após erros na Secom.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "A austeridade de Milei empurra a economia argentina para a recessão, com 32 mil empresas fechadas.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Cristina Kirchner foi 'condenada irregularmente'.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A condenação a seis anos por administração fraudulenta no caso Vialidad foi confirmada em todas as instâncias, inclusive na Suprema Corte argentina; a tese de irregularidade é a posição da defesa e do peronismo, não um fato estabelecido.",
+     "onde_circula": "Operamundi, Brasil de Fato, peronismo",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A esquerda apresenta a viagem como exportação de um método vitorioso contra a extrema direita.",
+    "oposicao": "A direita destaca que a anfitriã é 'condenada por corrupção' e enquadra Janones como agente de ingerência eleitoral."
+   },
+   "visao_de_fora": "La Nación e Clarín cobrem a visita como início da disputa digital de 2027; o FT trata a campanha de Lula como modelo para a esquerda global.",
+   "ponto_cego": "Veículos de direita (Oeste, Gazeta, Terra Brasil) não mencionam que a reunião incluiu Massa, pré-candidato, e focam na condenação de Cristina; veículos de esquerda omitem que a condenação foi confirmada pela Suprema Corte e chamam-na de irregular.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "lula-diz-que-nenhum-programa-social-sera-extinto-e-que-a-mentira-tomou-conta-kassab-oferece-psd-por-agenda-ao-centro-reforma-ministerial-para-o-centrao-janones-recusa-ministerio",
+    "titulo": "Lula reaparece em vídeo, diz que 'a mentira tomou conta' na semana em que ficou sem falar e que nenhum programa social será extinto; Kassab condiciona aproximação do PSD a uma agenda econômica 'ao centro', Lula prepara reforma ministerial para o Centrão e Janones recusa ministério"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei",
+     "url": "https://www.estadao.com.br/politica/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei-npr/",
+     "angulo": "Estadão: estratégias contra Milei em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Condenada por corrupção, Cristina Kirchner recebe Janones em Buenos Aires",
+     "url": "https://revistaoeste.com/mundo/condenada-por-corrupcao-cristina-kirchner-recebe-janones-em-buenos-aires/",
+     "angulo": "Oeste: 'condenada por corrupção' recebe Janones.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Janones vai à Argentina para reunião com Cristina Kirchner e grava vídeo no canal ‘Exército do Peronismo’",
+     "url": "https://www.brasildefato.com.br/2026/11/02/janones-vai-a-argentina-para-reuniao-com-opositor-de-milei-e-grava-video-no-canal-exercito-do-peronismo/",
+     "angulo": "BdF: vídeo no 'Exército do Peronismo'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Janones visita Cristina Kirchner para lançar “Ejército del peronismo” contra reeleição de Milei",
+     "url": "https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/",
+     "angulo": "Gazeta: lançar 'Ejército del peronismo'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Janones se reúne com Kirchner e leva estratégia digital à Argentina",
+     "url": "https://www.poder360.com.br/poder-internacional/janones-se-reune-com-kirchner-e-leva-estrategia-digital-a-argentina/",
+     "angulo": "Poder360: encontro com Kirchner e Massa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Na Argentina, Janones se reúne com ex-presidente Cristina Kirchner: ‘podemos derrotar a extrema direita’",
+     "url": "https://operamundi.uol.com.br/america-latina/na-argentina-janones-se-reune-com-ex-presidente-cristina-kirchner-podemos-derrotar-a-extrema-direita/",
+     "angulo": "Operamundi: 'podemos derrotar a extrema direita'; fala em condenação irregular.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei",
+     "url": "https://jovempan.com.br/politica/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei/",
+     "angulo": "Jovem Pan: Cristina e Massa cotados para 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Lulismo vs. trumpismo: la guerra entre los ejércitos de Milei y los de Massa",
+     "url": "https://www.lanacion.com.ar/politica/lulismo-vs-trumpismo-la-guerra-entre-los-ejercitos-de-milei-y-los-de-massa-nid03112026/",
+     "angulo": "La Nación: guerra entre os exércitos digitais.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Cristina Kirchner cogita candidatura à presidência da Argentina: ‘Quando recuperar meus direitos políticos, por que não?’",
+     "url": "https://www.brasildefato.com.br/2026/11/02/cristina-kirchner-cogita-candidatura-a-presidencia-da-argentina-quando-recuperar-meus-direitos-politicos-por-que-nao/",
+     "angulo": "Cristina ao Washington Post: 'por que não?'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Lula’s digital triumph in Brazil election offers global model for the left",
+     "url": "https://www.ft.com/content/4e777c1f-d0fa-40ae-97b3-a131a4d0f632?syn-25a6b1a6=1",
+     "angulo": "FT: modelo global para a esquerda.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Urgente: Janones mira derrota de Milei na Argentina e se reúne com oposição de lá",
+     "url": "https://terrabrasilnoticias.com/2026/11/urgente-janones-mira-derrota-de-milei-na-argentina-e-se-reune-com-oposicao-de-la/",
+     "angulo": "Terra Brasil: Janones mira derrota de Milei.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Clarín revela a noite de desespero e insultos de Milei com a derrota de Flávio Bolsonaro",
+     "url": "https://revistaforum.com.br/global/milei-noite-desespero-insultos-derrota-flavio-bolsonaro/",
+     "angulo": "Fórum repercute Clarín sobre Milei.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Janones pretende replicar na Argentina o sucesso do Exército de Lula",
+     "url": "https://www.brasil247.com/america-latina/janones-pretende-replicar-na-argentina-o-sucesso-do-exercito-de-lula/",
+     "angulo": "247: 60% da estratégia replicável.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Janones se reúne com Cristina Kirchner e Massa na Argentina",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/janones-se-reune-com-cristina-kirchner-e-massa-na-argentina",
+     "angulo": "SBT: peronismo se prepara para 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "mercado-bitcoin-sofre-ataque-hacker-suspende-saques-e-bloqueia-11-milhoes-de-dolares-coreia-do-norte-nega-roubo-da-binance-e-chama-acusacao-do-fbi-de-grave-provocacao",
+   "editoria": "Tecnologia",
+   "escopo": "brasil",
+   "titulo": "Mercado Bitcoin, maior corretora de cripto do Brasil, sofre ataque hacker, suspende saques e depósitos e diz ter bloqueado US$ 11 milhões de um total estimado entre US$ 38 milhões e US$ 49 milhões; Coreia do Norte nega o roubo de US$ 6,3 bilhões da Binance e chama a acusação do FBI de 'grave provocação política'",
+   "lide": "Quatro dias após o maior roubo de criptoativos da história, a principal corretora brasileira foi atingida na madrugada de segunda e afirma que clientes não terão prejuízo. Em Pyongyang, Kim Yo Jong, irmã do líder Kim Jong Un, rejeitou a atribuição do FBI ao grupo TraderTraitor.",
+   "contexto": "O FBI atribuiu em 31 de outubro o ataque à Binance a hackers norte-coreanos; a corretora repôs 90% das perdas e retomou saques. O Banco Central encerrou o prazo para corretoras de cripto pedirem licença no Brasil.",
+   "fatos": [
+    {
+     "texto": "O Mercado Bitcoin informou em 2 de novembro ter sofrido um incidente de segurança na madrugada, suspendeu depósitos e saques e disse ter bloqueado cerca de US$ 11 milhões; a empresa estima o valor envolvido em US$ 38 milhões, enquanto o Valor cita US$ 49 milhões e a Exame, R$ 217,7 milhões.",
+     "base": "4 fontes independentes (Folha, Valor, Exame, SBT)"
+    },
+    {
+     "texto": "A Coreia do Norte rejeitou em 3 de novembro, em declaração de Kim Yo Jong, a acusação do FBI de envolvimento no roubo de US$ 6,3 bilhões da Binance, chamando-a de 'grave provocação política' e 'retórica absurda'.",
+     "base": "4 fontes independentes (Estadão, AFP, BBC, Clarín)"
+    },
+    {
+     "texto": "O FBI atribuiu o ataque à Binance ao grupo norte-coreano TraderTraitor, o mesmo do roubo à Bybit em 2025.",
+     "base": "3 fontes independentes (Le Monde, NYT, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Não houve prejuízo a clientes nem vazamento de dados.",
+     "quem": "Mercado Bitcoin (comunicado)"
+    },
+    {
+     "texto": "Os hackers norte-coreanos devem levar meses para lavar os bilhões roubados, já que os tokens são visíveis em blockchains públicas.",
+     "quem": "Especialistas ouvidos pelo Financial Times"
+    },
+    {
+     "texto": "A hostilidade dos EUA pode afetar o engajamento diplomático futuro com Pyongyang.",
+     "quem": "Governo da Coreia do Norte, segundo AFP"
+    },
+    {
+     "texto": "A Coreia do Norte turbina seus hackers com inteligência artificial e o roubo da Binance 'é só o começo'.",
+     "quem": "InfoMoney (análise)"
+    },
+    {
+     "texto": "O ataque brasileiro expõe que a segurança não depende só da tecnologia das blockchains.",
+     "quem": "Especialistas ouvidos pela Exame"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Coreia do Norte está por trás do roubo da Binance.",
+     "rotulo": "Contraditório",
+     "explicacao": "O FBI e analistas de cibersegurança atribuem o ataque ao TraderTraitor, grupo ligado ao Estado norte-coreano, com histórico de roubos como o da Bybit; Pyongyang nega e chama a acusação de provocação. Não há julgamento ou prova pública conclusiva.",
+     "onde_circula": "FBI, governo norte-coreano, imprensa internacional",
+     "checagem": []
+    },
+    {
+     "alegacao": "Clientes do Mercado Bitcoin não perderão ativos.",
+     "rotulo": "Em apuração",
+     "explicacao": "É a versão da empresa; o valor envolvido ainda varia entre as fontes e as operações seguiam suspensas, sem auditoria independente divulgada.",
+     "onde_circula": "comunicado da empresa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A negativa norte-coreana foi destaque na BBC, AFP, Le Monde e Clarín; o FT detalha como o dinheiro roubado deve ser lavado.",
+   "ponto_cego": "Veículos de direita (Oeste, Gazeta, Jovem Pan) não noticiaram o ataque ao Mercado Bitcoin; veículos de esquerda (DCM, Operamundi) repercutem a negativa norte-coreana sem o histórico de ataques atribuídos ao TraderTraitor.",
+   "continua": {
+    "data": "2026-11-01",
+    "id": "fbi-atribui-coreia-do-norte-tradertraitor-roubo-binance-6-3-bi-corretora-cobre-90-perdas-retoma-saques-tesouraria-propria",
+    "titulo": "FBI atribui oficialmente à Coreia do Norte o roubo de US$ 6,3 bilhões da Binance, pelo grupo TraderTraitor, o mesmo do ataque à Bybit; corretora diz ter coberto 90% das perdas com a própria tesouraria e retoma os saques neste domingo"
+   },
+   "materias": [
+    {
+     "fonte": "exame",
+     "titulo": "Mercado Bitcoin sofre ataque hacker estimado em R$ 217,7 milhões",
+     "url": "https://exame.com/future-of-money/mercado-bitcoin-sofre-ataque-hacker-estimado-em-r-2177-milhoes/",
+     "angulo": "Exame: ataque estimado em R$ 217,7 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Após acusação do FBI, Coreia do Norte nega participação em roubo à Binance",
+     "url": "https://www.diariodocentrodomundo.com.br/coreia-do-norte-nega-roubo-bilionario-binance/",
+     "angulo": "DCM: Kim Yo Jong chama acusação de 'absurda'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Corretora Mercado Bitcoin bloqueia US$ 11 mi em criptomoedas após sofrer ataque hacker",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/corretora-mercado-bitcoin-bloqueia-us-11-mi-em-criptomoedas-apos-sofrer-ataque-hacker.shtml",
+     "angulo": "Folha: US$ 11 mi bloqueados; US$ 38 mi envolvidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Coreia do Norte rejeita acusações do FBI sobre envolvimento com ataque hacker à Binance",
+     "url": "https://www.estadao.com.br/economia/coreia-do-norte-rejeita-acusacoes-do-fbi-sobre-envolvimento-com-ataque-hacker-a-binance/",
+     "angulo": "Estadão: 'grave provocação política'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Mercado Bitcoin suspende depósitos e saques após incidente de segurança",
+     "url": "https://terrabrasilnoticias.com/2026/11/mercado-bitcoin-suspende-depositos-e-saques-apos-incidente-de-seguranca/",
+     "angulo": "Terra Brasil: suspensão preventiva.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+     "url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
+     "angulo": "AFP: Pyongyang alerta sobre efeitos diplomáticos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Corretora brasileira de criptos tem \"incidente de segurança\"",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/corretora-brasileira-de-criptos-tem-incidente-de-seguranca",
+     "angulo": "SBT: empresa diz que não houve prejuízo a clientes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "North Korean hackers expected to take months to launder Binance billions",
+     "url": "https://www.ft.com/content/a6212e33-2175-4957-91d1-8f8f6bc3918b?syn-25a6b1a6=1",
+     "angulo": "FT: meses para lavar os bilhões.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
+     "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
+     "angulo": "g1: ataque dias após a Binance.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "North Korea denies being behind record $6.3bn Binance hack",
+     "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: Coreia do Norte nega.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo",
+     "url": "https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/",
+     "angulo": "InfoMoney: hackers com IA, 'só o começo'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Mercado Bitcoin sofre ataque e suspende saques após roubo bilionário",
+     "url": "https://atarde.com.br/economia/mercado-bitcoin-sofre-ataque-e-suspende-saques-apos-roubo-bilionario-1408026",
+     "angulo": "A Tarde: incidente contido na madrugada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "\"Es una grave provocación política\": Corea del Norte rechazó la denuncia del FBI sobre el robo de más de 6.300 millones de dólares en criptomonedas",
+     "url": "https://www.clarin.com/mundo/grave-provocacion-politica-corea-norte-rechazo-denuncia-fbi-robo-6300-millones-dolares-criptomonedas_0_Q4UGADGwc7.html",
+     "angulo": "Clarín: irmã de Kim responde ao FBI.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "homem-de-20-anos-e-assassinado-em-ato-pro-lula-em-pernambuco-procuradora-de-macae-e-afastada-por-ataques-a-nordestinos-cleitinho-cobra-politicos-pro-boicote-pt-pede-investigacao-de-listas",
+   "editoria": "Direitos Humanos",
+   "escopo": "brasil",
+   "titulo": "Homem de 20 anos é assassinado durante ato que celebrava a vitória de Lula no interior de Pernambuco; procuradora de Macaé é afastada por ataques a petistas e nordestinos, Cleitinho contraria Nikolas e cobra políticos que incentivam boicotes, e deputado do PT pede ao MP-SP investigação de listas de boicote",
+   "lide": "Oito dias após o segundo turno, os episódios de violência e discriminação política seguem em várias frentes e começam a dividir a própria direita: o governador eleito de Minas pediu que políticos que estimulam boicotes 'abram mão do salário'. A motivação do crime em Pernambuco ainda não foi esclarecida.",
+   "contexto": "O Disque 100 registrou 189 denúncias de violência política no período eleitoral, com casos quadruplicando em outubro; o MEC encaminha denúncias de universidades à PF e o PT-SP montou força-tarefa para vítimas de perseguição.",
+   "fatos": [
+    {
+     "texto": "Um homem de 20 anos foi assassinado em Lagoa de Itaenga, na Mata Norte de Pernambuco, no sábado (31), durante ato que celebrava a reeleição de Lula; não há informação sobre a motivação.",
+     "base": "Folha, com base em informações da polícia"
+    },
+    {
+     "texto": "A procuradora municipal de Macaé (RJ) Renata Pinto Rodrigues Pimentel Ribeiro foi afastada por 30 dias e responde a processo administrativo após publicações com ataques a petistas, nordestinos e mineiros.",
+     "base": "ICL, republicando Brasil de Fato"
+    },
+    {
+     "texto": "O governador eleito de Minas, Cleitinho (Republicanos), publicou vídeo repudiando ataques a comerciantes e criticando parlamentares que incentivam boicotes, sem citar Nikolas Ferreira.",
+     "base": "2 fontes independentes (SBT, DCM)"
+    },
+    {
+     "texto": "O deputado estadual Emidio de Souza (PT) enviou ofícios ao Ministério Público de São Paulo e a entidades patronais pedindo providências contra discriminação política registrada no estado após a eleição.",
+     "base": "Folha (Painel)"
+    },
+    {
+     "texto": "As denúncias de violência política no Disque 100 quadruplicaram em outubro, segundo o Ministério dos Direitos Humanos.",
+     "base": "2 fontes independentes (Agência Brasil, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Políticos que incentivam boicotes deveriam 'abrir mão do salário', já que impostos de empresários e trabalhadores bancam seus benefícios.",
+     "quem": "Cleitinho (Republicanos), governador eleito de MG"
+    },
+    {
+     "texto": "A 'selvageria política' chegou à educação básica.",
+     "quem": "Estado de Minas (editorial)"
+    },
+    {
+     "texto": "A força-tarefa do PT é resposta a boicotes e perseguição bolsonarista.",
+     "quem": "DCM"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O assassinato em Lagoa de Itaenga foi um crime político contra um eleitor de Lula.",
+     "rotulo": "Em apuração",
+     "explicacao": "O crime ocorreu durante um ato de celebração da vitória, mas a polícia não divulgou a motivação e não há suspeito identificado publicamente.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo e PT tratam os episódios como onda de violência política que exige PF, MP e força-tarefa.",
+    "oposicao": "Parte da direita (Cleitinho) condena boicotes; outra parte (Diário do Poder) enquadra a reação do PT como perseguição."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Só a Folha noticiou o assassinato em Pernambuco; veículos de direita não registram o caso nem o afastamento da procuradora, e veículos de esquerda destacam Cleitinho só para contrapô-lo a Nikolas.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "violencia-politica-189-denuncias-no-disque-100-casos-quadruplicam-em-outubro-mec-encaminha-denuncias-a-pf-estudantes-de-medicina-expulsos-em-maringa-por-mensagens-nazistas-jacobina-demissoes",
+    "titulo": "Governo contabiliza 189 denúncias de violência política no período eleitoral, com casos quadruplicando em outubro; MEC encaminha à PF relatos de universidades, faculdade de Maringá expulsa alunos de medicina por mensagens com referências nazistas contra bolsistas e empresários de Jacobina articulam demissões de eleitores de Lula"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Homem é assassinado durante ato que celebrava vitória de Lula no interior de Pernambuco",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/homem-e-assassinado-durante-ato-que-celebrava-vitoria-de-lula-no-interior-de-pernambuco.shtml",
+     "angulo": "Folha: assassinato em Lagoa de Itaenga, motivação desconhecida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Cleitinho rebate boicote a comércio e cobra políticos",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/cleitinho-rebate-boicote-a-comercio-e-cobra-politicos",
+     "angulo": "SBT: Cleitinho repudia ataques a comerciantes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Ataques a petistas e nordestinos leva a afastamento de procuradora em Macaé (RJ)",
+     "url": "https://iclnoticias.com.br/ataques-petistas-nordestinos-procuradora-macae/",
+     "angulo": "ICL/BdF: procuradora afastada em Macaé.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Cleitinho contraria Nikolas e cobra políticos pró-boicote: “Abre mão do seu salário”",
+     "url": "https://www.diariodocentrodomundo.com.br/cleitinho-contraria-nikolas-e-cobra-politicos-pro-boicote-abre-mao-do-seu-salario/",
+     "angulo": "DCM: Cleitinho contraria Nikolas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Deputado do PT pede investigação de listas de boicote a simpatizantes de Lula",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pt-pede-investigacao-de-listas-de-boicote-a-simpatizantes-de-lula.shtml",
+     "angulo": "Painel: PT aciona MP-SP contra listas de boicote.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "Selvageria política chega à educação básica",
+     "url": "https://www.em.com.br/opiniao/2026/11/7532138-selvageria-politica-chega-a-educacao-basica.html",
+     "angulo": "Editorial do EM: selvageria na educação básica.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Denúncias de violência política disparam e quadruplicam em outubro no Disque 100",
+     "url": "https://terrabrasilnoticias.com/2026/11/denuncias-de-violencia-politica-disparam-e-quadruplicam-em-outubro-no-disque-100/",
+     "angulo": "Terra Brasil: denúncias quadruplicam no Disque 100.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "A força-tarefa do PT contra os boicotes e a perseguição bolsonarista",
+     "url": "https://www.diariodocentrodomundo.com.br/forca-tarefa-pt-boicotes-perseguicao-bolsonarista/",
+     "angulo": "DCM: a força-tarefa do PT.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "eua-votam-nas-midterms-em-referendo-sobre-trump-suprema-corte-rejeita-pedido-para-separar-20-mil-cedulas-da-california-trump-promete-indultos-preventivos-e-vetos-aprovacao-em-32-recorde-de-voto-antecipado",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "EUA votam hoje nas midterms que decidem o controle do Congresso e 26 governos estaduais; Suprema Corte rejeita na véspera o pedido de Trump para separar 20 mil cédulas da Califórnia, o presidente fala em 'indultos preventivos' e vetos, chama a eleição de 'a mais importante de nossas vidas' e chega ao dia com 32% de aprovação e recorde de voto antecipado",
+   "lide": "Com pesquisas apontando vitória democrata na Câmara e disputa apertada pelo Senado, Trump encerrou a campanha com um discurso no espelho d'água do Lincoln Memorial e sofreu uma derrota judicial no caso das cédulas de supostos não cidadãos. A campanha, de quase US$ 12 bilhões, é a mais cara da história.",
+   "contexto": "Na véspera, a deputada democrata Haley Stevens apoiou o republicano Mike Rogers em Michigan, e uma juíza rejeitou a ação do governo para impedir a certificação no Alasca. O senador Chris Murphy segue hospitalizado após AVC.",
+   "fatos": [
+    {
+     "texto": "Os americanos votam em 3 de novembro para renovar toda a Câmara dos Representantes, um terço do Senado e 26 governos estaduais, em eleição vista como referendo sobre o segundo mandato de Trump.",
+     "base": "4 fontes independentes (g1, The Guardian, Valor, Estadão)"
+    },
+    {
+     "texto": "A Suprema Corte rejeitou em 2 de novembro o pedido do governo Trump para que a Califórnia separasse e não contasse cerca de 20 mil cédulas enviadas pelo correio por pessoas que o Departamento de Justiça afirma não serem cidadãs.",
+     "base": "4 fontes independentes (g1, The Guardian, BBC, Jovem Pan)"
+    },
+    {
+     "texto": "Em discurso no Lincoln Memorial e em entrevista ao podcast Pod Force One, em 2 de novembro, Trump chamou a eleição de 'a mais importante de nossas vidas', admitiu 'indultos preventivos' a integrantes do governo e prometeu vetar propostas democratas.",
+     "base": "4 fontes independentes (Folha, Estadão, Bloomberg, Breitbart)"
+    },
+    {
+     "texto": "Pesquisa Reuters/Ipsos divulgada em 2 de novembro mostra aprovação de Trump em 32% e democratas com 46% contra 38% dos republicanos na intenção de voto para o Congresso.",
+     "base": "3 fontes independentes (g1, SBT, Brasil 247)"
+    },
+    {
+     "texto": "Entre 54 e 58 milhões de americanos votaram antecipadamente, recorde para uma eleição de meio de mandato.",
+     "base": "3 fontes independentes (AFP, El País, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A campanha de 2026 custa quase US$ 12 bilhões e é a mais cara da história.",
+     "quem": "BBC Verify"
+    },
+    {
+     "texto": "Republicanos já se preparam para um 'jogo de culpa' e o principal suspeito é o presidente, 'com uma guerra'.",
+     "quem": "Axios, com base em republicanos ouvidos reservadamente"
+    },
+    {
+     "texto": "Os votos latinos refluem para os democratas por custo de vida, tarifas e ações do ICE.",
+     "quem": "Valor e Maria Teresa Kumar (Voto Latino, à Bloomberg)"
+    },
+    {
+     "texto": "As pesquisas precisariam estar erradas para uma vitória republicana.",
+     "quem": "Mauricio Moura, Universidade George Washington (CNN Brasil)"
+    },
+    {
+     "texto": "Democratas gastaram 15 vezes mais que republicanos em anúncios sobre Trump.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "Uma derrota de Trump pode ampliar a pressão sobre ele em temas ligados ao Brasil, como tarifas e sanções, e afetar a permanência de Flávio Bolsonaro nos EUA.",
+     "quem": "Folha e g1 (análises)"
+    },
+    {
+     "texto": "Se os republicanos perderem a Câmara e o Senado, os EUA estarão 'acabados'.",
+     "quem": "Donald Trump"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Cerca de 20 mil cédulas na Califórnia foram enviadas por não cidadãos e o estado mantém 190 mil pessoas sem direito a voto no cadastro.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A alegação do Departamento de Justiça não foi comprovada; a Califórnia contesta a lista federal, a 9ª Corte de Apelações vetou a intervenção e a Suprema Corte recusou o pedido de emergência. A Bloomberg descreve as acusações de voto ilegal em massa como 'não provadas'.",
+     "onde_circula": "governo Trump, Jovem Pan, redes republicanas",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Para o Brasil, g1, Folha e CNN Brasil discutem efeitos sobre tarifas, sanções, dólar e a situação de Flávio Bolsonaro; o governo Lula vê a eleição como decisiva para a relação com Trump (A Tarde).",
+   "ponto_cego": "Breitbart e New York Post não noticiaram a derrota na Suprema Corte e concentram a cobertura no 'Decoy Dan' e em Stevens; veículos de esquerda brasileiros (247, BdF) antecipam uma 'lavada' democrata sem registrar a margem apertada no Senado.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "midterms-vespera-democrata-haley-stevens-apoia-republicano-rogers-em-michigan-trump-encerra-campanha-e-fala-em-mr-veto-juiza-rejeita-acao-no-alasca-chris-murphy-tem-avc-gasolina-recorde",
+    "titulo": "Na véspera das midterms, a deputada democrata Haley Stevens apoia o republicano Mike Rogers na disputa pelo Senado em Michigan e racha o partido; Trump encerra a campanha em Iowa e Kansas, diz que pode virar 'Mr. Veto', juíza rejeita ação do governo no Alasca e o senador Chris Murphy sofre AVC"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Americans head to polls in midterm elections seen as referendum on Trump",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+     "angulo": "Guardian: referendo sobre Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump Delivers Closing Midterm Message on National Mall",
+     "url": "https://www.breitbart.com/midterm-election/2026/11/02/trump-delivers-closing-midterm-message-national-mall/",
+     "angulo": "Breitbart: mensagem final no National Mall.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Suprema Corte rejeita tentativa do governo Trump de desconsiderar quase 20 mil votos da Califórnia",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/02/suprema-corte-rejeita-tentativa-do-governo-trump-de-desconsiderar-quase-20-mil-votos-da-california.ghtml",
+     "angulo": "g1: Suprema Corte rejeita separar 20 mil votos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Trump admite indultos preventivos a aliados e promete vetos se democratas vencerem eleição",
+     "url": "https://www.estadao.com.br/internacional/trump-admite-indultos-preventivos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/",
+     "angulo": "Estadão: indultos preventivos e vetos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump’s DOJ Rejected by Supreme Court on California Ballots",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-s-doj-rejected-by-supreme-court-on-california-ballots",
+     "angulo": "Bloomberg: alegações 'não provadas'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Suprema Corte rejeita pedido de Trump para retirar 20 mil cédulas eleitorais na Califórnia",
+     "url": "https://jovempan.com.br/mundo/suprema-corte-rejeita-pedido-de-trump-para-retirar-20-mil-cedulas-eleitorais-na-california/",
+     "angulo": "Jovem Pan: governo acusava 190 mil sem direito a voto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Reuters/Ipsos: aprovação de Trump segue baixa na véspera de eleição de meio de mandato",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/02/reutersipsos-aprovacao-de-trump-segue-baixa-na-vespera-de-eleicao-de-meio-de-mandato.ghtml",
+     "angulo": "Reuters/Ipsos: aprovação em 32%.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "GOP's midterm blame game starts early",
+     "url": "https://www.axios.com/2026/11/03/republicans-midterms-loss-blame-trump",
+     "angulo": "Axios: jogo de culpa começa cedo.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "EUA encerram campanha para midterms; eleição é a 'mais importante de nossas vidas', diz Trump",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/eua-encerram-campanha-para-midterms-eleicao-e-a-mais-importante-de-nossas-vidas-diz-trump.shtml",
+     "angulo": "Folha: 'mais importante de nossas vidas'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "US midterms campaign 'shattering' spending records to be most expensive ever",
+     "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: campanha de US$ 12 bi, a mais cara.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Pode ser a maior lavada dos democratas nos últimos 40 anos’, diz especialista sobre eleições nos EUA",
+     "url": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/11/02/pode-ser-a-maior-lavada-dos-democratas-nos-ultimos-40-anos-diz-especialista-sobre-eleicoes-nos-eua/",
+     "angulo": "BdF: 'maior lavada em 40 anos'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Democratas gastaram 15 vezes mais que republicanos em anúncios sobre Trump",
+     "url": "https://www.cnnbrasil.com.br/internacional/democratas-gastaram-15-vezes-mais-que-republicanos-em-anuncios-sobre-trump/",
+     "angulo": "CNN: democratas gastaram 15 vezes mais em anúncios.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "🔴US midterms live: More than 58 million ballots cast in record early vote turnout. Follow our special coverage",
+     "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+     "angulo": "AFP: 58 milhões de votos antecipados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Governo Lula vê eleições nos EUA como decisivas para relação com Trump",
+     "url": "https://atarde.com.br/politica/governo-lula-ve-eleicoes-nos-eua-como-decisivas-para-relacao-com-trump-1408031",
+     "angulo": "A Tarde: governo Lula vê eleição como decisiva.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "eua-atacam-ilha-de-qeshm-no-estreito-de-ormuz-na-vespera-das-midterms-e-chamam-de-defensivo-ira-propoe-reabrir-ormuz-em-dois-dias-khamenei-da-poderes-a-negociadores-trump-diz-que-acordo-pode-acontecer-petroleo-cai-7",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "EUA atacam a ilha iraniana de Qeshm, no Estreito de Ormuz, na véspera das midterms e classificam a ação como 'defensiva', horas depois de Trump dizer que um acordo 'pode acontecer'; Irã propõe reabrir Ormuz em dois dias se Washington encerrar o bloqueio naval, Khamenei dá poderes aos negociadores e o petróleo cai mais de 7%",
+   "lide": "O ataque, revelado pelo Wall Street Journal e confirmado por autoridades a CNN e CBS, integra uma série de operações limitadas mantidas em segredo nas últimas semanas, segundo a imprensa americana, e contrasta com os sinais de progresso diplomático dados por Trump e Vance. O mercado reagiu à proposta iraniana derrubando o barril ao menor nível em duas semanas.",
+   "contexto": "No fim de semana, Trump ameaçou um 'golpe contundente' e o Irã alertou que uma nova guerra seria mais longa; negociadores iranianos passaram três dias em Doha com mediadores do Catar. Netanyahu pressiona por um ataque logo após as eleições americanas.",
+   "fatos": [
+    {
+     "texto": "Os EUA atacaram em 2 de novembro a ilha de Qeshm, no Estreito de Ormuz, segundo o Wall Street Journal e autoridades americanas ouvidas por CNN e CBS; Washington classificou os ataques como 'defensivos' e limitados, contra mísseis terra-ar e após disparos contra uma aeronave americana.",
+     "base": "4 fontes independentes (Estadão, The Guardian, Financial Times, El País)"
+    },
+    {
+     "texto": "O porta-voz da diplomacia iraniana, Esmail Baqai, afirmou em 2 de novembro que o Irã pode reabrir o Estreito de Ormuz em dois dias, em vez de sete, se os EUA aceitarem suas condições, entre elas o fim do bloqueio naval.",
+     "base": "4 fontes independentes (Estadão, Folha, Euronews, NYT)"
+    },
+    {
+     "texto": "O presidente Masoud Pezeshkian disse que o líder supremo Ali Khamenei concedeu ao governo 'certos poderes' para as negociações; Trump afirmou que um acordo 'pode acontecer' e Vance falou em 'algum progresso'.",
+     "base": "3 fontes independentes (Bloomberg, Folha, Exame)"
+    },
+    {
+     "texto": "O petróleo caiu mais de 7% em 2 de novembro, com o Brent chegando a US$ 105,55, menor nível em mais de duas semanas.",
+     "base": "3 fontes independentes (Folha, The Guardian, Veja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Netanyahu quer 'terminar o trabalho' antes de qualquer acordo.",
+     "quem": "AFP"
+    },
+    {
+     "texto": "Trump não tem pressa para decidir se retoma os bombardeios.",
+     "quem": "Donald Trump, ao Axios"
+    },
+    {
+     "texto": "Um arcabouço de acordo está emergindo após reunião em Teerã com mediadores do Catar, em 'conversas positivas'.",
+     "quem": "Fonte ouvida pelo Breitbart"
+    },
+    {
+     "texto": "As conversas com o Catar no fim de semana não produziram avanços importantes, mas o processo continua.",
+     "quem": "Abbas Araghchi, chanceler do Irã"
+    },
+    {
+     "texto": "Washington realiza ataques secretos de pequena escala contra o Irã há várias semanas, apesar das declarações públicas de Trump.",
+     "quem": "Wall Street Journal, repercutido por Oeste, AFP e DCM"
+    },
+    {
+     "texto": "Frustrado com as negociações, Trump está tentado a lançar uma nova campanha militar após as midterms.",
+     "quem": "Le Figaro (análise)"
+    },
+    {
+     "texto": "O Irã se prepara para a possível retomada da guerra após as eleições americanas.",
+     "quem": "Metrópoles e Estadão, com base em autoridades iranianas"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Os ataques a Qeshm foram 'defensivos' e não representam a retomada da guerra.",
+     "rotulo": "Contraditório",
+     "explicacao": "É a versão oficial americana, mas o WSJ e a AFP descrevem uma série de ataques secretos nas últimas semanas, Trump havia dito que não haveria novas hostilidades antes das midterms, e a agência iraniana IRNA relatou explosões também em Bandar Lengeh.",
+     "onde_circula": "governo dos EUA, imprensa americana",
+     "checagem": []
+    },
+    {
+     "alegacao": "O Estreito de Ormuz está aberto.",
+     "rotulo": "Falta contexto",
+     "explicacao": "O Irã mantém o bloqueio desde o início da guerra e condiciona a reabertura ao fim do bloqueio naval americano; a navegação segue com riscos e custos elevados.",
+     "onde_circula": "declarações do governo americano",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Para o Brasil, a queda do petróleo alivia a pressão sobre combustíveis após o reajuste do querosene de aviação; o Valor registra que o alívio geopolítico deu suporte às bolsas.",
+   "ponto_cego": "Veículos de direita (Oeste, Breitbart) destacam o 'arcabouço de acordo' e a versão defensiva do ataque; veículos de esquerda (247, BdF, DCM) enfatizam o ataque secreto e a exigência iraniana, sem a fala de Araghchi de que não houve avanços.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "trump-ameaca-golpe-contundente-no-ira-e-diz-que-eua-estao-acabando-com-teera-netanyahu-pressiona-por-ataque-apos-midterms-ira-alerta-guerra-mais-longa-3o-dia-de-negociacoes-em-doha",
+    "titulo": "Trump diz que pode dar um 'golpe contundente' no Irã e que o país 'não tem mais defesas nem líderes'; Netanyahu pressiona por ataque logo após as midterms, Teerã alerta que uma nova guerra seria mais longa, negociadores iranianos têm terceiro dia de conversas em Doha e o Golfo pede desescalada"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "EUA atacam ilha iraniana de Qeshm em meio a negociações com Teerã, diz jornal",
+     "url": "https://www.estadao.com.br/internacional/eua-atacam-ilha-iraniana-de-qeshm-em-meio-a-negociacoes-com-teera-diz-jornal-npr/",
+     "angulo": "Estadão: ataque em meio a negociações, diz WSJ.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Estados Unidos atacam alvos iranianos no Estreito de Ormuz em meio a negociações de paz",
+     "url": "https://www.brasil247.com/mundo/estados-unidos-atacam-alvos-iranianos-no-estreito-de-ormuz-em-meio-a-negociacoes-de-paz/",
+     "angulo": "247: ataque 'defensivo' e exigência do fim do bloqueio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+     "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+     "angulo": "Guardian: alvos foram mísseis terra-ar; Vance otimista.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "EUA atacam ilha de Qeshm, no Irã",
+     "url": "https://revistaoeste.com/mundo/eua-atacam-ilha-de-qeshm-no-ira/",
+     "angulo": "Oeste: ataques secretos há semanas, diz WSJ.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Irã propõe reabrir Hormuz em dois dias se EUA aceitarem suas condições",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ira-propoe-reabrir-hormuz-em-dois-dias-se-eua-aceitarem-suas-condicoes.shtml",
+     "angulo": "Folha: Irã propõe reabrir Hormuz em dois dias.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Exclusive: Iran Deal Framework Emerging Following Diplomatic Talks",
+     "url": "https://www.breitbart.com/politics/2026/11/02/iran-deal-framework-emerging-following-diplomatic-talks/",
+     "angulo": "Breitbart: 'arcabouço de acordo' emergindo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Khamenei Empowers Talks as Trump Says Iran Deal Could Happen",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/iran-s-khamenei-gives-government-powers-to-hold-talks-on-war",
+     "angulo": "Bloomberg: Khamenei dá poderes aos negociadores.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Após Trump falar em acordo, EUA fazem ataque secreto a ilha iraniana",
+     "url": "https://www.diariodocentrodomundo.com.br/apos-trump-falar-em-acordo-eua-fazem-ataque-secreto-a-ilha-iraniana/",
+     "angulo": "DCM: ataque secreto após fala de acordo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "EUA realizam ataques contra ilha de Qeshm, no Irã, dizem autoridades",
+     "url": "https://www.cnnbrasil.com.br/internacional/eua-realizam-ataques-contra-ilha-de-qeshm-no-ira/",
+     "angulo": "CNN: resposta a disparos contra aeronave americana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
+     "url": "https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job",
+     "angulo": "AFP: Netanyahu quer 'terminar o trabalho'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Trump to Axios: \"No rush\" to decide on bombing Iran again",
+     "url": "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war",
+     "angulo": "Axios: Trump 'sem pressa'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Oil price falls amid hope of a breakthrough to end Iran war",
+     "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+     "angulo": "Guardian: Brent cai a US$ 105,55.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato",
+     "url": "https://elpais.com/internacional/2026-11-03/estados-unidos-ataca-la-isla-irani-de-qeshm-en-la-vispera-de-sus-elecciones-de-medio-mandato.html",
+     "angulo": "El País: primeiros bombardeios reconhecidos desde setembro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Iran Says No Breakthroughs in 'Very Intensive' Peace Talks with Qatar",
+     "url": "https://www.breitbart.com/middle-east/2026/11/02/iran-says-no-breakthroughs-in-very-intensive-peace-talks-with-qatar/",
+     "angulo": "Araghchi: sem avanços, mas processo continua.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "bombardeio-russo-mata-ao-menos-26-em-centro-de-ajuda-humanitaria-no-sul-da-ucrania-apos-fim-da-tregua-eua-anunciam-negociacoes-em-abu-dhabi-em-10-e-11-de-novembro-forca-europeia-faz-exercicio-na-polonia",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Bombardeio russo mata ao menos 26 pessoas em centro de distribuição de ajuda humanitária no sul da Ucrânia horas após o fim da trégua mais longa da guerra; EUA anunciam negociações entre Rússia e Ucrânia em Abu Dhabi em 10 e 11 de novembro, e força europeia de 2.800 soldados faz primeiro exercício na Polônia",
+   "lide": "Zelensky chamou de 'vil' o ataque com bombas aéreas de 3 toneladas a uma escola usada para distribuir ajuda, que matou civis, socorristas e policiais, e disse que a Rússia não quer desescalar. Moscou afirma ter derrubado 493 drones ucranianos na mesma noite, e o enviado Steve Witkoff reativou a mesa de negociação suspensa desde fevereiro.",
+   "contexto": "A trégua local em Kherson, que permitiu evacuar Oleshky, terminou no domingo após a Rússia recusar prorrogá-la; os dois países se acusaram de hackear aplicativos de alerta. A Bulgária reelegeu uma presidente pró-Moscou.",
+   "fatos": [
+    {
+     "texto": "Bombardeios russos atingiram em 2 de novembro um centro de distribuição de ajuda humanitária e um abrigo em uma vila do sul da Ucrânia, matando ao menos 26 pessoas, entre civis, socorristas e policiais; a BBC registra 29 mortos e Kiev fala em nove bombas de 3 toneladas.",
+     "base": "4 fontes independentes (AFP, The Guardian, Al Jazeera, Jovem Pan)"
+    },
+    {
+     "texto": "O enviado americano Steve Witkoff anunciou que EUA, Rússia e Ucrânia retomam negociações de paz em Abu Dhabi em 10 e 11 de novembro, processo suspenso em fevereiro por causa da guerra no Irã.",
+     "base": "3 fontes independentes (Axios, Fox News, Oeste)"
+    },
+    {
+     "texto": "Cerca de 2.800 soldados de dez países europeus participam de 9 a 22 de novembro, no sudeste da Polônia, do primeiro exercício da força multinacional liderada por França e Reino Unido para apoiar a Ucrânia após um eventual cessar-fogo.",
+     "base": "3 fontes independentes (AFP, BBC, Le Figaro)"
+    },
+    {
+     "texto": "O prefeito de Moscou, Serguei Sobianin, afirmou em 3 de novembro que a Rússia derrubou 493 drones que tinham a capital como alvo.",
+     "base": "Estadão, com base em declaração oficial russa"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Rússia 'prefere matar civis' e frustra as esperanças de paz.",
+     "quem": "Volodymyr Zelensky"
+    },
+    {
+     "texto": "A Rússia planeja um 'ataque massivo' à infraestrutura energética ucraniana enquanto o mundo olha para as midterms.",
+     "quem": "Zelensky, segundo Fox News"
+    },
+    {
+     "texto": "A trégua de seis dias, embora inédita, pouco alterou a trajetória da guerra.",
+     "quem": "BBC (análise)"
+    },
+    {
+     "texto": "A indústria siderúrgica ucraniana está ameaçada de colapso, com o complexo da ArcelorMittal em Kryvyi Rih podendo fechar.",
+     "quem": "Le Monde"
+    },
+    {
+     "texto": "Zelensky se encontra com o chanceler Friedrich Merz em Berlim nesta terça.",
+     "quem": "Le Monde, citando Merz"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A trégua em Kherson foi negociada pela primeira-dama Melania Trump.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A Jovem Pan atribui a mediação à primeira-dama; os demais veículos descrevem a trégua como mediada pelos EUA e como primeira operação humanitária conjunta da guerra, sem detalhar o papel de Melania Trump.",
+     "onde_circula": "Jovem Pan",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "O brasileiro Hendrick Lima Gonçalves, 22, de Tucuruí (PA), morreu em combate pela Ucrânia; a família tenta liberar o corpo com assistência do Itamaraty, segundo SBT e Terra Brasil.",
+   "ponto_cego": "Veículos de esquerda brasileiros não cobriram o ataque nem as negociações; a direita (Oeste, Fox) destaca Abu Dhabi, e nenhum veículo brasileiro registra o exercício da força europeia na Polônia.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "fim-da-tregua-em-kherson-russia-recusa-prorrogar-apps-de-alerta-hackeados-em-kiev-e-moscou-ucrania-retoma-ataques-a-refinarias-contra-trump-bulgaria-reelege-iotova-pro-moscou",
+    "titulo": "Trégua mais longa da guerra termina em Kherson após recusa da Rússia em prorrogar, apps de alerta de Kiev e Moscou são hackeados com falsos avisos nucleares, Ucrânia retoma ataques a refinarias russas contra a vontade de Trump, e a Bulgária reelege a presidente pró-Moscou Iliana Iotova"
+   },
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
+     "url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+     "angulo": "AFP: 26 mortos horas após o fim da trégua.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "EUA anunciam próxima rodada de negociações entre Rússia e Ucrânia",
+     "url": "https://revistaoeste.com/mundo/eua-anunciam-proxima-rodada-de-negociacoes-entre-russia-e-ucrania/",
+     "angulo": "Oeste: negociações em Abu Dhabi em 10 e 11.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+     "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+     "angulo": "Guardian: Zelensky chama ataque de 'vil'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Ucrânia acusa Rússia de matar 26 pessoas em escola no sul após fim da trégua local",
+     "url": "https://jovempan.com.br/mundo/ucrania-acusa-russia-de-matar-26-pessoas-em-escola-no-sul-apos-fim-da-tregua-local/",
+     "angulo": "Jovem Pan: trégua 'negociada por Melania Trump'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: 29 mortos, nove bombas de 3 toneladas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
+     "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner",
+     "angulo": "Axios: Witkoff anuncia Abu Dhabi.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Rússia derruba 493 drones após fim de trégua na Ucrânia; ataques deixam mortos e feridos",
+     "url": "https://www.estadao.com.br/internacional/russia-derruba-493-drones-apos-fim-de-tregua-na-ucrania-ataques-deixam-mortos-e-feridos-npr/",
+     "angulo": "Estadão: Rússia diz ter derrubado 493 drones.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "European force to hold first Ukraine support exercise in Poland",
+     "url": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
+     "angulo": "AFP: 2.800 soldados em exercício na Polônia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+     "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: força europeia ensaia envio em caso de paz.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin",
+     "url": "https://www.foxnews.com/world/russia-planning-massive-strike-midterms-zelenskyy-warns-urges-us-stop-putin",
+     "angulo": "Fox: Zelensky alerta para 'ataque massivo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Ataques russos deixam ao menos 24 mortos na Ucrânia após fim de trégua mediada pelos EUA",
+     "url": "https://exame.com/mundo/ataques-russos-deixam-ao-menos-24-mortos-na-ucrania-apos-fim-de-tregua-mediada-pelos-eua/",
+     "angulo": "Exame: escola usada para distribuir ajuda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Brasileiro de 22 anos morre em combate na Ucrânia",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/brasileiro-de-22-anos-morre-em-combate-na-ucrania",
+     "angulo": "SBT: brasileiro de Tucuruí morre em combate.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "ciberataque-eleva-a-50-graus-geladeiras-e-freezers-de-supermercados-em-sete-paises-europeus-ue-fala-em-tentativa-deliberada-de-perturbar-cadeia-alimentar-pentagono-investiga",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Ciberataque eleva a até 50°C a temperatura de geladeiras e freezers de supermercados em ao menos sete países europeus, obriga redes a descartar alimentos e leva a UE a falar em 'tentativa deliberada de perturbar a cadeia alimentar'; é o segundo ataque em semanas, e o Pentágono investiga casos semelhantes",
+   "lide": "Termostatos de câmaras frigoríficas da Suécia a Portugal foram manipulados remotamente na madrugada de segunda, menos de um mês após incidente igual na França. A autoria é desconhecida, e o episódio expõe a vulnerabilidade de equipamentos industriais conectados à internet.",
+   "contexto": "Em 12 de outubro, supermercados franceses sofreram ataque semelhante. O caso coincide com a onda de ataques hackers a aplicativos de alerta na Ucrânia e na Rússia e ao Mercado Bitcoin.",
+   "fatos": [
+    {
+     "texto": "Em 2 de novembro, redes de supermercados em ao menos sete países europeus (Bélgica, Estônia, Finlândia, Irlanda, Luxemburgo, Holanda e Suécia, além de Portugal segundo a AFP) relataram que geladeiras e freezers tiveram a temperatura elevada remotamente, em alguns casos a 50°C, com descarte de alimentos.",
+     "base": "4 fontes independentes (BBC, The Guardian, AFP, DW)"
+    },
+    {
+     "texto": "A União Europeia classificou os ataques como 'tentativa deliberada de perturbar' a cadeia de abastecimento alimentar do bloco.",
+     "base": "2 fontes independentes (AFP, The Guardian)"
+    },
+    {
+     "texto": "É o segundo ataque do tipo em semanas: em 12 de outubro, supermercados na França tiveram sistemas de refrigeração manipulados.",
+     "base": "3 fontes independentes (Clarín, DW, The Guardian)"
+    },
+    {
+     "texto": "Militares dos EUA investigam incidentes suspeitos semelhantes, segundo o New York Times e o Axios.",
+     "base": "2 fontes independentes (NYT, Axios)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os ataques transformam equipamentos conectados em riscos físicos, e os supermercados americanos usam tecnologia semelhante.",
+     "quem": "Axios"
+    },
+    {
+     "texto": "Os sistemas centralizados que supervisionam câmaras frigoríficas industriais foram manipulados remotamente.",
+     "quem": "Clarín, com base em autoridades europeias"
+    },
+    {
+     "texto": "O prejuízo é milionário e os freezers chegaram a 55°C.",
+     "quem": "Conexão Política"
+    },
+    {
+     "texto": "A IA facilita encontrar brechas, e os ataques passaram de roubo de dados a danos físicos.",
+     "quem": "NeoFeed (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O ataque foi obra de um Estado hostil.",
+     "rotulo": "Em apuração",
+     "explicacao": "Nenhuma autoridade atribuiu publicamente a autoria; o Guardian examina possíveis culpados e motivos, e a UE fala em ação deliberada sem nomear responsáveis.",
+     "onde_circula": "redes sociais, análises de imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Não há registro de impacto no Brasil; a cobertura brasileira (Gazeta, Fórum, Terra Brasil, Valor, SBT) reproduz agências e a imprensa europeia.",
+   "ponto_cego": "Cobertura ampla e homogênea em todos os lados; a Gazeta do Povo fala em cinco países e a AFP em oito, e nenhum veículo brasileiro registra que militares americanos investigam casos semelhantes.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Shop freezers in seven European countries hit by cyber-attack",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: freezers em sete países atingidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Hackers invadem geladeiras de supermercados e elevam temperaturas na Europa",
+     "url": "https://www.gazetadopovo.com.br/mundo/hackers-invadem-geladeiras-de-supermercados-e-elevam-temperaturas-na-europa/",
+     "angulo": "Gazeta: cinco países, descarte de alimentos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+     "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+     "angulo": "Guardian: segundo ataque suspeito.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "O que se sabe sobre o ataque hacker que subiu a 50ºC geladeiras de supermercados na Europa",
+     "url": "https://revistaforum.com.br/global/ataque-hacker-50-geladeiras-supermercados-europa/",
+     "angulo": "Fórum: intrusões coordenadas em sistemas industriais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+     "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+     "angulo": "AFP: UE fala em tentativa deliberada; oito países.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Hackers realizam novo ataque contra sistemas de refrigeração de supermercados na Europa",
+     "url": "https://terrabrasilnoticias.com/2026/11/hackers-realizam-novo-ataque-contra-sistemas-de-refrigeracao-de-supermercados-na-europa/",
+     "angulo": "Terra Brasil: Bélgica, Luxemburgo, Suécia e Estônia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+     "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+     "angulo": "NYT: Europa e militares dos EUA investigam.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "O que se sabe sobre nova onda de ataques hacker a supermercados na Europa",
+     "url": "https://www.dw.com/pt-br/o-que-se-sabe-sobre-nova-onda-de-ataques-hacker-a-supermercados-na-europa/a-79833140?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: o que se sabe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+     "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+     "angulo": "Guardian: quem está hackeando e por quê.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "El misterio detrás de los ciberataques contra supermercados que elevan 50 grados la temperatura de las heladera",
+     "url": "https://www.clarin.com/mundo/misterio-detras-ciberataques-supermercados-elevan-50-grados-temperatura-heladera_0_fLuI9jy8U7.html",
+     "angulo": "Clarín: o mistério por trás dos ataques.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Europe's fridges are getting hacked. Could America be next?",
+     "url": "https://www.axios.com/2026/11/02/europe-supermarket-fridges-attacks-food",
+     "angulo": "Axios: a América pode ser a próxima?",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Hackers voltam a atacar supermercados na Europa; entenda",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/hackers-voltam-a-atacar-supermercados-na-europa-entenda",
+     "angulo": "SBT: incidentes semelhantes na França em outubro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "conexaopolitica",
+     "titulo": "Freezers de supermercados na Europa sofrem ataques hackers e chegam a 55°C; prejuízo é milionário",
+     "url": "https://www.conexaopolitica.com.br/internacional/freezers-de-supermercados-na-europa-sofrem-ataques-hackers-e-chegam-a-55c-prejuizo-e-milionario/",
+     "angulo": "Conexão Política: 55°C e prejuízo milionário.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Nem a geladeira está salva: hackers invadem sistemas e atacam supermercados na Europa",
+     "url": "https://neofeed.com.br/insiders/nem-a-geladeira-esta-salva-hackers-invadem-sistemas-e-atacam-supermercados-na-europa/",
+     "angulo": "NeoFeed: da roubo de dados a danos físicos.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "copilota-de-20-anos-filha-de-brasileiros-nathalia-gadelha-filgueiras-esta-entre-os-9-mortos-do-learjet-na-florida-ntsb-diz-que-aviao-pode-ter-se-despedacado-no-ar-familia-com-criancas-a-bordo",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Copilota de 20 anos filha de brasileiros, Nathalia Gadelha Filgueiras, está entre os nove mortos do Learjet que caiu em Palm Beach; investigadores do NTSB dizem que o avião pode ter se despedaçado antes do impacto e que o clima pode ter contribuído, e uma família do Texas com crianças de 2 e 4 anos estava a bordo",
+   "lide": "A jovem, que tirou licença de piloto aos 17 anos e tinha 1.300 horas de voo, é a voz que pede socorro na gravação do controle de tráfego aéreo divulgada no domingo. As autoridades ainda não identificaram oficialmente as vítimas e falam em exames de DNA.",
+   "contexto": "O Learjet 60 decolou de Austin, no Texas, rumo às Bahamas e mergulhou em um bairro residencial perto de uma via movimentada em 1º de novembro, a cerca de 14 km de Mar-a-Lago; a piloto relatou gelo e turbulência severa antes da queda.",
+   "fatos": [
+    {
+     "texto": "Nathalia Gadelha Filgueiras, 20, filha de brasileiros, era copilota do jato; ela tirou licença de piloto aos 17 anos e acumulava cerca de 1.300 horas de voo, segundo a mãe, Camila Corteleti, à imprensa americana.",
+     "base": "4 fontes independentes (Folha, BBC, Clarín, SBT)"
+    },
+    {
+     "texto": "O NTSB afirmou que o avião pode ter se despedaçado antes do impacto e que o clima pode ter sido um fator, mas que é cedo para determinar a causa.",
+     "base": "2 fontes independentes (BBC, g1)"
+    },
+    {
+     "texto": "Quatro integrantes da família Robinson, do Texas, incluindo crianças de 2 e 4 anos, uma babá e duas amigas estavam a bordo, segundo publicação de uma das vítimas confirmada por familiares.",
+     "base": "2 fontes independentes (g1, Metrópoles)"
+    },
+    {
+     "texto": "As autoridades do condado de Palm Beach não haviam identificado oficialmente as vítimas até 2 de novembro e disseram que exames de DNA serão necessários.",
+     "base": "g1, com declaração do administrador do condado Joseph Abruzzo"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O jogador da NFL Joe Mixon voou no mesmo avião, com os mesmos pilotos, semanas antes da queda.",
+     "quem": "New York Post"
+    },
+    {
+     "texto": "A investigação examina 'overspeed' (excesso de velocidade) na descida.",
+     "quem": "Metrópoles"
+    },
+    {
+     "texto": "A copilota 'vivia seu sonho' e queria seguir carreira na aviação comercial.",
+     "quem": "Família, segundo SBT e Breitbart"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "As vítimas da queda já foram identificadas.",
+     "rotulo": "Falta contexto",
+     "explicacao": "As identificações divulgadas pela imprensa vêm de familiares e redes sociais; as autoridades do condado dizem que a identificação oficial depende de exames de DNA e não têm prazo.",
+     "onde_circula": "Breitbart, redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A copilota tinha cidadania brasileira, segundo a Folha, e nasceu nos EUA, segundo o ICL; a cobertura brasileira, da direita (Terra Brasil) à esquerda (DCM, ICL), concentrou-se nela.",
+   "ponto_cego": "Cobertura homogênea; veículos brasileiros destacam a copilota e omitem os indícios do NTSB sobre o despedaçamento em voo, publicados por BBC e g1.",
+   "continua": {
+    "data": "2026-11-02",
+    "id": "learjet-60-cai-em-bairro-de-palm-beach-e-mata-as-9-pessoas-a-bordo-piloto-relatou-gelo-e-turbulencia-voo-do-texas-para-bahamas-a-poucos-km-de-mar-a-lago-faa-e-ntsb-investigam",
+    "titulo": "Jato Learjet 60 cai em bairro residencial de Palm Beach, na Flórida, e mata as nove pessoas a bordo; áudio mostra piloto relatando gelo e turbulência antes do mergulho, e FAA e NTSB investigam o acidente a poucos quilômetros de Mar-a-Lago"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Quem era Nathalia Filgueiras, filha de brasileiros que atuava como copiloto em avião que caiu na Flórida",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/02/quem-era-a-filha-de-brasileiros-que-atuava-como-copiloto-em-aviao-que-caiu-na-florida.ghtml",
+     "angulo": "g1: quem era Nathalia Filgueiras.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "VIDEO — Co-Pilot in Deadly Florida Crash Was Young Woman Who Earned Flying License at 17: 'Living Her Dream'",
+     "url": "https://www.breitbart.com/health/2026/11/02/video-co-pilot-in-deadly-florida-crash-was-young-woman-who-earned-flying-license-at-17-living-her-dream/",
+     "angulo": "Breitbart: licença aos 17, 'vivendo seu sonho'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+     "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: avião pode ter se despedaçado no ar, diz NTSB.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Quem era a filha de brasileiros que morreu em queda de jato nos EUA",
+     "url": "https://www.diariodocentrodomundo.com.br/quem-era-a-filha-de-brasileiros-que-morreu-em-queda-de-jato-nos-eua/",
+     "angulo": "DCM: 1.300 horas de voo e pedido de socorro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Brasileira de 20 anos é identificada como copilota de jato que caiu na Flórida",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/brasileira-de-20-anos-e-identificada-como-copilota-de-jato-que-caiu-na-florida.shtml",
+     "angulo": "Folha: identificada pela mãe à imprensa americana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Família com crianças de 2 e 4 anos estava em avião que caiu na Flórida",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/02/familia-do-texas-estava-no-aviao-que-caiu-na-florida-diz-site.ghtml",
+     "angulo": "g1: família Robinson com crianças de 2 e 4 anos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
+     "url": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC Brasil: o que se sabe sobre a copilota.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Una joven de 20 años piloteaba el avión que se estrelló en Florida",
+     "url": "https://www.clarin.com/mundo/joven-20-anos-piloteaba-avion-estrello-florida_0_HXVc5uAyF5.html",
+     "angulo": "Clarín: jovem de 20 anos pilotava.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Overspeed e 9 mortes: o que se sabe sobre queda de jato particular nos EUA",
+     "url": "https://www.metropoles.com/mundo/overspeed-e-9-mortes-o-que-se-sabe-sobre-queda-de-jato-particular-nos-eua",
+     "angulo": "Metrópoles: 'overspeed' e nove mortes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "NFL star Joe Mixon ‘devastated’ after learning he flew on doomed Learjet with same pilots weeks before deadly crash",
+     "url": "https://nypost.com/2026/11/03/us-news/nfl-star-joe-mixon-devastated-after-learning-he-flew-on-doomed-learjet-with-same-pilots-weeks-before-deadly-crash/",
+     "angulo": "NY Post: Joe Mixon voou no mesmo jato.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Copilota brasileira de 20 anos está entre as nove vítimas de queda de avião nos Estados Unidos",
+     "url": "https://terrabrasilnoticias.com/2026/11/copilota-brasileira-de-20-anos-esta-entre-as-nove-vitimas-de-queda-de-aviao-nos-estados-unidos/",
+     "angulo": "Terra Brasil: identidade confirmada pela mãe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Copilota morta em queda de jatinho era de família brasileira",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/copilota-morta-em-queda-de-jatinho-era-de-familia-brasileira",
+     "angulo": "SBT: sonhava com a aviação comercial.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "«J’ai toujours su qu’un avion allait me l’arracher» : qui était la copilote Nathalia Gadelha, première victime identifiée du crash d’un jet en Floride ?",
+     "url": "https://www.lefigaro.fr/international/j-ai-toujours-su-qu-un-avion-allait-me-l-arracher-qui-etait-la-copilote-nathalia-gadelha-premiere-victime-identifiee-du-crash-d-un-jet-en-floride-20261102",
+     "angulo": "Le Figaro: 'sempre soube que um avião a levaria'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-02"
+    }
+   ]
+  }
+ ]
+}
