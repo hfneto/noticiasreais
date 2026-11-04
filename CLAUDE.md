@@ -21,14 +21,18 @@ git fetch -q origin feeds && git show FETCH_HEAD:manchetes.json > /tmp/manchetes
 python3 -c "import json;d=json.load(open('/tmp/manchetes.json'));print(d['coletado_em'],len(d['itens']),'manchetes')"
 ```
 
-Cada item tem `fonte` (id em `fontes.json`), `titulo`, `url`, `publicado_em` e `resumo` (primeiro parágrafo do feed, quando o veículo fornece). **Leia o `resumo`, não só o título**: é dele que saem o `angulo` de cada matéria, os fatos e os enquadramentos. Use esse arquivo para: (1) ver quais assuntos aparecem em muitos veículos (pauta); (2) achar a matéria de cada lado sobre uma história, procurando por palavras-chave nos títulos; (3) detectar pontos cegos (história que só aparece nos feeds de um lado). Combine com WebSearch para contexto, checagens e veículos sem feed. Se o arquivo tiver mais de 3 h (`coletado_em`), siga só com WebSearch e avise no resumo final.
+Cada item tem `fonte` (id em `fontes.json`), `titulo`, `url`, `publicado_em` e `resumo` (primeiro parágrafo do feed, quando o veículo fornece). **Leia o `resumo`, não só o título**: é dele que saem o `angulo` de cada matéria, os fatos e os enquadramentos. Use esse arquivo para: (1) ver quais assuntos aparecem em muitos veículos (pauta); (2) achar a matéria de cada lado sobre uma história, procurando por palavras-chave nos títulos; (3) levantar candidatos a ponto cego (história que só aparece nos feeds de um lado; confirme antes de afirmar, veja **Ponto cego**). Combine com WebSearch para contexto, checagens e veículos sem feed. Se o arquivo tiver mais de 3 h (`coletado_em`), siga só com WebSearch e avise no resumo final.
+
+O coletor **acumula**: cada coleta guarda as manchetes da anterior que ainda estão na janela de 36 h, e `visto_em` diz quando a manchete apareceu pela primeira vez. Mesmo assim, o feed não traz tudo o que um veículo publica (há feeds que mostram só as últimas 10 matérias). **Ausência no arquivo não prova que o veículo não cobriu.**
 
 ## Tarefa 1 — edição diária
 
 1. Data de hoje em Brasília: `TZ=America/Sao_Paulo date +%F`. Em `gerado_em`, use a hora real de geração: `TZ=America/Sao_Paulo date -Iseconds`.
 2. Leia as manchetes do branch `feeds` (seção acima). Levante as histórias mais importantes das últimas 24h: **8 a 12 histórias**, cerca de 2/3 Brasil e 1/3 mundo. Critério: relevância pública (política, economia, justiça, saúde, ciência, clima, internacional), não volume de cliques. Evite fofoca, celebridade e esporte, salvo fato de grande impacto. **Ao menos 3 histórias fora de Política/Eleições/Justiça** (economia, saúde, ciência, clima, educação, segurança); o validador avisa quando a edição passa de 70% de política.
    - Busque em vários veículos de lados diferentes (veja `data/fontes.json`), não só nos grandes portais. Uma história que só um lado está cobrindo é exatamente o que o app quer mostrar (ponto cego).
-3. Para cada história, pesquise a cobertura e monte o objeto conforme o **Esquema** abaixo. Meta: **6 a 12 matérias** por história, cobrindo esquerda, centro e direita quando existirem, de **veículos diferentes** (no máximo 2 do mesmo veículo; a barra do app conta cada veículo uma vez). Se procurou um lado e não achou cobertura, diga isso em `ponto_cego`.
+3. Para cada história, pesquise a cobertura e monte o objeto conforme o **Esquema** abaixo. Meta: **6 a 12 matérias** por história, cobrindo esquerda, centro e direita quando existirem, de **veículos diferentes** (no máximo 2 do mesmo veículo; a barra do app conta cada veículo uma vez). Se procurou um lado e não achou cobertura, diga isso em `ponto_cego` (veja **Ponto cego**: só depois de buscar no domínio dos veículos daquele lado).
+   - **Título curto:** um fato principal, no máximo 120 caracteres; os desdobramentos vão no lide. `id` com no máximo 70 caracteres. O validador recusa acima disso.
+   - **Equilíbrio da edição:** escolha matérias pela informação que trazem, não para encher um lado. Veículo de `alcance: pequeno` em no máximo 4 histórias da edição. O validador mostra a contagem esquerda/centro/direita e avisa quando um lado tem mais de 1,5 vez o outro; nesse caso procure o lado que falta antes de publicar.
    - **Continuidade:** se a história é desdobramento de uma publicada em edição anterior, preencha `continua` com `data`, `id` e `titulo` da história anterior. Não repita o contexto de ontem no lide; diga o que mudou hoje.
    - **Checagens do dia:** procure nos feeds de `lupa`, `aosfatos`, `comprova`, `estadaoverifica`, `fatooufake` e `uolconfere` (e no WebSearch) checagens das últimas 48 h ligadas às histórias e ponha em `em_disputa` com o link em `checagem`. Uma checagem relevante sem história correspondente pode virar história própria, com a checagem como matéria `tipo: checagem`.
 4. Grave em `data/edicoes/<data>.json`, rode `python3 scripts/validar.py data/edicoes/<data>.json` e corrija até passar.
@@ -75,12 +79,13 @@ Alegações relevantes que circulam (em veículos, redes, falas de políticos) e
 - `tipo`: `noticia`, `analise`, `opiniao`, `checagem` ou `fonte_primaria`. Não misture opinião com notícia ao comparar lados.
 
 ### Governo × oposição (histórias do Brasil)
-- `enquadramento` de cada matéria: `pro_governo`, `neutro` ou `oposicao` (em relação ao governo federal), ou `null` se não se aplica.
+- `enquadramento` de cada matéria: `pro_governo`, `neutro` ou `oposicao` (em relação ao governo federal), ou `null` se não se aplica. **Julgue a matéria, não o veículo.** O padrão é `neutro`. Marque um lado só quando o título ou o resumo tomam partido: adjetivação, só uma parte ouvida, fato do outro lado omitido, editorial ou coluna de opinião. Notícia factual da Gazeta do Povo ou do Brasil de Fato é `neutro`. O validador avisa quando 85% ou mais das matérias de um lado repetem o viés do veículo.
 - `enquadramentos.governo` e `.oposicao`: como cada campo apresenta a história, numa frase cada, com base no que governo/aliados e oposição disseram. `null` se a história não tem esse recorte.
 
 ### Visão de fora e ponto cego
 - `visao_de_fora`: para histórias do Brasil, como a imprensa estrangeira está tratando (se tratou). Para histórias do mundo, como o tema chega/afeta o Brasil, ou `null`.
 - `ponto_cego`: qual lado está cobrindo pouco e o que esse lado deixa de mostrar. `null` se a cobertura é equilibrada.
+- **Confirme antes de afirmar.** Antes de dizer que um lado não cobriu, faça um WebSearch com `allowed_domains` nos sites dos veículos daquele lado. Se achar, a matéria entra na história e não há ponto cego. Se não achar, escreva "não encontrado nos feeds nem na busca" e nomeie os veículos procurados, em vez de "não cobriu".
 
 ## Esquema
 

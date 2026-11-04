@@ -20,8 +20,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Baixar a coleta anterior (para acumular a janela de 36 h)
+        run: |
+          git fetch -q --depth 1 origin feeds && git show FETCH_HEAD:manchetes.json > "$RUNNER_TEMP/anterior.json" || echo "sem coleta anterior"
       - name: Coletar
-        run: python3 scripts/coletar_feeds.py "$RUNNER_TEMP/manchetes.json"
+        run: python3 scripts/coletar_feeds.py "$RUNNER_TEMP/manchetes.json" "$RUNNER_TEMP/anterior.json"
       - name: Publicar no branch feeds (um único commit, sem histórico)
         run: |
           cd "$RUNNER_TEMP"

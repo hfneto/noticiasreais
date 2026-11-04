@@ -23,6 +23,12 @@ ESCOPOS = {"brasil", "mundo"}
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DOC_PRIMARIO = re.compile(r"diário oficial|decisão|acórdão|nota oficial|documento|lei\b|decreto|portaria|relatório|boletim|ata\b|vídeo|dado oficial|ibge|tse|stf|senado|câmara|ministério|secretaria|pnuma|onu|oms", re.I)
 EDITORIAS_POLITICA = {"política", "politica", "eleições", "eleicoes", "justiça", "justica"}
+# Regras de 2026-11-05 em diante (título curto, enquadramento pela matéria, equilíbrio de veículos).
+# Arquivos anteriores não são cobrados, para o índice continuar sendo reconstruído.
+REGRAS_DESDE = "2026-11-05"
+TITULO_MAX = 120
+ID_MAX = 70
+PEQUENO_MAX_HISTORIAS = 4
 
 
 def _norm(t):
@@ -83,8 +89,13 @@ def texto(v, minimo=1):
     return isinstance(v, str) and len(v.strip()) >= minimo
 
 
-def validar_historia(h, fontes, onde, erros, avisos):
+def validar_historia(h, fontes, onde, erros, avisos, novas_regras=False):
     p = f"{onde} › {h.get('id', '?')}"
+    if novas_regras:
+        if len(h.get("titulo") or "") > TITULO_MAX:
+            erros.append(f"{p}: título com {len(h['titulo'])} caracteres; o limite é {TITULO_MAX} (um fato principal; desdobramentos vão no lide)")
+        if len(h.get("id") or "") > ID_MAX:
+            erros.append(f"{p}: id com {len(h['id'])} caracteres; o limite é {ID_MAX}")
     if not (isinstance(h.get("id"), str) and SLUG.match(h["id"])):
         erros.append(f"{p}: id deve ser slug minúsculo com hífens")
     for campo in ("editoria", "titulo", "lide"):
@@ -176,6 +187,45 @@ def validar_historia(h, fontes, onde, erros, avisos):
             avisos.append(f"{p}: veículo '{k}' aparece {n} vezes; prefira variar (a barra conta cada veículo uma vez)")
 
 
+def lado(m, fontes):
+    f = fontes.get(m.get("fonte") or "")
+    v = f["vies"] if f and f["vies"] in VIESES else m.get("vies_materia")
+    if v not in VIESES:
+        return None
+    return "esquerda" if "esquerda" in v else "direita" if "direita" in v else "centro"
+
+
+def checar_equilibrio(historias, fontes, nome, avisos):
+    """Avisos sobre a edição inteira: enquadramento copiado do viés, veículo pequeno demais presente, lados desiguais."""
+    from collections import Counter
+    espelho = Counter()
+    for h in historias:
+        for m in h.get("materias") or []:
+            ld, enq = lado(m, fontes), m.get("enquadramento")
+            if ld in ("esquerda", "direita") and enq:
+                espelho[(ld, enq == ("pro_governo" if ld == "esquerda" else "oposicao"))] += 1
+    for ld in ("esquerda", "direita"):
+        total = espelho[(ld, True)] + espelho[(ld, False)]
+        if total >= 8 and espelho[(ld, True)] / total >= 0.85:
+            alvo = "pro_governo" if ld == "esquerda" else "oposicao"
+            avisos.append(f"{nome}: {espelho[(ld, True)]} de {total} matérias de veículos de {ld} estão como '{alvo}'; "
+                          "o enquadramento deve julgar a matéria, não o veículo (notícia factual é 'neutro')")
+    presenca = Counter()
+    for h in historias:
+        for fid in {m.get("fonte") for m in h.get("materias") or [] if m.get("fonte")}:
+            presenca[fid] += 1
+    for fid, n in presenca.items():
+        f = fontes.get(fid)
+        if f and f.get("alcance") == "pequeno" and n > PEQUENO_MAX_HISTORIAS:
+            avisos.append(f"{nome}: '{fid}' (alcance pequeno) está em {n} histórias; o limite é {PEQUENO_MAX_HISTORIAS}")
+    lados = Counter(lado(m, fontes) for h in historias for m in h.get("materias") or [])
+    e, d = lados["esquerda"], lados["direita"]
+    if min(e, d) and max(e, d) / min(e, d) > 1.5:
+        avisos.append(f"{nome}: {d} matérias de direita/centro-direita e {e} de esquerda/centro-esquerda; "
+                      "procure o lado que falta (busca no domínio) antes de concluir que não cobriu")
+    print(f"info: {nome}: esquerda {e}, centro {lados['centro']}, direita {d}")
+
+
 def validar_arquivo(caminho, fontes):
     erros, avisos = [], []
     try:
@@ -204,8 +254,12 @@ def validar_arquivo(caminho, fontes):
     ids = [h.get("id") for h in historias]
     if len(ids) != len(set(ids)):
         erros.append(f"{nome}: ids de história repetidos")
+    dia = str(doc.get("data") or doc.get("gerado_em") or "")[:10]
+    novas = dia >= REGRAS_DESDE
     for h in historias:
-        validar_historia(h, fontes, nome, erros, avisos)
+        validar_historia(h, fontes, nome, erros, avisos, novas)
+    if novas:
+        checar_equilibrio(historias, fontes, nome, avisos)
     if tipo == "edicao" and len(historias) >= 6:
         pol = sum(1 for h in historias if str(h.get("editoria", "")).strip().lower() in EDITORIAS_POLITICA)
         if pol / len(historias) > 0.7:

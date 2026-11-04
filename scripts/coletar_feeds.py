@@ -4,7 +4,12 @@
 Roda no GitHub Actions (rede livre). A redação lê o resultado do branch `feeds`
 para saber o que cada veículo publicou, sem depender do buscador.
 
-Uso: python3 scripts/coletar_feeds.py SAIDA.json
+Uso: python3 scripts/coletar_feeds.py SAIDA.json [ANTERIOR.json]
+
+Com ANTERIOR (o manchetes.json da coleta passada), as manchetes que ainda estão na
+janela de 36 h são mantidas mesmo que tenham saído do feed. Sem isso, veículos que
+publicam muito (o feed traz só as 10 ou 20 últimas) ficariam com poucas horas de
+cobertura e pareceriam ausentes de histórias que cobriram.
 """
 import html
 import json
@@ -143,8 +148,29 @@ def ler_url(feed):
     return {**feed, "status": status, "itens": saida}
 
 
+def acumular(itens, anterior, agora):
+    """Junta às manchetes novas as da coleta anterior que ainda estão na janela."""
+    try:
+        velhos = json.loads(Path(anterior).read_text(encoding="utf-8")).get("itens", [])
+    except (OSError, ValueError):
+        return itens, 0
+    por_url = {i["url"]: i for i in itens}
+    for v in velhos:
+        if v.get("url") in por_url:
+            if v.get("visto_em"):
+                por_url[v["url"]]["visto_em"] = v["visto_em"]
+            continue
+        ref = data(v.get("publicado_em")) or data(v.get("visto_em"))
+        if ref and agora - ref <= JANELA:
+            por_url[v["url"]] = v
+    novos = len(por_url) - len(itens)
+    return list(por_url.values()), novos
+
+
 def main():
     destino = Path(sys.argv[1] if len(sys.argv) > 1 else "manchetes.json")
+    anterior = sys.argv[2] if len(sys.argv) > 2 else None
+    agora = datetime.now(timezone.utc)
     feeds = json.loads((RAIZ / "scripts" / "feeds.json").read_text(encoding="utf-8"))["feeds"]
     with ThreadPoolExecutor(max_workers=16) as ex:
         resultados = list(ex.map(ler, feeds))
@@ -153,17 +179,20 @@ def main():
         for i in r["itens"]:
             if i["url"] not in vistos:
                 vistos.add(i["url"])
-                itens.append(i)
+                itens.append({**i, "visto_em": agora.isoformat(timespec="minutes")})
+    mantidos = 0
+    if anterior:
+        itens, mantidos = acumular(itens, anterior, agora)
     itens.sort(key=lambda i: i["publicado_em"] or "", reverse=True)
     doc = {
-        "coletado_em": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "coletado_em": agora.isoformat(timespec="seconds"),
         "janela_horas": int(JANELA.total_seconds() // 3600),
         "feeds": [{"fonte": r["fonte"], "url": r["url"], "status": r["status"], "itens": len(r["itens"])} for r in resultados],
         "itens": itens,
     }
     destino.write_text(json.dumps(doc, ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
     ok = sum(1 for r in resultados if r["status"] == "ok")
-    print(f"{ok}/{len(resultados)} feeds ok, {len(itens)} manchetes")
+    print(f"{ok}/{len(resultados)} feeds ok, {len(itens)} manchetes ({mantidos} mantidas da coleta anterior)")
     for r in resultados:
         if r["status"] != "ok":
             print(f"  {r['fonte']}: {r['status']} ({r['url']})")
