@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-03T09:07:19+00:00",
+ "atualizado_em": "2026-11-04T09:09:19+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-04",
+   "arquivo": "data/edicoes/2026-11-04.json",
+   "historias": 12,
+   "gerado_em": "2026-11-04T06:09:19-03:00",
+   "manchete": "Democratas tomam de Trump o controle da Câmara e do Senado em 'onda azul' que vira cadeiras em Texas, Kansas, Ohio, Iowa, Maine e Carolinas; Abdul El-Sayed é o primeiro senador muçulmano, Geórgia elege a primeira governadora negra, e Trump parabeniza os rivais, admite que a guerra no Irã e a gasolina pesaram e promete ser 'Mr. Veto'"
+  },
   {
    "data": "2026-11-03",
    "arquivo": "data/edicoes/2026-11-03.json",

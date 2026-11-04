@@ -1,0 +1,2204 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-04",
+ "gerado_em": "2026-11-04T06:09:19-03:00",
+ "historias": [
+  {
+   "id": "democratas-tomam-camara-e-senado-nas-midterms-viram-texas-kansas-ohio-maine-carolina-do-sul-el-sayed-primeiro-senador-muculmano-trump-admite-peso-da-guerra-no-ira-e-promete-ser-mr-veto",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Democratas tomam de Trump o controle da Câmara e do Senado em 'onda azul' que vira cadeiras em Texas, Kansas, Ohio, Iowa, Maine e Carolinas; Abdul El-Sayed é o primeiro senador muçulmano, Geórgia elege a primeira governadora negra, e Trump parabeniza os rivais, admite que a guerra no Irã e a gasolina pesaram e promete ser 'Mr. Veto'",
+   "lide": "As eleições de meio de mandato de 3 de novembro deram aos democratas as duas Casas do Congresso pelos dois últimos anos do mandato de Trump, com vitórias em estados que o partido não vencia há décadas. O presidente disse que 'não estava na cédula' e que vetará 'tudo', enquanto Hakeem Jeffries deve se tornar o primeiro presidente negro da Câmara.",
+   "contexto": "Trump chegou ao dia da votação com 32% de aprovação e recorde de voto antecipado. Pesquisas previam uma onda democrata, mas as margens superaram as projeções, segundo o Axios. Na véspera, a Suprema Corte rejeitou o pedido do governo para separar 20 mil cédulas da Califórnia.",
+   "fatos": [
+    {
+     "texto": "Segundo projeções da Associated Press e de outras organizações, os democratas conquistaram a maioria na Câmara dos Representantes e no Senado nas eleições de 3 de novembro.",
+     "base": "4 fontes independentes (Bloomberg, The Guardian, Estadão, Jovem Pan)"
+    },
+    {
+     "texto": "Os democratas viraram cadeiras no Senado em Texas (James Talarico derrotou Ken Paxton), Michigan (Abdul El-Sayed venceu Mike Rogers por 51,8% a 46,2%), Iowa, Kansas (primeiro democrata desde 1932), Carolina do Norte, Carolina do Sul (Annie Andrews), Ohio (Sherrod Brown) e Maine (Troy Jackson derrotou Susan Collins); na Flórida, a republicana Ashley Moody manteve a vaga de Marco Rubio.",
+     "base": "4 fontes independentes (The Guardian, Al Jazeera, BBC, Breitbart)"
+    },
+    {
+     "texto": "Abdul El-Sayed, médico e progressista, será o primeiro senador muçulmano dos EUA; Keisha Lance Bottoms (Geórgia) será a primeira mulher negra eleita governadora, Gina Hinojosa venceu Greg Abbott no Texas e Amy Acton derrotou Vivek Ramaswamy em Ohio.",
+     "base": "4 fontes independentes (Al Jazeera, Le Figaro, Breitbart, Jovem Pan)"
+    },
+    {
+     "texto": "Trump disse em 4 de novembro que os democratas 'fizeram um bom trabalho', reconheceu que a guerra no Irã e o preço da gasolina contribuíram para a derrota, afirmou que aceitará o resultado e publicou imagem de um boné com a palavra 'VETO'.",
+     "base": "4 fontes independentes (AFP, Euronews, Poder360, Breitbart)"
+    },
+    {
+     "texto": "Pesquisa de boca de urna da CNN mostrou que a maioria dos eleitores citou a guerra no Irã e o preço da gasolina como fatores do voto; 71% disseram que o Congresso não fiscaliza Trump o suficiente.",
+     "base": "2 fontes independentes (Breitbart, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Hakeem Jeffries deve se tornar o primeiro presidente negro da Câmara; para ele, 'os extremistas MAGA estão em derrota de costa a costa'.",
+     "quem": "Le Monde, citando Jeffries"
+    },
+    {
+     "texto": "As margens democratas superaram, e muito, o que as pesquisas indicavam.",
+     "quem": "Axios (análise)"
+    },
+    {
+     "texto": "Trump enfrenta agora 'intermináveis intimações, paralisia legislativa e uma janela cada vez menor para garantir seu legado'.",
+     "quem": "Bloomberg (análise)"
+    },
+    {
+     "texto": "'A era Trump acabou.'",
+     "quem": "Chris Christie, ex-governador de Nova Jersey, à ABC (via Breitbart)"
+    },
+    {
+     "texto": "Os republicanos do Senado 'não ficarão parados' enquanto a 'ala socialista' democrata desfaz suas conquistas; o partido retomará a Câmara em 2028.",
+     "quem": "John Thune e Mike Johnson, líderes republicanos"
+    },
+    {
+     "texto": "A vitória democrata não deve aliviar as tarifas de Trump sobre o Brasil.",
+     "quem": "Assis Moreira (Valor, coluna)"
+    },
+    {
+     "texto": "A derrota republicana enfraquece a proteção política a Flávio e Eduardo Bolsonaro nos EUA.",
+     "quem": "Brasil 247 e g1 (análises)"
+    },
+    {
+     "texto": "Os mercados caíram e depois se recuperaram, pois a vitória ampla torna resultados contestados menos prováveis.",
+     "quem": "Financial Times e Bloomberg"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A vitória democrata foi um 'efeito Lula', resposta dos eleitores americanos à eleição brasileira.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Não há pesquisa que ligue o voto americano à eleição no Brasil; as pesquisas de boca de urna e o próprio Trump apontam custo de vida, gasolina e a guerra no Irã como fatores decisivos.",
+     "onde_circula": "DCM, redes de esquerda",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Para o Brasil, Valor e Folha avaliam que a derrota não deve aliviar as tarifas, mas pode aumentar a pressão sobre Trump em temas como sanções; g1 e 247 discutem o efeito sobre a permanência de Flávio Bolsonaro nos EUA, e o governo Lula aguardava o resultado para recalibrar a relação.",
+   "ponto_cego": "Breitbart cobre as derrotas estado a estado, mas rotula El-Sayed e Jackson como 'extrema esquerda' e omite a admissão de Trump sobre a guerra; veículos de esquerda brasileiros (DCM, 247) atribuem o resultado a Lula e a Gaza sem base nas pesquisas de boca de urna.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "eua-votam-nas-midterms-em-referendo-sobre-trump-suprema-corte-rejeita-pedido-para-separar-20-mil-cedulas-da-california-trump-promete-indultos-preventivos-e-vetos-aprovacao-em-32-recorde-de-voto-antecipado",
+    "titulo": "EUA votam hoje nas midterms que decidem o controle do Congresso e 26 governos estaduais; Suprema Corte rejeita na véspera o pedido de Trump para separar 20 mil cédulas da Califórnia, o presidente fala em 'indultos preventivos' e vetos, chama a eleição de 'a mais importante de nossas vidas' e chega ao dia com 32% de aprovação e recorde de voto antecipado"
+   },
+   "materias": [
+    {
+     "fonte": "bloomberg",
+     "titulo": "Democrats Sweep the House and Senate in US Midterms Seen as Trump Referendum",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-sweep-the-house-and-senate-in-us-midterms-seen-as-trump-referendum",
+     "angulo": "Bloomberg: onda azul se materializa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump Shares Image of 'VETO' Cap in Preparation to Fight Democrats After Midterm Wins",
+     "url": "https://www.breitbart.com/politics/2026/11/03/trump-shares-image-veto-cap-preparation-fight-democrats/",
+     "angulo": "Breitbart: Trump posta boné 'VETO'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Democrats win control of Senate as US voters reject Trump’s agenda",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
+     "angulo": "Guardian: democratas retomam o Senado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Trump congratulates Democrats on midterms win, says Iran war played role",
+     "url": "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role",
+     "angulo": "AFP: Trump parabeniza democratas e admite peso do Irã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Resultado das eleições nos EUA: tsunami democrata tira de Trump controle da Câmara e do Senado",
+     "url": "https://www.estadao.com.br/internacional/resultado-das-eleicoes-nos-eua-tsunami-democrata-tira-de-trump-controle-da-camara-e-do-senado-npr/",
+     "angulo": "Estadão: 'tsunami democrata'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "John Thune Vows That 'Senate Republicans Will Not Stand Idly By' as Democrats Unwind Republican's Accomplishments",
+     "url": "https://www.breitbart.com/politics/2026/11/03/john-thune-vows-that-senate-republicans-will-not-stand-idly-by-as-democrats-unwind-republicans-accomplishments/",
+     "angulo": "Thune: republicanos 'não ficarão parados'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+     "angulo": "Guardian: El-Sayed, primeiro senador muçulmano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "The 5 biggest shockers of Democrats' stunning night",
+     "url": "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results",
+     "angulo": "Axios: as cinco maiores surpresas.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Democratas conquistam Câmara e Senado e impõem derrota histórica a Trump nos EUA",
+     "url": "https://jovempan.com.br/mundo/democratas-conquistam-camara-e-senado-e-impoem-derrota-historica-a-trump-nos-eua/",
+     "angulo": "Jovem Pan: derrota histórica para Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Democrats deliver a historic routing to Republicans in US midterms",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss",
+     "angulo": "Al Jazeera: Carolina do Sul elege democrata após 30 anos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Efeito Lula: democratas agradecem ao Brasil após vitória histórica contra Trump nos EUA",
+     "url": "https://www.diariodocentrodomundo.com.br/efeito-lula-democratas-agradecem-ao-brasil-apos-vitoria-historica-contra-trump-nos-eua/",
+     "angulo": "DCM: 'efeito Lula'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Trump diz que aceitará resultado de eleição, mas posta boné “veto”",
+     "url": "https://www.poder360.com.br/poder-internacional/trump-diz-que-aceitara-derrota-mas-posta-bone-com-a-palavra-veto/",
+     "angulo": "Poder360: Trump aceita resultado, 'não estava na cédula'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Midterms 2026 : James Talarico, le démocrate chrétien qui déclenche un séisme politique au Texas",
+     "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-james-talarico-le-democrate-chretien-qui-declenche-un-seisme-politique-au-texas_6806123_3210.html",
+     "angulo": "Le Monde: Talarico, o democrata cristão que virou o Texas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Vitória democrata não deve aliviar tarifas de Trump sobre o Brasil",
+     "url": "https://valor.globo.com/opiniao/assis-moreira/coluna/vitoria-democrata-nao-deve-aliviar-tarifas-de-trump-sobre-o-brasil.ghtml",
+     "angulo": "Valor: tarifas sobre o Brasil não devem aliviar.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "senado-aprova-pec-da-seguranca-por-75-a-0-sem-reducao-da-maioridade-penal-retirada-por-38-a-36-lula-confirma-ministerio-acordo-para-votar-maioridade-quarta-flavio-vota-dos-eua",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "Senado aprova a PEC da Segurança Pública por 73 a 0 e 75 a 0 nos dois turnos, após retirar por 38 a 36 as emendas de redução da maioridade penal; texto vai à promulgação, Lula comemora e confirma o Ministério da Segurança, líderes fecham acordo para votar a maioridade nesta quarta, e Flávio Bolsonaro vota dos EUA",
+   "lide": "A primeira vitória do governo no Congresso após a reeleição veio por unanimidade, mas a votação apertada que separou a maioridade penal expôs a divisão: a oposição chama de 'esvaziamento', e o próprio Lula havia defendido a redução na campanha. O senador que fugiu para os EUA registrou presença remotamente e votou contra separar as emendas.",
+   "contexto": "A PEC 18/2025, enviada pelo governo em abril de 2025, insere o Sistema Único de Segurança Pública na Constituição, amplia as atribuições da PF e da PRF e endurece penas para facções e milícias. O governo queria o texto igual ao da Câmara para evitar que voltasse para lá.",
+   "fatos": [
+    {
+     "texto": "O Senado aprovou em 3 de novembro a PEC da Segurança Pública em dois turnos, por 73 a 0 e 75 a 0; o texto segue para promulgação pelo Congresso, sem data definida.",
+     "base": "5 fontes independentes (Agência Senado, g1, Folha, Brasil de Fato, Jovem Pan)"
+    },
+    {
+     "texto": "Por 38 a 36, o plenário aprovou requerimento para retirar da PEC duas emendas (de Rogério Marinho e Camilo Santana) sobre redução da maioridade penal, que tramitarão em separado.",
+     "base": "3 fontes independentes (Poder360, DCM, JOTA)"
+    },
+    {
+     "texto": "Líderes do governo e da oposição fecharam acordo para tentar votar a redução da maioridade penal em plenário ainda nesta semana, possivelmente na quarta (4), com calendário especial sem passar pela CCJ.",
+     "base": "4 fontes independentes (g1, CNN Brasil, Folha, Brasil 247)"
+    },
+    {
+     "texto": "Lula parabenizou o Senado e reafirmou que criará o Ministério da Segurança Pública, com foco em inteligência e cooperação com estados e municípios.",
+     "base": "4 fontes independentes (g1, Terra, CNN Brasil, Fórum)"
+    },
+    {
+     "texto": "Flávio Bolsonaro, nos EUA, registrou presença remotamente, votou a favor da PEC e contra a tramitação em separado das emendas sobre maioridade.",
+     "base": "4 fontes independentes (Poder360, Gazeta do Povo, IstoÉ, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A retirada da redução da maioridade é um 'precedente perigoso'.",
+     "quem": "Rogério Marinho (PL-RN), líder da oposição"
+    },
+    {
+     "texto": "O governo 'esvaziou' a PEC ao retirar a maioridade penal.",
+     "quem": "Diário do Poder"
+    },
+    {
+     "texto": "Lula defendeu reduzir a maioridade penal na campanha para que o tema não fosse usado por adversários na eleição.",
+     "quem": "Jaques Wagner (PT-BA), no plenário"
+    },
+    {
+     "texto": "Alcolumbre blindou o governo na PEC, mas acenou à oposição com a maioridade penal e a relatoria do Orçamento para garantir a reeleição.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "A PEC encerra a 'era do empurra-empurra' entre governos, mas não resolve problemas estruturais da segurança.",
+     "quem": "Fórum Brasileiro de Segurança Pública"
+    },
+    {
+     "texto": "A PEC dá outra vitória à dobradinha Lula-Alcolumbre e isola o PL.",
+     "quem": "UOL (análise)"
+    },
+    {
+     "texto": "Flávio conseguiu acessar a sessão após dificuldade com o novo celular; a habilitação foi feita por videochamada.",
+     "quem": "Carlos Portinho (PL-RJ), segundo DCM"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo 'esvaziou' a PEC da Segurança.",
+     "rotulo": "Distorcido",
+     "explicacao": "O texto aprovado é o mesmo que saiu da Câmara, com Susp, PF e PRF ampliadas e penas mais duras; o que foi retirado foram emendas acrescentadas no Senado sobre maioridade penal, que o próprio plenário decidiu votar em separado nesta semana.",
+     "onde_circula": "Diário do Poder, oposição",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta a aprovação unânime como 'marco histórico' e primeira vitória do Lula 4, e trata a maioridade como tema à parte.",
+    "oposicao": "A oposição diz que o governo esvaziou a PEC e fugiu da maioridade penal que Lula prometeu na campanha."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Diário do Poder) destacam a retirada da maioridade e o voto de Flávio, mas não o acordo para votá-la nesta semana; veículos de esquerda (247, Fórum, DCM) celebram a unanimidade e omitem o placar apertado de 38 a 36 e a fala de Wagner sobre a motivação eleitoral de Lula.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "senado-vota-pec-da-seguranca-com-impasse-sobre-maioridade-penal-lula-condiciona-ministerio-da-seguranca-a-aprovacao-stf-faz-audiencia-sobre-proibicao-das-bets-com-34-expositores",
+    "titulo": "Senado vota hoje a PEC da Segurança Pública com impasse sobre a redução da maioridade penal, que o Planalto quer fora do texto; Lula condiciona a criação do Ministério da Segurança à aprovação, e o STF faz audiência pública sobre a proibição das bets, cuja arrecadação bancaria a nova pasta"
+   },
+   "materias": [
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+     "angulo": "Agência Senado: 73 e 75 votos, promulgação.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Governo esvazia PEC da Segurança, retira redução a maioridade e texto é aprovado no Senado",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/xwk-brasil/governo-esvazia-pec-da-seguranca-retira-reducao-a-maioridade-e-texto-e-aprovado-no-senado",
+     "angulo": "Diário do Poder: governo 'esvazia' PEC.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Em acordo, Senado tentará votar redução da maioridade penal ainda nesta semana",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/04/em-acordo-senado-tentara-votar-reducao-da-maioridade-penal-ainda-nesta-semana.ghtml",
+     "angulo": "g1: acordo para votar maioridade nesta semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Em vitória de Lula: Senado aprova PEC da Segurança Pública em dois turnos",
+     "url": "https://www.brasildefato.com.br/2026/11/03/em-vitoria-de-lula-senado-aprova-pec-da-seguranca-publica-em-dois-turnos/",
+     "angulo": "BdF: 'vitória de Lula'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "PEC da Segurança: saiba como votou cada senador sobre a maioridade penal",
+     "url": "https://www.poder360.com.br/poder-congresso/pec-da-seguranca-saiba-como-votou-cada-senador-sobre-a-maioridade-penal/",
+     "angulo": "Poder360: 38 a 36 na maioridade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Nos EUA, Flávio vota a favor da PEC da Segurança",
+     "url": "https://www.gazetadopovo.com.br/republica/nos-eua-flavio-vota-a-favor-da-pec-da-seguranca/",
+     "angulo": "Gazeta: Flávio vota dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Senador do PT afirma que Lula defendeu reduzir a maioridade penal para o tema não ser usado na eleição",
+     "url": "https://terrabrasilnoticias.com/2026/11/senador-do-pt-afirma-que-lula-defendeu-reduzir-a-maioridade-penal-para-o-tema-nao-ser-usado-na-eleicao/",
+     "angulo": "Terra Brasil: Wagner diz que Lula defendeu maioridade por cálculo eleitoral.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula celebra aprovação da PEC da Segurança Pública e destaca combate às milícias",
+     "url": "https://revistaforum.com.br/politica/lula-pec-seguranca-publica/",
+     "angulo": "Fórum: Lula celebra e destaca milícias.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "PT e PL negociam texto comum para reduzir maioridade penal",
+     "url": "https://www.poder360.com.br/poder-congresso/pt-e-pl-negociam-texto-comum-para-reduzir-maioridade-penal/",
+     "angulo": "PT e PL negociam texto comum sobre maioridade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Fórum Brasileiro de Segurança Pública celebra aprovação da PEC da Segurança, mas diz que texto não resolve problemas estruturais",
+     "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/03/forum-brasileiro-de-seguranca-publica-celebra-aprovacao-da-pec-da-seguranca-mas-diz-que-texto-nao-resolve-problemas-estruturais.ghtml",
+     "angulo": "FBSP: avanço, mas não resolve problemas estruturais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Mesmo foragido, Flávio Bolsonaro vota na PEC da Segurança no Senado",
+     "url": "https://revistaforum.com.br/politica/foragido-flavio-bolsonaro-pec-seguranca/",
+     "angulo": "Fórum: 'mesmo foragido', Flávio vota.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo e oposição fecham acordo para votar redução da maioridade penal, mas tema ainda divide PT",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-e-oposicao-fecham-acordo-para-votar-reducao-da-maioridade-penal-mas-tema-ainda-divide-pt.shtml",
+     "angulo": "Painel: acordo divide o PT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Nos EUA, Flávio Bolsonaro vota a favor de PEC do governo Lula sobre segurança pública",
+     "url": "https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-vota-a-favor-de-pec-do-governo-lula-sobre-seguranca-publica/",
+     "angulo": "CartaCapital: Flávio vota a favor de PEC do governo.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "nexo",
+     "titulo": "O que a PEC da Segurança muda e não muda no governo Lula",
+     "url": "https://www.nexojornal.com.br/expresso/2026/11/03/o-que-muda-com-a-pec-da-seguranca-publica-lula-alcolumbre-reducao-da-maioridade-penal",
+     "angulo": "Nexo: o que muda e não muda.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "fux-diz-ter-percepcao-de-que-bets-devem-ser-banidas-mas-pede-cautela-governo-defende-proibicao-clubes-falam-em-perdas-cbf-preve-420-milhoes-janja-entrega-relatorio-lula-convoca-pressao",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Em audiência de quase dez horas no STF, Fux diz ter a 'percepção de que as bets devem ser banidas', mas pede cautela e fala em modulação; governo (Padilha, Messias e ministro da Justiça) defende a proibição, clubes e CBF estimam perda de R$ 420 milhões em 2027, Janja entrega relatório e Lula convoca pressão nas redes",
+   "lide": "A audiência convocada pelo relator das ações contra a MP 1.394/2026 ouviu 34 expositores, a maioria contrária à proibição, enquanto o governo mobilizou ministros, a primeira-dama e as redes para defender o fim das apostas on-line. O ministro disse que os dados de 2026 são 'completamente diferentes' dos de 2024 e que a decisão exige cautela.",
+   "contexto": "A MP que proibiu as bets foi editada em 25 de setembro, nove dias antes do primeiro turno, e completa 40 dias no Congresso sem relator. O governo aposta no STF para derrubar a lei de 2018 que legalizou as apostas e evitar a disputa no Legislativo, segundo a Folha.",
+   "fatos": [
+    {
+     "texto": "O ministro Luiz Fux afirmou em 3 de novembro, na abertura da audiência pública, ter a 'percepção de que as bets devem ser banidas', rebatendo críticas nas redes sobre a composição dos convidados.",
+     "base": "4 fontes independentes (JOTA, Folha, SBT, Gazeta do Povo)"
+    },
+    {
+     "texto": "O ministro da Justiça, Wellington César Lima e Silva, disse que o governo constatou 'proximidade indesejável' entre o setor de bets e o crime organizado; o advogado-geral Jorge Messias e o ministro Alexandre Padilha defenderam a validade da MP.",
+     "base": "4 fontes independentes (Agência Brasil, Brasil de Fato, SBT, Diário do Poder)"
+    },
+    {
+     "texto": "A CBF estimou perda de R$ 420 milhões em 2027 com a proibição; o Flamengo projetou prejuízo de R$ 430 milhões, e representantes de Fluminense, Botafogo, Cruzeiro, São Paulo e Corinthians alertaram para demissões.",
+     "base": "3 fontes independentes (SBT, Terra Brasil, A Tarde)"
+    },
+    {
+     "texto": "A primeira-dama Janja entregou a Fux um relatório sobre o impacto das apostas nas mulheres e famílias; Lula convocou a população em vídeo a acompanhar a audiência e criticou a composição do debate.",
+     "base": "4 fontes independentes (Estadão, IstoÉ, SBT, Brasil de Fato)"
+    },
+    {
+     "texto": "Fux arquivou em 3 de novembro ação da Associação Civitas que tentava anular a rejeição de Jorge Messias ao STF pelo Senado, porque a advogada da entidade está com inscrição cancelada na OAB.",
+     "base": "2 fontes independentes (Estadão, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A audiência trouxe dados 'completamente diferentes', embora 'não antagônicos', em relação a 2024, e o STF deve ter cautela por falta de expertise; Fux sinaliza modulação.",
+     "quem": "Luiz Fux, segundo Estadão, Metrópoles e Valor"
+    },
+    {
+     "texto": "Dos 34 expositores, a maioria é contrária à proibição; a audiência priorizou o lobby das apostas.",
+     "quem": "Mídia Ninja e Operamundi"
+    },
+    {
+     "texto": "Legalizar as bets não é saída contra o mercado clandestino.",
+     "quem": "Jorge Messias (AGU)"
+    },
+    {
+     "texto": "O argumento de Messias contrasta com a tese progressista usada em debates sobre aborto e drogas.",
+     "quem": "Gazeta do Povo (análise)"
+    },
+    {
+     "texto": "O governo aposta no STF para derrubar a lei de 2018 e evitar a disputa no Congresso, onde a MP está sem relator há 40 dias.",
+     "quem": "Painel (Folha) e Coluna do Estadão"
+    },
+    {
+     "texto": "Após a proibição, 84,3% das lojas de atacarejo tiveram melhora nas vendas, sem relação de causa e efeito estabelecida.",
+     "quem": "NielsenIQ, segundo DCM"
+    },
+    {
+     "texto": "Contas no X espalham histórias irreais sobre apostas durante a audiência.",
+     "quem": "Agência Pública"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo negou acesso aos documentos que fundamentaram a proibição das bets e o Desenrola 3.0.",
+     "rotulo": "Em apuração",
+     "explicacao": "A Oeste relata, com base em reportagem, que pedidos de acesso foram negados; o governo não se manifestou publicamente sobre o sigilo, e a BBC Brasil noticiou sigilo sobre documentos do 'pacote de bondades' da campanha.",
+     "onde_circula": "Oeste, BBC Brasil",
+     "checagem": []
+    },
+    {
+     "alegacao": "A melhora nas vendas do atacarejo é resultado da proibição das bets.",
+     "rotulo": "Falta contexto",
+     "explicacao": "O levantamento da NielsenIQ aponta recuperação em 84,3% das lojas, mas, segundo o próprio DCM, não estabelece relação de causa e efeito com a suspensão das apostas.",
+     "onde_circula": "DCM, redes governistas",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo enquadra a proibição como questão de saúde pública e combate ao crime organizado, e mobiliza as redes contra o 'lobby'.",
+    "oposicao": "Oposição e setor apontam insegurança jurídica, perda fiscal, prejuízo ao futebol e incoerência do governo que regulamentou e arrecadou com as bets."
+   },
+   "visao_de_fora": "O JOTA alerta para o efeito sobre o investidor estrangeiro e a segurança jurídica.",
+   "ponto_cego": "Veículos de esquerda (247, BdF, DCM) não registram que a maioria dos expositores foi contra a proibição nem a cautela pedida por Fux; a direita (Gazeta, Oeste, Diário do Poder) não noticiou a fala do ministro da Justiça sobre crime organizado.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "senado-vota-pec-da-seguranca-com-impasse-sobre-maioridade-penal-lula-condiciona-ministerio-da-seguranca-a-aprovacao-stf-faz-audiencia-sobre-proibicao-das-bets-com-34-expositores",
+    "titulo": "Senado vota hoje a PEC da Segurança Pública com impasse sobre a redução da maioridade penal, que o Planalto quer fora do texto; Lula condiciona a criação do Ministério da Segurança à aprovação, e o STF faz audiência pública sobre a proibição das bets, cuja arrecadação bancaria a nova pasta"
+   },
+   "materias": [
+    {
+     "fonte": "jota",
+     "titulo": "Em audiência pública, Fux diz ter ‘percepção de que as bets devem ser banidas’",
+     "url": "https://www.jota.info/stf/do-supremo/em-audiencia-publica-fux-diz-ter-percepcao-de-que-as-bets-devem-ser-banidas",
+     "angulo": "JOTA: Fux abre audiência falando em segurança jurídica.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fux defende banimento das bets e aponta desafios jurídicos para a proibição no Brasil",
+     "url": "https://www.gazetadopovo.com.br/republica/fux-diz-que-bets-devem-ser-banidas-e-defende-proibicao-das-apostas-no-brasil/",
+     "angulo": "Gazeta: governo regulamentou, arrecadou e depois proibiu.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Ministro aponta ligação entre bets e crime organizado",
+     "url": "https://www.brasildefato.com.br/2026/11/03/ministro-aponta-ligacao-entre-bets-e-crime-organizado/",
+     "angulo": "BdF: ministro liga bets ao crime organizado.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Audiência pública sobre bets trouxe dados completamente diferentes de 2024, diz Fux",
+     "url": "https://www.estadao.com.br/economia/audiencia-publica-sobre-bets-trouxe-dados-completamente-diferentes-de-2024-diz-fux/",
+     "angulo": "Estadão: dados 'completamente diferentes' de 2024.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "CBF prevê perda de R$ 420 milhões em 2027 com fim das bets",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/cbf-preve-perda-de-r-420-milhoes-em-2027-com-fim-das-bets",
+     "angulo": "SBT: CBF prevê perda de R$ 420 milhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Messias rebate o setor no STF: legalizar bets não é saída contra o mercado clandestino",
+     "url": "https://diariodopoder.com.br/politica/e02-politica/messias-rebate-o-setor-no-stf-legalizar-bets-nao-e-saida-contra-o-mercado-clandestino",
+     "angulo": "Diário do Poder: Messias rebate o setor.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Janja entrega a Fux relatório sobre bets em audiência no STF: ‘Mulheres sentem peso do vício’",
+     "url": "https://www.estadao.com.br/politica/janja-entrega-a-fux-relatorio-sobre-bets-em-audiencia-no-stf-nprp/",
+     "angulo": "Janja entrega relatório: 'mulheres sentem peso do vício'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "Fux ouve maioria contrária à proibição das bets em audiência no STF",
+     "url": "https://midianinja.org/fux-ouve-maioria-contraria-a-proibicao-das-bets-em-audiencia-no-stf/",
+     "angulo": "Mídia Ninja: maioria dos convidados contra a proibição.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo aposta no STF para derrubar as bets e evitar disputa no Congresso",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-aposta-no-stf-para-derrubar-as-bets-e-evitar-disputa-no-congresso.shtml",
+     "angulo": "Painel: governo aposta no STF para evitar o Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Governo Lula nega acesso a documentos sobre Desenrola e fim das bets",
+     "url": "https://revistaoeste.com/politica/governo-lula-nega-acesso-a-documentos-sobre-desenrola-e-fim-das-bets/",
+     "angulo": "Oeste: governo nega acesso a documentos.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Contas espalham conteúdo falso sobre bets nas redes enquanto STF discute proibição",
+     "url": "https://apublica.org/2026/11/contas-espalham-conteudo-falso-sobre-bets-nas-redes-enquanto-stf-discute-proibicao/",
+     "angulo": "Pública: conteúdo falso sobre bets nas redes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Sem bets, gigante brasileiro projeta prejuízo de R$ 430 milhões",
+     "url": "https://atarde.com.br/esportes/sem-bets-gigante-brasileiro-projeta-prejuizo-de-r-430-milhoes-1408139",
+     "angulo": "A Tarde: Flamengo projeta prejuízo de R$ 430 mi.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Após proibição das bets, 84,3% das lojas de atacarejo têm melhora nas vendas",
+     "url": "https://www.diariodocentrodomundo.com.br/apos-proibicao-das-bets-843-das-lojas-de-atacarejo-tem-melhora-nas-vendas/",
+     "angulo": "DCM: atacarejo melhora após proibição.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "dolar-fecha-no-maior-nivel-do-ano-a-5-48-ibovespa-tem-6a-queda-seguida-copom-decide-hoje-com-maioria-apostando-em-selic-parada-cochrane-diz-que-ideia-de-lara-resende-nao-tem-precedente-tesouro-ve-divida-de-90-do-pib",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Dólar fecha a R$ 5,48, maior nível do ano, e Ibovespa tem a sexta queda seguida na véspera do Copom, que decide hoje com a maioria do mercado apostando em Selic parada em 13,75%; John Cochrane, economista citado por Lara Resende, diz que a proposta 'não tem precedente', o Tesouro projeta dívida perto de 90% do PIB em 2030, e Durigan promete MP do Imposto Seletivo",
+   "lide": "O mercado reabriu após o feriado sob pressão de especulações sobre a Fazenda e o BC e da piora das expectativas de inflação, enquanto o debate sobre limitar juros perdeu força com críticas de economistas e do próprio inspirador da tese. O Itaú, na contramão, reportou lucro recorde de R$ 12,6 bilhões.",
+   "contexto": "Na semana passada o Ibovespa caiu 18% e o dólar subiu 9% após a reeleição de Lula. O ministro Dario Durigan negou tabelar juros ou usar reservas, e o coordenador do programa de Lula, Sergio Gabrielli, elogiou Lara Resende, mas diz ser contra limitar juros.",
+   "fatos": [
+    {
+     "texto": "O dólar fechou em 3 de novembro a R$ 5,4871, alta de 0,79%, maior patamar do ano, após tocar R$ 5,5151; o Ibovespa caiu 1,42%, aos 165.545 pontos, na sexta queda seguida e menor nível desde janeiro.",
+     "base": "4 fontes independentes (g1, Valor, SBT, Agência Brasil)"
+    },
+    {
+     "texto": "O Copom anuncia nesta quarta (4) a decisão sobre a Selic, hoje em 13,75% após cinco cortes; de 105 instituições ouvidas pelo Valor, 72 esperam manutenção, e a Folha projeta interrupção do ciclo.",
+     "base": "3 fontes independentes (Valor, Folha, g1)"
+    },
+    {
+     "texto": "John Cochrane, economista de Stanford cujo trabalho embasa a proposta de Lara Resende, afirmou que a ideia do brasileiro é sofisticada, mas 'não foi testada' e não tem precedente histórico.",
+     "base": "3 fontes independentes (Folha, Estadão, Exame)"
+    },
+    {
+     "texto": "O Tesouro Nacional projeta dívida bruta de 89,7% do PIB em 2030 e de 91,5% em 2036 sem superávits; em cenário adverso, acima de 100% do PIB em 2033.",
+     "base": "3 fontes independentes (Gazeta do Povo, Folha, JOTA)"
+    },
+    {
+     "texto": "O Itaú Unibanco teve lucro líquido recorrente de R$ 12,617 bilhões no terceiro trimestre, novo recorde, com alta de 1,7% no trimestre.",
+     "base": "3 fontes independentes (Folha, Exame, NeoFeed)"
+    },
+    {
+     "texto": "Durigan afirmou em 3 de novembro que a MP do Imposto Seletivo deve ser enviada ao Congresso, que buscará revisar benefícios fiscais em 2027 e que melhorará as contas 'sem narrativa fácil'.",
+     "base": "3 fontes independentes (g1, SBT, Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Um ponto de diferença na Selic ao longo do tempo pode significar ganho ou perda de mais de R$ 400 bilhões até 2030.",
+     "quem": "Tesouro Nacional, segundo O Globo"
+    },
+    {
+     "texto": "Sem forte ajuste fiscal, pode haver alta de juros e inflação.",
+     "quem": "Instituição Fiscal Independente (Senado)"
+    },
+    {
+     "texto": "Juros 'na marra' repetiriam o desastre da Turquia, onde a inflação chegou a 85% em 2022.",
+     "quem": "Claudio Frischtak (CNN Brasil) e Gazeta do Povo"
+    },
+    {
+     "texto": "A equipe econômica planeja elevar impostos a partir de 2027, com IOF sobre investimentos isentos e CBS de 11,3%.",
+     "quem": "Gazeta do Povo, com base em bastidores"
+    },
+    {
+     "texto": "O PT descarta novos impostos no governo Lula.",
+     "quem": "Edinho Silva, presidente do PT"
+    },
+    {
+     "texto": "Bancos e fundos concentram R$ 3,37 trilhões em títulos remunerados pela Selic.",
+     "quem": "ICL Notícias, com dados do Tesouro"
+    },
+    {
+     "texto": "A maioria das empresas industriais espera queda da margem de lucro nos próximos três meses.",
+     "quem": "CNI, segundo O Globo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Lula cortou R$ 6 bilhões dos orçamentos de Saúde e Educação.",
+     "rotulo": "Distorcido",
+     "explicacao": "A reportagem da CNN que circula é de 31 de julho de 2024, quando o governo anunciou contenção de gastos; não há anúncio de corte agora, segundo o Estadão Verifica.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/governo-nao-anunciou-corte-de-r6-bi-na-saude-e-educacao/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O governo vai aumentar impostos em 2027.",
+     "rotulo": "Contraditório",
+     "explicacao": "A Gazeta do Povo relata planos de IOF sobre investimentos isentos e alíquota de 11,3% da CBS; o presidente do PT descarta novos impostos, e Durigan fala em revisar benefícios fiscais para 'manter a carga' em 2027.",
+     "onde_circula": "Gazeta do Povo, PT, Fazenda",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "A Fazenda tenta acalmar o mercado prometendo ajuste gradual sem 'narrativa fácil', enquanto aliados atacam a 'chantagem' do mercado.",
+    "oposicao": "A direita vê risco de crise de crédito, dívida crescente e aumento de impostos no Lula 4."
+   },
+   "visao_de_fora": "O FT e a Bloomberg registram que a vitória democrata nos EUA derrubou dólar e ações antes de uma recuperação; o Valor avalia que o resultado não alivia as tarifas sobre o Brasil.",
+   "ponto_cego": "Veículos de direita (Gazeta, Diário do Poder) destacam a dívida e a Turquia, mas não o lucro recorde do Itaú nem a fala de Cochrane reconhecendo sofisticação da proposta; veículos de esquerda (247, ICL) omitem a crítica de Cochrane e a projeção do Tesouro.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "copom-comeca-reuniao-com-72-de-105-analistas-esperando-selic-parada-em-13-75-durigan-descarta-tabelar-juros-e-usar-reservas-gabrielli-elogia-lara-resende-gleisi-recua-fonteles-viva-o-equilibrio-fiscal",
+    "titulo": "Copom inicia reunião com a maioria do mercado apostando em Selic parada em 13,75% após a reeleição; Durigan descarta tabelar juros ou 'queimar reservas', Gabrielli, coordenador do programa de Lula, elogia Lara Resende e vê quadro fiscal 'menos dramático', Gleisi recua, e Fonteles, cotado para a Fazenda, posta 'viva o equilíbrio fiscal'"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Dólar sobe a R$ 5,48 com eleições nos EUA e juros no radar; Ibovespa cai aos 165 mil pontos",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/03/dolar-ibovespa.ghtml",
+     "angulo": "g1: dólar a R$ 5,4871 e Ibovespa aos 165 mil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Quarto mandato de Lula começa sob risco de crise de crédito por dívida crescente",
+     "url": "https://www.gazetadopovo.com.br/economia/crise-credito-quarto-mandato-lula/",
+     "angulo": "Gazeta: risco de crise de crédito.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Economista americano citado por Lara Resende diz que brasileiro propõe uma teoria sem histórico",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/economista-americano-citado-por-lara-resende-diz-que-brasileiro-testa-uma-teoria-sem-historico.shtml",
+     "angulo": "Folha: Cochrane vê teoria sem histórico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Bancos e fundos concentram R$ 3,37 trilhões em títulos que rendem com juros altos",
+     "url": "https://iclnoticias.com.br/economia/bancos-fundo-titulos-rende-juros-altos/",
+     "angulo": "ICL: R$ 3,37 trilhões em títulos atrelados à Selic.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Bolsa cai 1,4%, juro sobe e dólar ronda os R$ 5,50",
+     "url": "https://valor.globo.com/impresso/noticia/2026/11/04/bolsa-cai-14-juro-sobe-e-dolar-ronda-os-r-550.ghtml",
+     "angulo": "Valor: especulações sobre Fazenda e BC pressionam.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Tesouro prevê dívida bruta em 89,7% do PIB em 2030 com pressão de juros elevados",
+     "url": "https://www.gazetadopovo.com.br/economia/tesouro-preve-divida-bruta-em-897-do-pib-em-2030-com-pressao-de-juros-elevados/",
+     "angulo": "Gazeta: Tesouro vê dívida em 89,7% do PIB em 2030.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Copom deve manter Selic em 13,75% e interromper ciclo de cortes",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/copom-deve-manter-selic-em-1375-e-interromper-ciclo-de-cortes.shtml",
+     "angulo": "Folha: Copom deve manter 13,75%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Lucro do Itaú bate novo recorde e chega a R$ 12,6 bilhões no 3º trimestre",
+     "url": "https://exame.com/invest/mercados/lucro-do-itau-bate-novo-recorde-e-chega-a-r-126-bilhoes-no-3o-trimestre/",
+     "angulo": "Exame: lucro recorde do Itaú.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas públicas sem recorrer a 'narrativa fácil'",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
+     "angulo": "g1: Durigan promete melhorar contas 'sem narrativa fácil'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "BC decide juros em meio à queda de braço entre governo e o mercado",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-decide-juros-em-meio-a-queda-de-braco-entre-governo-e-o-mercado/",
+     "angulo": "CNN: BC decide em queda de braço governo x mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Economista citado por Lara Resende diz que ideia do brasileiro não foi testada",
+     "url": "https://www.estadao.com.br/economia/economista-citado-por-lara-resende-diz-que-ideia-do-brasileiro-nao-foi-testada/",
+     "angulo": "Estadão: Cochrane não concorda totalmente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Áudio: Sem ajuste, juros podem subir, aponta Instituição Fiscal Independente",
+     "url": "https://www12.senado.leg.br/noticias/audios/2026/11/sem-ajuste-fiscal-juros-podem-subir-aponta-instituicao-fiscal-independente",
+     "angulo": "IFI: sem ajuste, juros podem subir.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Gabrielli diz ser contra limitar juros, mas elogia André Lara Resende",
+     "url": "https://www.poder360.com.br/poder-economia/sergio-gabrielli-diz-ser-contra-limitar-juros-mas-elogia-andre-lara-resende/",
+     "angulo": "Gabrielli: contra limitar juros, mas elogia Lara Resende.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "alcolumbre-acena-com-anistia-a-bolsonaro-e-da-relatoria-do-orcamento-a-braga-para-garantir-reeleicao-bolsonaro-articula-de-olho-na-anistia-pl-lanca-marinho-hoje-tereza-cristina-mantem-candidatura-pt-rejeita",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Alcolumbre acena com anistia a Bolsonaro e entrega a relatoria do Orçamento a Eduardo Braga para garantir a reeleição no Senado, enquanto Bolsonaro articula a disputa 'de olho na anistia' e setores do PL falam em esvaziar Marinho; PL lança Marinho hoje, Tereza Cristina mantém candidatura, bancada ruralista sinaliza contra Alcolumbre e o PT rejeita anistia e impeachment de ministros",
+   "lide": "A eleição de fevereiro para o comando do Senado virou o centro das negociações entre governo, Centrão e bolsonarismo, com a anistia aos condenados do 8 de janeiro como moeda. Lula convidou Motta e Alcolumbre para viagens à Turquia e às Filipinas na próxima semana.",
+   "contexto": "Rogério Marinho defende voto aberto da direita contra Alcolumbre, e o PL marcou para quarta (4) o lançamento da candidatura. A senadora Tereza Cristina (PP-MS) quer ser a primeira mulher a presidir a Casa.",
+   "fatos": [
+    {
+     "texto": "Alcolumbre escolheu em 3 de novembro o senador Eduardo Braga (MDB-AM), aliado que já declarou apoio à sua reeleição, como relator-geral do Orçamento de 2027.",
+     "base": "4 fontes independentes (g1, Agência Senado, Jovem Pan, Folha)"
+    },
+    {
+     "texto": "O PL deve anunciar nesta quarta (4) Rogério Marinho como candidato à presidência do Senado; a decisão sobre a Câmara segue indefinida.",
+     "base": "3 fontes independentes (CNN Brasil, Folha, Diário do Poder)"
+    },
+    {
+     "texto": "Marinho afirmou que ele e Tereza Cristina não disputarão um contra o outro; a senadora disse que mantém a candidatura, e senadores do PP se irritaram com ataques de bolsonaristas a ela.",
+     "base": "2 fontes independentes (JOTA, Folha)"
+    },
+    {
+     "texto": "Lula convidou Hugo Motta e Davi Alcolumbre para acompanhá-lo em viagens à Turquia e às Filipinas na próxima semana.",
+     "base": "2 fontes independentes (Estadão, Metrópoles)"
+    },
+    {
+     "texto": "O presidente do PT, Edinho Silva, afirmou que o partido rejeita o impeachment de ministros do STF, afasta o debate sobre anistia e descarta novos impostos.",
+     "base": "2 fontes independentes (Gazeta do Povo, Conexão Política)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Alcolumbre acena com anistia a Bolsonaro e aos condenados do 8 de janeiro para dividir o PL, isolar Marinho e se reeleger, mas enfrenta resistência do PT e do STF.",
+     "quem": "Gazeta do Povo, com base em bastidores"
+    },
+    {
+     "texto": "Bolsonaro acompanha e tenta influenciar a eleição do Senado para garantir uma anistia que o livre da pena de 27 anos; setores do PL falam em esvaziar Marinho.",
+     "quem": "Andréia Sadi (g1)"
+    },
+    {
+     "texto": "A maioria dos senadores da bancada ruralista está mais próxima de ex-ministros de Bolsonaro do que de Alcolumbre.",
+     "quem": "Presidente da FPA, segundo SBT"
+    },
+    {
+     "texto": "A reeleição de Alcolumbre, 'protetor dos ministros do STF', seria um desastre e é preciso freá-la.",
+     "quem": "Guilherme Cunha Pereira, presidente da Gazeta do Povo (editorial)"
+    },
+    {
+     "texto": "Marinho apresenta aos colegas uma conta otimista de votos.",
+     "quem": "Bela Megale (O Globo)"
+    },
+    {
+     "texto": "Lula terá até 53 indicações a aprovar em um Senado mais à direita, depois que o prazo de aprovação triplicou.",
+     "quem": "Estadão (levantamento)"
+    },
+    {
+     "texto": "Lula prepara retaliação a Nunes Marques pela atuação no TSE, frustrando indicação ao TRF-1.",
+     "quem": "Malu Gaspar (O Globo), segundo Terra Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Alcolumbre fechou acordo para aprovar anistia a Bolsonaro em troca da reeleição.",
+     "rotulo": "Em apuração",
+     "explicacao": "A Gazeta do Povo e o g1 relatam acenos e articulações de bastidores; não há proposta formal nem declaração pública de Alcolumbre, e o PT, aliado dele, diz afastar o debate sobre anistia.",
+     "onde_circula": "Gazeta do Povo, g1, redes bolsonaristas",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo e o PT apostam na reeleição de Alcolumbre e de Motta e rejeitam anistia e impeachment de ministros.",
+    "oposicao": "A direita se divide entre derrotar Alcolumbre para 'conter o STF' e negociar com ele a anistia; Bolsonaro prioriza a anistia."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, Fórum, DCM) não cobriram o aceno de Alcolumbre à anistia nem a articulação de Bolsonaro; a direita (Gazeta, Diário do Poder) não registra que o PT rejeita a anistia nem a candidatura de Tereza Cristina.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "marinho-defende-voto-aberto-da-direita-contra-alcolumbre-pl-lanca-candidatura-quarta-com-apoio-do-novo-damares-qualquer-um-menos-alcolumbre-pl-decide-sobre-motta-ze-trovao-eu-serei-o-candidato",
+    "titulo": "Rogério Marinho defende que a direita divulgue o voto para derrotar Alcolumbre, PL marca para quarta o lançamento da candidatura ao Senado com apoio do Novo e Damares diz 'qualquer um menos Alcolumbre'; na Câmara, PL reúne a bancada para decidir sobre Hugo Motta enquanto Zé Trovão insiste: 'eu serei o candidato'"
+   },
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Davi Alcolumbre acena com anistia a Bolsonaro para garantir comando do Senado",
+     "url": "https://www.gazetadopovo.com.br/republica/davi-alcolumbre-acena-com-anistia-a-bolsonaro-para-garantir-comando-do-senado/",
+     "angulo": "Gazeta: Alcolumbre acena com anistia.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Bolsonaro articula eleição do Senado de olho na anistia, e setores do PL falam em esvaziar Rogério Marinho",
+     "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/03/bolsonaro-articula-eleicao-do-senado-de-olho-na-anistia-e-setores-do-pl-falam-em-esvaziar-rogerio-marinho.ghtml",
+     "angulo": "Sadi: Bolsonaro articula de olho na anistia.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Alcolumbre escolhe aliado para relatoria do Orçamento em meio à articulação pela reeleição no Senado",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/03/alcolumbre-escolhe-aliado-para-relatoria-do-orcamento-em-meio-a-articulacao-pela-reeleicao-no-senado.ghtml",
+     "angulo": "g1: Braga relator do Orçamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "PT rejeita impeachment no STF, afasta debate sobre anistia e descarta mudanças tributárias",
+     "url": "https://www.gazetadopovo.com.br/republica/pt-rejeita-impeachment-no-stf-afasta-debate-sobre-anistia-e-descarta-mudancas-tributarias/",
+     "angulo": "Gazeta: Edinho rejeita impeachment e anistia.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PL deve anunciar Marinho ao Senado e decisão sobre Câmara segue indefinida",
+     "url": "https://www.cnnbrasil.com.br/politica/pl-deve-anunciar-marinho-ao-senado-e-decisao-sobre-camara-segue-indefinida/",
+     "angulo": "CNN: PL anuncia Marinho; Câmara indefinida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "PP se irrita com ataques a Tereza Cristina após acordo com Rogério Marinho por chefia do Senado",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/pp-se-irrita-com-ataques-a-tereza-cristina-apos-acordo-com-rogerio-marinho-por-chefia-do-senado.shtml",
+     "angulo": "Folha: PP se irrita com ataques a Tereza Cristina.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Bancada ruralista sinaliza que não apoiará Alcolumbre",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/bancada-ruralista-sinaliza-que-nao-apoiara-alcolumbre-no-senado",
+     "angulo": "SBT: ruralistas sinalizam contra Alcolumbre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Marinho diz que ele e Tereza Cristina não disputarão presidência um contra o outro",
+     "url": "https://www.jota.info/legislativo/marinho-diz-que-ele-e-tereza-cristina-nao-disputarao-presidencia-um-contra-o-outro",
+     "angulo": "JOTA: Marinho e Tereza não disputarão entre si.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula terá até 53 indicações pela frente em Senado mais à direita após prazo de aprovação triplicar",
+     "url": "https://www.estadao.com.br/politica/lula-tera-ate-53-indicacoes-pela-frente-em-senado-mais-a-direita-apos-prazo-de-aprovacao-triplicar/",
+     "angulo": "Estadão: 53 indicações num Senado mais à direita.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Lula prepara retaliação contra Nunes Marques após atuação do ministro no TSE e deve favorecer indicado de Flávio Dino",
+     "url": "https://terrabrasilnoticias.com/2026/11/lula-prepara-retaliacao-contra-nunes-marques-apos-atuacao-do-ministro-no-tse-e-deve-favorecer-indicado-de-flavio-dino/",
+     "angulo": "Terra Brasil: retaliação a Nunes Marques.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Davi Alcolumbre terá que duelar com Tereza Cristina pela presidência do Senado?",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/davi-alcolumbre-tera-que-duelar-com-tereza-cristina-pela-presidencia-do-senado/",
+     "angulo": "Coluna do Estadão: o obstáculo Tereza Cristina.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Motta e Alcolumbre reforçam aproximação com o governo e vão a evento sobre mulheres",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/motta-e-alcolumbre-reforcam-aproximacao-com-o-governo-e-vao-a-evento-sobre-mulheres.shtml",
+     "angulo": "Painel: Motta e Alcolumbre se aproximam do governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "justica-dos-eua-intima-ex-noiva-de-vorcaro-martha-graeff-a-depor-sobre-bens-do-master-vorcaro-mandou-mensagem-ta-muito-dificil-a-flavio-defesa-pede-pericia-pf-pede-mais-tempo-lupa-desmente-soltura",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Tribunal de Falências da Flórida intima Martha Graeff, ex-noiva de Daniel Vorcaro, a depor e entregar documentos sobre bens do Banco Master nos EUA; UOL revela mensagem de visualização única de Vorcaro a Flávio Bolsonaro ('tá muito difícil') um dia antes da prisão, a defesa pede perícia no celular e espera decisão de Fachin até a próxima semana, e a Lupa desmente que o banqueiro foi solto",
+   "lide": "O liquidante do Master leva ao exterior a busca por ativos desviados enquanto a defesa do ex-banqueiro, preso desde março, aposta na perícia do celular para anular a investigação e afastar uma delação. A PF pediu mais tempo para concluir o caso.",
+   "contexto": "Vorcaro está preso preventivamente desde março no caso Master; na semana passada a defesa recorreu à Comissão Interamericana de Direitos Humanos. O pai do banqueiro, também preso, apresentou novo pedido de liberdade por motivos de saúde.",
+   "fatos": [
+    {
+     "texto": "O Tribunal de Falências do Sul da Flórida intimou, a pedido da liquidante EFB Regimes Especiais, a empresária Martha Graeff, ex-noiva de Vorcaro, a depor sob juramento e entregar documentos sobre transferências, bens e negócios ligados ao ex-banqueiro e a outras 18 pessoas e empresas.",
+     "base": "4 fontes independentes (Folha, Estadão, Oeste, Fórum)"
+    },
+    {
+     "texto": "A defesa de Vorcaro pediu em 3 de novembro ao presidente do STF, Edson Fachin, perícia oficial no celular apreendido, e disse esperar decisão sobre a liberdade até a próxima semana.",
+     "base": "3 fontes independentes (Folha, Terra Brasil, SBT)"
+    },
+    {
+     "texto": "A defesa de Henrique Vorcaro, pai do banqueiro, apresentou em 3 de novembro novo pedido de liberdade ao STF por motivos de saúde.",
+     "base": "3 fontes independentes (g1, Oeste, Valor)"
+    },
+    {
+     "texto": "O CNJ firmou acordo com B3, Cerc e CIP para criar o Sistema Nacional de Precatórios (Sispreq), de rastreamento de precatórios, após o caso Master.",
+     "base": "Estadão, com base no acordo assinado"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Vorcaro enviou a Flávio Bolsonaro, um dia antes da prisão, mensagem de visualização única dizendo que estava 'muito difícil', mencionando duas parcelas e dificuldade para liquidar uma transferência.",
+     "quem": "UOL, repercutido por Folha, Estado de Minas e DCM"
+    },
+    {
+     "texto": "A defesa aposta na perícia para anular a investigação e afastar a delação; o 'acordão' é o objetivo final.",
+     "quem": "Andréia Sadi (g1)"
+    },
+    {
+     "texto": "A PF pediu mais tempo para concluir o caso e listou pendências.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "Vorcaro e o presidente do União Brasil, Antonio Rueda, discutiram contrato milionário da financeira do BRB.",
+     "quem": "Malu Gaspar (O Globo)"
+    },
+    {
+     "texto": "Vorcaro pediu boletim de ocorrência contra jornalista da Crusoé e tratou a Oeste como alvo.",
+     "quem": "O Antagonista e Oeste, com base em mensagens"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Daniel Vorcaro foi solto após as eleições.",
+     "rotulo": "Falso",
+     "explicacao": "Posts usam vídeos e manchetes antigas para insinuar que o novo governo libertou o ex-banqueiro; ele segue preso preventivamente e a própria defesa diz aguardar decisão do STF.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/11/03/e-falso-que-daniel-vorcaro-foi-solto-apos-as-eleicoes/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados do governo exploram a ligação Vorcaro-Flávio e a mensagem antes da prisão.",
+    "oposicao": "A direita destaca a denúncia de Vorcaro à CIDH, as ligações do caso com o União Brasil e com ministros do STF."
+   },
+   "visao_de_fora": "A ação nos EUA é conduzida pelo liquidante brasileiro no Tribunal de Falências do Sul da Flórida; não há cobertura estrangeira identificada.",
+   "ponto_cego": "Veículos de esquerda (247, DCM, Fórum) destacam Graeff e a mensagem a Flávio, mas não a conversa de Vorcaro com o presidente do União Brasil; a direita (Oeste, Terra Brasil) cobre a defesa e a CIDH sem a análise de que a delação se afasta.",
+   "continua": {
+    "data": "2026-10-31",
+    "id": "peritos-pf-rebatem-laudo-vorcaro-fachin-trava-6-pedidos-prisao-cnj-precatorios-leilao-master-445-lotes-piaui-videos-ciro-nogueira",
+    "titulo": "Peritos federais rebatem a defesa de Vorcaro e dizem que alterações no celular não indicam adulteração; Fachin trava ao menos seis pedidos de revisão de prisões do caso Master, CNJ fecha acordo para rastrear precatórios, móveis do banco vão a leilão e piauí divulga vídeos da viagem de Ciro Nogueira paga pelo banqueiro"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Ex de Vorcaro, Martha Graeff é intimada a depor e entregar documentos em processo do Master nos EUA",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/ex-de-vorcaro-martha-graeff-e-intimada-a-depor-e-entregar-documentos-em-processo-do-master-nos-eua.shtml",
+     "angulo": "Folha: intimação a Graeff e a outras 18 pessoas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Justiça dos EUA intima Martha Graeff em caso do Master",
+     "url": "https://revistaoeste.com/economia/justica-dos-eua-intima-martha-graeff-em-caso-do-master/",
+     "angulo": "Oeste: liquidante busca obras de arte e recursos desviados.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Vorcaro disse que 'tá muito difícil' em mensagem a Flávio Bolsonaro antes de prisão, diz portal",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/vorcaro-disse-que-ta-muito-dificil-em-mensagem-a-flavio-bolsonaro-antes-de-prisao-diz-portal.shtml",
+     "angulo": "Folha: mensagem a Flávio, segundo UOL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ex-noiva de Vorcaro entra na mira da Justiça dos EUA em investigação sobre o Master",
+     "url": "https://revistaforum.com.br/politica/ex-noiva-de-vorcaro-entra-na-mira-da-justica-dos-eua-em-investigacao-sobre-o-master/",
+     "angulo": "Fórum: ex-noiva na mira da Justiça dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Vorcaro aposta em perícia para anular investigação e afastar delação; acordão é objetivo final",
+     "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/03/vorcaro-aposta-em-pericia-para-anular-investigacao-e-afastar-delacao-acordao-e-objetivo-final.ghtml",
+     "angulo": "Sadi: perícia para anular investigação; delação distante.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Defesa de Daniel Vorcaro espera decisão do STF sobre liberdade até a próxima semana",
+     "url": "https://terrabrasilnoticias.com/2026/11/defesa-de-daniel-vorcaro-espera-decisao-do-stf-sobre-liberdade-ate-a-proxima-semana/",
+     "angulo": "Terra Brasil: defesa espera decisão até a próxima semana.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Justiça dos EUA convoca Martha Graeff a depor sobre ligações financeiras com Vorcaro, seu ex-noivo",
+     "url": "https://www.estadao.com.br/economia/negocios/justica-dos-eua-convoca-martha-graeff-a-depor-sobre-ligacoes-financeiras-com-vorcaro-seu-ex-noivo/",
+     "angulo": "Estadão: depoimento sob juramento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Vorcaro enviou mensagem “secreta” a Flávio antes de ser preso; entenda",
+     "url": "https://www.diariodocentrodomundo.com.br/vorcaro-enviou-mensagem-secreta-a-flavio-antes-de-ser-preso-entenda/",
+     "angulo": "DCM: mensagem 'secreta' a Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "É falso que Daniel Vorcaro foi solto após as eleições",
+     "url": "https://www.agencialupa.org/verificacao/2026/11/03/e-falso-que-daniel-vorcaro-foi-solto-apos-as-eleicoes/",
+     "angulo": "Lupa: falso que Vorcaro foi solto.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Caso Master: pai de Vorcaro apresenta ao presidente do STF novo pedido de liberdade",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/03/pai-de-vorcaro-faz-novo-pedido-de-liberdade-ao-supremo-tribunal-federal.ghtml",
+     "angulo": "g1: pai de Vorcaro pede liberdade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "PF pede mais tempo para concluir caso Master e lista pendências",
+     "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/pf-pede-mais-tempo-para-concluir-caso-master-e-lista-pendencias/",
+     "angulo": "Jovem Pan: PF pede mais tempo e lista pendências.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "CNJ e operadoras do mercado financeiro vão criar sistema para rastrear precatórios após caso Master",
+     "url": "https://www.estadao.com.br/economia/cnj-e-operadoras-do-mercado-financeiro-vao-criar-sistema-para-rastrear-precatorios-apos-caso-master/",
+     "angulo": "CNJ e B3 criam sistema de precatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Vorcaro e presidente do União Brasil discutiram contrato milionário do BRB",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/vorcaro-e-presidente-do-uniao-brasil-discutiram-contrato-milionario-do-brb.ghtml",
+     "angulo": "Malu Gaspar: Vorcaro e Rueda discutiram contrato do BRB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": null,
+     "veiculo": "Revista Oeste",
+     "vies_materia": "direita",
+     "titulo": "Vorcaro escolheu Oeste como alvo: ‘Passou de todos os limites’",
+     "url": "https://revistaoeste.com/politica/vorcaro-escolheu-oeste-como-alvo-passou-de-todos-os-limites/",
+     "angulo": "Oeste: revista diz ter sido alvo de Vorcaro; veículo é parte interessada.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "justica-de-sp-proibe-meta-de-usar-conteudo-jornalistico-para-treinar-ia-sem-autorizacao-liminar-para-anj-abert-e-aner-suspende-termos-comerciais-de-20-de-novembro-multa-de-1-milhao-por-dia",
+   "editoria": "Tecnologia",
+   "escopo": "brasil",
+   "titulo": "Justiça de São Paulo proíbe a Meta de coletar e usar conteúdo jornalístico brasileiro para treinar inteligência artificial sem autorização: liminar para ANJ, Abert e Aner suspende os novos termos comerciais que entrariam em vigor em 20 de novembro e fixa multa diária de R$ 1 milhão",
+   "lide": "A decisão da 44ª Vara Cível atinge Facebook, Instagram, WhatsApp e Threads e é a primeira do tipo no país contra uma big tech por uso de notícias em IA. As associações de jornais, emissoras e revistas alegam violação de direitos autorais.",
+   "contexto": "A Meta alterou seus termos comerciais para permitir uso de conteúdo publicado nas plataformas em sistemas de IA; editores em vários países disputam na Justiça o uso de reportagens para treinar modelos.",
+   "fatos": [
+    {
+     "texto": "O juiz Guilherme Madeira Dezem, da 44ª Vara Cível de São Paulo, concedeu em 3 de novembro liminar à ANJ, à Abert e à Aner proibindo a Meta de usar conteúdos jornalísticos para treinar algoritmos de IA sem autorização dos titulares.",
+     "base": "5 fontes independentes (Valor, Estadão, Jovem Pan, Gazeta do Povo, Fórum)"
+    },
+    {
+     "texto": "A decisão suspende parte dos novos Termos Comerciais da Meta previstos para 20 de novembro e fixa multa diária de R$ 1 milhão em caso de descumprimento.",
+     "base": "3 fontes independentes (Jovem Pan, CNN Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "A decisão também proíbe o uso de robôs para coletar reportagens, fotos e vídeos dos veículos filiados às três associações.",
+     "base": "2 fontes independentes (Folha, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A liminar é uma vitória dos veículos de imprensa na disputa com as big techs pelo valor do conteúdo usado em IA.",
+     "quem": "Associações autoras, segundo Estadão"
+    },
+    {
+     "texto": "A Meta pode recorrer e a decisão é provisória.",
+     "quem": "Estadão e Valor"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Cobertura ampla e homogênea, inclusive em veículos ligados às associações autoras; nenhum veículo trouxe a posição da Meta sobre a decisão.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Justiça proíbe Meta de usar conteúdo sem autorização",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/04/justica-proibe-meta-de-usar-conteudo-sem-autorizacao.ghtml",
+     "angulo": "Valor: Meta proibida de usar conteúdo em IA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização",
+     "url": "https://www.gazetadopovo.com.br/republica/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao/",
+     "angulo": "Gazeta: multa de R$ 1 milhão por dia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico para treinar inteligência artificial",
+     "url": "https://revistaforum.com.br/tecnologia/justica-proibe-meta/",
+     "angulo": "Fórum: liminar suspende novos termos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização após ação de ANJ, Abert e Aner",
+     "url": "https://www.estadao.com.br/economia/negocios/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao-apos-acao-de-anj-abert-e-aner/",
+     "angulo": "Estadão: decisão suspende regras comerciais.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização",
+     "url": "https://jovempan.com.br/brasil/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao/",
+     "angulo": "Jovem Pan: termos previstos para 20 de novembro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Justiça proíbe Meta de usar notícias para treinar inteligência artificial",
+     "url": "https://terrabrasilnoticias.com/2026/11/justica-proibe-meta-de-usar-noticias-para-treinar-inteligencia-artificial/",
+     "angulo": "Terra Brasil: coleta de conteúdo proibida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Justiça proíbe Meta de usar reportagens para treinar IA no Brasil",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/justica-proibe-meta-de-usar-reportagens-para-treinar-ia-no-brasil.shtml",
+     "angulo": "Folha: proibição inclui robôs de coleta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização",
+     "url": "https://www.cnnbrasil.com.br/nacional/brasil/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao-2/",
+     "angulo": "CNN: multa diária de R$ 1 milhão.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização",
+     "url": "https://www.infomoney.com.br/politica/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao/",
+     "angulo": "InfoMoney: decisão da 44ª Vara Cível.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "gilmar-manda-governo-do-ms-explicar-em-5-dias-violencia-contra-indigenas-pf-faz-operacao-por-ameacas-racistas-a-taliria-petrone-indigenas-convocam-atos-lista-de-1300-judeus-chamada-de-trem-para-auschwitz",
+   "editoria": "Direitos Humanos",
+   "escopo": "brasil",
+   "titulo": "Gilmar Mendes manda o governo de Mato Grosso do Sul e órgãos federais explicarem em cinco dias a violência contra indígenas após a eleição; PF deflagra operação contra ameaças racistas à deputada Talíria Petrone, povos indígenas convocam atos em Brasília, BH e Rio, e Judeus pela Democracia relatam lista de 1.300 nomes chamada de 'primeiro trem para Auschwitz'",
+   "lide": "Nove dias após o segundo turno, a onda de ameaças, boicotes e ataques a eleitores de Lula chega ao STF e à PF, e começa a produzir reações na própria direita. A Terra registra que a derrota 'virou combustível' para demissões e agressões de bolsonaristas contra petistas.",
+   "contexto": "O Disque 100 registrou 189 denúncias de violência política no período eleitoral, com casos quadruplicando em outubro; a Força Nacional está em aldeias do MS por tempo indeterminado, e um homem foi assassinado em ato pró-Lula em Pernambuco no sábado.",
+   "fatos": [
+    {
+     "texto": "O ministro Gilmar Mendes, do STF, mandou intimar órgãos e deu cinco dias para o governo de Mato Grosso do Sul esclarecer denúncias de violência contra povos indígenas após as eleições.",
+     "base": "3 fontes independentes (JOTA, CartaCapital, CNN Brasil)"
+    },
+    {
+     "texto": "A PF deflagrou em 3 de novembro a Operação Mahin para apurar ameaças, injúria racial, racismo e violência política pela internet contra a deputada Talíria Petrone (PSOL-RJ) e familiares, com investigação iniciada em agosto.",
+     "base": "2 fontes independentes (Agência Brasil, CartaCapital)"
+    },
+    {
+     "texto": "Povos indígenas e organizações convocaram atos em Brasília, Belo Horizonte e Rio de Janeiro para quarta (4) contra a violência e pela demarcação de terras.",
+     "base": "2 fontes independentes (Revista Fórum, Brasil de Fato)"
+    },
+    {
+     "texto": "A UFSM pediu parecer jurídico para afastar cautelarmente dois estudantes investigados por ameaças de morte e mensagens de ódio em grupos de WhatsApp.",
+     "base": "Brasil de Fato, com base em nota da universidade"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Uma lista com mais de 1.300 nomes de judeus (artistas, jornalistas, professores, políticos) circulou com o título 'Relação do primeiro trem para Auschwitz'; o grupo Judeus pela Democracia espera pacificação da comunidade.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "A derrota nas urnas virou combustível para boicotes, demissões e agressões de bolsonaristas contra petistas.",
+     "quem": "Terra (reportagem)"
+    },
+    {
+     "texto": "Políticos de direita que defendem boicotes deveriam renunciar a privilégios.",
+     "quem": "Cleitinho (Republicanos), segundo Diário do Poder"
+    },
+    {
+     "texto": "Empresas enfrentam dilemas éticos e legais ao demitir funcionários por escolha de voto.",
+     "quem": "Gazeta do Povo (análise)"
+    },
+    {
+     "texto": "A extrema direita 'reinventou a Noite dos Cristais' com a onda de retaliação.",
+     "quem": "Jorge Branco (Brasil de Fato, coluna)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O Comando Vermelho 'invadiu' o Ceará no governo do petista cotado para o Ministério da Segurança.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A coluna liga a presença da facção no Ceará a um governador petista cotado para a pasta; a expansão do CV pelo Nordeste é anterior e atinge estados de vários partidos, e não há nomeação anunciada.",
+     "onde_circula": "Diário do Poder (coluna Claudio Humberto)",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo e aliados tratam os episódios como onda coordenada de violência política e acionam PF, STF e MP.",
+    "oposicao": "Parte da direita (Cleitinho) condena os boicotes; outra (Diário do Poder) enquadra a reação como perseguição e explora a violência no Ceará."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita (Gazeta, Oeste, Terra Brasil) não noticiaram a decisão de Gilmar, a operação da PF nem a lista antissemita; veículos de esquerda não registram a análise da Gazeta sobre os dilemas legais das demissões.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "homem-de-20-anos-e-assassinado-em-ato-pro-lula-em-pernambuco-procuradora-de-macae-e-afastada-por-ataques-a-nordestinos-cleitinho-cobra-politicos-pro-boicote-pt-pede-investigacao-de-listas",
+    "titulo": "Homem de 20 anos é assassinado durante ato que celebrava a vitória de Lula no interior de Pernambuco; procuradora de Macaé é afastada por ataques a petistas e nordestinos, Cleitinho contraria Nikolas e cobra políticos que incentivam boicotes, e deputado do PT pede ao MP-SP investigação de listas de boicote"
+   },
+   "materias": [
+    {
+     "fonte": "jota",
+     "titulo": "Gilmar Mendes manda intimar órgãos para informarem sobre violência contra indígenas após as eleições",
+     "url": "https://www.jota.info/stf/do-supremo/gilmar-mendes-manda-intimar-orgaos-para-informarem-sobre-violencia-contra-indigenas-apos-as-eleicoes",
+     "angulo": "JOTA: Gilmar intima órgãos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Cleitinho desafia políticos que defendem boicotes e cobra renúncia a privilégios",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/minas-gerais/e10-minas-gerais/cleitinho-desafia-politicos-que-defendem-boicotes-e-cobra-renuncia-a-privilegios",
+     "angulo": "Diário do Poder: Cleitinho desafia políticos pró-boicote.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Após serem alvo de listas de boicote, Judeus pela Democracia esperam pacificação da comunidade",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/apos-serem-alvo-de-listas-de-boicote-judeus-pela-democracia-esperam-pacificacao-da-comunidade.shtml",
+     "angulo": "Folha: lista de 1.300 judeus, 'trem para Auschwitz'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "PF apura ameaças e ataques racistas contra deputada Talíria Petrone",
+     "url": "https://www.cartacapital.com.br/politica/pf-apura-ameacas-e-ataques-racistas-contra-deputada-taliria-petrone/",
+     "angulo": "CartaCapital: Operação Mahin.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Derrota nas urnas vira combustível para boicotes, demissões e agressões de bolsonaristas contra petistas",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/derrota-nas-urnas-vira-combustivel-para-boicotes-demissoes-e-agressoes-de-bolsonaristas-contra-petistas,477c69a97f33dc124089b9cab211383dzu7oidcy.html",
+     "angulo": "Terra: derrota vira combustível para agressões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Povos indígenas convocam novas manifestações após onda de violência",
+     "url": "https://revistaforum.com.br/politica/povos-indigenas-convocam-manifestacoes/",
+     "angulo": "Fórum: indígenas convocam novos atos.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Demissão por voto e ideologia: entenda os riscos legais e econômicos para empresas",
+     "url": "https://www.gazetadopovo.com.br/vida-e-cidadania/empresas-enfrentam-dilemas-eticos-e-legais-ao-demitir-funcionarios-por-escolha-de-voto/",
+     "angulo": "Gazeta: riscos legais das demissões por voto.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Gilmar Mendes dá 5 dias para governo do MS esclarecer denúncias de violência contra indígenas",
+     "url": "https://www.cartacapital.com.br/justica/gilmar-mendes-da-5-dias-para-governo-do-mato-grosso-do-sul-esclarecer-denuncias-de-violencia-contra-indigenas/",
+     "angulo": "CartaCapital: STF dá 5 dias ao MS.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "UFSM pede afastamento cautelar de dois estudantes investigados por ameaças bolsonaristas",
+     "url": "https://www.brasildefato.com.br/2026/11/03/ufsm-pede-afastamento-cautelar-de-dois-estudantes-investigados-por-ameacas-bolsonaristas/",
+     "angulo": "BdF: UFSM pede afastamento de estudantes.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "PF apura ameaças e ataques racistas contra deputada Talíria Petrone",
+     "url": "https://iclnoticias.com.br/pf-ameacas-racistas-deputada-taliria-petrone/",
+     "angulo": "ICL/Agência Brasil: PF apura ameaças a Talíria.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Comando Vermelho invadiu Ceará no governo de petista cotado para o Ministério da Segurança",
+     "url": "https://diariodopoder.com.br/coluna-claudio-humberto/comando-vermelho-invadiu-ceara-no-governo-de-petista-cotado-para-o-ministerio-da-seguranca",
+     "angulo": "Claudio Humberto: CV 'invadiu' o Ceará.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Brasília recebe ato contra violência aos povos indígenas nesta quarta-feira (4)",
+     "url": "https://www.brasildefato.com.br/2026/11/03/povos-indigenas-e-organizacoes-convocam-ato-em-brasilia-contra-violencia-e-pela-demarcacao-de-terras/",
+     "angulo": "BdF: ato em Brasília pela demarcação.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "ministerio-da-justica-recua-e-restabelece-classificacao-livre-de-desenhos-biblicos-da-record-apos-pressao-oposicao-anuncia-seis-medidas-aos-fatos-governo-nao-proibiu-exibicao",
+   "editoria": "Cultura",
+   "escopo": "brasil",
+   "titulo": "Ministério da Justiça recua, admite falha e restabelece a classificação livre do programa 'Record Kids: Desenhos Bíblicos', que havia elevado para 12 anos na sexta; oposição anuncia seis medidas contra a 'censura', vereadora aciona o MPF, e Aos Fatos esclarece que o governo não proibiu a exibição",
+   "lide": "A reclassificação publicada no Diário Oficial em 29 de outubro virou munição da direita evangélica e durou quatro dias: após queixa de integrantes do próprio governo, a pasta voltou atrás dizendo que histórias bíblicas são 'manifestação cultural'.",
+   "contexto": "A classificação indicativa é feita pela Coordenação-Geral de Políticas de Classificação Indicativa do Ministério da Justiça e orienta horários de exibição; não impede a veiculação nem o acesso de crianças.",
+   "fatos": [
+    {
+     "texto": "O Ministério da Justiça restabeleceu em 3 de novembro a classificação livre do programa 'Record Kids: Desenhos Bíblicos', revertendo a elevação para 'não recomendado para menores de 12 anos' publicada em 29 de outubro, e reconheceu falha na avaliação.",
+     "base": "4 fontes independentes (Gazeta do Povo, Terra Brasil, Congresso em Foco, Folha)"
+    },
+    {
+     "texto": "A reversão veio após queixa de membros do governo Lula à coordenação responsável pela classificação.",
+     "base": "Folha (coluna Outro Canal)"
+    },
+    {
+     "texto": "A liderança da oposição na Câmara anunciou em 3 de novembro seis medidas contra a reclassificação, e a vereadora Amanda Vettorazzo (União-SP) acionou o MPF.",
+     "base": "Diário do Poder, com base nos anúncios da oposição"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A medida foi 'censura' do governo a desenhos cristãos.",
+     "quem": "Oposição na Câmara, Marco Feliciano (Pleno News) e Diário do Poder"
+    },
+    {
+     "texto": "A transmissão de histórias bíblicas constitui manifestação cultural.",
+     "quem": "Ministério da Justiça, ao justificar a revisão"
+    },
+    {
+     "texto": "O governo justificou a reclassificação pela presença de drogas e violência nas histórias bíblicas.",
+     "quem": "O Antagonista"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Lula proibiu crianças de assistir aos desenhos bíblicos da Record.",
+     "rotulo": "Falso",
+     "explicacao": "A classificação indicativa de 12 anos não censura o programa nem impede o acesso de crianças; apenas orienta horário e exibição. E a classificação livre foi restabelecida em 3 de novembro.",
+     "onde_circula": "redes bolsonaristas, Diário do Poder, Pleno News",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://aosfatos.org/noticias/governo-lula-nao-proibiu-desenhos-biblicos/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo trata o caso como erro técnico corrigido e nega qualquer intenção de censura.",
+    "oposicao": "A direita evangélica enquadra o episódio como 'censura' e perseguição religiosa, e mantém as medidas mesmo após o recuo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de esquerda (247, Fórum, DCM, BdF) não noticiaram nem a reclassificação nem o recuo; a direita (Diário do Poder, Pleno News) manteve a palavra 'censura' após a reversão.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Após pressão, governo Lula recua e restabelece classificação livre de desenhos bíblicos",
+     "url": "https://www.gazetadopovo.com.br/republica/apos-pressao-governo-lula-recua-e-restabelece-classificacao-livre-de-desenhos-biblicos/",
+     "angulo": "Gazeta: governo recua após pressão.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "Governo Lula não proibiu exibição de desenhos bíblicos",
+     "url": "https://aosfatos.org/noticias/governo-lula-nao-proibiu-desenhos-biblicos/",
+     "angulo": "Aos Fatos: governo não proibiu exibição.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Urgente: Ministério da Justiça recua sobre desenhos bíblicos e admite falha",
+     "url": "https://terrabrasilnoticias.com/2026/11/urgente-ministerio-da-justica-recua-sobre-desenhos-biblicos-e-admite-falha/",
+     "angulo": "Terra Brasil: ministério admite falha.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo Lula criticou reclassificação dos desenhos bíblicos da Record antes de cancelamento",
+     "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/governo-lula-criticou-reclassificacao-dos-desenhos-biblicos-da-record-antes-de-cancelamento.shtml",
+     "angulo": "Folha: governo criticou reclassificação antes do cancelamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Oposição quer derrubar censura para crianças de desenhos bíblicos na TV",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/oposicao-quer-derrubar-censura-para-criancas-de-desenhos-biblicos-na-tv",
+     "angulo": "Diário do Poder: oposição anuncia seis medidas.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "MJSP muda classificação indicativa de desenhos bíblicos após polêmica",
+     "url": "https://www.congressoemfoco.com.br/noticia/131278/mjsp-muda-classificacao-indicativa-de-desenhos-biblicos-apos-polemica",
+     "angulo": "Congresso em Foco: MJSP muda classificação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "plenonews",
+     "titulo": "Até os desenhos bíblicos entraram na mira do governo",
+     "url": "https://pleno.news/opiniao/marco-feliciano/ate-os-desenhos-biblicos-entraram-na-mira-do-governo.html",
+     "angulo": "Feliciano: 'até os desenhos bíblicos na mira'.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Amanda Vettorazzo aciona MPF contra censura do governo Lula a desenhos bíblicos",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/amanda-vettorazzo-aciona-mpf-contra-censura-do-governo-lula-a-desenhos-biblicos",
+     "angulo": "Vereadora aciona MPF.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "trump-anuncia-fim-da-ajuda-militar-de-us-3-8-bi-a-israel-ate-dezembro-comissao-eleitoral-de-israel-nao-ve-fraude-e-procuradora-cobra-provas-ira-diz-que-4-petroleiros-atingiram-minas-em-ormuz-trump-sem-plano-imediato",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump anuncia no dia da eleição que os EUA encerrarão até dezembro a ajuda militar anual de US$ 3,8 bilhões a Israel, 'acordada' com Netanyahu; comissão eleitoral israelense diz não ter encontrado fraude e a procuradora-geral cobra provas do Shin Bet; Irã afirma que quatro petroleiros atingiram minas em Ormuz e Trump diz ao FT não ter plano imediato de novo ataque",
+   "lide": "O anúncio surpresa, feito à Fox News enquanto os americanos votavam, pareceu dirigido a eleitores céticos do apoio a Israel, segundo o Guardian, e não esclarece o alcance: o acordo vigente vai até 2028 e depende do Congresso. Em Israel, Netanyahu insiste em 'fraude' dos partidos árabes enquanto a oposição se une em torno de Gadi Eisenkot.",
+   "contexto": "Na véspera, os EUA atacaram a ilha de Qeshm e o Irã propôs reabrir Ormuz em dois dias se o bloqueio naval acabar. O resultado da eleição israelense deu aos partidos árabes a chave da maioria; o presidente Herzog decide quem recebe o mandato para formar governo.",
+   "fatos": [
+    {
+     "texto": "Trump afirmou em 3 de novembro, em entrevista à Fox News, que os EUA deixarão de pagar a Israel os cerca de US$ 3,8 bilhões anuais de ajuda militar ao fim de dezembro, em medida que diz ter acordado com Netanyahu; a venda de armamentos continuaria.",
+     "base": "5 fontes independentes (The Guardian, Financial Times, Folha, DW, El País)"
+    },
+    {
+     "texto": "A comissão eleitoral de Israel informou que não encontrou fraude na eleição da semana passada; a procuradora-geral pediu ao Shin Bet o andamento da investigação e disse não ter recebido nenhum elemento que sustente as acusações.",
+     "base": "3 fontes independentes (Euronews, Estadão, O Antagonista)"
+    },
+    {
+     "texto": "A Guarda Revolucionária iraniana afirmou em 4 de novembro que quatro petroleiros pegaram fogo após atingir minas no Estreito de Ormuz ao tentar cruzar rota proibida.",
+     "base": "3 fontes independentes (AFP, BBC, Estadão)"
+    },
+    {
+     "texto": "Trump disse ao Financial Times que os EUA não têm plano imediato de atacar o Irã; o Catar afirmou ver 'esperança' para um acordo interino apesar dos novos ataques.",
+     "base": "2 fontes independentes (Financial Times, Euronews)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O anúncio é uma mudança histórica na relação dos EUA com Israel.",
+     "quem": "CNN Brasil (análise)"
+    },
+    {
+     "texto": "Há ceticismo sobre o alcance do anúncio, já que o pacote de US$ 3,8 bilhões vigora até 2028 e é aprovado pelo Congresso.",
+     "quem": "Al Jazeera e El País"
+    },
+    {
+     "texto": "Suspender a ajuda a Israel é 'ceder aos democratas'.",
+     "quem": "Brian Kilmeade (Fox News), via Breitbart"
+    },
+    {
+     "texto": "Alegações israelenses de que o Irã prepara armas químicas dividem autoridades americanas; alguns veem tentativa de Netanyahu de puxar Trump de volta à ação militar.",
+     "quem": "New York Times"
+    },
+    {
+     "texto": "A derrota republicana é uma mensagem dos eleitores americanos contra a guerra.",
+     "quem": "Presidente do Parlamento iraniano, segundo CNN Brasil"
+    },
+    {
+     "texto": "Mais clérigos e autoridades iranianas pedem armas nucleares após a guerra.",
+     "quem": "New York Times"
+    },
+    {
+     "texto": "A oposição promete tirar Netanyahu do poder em pouco tempo, com Eisenkot como candidato a premiê.",
+     "quem": "Clarín e El País"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Os partidos árabes 'roubaram' a eleição em Israel, possivelmente com ajuda estrangeira.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A comissão eleitoral declarou não ter encontrado fraude e a procuradora-geral afirmou não ter recebido nenhum elemento que sustente as acusações feitas por Netanyahu e aliados.",
+     "onde_circula": "Netanyahu e aliados, redes israelenses",
+     "checagem": []
+    },
+    {
+     "alegacao": "O Irã se prepara para usar armas químicas.",
+     "rotulo": "Em apuração",
+     "explicacao": "A alegação é de Israel aos EUA; autoridades americanas divergem sobre sua credibilidade e não há confirmação independente.",
+     "onde_circula": "governo israelense, Breitbart",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A queda do petróleo com a expectativa de paz no Irã e na Ucrânia alivia a pressão sobre os combustíveis no Brasil; o Brasil de Fato publica entrevista com estrategista iraniano sobre a 'nova ordem'.",
+   "ponto_cego": "Breitbart e Fox tratam o corte como concessão aos democratas e omitem a ausência de fraude apontada pela comissão israelense; veículos de esquerda (247, BdF) celebram o corte sem registrar que a venda de armas continua e que o pacote depende do Congresso.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "eua-atacam-ilha-de-qeshm-no-estreito-de-ormuz-na-vespera-das-midterms-e-chamam-de-defensivo-ira-propoe-reabrir-ormuz-em-dois-dias-khamenei-da-poderes-a-negociadores-trump-diz-que-acordo-pode-acontecer-petroleo-cai-7",
+    "titulo": "EUA atacam a ilha iraniana de Qeshm, no Estreito de Ormuz, na véspera das midterms e classificam a ação como 'defensiva', horas depois de Trump dizer que um acordo 'pode acontecer'; Irã propõe reabrir Ormuz em dois dias se Washington encerrar o bloqueio naval, Khamenei dá poderes aos negociadores e o petróleo cai mais de 7%"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Trump claims US will end military aid to Israel by end of this year",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+     "angulo": "Guardian: anúncio surpresa no dia da eleição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Trump anuncia fim da ajuda militar dos EUA a Israel até dezembro e surpreende Netanyahu",
+     "url": "https://www.brasil247.com/mundo/trump-anuncia-fim-da-ajuda-militar-dos-eua-a-israel-ate-dezembro-e-surpreende-netanyahu/",
+     "angulo": "247: anúncio surpreende Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Trump asegura que suspenderá a final de año los 4.000 millones de dólares de ayuda militar a Israel",
+     "url": "https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html",
+     "angulo": "El País: pacto vai até 2028 e depende do Congresso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Israel's election commission says no fraud found in last week's vote",
+     "url": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote",
+     "angulo": "Euronews: comissão não vê fraude.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Procuradora-geral de Israel cobra de serviço de inteligência provas de fraude eleitoral",
+     "url": "https://www.estadao.com.br/internacional/procuradora-geral-israel-cobra-servico-inteligencia-provas-fraude-eleitoral-npr/",
+     "angulo": "Estadão: procuradora cobra provas do Shin Bet.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Four oil tankers destroyed in Hormuz after hitting mines, Tehran says",
+     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says",
+     "angulo": "AFP: quatro petroleiros atingem minas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+     "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: IRGC diz que navios cruzaram rota proibida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Live coverage: Trump admits Iran war a factor as Republicans routed",
+     "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+     "angulo": "FT: Trump admite peso do Irã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+     "angulo": "NYT: alegações de armas químicas dividem autoridades.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Irã vê derrota republicana nos EUA como mensagem contra a guerra",
+     "url": "https://www.cnnbrasil.com.br/internacional/ira-ve-derrota-republicana-nos-eua-como-mensagem-contra-a-guerra/",
+     "angulo": "CNN: Irã vê mensagem contra a guerra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Qatar sees 'hope' for US-Iran deal despite fresh US strikes as mediators exchange proposals in real time",
+     "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
+     "angulo": "Euronews: Catar vê esperança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Trump anuncia fim de ajuda anual de US$ 4 bilhões a Israel",
+     "url": "https://www.dw.com/pt-br/trump-anuncia-fim-de-ajuda-anual-de-us-4-bilhões-a-israel/a-79846151?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW: venda de armamentos segue.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "La oposición en Israel promete echar a Benjamin Netanyahu del poder en poco tiempo",
+     "url": "https://www.clarin.com/mundo/oposicion-israel-promete-echar-benjamin-netanyahu-poder-tiempo_0_EGdWycGRML.html",
+     "angulo": "Clarín: oposição promete tirar Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Trump diz que EUA vão cortar ajuda anual de US$ 4 bilhões a Israel",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-diz-que-eua-vao-cortar-ajuda-anual-de-us-4-bilhoes-a-israel.shtml",
+     "angulo": "Folha: corte de US$ 4 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "mortos-em-centro-de-ajuda-na-ucrania-sobem-a-31-com-38-sob-escombros-russia-lanca-ataque-massivo-a-rede-eletrica-melania-recebe-russos-e-ucranianos-dia-5-merz-promete-200-milhoes-de-euros",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Mortos no bombardeio russo a centro de ajuda em Komyshuvakha sobem para 31, com 38 pessoas possivelmente sob os escombros; Rússia lança ataque com dezenas de mísseis e centenas de drones contra a rede elétrica ucraniana às vésperas das negociações, Melania Trump receberá russos e ucranianos na Casa Branca nesta quinta e Merz promete 200 milhões de euros a Zelensky em Berlim",
+   "lide": "Um dia após o ataque que Kiev chama de um dos mais letais da guerra, Moscou confirmou presença nas negociações de Abu Dhabi em 10 e 11 de novembro, mas intensificou os bombardeios. A Polônia reforçou a fronteira com Kaliningrado após 'movimentos perturbadores', segundo Tusk.",
+   "contexto": "A trégua local em Kherson terminou no domingo e os dois lados se acusaram de hackear aplicativos de alerta. A força multinacional europeia fará seu primeiro exercício na Polônia a partir de 9 de novembro.",
+   "fatos": [
+    {
+     "texto": "O número de mortos no bombardeio a um abrigo em escola usada para distribuir ajuda em Komyshuvakha, na região de Zaporizhzhia, subiu para 31, com 12 identificados e 38 pessoas possivelmente sob os escombros, segundo autoridades ucranianas.",
+     "base": "3 fontes independentes (BBC, NYT, Le Monde)"
+    },
+    {
+     "texto": "A Rússia lançou em 3 de novembro ataque com dezenas de mísseis e centenas de drones contra usinas e subestações elétricas ucranianas, deixando regiões sem energia.",
+     "base": "2 fontes independentes (g1, Financial Times)"
+    },
+    {
+     "texto": "A Casa Branca confirmou que a primeira-dama Melania Trump receberá representantes da Rússia e da Ucrânia em 5 de novembro; o Kremlin confirmou participação nas negociações de Abu Dhabi em 10 e 11 de novembro.",
+     "base": "3 fontes independentes (g1, Brasil de Fato, Operamundi)"
+    },
+    {
+     "texto": "Em encontro com Zelensky em Berlim, o chanceler Friedrich Merz anunciou pacote de 200 milhões de euros para o inverno, com prioridade para defesa aérea e energia.",
+     "base": "2 fontes independentes (DW, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O ataque a Komyshuvakha pode ser um dos mais letais da guerra.",
+     "quem": "New York Times"
+    },
+    {
+     "texto": "A Rússia intensifica os ataques contra alvos civis.",
+     "quem": "Le Monde"
+    },
+    {
+     "texto": "Há 'movimentos perturbadores' em Kaliningrado e a Rússia alimenta a instabilidade política na Polônia.",
+     "quem": "Donald Tusk, premiê da Polônia"
+    },
+    {
+     "texto": "A ex-porta-voz Yulia Mendel foi acusada de alta traição pelo Ministério Público ucraniano.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "A Europa 'abafa' denúncias de prisão secreta com câmara de tortura na Ucrânia.",
+     "quem": "Dmitry Peskov, porta-voz do Kremlin"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Há uma prisão secreta com câmara de tortura na Ucrânia que a Europa encobre.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A alegação é do porta-voz do Kremlin, repetida por Brasil de Fato e Operamundi; não há verificação independente nem detalhes públicos sobre o local.",
+     "onde_circula": "Kremlin, Brasil de Fato, Operamundi",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "O SBT registra que o petróleo caiu com expectativa de paz na Ucrânia e no Irã; o brasileiro Hendrick Lima, morto em combate, aguarda liberação do corpo com assistência do Itamaraty.",
+   "ponto_cego": "Veículos de esquerda brasileiros (BdF, Operamundi) repetem a acusação de Peskov sobre prisão secreta sem registrar o ataque ao centro de ajuda; a direita (Oeste) destaca Abu Dhabi e omite o ataque à rede elétrica.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "bombardeio-russo-mata-ao-menos-26-em-centro-de-ajuda-humanitaria-no-sul-da-ucrania-apos-fim-da-tregua-eua-anunciam-negociacoes-em-abu-dhabi-em-10-e-11-de-novembro-forca-europeia-faz-exercicio-na-polonia",
+    "titulo": "Bombardeio russo mata ao menos 26 pessoas em centro de distribuição de ajuda humanitária no sul da Ucrânia horas após o fim da trégua mais longa da guerra; EUA anunciam negociações entre Rússia e Ucrânia em Abu Dhabi em 10 e 11 de novembro, e força europeia de 2.800 soldados faz primeiro exercício na Polônia"
+   },
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
+     "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+     "angulo": "NYT: entre os ataques mais letais da guerra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Rússia confirma participação em negociações com Ucrânia e EUA nos Emirados Árabes",
+     "url": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-confirma-participacao-em-negociacoes-com-ucrania-e-eua-nos-emirados-arabes/",
+     "angulo": "Operamundi: Rússia confirma Abu Dhabi.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Rússia lança ataque com centenas de drones e mísseis contra rede elétrica da Ucrânia às vésperas de negociações de paz",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/03/russia-lanca-ataque-com-centenas-de-drones-e-misseis-contra-rede-eletrica-da-ucrania-as-vesperas-de-negociacoes-de-paz.ghtml",
+     "angulo": "g1: ataque massivo à rede elétrica.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Rússia acusa Europa de abafar denúncias de prisão secreta com câmara de tortura na Ucrânia",
+     "url": "https://www.brasildefato.com.br/2026/11/03/russia-acusa-europa-de-abafar-denuncias-de-prisao-secreta-com-camara-de-tortura-na-ucrania/",
+     "angulo": "BdF repete Peskov sobre prisão secreta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
+     "angulo": "g1: Melania recebe russos e ucranianos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Em encontro com Zelenski, Merz promete ampliar apoio à Ucrânia",
+     "url": "https://www.dw.com/pt-br/em-encontro-com-zelenski-merz-promete-ampliar-apoio-à-ucrânia/a-79847760?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW: Merz promete 200 milhões de euros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "EN DIRECT, guerre en Ukraine : 38 personnes pourraient encore être ensevelies sous les décombres de l’école bombardée lundi à Komychouvakha",
+     "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-un-entrepot-d-e-commerce-russe-vise-par-une-attaque-de-drones-ukrainiens_6803934_3210.html",
+     "angulo": "Le Monde: 38 podem estar sob escombros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Tusk acusa Rússia de alimentar instabilidade na Polônia",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/tusk-acusa-russia-de-alimentar-instabilidade-na-polonia",
+     "angulo": "SBT: Tusk acusa Rússia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Poland Beefs Up Security at Border With Russia",
+     "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+     "angulo": "NYT: Polônia reforça fronteira.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ucrânia acusa ex-porta-voz do presidente Volodmir Zelenski de alta traição",
+     "url": "https://www.estadao.com.br/internacional/ucrania-acusa-ex-porta-voz-presidente-volodmir-zelenski-alta-traicao-npr/",
+     "angulo": "Estadão: ex-porta-voz acusada de traição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Casa Branca reunirá representantes de Rússia e Ucrânia em 5 de novembro",
+     "url": "https://www.brasildefato.com.br/2026/11/03/casa-branca-reunira-representantes-de-russia-e-ucrania-em-5-de-novembro/",
+     "angulo": "BdF: reunião na Casa Branca dia 5.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+     "angulo": "BBC: nove bombas de 3 toneladas; balanço inicial de 29 mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "sete-voos-na-europa-recebem-ameacas-falsas-de-bomba-e-aeroporto-de-varsovia-fecha-ciberataque-a-freezers-chega-a-11-paises-com-alemanha-e-romenia-fornecedores-do-reino-unido-atingidos",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Sete voos na Europa recebem ameaças de bomba em um só dia, todas falsas, e o aeroporto de Varsóvia-Modlin fecha temporariamente; ciberataque aos sistemas de refrigeração de supermercados chega a 11 países com Alemanha e Romênia, atinge fornecedores de alimentos no Reino Unido, e circulam listas de até 23 países 'em alerta'",
+   "lide": "Em 48 horas, a Europa acumulou ameaças de bomba a aviões e a um navio de cruzeiro, nenhuma confirmada, e a segunda onda de sabotagem remota de geladeiras de supermercados, sem autoria identificada. Autoridades investigam se há coordenação, e a UE fala em tentativa deliberada de perturbar a cadeia alimentar.",
+   "contexto": "Na segunda, freezers de supermercados em ao menos sete países tiveram a temperatura elevada a 50°C, um mês após ataque semelhante na França. Vários governos europeus já orientaram famílias a manter estoques de emergência.",
+   "fatos": [
+    {
+     "texto": "Em 3 de novembro, ao menos sete voos na Europa (com destino a Varsóvia, Roma, Espanha e Sófia, operados por Ryanair, Wizz Air e outras) foram alvo de ameaças de bomba; as aeronaves pousaram em segurança, nenhum explosivo foi encontrado e o aeroporto de Varsóvia-Modlin fechou temporariamente.",
+     "base": "4 fontes independentes (BBC, The Guardian, g1, DW)"
+    },
+    {
+     "texto": "Alemanha e Romênia relataram ataques hackers a supermercados, elevando para 11 o número de países europeus atingidos pelos ciberataques aos sistemas de refrigeração; fornecedores de alimentos do Reino Unido também foram atingidos.",
+     "base": "2 fontes independentes (Folha, The Guardian)"
+    },
+    {
+     "texto": "Uma quinta ameaça, a um navio de cruzeiro, também foi considerada falsa.",
+     "base": "2 fontes independentes (SBT, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As ameaças foram 'hoaxes maliciosos' e não está claro se há coordenação entre elas.",
+     "quem": "The Guardian, com base em autoridades"
+    },
+    {
+     "texto": "Os ataques a freezers são uma tentativa deliberada de perturbar a cadeia alimentar do bloco.",
+     "quem": "União Europeia"
+    },
+    {
+     "texto": "O número de países europeus com recomendações de preparação para emergências chegou a 23.",
+     "quem": "Oeste, com base em levantamentos que circulam nas redes"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "23 países europeus estão 'em alerta' e orientam a população a estocar água e alimentos.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A Oeste baseia a contagem em listas que circulam nas redes sociais, não em anúncio oficial; as recomendações de preparação variam por país e várias são anteriores aos incidentes desta semana.",
+     "onde_circula": "Oeste, redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Não há registro de impacto no Brasil; a cobertura brasileira (g1, SBT, Folha, DW Brasil, Operamundi, Terra Brasil) reproduz agências e a imprensa europeia.",
+   "ponto_cego": "Cobertura factual em todos os lados; apenas a Folha registrou a extensão a 11 países e só o Guardian, os fornecedores britânicos.",
+   "continua": {
+    "data": "2026-11-03",
+    "id": "ciberataque-eleva-a-50-graus-geladeiras-e-freezers-de-supermercados-em-sete-paises-europeus-ue-fala-em-tentativa-deliberada-de-perturbar-cadeia-alimentar-pentagono-investiga",
+    "titulo": "Ciberataque eleva a até 50°C a temperatura de geladeiras e freezers de supermercados em ao menos sete países europeus, obriga redes a descartar alimentos e leva a UE a falar em 'tentativa deliberada de perturbar a cadeia alimentar'; é o segundo ataque em semanas, e o Pentágono investiga casos semelhantes"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Seven flights across Europe targeted by suspected bomb threats",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+     "angulo": "BBC: sete voos checados na Polônia, Espanha, Bulgária e Itália.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Aumenta para 23 o número de países em alerta na Europa",
+     "url": "https://revistaoeste.com/mundo/aumenta-para-23-o-numero-de-paises-em-alerta-na-europa/",
+     "angulo": "Oeste: 23 países 'em alerta'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+     "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+     "angulo": "Guardian: 'hoaxes maliciosos', coordenação incerta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ameaças de bomba em voos provocam desvios e fecham aeroporto na Europa; nenhum explosivo foi encontrado",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/03/ameacas-de-bomba-em-voos-provocam-desvios-e-fecham-aeroporto-na-europa-nenhum-explosivo-foi-encontrado.ghtml",
+     "angulo": "g1: desvios e aeroporto fechado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alemanha e Romênia relatam ataques hackers a supermercados; sobe para 11 o número de países atingidos",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/alemanha-e-romenia-relatam-ataques-hackers-a-supermercados-sobe-para-11-o-numero-de-paises-atingidos.shtml",
+     "angulo": "Folha: 11 países atingidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "dw",
+     "titulo": "Multiple flights to European airports targeted by bomb threats",
+     "url": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-world-4025-xml-mrss",
+     "angulo": "DW: voos para Varsóvia, Roma, Espanha e Sófia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Europa tem cinco ameaças de bomba no mesmo dia",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/europa-tem-cinco-ameacas-de-bomba-no-mesmo-dia",
+     "angulo": "SBT: quinta ameaça em navio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Quatro aviões recebem ameaças de bomba na Europa; autoridades descartam riscos",
+     "url": "https://operamundi.uol.com.br/europa/quatro-avioes-recebem-ameacas-de-bomba-na-europa-autoridades-descartam-riscos/",
+     "angulo": "Operamundi: autoridades descartam riscos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Bomb Threats Disrupt Several Flights Across Europe",
+     "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+     "angulo": "NYT: ameaças contra ao menos sete aviões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Ameaças de bomba afetam voos e aeroportos na Europa",
+     "url": "https://www.dw.com/pt-br/ameaças-de-bomba-afetam-voos-e-aeroportos-na-europa/a-79844673?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: Polônia, Espanha e Bulgária.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Cinco aviões desviam rotas em menos de 24 horas após ameaças a bordo",
+     "url": "https://terrabrasilnoticias.com/2026/11/cinco-avioes-desviam-rotas-em-menos-de-24-horas-apos-ameacas-a-bordo/",
+     "angulo": "Terra Brasil: cinco aviões desviam rotas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-03"
+    }
+   ]
+  }
+ ]
+}
