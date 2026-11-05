@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-04T16:03:47+00:00",
+ "atualizado_em": "2026-11-05T09:03:20+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-05",
+   "arquivo": "data/edicoes/2026-11-05.json",
+   "historias": 12,
+   "gerado_em": "2026-11-05T06:03:20-03:00",
+   "manchete": "Copom mantém a Selic em 13,75% e interrompe os cortes; Lula fará pronunciamento no domingo"
+  },
   {
    "data": "2026-11-04",
    "arquivo": "data/edicoes/2026-11-04.json",

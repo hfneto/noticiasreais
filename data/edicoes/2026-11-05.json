@@ -1,0 +1,2053 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-05",
+ "gerado_em": "2026-11-05T06:03:20-03:00",
+ "historias": [
+  {
+   "id": "copom-mantem-selic-em-13-75-e-interrompe-cortes",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Copom mantém a Selic em 13,75% e interrompe os cortes; Lula fará pronunciamento no domingo",
+   "lide": "Na primeira reunião após a reeleição de Lula, o Banco Central parou de cortar juros e citou a piora das expectativas de inflação, o câmbio e as contas públicas. O presidente prepara um pronunciamento em rede nacional no domingo (8) para reafirmar o compromisso fiscal.",
+   "contexto": "A Selic estava em 15% em março e caiu em cinco reuniões seguidas, de 0,25 ponto cada. Depois do segundo turno, o dólar subiu e as projeções de inflação do mercado pioraram.",
+   "fatos": [
+    {
+     "texto": "O Copom manteve a Selic em 13,75% ao ano por unanimidade e interrompeu a sequência de cinco cortes de 0,25 ponto iniciada em março.",
+     "base": "4 fontes independentes (g1, Folha, Estadão, Agência Brasil)"
+    },
+    {
+     "texto": "O comitê elevou suas projeções de inflação e citou o petróleo, o câmbio e a política fiscal entre os riscos.",
+     "base": "3 fontes independentes (O Globo, CNN Brasil, DCM)"
+    },
+    {
+     "texto": "Levantamento da MoneYou com a Lev Intelligence põe o Brasil com o maior juro real do mundo, de 9,49% ao ano, à frente da Turquia. A Exame, com outra projeção de inflação, calcula 9,05%.",
+     "base": "3 fontes independentes (Metrópoles, IstoÉ, Exame)"
+    },
+    {
+     "texto": "CNI e Fiesp criticaram a decisão; a CNI cobrou a retomada dos cortes em dezembro.",
+     "base": "3 fontes independentes (Poder360, Jovem Pan, Revista Oeste)"
+    },
+    {
+     "texto": "Lula fará um pronunciamento em cadeia nacional de rádio e TV no domingo (8) para reafirmar o compromisso com as contas públicas.",
+     "base": "4 fontes independentes (Estadão, Folha, Jovem Pan, g1)"
+    },
+    {
+     "texto": "Na quarta (4), antes da decisão, o dólar caiu para R$ 5,45 e o Ibovespa subiu mais de 1%, interrompendo seis quedas seguidas.",
+     "base": "2 fontes independentes (Agência Brasil, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O futuro da Selic depende menos do Banco Central e mais do governo, e o juro pode ficar em 13,75% até o fim de 2027.",
+     "quem": "Analistas ouvidos por Folha, Poder360 e CNN Brasil"
+    },
+    {
+     "texto": "A decisão é uma 'vergonha' e só foi tomada porque Lula foi reeleito; o mercado é dos 'barões da Faria Lima'.",
+     "quem": "Lindbergh Farias (PT-RJ)"
+    },
+    {
+     "texto": "A manutenção dos juros é 'extorsão financeira' e favorece o rentismo.",
+     "quem": "Força Sindical"
+    },
+    {
+     "texto": "O país corre risco de uma crise fiscal pior que a do governo Dilma.",
+     "quem": "Maílson da Nóbrega, ex-ministro da Fazenda, ao SBT"
+    },
+    {
+     "texto": "O comunicado mostra uma economia perdendo força com riscos maiores de inflação, um prenúncio de estagflação em 2027.",
+     "quem": "Análise do Valor"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Vídeo mostra posto em São Paulo cobrando R$ 9,29 pela gasolina depois da reeleição de Lula.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A reportagem do SBT é de março e voltou a circular depois da eleição. A gasolina comum custou em média R$ 6,35 no estado em outubro.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/11/04/video-de-posto-com-gasolina-a-r-929-em-sp-e-de-marco/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados criticam o Banco Central por parar os cortes, e o governo prepara um pronunciamento para reafirmar o rigor fiscal e pregar pacificação.",
+    "oposicao": "Oposição e boa parte do mercado atribuem a pausa à desconfiança fiscal com o quarto mandato e a propostas como a de limitar juros."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "dolar-fecha-no-maior-nivel-do-ano-a-5-48-ibovespa-tem-6a-queda-seguida-copom-decide-hoje-com-maioria-apostando-em-selic-parada-cochrane-diz-que-ideia-de-lara-resende-nao-tem-precedente-tesouro-ve-divida-de-90-do-pib",
+    "titulo": "Dólar fecha a R$ 5,48, maior nível do ano, na véspera da decisão do Copom sobre a Selic"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Copom mantém taxa básica de juros da economia em 13,75% ao ano",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/04/copom-mantem-taxa-basica-de-juros-da-economia-em-1375percent-ao-ano.ghtml",
+     "angulo": "g1: decisão unânime interrompe o ciclo iniciado em março.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lindbergh critica decisão do BC de manter Selic em 13,75%: “Vergonha”",
+     "url": "https://revistaforum.com.br/politica/lindbergh-critica-bc-selic/",
+     "angulo": "Fórum: ouve só Lindbergh, que atribui a pausa à reeleição de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Copom interrompe ciclo de cortes e mantém Selic em 13,75%",
+     "url": "https://www.gazetadopovo.com.br/economia/copom-interrompe-ciclo-de-cortes-e-mantem-selic-em-1375/",
+     "angulo": "Gazeta: destaca que é a primeira reunião após a reeleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Futuro da Selic depende do governo Lula após Copom manter taxa em 13,75%, dizem analistas",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/futuro-da-selic-depende-do-governo-lula-apos-copom-manter-taxa-em-1375-dizem-analistas.shtml",
+     "angulo": "Folha: analistas dizem que a trajetória dos juros depende do governo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Força Sindical denuncia “extorsão financeira” após BC manter Selic em 13,75%",
+     "url": "https://www.brasil247.com/economia/forca-sindical-denuncia-extorsao-financeira-apos-bc-manter-selic-em-1375/",
+     "angulo": "247: Força Sindical fala em 'extorsão financeira' e prevê menos investimento em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Aceleração da inflação justifica Selic em 13,75%, diz Copom",
+     "url": "https://www.poder360.com.br/poder-economia/aceleracao-da-inflacao-justifica-selic-em-1375-diz-copom/",
+     "angulo": "Poder360: BC eleva a projeção do IPCA de 2026 para 5,6%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Maílson prevê pausa na Selic e crise fiscal pior que Dilma",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/mailson-preve-pausa-na-selic-e-crise-fiscal-pior-que-dilma",
+     "angulo": "SBT: só Maílson, que prevê crise fiscal pior que a de Dilma.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Brasil segue com maior juro real do mundo após Copom manter Selic em 13,75%",
+     "url": "https://www.metropoles.com/brasil/brasil-segue-com-maior-juro-real-do-mundo-apos-copom-manter-selic-em-1375",
+     "angulo": "Metrópoles: juro real de 9,49%, acima da Turquia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula fará pronunciamento para tentar acalmar o mercado e demonstrar preocupação com a dívida pública",
+     "url": "https://www.estadao.com.br/economia/lula-fara-pronunciamento-neste-fim-de-semana-para-acalmar-o-mercado/",
+     "angulo": "Estadão: pronunciamento quer acalmar o mercado e pregar pacificação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "BC interrompe cortes e mantém Selic em 13,75% após reeleição de Lula",
+     "url": "https://www.diariodocentrodomundo.com.br/bc-interrompe-cortes-e-mantem-selic-em-1375-apos-reeleicao-de-lula/",
+     "angulo": "DCM: lista as pressões citadas pelo Copom e a próxima reunião em dezembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Fiesp critica Selic a 13,75% e diz que juros ‘punem quem produz e consome’",
+     "url": "https://revistaoeste.com/no-ponto/fiesp-critica-selic-a-1375-e-diz-que-juros-punem-quem-produz-e-consome/",
+     "angulo": "Oeste: Fiesp diz que os juros 'punem quem produz e consome'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Dilema do Copom escancara risco de estagflação",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/05/dilema-do-copom-escancara-risco-de-estagflacao.ghtml",
+     "angulo": "Valor: o comunicado sugere risco de estagflação.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "alcolumbre-tira-maioridade-penal-da-pauta-e-espera-a-camara",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Alcolumbre tira a maioridade penal da pauta do Senado e vai esperar a Câmara",
+   "lide": "A pedido de Hugo Motta, o presidente do Senado retirou da pauta a PEC que reduz a maioridade penal para 16 anos em crimes hediondos e disse que aguardará a proposta em análise na Câmara. O líder do PL disse que 'não tem mais acordo', e Alcolumbre respondeu com críticas a eleitos que, segundo ele, ganharam votos 'ofendendo e agredindo'.",
+   "fatos": [
+    {
+     "texto": "Alcolumbre retirou a PEC da maioridade penal da pauta de quarta (4), depois de um pedido de Motta, e disse que o Senado esperará a Câmara.",
+     "base": "3 fontes independentes (g1, Folha, Gazeta do Povo) e Agência Senado"
+    },
+    {
+     "texto": "A proposta da Câmara é a PEC 32/2015, em comissão especial com relatoria de Mendonça Filho (União-PE); o relator deve apresentar parecer no fim do mês.",
+     "base": "2 fontes independentes (Agência Câmara, CartaCapital)"
+    },
+    {
+     "texto": "O texto que o Senado votaria, apresentado pelo líder do PT, previa responsabilização a partir dos 16 anos em crimes hediondos.",
+     "base": "2 fontes independentes (O Globo, Brasil 247)"
+    },
+    {
+     "texto": "O líder do PL no Senado, Carlos Portinho, disse que 'não tem mais acordo' depois do adiamento.",
+     "base": "2 fontes independentes (InfoMoney, Veja)"
+    },
+    {
+     "texto": "Alcolumbre disse que analisará a questão de ordem de Randolfe Rodrigues sobre Flávio Bolsonaro registrar presença e voto estando nos EUA.",
+     "base": "3 fontes independentes (Folha, Estadão, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula negociou para evitar a votação imediata.",
+     "quem": "Revista Oeste"
+    },
+    {
+     "texto": "Lula falou sobre a maioridade na campanha para evitar o uso eleitoral do tema; a PEC da Segurança era mais urgente.",
+     "quem": "Jaques Wagner (PT-BA), ao Poder360"
+    },
+    {
+     "texto": "Alcolumbre usa a votação da maioridade como moeda de troca para ser reconduzido à presidência do Senado.",
+     "quem": "O Antagonista"
+    },
+    {
+     "texto": "O PT protege criminosos ao barrar a redução da maioridade.",
+     "quem": "Rogério Marinho (PL-RN), ao Diário do Poder"
+    },
+    {
+     "texto": "A redução se apoia em falácias: os dados do sistema socioeducativo de 2025 não mostram adolescentes como motor da violência.",
+     "quem": "Thiago Amparo, colunista da Folha"
+    },
+    {
+     "texto": "Toda idade penal é uma presunção; escolher 16 ou 18 anos é decidir qual erro tolerar, e o critério deve cair para 16.",
+     "quem": "Francisco Razzo, colunista da Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Motta se comprometeu a votar a redução da maioridade na Câmara ainda em novembro.",
+     "rotulo": "Contraditório",
+     "explicacao": "Alcolumbre disse ter recebido esse compromisso, mas o próprio Motta afirmou ao Valor que não há data acordada.",
+     "onde_circula": "Senado e imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governistas defendem separar a maioridade da PEC da Segurança e esperar a comissão da Câmara.",
+    "oposicao": "O PL acusa Alcolumbre de descumprir o acordo e o PT de 'proteger criminosos', e lança Rogério Marinho contra a reeleição dele no Senado."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "senado-aprova-pec-da-seguranca-por-75-a-0-sem-reducao-da-maioridade-penal-retirada-por-38-a-36-lula-confirma-ministerio-acordo-para-votar-maioridade-quarta-flavio-vota-dos-eua",
+    "titulo": "Senado aprova a PEC da Segurança Pública por unanimidade, sem a redução da maioridade penal"
+   },
+   "materias": [
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/04/reducao-da-maioridade-penal-senado-aguardara-votacao-de-pec-da-camara",
+     "angulo": "Agência Senado: a decisão comunicada em plenário.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Após cobrança de líder do PL, Alcolumbre dispara contra oposição",
+     "url": "https://www.gazetadopovo.com.br/republica/apos-cobranca-de-lider-do-pl-alcolumbre-dispara-contra-oposicao/",
+     "angulo": "Gazeta: a cobrança de Portinho e a resposta de Alcolumbre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Alcolumbre adia votação sobre maioridade penal após pedido de Motta",
+     "url": "https://www.brasil247.com/brasilia/alcolumbre-adia-votacao-sobre-maioridade-penal-apos-pedido-de-motta/",
+     "angulo": "247: Câmara pretende concluir a análise em novembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "A dura crítica do PL à decisão de Alcolumbre sobre não votar PEC que reduz maioridade penal",
+     "url": "https://veja.abril.com.br/brasil/a-dura-critica-do-pl-a-decisao-de-alcolumbre-sobre-nao-votar-pec-que-reduz-maioridade-penal/",
+     "angulo": "Veja: PL diz que 'acabou o diálogo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Lula negocia e Alcolumbre adia votação da maioridade penal",
+     "url": "https://revistaoeste.com/politica/lula-negocia-e-alcolumbre-adia-votacao-da-maioridade-penal/",
+     "angulo": "Oeste: atribui o adiamento à negociação de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alcolumbre segura votação de PEC da maioridade penal após disputa entre Câmara e Senado",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/alcolumbre-segura-votacao-de-pec-da-maioridade-penal-apos-disputa-entre-camara-e-senado.shtml",
+     "angulo": "Folha: a disputa entre Câmara e Senado pela pauta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Lula falou sobre maioridade penal para evitar uso eleitoral, diz Wagner",
+     "url": "https://www.poder360.com.br/poder-congresso/lula-falou-sobre-maioridade-penal-para-evitar-uso-eleitoral-diz-wagner/",
+     "angulo": "Poder360: Wagner explica a posição de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Marinho acusa PT de ‘proteger criminosos’ e barrar a redução da maioridade penal",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/marinho-acusa-pt-de-proteger-criminosos-e-barrar-a-reducao-da-maioridade-penal",
+     "angulo": "Diário do Poder: reproduz a acusação de Marinho sem outro lado.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "agenciacamara",
+     "titulo": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
+     "url": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
+     "angulo": "Agência Câmara: parecer previsto para o fim do mês, após audiências.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Presidência do Senado: o uso da redução da maioridade penal como moeda de troca",
+     "url": "https://oantagonista.com.br/brasil/presidencia-do-senado-o-uso-da-reducao-da-maioridade-penal-como-moeda-de-troca/",
+     "angulo": "O Antagonista: a pauta como moeda na eleição do Senado.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Mitos sobre redução da maioridade penal",
+     "url": "https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/11/mitos-sobre-reducao-da-maioridade-penal.shtml",
+     "angulo": "Coluna de Thiago Amparo contra a redução.",
+     "tipo": "opiniao",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Por que a maioridade penal deve cair para 16 anos",
+     "url": "https://www.gazetadopovo.com.br/vozes/francisco-razzo/por-que-maioridade-penal-16-anos/",
+     "angulo": "Coluna de Francisco Razzo a favor dos 16 anos.",
+     "tipo": "opiniao",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "tornados-atingem-chapeco-e-xanxere-e-temporais-ferem-20-no-rs",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Tornados atingem Chapecó e Xanxerê, em SC, e temporais deixam feridos no Rio Grande do Sul",
+   "lide": "A Defesa Civil de Santa Catarina confirmou dois tornados na manhã de quarta (4) no oeste do estado, e o de Chapecó destruiu parte do aeroporto, que suspendeu as operações. A instabilidade avança para Paraná e São Paulo, onde há alertas para os próximos dias.",
+   "contexto": "Na segunda (2), um tornado de categoria F2 já havia atingido Maringá (PR), segundo o Simepar.",
+   "fatos": [
+    {
+     "texto": "A Defesa Civil de Santa Catarina confirmou tornados em Chapecó e Xanxerê na manhã de quarta (4).",
+     "base": "3 fontes independentes (Agência Brasil, Revista Oeste, g1)"
+    },
+    {
+     "texto": "O aeroporto de Chapecó teve estruturas destruídas, e a concessionária Voe Xap suspendeu pousos e decolagens por tempo indeterminado.",
+     "base": "3 fontes independentes (CNN Brasil, SBT, Folha)"
+    },
+    {
+     "texto": "As velocidades de vento informadas pelos veículos variam entre 92 km/h e 126 km/h.",
+     "base": "4 fontes independentes (SBT, Fórum, DCM, Gazeta do Povo)"
+    },
+    {
+     "texto": "Um funcionário de 20 anos morreu em Rio Negrinho, no norte de SC, quando a cobertura de um posto de combustíveis desabou durante o temporal.",
+     "base": "2 fontes independentes (UOL, O Globo)"
+    },
+    {
+     "texto": "O governo catarinense suspendeu as aulas da rede estadual de forma preventiva.",
+     "base": "2 fontes independentes (Veja, CNN Brasil)"
+    },
+    {
+     "texto": "No Rio Grande do Sul, chuva e vento causaram danos em ao menos 77 cidades e deixaram 20 feridos entre terça e quarta.",
+     "base": "dado da Defesa Civil do RS, publicado pela Folha"
+    },
+    {
+     "texto": "O tornado de Maringá foi classificado como F2 na escala Fujita.",
+     "base": "2 fontes independentes (Brasil de Fato, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O El Niño muda o padrão do tempo e deve trazer mais calor e temporais ao Vale do Paraíba.",
+     "quem": "Pesquisador do Cemaden, ao g1"
+    },
+    {
+     "texto": "A previsão para o Paraná é o segundo pior cenário do ano, com risco de novos tornados.",
+     "quem": "Defesa Civil do Paraná, segundo a Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O argentino La Nación noticiou os dois tornados, o aeroporto destruído e quatro municípios em situação de emergência.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Tornado é confirmado em Chapecó; aeroporto da cidade teve estruturas arrancadas e voos suspensos",
+     "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/tornado-atingiu-chapeco-aeroporto-estragos-destruicao.ghtml",
+     "angulo": "g1: confirmação da Defesa Civil e estragos no aeroporto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Tornados atingem Santa Catarina, e temporais deixam feridos no RS",
+     "url": "https://revistaoeste.com/brasil/tornados-atingem-santa-catarina-e-temporais-deixam-feridos-no-rs/",
+     "angulo": "Oeste: os dois tornados e os feridos no RS.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Imagens aéreas mostram como ficou aeroporto em Chapecó após tornado",
+     "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/imagens-aereas-mostram-como-ficou-aeroporto-em-chapeco-apos-tornado/",
+     "angulo": "CNN Brasil: operações suspensas por tempo indeterminado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Tornados atingem oeste de Santa Catarina e deixam rastro de destruição",
+     "url": "https://www.cartacapital.com.br/radar-carta/tornados-atingem-oeste-de-santa-catarina-e-deixam-rastro-de-destruicao/",
+     "angulo": "CartaCapital: mais de 10 mil afetados em SC e no RS.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Temporais deixam 20 feridos e causam danos em 77 cidades do RS; tornado atinge Chapecó (SC)",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/temporais-deixam-20-feridos-e-causam-danos-em-77-cidades-do-rio-grande-do-sul.shtml",
+     "angulo": "Folha: balanço do RS e o tornado de Chapecó.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Tornados e temporais atingem Santa Catarina e Rio Grande do Sul",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tornados-e-temporais-atingem-santa-catarina-e-rio-grande-do-sul",
+     "angulo": "Agência Brasil: 86 municípios atingidos em SC desde domingo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Tornado atinge Santa Catarina e temporais avançam em direção ao Paraná",
+     "url": "https://www.gazetadopovo.com.br/santa-catarina/tornado-chapeco-temporais-avancam-parana/",
+     "angulo": "Gazeta: mais de 200 mil unidades sem energia em SC.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Cobertura de posto desaba em temporal e mata funcion�rio de 20 anos em SC",
+     "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/05/funcionario-morre-apos-cobertura-de-posto-desabar-em-sc.ghtm",
+     "angulo": "UOL: a morte do funcionário em Rio Negrinho.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Maringá foi atingida por tornado de categoria F2, confirma Simepar",
+     "url": "https://www.brasildefato.com.br/2026/11/04/maringa-foi-atingida-por-tornado-de-categoria-f2-confirma-simepar/",
+     "angulo": "Brasil de Fato: Simepar classifica o tornado de Maringá.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Tornado atinge Chapecó e provoca cancelamento de voos",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/tornado-atinge-chapeco-e-provoca-cancelamento-de-voos-ate-sexta",
+     "angulo": "SBT: voos cancelados e aulas suspensas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Dos tornados azotaron al sur de Brasil: un aeropuerto destruido y cuatro municipios en estado de emergencia",
+     "url": "https://www.lanacion.com.ar/el-mundo/dos-tornados-azotaron-al-sur-de-brasil-un-aeropuerto-destruido-y-cuatro-municipios-en-estado-de-nid04112026/",
+     "angulo": "La Nación (Argentina): 'dois tornados atingiram o sul do Brasil'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Sob ameaça de chuvas e tornados, Santa Catarina fecha escolas na rede estadual de ensino",
+     "url": "https://veja.abril.com.br/brasil/sob-ameaca-de-chuvas-e-tornados-santa-catarina-fecha-escolas-na-rede-estadual-de-ensino/",
+     "angulo": "Veja: SC fecha escolas da rede estadual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "industria-e-comercio-vao-ao-stf-contra-prazos-do-fim-da-6x1",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Indústria e comércio vão ao STF contra os prazos do fim da escala 6x1; decreto deve sair na segunda",
+   "lide": "CNI e CNC entraram com ações no Supremo para adiar a transição da jornada de 44 para 40 horas semanais, e Flávio Dino foi sorteado relator da ação do comércio. O ministro do Trabalho, Luiz Marinho, disse que o decreto de regulamentação deve sair na segunda (9).",
+   "contexto": "A emenda constitucional que acabou com a escala 6x1 foi promulgada em outubro e reduz a jornada de 44 para 40 horas semanais sem corte de salário.",
+   "fatos": [
+    {
+     "texto": "A CNI e a CNC entraram com ações diretas de inconstitucionalidade no STF questionando o fim da escala 6x1.",
+     "base": "3 fontes independentes (Agência Brasil, Folha, O Globo)"
+    },
+    {
+     "texto": "A CNC diz não questionar o mérito das 40 horas, mas pede que a primeira etapa seja adiada em dez meses, para 2027.",
+     "base": "3 fontes independentes (Jota, SBT, Brasil 247)"
+    },
+    {
+     "texto": "A CNI pede que a regra não atinja contratos antigos e que os prazos sejam suspensos por ao menos um ano, e estima custo extra de R$ 88 bilhões para a indústria.",
+     "base": "2 fontes independentes (CNN Brasil, DCM)"
+    },
+    {
+     "texto": "Flávio Dino foi sorteado relator da ação da CNC.",
+     "base": "2 fontes independentes (Estadão, Fórum)"
+    },
+    {
+     "texto": "Marinho disse que o decreto deve sair na segunda (9) e que discutiria o texto com Lula nesta quinta (5).",
+     "base": "3 fontes independentes (Estadão, Valor, Jota)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O decreto vai reforçar a prevalência do acordo coletivo e pode permitir semanas com apenas uma folga.",
+     "quem": "Luiz Marinho, ministro do Trabalho, à Folha"
+    },
+    {
+     "texto": "O fim da 6x1 será uma 'bomba atômica' de custos sem ganho certo de produtividade; os trabalhadores esperam rotina menos pressionada.",
+     "quem": "Sindicatos patronais e de trabalhadores das telecomunicações, à Folha"
+    },
+    {
+     "texto": "Os prazos são insuficientes para reorganizar o comércio, ainda mais perto da Black Friday.",
+     "quem": "CNC, segundo a Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Entidades da indústria e do comércio recorrem ao STF contra fim da 6x1",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/entidades-da-industria-e-do-comercio-recorrem-ao-stf-contra-fim-da-6x1",
+     "angulo": "Agência Brasil: as duas ações e os pedidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "CNI vai ao STF contra fim da 6×1 e alega custo extra de R$ 88 bilhões para a indústria",
+     "url": "https://www.diariodocentrodomundo.com.br/cni-vai-ao-stf-contra-fim-da-6x1-e-alega-custo-extra-de-r-88-bilhoes-para-a-industria/",
+     "angulo": "DCM: o custo de R$ 88 bilhões alegado pela CNI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Confederação do comércio pede que STF adie transição para o fim da escala 6×1",
+     "url": "https://www.gazetadopovo.com.br/economia/confederacao-do-comercio-pede-que-stf-adie-transicao-para-o-fim-da-escala-6-1/",
+     "angulo": "Gazeta: CNC cita a Black Friday.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "CNC vai ao STF para adiar o fim da escala 6×1 e que redução da jornada só comece em 2027",
+     "url": "https://www.jota.info/trabalho/cnc-vai-ao-stf-para-adiar-o-fim-da-escala-6x1-e-que-reducao-da-jornada-so-comece-em-2027",
+     "angulo": "Jota: a ação mira o prazo, não as mudanças constitucionais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Indústria e comércio vão ao STF com ações que questionam fim da 6x1; veja o que pode mudar",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/empresarios-do-comercio-vao-ao-stf-para-adiar-fim-da-escala-6x1-para-2027.shtml",
+     "angulo": "Folha: o que pode mudar com as ADIs.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Dino vai decidir sobre pedido para adiar fim da escala 6×1",
+     "url": "https://revistaforum.com.br/politica/flavio-dino-escala-6x1/",
+     "angulo": "Fórum: Dino relator da ação do comércio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Marinho diz que decreto que regulamenta fim da escala 6x1 deve sair na próxima segunda-feira",
+     "url": "https://www.estadao.com.br/economia/marinho-diz-que-decreto-que-regulamenta-fim-da-escala-6x1-deve-sair-na-proxima-segunda-feira/",
+     "angulo": "Estadão: decreto previsto para segunda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "CNI pede ao STF que fim da escala 6×1 não atinja contratos antigos",
+     "url": "https://www.cnnbrasil.com.br/politica/cni-pede-ao-stf-que-fim-da-escala-6x1-nao-atinja-contratos-antigos/",
+     "angulo": "CNN Brasil: CNI quer poupar contratos antigos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Regulamentação do fim da 6x1 pode liberar semana com apenas uma folga, diz ministro",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/regulamentacao-do-fim-da-6x1-pode-liberar-semana-com-apenas-uma-folga-diz-ministro.shtml",
+     "angulo": "Folha: Marinho fala em acordo coletivo acima da lei.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Governo prevê decreto do fim da escala 6×1 para segunda-feira",
+     "url": "https://iclnoticias.com.br/governo-decreto-do-fim-6x1-para-segunda-feira/",
+     "angulo": "ICL (texto da Agência Brasil): o calendário do decreto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "CNC aciona STF para adiar fim da escala 6×1",
+     "url": "https://jovempan.com.br/economia/macroeconomia/cnc-aciona-stf-para-adiar-fim-da-escala-6x1/",
+     "angulo": "Jovem Pan: a emenda e a ação do comércio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "fachin-da-15-dias-para-pgr-sobre-indiciamento-de-vorcaro",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin dá 15 dias para a PGR se manifestar sobre o indiciamento de Vorcaro e de mais 14",
+   "lide": "O presidente do STF enviou à Procuradoria o relatório da PF que indiciou o ex-banqueiro, o ex-presidente do BRB e outros investigados por fraudes do caso Master, e pediu também parecer sobre a prorrogação do inquérito do filme 'Dark Horse'. A PF pediu mais 60 dias para concluir perícias.",
+   "fatos": [
+    {
+     "texto": "Fachin deu 15 dias para a PGR se manifestar sobre o relatório da PF que indiciou Daniel Vorcaro e mais 14 pessoas.",
+     "base": "4 fontes independentes (Estadão, Valor, CNN Brasil, Agência Brasil)"
+    },
+    {
+     "texto": "Fachin também pediu à PGR manifestação sobre a prorrogação do inquérito que apura os repasses para o filme 'Dark Horse'.",
+     "base": "2 fontes independentes (Gazeta do Povo, SBT)"
+    },
+    {
+     "texto": "A PF pediu mais 60 dias para concluir perícias e análises financeiras.",
+     "base": "2 fontes independentes (CNN Brasil, Jovem Pan)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mensagens divulgadas nesta semana indicam que o ministro Dias Toffoli pediu a Vorcaro ingressos da Champions League.",
+     "quem": "Terra Brasil Notícias e Diário do Poder"
+    },
+    {
+     "texto": "Vorcaro tentou marcar encontro com Alexandre de Moraes em Madri em outubro de 2025.",
+     "quem": "Terra Brasil Notícias, com base em mensagens"
+    },
+    {
+     "texto": "Hugo Motta mantém parado há nove meses o pedido de CPI do Master, apesar de 200 assinaturas.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "A prisão de Vorcaro tem excesso de prazo e ele deve ser solto.",
+     "quem": "Defesa de Vorcaro, segundo o Diário do Poder"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A PF descartou fraude no caso 'Dark Horse'.",
+     "rotulo": "Falso",
+     "explicacao": "O inquérito sobre os repasses de Vorcaro para o filme segue em andamento, e Fachin pediu parecer da PGR sobre a prorrogação.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/11/03/e-falso-que-pf-descartou-fraude-em-dark-horse/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Vorcaro deixou a prisão depois das eleições de 2026.",
+     "rotulo": "Falso",
+     "explicacao": "Os posts usam trecho de reportagem do SBT de novembro de 2025. Vorcaro continua preso.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/vorcaro-prisao-eleicoes-2026/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Quem deu o prazo à PGR foi André Mendonça, relator do caso.",
+     "rotulo": "Contraditório",
+     "explicacao": "A Jovem Pan atribui a decisão a Mendonça, enquanto a maior parte da imprensa e a Agência Brasil atribuem a Fachin. O Terra publicou correção sobre a relatoria.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Veículos e parlamentares alinhados ao governo destacam o elo de Vorcaro com Flávio Bolsonaro e o inquérito do 'Dark Horse'.",
+    "oposicao": "Oposição e veículos de direita destacam mensagens que associam Vorcaro a ministros do STF e querem convocá-lo no Senado."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Os pedidos de ingressos de Toffoli e a tentativa de encontro com Moraes, atribuídos a mensagens de Vorcaro, só apareceram na direita (Terra Brasil, Diário do Poder). Não encontrado nos feeds nem na busca em Brasil 247, DCM, Fórum, CartaCapital, ICL e Brasil de Fato.",
+   "continua": {
+    "data": "2026-11-04",
+    "id": "justica-dos-eua-intima-ex-noiva-de-vorcaro-martha-graeff-a-depor-sobre-bens-do-master-vorcaro-mandou-mensagem-ta-muito-dificil-a-flavio-defesa-pede-pericia-pf-pede-mais-tempo-lupa-desmente-soltura",
+    "titulo": "Justiça da Flórida intima Martha Graeff, ex-noiva de Vorcaro, a depor sobre bens do Banco Master"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Fachin dá prazo de 15 dias para PGR se manifestar sobre indiciamento de Vorcaro",
+     "url": "https://www.estadao.com.br/politica/fachin-da-prazo-de-15-dias-para-pgr-se-manifestar-sobre-indiciamento-de-vorcaro/",
+     "angulo": "Estadão: o prazo e os 15 indiciados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro",
+     "url": "https://www.brasil247.com/brasil/caso-master-mendonca-da-15-dias-para-pgr-analisar-indiciamento-de-daniel-vorcaro/",
+     "angulo": "247: destaca prejuízo de R$ 2,7 bilhões ao BRB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin pede manifestações da PGR sobre indiciamento de Vorcaro e caso Dark Horse",
+     "url": "https://www.gazetadopovo.com.br/republica/fachin-pede-manifestacoes-da-pgr-sobre-indiciamento-de-vorcaro-e-caso-dark-horse/",
+     "angulo": "Gazeta: o prazo inclui o inquérito do 'Dark Horse'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fachin dá 15 dias para PGR se manifestar sobre indiciamentos no caso Master",
+     "url": "https://www.cnnbrasil.com.br/politica/fachin-da-15-dias-para-pgr-se-manifestar-sobre-indiciamentos-no-caso-master/",
+     "angulo": "CNN Brasil: PF quer mais 60 dias.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Mendonça dá 15 dias para PGR analisar indiciamento de Vorcaro",
+     "url": "https://jovempan.com.br/brasil/mendonca-da-15-dias-para-pgr-analisar-indiciamento-de-vorcaro/",
+     "angulo": "Jovem Pan: atribui a decisão a Mendonça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Toffoli pediu ingressos da Champions League a Vorcaro, dizem mensagens",
+     "url": "https://terrabrasilnoticias.com/2026/11/toffoli-pediu-ingressos-da-champions-league-a-vorcaro-dizem-mensagens/",
+     "angulo": "Terra Brasil: mensagens sobre ingressos da Champions.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Fachin dá 15 dias para PGR se manifestar sobre indiciamentos no caso Master",
+     "url": "https://www.diariodocentrodomundo.com.br/fachin-da-15-dias-para-pgr-se-manifestar-sobre-indiciamentos-no-caso-master/",
+     "angulo": "DCM: perícias e análises ainda pendentes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Motta mantém CPI do Master parada há nove meses, apesar de 200 assinaturas",
+     "url": "https://iclnoticias.com.br/nenhuma-cpi-atividade-motta-cpi-master-parado/",
+     "angulo": "ICL: a CPI parada na Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Governista pede vista e adia iniciativa para ouvir Vorcaro no Senado",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/governista-pede-vista-e-adia-iniciativa-para-ouvir-vorcaro-no-senado",
+     "angulo": "Diário do Poder: pedido de vista adia a convocação proposta por Damares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-da-15-dias-para-pgr-analisar-indiciamento-de-vorcaro",
+     "angulo": "Agência Brasil: o relatório da PF enviado à PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Fachin envia à PGR relatório que indiciou Vorcaro e ex-presidente do BRB",
+     "url": "https://www.metropoles.com/colunas/manoela-alcantara/fachin-relatorio-vorcaro-brb",
+     "angulo": "Metrópoles: o relatório que indiciou o ex-presidente do BRB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "lupa",
+     "titulo": "É falso que PF descartou fraude em ‘Dark Horse’",
+     "url": "https://www.agencialupa.org/verificacao/2026/11/03/e-falso-que-pf-descartou-fraude-em-dark-horse/",
+     "angulo": "Lupa: o inquérito do 'Dark Horse' segue aberto.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "fux-pede-tempo-e-fachin-propoe-julgar-bets-com-jogos-de-azar",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fux pede tempo para votar sobre as bets, e Fachin propõe julgar junto as ações sobre jogos de azar",
+   "lide": "Depois da audiência pública, o relator disse que precisa de tempo para o voto, e o presidente do STF indicou julgamento conjunto com ações sobre jogo do bicho, bingo, loterias municipais e caça-níqueis. O Ministério da Justiça pôs sigilo de cinco anos nos documentos que embasaram a MP que proibiu as apostas on-line.",
+   "fatos": [
+    {
+     "texto": "Fux disse que precisará de tempo para elaborar o voto, e Fachin indicou que as ações sobre bets e sobre outras modalidades de jogo devem ser julgadas em conjunto, sem data.",
+     "base": "3 fontes independentes (g1, SBT, Brasil 247)"
+    },
+    {
+     "texto": "O Ministério da Justiça impôs sigilo de cinco anos aos documentos da MP das bets, alegando risco 'à vida, à segurança ou à saúde' da população.",
+     "base": "3 fontes independentes (Gazeta do Povo, Jota, Poder360)"
+    },
+    {
+     "texto": "O TRF3 restabeleceu a autorização da CDA Gaming, dona das marcas Casa de Apostas, Betsul e Jogo Online.",
+     "base": "decisão do TRF3, segundo o Jota"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A MP pode perder a validade porque a comissão mista que deveria analisá-la ainda não foi instalada.",
+     "quem": "Malu Gaspar, colunista de O Globo"
+    },
+    {
+     "texto": "Romário e Kajuru, que já tiveram patrocínio de bets, retiraram emendas que flexibilizavam a proibição.",
+     "quem": "Coluna do Estadão"
+    },
+    {
+     "texto": "A proibição pode ampliar o mercado ilegal, e o setor precisa de segurança jurídica.",
+     "quem": "Instituto Brasileiro do Jogo Responsável (IBJR)"
+    },
+    {
+     "texto": "O governo testou o 'Exército de Lula' na mobilização digital para pressionar o STF.",
+     "quem": "Flávia Maia, colunista do Jota"
+    },
+    {
+     "texto": "Anúncios de apostas continuam sendo enviados depois da proibição.",
+     "quem": "Rogério Correia (PT-MG), que acionou o MPF, segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo defende a proibição, mobiliza apoiadores nas redes e justifica o sigilo dos documentos pelo risco à população.",
+    "oposicao": "Oposição e setor de apostas criticam o sigilo e a insegurança jurídica e dizem que a proibição favorece o mercado ilegal."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "O sigilo de cinco anos sobre os documentos da MP saiu na direita (Gazeta do Povo, Diário do Poder) e no centro (Jota, Poder360). Não encontrado nos feeds nem na busca em Brasil 247, CartaCapital, Fórum, DCM, Brasil de Fato e ICL.",
+   "continua": {
+    "data": "2026-11-04",
+    "id": "fux-diz-ter-percepcao-de-que-bets-devem-ser-banidas-mas-pede-cautela-governo-defende-proibicao-clubes-falam-em-perdas-cbf-preve-420-milhoes-janja-entrega-relatorio-lula-convoca-pressao",
+    "titulo": "Em audiência no STF, Fux diz ter a 'percepção' de que as bets devem ser banidas, mas pede cautela"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fux pede tempo para voto sobre bets; Fachin indica julgamento conjunto com ações sobre jogo do bicho, bingo, loteria e caça-níqueis",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/04/fux-pede-tempo-para-voto-sobre-bets-fachin-indica-julgamento-conjunto-com-acoes-sobre-jogo-do-bicho-bingo-loteria-e-caca-niqueis.ghtml",
+     "angulo": "g1: as modalidades que entram no julgamento conjunto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Lula impõe sigilo de cinco anos a documentos usados para proibir bets",
+     "url": "https://www.gazetadopovo.com.br/republica/governo-lula-impoe-sigilo-de-cinco-anos-a-documentos-usados-para-proibir-bets/",
+     "angulo": "Gazeta: o sigilo sobre os documentos da MP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Fux pede prazo para votar sobre bets; Fachin propõe julgamento conjunto sobre jogos de azar",
+     "url": "https://www.brasil247.com/brasil/fux-pede-prazo-para-votar-sobre-bets-fachin-propoe-julgamento-conjunto-sobre-jogos-de-azar/",
+     "angulo": "247: Fachin quer reunir as ações num só julgamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Governo Lula alega risco à população e impõe sigilo a documentos sobre a MP das bets",
+     "url": "https://www.jota.info/executivo/governo-lula-alega-risco-a-populacao-e-impoe-sigilo-a-documentos-sobre-a-mp-das-bets",
+     "angulo": "Jota: teve pedido via LAI negado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "IBJR critica proibição de bets e pede segurança jurídica no STF",
+     "url": "https://www.poder360.com.br/poder-justica/ibjr-critica-proibicao-de-bets-e-pede-seguranca-juridica-no-stf/",
+     "angulo": "Poder360: o setor pede segurança jurídica.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Proibição das bets: quem tem voz no STF e quem paga a conta?",
+     "url": "https://www.brasildefato.com.br/colunista/observatorios-das-desigualdades/2026/11/04/proibicao-das-bets-quem-tem-voz-no-stf-e-quem-paga-a-conta/",
+     "angulo": "Brasil de Fato: questiona quem fala e quem paga a conta na audiência.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Governo Lula põe sigilo em dados sobre Desenrola 3.0 e bets",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e10-brasil/governo-lula-poe-sigilo-em-dados-sobre-desenrola-3-0-e-bets",
+     "angulo": "Diário do Poder: sigilo em bets e no Desenrola 3.0.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Senadores que já foram patrocinados por bets recuam de emendas que flexibilizavam proibição do setor",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/senadores-que-ja-foram-patrocinados-por-bets-recuam-de-emendas-que-flexibilizavam-proibicao-do-setor/",
+     "angulo": "Coluna do Estadão: senadores ex-patrocinados recuam.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Fachin sinaliza julgamento conjunto de bets e jogos de azar",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/fachin-sinaliza-julgamento-conjunto-de-bets-e-jogos-de-azar",
+     "angulo": "SBT: loterias municipais também entram.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "O fator que pode levar a MP de Lula que proibiu as bets a perder a validade",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/o-fator-que-pode-levar-a-mp-de-lula-que-proibiu-as-bets-a-perder-a-validade.ghtml",
+     "angulo": "Malu Gaspar: a comissão mista que não foi instalada.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Governo testa ‘Exército de Lula’ em mobilização para pressionar STF sobre bets",
+     "url": "https://www.jota.info/opiniao-e-analise/colunas/coluna-flavia-maia/governo-testa-exercito-de-lula-em-mobilizacao-para-pressionar-stf-sobre-bets",
+     "angulo": "Jota: a mobilização digital do governo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Fluminense comanda show de enganos na audiência sobre Bets",
+     "url": "https://revistaforum.com.br/blogs/fluminense-comanda-show-de-enganos-na-audiencia-sobre-bets/",
+     "angulo": "Blog na Fórum critica a fala do clube na audiência.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "justica-manda-tirar-do-ar-listas-de-boicote-a-petistas",
+   "editoria": "Direitos Humanos",
+   "escopo": "brasil",
+   "titulo": "Justiça manda tirar do ar listas de boicote a petistas; shows de dupla que apoiou Flávio são cancelados",
+   "lide": "Uma semana após o segundo turno, a retaliação por voto chega aos tribunais: liminares mandaram remover listas contra comerciantes 'petistas' no RS e um vídeo que pedia a demissão de eleitores de Lula. No sentido contrário, Fortaleza e Recife cancelaram shows de Jorge e Mateus, que apoiaram Flávio Bolsonaro.",
+   "fatos": [
+    {
+     "texto": "A Justiça mandou tirar do ar listas de boicote a lojas publicadas sob o título 'Emp. PETISTAS/ Campo Bom', no RS.",
+     "base": "decisão judicial, segundo o Metrópoles"
+    },
+    {
+     "texto": "Uma liminar do TRT-1 proibiu Laís Jordy, mulher de um deputado do PL, de incentivar demissões por convicção política, com multa de R$ 20 mil por dia; o MPT pede R$ 500 mil por danos morais coletivos.",
+     "base": "2 fontes independentes (Veja, DCM)"
+    },
+    {
+     "texto": "As prefeituras de Fortaleza e Recife cancelaram os shows de Jorge e Mateus no Réveillon depois de críticas ao apoio da dupla a Flávio Bolsonaro.",
+     "base": "3 fontes independentes (Valor, Fórum, ICL)"
+    },
+    {
+     "texto": "Salvador anunciou a dupla no seu Réveillon, e o prefeito Bruno Reis criticou o boicote a artistas por posição política.",
+     "base": "2 fontes independentes (A Tarde, Veja)"
+    },
+    {
+     "texto": "A polícia identificou nove suspeitos da morte do engenheiro Marcelo de Oliveira Rocha, 30, em Santos, e apreendeu cinco adolescentes; o caso é investigado como latrocínio.",
+     "base": "2 fontes independentes (g1, UOL)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A derrota nas urnas virou combustível para boicotes, demissões e agressões de bolsonaristas contra petistas.",
+     "quem": "Terra"
+    },
+    {
+     "texto": "A esquerda que critica os boicotes já promoveu campanhas contra empresas e jornais.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Listas de petistas contra boicotes lembram a perseguição a judeus na Alemanha nazista.",
+     "quem": "Coluna de Cláudio Humberto no Diário do Poder"
+    },
+    {
+     "texto": "Os prefeitos que cancelaram os shows agiram com intolerância e perseguição.",
+     "quem": "Nikolas Ferreira (PL-MG), segundo o Metrópoles"
+    },
+    {
+     "texto": "Ela recebe três ameaças de morte por dia desde a votação e anda com escolta 24 horas.",
+     "quem": "Ana Elisa (PT-MG), deputada eleita, ao DCM"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O engenheiro morto em Santos foi vítima de violência política depois de um ato pró-Lula.",
+     "rotulo": "Em apuração",
+     "explicacao": "O g1 associa a morte ao ato pró-Lula, mas a polícia investiga o caso como roubo seguido de morte e não confirmou motivação política.",
+     "onde_circula": "redes sociais e imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo e PT tratam listas e demissões de petistas como assédio eleitoral e acionam MPT, PF e Justiça.",
+    "oposicao": "A oposição chama de perseguição o cancelamento de shows de artistas que apoiaram Flávio e lembra boicotes promovidos pela esquerda."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "gilmar-manda-governo-do-ms-explicar-em-5-dias-violencia-contra-indigenas-pf-faz-operacao-por-ameacas-racistas-a-taliria-petrone-indigenas-convocam-atos-lista-de-1300-judeus-chamada-de-trem-para-auschwitz",
+    "titulo": "Gilmar Mendes dá cinco dias para o governo de MS explicar a violência contra indígenas após a eleição"
+   },
+   "materias": [
+    {
+     "fonte": "metropoles",
+     "titulo": "Justiça manda tirar do ar lista de boicote a lojas \"petistas\" no RS",
+     "url": "https://www.metropoles.com/brasil/justica-manda-tirar-do-ar-lista-de-boicote-a-lojas-petistas-no-rs",
+     "angulo": "Metrópoles: as listas de Campo Bom (RS).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Esquerda já promoveu boicote contra empresas e jornais",
+     "url": "https://www.gazetadopovo.com.br/republica/esquerda-critica-boicotes-a-petistas-mas-ja-promoveu-campanhas-contra-empresas-e-jornais/",
+     "angulo": "Gazeta: lembra boicotes feitos pela esquerda.",
+     "tipo": "analise",
+     "enquadramento": "oposicao"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Ação pede que esposa de senador pague 500 mil reais por estimular ‘demissão de petistas’",
+     "url": "https://veja.abril.com.br/politica/acao-pede-que-esposa-de-senador-pague-500-mil-reais-por-estimular-demissao-de-petistas/",
+     "angulo": "Veja: MPT pede R$ 500 mil de Laís Jordy.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Jorge e Mateus tem shows cancelados em Fortaleza e Recife após apoio a Flávio Bolsonaro",
+     "url": "https://revistaforum.com.br/cultura/jorge-e-mateus-shows-cancelados-apoio-flavio-bolsonaro/",
+     "angulo": "Fórum: os cancelamentos em Fortaleza e Recife.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Morte de engenheiro após ato pró-Lula tem 9 suspeitos identificados e 5 deles apreendidos",
+     "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/05/morte-de-engenheiro-apos-ato-pro-lula-tem-9-suspeitos-identificados-e-5-deles-apreendidos.ghtml",
+     "angulo": "g1: nove suspeitos e a ligação com o ato pró-Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Bruno Reis defende Jorge e Mateus e detona boicote de artistas por política",
+     "url": "https://atarde.com.br/musica/bruno-reis-defende-jorge-e-mateus-e-detona-boicote-de-artistas-por-politica-1408267",
+     "angulo": "A Tarde: Salvador critica o boicote.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Mulher de deputado bolsonarista é obrigada a excluir VÍDEO que pede demissão de petistas",
+     "url": "https://www.diariodocentrodomundo.com.br/mulher-de-deputado-bolsonarista-e-obrigada-a-excluir-video-que-pede-demissao-de-petistas/",
+     "angulo": "DCM: a liminar do TRT-1.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Engenheiro morto espancado em SP: Pol�cia apreende 5� adolescente suspeito",
+     "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/04/policia-apreende-quinto-adolescente-suspeito-de-latrocinio-em-santos.ghtm",
+     "angulo": "UOL: polícia trata o caso como latrocínio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Derrota nas urnas vira combustível para boicotes, demissões e agressões de bolsonaristas contra petistas",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/derrota-nas-urnas-vira-combustivel-para-boicotes-demissoes-e-agressoes-de-bolsonaristas-contra-petistas,477c69a97f33dc124089b9cab211383dzu7oidcy.html",
+     "angulo": "Terra: retrata a onda de boicotes como reação bolsonarista.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Listas negras petistas contra boicote lembram perseguição a judeus na Alemanha nazista",
+     "url": "https://diariodopoder.com.br/coluna-claudio-humberto/listas-negras-petistas-contra-boicote-lembram-perseguicao-a-judeus-na-alemanha-nazista",
+     "angulo": "Coluna de Cláudio Humberto compara listas petistas ao nazismo.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Prefeituras de Fortaleza e Recife cancelam show de Jorge e Mateus após ameaça de boicote",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/04/prefeituras-de-fortaleza-e-recife-cancelam-show-de-dupla-sertaneja-apos-ameaca-de-boicote.ghtml",
+     "angulo": "Valor: o boicote partiu da classe artística e da militância.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Nikolas critica prefeito de Fortaleza por cancelar show de Jorge e Mateus",
+     "url": "https://www.metropoles.com/minas-gerais/nikolas-critica-prefeito-de-fortaleza-por-cancelar-show-de-jorge-e-mateus",
+     "angulo": "Metrópoles: Nikolas acusa intolerância.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "checagens-desmentem-alegacoes-de-fraude-no-segundo-turno",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Checagens desmentem alegações de fraude no 2º turno; Alcolumbre ironiza: 'no 1º turno a urna prestou'",
+   "lide": "Lupa, Aos Fatos e Estadão Verifica desmentiram em 48 horas posts que apontam fraude na reeleição de Lula, de urnas com votos só para o petista a votos na prorrogação da Bahia. No Senado, Alcolumbre rebateu o PL perguntando por que a urna valeu no primeiro turno e não no segundo.",
+   "fatos": [
+    {
+     "texto": "Na prorrogação do horário de votação, a Bahia registrou 4.190 votos e São Paulo 8.860.",
+     "base": "dados do TSE, segundo o Aos Fatos"
+    },
+    {
+     "texto": "Seções com votação exclusiva para um candidato são comuns, e Flávio Bolsonaro também recebeu todos os votos em algumas urnas.",
+     "base": "dados do TSE, segundo a Lupa"
+    },
+    {
+     "texto": "O vídeo de uma urna 'votando sozinha' é de 2014 e mostra uma falha do equipamento.",
+     "base": "Estadão Verifica"
+    },
+    {
+     "texto": "Alcolumbre disse no plenário: 'No 1º turno a urna prestou e no 2º não?', e criticou eleitos que ganharam votos com ataques.",
+     "base": "3 fontes independentes (Poder360, Fórum, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A maneira como Lula se reelegeu é questionável, e a oposição precisa denunciar abusos.",
+     "quem": "Artigo de opinião na Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Urnas com votos apenas para Lula provam fraude.",
+     "rotulo": "Falso",
+     "explicacao": "Seções com votação exclusiva são comuns e também ocorreram a favor de Flávio Bolsonaro.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/11/04/urnas-com-votos-apenas-para-lula-nao-indicam-fraude/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A Bahia registrou 2 milhões de votos na prorrogação do segundo turno, e São Paulo apenas seis.",
+     "rotulo": "Falso",
+     "explicacao": "Segundo o TSE, a Bahia computou 4.190 votos e São Paulo 8.860 no período.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/bahia-votos-prorrogacao-do-segundo-turno/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A Bahia tem 23 municípios com mais eleitores do que habitantes, o que indica fraude do PT.",
+     "rotulo": "Distorcido",
+     "explicacao": "O Estadão Verifica concluiu que a diferença não é indício de fraude.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/bahia-tem-23-municipios-com-mais-eleitores-que-habitantes-fraude-petista-enganoso/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Vídeo mostra urna eletrônica registrando votos sozinha em 2026.",
+     "rotulo": "Falso",
+     "explicacao": "O vídeo é de 2014 e mostra um sinal sonoro de falha, não votos registrados.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/video-falha-urna-eletronica-votando-sozinha-2014/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governistas e o presidente do Senado defendem o resultado e as urnas e apontam ataques ao sistema eleitoral.",
+    "oposicao": "Parte da oposição e de seus apoiadores questiona a prorrogação da votação e a regularidade da eleição."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos de direita publicaram questionamentos sobre a eleição, como um artigo de opinião na Gazeta do Povo, mas as checagens sobre fraude não foram encontradas nos feeds nem na busca em Gazeta do Povo, Revista Oeste, Jovem Pan, Terra Brasil, Diário do Poder e Pleno News.",
+   "continua": {
+    "data": "2026-10-28",
+    "id": "fake-news-pos-eleicao-6x1-bolsa-familia-gas-do-povo-governo-desmente-checagens",
+    "titulo": "Onda de desinformação pós-eleição: é falso que Lula recuou do fim da escala 6x1 ou que cortará Bolsa Família e Gás do Povo; governo desmente e agências checam vídeos e boatos"
+   },
+   "materias": [
+    {
+     "fonte": "lupa",
+     "titulo": "Urnas com votos apenas para Lula não indicam fraude",
+     "url": "https://www.agencialupa.org/verificacao/2026/11/04/urnas-com-votos-apenas-para-lula-nao-indicam-fraude/",
+     "angulo": "Lupa: votação exclusiva é comum e beneficiou os dois lados.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Alcolumbre rebate oposição: “No 1º turno a urna prestou e no 2º não?”",
+     "url": "https://www.poder360.com.br/poder-congresso/alcolumbre-rebate-oposicao-no-1o-turno-a-urna-prestou-e-no-2o-nao/",
+     "angulo": "Poder360: Alcolumbre defende o sistema eleitoral.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "Bahia registrou 4.190 votos na prorrogação do segundo turno, não 2 milhões",
+     "url": "https://www.aosfatos.org/noticias/bahia-votos-prorrogacao-do-segundo-turno/",
+     "angulo": "Aos Fatos: os números do TSE para a prorrogação.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Maneira como Lula se reelegeu é questionável e oposição precisa denunciar abusos",
+     "url": "https://www.gazetadopovo.com.br/opiniao/artigos/maneira-como-lula-se-reelegeu-e-questionavel-e-oposicao-precisa-denunciar-eventuais-abusos/",
+     "angulo": "Artigo na Gazeta: questiona a forma da reeleição.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Existência de municípios com mais eleitores do que habitantes não é indício de fraude",
+     "url": "https://www.estadao.com.br/estadao-verifica/bahia-tem-23-municipios-com-mais-eleitores-que-habitantes-fraude-petista-enganoso/",
+     "angulo": "Estadão Verifica: mais eleitores que habitantes não indica fraude.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Alcolumbre ironiza Flávio Bolsonaro: “No 1º turno a urna prestou!”",
+     "url": "https://revistaforum.com.br/politica/alcolumbre-ironiza-flavio-bolsonaro/",
+     "angulo": "Fórum: o embate com bolsonaristas no plenário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "34.319 votos foram registrados depois das 17h; Lula venceu por 4,43 milhões",
+     "url": "https://jovempan.com.br/politica/34-319-votos-foram-registrados-entre-17h-e-19h-lula-venceu-por-443-milhoes/",
+     "angulo": "Jovem Pan: os votos após as 17h comparados à margem de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Vídeo mostra falha em urna eletrônica em 2014, e não máquina votando sozinha",
+     "url": "https://www.estadao.com.br/estadao-verifica/video-falha-urna-eletronica-votando-sozinha-2014/",
+     "angulo": "Estadão Verifica: o vídeo é de 2014.",
+     "tipo": "checagem",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Alcolumbre critica eleitos com campanha de ofensas e ironiza ataques a urnas: 'no 1º turno prestou'",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/04/alcolumbre-critica-senadores-eleitos-com-campanha-baseada-em-impeachment-de-ministros-do-stf.ghtml",
+     "angulo": "Valor: Alcolumbre ironiza ataques às urnas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Alcolumbre ironiza ataques a urna e lamenta eleitos sem proposta",
+     "url": "https://www.congressoemfoco.com.br/noticia/131317/alcolumbre-ironiza-ataques-a-urna-e-lamenta-eleitos-sem-proposta",
+     "angulo": "Congresso em Foco: o discurso no plenário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Alcolumbre critica eleitos pelo PL: ‘Sem propostas, ganharam votos atacando pessoas’",
+     "url": "https://iclnoticias.com.br/alcolumbre-critica-eleitos-pl-votos-atacando/",
+     "angulo": "ICL: Alcolumbre acusa eleitos de atacar instituições.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "vance-culpa-guerra-no-ira-pela-derrota-republicana",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Vance culpa a guerra no Irã pela derrota republicana; Trump admite o efeito, mas diz que faria de novo",
+   "lide": "Um dia após a vitória democrata nas eleições de meio de mandato, o vice-presidente se distanciou de Trump ao atribuir a derrota à guerra, e o petróleo caiu com a aposta de fim do conflito. Elon Musk, maior doador republicano, viu as ações de suas empresas caírem.",
+   "fatos": [
+    {
+     "texto": "JD Vance escreveu no X que a guerra no Irã foi a razão da derrota republicana.",
+     "base": "3 fontes independentes (Axios, Estadão, Breitbart)"
+    },
+    {
+     "texto": "Trump admitiu à Fox News que a guerra contribuiu para a derrota, mas disse que faria tudo de novo.",
+     "base": "3 fontes independentes (g1, Breitbart, DW Brasil)"
+    },
+    {
+     "texto": "Musk gastou cerca de US$ 446 milhões com candidatos republicanos derrotados, e as ações da Tesla e da SpaceX caíram depois da eleição.",
+     "base": "2 fontes independentes (Guardian, AFP)"
+    },
+    {
+     "texto": "O petróleo caiu com força na quarta (4); o Brent chegou a recuar 9%.",
+     "base": "2 fontes independentes (Axios, InfoMoney)"
+    },
+    {
+     "texto": "Hakeem Jeffries lançou formalmente a candidatura à presidência da Câmara.",
+     "base": "2 fontes independentes (Axios, Al Jazeera)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Vance se distancia de Trump de olho na disputa presidencial de 2028.",
+     "quem": "CNN Brasil e Le Monde"
+    },
+    {
+     "texto": "O establishment vai culpar falsamente as restrições à imigração pela derrota.",
+     "quem": "JD Vance, segundo o Breitbart"
+    },
+    {
+     "texto": "As eleições foram uma rejeição forte da relação entre EUA e Israel.",
+     "quem": "Análise do Guardian"
+    },
+    {
+     "texto": "Com maioria nas duas Casas, os democratas podem tornar o fim do mandato de Trump um inferno.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "A Câmara pode votar na próxima semana o impeachment do secretário Pete Hegseth.",
+     "quem": "CNN Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Musk perdeu mais de R$ 200 bilhões com a derrota republicana.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os valores misturam medidas: US$ 120 a 130 bilhões são a perda de valor de mercado das empresas, enquanto a Forbes apontou queda de US$ 32,8 bilhões no patrimônio pessoal.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o dólar caiu e a bolsa subiu na quarta (4) acompanhando o enfraquecimento da moeda americana depois da vitória democrata, segundo a Agência Brasil.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "democratas-tomam-camara-e-senado-nas-midterms-viram-texas-kansas-ohio-maine-carolina-do-sul-el-sayed-primeiro-senador-muculmano-trump-admite-peso-da-guerra-no-ira-e-promete-ser-mr-veto",
+    "titulo": "Democratas tomam o controle da Câmara e do Senado nas eleições de meio de mandato dos EUA"
+   },
+   "materias": [
+    {
+     "fonte": "axios",
+     "titulo": "Vance says the Iran war cost Republicans the midterms",
+     "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+     "angulo": "Axios: Vance diz que a guerra no Irã custou as eleições.",
+     "tipo": "noticia",
+     "enquadramento": null
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Vance: Republicans Lost Midterms Because of Iran War",
+     "url": "https://www.breitbart.com/politics/2026/11/04/vance-republicans-lost-midterms-because-of-iran-war/",
+     "angulo": "Breitbart: registra a fala de Vance sem crítica.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Vance se distancia de Trump e culpa guerra no Irã e apoio a Israel por derrota eleitoral",
+     "url": "https://www.estadao.com.br/internacional/vance-culpa-guerra-no-ira-por-derrotas-nas-eleicoes-de-meio-de-mandato-npr/",
+     "angulo": "Estadão: o 'empurra-empurra' republicano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Vance reforça que estadunidenses querem mudança na relação com Israel",
+     "url": "https://www.brasil247.com/mundo/vance-reforca-que-estadunidenses-querem-mudanca-na-relacao-com-israel/",
+     "angulo": "247: destaca a mudança na relação com Israel.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump admite que guerra contra o Irã contribuiu para derrota republicana, mas diz que ‘faria de novo’",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/04/trump-sobre-onda-azul-nas-eleicoes-provavelmente-me-darei-bem-com-os-democratas.ghtml",
+     "angulo": "g1: Trump diz que 'faria de novo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+     "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+     "angulo": "Guardian: o gasto recorde de Musk 'foi um fiasco'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "JD Vance culpa Trump por derrota republicana: “Perdemos por causa da guerra”",
+     "url": "https://www.diariodocentrodomundo.com.br/jd-vance-culpa-trump-por-derrota-republicana-perdemos-por-causa-da-guerra/",
+     "angulo": "DCM: lê a fala como culpa direta a Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump e Vance admitem impacto da guerra contra o Irã na derrota eleitoral dos republicanos",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-e-vance-admitem-impacto-da-guerra-contra-o-ira-na-derrota-eleitoral-dos-republicanos/",
+     "angulo": "Gazeta: os dois admitem o efeito da guerra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+     "angulo": "BBC: uma das rupturas mais duras de um vice com o presidente.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Empresas de Musk perdem US$ 130 bilhões com vitória democrata no Texas",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-de-musk-perdem-us-130-bilhoes-com-vitoria-democrata-no-texas.shtml",
+     "angulo": "Folha: o império de Musk no Texas sob escrutínio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Far-left tees up AOC for 2028 presidential run after midterm blue wave",
+     "url": "https://nypost.com/2026/11/04/us-news/far-left-tees-up-aoc-for-2028-presidential-run-after-midterm-blue-wave/",
+     "angulo": "New York Post: a esquerda democrata já mira AOC para 2028.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Trump admite que guerra no Irã contribuiu para derrota republicana",
+     "url": "https://www.dw.com/pt-br/trump-admite-que-guerra-no-irã-contribuiu-para-derrota-republicana/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: Trump minimiza a crítica do vice.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "hong-kong-condena-joshua-wong-a-mais-dez-anos-de-prisao",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Hong Kong condena o ativista Joshua Wong a mais dez anos de prisão por conluio com forças estrangeiras",
+   "lide": "Wong, de 30 anos e preso desde 2020, recebeu a segunda condenação sob a Lei de Segurança Nacional imposta por Pequim, depois de se declarar culpado de conspirar para pedir sanções estrangeiras. Ele deveria sair da prisão em janeiro.",
+   "fatos": [
+    {
+     "texto": "Um tribunal de Hong Kong condenou Joshua Wong a dez anos de prisão por conluio com forças estrangeiras.",
+     "base": "4 fontes independentes (Guardian, AFP, NYT, Estadão)"
+    },
+    {
+     "texto": "Wong está preso desde 2020 e deveria ser libertado em janeiro.",
+     "base": "3 fontes independentes (Guardian, Le Monde, El País)"
+    },
+    {
+     "texto": "Ele se declarou culpado de conspirar para pedir sanções estrangeiras contra a China e Hong Kong em 2020.",
+     "base": "2 fontes independentes (CNN Brasil, Le Monde)"
+    },
+    {
+     "texto": "É a segunda condenação de Wong sob a Lei de Segurança Nacional.",
+     "base": "3 fontes independentes (NPR, El País, Bloomberg)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O caso reflete a repressão ao movimento pró-democracia da cidade.",
+     "quem": "Críticos citados pela NPR"
+    },
+    {
+     "texto": "A nova pena empurra a libertação prevista para 2036.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a sentença saiu em g1, Folha, Estadão, CNN Brasil e UOL.",
+   "ponto_cego": "Veículos brasileiros de esquerda e de direita não aparecem na cobertura. Não encontrado nos feeds nem na busca em Brasil 247, Brasil de Fato, Opera Mundi, CartaCapital, Gazeta do Povo e Revista Oeste.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+     "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+     "angulo": "Guardian: único ativista processado duas vezes sob a lei.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Hong Kong condena Joshua Wong a mais dez anos de prisão",
+     "url": "https://www.estadao.com.br/internacional/hong-kong-condena-joshua-wong-a-mais-dez-anos-de-prisao-npr/",
+     "angulo": "Estadão: a sentença por 'conluio com forças estrangeiras'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail",
+     "angulo": "Al Jazeera: preso desde 2020.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+     "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+     "angulo": "NYT: um dos rostos de um movimento esmagado em 2020.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ativista Joshua Wong é condenado a 10 anos de prisão em Hong Kong",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/05/ativista-joshua-wong-e-condenado-a-10-anos-de-prisao-em-hong-kong.ghtml",
+     "angulo": "g1: a trajetória do líder estudantil.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Hongkong : Joshua Wong, figure du mouvement prodémocratie, condamné à dix ans de prison supplémentaires",
+     "url": "https://www.lemonde.fr/international/article/2026/11/05/hongkong-joshua-wong-figure-du-mouvement-prodemocratie-condamne-a-dix-ans-de-prison-supplementaires_6806823_3210.html",
+     "angulo": "Le Monde: 'condenado a dez anos de prisão suplementares'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
+     "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
+     "angulo": "AFP: Wong se declarou culpado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Joshua Wong, ativista de Hong Kong, é condenado a mais 10 anos de prisão",
+     "url": "https://www.cnnbrasil.com.br/internacional/ativista-de-hong-kong-joshua-wong-e-condenado-a-mais-10-anos-de-prisao/",
+     "angulo": "CNN Brasil: pediu sanções estrangeiras em 2020.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Hong Kong condena a otros 10 años de prisión al activista Joshua Wong, que debía salir de prisión el próximo enero",
+     "url": "https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html",
+     "angulo": "El País: 'deveria sair da prisão em janeiro'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "npr",
+     "titulo": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+     "angulo": "NPR: críticos veem repressão.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ativista Joshua Wong é condenado a mais 10 anos de prisão em Hong Kong",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ativista-joshua-wong-e-condenado-a-mais-10-anos-de-prisao-em-hong-kong.shtml",
+     "angulo": "Folha: a condenação no território chinês.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Hong Kong Jails Joshua Wong for a Decade in Collusion Case",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-sentences-activist-joshua-wong-to-10-years-in-prison",
+     "angulo": "Bloomberg: segunda condenação de segurança nacional.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "quebra-do-ueno-bank-leva-oposicao-a-pedir-impeachment-de-pena",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Quebra do Ueno Bank derruba o chefe do BC do Paraguai e leva a oposição a pedir o impeachment de Peña",
+   "lide": "O Banco Central paraguaio interveio no banco digital, ligado ao Grupo Vázquez e ao presidente Santiago Peña, e bloqueou contas de cerca de 3 milhões de clientes; oito executivos foram presos e houve protestos em Assunção. Peña nomeou um novo presidente do BC e prometeu devolver os depósitos.",
+   "fatos": [
+    {
+     "texto": "O Banco Central do Paraguai interveio no Ueno Bank, que tem cerca de 3 milhões de clientes, o equivalente a 60% da população adulta do país.",
+     "base": "3 fontes independentes (BBC Brasil, Veja, Band)"
+    },
+    {
+     "texto": "Oito executivos ligados ao banco foram presos por suspeita de fraudes financeiras.",
+     "base": "3 fontes independentes (Valor, Veja, Folha)"
+    },
+    {
+     "texto": "O presidente do Banco Central, Carlos Carvallo, que comandou o Ueno antes de assumir o cargo, renunciou.",
+     "base": "3 fontes independentes (SBT, Jovem Pan, Gazeta do Povo)"
+    },
+    {
+     "texto": "Peña nomeou um novo presidente do Banco Central e apresentou um projeto para devolver os depósitos aos clientes.",
+     "base": "2 fontes independentes (g1, La Nación)"
+    },
+    {
+     "texto": "Deputados da oposição apresentaram pedido de impeachment de Peña e do vice.",
+     "base": "3 fontes independentes (Estadão, Clarín, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O comércio do Paraguai está quase 70% paralisado, porque o Ueno processava cerca de dois terços das transações.",
+     "quem": "Revista Fórum"
+    },
+    {
+     "texto": "A crise é um 'Banco Master paraguaio', pela semelhança com o caso Vorcaro.",
+     "quem": "Opera Mundi, Fórum e Band"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o caso é comparado ao do Banco Master, e brasileiros que vivem no Paraguai e têm conta no Ueno aguardam as regras de devolução, segundo O Globo.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Paraguai intervém em um dos maiores bancos do país e congela dinheiro de milhões de pessoas",
+     "url": "https://www.bbc.com/portuguese/articles/cjy56zrrnn25o",
+     "angulo": "BBC Brasil: 60% dos adultos são clientes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Master paraguaio? Entenda crise em banco digital ligado ao presidente Santiago Peña",
+     "url": "https://www.estadao.com.br/economia/entenda-crise-banco-digital-ligado-presidente-santiago-pena-npr/",
+     "angulo": "Estadão: o banco ligado a Peña.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Comércio do Paraguai paralisa em quase 70% após Ueno Bank quebrar",
+     "url": "https://revistaforum.com.br/global/comercio-paraguai-quase-70-ueno-bank/",
+     "angulo": "Fórum: o comércio quase parado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Quebra de banco digital desencadeia crise no Paraguai e derruba chefe do Banco Central",
+     "url": "https://www.gazetadopovo.com.br/mundo/quebra-de-banco-digital-desencadeia-crise-no-paraguai-e-derruba-chefe-do-banco-central/",
+     "angulo": "Gazeta: a queda do chefe do BC e o pedido de impeachment.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Master paraguaio? Oito executivos ligados ao ueno bank são presos após intervenção; protestos tomam ruas de Assunção",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/04/master-paraguaio-oito-executivos-ligados-ao-ueno-bank-so-presos-aps-interveno-protestos-tomam-ruas-de-assuno.ghtml",
+     "angulo": "Valor: as prisões e os protestos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "La oposición paraguaya presenta al Congreso un pedido de destitución del presidente Santiago Peña por el \"corralito\" y la crisis bancaria",
+     "url": "https://www.clarin.com/mundo/oposicion-paraguaya-presenta-congreso-pedido-destitucion-presidente-santiago-pena-corralito-crisis-bancaria_0_1ACZHtfcH9.html",
+     "angulo": "Clarín (Argentina): o pedido de destituição por 'corralito'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Quebra de banco gera revolta no Paraguai e ameaça governo de Santiago Peña",
+     "url": "https://operamundi.uol.com.br/america-latina/quebra-de-banco-gera-revolta-no-paraguai-e-ameaca-governo-de-santiago-pena/",
+     "angulo": "Opera Mundi: a comparação com o Master.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Peña nombra nuevo director del Banco Central y presenta un proyecto para devolver los ahorros: “Quiero transmitir tranquilidad”",
+     "url": "https://www.lanacion.com.ar/el-mundo/pena-nombra-nuevo-director-del-banco-central-y-presenta-un-proyecto-para-devolver-los-ahorros-quiero-nid04112026/",
+     "angulo": "La Nación: Peña quer 'transmitir tranquilidade'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Presidente do Paraguai anuncia ressarcimento de clientes de banco e indica novo chefe para o BC",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/04/presidente-paraguai-anuncia-medidas-crise-bancaria.ghtml",
+     "angulo": "g1: ressarcimento e novo chefe do BC.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Quebra de Ueno Bank, banco digital ligado ao presidente do Paraguai, provoca protestos e derruba chefe do BC; entenda a crise",
+     "url": "https://www.brasildefato.com.br/2026/11/04/quebra-de-ueno-bank-banco-digital-ligado-ao-presidente-do-paraguai-provoca-protestos-e-derruba-chefe-do-bc-entenda-a-crise/",
+     "angulo": "Brasil de Fato: entenda a crise.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Crise bancária provoca pedido de impeachment contra presidente do Paraguai",
+     "url": "https://www.cnnbrasil.com.br/internacional/crise-bancaria-provoca-pedido-de-impeachment-contra-presidente-do-paraguai/",
+     "angulo": "CNN Brasil: a oposição responsabiliza Peña.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Tem conta no Ueno Bank? Veja como está prevista a devolução do dinheiro após intervenção no Paraguai",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/04/tem-conta-no-ueno-bank-veja-como-esta-prevista-a-devolucao-do-dinheiro-apos-intervencao-no-paraguai.ghtml",
+     "angulo": "O Globo: o que fazem os brasileiros com conta no banco.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "mortos-em-komyshuvakha-chegam-a-40-e-melania-recebe-russos",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Mortos em ataque russo a Komyshuvakha chegam a 40; Melania recebe russos e ucranianos na Casa Branca",
+   "lide": "Zelensky elevou o balanço do bombardeio de segunda a uma escola usada como abrigo e centro de ajuda, e a polícia divulgou vídeo de câmera corporal do ataque. Antes das negociações de Abu Dhabi, a primeira-dama dos EUA recebe nesta quinta (5) representantes dos dois países.",
+   "fatos": [
+    {
+     "texto": "O número de mortos no ataque russo a Komyshuvakha, na região de Zaporizhzhia, chegou a 40.",
+     "base": "3 fontes independentes (Al Jazeera, Guardian, Le Monde)"
+    },
+    {
+     "texto": "Zelensky condecorou Melania Trump pelo papel na trégua parcial que permitiu a retirada de civis de Oleshky.",
+     "base": "3 fontes independentes (BBC, Estadão, g1)"
+    },
+    {
+     "texto": "Melania recebe nesta quinta (5) autoridades russas e ucranianas, entre elas responsáveis por direitos humanos, antes das negociações de Abu Dhabi.",
+     "base": "3 fontes independentes (AFP, Euronews, Gazeta do Povo)"
+    },
+    {
+     "texto": "O porta-voz do Kremlin, Dmitry Peskov, disse esperar que o resultado das eleições americanas não afete os esforços de Trump pela paz.",
+     "base": "2 fontes independentes (CNN Brasil, Brasil de Fato)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Congresso democrata deve trazer mais ajuda dos EUA à Ucrânia.",
+     "quem": "Zelensky, à emissora alemã ZDF"
+    },
+    {
+     "texto": "Os ucranianos não esperam mudança rápida na política americana para a guerra.",
+     "quem": "France 24, segundo a AFP"
+    },
+    {
+     "texto": "Há denúncias de tortura num centro de detenção ligado ao batalhão Azov perto de Kiev.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Zelensky foi a Madri buscar apoio de líderes latino-americanos na Cúpula Ibero-Americana, segundo a Euronews.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "mortos-em-centro-de-ajuda-na-ucrania-sobem-a-31-com-38-sob-escombros-russia-lanca-ataque-massivo-a-rede-eletrica-melania-recebe-russos-e-ucranianos-dia-5-merz-promete-200-milhoes-de-euros",
+    "titulo": "Mortos em bombardeio russo a centro de ajuda na Ucrânia sobem para 31"
+   },
+   "materias": [
+    {
+     "fonte": "aljazeera",
+     "titulo": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+     "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people",
+     "angulo": "Al Jazeera: buscas interrompidas por drones russos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Kremlin confirma encontro de “defensora dos direitos humanos da Rússia” com Melania Trump na Casa Branca",
+     "url": "https://www.gazetadopovo.com.br/mundo/kremlin-confirma-encontro-de-defensora-dos-direitos-humanos-da-russia-com-melania-trump-na-casa-branca/",
+     "angulo": "Gazeta: Yana Lantratova vai à Casa Branca.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+     "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+     "angulo": "BBC: vídeo de câmera corporal mostra ataque em dois tempos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Kremlin espera que Trump mantenha esforços pela paz após derrota nas ‘midterms’",
+     "url": "https://www.brasildefato.com.br/2026/11/04/kremlin-espera-que-trump-mantenha-esforcos-pela-paz-apos-derrota-nas-midterms/",
+     "angulo": "Brasil de Fato: destaca a fala de Peskov.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Zelenski condecora Melania Trump por apoio humanitário à Ucrânia",
+     "url": "https://www.estadao.com.br/internacional/zelenski-condecora-melania-trump-por-apoio-humanitario-a-ucrania-npr/",
+     "angulo": "Estadão: a condecoração pela trégua.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
+     "url": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house",
+     "angulo": "Euronews: o encontro desta quinta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Escândalo de tortura na Ucrânia envolve instalação ligada ao grupo neonazista Azov",
+     "url": "https://www.brasil247.com/mundo/escandalo-de-tortura-na-ucrania-envolve-instalacao-ligada-ao-grupo-neonazista-azov/",
+     "angulo": "247: denúncias contra centro ligado ao Azov.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Zelensky diz que espera que resultado de Midterms gere mais ajuda à Ucrânia",
+     "url": "https://www.cnnbrasil.com.br/internacional/zelensky-diz-que-espera-que-resultado-de-midterms-gere-mais-ajuda-a-ucrania/",
+     "angulo": "CNN Brasil: Zelensky espera mais ajuda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Guerre en Ukraine : Komychouvakha visée par une attaque meurtrière russe",
+     "url": "https://www.lemonde.fr/international/video/2026/11/04/guerre-en-ukraine-komychouvakha-visee-par-une-attaque-meurtriere-russe_6806411_3210.html",
+     "angulo": "Le Monde: 'Komyshuvakha alvo de ataque mortal'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
+     "url": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms",
+     "angulo": "AFP: ucranianos céticos sobre mudança nos EUA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Zelensky condecora Melania Trump por negociar trégua na Ucrânia e ajudar na retirada de civis",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/04/zelensky-condecora-melania-trump-por-negociar-tregua-na-ucrania-e-ajudar-na-retirada-de-civis.ghtml",
+     "angulo": "g1: a retirada de civis negociada por Melania.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-04"
+    }
+   ]
+  }
+ ]
+}
