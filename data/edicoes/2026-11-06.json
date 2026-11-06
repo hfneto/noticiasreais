@@ -1,0 +1,2025 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-06",
+ "gerado_em": "2026-11-06T05:59:18-03:00",
+ "historias": [
+  {
+   "id": "tse-abre-acao-contra-chapa-lula-alckmin-por-abuso-de-poder",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "TSE abre investigação contra a chapa Lula-Alckmin por suposto abuso de poder político",
+   "lide": "O corregedor-geral eleitoral, Ricardo Villas Bôas Cueva, admitiu ação do Novo que questiona 35 atos do governo que criaram ou ampliaram benefícios em ano eleitoral e pede a cassação e a inelegibilidade de Lula e Alckmin. A defesa tem cinco dias para se manifestar.",
+   "contexto": "Admitir a ação abre a investigação; o mérito ainda não foi julgado.",
+   "fatos": [
+    {
+     "texto": "O corregedor-geral eleitoral admitiu uma ação de investigação judicial eleitoral do Novo contra Lula e Alckmin por abuso de poder político.",
+     "base": "4 fontes independentes (g1, Estadão, Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "A ação questiona 35 atos normativos que criaram ou ampliaram benefícios em 2026, entre eles o reajuste do Bolsa Família.",
+     "base": "3 fontes independentes (Jota, CartaCapital, DCM)"
+    },
+    {
+     "texto": "O Novo pede a cassação dos registros ou diplomas e a inelegibilidade de Lula e Alckmin por oito anos.",
+     "base": "2 fontes independentes (Exame, Gazeta do Povo)"
+    },
+    {
+     "texto": "Lula e Alckmin têm cinco dias para apresentar defesa.",
+     "base": "3 fontes independentes (DW Brasil, Veja, Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Derrotado por 4,4 milhões de votos, Flávio Bolsonaro aposta num 'terceiro turno' no TSE, com 11 ações para cassar Lula e Alckmin.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "As medidas questionadas somam impacto de R$ 73 bilhões em 2026.",
+     "quem": "Novo, segundo o Brasil 247"
+    },
+    {
+     "texto": "Depois de apostar no bolsonarismo e perder, a Faria Lima cobra de Lula o programa derrotado nas urnas.",
+     "quem": "CartaCapital"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Dez cidades brasileiras registraram mais votos que habitantes, o que indicaria fraude.",
+     "rotulo": "Falso",
+     "explicacao": "Dois municípios da lista não existem, e nos outros oito não houve mais votos que habitantes.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/lista-cidades-mais-votos-que-habitantes/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Oito milhões de votos sem biometria comprovam fraude na eleição.",
+     "rotulo": "Falso",
+     "explicacao": "A falta de biometria não invalida o voto, e a checagem de documentos impede votar em nome de pessoas mortas.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/eleicoes/2026/11/05/e-falso-que-8-milhoes-de-votos-sem-biometria-comprovam-fraude-nas-eleicoes/"
+      }
+     ]
+    },
+    {
+     "alegacao": "As urnas foram programadas para transferir votos de um candidato a outro depois das 17h01.",
+     "rotulo": "Falso",
+     "explicacao": "Os posts não apresentam prova, e a alegação já havia sido desmentida.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/urnas-roubar-votos-apos-17h01/"
+      }
+     ]
+    },
+    {
+     "alegacao": "O TSE admitiu ações de Flávio Bolsonaro e do Novo contra a chapa.",
+     "rotulo": "Contraditório",
+     "explicacao": "O SBT fala em ações de Flávio e do Novo, enquanto a maior parte da imprensa registra a admissão apenas da ação do Novo.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados e veículos de esquerda tratam as ações como um 'terceiro turno' de quem perdeu nas urnas.",
+    "oposicao": "Novo e PL acusam o governo de usar a máquina pública e benefícios sociais para garantir a reeleição."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "checagens-desmentem-alegacoes-de-fraude-no-segundo-turno",
+    "titulo": "Checagens desmentem alegações de fraude no 2º turno; Alcolumbre ironiza: 'no 1º turno a urna prestou'"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/05/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico.ghtml",
+     "angulo": "g1: a decisão do corregedor e o prazo de defesa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "TSE aceita ação do Novo que pede cassação de Lula e Alckmin por suposto abuso de poder",
+     "url": "https://www.gazetadopovo.com.br/republica/tse-aceita-acao-do-novo-que-pede-cassacao-de-lula-e-alckmin-por-suposto-abuso-de-poder/",
+     "angulo": "Gazeta: o pedido de cassação e inelegibilidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "TSE abre ação contra a chapa Lula-Alckmin por uso de máquina pública em ano eleitoral",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/tse-abre-acao-contra-a-chapa-lula-alckmin-por-uso-de-maquina-publica-em-ano-eleitoral",
+     "angulo": "Jota: os 35 benefícios questionados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "TSE admite ação do Novo contra chapa Lula-Alckmin por suposto abuso de poder político",
+     "url": "https://www.brasil247.com/brasil/tse-admite-acao-do-novo-contra-chapa-lula-alckmin-por-suposto-abuso-de-poder-politico/",
+     "angulo": "247: o impacto de R$ 73 bilhões alegado pelo Novo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "TSE admite denúncia do Novo e instaura ação contra chapa Lula e Alckmin",
+     "url": "https://www.estadao.com.br/politica/tse-admite-denuncia-do-novo-e-instauracao-acao-contra-chapa-lula-e-alckmin/",
+     "angulo": "Estadão: Cueva recebe a ação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "TSE dá andamento a ação do Novo que pede cassação de Lula e Alckmin",
+     "url": "https://www.diariodocentrodomundo.com.br/tse-da-andamento-a-acao-do-novo-que-pede-cassacao-de-lula-e-alckmin/",
+     "angulo": "DCM: frisa que o mérito não foi julgado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "‘Terceiro turno’ no TSE tem 11 ações de Flávio Bolsonaro para cassar Lula e Alckmin",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/terceiro-turno-no-tse-tem-11-acoes-de-flavio-bolsonaro-para-cassar-lula-e-alckmin.ghtml",
+     "angulo": "O Globo: as 11 ações de Flávio no tribunal.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "TSE admite ações contra Lula-Alckmin por abuso de poder",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder",
+     "angulo": "SBT: cita ações de Flávio e do Novo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "conexaopolitica",
+     "titulo": "TSE aceita ação do Novo contra Lula e Alckmin por abuso de poder político",
+     "url": "https://www.conexaopolitica.com.br/politica/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico/",
+     "angulo": "Conexão Política: a admissão da ação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Terceiro turno, a batalha da vez",
+     "url": "https://www.cartacapital.com.br/opiniao/terceiro-turno-a-batalha-da-vez/",
+     "angulo": "CartaCapital: o 'terceiro turno' como pressão da Faria Lima.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "TSE aceita ação do Novo contra Lula e Alckmin por 'abuso de poder' nas eleições",
+     "url": "https://exame.com/brasil/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-nas-eleicoes/",
+     "angulo": "Exame: inelegibilidade por oito anos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "TSE aceita ação contra Lula e Alckmin por abuso de poder político",
+     "url": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: a acusação de uso da máquina estatal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "governo-define-aliquotas-do-imposto-seletivo-para-2027",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Governo define por MP as alíquotas do Imposto Seletivo, cobrado a partir de fevereiro de 2027",
+   "lide": "A MP 1.399/2026 fixa as alíquotas transitórias do 'imposto do pecado' sobre cigarros, bebidas, veículos e apostas, e o governo diz que elas mantêm a carga atual no primeiro ano. A indústria do fumo critica o aumento sobre cigarros, enquanto montadoras e o setor de bebidas aprovam o texto.",
+   "fatos": [
+    {
+     "texto": "A MP 1.399/2026, publicada na quarta (4), define as alíquotas e regras do Imposto Seletivo para 2027, com cobrança a partir de 2 de fevereiro.",
+     "base": "3 fontes independentes (Agência Brasil, Estadão, O Antagonista) e Agência Senado"
+    },
+    {
+     "texto": "Para veículos, a alíquota base é de 6,3% e varia conforme motorização, consumo de energia, potência e reciclagem.",
+     "base": "2 fontes independentes (Veja, g1)"
+    },
+    {
+     "texto": "A alíquota específica sobre cigarros sobe 55,6%.",
+     "base": "3 fontes independentes (Poder360, Diário do Poder, Brasil 247)"
+    },
+    {
+     "texto": "O governo afirma que as alíquotas foram calculadas para manter a carga tributária atual no primeiro ano.",
+     "base": "2 fontes independentes (Agência Câmara, Veja)"
+    },
+    {
+     "texto": "O ministro da Fazenda, Dario Durigan, disse que o fim das bets reduzirá a arrecadação do imposto em 2027 e exigirá ajuste no orçamento.",
+     "base": "2 fontes independentes (g1, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A alta sobre cigarros amplia a diferença para o produto clandestino e favorece o crime organizado.",
+     "quem": "Abifumo, indústria do fumo"
+    },
+    {
+     "texto": "O governo atrasou em um ano a implementação do imposto, que deveria desestimular produtos nocivos.",
+     "quem": "ACT Promoção da Saúde, ao Estadão"
+    },
+    {
+     "texto": "O imposto beneficia carros elétricos, mas prejudica consumo e emprego.",
+     "quem": "Rafael Barbosa, pesquisador do Ibre, ao Valor"
+    },
+    {
+     "texto": "O Imposto Seletivo não tem finalidade arrecadatória, e sim desestimular o consumo de produtos prejudiciais.",
+     "quem": "Dario Durigan, ministro da Fazenda"
+    },
+    {
+     "texto": "O PT usa o 'imposto do pecado' como pretexto para aumentar impostos e restringir liberdades.",
+     "quem": "Artigo de opinião na Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo diz que o imposto mantém a carga atual e serve para desestimular consumo nocivo, não para arrecadar.",
+    "oposicao": "Veículos de oposição tratam o tributo como aumento de impostos e interferência no consumo, e a indústria do fumo diz que ele favorece o contrabando."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "'Imposto do pecado': governo federal define as alíquotas do tributo, que começa a ser cobrado em 2027",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/imposto-do-pecado-governo-federal-define-as-aliquotas-do-tributo-que-comeca-a-ser-cobrado-em-2027.ghtml",
+     "angulo": "g1: as alíquotas e o início da cobrança.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Imposto do pecado: o PT odeia sua cervejinha (e sua liberdade)",
+     "url": "https://www.gazetadopovo.com.br/rodrigo-constantino/imposto-do-pecado-o-pt-odeia-sua-cervejinha-e-sua-liberdade/",
+     "angulo": "Artigo na Gazeta contra o imposto.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Imposto do pecado: entenda cobrança sobre cigarros, bebidas e veículos",
+     "url": "https://www.brasildefato.com.br/2026/11/05/imposto-do-pecado-entenda-cobranca-sobre-cigarros-bebidas-e-veiculos/",
+     "angulo": "Brasil de Fato (texto da Agência Brasil): como funciona a cobrança.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Alta no imposto de cigarros favorece mercado ilegal, diz Abifumo",
+     "url": "https://www.poder360.com.br/conteudo-de-marca/alta-no-imposto-de-cigarros-favorece-mercado-ilegal-diz-abifumo/",
+     "angulo": "Poder360: a Abifumo e o mercado ilegal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Imposto Seletivo agrada setores e adia debate sobre tributação 'do pecado'",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/imposto-seletivo-agrada-setores-e-adia-debate-sobre-tributacao-do-pecado.shtml",
+     "angulo": "Folha: a maioria dos setores aprovou a MP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Entidade critica governo Lula por adiar ‘imposto do pecado’ por um ano",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/entidade-critica-governo-lula-por-adiar-imposto-do-pecado-por-um-ano/",
+     "angulo": "Estadão: entidade de saúde critica o adiamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "‘Imposto do pecado’ prevê taxações distintas para carros mais e menos poluentes; entenda",
+     "url": "https://veja.abril.com.br/economia/imposto-do-pecado-preve-taxacoes-distintas-para-carros-mais-e-menos-poluentes-entenda/",
+     "angulo": "Veja: a regra para carros mais e menos poluentes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Imposto do pecado e Selic a 13,75%: os primeiros sinais do novo governo Lula",
+     "url": "https://oantagonista.com.br/videos/imposto-do-pecado-e-selic-a-1375-os-primeiros-sinais-do-novo-governo-lula/",
+     "angulo": "O Antagonista: lê a MP como sinal do novo governo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Imposto do pecado começa em fevereiro de 2027. Veja as alíquotas",
+     "url": "https://www.brasil247.com/economia/imposto-do-pecado-comeca-em-fevereiro-de-2027-veja-as-aliquotas/",
+     "angulo": "247: as alíquotas de tabaco e destilados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "MP define as alíquotas do Imposto Seletivo para 2027",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027",
+     "angulo": "Agência Senado: a MP e a reforma tributária.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Imposto seletivo beneficia setor de carros elétricos, mas prejudica consumo e emprego, avalia Ibre",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/05/imposto-seletivo-beneficia-setor-de-carros-eltricos-mas-prejudica-consumo-e-emprego-avalia-ibre.ghtml",
+     "angulo": "Valor: a avaliação do Ibre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "‘Imposto do pecado’: governo fixa regras sobre cigarros e bebidas para 2027",
+     "url": "https://revistaoeste.com/economia/imposto-do-pecado-governo-fixa-regras-sobre-cigarros-e-bebidas-para-2027/",
+     "angulo": "Oeste: as regras para cigarros e bebidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "producao-industrial-cai-0-8-em-setembro",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Produção industrial cai 0,8% em setembro, a quarta queda em cinco meses",
+   "lide": "A queda, puxada por combustíveis e alimentos, veio maior que o esperado e levou a indústria a recuar 2,2% no terceiro trimestre. O IBGE diz que os juros altos podem ser a principal influência para o resultado negativo do setor em 2026.",
+   "fatos": [
+    {
+     "texto": "A produção industrial caiu 0,8% em setembro ante agosto, a quarta retração em cinco meses.",
+     "base": "4 fontes independentes (Agência Brasil, Gazeta do Povo, O Globo, Estadão)"
+    },
+    {
+     "texto": "A queda foi puxada pela produção de combustíveis e de alimentos.",
+     "base": "2 fontes independentes (O Globo, Estadão)"
+    },
+    {
+     "texto": "No terceiro trimestre, a indústria recuou 2,2% ante o segundo, depois de dois trimestres de alta.",
+     "base": "2 fontes independentes (Valor, Brasil 247)"
+    },
+    {
+     "texto": "Na comparação com setembro de 2025, a produção caiu 2,5%.",
+     "base": "dado do IBGE, segundo a CNN Brasil"
+    },
+    {
+     "texto": "As indústrias extrativas subiram 1,7% em setembro e evitaram uma queda maior.",
+     "base": "dado do IBGE, segundo o Valor"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A política monetária restritiva teve contribuição importante e pode ser a principal influência para o resultado negativo da indústria em 2026.",
+     "quem": "IBGE, ao Valor"
+    },
+    {
+     "texto": "A queda acima do esperado acende alerta para o PIB e os investimentos.",
+     "quem": "Analistas ouvidos pelo InfoMoney"
+    },
+    {
+     "texto": "O dado reforça a desaceleração da economia no terceiro trimestre.",
+     "quem": "Economistas ouvidos por Folha, Estadão e Valor"
+    },
+    {
+     "texto": "A Fiesp reduziu de 1,4% para 0,4% a projeção de crescimento da indústria em 2026.",
+     "quem": "Fiesp, segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Produção da indústria recua 0,8% em setembro; 4ª queda em cinco meses",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/producao-da-industria-recua-08-em-setembro-4a-queda-em-cinco-meses",
+     "angulo": "Agência Brasil: quarta queda em cinco meses.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Produção industrial recua 0,8% em setembro e acumula perda de 4,1% desde maio",
+     "url": "https://www.gazetadopovo.com.br/economia/producao-industrial-recua-08-em-setembro-e-acumula-perda-de-41-desde-maio/",
+     "angulo": "Gazeta: perda de 4,1% desde maio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Produção industrial cai 0,8% em setembro, com recuo de combustíveis e alimentos",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/05/producao-industrial-cai-08percent-em-setembro-com-recuo-de-combustiveis-e-alimentos.ghtml",
+     "angulo": "O Globo: combustíveis e alimentos puxam a queda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Produção industrial brasileira cai 0,8% em setembro",
+     "url": "https://www.cartacapital.com.br/economia/producao-industrial-brasileira-cai-08-em-setembro/",
+     "angulo": "CartaCapital: o resultado abaixo da expectativa do mercado.",
+     "tipo": "noticia",
+     "enquadramento": null
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Produção industrial cai 0,8% em setembro e indica desaceleração no 3º trimestre, apontam analistas",
+     "url": "https://www.estadao.com.br/economia/producao-industrial-setembro-2026-ibge/",
+     "angulo": "Estadão: analistas veem desaceleração no trimestre.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Produção industrial no Brasil recua 0,8% em setembro, diz IBGE",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-industrial-no-brasil-recua-08-em-setembro-diz-ibge/",
+     "angulo": "CNN Brasil: queda de 2,5% na comparação anual.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Produção industrial recua 2,2% no 3º trimestre, e Fiesp reduz projeção de crescimento para 2026",
+     "url": "https://www.brasil247.com/economia/producao-industrial-recua-22-no-3o-trimestre-e-fiesp-reduz-projecao-de-crescimento-para-2026/",
+     "angulo": "247: a Fiesp corta a projeção para 2026.",
+     "tipo": "noticia",
+     "enquadramento": null
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Produção industrial no Brasil recua mais do que o esperado em setembro",
+     "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468030",
+     "angulo": "Folha: segunda retração seguida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Juro alto pode ser principal influência para resultado negativo da indústria em 2026, diz IBGE",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/05/juro-alto-pode-ser-principal-influencia-para-resultado-negativo-da-industria-em-2026-diz-ibge.ghtml",
+     "angulo": "Valor: o IBGE aponta os juros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Queda além do esperado na produção industrial acende alerta para PIB e investimentos",
+     "url": "https://www.infomoney.com.br/economia/producao-industrial-setembro-queda-pib-investimentos/",
+     "angulo": "InfoMoney: alerta para PIB e investimentos.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Indústria brasileira recua 2,2% no 3º trimestre após dois trimestres de alta, diz IBGE",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/05/industria-brasileira-recua-22percent-no-3o-trimestre-apos-dois-trimestres-de-alta-diz-ibge.ghtml",
+     "angulo": "Valor: o recuo trimestral.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "governo-define-27-minerais-criticos-e-estrategicos",
+   "editoria": "Indústria",
+   "escopo": "brasil",
+   "titulo": "Governo define 27 minerais críticos e estratégicos em três níveis de prioridade",
+   "lide": "Na primeira reunião do conselho criado para a política de minerais críticos, com Lula, o governo aprovou a lista que orienta incentivos e a análise de vendas de empresas e contratos do setor. Nove minerais, entre eles terras raras, urânio e cobre, ficaram na prioridade mais alta.",
+   "fatos": [
+    {
+     "texto": "O Conselho Nacional para a Industrialização de Minerais Críticos e Estratégicos aprovou uma lista de 27 minerais divididos em três classes de prioridade.",
+     "base": "4 fontes independentes (Estadão, Valor, Agência Brasil, Poder360)"
+    },
+    {
+     "texto": "Nove minerais, entre eles terras raras, urânio e cobre, ficaram na classe de maior prioridade.",
+     "base": "2 fontes independentes (Poder360, CNN Brasil)"
+    },
+    {
+     "texto": "A classificação orienta o acesso a incentivos e a análise de operações envolvendo empresas e contratos do setor.",
+     "base": "3 fontes independentes (Estadão, Brasil 247, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "É o 'começo de uma nova era'; o governo quer parcerias, e não um Estado 'senhor supremo' na exploração.",
+     "quem": "Lula, segundo Brasil 247 e Folha"
+    },
+    {
+     "texto": "A reeleição de Lula adia os planos dos EUA de acesso rápido às terras raras brasileiras.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "O governo prepara regras para ampliar o controle sobre a venda de empresas e contratos de minerais estratégicos.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "Os critérios para controlar investimentos no setor serão discutidos na próxima reunião do conselho, em dezembro.",
+     "quem": "Governo, segundo o Valor"
+    },
+    {
+     "texto": "É preciso responsabilidade fiscal e jurídica para atrair investimentos.",
+     "quem": "Lula, segundo a Jovem Pan"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A lista tem 28 minerais.",
+     "rotulo": "Contraditório",
+     "explicacao": "O DCM fala em 28, enquanto Estadão, Valor, Agência Brasil e Poder360 registram 27.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Governo Lula elenca 27 minerais críticos e prevê triagem nos contratos de venda",
+     "url": "https://www.estadao.com.br/economia/governo-lula-elenca-27-minerais-criticos-e-preve-triagem-nos-contratos-de-venda/",
+     "angulo": "Estadão: a triagem prevista nos contratos de venda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Governo define 27 minerais estratégicos para impulsionar a industrialização do Brasil",
+     "url": "https://www.brasildefato.com.br/2026/11/05/governo-define-27-minerais-estrategicos-para-impulsionar-a-industrializacao-do-brasil/",
+     "angulo": "Brasil de Fato: a lista como impulso à industrialização.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Governo define lista de 27 minerais críticos e estratégicos e estabelece prioridades para incentivos",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/05/governo-define-lista-de-27-minerais-crticos-e-estratgicos-e-estabelece-prioridades-para-incentivos.ghtml",
+     "angulo": "Valor: as prioridades para incentivos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Lula defende responsabilidade fiscal jurídica para atrair investimentos",
+     "url": "https://jovempan.com.br/politica/lula-defende-responsabilidade-fiscal-juridica-para-atrair-investimentos/",
+     "angulo": "Jovem Pan: a fala de Lula na reunião do conselho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Governo aprova lista com 27 minerais críticos e dá prioridade alta a 9",
+     "url": "https://www.poder360.com.br/poder-governo/governo-aprova-lista-com-27-minerais-criticos-e-prioridade-alta-para-9/",
+     "angulo": "Poder360: nove minerais na prioridade alta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Vitória de Lula adia planos dos EUA para acesso rápido às terras raras do Brasil",
+     "url": "https://www.brasil247.com/economia/vitoria-de-lula-adia-planos-dos-eua-para-acesso-rapido-as-terras-raras-do-brasil/",
+     "angulo": "247: liga a lista à disputa com os EUA.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Terras raras, urânio e cobre: veja minerais “prioritários” do Brasil",
+     "url": "https://www.cnnbrasil.com.br/infra/terras-raras-uranio-e-cobre-veja-minerais-prioritarios-do-brasil/",
+     "angulo": "CNN Brasil: os minerais prioritários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula diz querer parcerias e não Estado 'senhor supremo' na exploração de minerais críticos",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-querer-parcerias-e-nao-estado-senhor-supremo-na-exploracao-de-minerais-criticos.shtml",
+     "angulo": "Folha: Lula rejeita o Estado como 'senhor supremo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Governo define minerais críticos e estratégicos do Brasil; veja a lista",
+     "url": "https://www.diariodocentrodomundo.com.br/governo-define-minerais-criticos-estrategicos-terras-raras-litio/",
+     "angulo": "DCM: fala em 28 minerais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Governo prepara novas regras para proteger minerais estratégicos do Brasil",
+     "url": "https://iclnoticias.com.br/governo-novas-regras-minerais-brasil/",
+     "angulo": "ICL: o controle sobre vendas de empresas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Novo decreto do governo divide minerais críticos em três níveis de prioridade",
+     "url": "https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/",
+     "angulo": "InfoMoney: os três níveis de prioridade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Governo define minerais críticos prioritários para investimentos",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-define-minerais-criticos-prioritarios-para-investimentos",
+     "angulo": "Agência Brasil: a reunião do conselho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "dino-marca-conciliacao-sobre-fim-da-6x1-e-mantem-prazos",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Dino marca audiência de conciliação sobre o fim da escala 6x1 e não suspende os prazos",
+   "lide": "Relator das ações da indústria e do comércio, o ministro convocou empresários, centrais sindicais, governo e Congresso para terça (10) e disse que a redução da jornada não está em negociação. O pedido para suspender de imediato o calendário foi negado.",
+   "contexto": "Segundo o DCM, a primeira redução da jornada está prevista para 16 de dezembro, e a CNC quer adiá-la para outubro de 2027.",
+   "fatos": [
+    {
+     "texto": "Flávio Dino marcou uma audiência de conciliação para terça (10), às 14h.",
+     "base": "3 fontes independentes (Terra Brasil, Valor, CNN Brasil)"
+    },
+    {
+     "texto": "Dino não suspendeu de imediato o calendário de transição.",
+     "base": "2 fontes independentes (Brasil 247, Congresso em Foco)"
+    },
+    {
+     "texto": "O ministro afirmou que a redução da jornada e a ampliação do descanso não estão em negociação.",
+     "base": "2 fontes independentes (Brasil 247, ICL)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Economistas de grandes bancos usam o fim da 6x1 como argumento para manter os juros altos até 2027.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "O fim da 6x1 cria uma contradição no campo: empregados descansam mais, mas pequenos produtores rurais não.",
+     "quem": "Análise do Estadão"
+    },
+    {
+     "texto": "O prazo curto ameaça as vendas de Natal.",
+     "quem": "CNC e CNI, segundo a CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "industria-e-comercio-vao-ao-stf-contra-prazos-do-fim-da-6x1",
+    "titulo": "Indústria e comércio vão ao STF contra os prazos do fim da escala 6x1; decreto deve sair na segunda"
+   },
+   "materias": [
+    {
+     "fonte": "brasildefato",
+     "titulo": "Dino marca audiência de conciliação sobre fim da escala 6×1",
+     "url": "https://www.brasildefato.com.br/2026/11/05/dino-marca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1/",
+     "angulo": "Brasil de Fato: a convocação das partes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Flávio Dino marca audiência para discutir implementação do fim da escala 6×1",
+     "url": "https://terrabrasilnoticias.com/2026/11/flavio-dino-marca-audiencia-para-discutir-implementacao-do-fim-da-escala-6x1/",
+     "angulo": "Terra Brasil: data e hora da audiência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "STF: Ministro Flávio Dino marca audiência de conciliação sobre fim da jornada 6x1",
+     "url": "https://valor.globo.com/legislacao/noticia/2026/11/05/stf-ministro-flavio-dino-marca-audiencia-de-conciliacao-sobre-fim-da-jornada-6x1.ghtml",
+     "angulo": "Valor: audiência em 10 de novembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Dino marca audiência para discutir prazo para implementar fim da escala 6×1",
+     "url": "https://www.cnnbrasil.com.br/politica/dino-marca-audiencia-para-discutir-prazo-para-implementar-fim-da-escala-6x1/",
+     "angulo": "CNN Brasil: empresas, trabalhadores e Congresso convocados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Dino marca audiência sobre fim da escala 6×1 e mantém prazo para redução da jornada",
+     "url": "https://www.brasil247.com/brasil/dino-marca-audiencia-sobre-fim-da-escala-6x1-e-mantem-prazo-para-reducao-da-jornada/",
+     "angulo": "247: o direito 'não está em negociação'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Dino chama empresários e sindicatos ao STF para negociar prazo do fim da escala 6×1",
+     "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/dino-chama-empresarios-e-sindicatos-ao-stf-para-negociar-prazo-do-fim-da-escala-6x1/",
+     "angulo": "Jovem Pan: o pedido da CNC sobre o cronograma.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Dino marca conciliação entre empresas, trabalhadores e governo sobre transição para o fim da 6x1",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/dino-marca-conciliacao-entre-empresas-trabalhadores-e-governo-sobre-transicao-para-o-fim-da-6x1.shtml",
+     "angulo": "Folha: entidades e centrais na mesma mesa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Dino marca audiência de conciliação em ação que discute fim da escala 6×1",
+     "url": "https://www.jota.info/trabalho/dino-marca-audiencia-de-conciliacao-em-acao-que-discute-fim-da-escala-6x1",
+     "angulo": "Jota: Dino relata as ações da CNI e da CNC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Flávio Dino nega suspender período de transição para fim da escala 6x1",
+     "url": "https://www.congressoemfoco.com.br/noticia/131359/flavio-dino-nega-suspender-periodo-de-transicao-para-fim-da-escala-6x1",
+     "angulo": "Congresso em Foco: a negativa de suspensão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Bancos usam fim da escala 6×1 para pressionar por juros altos até 2027",
+     "url": "https://iclnoticias.com.br/economia/bancos-6x1-pressionar-juros-altos-2027/",
+     "angulo": "ICL: bancos e a pressão por juros.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Do 6x1 ao 7x0: quem dará descanso ao produtor rural?",
+     "url": "https://www.estadao.com.br/economia/agronegocios/do-6x1-ao-7x0-quem-dara-descanso-ao-produtor-rural/",
+     "angulo": "Estadão: os pequenos produtores rurais.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Dino marca audiência para discutir o fim da 6 X 1",
+     "url": "https://www.poder360.com.br/poder-justica/dino-marca-audiencia-para-discutir-o-fim-da-6-x-1/",
+     "angulo": "Poder360: a ação da CNC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "fachin-mantem-cunhado-de-vorcaro-preso-e-consulta-pgr",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin mantém preso o cunhado de Vorcaro e pede parecer da PGR sobre a soltura do ex-banqueiro",
+   "lide": "O presidente do STF negou prisão domiciliar a Fabiano Zettel e abriu prazo para a PGR opinar sobre os pedidos de liberdade de Vorcaro, do pai e do primo. O governo do DF pediu que o BRB seja reconhecido como vítima e receba R$ 2,2 bilhões bloqueados.",
+   "fatos": [
+    {
+     "texto": "Fachin negou prisão domiciliar e manteve preso Fabiano Zettel, cunhado de Vorcaro.",
+     "base": "4 fontes independentes (g1, Agência Brasil, Veja, SBT)"
+    },
+    {
+     "texto": "Fachin pediu à PGR parecer sobre o pedido de liberdade de Vorcaro.",
+     "base": "3 fontes independentes (CartaCapital, Agência Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "A PGR também vai se manifestar sobre os pedidos de soltura do pai e do primo do ex-banqueiro.",
+     "base": "2 fontes independentes (Valor, SBT)"
+    },
+    {
+     "texto": "A defesa de Vorcaro alega excesso de prazo na prisão preventiva, decretada em março.",
+     "base": "2 fontes independentes (CNN Brasil, DCM)"
+    },
+    {
+     "texto": "O governo do DF pediu ao STF que R$ 2,2 bilhões bloqueados de Henrique Vorcaro sejam transferidos ao BRB e que o banco seja reconhecido como vítima.",
+     "base": "4 fontes independentes (Valor, Folha, Jota, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O celular de Vorcaro registra 316 interações com o ministro Alexandre de Moraes meses antes da prisão.",
+     "quem": "UOL"
+    },
+    {
+     "texto": "A base de Lula adiou a discussão sobre o depoimento de Vorcaro no Senado.",
+     "quem": "Damares Alves (Republicanos-DF), a Veja e O Antagonista"
+    },
+    {
+     "texto": "Um investigado por ataques digitais ligados a Vorcaro pediu soltura e abriu caminho para uma delação.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "Um secretário do governo Zema ajudou Vorcaro a destravar a burocracia do divórcio.",
+     "quem": "Metrópoles"
+    },
+    {
+     "texto": "Fachin deveria devolver o inquérito do Master a André Mendonça.",
+     "quem": "Artigo de opinião na Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Vorcaro foi solto por decisão judicial e terá de usar tornozeleira.",
+     "rotulo": "Falso",
+     "explicacao": "O ex-banqueiro segue preso na Papudinha; Fachin apenas pediu parecer da PGR sobre os pedidos de liberdade.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/e-falso-que-daniel-vorcaro-tenha-deixado-a-prisao-apos-decisao-da-justica/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Veículos alinhados ao governo destacam elos de Vorcaro com políticos de oposição, como o governo Zema em Minas.",
+    "oposicao": "A oposição acusa a base de Lula de adiar o depoimento de Vorcaro no Senado e destaca os contatos do banqueiro com ministros do STF."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "fachin-da-15-dias-para-pgr-sobre-indiciamento-de-vorcaro",
+    "titulo": "Fachin dá 15 dias para a PGR se manifestar sobre o indiciamento de Vorcaro e de mais 14"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fachin mantém prisão de cunhado de Vorcaro e pede manifestação da PGR sobre liberdade de ex-banqueiro",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/05/fachin-mantem-prisao-de-cunhado-de-vorcaro-e-pede-manifestacao-da-pgr-sobre-liberdade-de-ex-banqueiro.ghtml",
+     "angulo": "g1: as duas decisões do dia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Fachin mantém preso cunhado de Vorcaro",
+     "url": "https://revistaoeste.com/no-ponto/fachin-mantem-preso-fabiano-zettel/",
+     "angulo": "Oeste: a negativa a Zettel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Fachin pede à PGR parecer sobre pedido de soltura de Vorcaro",
+     "url": "https://www.diariodocentrodomundo.com.br/fachin-pede-a-pgr-parecer-sobre-pedido-de-soltura-de-vorcaro/",
+     "angulo": "DCM: a defesa alega mais de oito meses de preventiva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Fachin vê ‘indícios concretos’ e mantém prisão de cunhado de Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/fachin-ve-indicios-concretos-e-mantem-prisao-de-cunhado-de-vorcaro/",
+     "angulo": "Veja: os fundamentos da decisão sobre Zettel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Damares acusa base de Lula de adiar depoimento de Vorcaro no Senado",
+     "url": "https://oantagonista.com.br/brasil/damares-acusa-a-base-de-lula-de-adiar-depoimento-de-vorcaro-no-senado/",
+     "angulo": "O Antagonista: Damares acusa a base governista.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo do DF acusa Master de gestão fraudulenta, se diz vítima e pede transferência de R$ 2 bi bloqueados",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/governo-do-df-acusa-master-de-gestao-fraudulenta-se-diz-vitima-e-pede-transferencia-de-r-2-bi-bloqueados.shtml",
+     "angulo": "Folha: o pedido do DF pelos R$ 2,2 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Investigado por ataques digitais ligados a Vorcaro pede soltura e abre porta para delação",
+     "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/investigado-por-ataques-digitais-ligados-a-vorcaro-pede-soltura-e-abre-porta-para-delacao/",
+     "angulo": "Jovem Pan: a porta para uma delação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Fachin pede que PGR se manifeste sobre pedidos de revogação das prisões de Vorcaro, pai e primo",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/05/fachin-pede-que-pgr-se-manifeste-sobre-pedidos-de-revogacao-das-prisoes-de-vorcaro-pai-e-primo.ghtml",
+     "angulo": "Valor: os pedidos de Vorcaro, pai e primo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Secretário de Zema ajudou Vorcaro a destravar burocracia do divórcio",
+     "url": "https://www.metropoles.com/colunas/thiago-herdy/secretario-de-zema-ajudou-vorcaro-a-destravar-burocracia-do-divorcio",
+     "angulo": "Metrópoles: o elo com o governo Zema.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Celular de Vorcaro registra 316 interações com Moraes meses antes de prisão",
+     "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/11/06/celular-de-vorcaro-tem-316-interacoes-com-moraes-dois-meses-antes-de-prisao.htm",
+     "angulo": "UOL: as interações com Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Fachin mantém prisão de cunhado de Vorcaro",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-cunhado-de-vorcaro",
+     "angulo": "Agência Brasil: a decisão sobre Zettel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin precisa devolver inquérito do Master a Mendonça",
+     "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/edson-fachin-devolver-inquerito-banco-master-andre-mendonca/",
+     "angulo": "Artigo na Gazeta defende devolver o caso a Mendonça.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "servidores-do-ibge-tem-salario-zerado-por-dias-de-greve",
+   "editoria": "Serviço público",
+   "escopo": "brasil",
+   "titulo": "Servidores do IBGE têm salário zerado por dias de greve; instituto abre 27 mil vagas temporárias",
+   "lide": "Dezenas de servidores ficaram sem o salário de outubro depois do desconto integral dos dias parados determinado pela presidência do instituto, o que o sindicato diz agravar o conflito. No mesmo dia, o IBGE publicou edital para 27.279 recenseadores do Censo Agropecuário.",
+   "fatos": [
+    {
+     "texto": "Dezenas de servidores do IBGE ficaram sem o salário de outubro depois do desconto integral dos dias de greve, decidido pelo presidente do instituto, Marcio Pochmann.",
+     "base": "4 fontes independentes (Folha, Revista Oeste, Terra Brasil, Diário do Poder)"
+    },
+    {
+     "texto": "O IBGE publicou edital com 27.279 vagas temporárias para o 12º Censo Agropecuário, Florestal e Aquícola, com inscrições até 25 de novembro.",
+     "base": "3 fontes independentes (Folha, Brasil de Fato, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão agrava o conflito entre servidores e direção do instituto.",
+     "quem": "Sindicato dos servidores, à Folha"
+    },
+    {
+     "texto": "O Ministério da Gestão espera, sem resposta, uma manifestação do IBGE para marcar reunião sobre os descontos.",
+     "quem": "O Globo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "O corte dos salários saiu na direita (Revista Oeste, Terra Brasil, Diário do Poder) e no centro (Folha, O Globo); veículos de esquerda publicaram só o edital do concurso. O desconto não foi encontrado nos feeds nem na busca em Brasil de Fato, CartaCapital, Fórum, DCM, ICL e Brasil 247.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Servidores têm salários zerados por greve, e decisão agrava conflito no IBGE, diz sindicato",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/servidores-tem-salarios-zerados-por-greve-e-decisao-agrava-conflito-no-ibge-diz-sindicato.shtml",
+     "angulo": "Folha: o sindicato diz que a decisão agrava o conflito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Servidores do IBGE ficam sem salário depois de decisão de Pochmann",
+     "url": "https://revistaoeste.com/politica/servidores-do-ibge-ficam-sem-salario-depois-de-decisao-de-pochmann/",
+     "angulo": "Oeste: atribui o corte a Pochmann.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "O silêncio da direção do IBGE sobre nova cobrança do Ministério da Gestão",
+     "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/o-silencio-da-direcao-do-ibge-sobre-nova-cobranca-do-ministerio-da-gestao.ghtml",
+     "angulo": "O Globo: o Ministério da Gestão cobra o IBGE.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Dezenas funcionários do IBGE têm salário de outubro zerado após desconto integral dos dias de greve",
+     "url": "https://terrabrasilnoticias.com/2026/11/dezenas-funcionarios-do-ibge-tem-salario-de-outubro-zerado-apos-desconto-integral-dos-dias-de-greve/",
+     "angulo": "Terra Brasil: o salário de outubro zerado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Decisão de Pochmann deixa servidores do IBGE sem salário",
+     "url": "https://diariodopoder.com.br/politica/ttc-politica/decisao-de-pochmann-deixa-servidores-do-ibge-em-salario",
+     "angulo": "Diário do Poder: a decisão de Pochmann.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "IBGE publica edital com 27 mil vagas para recenseadores; inscrições começam nesta sexta (6)",
+     "url": "https://www.brasildefato.com.br/2026/11/05/ibge-publica-edital-com-27-mil-vagas-para-recenseadores-inscricoes-comecam-nesta-sexta-6/",
+     "angulo": "Brasil de Fato: só o edital do concurso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "IBGE abre inscrições para concurso com mais de 27 mil vagas e salários que podem superar R$ 4 mil",
+     "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/06/ibge-abre-inscricoes-para-concurso-com-mais-de-27-mil-vagas-e-salarios-que-podem-superar-r-4-mil.ghtml",
+     "angulo": "g1: inscrições e salários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "IBGE abre processo seletivo com mais de 27 mil vagas temporárias",
+     "url": "https://www.brasil247.com/brasil/ibge-abre-processo-seletivo-com-mais-de-27-mil-vagas-temporarias/",
+     "angulo": "247: o concurso para o Censo Agropecuário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "IBGE abre concurso público com 27 mil vagas temporárias",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/ibge-abre-concurso-publico-com-27-mil-vagas-temporarias",
+     "angulo": "SBT: prazo de inscrição até 25 de novembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "IBGE anuncia concurso com 27 mil vagas temporárias; veja salários",
+     "url": "https://www.metropoles.com/brasil/ibge-anuncia-concurso-com-27-mil-vagas-temporarias-veja-salarios",
+     "angulo": "Metrópoles: o Censo de 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "santa-catarina-confirma-segunda-morte-por-temporais-e-tornados",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Santa Catarina confirma segunda morte por temporais e tornados; Defesa Civil registra terceiro tornado",
+   "lide": "A Defesa Civil catarinense confirmou a segunda morte no estado e um terceiro tornado, em Rio Negrinho; o aeroporto de Chapecó segue fechado. O Rio Grande do Sul também confirmou tornados no norte do estado.",
+   "fatos": [
+    {
+     "texto": "Santa Catarina confirmou a segunda morte em decorrência dos temporais e tornados.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Jovem Pan)"
+    },
+    {
+     "texto": "A Defesa Civil confirmou um terceiro tornado em SC, na área rural de Rio Negrinho.",
+     "base": "dado da Defesa Civil de SC, segundo a Band"
+    },
+    {
+     "texto": "Tornados atingiram ao menos três cidades do norte do Rio Grande do Sul.",
+     "base": "dado da Defesa Civil do RS, segundo o g1"
+    },
+    {
+     "texto": "Desde quarta (4), 32 municípios catarinenses decretaram emergência e 5.531 residências foram afetadas.",
+     "base": "dado da Defesa Civil de SC, segundo o Valor"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Com o El Niño, Santa Catarina corre para fazer obras contra tornados e enchentes.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "Temporais danificaram oito vezes mais postes no Paraná do que acidentes de trânsito.",
+     "quem": "Copel, segundo a Band"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Vídeo mostra o tornado que atingiu Chapecó.",
+     "rotulo": "Falso",
+     "explicacao": "A gravação é de um tornado nos EUA em 2024, feita por um caçador de tempestades.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/video-tornado-eua-santa-catarina/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "tornados-atingem-chapeco-e-xanxere-e-temporais-ferem-20-no-rs",
+    "titulo": "Tornados atingem Chapecó e Xanxerê, em SC, e temporais deixam feridos no Rio Grande do Sul"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Defesa Civil de Santa Catarina confirma segunda morte em decorrência dos temporais e tornados",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/defesa-civil-de-santa-catarina-confirma-segunda-morte-em-decorrencia-dos-temporais-e-tornados.ghtml",
+     "angulo": "g1: a segunda morte confirmada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Tornado atinge SC, deixa dois mortos e causa fechamento de aeroporto",
+     "url": "https://jovempan.com.br/brasil/tornado-atinge-sc-deixa-dois-mortos-e-causa-fechamento-de-aeroporto/",
+     "angulo": "Jovem Pan: rajadas de até 131 km/h.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Cinco tornados atingem a região Sul do Brasil em menos de uma semana",
+     "url": "https://www.cnnbrasil.com.br/nacional/sul/cinco-tornados-atingem-a-regiao-sul-do-brasil-em-menos-de-uma-semana/",
+     "angulo": "CNN Brasil: cinco tornados em menos de uma semana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Tempestades e tornados causam estragos e mortes em Santa Catarina e no Rio Grande do Sul",
+     "url": "https://www.brasil247.com/sul/tempestades-e-tornados-causam-estragos-e-mortes-em-santa-catarina-e-no-rio-grande-do-sul/",
+     "angulo": "247: estragos e mortes no Sul.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Defesa Civil confirma terceiro tornado em SC, desta vez em Rio Negrinho",
+     "url": "https://www.band.com.br/nacional/sc/defesa-civil-confirma-terceiro-tornado-em-sc-desta-vez-em-rio-negrinho",
+     "angulo": "Band: o tornado de Rio Negrinho.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Tornado x furacão: entenda as diferenças e qual fenômeno é mais perigoso",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/05/tornado-x-furacao-entenda-as-diferencas-e-qual-fenomeno-e-mais-perigoso.ghtml",
+     "angulo": "Valor: 32 municípios em emergência.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Maringá decreta emergência após tornado e contabiliza danos em mais de mil árvores e 362 postes",
+     "url": "https://www.gazetadopovo.com.br/parana/maringa-decreta-emergencia-apos-tornado-e-contabiliza-danos-em-mais-de-mil-arvores-e-362-postes/",
+     "angulo": "Gazeta: emergência em Maringá.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "Vídeo mostra tornado nos EUA, não em Santa Catarina",
+     "url": "https://www.aosfatos.org/noticias/video-tornado-eua-santa-catarina/",
+     "angulo": "Aos Fatos: vídeo atribuído a Chapecó é dos EUA.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Após tornados no Sul, Inmet e governos mantêm alertas de tempestade",
+     "url": "https://www.brasildefato.com.br/2026/11/05/apos-tornados-no-sul-inmet-e-governos-mantem-alertas-de-tempestade/",
+     "angulo": "Brasil de Fato: alertas mantidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Tornado atingiu pelo menos três cidades do Norte do RS, confirma Defesa Civil",
+     "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/05/fenomeno-clima-defesa-civil-cidades-do-rs.ghtml",
+     "angulo": "g1: os tornados no RS.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Vídeo mostra tornado atingindo avião durante tentativa de decolagem em Santa Catarina",
+     "url": "https://oglobo.globo.com/blogs/clima-extremo/noticia/2026/11/05/video-mostra-tornado-atingindo-aviao-durante-tentativa-de-decolagem-em-santa-catarina.ghtml",
+     "angulo": "O Globo: o avião da Azul no aeroporto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Imagens mostram destruição após 2 tornados atingirem SC",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/imagens-mostram-destruicao-apos-tornados-atingirem-sc",
+     "angulo": "SBT: 98 municípios atingidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "pena-renuncia-mas-congresso-do-paraguai-segue-com-impeachment",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Peña apresenta renúncia, mas o Congresso do Paraguai não a vota e segue com o impeachment",
+   "lide": "O presidente paraguaio anunciou a renúncia na quinta (5) em meio à crise do Ueno Bank, mas governistas impediram a votação e a Câmara aprovou o processo de destituição. O Senado retoma o julgamento nesta sexta (6), quando Peña deve apresentar defesa.",
+   "fatos": [
+    {
+     "texto": "Santiago Peña anunciou a renúncia à Presidência na quinta (5).",
+     "base": "4 fontes independentes (Valor, Guardian, NYT, La Nación)"
+    },
+    {
+     "texto": "O Congresso não votou a renúncia: governistas deixaram a sessão e faltou quórum.",
+     "base": "3 fontes independentes (Gazeta do Povo, DCM, ICL)"
+    },
+    {
+     "texto": "A Câmara aprovou a abertura do processo de destituição, e o Senado retoma o julgamento nesta sexta (6), com a defesa de Peña.",
+     "base": "3 fontes independentes (CNN Brasil, Veja, g1)"
+    },
+    {
+     "texto": "O ministro do Interior, Enrique Riera, renunciou e voltou ao Senado para julgar o impeachment.",
+     "base": "3 fontes independentes (Estadão, g1, La Nación)"
+    },
+    {
+     "texto": "Milhares de pessoas voltaram a protestar em Assunção.",
+     "base": "2 fontes independentes (Euronews, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A renúncia busca evitar um processo penal: Peña 'não quer ir preso'.",
+     "quem": "Efraín Alegre, derrotado por Peña na eleição, ao Metrópoles"
+    },
+    {
+     "texto": "Peña pode fugir do país, como fez Flávio Bolsonaro, e deve ser preso.",
+     "quem": "Senadora Esperanza Martínez, ao Poder360"
+    },
+    {
+     "texto": "O governo de Peña autorizou o Ueno Bank a expandir drasticamente as operações antes do colapso.",
+     "quem": "Guardian"
+    },
+    {
+     "texto": "A ruptura entre Peña e o ex-presidente Horacio Cartes está por trás do escândalo.",
+     "quem": "Clarín"
+    },
+    {
+     "texto": "A queda de Peña é um revés para Trump; o Planalto monitora a fronteira e Itaipu.",
+     "quem": "Auxiliares de Lula, segundo o DCM"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Peña já é ex-presidente do Paraguai.",
+     "rotulo": "Contraditório",
+     "explicacao": "Revista Oeste e Metrópoles o chamam de ex-presidente, mas o Congresso não votou a renúncia e o Senado julga o impeachment com Peña no cargo.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    },
+    {
+     "alegacao": "Peña fugiu do Paraguai para a Argentina.",
+     "rotulo": "Em apuração",
+     "explicacao": "A oposição levantou a suspeita, mas o governo argentino nega que ele esteja no país, e o Senado espera sua defesa nesta sexta.",
+     "onde_circula": "oposição paraguaia e redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o Planalto acompanha a crise por causa da fronteira e de Itaipu, segundo o DCM, e brasileiros com conta no Ueno relatam dinheiro preso (g1).",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "quebra-do-ueno-bank-leva-oposicao-a-pedir-impeachment-de-pena",
+    "titulo": "Quebra do Ueno Bank derruba o chefe do BC do Paraguai e leva a oposição a pedir o impeachment de Peña"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Em meio a crise bancária, Santiago Peña renuncia à presidência do Paraguai",
+     "url": "https://valor.globo.com/impresso/noticia/2026/11/06/em-meio-a-crise-bancaria-santiago-pena-renuncia-a-presidencia-do-paraguai.ghtml",
+     "angulo": "Valor: a renúncia em meio à crise.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governistas travam votação da renúncia de Peña no Congresso; Senado analisa impeachment",
+     "url": "https://www.gazetadopovo.com.br/mundo/governistas-abandonam-votacao-sobre-renuncia-de-pena-no-congresso-e-provocam-impasse-no-paraguai/",
+     "angulo": "Gazeta: governistas impedem a votação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "angulo": "Guardian: o governo autorizou a expansão do banco.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Planalto vê renúncia de Peña como revés para Trump e monitora crise no Paraguai",
+     "url": "https://www.diariodocentrodomundo.com.br/planalto-ve-renuncia-de-pena-como-reves-para-trump-e-monitora-crise-no-paraguai/",
+     "angulo": "DCM: a leitura do Planalto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Peña promete se defender de impeachment no Paraguai",
+     "url": "https://revistaoeste.com/mundo/pena-promete-se-defender-de-impeachment-no-paraguai/",
+     "angulo": "Oeste: Peña promete se defender; chama-o de ex-presidente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+     "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+     "angulo": "NYT: Peña pede desculpas pela crise.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Governo Milei nega entrada de Santiago Peña na Argentina após renúncia no Paraguai",
+     "url": "https://www.brasil247.com/america-latina/governo-milei-nega-entrada-de-santiago-pena-na-argentina-apos-renuncia-no-paraguai/",
+     "angulo": "247: a suspeita de fuga.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Congresso do Paraguai retoma hoje discussão sobre impeachment de Peña",
+     "url": "https://www.cnnbrasil.com.br/internacional/congresso-do-paraguai-retoma-discussao-sobre-impeachment-de-pena/",
+     "angulo": "CNN Brasil: a sessão desta sexta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Derrotado por Peña na eleição, Alegre critica renúncia: “Não quer ir preso”",
+     "url": "https://www.metropoles.com/colunas/ramiro-brites/derrotado-por-pena-na-eleicao-alegre-critica-renuncia-nao-quer-ir-preso",
+     "angulo": "Metrópoles: Alegre diz que Peña 'não quer ir preso'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "La renuncia de Santiago Peña golpea de lleno al modelo que elogia Milei",
+     "url": "https://www.pagina12.com.ar/2026/11/06/santiago-pena-renuncia-y-golpea-de-lleno-al-modelo-que-elogia-milei/",
+     "angulo": "Página/12: 'a renúncia golpeia o modelo elogiado por Milei'.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/06/brasileiros-que-foram-para-o-paraguai-sao-afetados-pela-crise-no-pais.ghtml",
+     "angulo": "g1: brasileiros com dinheiro preso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Paraguay’s president impeached amid bank collapse crisis",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis",
+     "angulo": "Al Jazeera: deputados votam a destituição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "eisenkot-reune-67-apoios-para-formar-governo-em-israel",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Eisenkot reúne 67 apoios para formar governo em Israel; Herzog decide no domingo",
+   "lide": "Com o apoio dos partidos árabes, o ex-chefe do Estado-Maior Gadi Eisenkot foi recomendado por 67 dos 120 deputados para formar o próximo governo. O presidente Isaac Herzog anunciará no domingo (8) quem receberá a tarefa.",
+   "fatos": [
+    {
+     "texto": "Gadi Eisenkot recebeu a recomendação de 67 dos 120 deputados do Knesset.",
+     "base": "3 fontes independentes (Guardian, Revista Oeste, Brasil 247)"
+    },
+    {
+     "texto": "Os principais partidos árabes anunciaram apoio a Eisenkot.",
+     "base": "3 fontes independentes (Folha, Al Jazeera, Le Monde)"
+    },
+    {
+     "texto": "Herzog anunciará no domingo (8) quem tentará formar o novo governo.",
+     "base": "3 fontes independentes (Estadão, Al Jazeera, NYT)"
+    },
+    {
+     "texto": "Em live com André Janones, Lula disse que Netanyahu perdeu e que Trump 'está perdendo'.",
+     "base": "3 fontes independentes (g1, CNN Brasil, El País)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A derrota republicana nos EUA ajuda a definir o próximo premiê, porque os laços de Netanyahu com Washington viraram um passivo.",
+     "quem": "Al Jazeera"
+    },
+    {
+     "texto": "Netanyahu copia o discurso de Trump ao falar em eleição roubada.",
+     "quem": "Bloomberg, publicado pelo InfoMoney"
+    },
+    {
+     "texto": "O apoio árabe a Eisenkot é reação à incitação de Netanyahu contra os cidadãos árabes e não é incondicional.",
+     "quem": "Lista Conjunta, segundo o Página/12"
+    },
+    {
+     "texto": "Mudam os nomes, mas não a colonização dos territórios palestinos.",
+     "quem": "Opera Mundi"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A eleição israelense foi fraudada pelos partidos árabes.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A alegação é de Netanyahu e do Likud; a comissão eleitoral disse não ter encontrado fraude, e a procuradora-geral cobrou provas.",
+     "onde_circula": "Likud e redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Lula comemorou o revés de Netanyahu numa live com André Janones e o associou à própria reeleição e à derrota republicana nos EUA (g1, CartaCapital).",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "trump-anuncia-fim-da-ajuda-militar-de-us-3-8-bi-a-israel-ate-dezembro-comissao-eleitoral-de-israel-nao-ve-fraude-e-procuradora-cobra-provas-ira-diz-que-4-petroleiros-atingiram-minas-em-ormuz-trump-sem-plano-imediato",
+    "titulo": "Trump anuncia o fim da ajuda militar anual de US$ 3,8 bilhões a Israel até dezembro"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
+     "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+     "angulo": "Guardian: Herzog ainda não decidiu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Eisenkot supera Netanyahu na disputa pelo governo de Israel",
+     "url": "https://revistaoeste.com/mundo/eisenkot-supera-netanyahu-na-disputa-pelo-governo-de-israel/",
+     "angulo": "Oeste: os 67 apoios.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Partidos árabes apoiam Eisenkot e ampliam pressão sobre Netanyahu em Israel",
+     "url": "https://www.brasil247.com/mundo/partidos-arabes-apoiam-eisenkot-e-ampliam-pressao-sobre-netanyahu-em-israel/",
+     "angulo": "247: 67 recomendações contra 46.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+     "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm",
+     "angulo": "Al Jazeera: o efeito das eleições americanas.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Principais partidos árabes anunciam apoio a Gadi Eisenkot para formar governo em Israel",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml",
+     "angulo": "Folha: o apoio da Lista Unificada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Israeli Parties Fight Complex Battle to Build a Government After Heated Election",
+     "url": "https://www.breitbart.com/middle-east/2026/11/05/israeli-parties-fight-complex-battle-to-build-a-government-after-heated-election/",
+     "angulo": "Breitbart: a dificuldade de formar coalizão.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Presidente de Israel diz que anunciará no domingo a quem encarregará de tentar formar novo governo",
+     "url": "https://www.estadao.com.br/internacional/eisenkot-partidos-arabes-possivel-caminho-formar-governo-israel-npr/",
+     "angulo": "Estadão: a decisão de Herzog.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Eleições em Israel: mudam os nomes mas não muda a colonização",
+     "url": "https://operamundi.uol.com.br/opiniao/eleicoes-em-israel-mudam-os-nomes-mas-nao-muda-a-colonizacao/",
+     "angulo": "Opera Mundi: troca de nomes sem mudança na ocupação.",
+     "tipo": "opiniao",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Vitória para o mundo', diz Lula sobre resultados nas eleições no Brasil, em Israel e nos EUA",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/05/vitoria-para-o-mundo-diz-lula-sobre-resultados-nas-eleicoes-no-brasil-em-israel-e-nos-eua.ghtml",
+     "angulo": "g1: Lula liga Brasil, Israel e EUA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement",
+     "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+     "angulo": "Le Monde: 'Eisenkot bem posicionado para substituir Netanyahu'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Parem o roubo? Netanyahu pega emprestada uma página do manual de Trump",
+     "url": "https://www.infomoney.com.br/business/global/parem-o-roubo-netanyahu-pega-emprestada-uma-pagina-do-manual-de-trump/",
+     "angulo": "InfoMoney (Bloomberg): Netanyahu adota o roteiro de Trump.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Lula diz que vitória no Brasil, derrota de Trump e revés de Netanyahu dão ‘lição para o mundo’",
+     "url": "https://www.cartacapital.com.br/politica/lula-diz-que-vitoria-no-brasil-derrota-de-trump-e-reves-de-netanyahu-dao-licao-para-o-mundo/",
+     "angulo": "CartaCapital: a 'lição para o mundo' de Lula.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "nova-onda-de-ameacas-falsas-de-bomba-atinge-voos-na-europa",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Nova onda de ameaças falsas de bomba atinge dezenas de voos na Europa",
+   "lide": "Pela segunda vez na semana, aviões tiveram de desviar ou pousar em emergência na quinta (5) depois de alertas enviados por e-mail, e nenhum explosivo foi encontrado. Autoridades e especialistas falam em possível guerra híbrida, mas não há prova de autoria.",
+   "fatos": [
+    {
+     "texto": "Dezenas de voos foram desviados ou pousaram em emergência na quinta (5) por ameaças de bomba.",
+     "base": "4 fontes independentes (NYT, Al Jazeera, Guardian, g1)"
+    },
+    {
+     "texto": "Nenhum explosivo foi encontrado.",
+     "base": "3 fontes independentes (g1, BBC Brasil, Jovem Pan)"
+    },
+    {
+     "texto": "As ameaças foram enviadas por e-mail.",
+     "base": "2 fontes independentes (Página/12, Clarín)"
+    },
+    {
+     "texto": "Caças militares escoltaram aviões ameaçados.",
+     "base": "3 fontes independentes (DCM, Fórum, La Nación)"
+    },
+    {
+     "texto": "Um voo da Aer Lingus para Roma pousou em emergência numa base aérea francesa.",
+     "base": "2 fontes independentes (g1, NYT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Não há, até agora, prova que ligue as ameaças à Rússia, ao Irã ou a grupos aliados.",
+     "quem": "BBC"
+    },
+    {
+     "texto": "As ameaças são uma campanha coordenada para perturbar o tráfego aéreo da região.",
+     "quem": "Especialistas ouvidos pelo Financial Times"
+    },
+    {
+     "texto": "As ameaças aumentam o temor de uma guerra híbrida contra a Europa.",
+     "quem": "Guardian"
+    },
+    {
+     "texto": "Ainda é cedo para dizer se as ameaças estão ligadas.",
+     "quem": "Comissário de Transportes da UE, segundo o Guardian"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de voos afetados.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os veículos citam de 10 a 35 voos conforme o horário e o critério de contagem: Jovem Pan e DCM falam em 10, a AFP em 27, o g1 em quase 30 e o El País em ao menos 35 desde segunda.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-04",
+    "id": "sete-voos-na-europa-recebem-ameacas-falsas-de-bomba-e-aeroporto-de-varsovia-fecha-ciberataque-a-freezers-chega-a-11-paises-com-alemanha-e-romenia-fornecedores-do-reino-unido-atingidos",
+    "titulo": "Sete voos na Europa recebem ameaças falsas de bomba e ciberataque a supermercados chega a 11 países"
+   },
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+     "angulo": "NYT: mais de duas dezenas de aviões pousaram em segurança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Who could be behind hoax bomb threats to European air travel?",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
+     "angulo": "BBC: não há prova de autoria.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ameaças falsas de bomba afetam quase 30 voos na Europa",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/ameacas-falsas-de-bomba-afetam-quase-30-voos-na-europa.ghtml",
+     "angulo": "g1: quase 30 voos afetados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+     "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+     "angulo": "Guardian: temor de guerra híbrida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Ameaças de bomba afetam ao menos dez voos na Europa e provocam pousos de emergência",
+     "url": "https://jovempan.com.br/mundo/ameacas-de-bomba-afetam-ao-menos-dez-voos-na-europa-e-provocam-pousos-de-emergencia/",
+     "angulo": "Jovem Pan: nenhum explosivo nos casos verificados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+     "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+     "angulo": "El País: ao menos 35 aviões afetados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Caças no ar e aviões desviados: onda de ameaças de bomba atinge ao menos 15 voos na Europa",
+     "url": "https://revistaforum.com.br/global/ameacas-bomba-voos-europa-avioes-desviados/",
+     "angulo": "Fórum: caças e equipes antibomba mobilizados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Bomb threats issued on at least 20 more European flights",
+     "url": "https://www.ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c?syn-25a6b1a6=1",
+     "angulo": "FT: especialistas veem campanha coordenada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Ameaças de bomba provocam desvios e pousos de emergência em voos na Europa",
+     "url": "https://terrabrasilnoticias.com/2026/11/ameacas-de-bomba-provocam-desvios-e-pousos-de-emergencia-em-voos-na-europa/",
+     "angulo": "Terra Brasil: desvios e pousos não programados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Hoax bomb threats force emergency landings, evacuations across Europe",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe",
+     "angulo": "Al Jazeera: ao menos 27 voos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Ciberataques y falsas amenazas de bomba: la ola de sabotajes coordinados que siembra el pánico en Europa",
+     "url": "https://www.clarin.com/mundo/ciberataques-falsas-amenazas-bomba-ola-sabotajes-coordinados-siembra-panico-europa_0_TXYiPaKMO6.html",
+     "angulo": "Clarín: liga ameaças e ciberataques numa onda de sabotagem.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Caças militares são mobilizados após ameaças de bombas na Europa",
+     "url": "https://www.diariodocentrodomundo.com.br/ameacas-bomba-voos-europa-cacas-militares/",
+     "angulo": "DCM: escoltas militares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "rubio-nega-saida-e-hegseth-pode-enfrentar-impeachment",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Rubio nega que vá deixar o governo Trump, e Hegseth pode enfrentar processo de impeachment",
+   "lide": "Depois de Bloomberg e The Independent relatarem que o secretário de Estado avaliava sair, Rubio disse que sempre planejou ficar até o fim do mandato. Parlamentares preparam um processo de impeachment contra o secretário de Defesa pelo papel na guerra contra o Irã.",
+   "fatos": [
+    {
+     "texto": "Bloomberg e The Independent relataram que Marco Rubio avaliava deixar o governo depois da derrota republicana.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, Clarín)"
+    },
+    {
+     "texto": "Rubio negou e disse que trabalhar até o fim do mandato 'sempre foi o plano'.",
+     "base": "3 fontes independentes (AFP, Estadão, New York Post)"
+    },
+    {
+     "texto": "A Casa Branca negou que Hegseth e Rubio vão deixar os cargos.",
+     "base": "2 fontes independentes (BBC, Brasil 247)"
+    },
+    {
+     "texto": "Parlamentares preparam um processo de impeachment contra Pete Hegseth.",
+     "base": "2 fontes independentes (Bloomberg, El País)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A votação do impeachment de Hegseth pode ocorrer já na próxima semana.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "Hegseth provavelmente será alvo de impeachment.",
+     "quem": "Mick Mulvaney, ex-chefe de gabinete da Casa Branca, à Bloomberg"
+    },
+    {
+     "texto": "Autoridades americanas teriam avisado aliados do Golfo para se prepararem para novos ataques ao Irã.",
+     "quem": "Euronews, citando relatos"
+    },
+    {
+     "texto": "Rubio foi um dos articuladores da saída de Flávio Bolsonaro para os EUA.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Os republicanos conquistaram a maioria da Câmara dos EUA em 2026.",
+     "rotulo": "Falso",
+     "explicacao": "Os democratas passaram dos 218 assentos necessários para a maioria.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/noticias/2026/11/05/e-falso-que-republicanos-conquistaram-maioria-da-camara-dos-deputados-dos-eua-em-2026/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "vance-culpa-guerra-no-ira-pela-derrota-republicana",
+    "titulo": "Vance culpa a guerra no Irã pela derrota republicana; Trump admite o efeito, mas diz que faria de novo"
+   },
+   "materias": [
+    {
+     "fonte": "bloomberg",
+     "titulo": "Rubio Weighs Leaving Administration After GOP’s Midterm Loss",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-05/rubio-considers-leaving-administration-after-gop-s-midterm-loss",
+     "angulo": "Bloomberg: a reportagem que motivou o desmentido.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Rubio nega planos de deixar cargo para disputar a Casa Branca: ‘não sei de onde surgem essas coisas’",
+     "url": "https://www.estadao.com.br/internacional/rubio-nega-planos-de-deixar-o-cargo-para-disputar-a-casa-branca-npr/",
+     "angulo": "Estadão: 'não sei de onde surgem essas coisas'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Marco Rubio nega planos de deixar governo Trump após derrota eleitoral",
+     "url": "https://www.brasil247.com/mundo/marco-rubio-nega-planos-de-deixar-governo-trump-apos-derrota-eleitoral/",
+     "angulo": "247: Casa Branca classifica a notícia como falsa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Rubio diz que não vai sair do governo Trump e evita falar sobre candidatura presidencial em 2028",
+     "url": "https://www.gazetadopovo.com.br/mundo/rubio-diz-que-nao-vai-sair-do-governo-trump-e-evita-falar-sobre-candidatura-presidencial-em-2028/",
+     "angulo": "Gazeta: Rubio evita falar de 2028.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+     "angulo": "BBC: pedidos de troca de Hegseth.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Marco Rubio insists he won’t quit Trump admin — but demurs on growing 2028 buzz",
+     "url": "https://nypost.com/2026/11/05/us-news/marco-rubio-insists-his-wont-quit-trump-admin-but-demurs-on-growing-2028-buzz/",
+     "angulo": "New York Post: Rubio desconversa sobre 2028.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Marco Rubio avalia renunciar e deixar governo Trump, diz jornal",
+     "url": "https://www.cnnbrasil.com.br/internacional/marco-rubio-avalia-renunciar-e-deixar-governo-trump-diz-jornal/",
+     "angulo": "CNN Brasil: o governo ataca o The Independent.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Rubio denies plans to resign, says working for Trump until end of term has 'always been my plan'",
+     "url": "https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house",
+     "angulo": "AFP: o desmentido de Rubio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "El secretario de Defensa, Pete Hegseth, en el punto de mira de los republicanos por su papel en la guerra de Irán",
+     "url": "https://elpais.com/us/2026-11-05/el-secretario-de-defensa-pete-hegseth-en-el-punto-de-mira-de-republicanos-por-su-papel-en-la-guerra-de-iran.html",
+     "angulo": "El País: Hegseth na mira dos republicanos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Rubio, acusado de articular fuga de Flávio, pode deixar governo Trump",
+     "url": "https://revistaforum.com.br/global/rubio-flavio-governo-trump/",
+     "angulo": "Fórum: atribui a Rubio a saída de Flávio, sem prova apresentada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Hegseth to Face Impeachment Vote as Early as Next Week",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-05/massie-to-bring-hegseth-impeachment-articles-back-next-week",
+     "angulo": "Bloomberg: votação pode ser na próxima semana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-05"
+    }
+   ]
+  }
+ ]
+}
