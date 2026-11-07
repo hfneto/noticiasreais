@@ -1,0 +1,1779 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-07",
+ "gerado_em": "2026-11-07T05:59:39-03:00",
+ "historias": [
+  {
+   "id": "fachin-homologa-delacao-do-fundador-da-reag-no-caso-master",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin homologa delação do fundador da Reag no caso Master; Anac apura voos de Moraes",
+   "lide": "O presidente do STF validou o acordo de João Carlos Mansur, ex-dono da gestora que administrava fundos de Vorcaro. A Anac pediu explicações a operadores de dois aviões ligados ao ex-banqueiro que teriam transportado o ministro Alexandre de Moraes.",
+   "fatos": [
+    {
+     "texto": "Fachin homologou a delação premiada de João Carlos Mansur, fundador e ex-presidente da Reag, investigado no caso Master.",
+     "base": "4 fontes independentes (g1, Estadão, Folha, Agência Brasil)"
+    },
+    {
+     "texto": "A Anac notificou os operadores de dois aviões privados ligados a Vorcaro que teriam transportado Moraes em 2025.",
+     "base": "3 fontes independentes (Estadão, Revista Oeste, Brasil 247)"
+    },
+    {
+     "texto": "Levantamento do UOL no celular de Vorcaro aponta 316 interações com Moraes antes da prisão.",
+     "base": "2 fontes independentes (Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "O procurador-geral Paulo Gonet defendeu manter preso Felipe Vorcaro, primo do ex-banqueiro.",
+     "base": "3 fontes independentes (Estadão, O Globo, Terra)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mansur se comprometeu a indicar o caminho para rastrear cerca de R$ 20 bilhões de Vorcaro.",
+     "quem": "Band"
+    },
+    {
+     "texto": "O acordo prevê R$ 40 milhões em multas e reúne 17 anexos.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "As novas mensagens complicam a defesa de Moraes.",
+     "quem": "Crusoé, segundo O Antagonista"
+    },
+    {
+     "texto": "Fachin manteve o caso Master na presidência do STF para preservar a Corte.",
+     "quem": "Análise da Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Moraes trocou mensagens pessoais com Vorcaro antes da prisão.",
+     "rotulo": "Em apuração",
+     "explicacao": "O levantamento do UOL aponta mensagens recuperadas do celular de Vorcaro, mas Moraes já negou ter trocado mensagens com o ex-banqueiro, e a Anac ainda apura os voos.",
+     "onde_circula": "imprensa e redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Veículos de esquerda destacam a delação da Reag e o rastreamento do dinheiro de Vorcaro.",
+    "oposicao": "Oposição e veículos de direita concentram a cobertura nas mensagens e voos que ligariam Vorcaro a Moraes."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-06",
+    "id": "fachin-mantem-cunhado-de-vorcaro-preso-e-consulta-pgr",
+    "titulo": "Fachin mantém preso o cunhado de Vorcaro e pede parecer da PGR sobre a soltura do ex-banqueiro"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fachin homologa delação de fundador da Reag, investigado no caso Master",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/06/fachin-homologa-delacao-de-fundador-da-reag-investigado-no-caso-master.ghtml",
+     "angulo": "g1: a validação do acordo de Mansur.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Celular de Daniel Vorcaro revela centenas de interações com Alexandre de Moraes",
+     "url": "https://www.gazetadopovo.com.br/republica/celular-de-daniel-vorcaro-revela-centenas-de-interacoes-com-alexandre-de-moraes/",
+     "angulo": "Gazeta: as 316 interações com Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Anac investiga voos de Moraes em aviões ligados a Vorcaro",
+     "url": "https://www.brasil247.com/brasil/anac-investiga-voos-de-moraes-em-avioes-ligados-a-vorcaro/",
+     "angulo": "247: a Anac apura os voos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Anac pede explicações a operadores de dois aviões ligados a Vorcaro que teriam transportado Moraes",
+     "url": "https://www.estadao.com.br/politica/anac-pede-explicacoes-a-operadores-de-dois-avioes-ligados-a-vorcaro-que-teriam-transportado-moraes/",
+     "angulo": "Estadão: os dois aviões ligados a Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Anac notifica empresas ligadas a Vorcaro que teriam transportado Moraes",
+     "url": "https://revistaoeste.com/politica/anac-notifica-empresas-ligadas-a-vorcaro-que-teriam-transportado-moraes/",
+     "angulo": "Oeste: a notificação da Anac.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fachin valida delação de dono da Reag, que geria fundos de Daniel Vorcaro",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/fachin-valida-delacao-de-dono-da-reag-que-geria-fundos-de-daniel-vorcaro.shtml",
+     "angulo": "Folha: a Reag geria fundos de Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Crusoé: Novas mensagens complicam defesa de Moraes",
+     "url": "https://oantagonista.com.br/analise/crusoe-novas-mensagens-complicam-defesa-de-moraes/",
+     "angulo": "O Antagonista: as mensagens complicam Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Fachin homologa delação de fundador da Reag e mira R$ 20 bilhões de Vorcaro",
+     "url": "https://www.band.com.br/politica/fachin-homologa-delacao-de-fundador-da-reag-e-mira-r-20-bilhoes-de-vorcaro",
+     "angulo": "Band: o rastreamento de R$ 20 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Fachin homologa delação de fundador da Reag sobre fraudes no Banco Master",
+     "url": "https://revistaforum.com.br/politica/fachin-delacao-reag-banco-master/",
+     "angulo": "Fórum: a delação sobre fraudes no Master.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Gonet se manifesta por permanência de primo de Vorcaro na prisão",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/gonet-se-manifesta-por-permanencia-de-primo-de-vorcaro-na-prisao,d8ed420d1d1a2da7824755f6a219574159p3gfho.html",
+     "angulo": "Terra: Gonet contra soltar o primo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin retém investigação sobre o Master no STF para preservar a Corte",
+     "url": "https://www.gazetadopovo.com.br/republica/fachin-retem-investigacao-sobre-o-master-no-stf-para-preservar-a-corte/",
+     "angulo": "Gazeta: Fachin protege a Corte.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Celular de Vorcaro registra 316 interações com Moraes meses antes de prisão",
+     "url": "https://iclnoticias.com.br/celular-de-vorcaro-interacoes-com-moraes/",
+     "angulo": "ICL (texto da Folhapress): as interações com Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "presidente-do-trf3-suspende-liminar-que-liberou-tres-bets",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Presidente do TRF3 suspende liminar que liberou três bets; PGR pede ao STF suspensão nacional",
+   "lide": "Um dia depois de a desembargadora Adriana Pileggi autorizar a volta de Casa de Apostas, Betsul e Jogo Online, o presidente do tribunal atendeu a AGU e restabeleceu a proibição. A PGR pediu ao STF que suspenda as ações contra a MP das bets até o julgamento.",
+   "fatos": [
+    {
+     "texto": "A desembargadora Adriana Pileggi liberou as três plataformas da CDA Gaming e chamou a proibição de 'confisco'.",
+     "base": "3 fontes independentes (Gazeta do Povo, Terra Brasil, Jovem Pan)"
+    },
+    {
+     "texto": "O presidente do TRF3, Johonsom di Salvo, suspendeu a liminar a pedido da AGU.",
+     "base": "4 fontes independentes (Estadão, Folha, CNN Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "Di Salvo escreveu que a liminar desorganizou a máquina pública e representava risco à ordem pública.",
+     "base": "2 fontes independentes (Metrópoles, Jota)"
+    },
+    {
+     "texto": "A PGR pediu ao STF a suspensão nacional das ações contra a proibição; o pedido está com Luiz Fux.",
+     "base": "3 fontes independentes (CNN Brasil, DCM, Brasil 247)"
+    },
+    {
+     "texto": "Pileggi compartilhou em redes sociais publicações contra o PT e em defesa de Bolsonaro.",
+     "base": "2 fontes independentes (Jota, DCM)"
+    },
+    {
+     "texto": "O Assaí registrou alta de vendas em outubro, depois da proibição das bets.",
+     "base": "2 fontes independentes (CartaCapital, A Tarde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Decisões judiciais isoladas poderiam esvaziar a proibição, e os processos deveriam ficar em Brasília.",
+     "quem": "AGU, segundo o Metrópoles"
+    },
+    {
+     "texto": "A desembargadora acumula histórico de investigações e processos disciplinares.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "A proibição é tema político que não deve ser decidido por juízes.",
+     "quem": "Advogado e cientista político ouvido pelo Brasil de Fato"
+    },
+    {
+     "texto": "A decisão do TRF3 contestou o 'poder mágico' de Lula de extinguir licenças pelo interesse público.",
+     "quem": "Diário do Poder"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "As bets voltaram a funcionar no Brasil.",
+     "rotulo": "Falta contexto",
+     "explicacao": "Só as três plataformas da CDA Gaming foram liberadas, por um dia, e a liminar já foi suspensa; as demais continuaram proibidas.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo e AGU dizem que decisões isoladas criam insegurança jurídica e destacam o histórico partidário da desembargadora.",
+    "oposicao": "Veículos de direita destacam o argumento de 'confisco' de licenças pagas e tratam a proibição como abuso do governo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "As publicações da desembargadora contra o PT e a favor de Bolsonaro saíram na esquerda (DCM, ICL) e no Jota. Não encontrado nos feeds nem na busca em Gazeta do Povo, Revista Oeste, Jovem Pan, Terra Brasil, Diário do Poder e Pleno News.",
+   "continua": {
+    "data": "2026-11-05",
+    "id": "fux-pede-tempo-e-fachin-propoe-julgar-bets-com-jogos-de-azar",
+    "titulo": "Fux pede tempo para votar sobre as bets, e Fachin propõe julgar junto as ações sobre jogos de azar"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Presidente do TRF-3 suspende decisão de desembargadora que liberava três sites de apostas",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/presidente-do-trf-3-suspende-decisao-de-desembargadora-que-liberava-tres-sites-de-apostas/",
+     "angulo": "Estadão: a suspensão da liminar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Desembargadora libera três bets e vê “confisco” em proibição sem devolução de licenças",
+     "url": "https://www.gazetadopovo.com.br/economia/desembargadora-libera-tres-bets-e-chama-proibicao-de-lula-de-confisco/",
+     "angulo": "Gazeta: o argumento de 'confisco'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Desembargadora que liberou bets atacou o PT e defendeu a família Bolsonaro",
+     "url": "https://www.diariodocentrodomundo.com.br/desembargadora-que-liberou-bets-atacou-o-pt-e-defendeu-a-familia-bolsonaro/",
+     "angulo": "DCM: as publicações partidárias da desembargadora.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Presidente do TRF-3 suspende liminar e volta a proibir bets liberadas",
+     "url": "https://jovempan.com.br/brasil/presidente-do-trf-3-suspende-liminar-e-volta-a-proibir-bets-liberadas/",
+     "angulo": "Jovem Pan: as três casas voltam a ser proibidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Desembargadora que autorizou bets a funcionarem compartilhou posts contra Lula e em defesa de Bolsonaro",
+     "url": "https://www.jota.info/justica/desembargadora-que-autorizou-bets-a-funcionarem-compartilhou-posts-contra-lula-e-em-defesa-de-bolsonaro",
+     "angulo": "Jota: os posts contra Lula e a favor de Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "TRF-3 suspende liminar que liberou 3 sites de apostas",
+     "url": "https://revistaoeste.com/politica/trf-3-suspende-liminar-que-liberou-3-sites-de-apostas/",
+     "angulo": "Oeste: Messias divulga a decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PGR pede ao STF suspensão de ações sobre proibição das bets em todo o país",
+     "url": "https://www.cnnbrasil.com.br/politica/pgr-pede-ao-stf-suspensao-de-acoes-sobre-proibicao-das-bets-em-todo-o-pais/",
+     "angulo": "CNN Brasil: o pedido de suspensão nacional.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Liminar que liberou bets “desorganizou máquina pública”, diz desembargador",
+     "url": "https://www.metropoles.com/colunas/grande-angular/liminar-que-liberou-bets-desorganizou-maquina-publica-diz-desembargador",
+     "angulo": "Metrópoles: os fundamentos de di Salvo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "TRF3 contesta ‘poder mágico’ de Lula e libera 3 bets para atuar no Brasil",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/csa-brasil/trf3-contesta-poder-magico-de-lula-e-libera-3-bets-para-atuar-no-brasil",
+     "angulo": "Diário do Poder: ironiza o 'poder mágico' de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Desembargadora que liberou bets acumula histórico de investigações e processos disciplinares",
+     "url": "https://iclnoticias.com.br/desembargadora-que-liberou-bets-acumula-historico-de-investigacoes-e-processos-disciplinares/",
+     "angulo": "ICL: o histórico disciplinar da desembargadora.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Assaí vê vendas crescerem 3,9% em outubro após proibição das bets",
+     "url": "https://www.cartacapital.com.br/economia/assai-ve-vendas-crescerem-39-em-outubro-apos-proibicao-das-bets/",
+     "angulo": "CartaCapital: vendas maiores no Assaí.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Bets voltaram? Entenda as decisões da Justiça sobre as casas de apostas",
+     "url": "https://www.bbc.com/portuguese/articles/cq99zz57d872o",
+     "angulo": "BBC Brasil: o que foi liberado e o que não foi.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "predio-de-quatro-andares-desaba-no-bras-em-sao-paulo",
+   "editoria": "Cidades",
+   "escopo": "brasil",
+   "titulo": "Prédio de quatro andares desaba no Brás, em São Paulo; imóvel não tinha vistoria dos bombeiros",
+   "lide": "O prédio, usado como depósito de tecidos, desabou na noite de sexta (6) com 35 pessoas dentro, e, segundo os bombeiros, ninguém morreu. O imóvel não tinha o Auto de Vistoria do Corpo de Bombeiros vigente.",
+   "fatos": [
+    {
+     "texto": "Um prédio de quatro andares usado como depósito de tecidos desabou na sexta (6) no Brás, no centro de São Paulo.",
+     "base": "4 fontes independentes (Poder360, Gazeta do Povo, DCM, Revista Oeste)"
+    },
+    {
+     "texto": "Havia 35 pessoas no imóvel, e os bombeiros dizem que ninguém morreu.",
+     "base": "3 fontes independentes (Metrópoles, Jovem Pan, CNN Brasil)"
+    },
+    {
+     "texto": "O prédio não tinha o Auto de Vistoria do Corpo de Bombeiros vigente.",
+     "base": "3 fontes independentes (Metrópoles, CNN Brasil, Terra)"
+    },
+    {
+     "texto": "As buscas foram suspensas à noite por risco de novo desabamento e retomadas pela manhã, depois de cães indicarem uma possível vítima.",
+     "base": "Corpo de Bombeiros, segundo a CNN Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A estrutura não suportava o peso, e outros imóveis da região estão na mesma situação.",
+     "quem": "Edmilson Silva, sobrevivente, à CNN Brasil"
+    },
+    {
+     "texto": "As toneladas de tecidos amorteceram a queda e salvaram vidas.",
+     "quem": "Sobreviventes, ao Terra e ao Metrópoles"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de feridos no desabamento.",
+     "rotulo": "Contraditório",
+     "explicacao": "Metrópoles e DCM falam em 27 feridos, o Poder360 em ao menos 20 e o SBT em 4 com ferimentos leves, conforme o horário do balanço.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "metropoles",
+     "titulo": "O que se sabe sobre o prédio de 4 andares que desabou no Brás nessa sexta",
+     "url": "https://www.metropoles.com/sao-paulo/o-que-se-sabe-sobre-o-predio-de-4-andares-que-desabou-no-bras-nessa-sexta",
+     "angulo": "Metrópoles: o que se sabe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Loja que desabou no Brás funcionava sem alvará dos bombeiros",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/loja-que-desabou-no-bras-funcionava-sem-alvara-dos-bombeiros/",
+     "angulo": "CNN Brasil: o imóvel sem alvará.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Prédio de 4 andares desaba e deixa ao menos 20 feridos em São Paulo",
+     "url": "https://www.poder360.com.br/poder-brasil/predio-de-4-andares-desaba-e-deixa-ao-menos-20-feridos-em-sao-paulo/",
+     "angulo": "Poder360: ao menos 20 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Prédio de quatro andares desaba no Brás, no centro de São Paulo",
+     "url": "https://www.gazetadopovo.com.br/brasil/predio-de-quatro-andares-desaba-no-bras-no-centro-de-sao-paulo/",
+     "angulo": "Gazeta: o desabamento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Prédio de quatro andares desaba no Brás e deixa 27 feridos em São Paulo",
+     "url": "https://www.diariodocentrodomundo.com.br/predio-desaba-bras-sao-paulo-27-feridos/",
+     "angulo": "DCM: 27 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Prédio de 4 andares desaba no Brás, região central de São Paulo",
+     "url": "https://revistaoeste.com/brasil/predio-de-4-andares-desaba-no-bras-regiao-central-de-sao-paulo/",
+     "angulo": "Oeste: o desabamento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Vídeo mostra momento em que prédio desaba no Centro de SP",
+     "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/06/video-mostra-momento-em-que-predio-desaba-no-centro-de-sp.ghtml",
+     "angulo": "g1: o vídeo do Smart Sampa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Desabamento de prédio no Brás deixa feridos e mobiliza bombeiros em SP (vídeo)",
+     "url": "https://www.brasil247.com/sudeste/desabamento-de-predio-no-bras-deixa-feridos-e-mobiliza-bombeiros-em-sp-video/",
+     "angulo": "247: depósito de tecidos com 35 pessoas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "‘Não ter mortos é grata surpresa’, diz capitã dos Bombeiros sobre desabamento no Brás",
+     "url": "https://jovempan.com.br/brasil/nao-ter-mortos-e-grata-surpresa-diz-capita-dos-bombeiros-sobre-desabamento-no-bras/",
+     "angulo": "Jovem Pan: a capitã dos bombeiros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Prédio desaba no Brás, deixa mais de 20 feridos e acende alerta em SP",
+     "url": "https://revistaforum.com.br/brasil/predio-desaba-no-bras-20-feridos/",
+     "angulo": "Fórum: o alerta em São Paulo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Sobrevivente relata rachaduras em prédio que desabou no Brás",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sobrevivente-relata-rachaduras-em-predio-que-desabou-no-bras/",
+     "angulo": "CNN Brasil: as rachaduras relatadas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Prédio que desabou no Brás não tinha laudo de vistoria, diz Corpo de Bombeiros",
+     "url": "https://www.terra.com.br/noticias/brasil/cidades/predio-que-desabou-no-bras-nao-tinha-laudo-de-vistoria-diz-corpo-de-bombeiros,2dc0c27b40091d2e95c1ab3077a993d6b3zazszh.html",
+     "angulo": "Terra: sem laudo de vistoria.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "lula-sanciona-lei-que-torna-o-enamed-obrigatorio-para-medicos",
+   "editoria": "Educação",
+   "escopo": "brasil",
+   "titulo": "Lula sanciona lei que torna o Enamed obrigatório para o registro de novos médicos",
+   "lide": "Apelidado de 'OAB da Medicina', o exame passa a exigir desempenho mínimo para o registro profissional e terá provas ao longo da graduação. A regra vale para quem entrou no curso a partir de 19 de junho de 2026.",
+   "fatos": [
+    {
+     "texto": "Lula sancionou na sexta (6) a lei que torna obrigatório o Exame Nacional de Avaliação da Formação Médica (Enamed).",
+     "base": "4 fontes independentes (g1, Folha, Agência Brasil, Veja)"
+    },
+    {
+     "texto": "O exame exige desempenho mínimo para o registro nos conselhos regionais de medicina.",
+     "base": "2 fontes independentes (DCM, Veja)"
+    },
+    {
+     "texto": "A exigência vale para quem ingressou na graduação a partir de 19 de junho de 2026, quando a MP foi publicada.",
+     "base": "2 fontes independentes (Exame, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A saúde 'não tem ideologia', e o acesso ao SUS deve ser universal.",
+     "quem": "Lula, segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Quantas etapas terá o exame durante o curso.",
+     "rotulo": "Contraditório",
+     "explicacao": "Band, Brasil 247 e Congresso em Foco falam em três etapas, no segundo, quarto e sexto anos; a Jovem Pan fala em duas.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Lula sanciona lei que institui 'OAB da Medicina' para novos médicos",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/06/lula-sanciona-lei-que-institui-oab-da-medicina-para-novos-medicos.ghtml",
+     "angulo": "g1: o que muda para novos médicos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula sanciona Enamed, exame obrigatório para atuação de médicos no Brasil",
+     "url": "https://www1.folha.uol.com.br/educacao/2026/11/lula-sanciona-enamed-exame-obrigatorio-para-atuacao-de-medicos-no-brasil.shtml",
+     "angulo": "Folha: a sanção.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula sanciona exame que irá avaliar qualidade de alunos de medicina",
+     "url": "https://www.brasildefato.com.br/2026/11/06/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina/",
+     "angulo": "Brasil de Fato (texto da Agência Brasil): a avaliação dos alunos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Saiba o que é a ‘OAB da Medicina’ e como ela vai funcionar",
+     "url": "https://jovempan.com.br/educacao/saiba-o-que-e-a-oab-da-medicina-e-como-ela-vai-funcionar/",
+     "angulo": "Jovem Pan: fala em duas etapas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Lula sanciona lei que cria a “OAB da Medicina” no Brasil",
+     "url": "https://oantagonista.com.br/brasil/lula-sanciona-lei-que-cria-a-oab-da-medicina-no-brasil/",
+     "angulo": "O Antagonista: a sanção.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Lula sanciona lei que cria ‘OAB da Medicina’ e muda regras para registro profissional",
+     "url": "https://veja.abril.com.br/educacao/lula-sanciona-lei-que-cria-oab-da-medicina-e-muda-regras-para-registro-profissional/",
+     "angulo": "Veja: nota mínima para novos médicos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "band",
+     "titulo": "‘OAB da Medicina’: Lula sanciona lei que cria exame obrigatório para médicos",
+     "url": "https://www.band.com.br/saude/lula-sanciona-avaliacao-obrigatoria-para-futuros-profissionais-de-medicina",
+     "angulo": "Band: três etapas na graduação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula diz que saúde “não tem ideologia” e defende acesso universal ao SUS ao sancionar Enamed",
+     "url": "https://www.brasil247.com/brasil/lula-diz-que-saude-nao-tem-ideologia-e-defende-acesso-universal-ao-sus-ao-sancionar-enamed/",
+     "angulo": "247: a fala de Lula na sanção.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Lula sanciona lei que regulamenta o Enamed; confira os prazos",
+     "url": "https://www.congressoemfoco.com.br/noticia/131393/lula-sanciona-lei-que-regulamenta-o-enamed-confira-os-prazos",
+     "angulo": "Congresso em Foco: os prazos das provas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Lula sanciona 'OAB da Medicina': entenda o que muda para estudantes e faculdades",
+     "url": "https://exame.com/brasil/lula-sanciona-oab-da-medicina-entenda-o-que-muda-para-estudantes-e-faculdades/",
+     "angulo": "Exame: quem é atingido pela regra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Urgente: Lula sanciona lei que cria a ‘OAB da Medicina’ e torna prova obrigatória para novos médicos",
+     "url": "https://terrabrasilnoticias.com/2026/11/urgente-lula-sanciona-lei-que-cria-a-oab-da-medicina-e-torna-prova-obrigatoria-para-novos-medicos/",
+     "angulo": "Terra Brasil: a prova obrigatória.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "“OAB da Medicina”: Lula sanciona lei que obriga provas durante o curso",
+     "url": "https://www.cnnbrasil.com.br/politica/oab-da-medicina-lula-sanciona-lei-que-obriga-provas-durante-o-curso/",
+     "angulo": "CNN Brasil: a nota mínima.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "governo-aprova-plano-para-zerar-desmatamento-ate-2030",
+   "editoria": "Meio ambiente",
+   "escopo": "brasil",
+   "titulo": "Governo aprova roteiro para zerar o desmatamento até 2030 antes da COP31, na Turquia",
+   "lide": "O plano contra o desmatamento reúne quatro frentes, da conservação ao combate a incêndios. Lula leva os números ambientais do país à COP31, em Antália, na próxima semana.",
+   "fatos": [
+    {
+     "texto": "O governo aprovou na sexta (6) um roteiro para interromper e reverter o desmatamento até 2030, com quatro frentes de atuação.",
+     "base": "3 fontes independentes (CNN Brasil, Exame, DCM)"
+    },
+    {
+     "texto": "Lula vai à COP31, em Antália, na Turquia, na próxima semana.",
+     "base": "3 fontes independentes (Agência Brasil, Poder360, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Preservar é 'mais lucrativo', e o Brasil vai cobrar ação de outros países na COP31.",
+     "quem": "Lula, à CNN Brasil"
+    },
+    {
+     "texto": "A Margem Equatorial tem 'muito petróleo'.",
+     "quem": "Lula, segundo o Brasil 247"
+    },
+    {
+     "texto": "O Brasil vai buscar mais financiamento para países emergentes e novos aportes ao fundo de florestas tropicais (TFFF).",
+     "quem": "Governo, segundo o Poder360"
+    },
+    {
+     "texto": "A JBS lava dinheiro ligado ao desmatamento na Amazônia.",
+     "quem": "Denúncias citadas pelo Brasil de Fato e pelo ICL"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo aprovou também o roteiro para reduzir a dependência de combustíveis fósseis.",
+     "rotulo": "Contraditório",
+     "explicacao": "Valor e CNN Brasil dizem que as diretrizes foram estabelecidas na sexta; a Exame diz que o roteiro para os fósseis segue pendente.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A Turquia, anfitriã da COP31, vai propor um impulso à eletrificação, segundo a AFP.",
+   "ponto_cego": "A aprovação do roteiro não foi encontrada nos feeds nem na busca em Gazeta do Povo, Revista Oeste, Jovem Pan, Terra Brasil, Diário do Poder e Pleno News; na direita, aparecem só artigos de opinião anteriores, críticos ao plano.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Governo aprova mapa para reverter desmatamento até 2030",
+     "url": "https://www.cnnbrasil.com.br/agro/governo-aprova-mapa-para-reverter-desmatamento-ate-2030/",
+     "angulo": "CNN Brasil: as quatro frentes do plano.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Governo Lula aprova plano para interromper e reverter desmatamento até 2030",
+     "url": "https://www.diariodocentrodomundo.com.br/governo-lula-aprova-plano-para-interromper-e-reverter-desmatamento-ate-2030/",
+     "angulo": "DCM: o plano e seus financiamentos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Às vésperas da COP31, Brasil aprova roteiro nacional para frear e reverter desmatamento até 2030",
+     "url": "https://exame.com/esg/as-vesperas-da-cop31-brasil-aprova-roteiro-nacional-para-frear-e-reverter-desmatamento-ate-2030/",
+     "angulo": "Exame: o roteiro dos fósseis segue pendente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Lula cobrará financiamento climático e transição energética na COP31",
+     "url": "https://www.poder360.com.br/poder-governo/lula-cobrara-financiamento-climatico-e-transicao-energetica-na-cop31/",
+     "angulo": "Poder360: as cobranças na COP31.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula prospecta “muito petróleo” na Margem Equatorial e também prevê Brasil forte na COP31",
+     "url": "https://www.brasil247.com/brasil/lula-prospecta-muito-petroleo-na-margem-equatorial-e-tambem-preve-brasil-forte-na-cop31/",
+     "angulo": "247: petróleo e COP31 na mesma fala.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Lula apresentará avanços ambientais na COP31, na Turquia",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
+     "angulo": "Agência Brasil: os números que Lula leva à Turquia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Vamos mostrar na COP31 a redução do consumo de combustíveis fósseis no Brasil, diz Lula",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/06/vamos-mostrar-na-cop31-a-reducao-do-consumo-de-combustiveis-fosseis-no-brasil-diz-lula.ghtml",
+     "angulo": "Valor: as diretrizes para os fósseis.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "COP31, Asean, Mercosul, G20: Lula aproveita reveses da extrema direita para fortalecer multilateralismo",
+     "url": "https://www.brasildefato.com.br/2026/11/06/cop31-asean-mercosul-g20-lula-aproveita-reveses-da-extrema-direita-para-fortalecer-multilateralismo/",
+     "angulo": "Brasil de Fato: a agenda internacional de Lula.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Um caminho para o desastre",
+     "url": "https://www.gazetadopovo.com.br/vozes/lorenzo-carrasco/um-caminho-para-o-desastre/",
+     "angulo": "Coluna na Gazeta, anterior à aprovação, critica o 'mapa do caminho'.",
+     "tipo": "opiniao",
+     "enquadramento": null
+    },
+    {
+     "fonte": "icl",
+     "titulo": "JBS é denunciada por suspeita de lavagem de dinheiro ligada ao desmatamento na Amazônia",
+     "url": "https://iclnoticias.com.br/jbs-denunciada-europa-lavagem-desmatamento/",
+     "angulo": "ICL (texto do Brasil de Fato): denúncia contra a JBS.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Turkey to push for 'electrification' drive at COP31 as climate threats mount",
+     "url": "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount",
+     "angulo": "AFP: a Turquia quer impulsionar a eletrificação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "durigan-ganha-forca-para-seguir-na-fazenda-no-quarto-mandato",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Durigan ganha força para seguir na Fazenda no quarto mandato; Fonteles e Haddad também são cotados",
+   "lide": "Integrantes do governo passaram a tratar o atual ministro como favorito, enquanto Lula alinha o discurso de ajuste fiscal antes do pronunciamento de domingo (8). O governador do Piauí, Rafael Fonteles, e Fernando Haddad aparecem entre os cotados.",
+   "fatos": [
+    {
+     "texto": "Integrantes do governo passaram a ver Dario Durigan como favorito para continuar na Fazenda.",
+     "base": "3 fontes independentes (O Globo, DCM, Revista Oeste)"
+    },
+    {
+     "texto": "Haddad, Alckmin, Durigan e Rafael Fonteles estão entre os cotados para a Fazenda.",
+     "base": "2 fontes independentes (CNN Brasil, Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Não há 'fórmula mágica' para a situação fiscal do país.",
+     "quem": "Dario Durigan, à Band"
+    },
+    {
+     "texto": "Aliados de Lula temem um 'efeito Waldir Pires' se Fonteles assumir a Fazenda.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Na escolha para a Fazenda, Lula repete o roteiro de 2022.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Lula fortalece Durigan e associa a responsabilidade fiscal ao quarto mandato.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "O mercado fica em modo de espera pelo titular da Fazenda.",
+     "quem": "NeoFeed"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Chance de Dario Durigan seguir como ministro da Fazenda cresce no Lula 4",
+     "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/11/chance-de-dario-durigan-seguir-como-ministro-da-fazenda-cresce-no-lula-4.ghtml",
+     "angulo": "O Globo: Durigan favorito.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "O favorito para o Ministério da Fazenda no Lula 4",
+     "url": "https://www.diariodocentrodomundo.com.br/o-favorito-para-o-ministerio-da-fazenda-no-lula-4/",
+     "angulo": "DCM: Haddad ainda é cogitado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Durigan é o favorito de Lula para a Fazenda no novo mandato",
+     "url": "https://revistaoeste.com/economia/durigan-e-o-favorito-de-lula-para-a-fazenda-no-novo-mandato/",
+     "angulo": "Oeste: Durigan, o nome mais forte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Veja os nomes que estão no radar de Lula para o Ministério da Fazenda",
+     "url": "https://www.cnnbrasil.com.br/politica/veja-os-nomes-que-estao-no-radar-de-lula-para-o-ministerio-da-fazenda/",
+     "angulo": "CNN Brasil: os cotados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Na escolha para Fazenda, Lula repete roteiro de 2022",
+     "url": "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/na-escolha-para-fazenda-lula-repete-roteiro-de-2022.shtml",
+     "angulo": "Folha: o roteiro de 2022.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Aliados de Lula temem ‘efeito Waldir Pires’ se Fonteles assumir Fazenda; entenda",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/aliados-de-lula-temem-efeito-waldir-pires-se-fonteles-assumir-fazenda-entenda/",
+     "angulo": "Estadão: o temor dos aliados com Fonteles.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Com seriedade e serenidade, presidente fortalece Durigan, organiza discurso econômico e associa responsabilidade fiscal ao Lula 4",
+     "url": "https://www.brasil247.com/blog/com-seriedade-e-serenidade-presidente-fortalece-durigan-organiza-discurso-economico-e-associa-responsabilidade-fiscal-ao-lula-4/",
+     "angulo": "247: Lula fortalece Durigan.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Lula faz primeiros acenos concretos na direção de ajuste fiscal e alinha discurso com propostas de Durigan",
+     "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml",
+     "angulo": "g1: Lula alinha o discurso com Durigan.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Lula parte para a Turquia e deixa o mercado em modo de espera pelo titular da Fazenda",
+     "url": "https://neofeed.com.br/experts/lula-parte-para-a-turquia-e-deixa-o-mercado-em-modo-de-espera-pelo-titular-da-fazenda/",
+     "angulo": "NeoFeed: o mercado espera o ministro.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Cotado para Fazenda, Fonteles fundou consultoria para ensinar a 'investir sem medo'",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/cotado-para-fazenda-fonteles-fundou-consultoria-para-ensinar-a-investir-sem-medo.shtml",
+     "angulo": "Folha: a consultoria de Fonteles.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Durigan diz que 'não há fórmula mágica' para situação fiscal do Brasil",
+     "url": "https://www.band.com.br/economia/macroeconomia/durigan-diz-que-nao-ha-formula-magica-para-situacao-fiscal-do-brasil",
+     "angulo": "Band: Durigan após reunião com Lula.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Quem é o verdadeiro ministro da Fazenda de Lula",
+     "url": "https://valor.globo.com/politica/coluna/quem-e-o-verdadeiro-ministro-da-fazenda-de-lula.ghtml",
+     "angulo": "Valor: as ausências no almoço com economistas.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "lula-acusa-campanha-exibida-pela-globo-de-mentir-sobre-a-fome",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Lula acusa campanha exibida pela Globo de mentir sobre a fome e pede investigação",
+   "lide": "O presidente criticou na sexta (6) a exibição de uma propaganda com crianças passando fome e pediu que a entidade responsável seja investigada. Também disse que a imprensa evita divulgar resultados positivos do governo.",
+   "fatos": [
+    {
+     "texto": "Lula criticou a Globo pela exibição de uma propaganda com crianças passando fome.",
+     "base": "3 fontes independentes (Folha, Fórum, Brasil 247)"
+    },
+    {
+     "texto": "Lula pediu investigação sobre a entidade responsável pela campanha.",
+     "base": "2 fontes independentes (DCM, Fórum)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A imprensa evita divulgar notícias boas do governo por receio de parecer 'chapa branca'.",
+     "quem": "Lula, segundo o Poder360"
+    },
+    {
+     "texto": "A campanha distorce a realidade da fome no país.",
+     "quem": "Lula, segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "A crítica de Lula saiu na esquerda (Fórum, DCM, Brasil 247) e no centro (Folha, Poder360). Não encontrado nos feeds nem na busca em Gazeta do Povo, Revista Oeste, Jovem Pan, Terra Brasil, Diário do Poder e Pleno News, nem nos feeds de g1 e O Globo, do grupo da emissora.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Lula critica Globo e questiona propaganda sobre crianças com fome",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/lula-critica-globo-e-questiona-propaganda-sobre-criancas-com-fome.shtml",
+     "angulo": "Folha: a crítica à propaganda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula acusa Globo de mentir sobre fome no Brasil e pede investigação",
+     "url": "https://revistaforum.com.br/politica/lula-acusa-globo-mentir-fome-brasil/",
+     "angulo": "Fórum: adota a acusação de Lula no título.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lula detona Globo e pede investigação de campanha sobre crianças passando fome",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-detona-globo-e-pede-investigacao-de-campanha-sobre-criancas-passando-fome/",
+     "angulo": "DCM: o pedido de investigação.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Lula critica a Globo e diz que imprensa ignora notícias boas do governo",
+     "url": "https://www.poder360.com.br/poder-governo/lula-critica-a-globo-e-diz-que-imprensa-ignora-noticias-boas-do-governo/",
+     "angulo": "Poder360: Lula diz que a imprensa ignora notícias boas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula acusa propaganda da Globo de mentir sobre a fome no Brasil",
+     "url": "https://www.brasil247.com/midia/lula-acusa-propaganda-da-globo-de-mentir-sobre-a-fome-no-brasil/",
+     "angulo": "247: a distorção apontada por Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "enem-2026-comeca-neste-domingo-com-5-milhoes-de-candidatos",
+   "editoria": "Educação",
+   "escopo": "brasil",
+   "titulo": "Enem 2026 começa neste domingo com mais de 5 milhões de candidatos",
+   "lide": "As provas serão aplicadas em 8 e 15 de novembro, com portões abertos às 12h e fechados às 13h. Em Santa Catarina, locais de prova mudaram por causa dos temporais.",
+   "fatos": [
+    {
+     "texto": "Mais de 5 milhões de candidatos estão confirmados para o Enem 2026; a Agência Brasil fala em 5,05 milhões.",
+     "base": "3 fontes independentes (Agência Brasil, Folha, g1)"
+    },
+    {
+     "texto": "As provas serão em 8 e 15 de novembro.",
+     "base": "2 fontes independentes (CNN Brasil, O Globo)"
+    },
+    {
+     "texto": "Os portões abrem às 12h e fecham às 13h.",
+     "base": "horário do Inep, segundo o Metrópoles"
+    },
+    {
+     "texto": "Seara e Canoinhas, em Santa Catarina, tiveram locais de prova alterados depois das tempestades.",
+     "base": "2 fontes independentes (Agência Brasil, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Quem faz o Enem pode receber uma parcela extra do Pé-de-Meia.",
+     "quem": "Exame"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "No domingo (8), mais de 5 milhões de brasileiros devem fazer o primeiro dia de provas do Enem",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/06/no-domingo-8-mais-de-5-milhoes-de-brasileiros-devem-fazer-o-primeiro-dia-de-provas-do-enem.ghtml",
+     "angulo": "g1: o primeiro dia de provas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Enem: candidato pode saber local de prova por telefone",
+     "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-candidato-pode-saber-local-de-prova-por-telefone",
+     "angulo": "Agência Brasil: 5,05 milhões confirmados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Confira tudo o que você precisa saber para fazer o Enem 2026",
+     "url": "https://www1.folha.uol.com.br/educacao/2026/11/confira-tudo-o-que-voce-precisa-saber-para-fazer-o-enem-2026.shtml",
+     "angulo": "Folha: o guia da prova.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Horário, o que levar e regras. Veja o manual para quem vai fazer o Enem",
+     "url": "https://www.metropoles.com/distrito-federal/horario-o-que-levar-e-regras-veja-o-manual-para-quem-vai-fazer-o-enem",
+     "angulo": "Metrópoles: o manual do candidato.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Reta final para o Enem: como estudantes estão se preparando?",
+     "url": "https://www.cnnbrasil.com.br/educacao/reta-final-para-o-enem-como-estudantes-estao-se-preparando/",
+     "angulo": "CNN Brasil: as datas das provas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Professores indicam possíveis temas para redação do ENEM 2026",
+     "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/06/professores-indicam-possiveis-temas-para-redacao-do-enem-2026-1.ghtml",
+     "angulo": "Valor: apostas de tema da redação.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Enem 2026: tudo o que você precisa saber para a prova deste domingo",
+     "url": "https://www.band.com.br/educacao/enem-2026-tudo-o-que-voce-precisa-saber-para-a-prova-deste-domingo",
+     "angulo": "Band: os inscritos no Paraná.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Quem faz o Enem pode ter parcela extra do Pé-de-Meia; entenda",
+     "url": "https://exame.com/brasil/quem-faz-o-enem-pode-ter-parcela-extra-do-pe-de-meia-entenda/",
+     "angulo": "Exame: o Pé-de-Meia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Enem: o que fazer um dia antes da prova? 7 dicas para chegar preparado e evitar erros na véspera",
+     "url": "https://oantagonista.com.br/ladooa/variedades/enem-o-que-fazer-um-dia-antes-da-prova-7-dicas-para-chegar-preparado-e-evitar-erros-na-vespera/",
+     "angulo": "O Antagonista: dicas para a véspera.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Enem: cidades de Seara e Canoinhas (SC) têm locais de prova alterados",
+     "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-cidades-de-seara-e-canoinhas-sc-tem-locais-de-prova-alterados",
+     "angulo": "Agência Brasil: locais alterados em SC.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Enem em SC tem 133 mil inscritos e mudanças em locais de prova após tempestade; veja como consultar",
+     "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/07/enem-sc-2026-mudancas-locais-prova.ghtml",
+     "angulo": "g1: as mudanças após a tempestade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "senado-destitui-pena-e-alliana-assume-a-presidencia-do-paraguai",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Senado destitui Peña por unanimidade, e Pedro Alliana assume a Presidência do Paraguai",
+   "lide": "Peña foi posto em prisão domiciliar e, depois de protestos na porta de casa, levado a uma unidade militar por segurança. Alliana prometeu compensar os afetados pela quebra do Ueno Bank, e Lula o convidou a Brasília.",
+   "fatos": [
+    {
+     "texto": "O Senado aprovou por unanimidade o impeachment de Santiago Peña.",
+     "base": "3 fontes independentes (g1, AFP, Brasil de Fato)"
+    },
+    {
+     "texto": "Peña foi colocado em prisão domiciliar.",
+     "base": "3 fontes independentes (BBC, AFP, Le Monde)"
+    },
+    {
+     "texto": "Depois de confrontos entre manifestantes e a polícia na porta de sua casa, Peña foi levado a uma unidade militar.",
+     "base": "3 fontes independentes (Al Jazeera, Clarín, CNN Brasil)"
+    },
+    {
+     "texto": "O vice Pedro Alliana tomou posse e prometeu compensar os afetados pela crise bancária.",
+     "base": "3 fontes independentes (Veja, Estadão, Poder360)"
+    },
+    {
+     "texto": "Lula cumprimentou Alliana e o convidou a Brasília.",
+     "base": "3 fontes independentes (Valor, Jovem Pan, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A destituição expõe o conluio entre poder político e poder financeiro no Paraguai.",
+     "quem": "Le Monde"
+    },
+    {
+     "texto": "O impeachment e a posse rápida de Alliana não passam confiança.",
+     "quem": "Especialista ouvido pela CNN Brasil"
+    },
+    {
+     "texto": "O Paraguai agiu 'em apenas dois dias', ao contrário do Brasil no caso Master.",
+     "quem": "O Globo, segundo o Conexão Política"
+    },
+    {
+     "texto": "O fundo de pensão dos trabalhadores paraguaios de Itaipu tinha cerca de R$ 86 milhões aplicados no Ueno.",
+     "quem": "Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Lula convidou Alliana a Brasília. O Paraguai abriga cerca de 270 mil brasileiros e 232 empresas do país, segundo o Poder360.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-06",
+    "id": "pena-renuncia-mas-congresso-do-paraguai-segue-com-impeachment",
+    "titulo": "Peña apresenta renúncia, mas o Congresso do Paraguai não a vota e segue com o impeachment"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Paraguay's president impeached and under house arrest after bank collapse",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+     "angulo": "BBC: destituído e em prisão domiciliar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Ousted Paraguay president under house arrest after bank collapse",
+     "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+     "angulo": "AFP: o Senado votou por unanimidade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Au Paraguay, la destitution du président, Santiago Peña, met en lumière les collusions entre le pouvoir politique et celui de la finance",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html",
+     "angulo": "Le Monde: o conluio entre política e finanças.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Paraguay’s Pena under military protection in bank collapse chaos",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126",
+     "angulo": "Al Jazeera: Peña sob proteção militar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Pedro Alliana assume o governo do Paraguai após destituição de Santiago Peña",
+     "url": "https://www.gazetadopovo.com.br/mundo/pedro-alliana-assume-o-governo-do-paraguai-apos-destituicao-de-santiago-pena/",
+     "angulo": "Gazeta: quem é Alliana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Em 1° discurso como presidente do Paraguai, Alliana promete ‘compensar’ afetados por crise bancária",
+     "url": "https://www.estadao.com.br/internacional/em-1-discurso-como-presidente-do-paraguai-alliana-promete-compensar-afetados-por-crise-bancaria-npr/",
+     "angulo": "Estadão: Alliana promete compensar os afetados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Lula cumprimenta Alliana e convida novo presidente do Paraguai a Brasília",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/07/lula-cumprimenta-alliana-e-convida-novo-presidente-do-paraguai-a-braslia.ghtml",
+     "angulo": "Valor: o convite de Lula.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Senado aprova impeachment e presidente do Paraguai é preso",
+     "url": "https://www.brasildefato.com.br/2026/11/06/senado-aprova-impeachment-do-presidente-do-paraguai-e-justica-decreta-sua-prisao-na-sequencia/",
+     "angulo": "Brasil de Fato: impeachment e prisão.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Especialista: Impeachment e posse rápida de Alliana não passam confiança",
+     "url": "https://www.cnnbrasil.com.br/internacional/especialista-impeachment-e-posse-rapida-de-alliana-nao-passam-confianca/",
+     "angulo": "CNN Brasil: a desconfiança com a rapidez.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fundo de pensão de empregados paraguaios de Itaipu tinha R$ 86 mi aplicados no Ueno",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/fundo-de-pensao-de-empregados-paraguaios-de-itaipu-tinha-r-86-mi-aplicados-no-ueno.shtml",
+     "angulo": "Folha: o dinheiro de Itaipu no Ueno.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "conexaopolitica",
+     "titulo": "Segurança jurídica e instituições funcionando: ao citar caso Ueno, O Globo sublinha que Paraguai agiu ‘em apenas dois dias’",
+     "url": "https://www.conexaopolitica.com.br/politica/seguranca-juridica-e-instituicoes-funcionando-ao-citar-caso-ueno-o-globo-sublinha-que-paraguai-agiu-em-apenas-dois-dias/",
+     "angulo": "Conexão Política: compara a rapidez paraguaia ao caso Master.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Santiago Peña tuvo que ser trasladado de urgencia a un sitio militar, tras sufrir un escrache con incidentes en la puerta de su casa",
+     "url": "https://www.clarin.com/mundo/santiago-pena-trasladado-urgencia-regimiento-escolta-sufrir-masivo-escrache-incidentes-puerta-casa_0_tRwQjixbqR.html",
+     "angulo": "Clarín: a transferência de urgência para um local militar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "trump-troca-susie-wiles-por-stephen-miller-na-chefia-de-gabinete",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump troca Susie Wiles por Stephen Miller na chefia de gabinete da Casa Branca",
+   "lide": "Dias depois da derrota nas eleições de meio de mandato, o presidente promoveu o principal articulador da política de deportações em massa. Democratas e alguns republicanos criticaram a escolha, e Vance e defensores de restrição à imigração aplaudiram.",
+   "fatos": [
+    {
+     "texto": "Trump anunciou Stephen Miller como chefe de gabinete da Casa Branca no lugar de Susie Wiles.",
+     "base": "4 fontes independentes (Axios, Guardian, AFP, Revista Oeste)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A nomeação é um 'erro colossal'.",
+     "quem": "Senador republicano Thom Tillis, segundo o Breitbart"
+    },
+    {
+     "texto": "A troca vai afundar as chances republicanas em 2028.",
+     "quem": "Marjorie Taylor Greene, segundo a Al Jazeera"
+    },
+    {
+     "texto": "A escolha mostra que Trump não aprendeu a lição das urnas sobre imigração.",
+     "quem": "Análise do Guardian"
+    },
+    {
+     "texto": "Miller é um defensor da política de imigração restritiva que merece a promoção.",
+     "quem": "JD Vance e grupos de restrição à imigração, segundo o Breitbart"
+    },
+    {
+     "texto": "Miller mantém contatos com Eduardo Bolsonaro e é próximo de Filipe Martins.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o Brasil 247 destaca a proximidade de Miller com Eduardo Bolsonaro e Filipe Martins.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-06",
+    "id": "rubio-nega-saida-e-hegseth-pode-enfrentar-impeachment",
+    "titulo": "Rubio nega que vá deixar o governo Trump, e Hegseth pode enfrentar processo de impeachment"
+   },
+   "materias": [
+    {
+     "fonte": "axios",
+     "titulo": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
+     "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
+     "angulo": "Axios: Trump irritado com a derrota.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+     "angulo": "Guardian: o arquiteto da repressão à imigração.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Tillis: Trump Appointing Stephen Miller Chief of Staff a 'Colossal Mistake'",
+     "url": "https://www.breitbart.com/clips/2026/11/06/tillis-trump-appointing-stephen-miller-chief-of-staff-a-colossal-mistake/",
+     "angulo": "Breitbart: a crítica de Tillis.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "JD Vance, Immigration Hawks Applaud Stephen Miller's Promotion to WH Chief of Staff",
+     "url": "https://www.breitbart.com/immigration/2026/11/06/vance-immigration-hawks-applaud-stephen-millers-promotion-to-white-house-house-chief-of-staff/",
+     "angulo": "Breitbart: Vance aplaude a escolha.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126",
+     "angulo": "Al Jazeera: o alerta de Greene.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "With Stephen Miller pick, Trump readies for a battle",
+     "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
+     "angulo": "BBC: Trump se prepara para o confronto.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Trump promove articulador de deportações a chefe de gabinete",
+     "url": "https://www.poder360.com.br/poder-internacional/trump-promove-articulador-de-deportacoes-a-chefe-de-gabinete/",
+     "angulo": "Poder360: Miller assume na segunda (9).",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Trump anuncia novo chefe de gabinete da Casa Branca",
+     "url": "https://revistaoeste.com/mundo/trump-anuncia-novo-chefe-de-gabinete-da-casa-branca/",
+     "angulo": "Oeste: o anúncio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Trump nomeia extremista como novo chefe de gabinete da Casa Branca",
+     "url": "https://operamundi.uol.com.br/estados-unidos/trump-nomeia-extremista-como-novo-chefe-de-gabinete-da-casa-branca/",
+     "angulo": "Opera Mundi: chama Miller de 'extremista' no título.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Novo chefe de gabinete de Trump é aliado de Eduardo Bolsonaro e próximo de Filipe Martins",
+     "url": "https://www.brasil247.com/mundo/novo-chefe-de-gabinete-de-trump-e-aliado-de-eduardo-bolsonaro-e-proximo-de-filipe-martins/",
+     "angulo": "247: as ligações com bolsonaristas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+     "angulo": "Le Monde: 'representante da direita identitária'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Trump taps immigration hardliner Stephen Miller as chief of staff",
+     "url": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+     "angulo": "FT: a troca dias após a derrota.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "papa-leao-xiv-comeca-viagem-de-12-dias-pela-america-do-sul",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Papa Leão XIV começa pelo Uruguai uma viagem de 12 dias pela América do Sul",
+   "lide": "Três semanas depois de uma cirurgia no pulmão, o pontífice chegou a Montevidéu e segue depois para Argentina e Peru. No Uruguai, pediu acesso universal à saúde.",
+   "fatos": [
+    {
+     "texto": "Leão XIV começou pelo Uruguai uma viagem de 12 dias pela América do Sul, que inclui Argentina e Peru.",
+     "base": "3 fontes independentes (g1, Al Jazeera, Gazeta do Povo)"
+    },
+    {
+     "texto": "A viagem ocorre três semanas depois de uma cirurgia no pulmão.",
+     "base": "2 fontes independentes (BBC, Al Jazeera)"
+    },
+    {
+     "texto": "Em Montevidéu, o papa pediu que a atenção à saúde esteja ao alcance de todos, independentemente de recursos.",
+     "base": "2 fontes independentes (La Nación, Página/12)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O papa chega num momento de queda do catolicismo na região.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "O Uruguai é o país latino-americano com a menor porcentagem de católicos.",
+     "quem": "g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Ao sobrevoar o Brasil, o papa enviou mensagem a Lula, segundo a CNN Brasil.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Papa Leão XIV começa viagem de 12 dias pela América do Sul pelo Uruguai, país latino com a menor porcentagem de católicos",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/06/papa-leao-xiv-comeca-viagem-de-12-dias-pela-america-do-sul-pelo-uruguai-pais-latino-com-a-menor-porcentagem-de-catolicos.ghtml",
+     "angulo": "g1: o roteiro da viagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Pope in 'pretty good health' as he starts Latin America tour",
+     "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+     "angulo": "BBC: o papa 'em boa saúde' após a cirurgia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Pope Leo XIV arrives for South American tour after cancer surgery",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery",
+     "angulo": "Al Jazeera: a chegada ao Uruguai.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Papa envia mensagem a Lula ao sobrevoar o Brasil em viagem à América do Sul",
+     "url": "https://www.cnnbrasil.com.br/internacional/papa-envia-mensagem-a-lula-ao-sobrevoar-o-brasil-em-viagem-a-america-do-sul/",
+     "angulo": "CNN Brasil: a mensagem ao sobrevoar o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Papa vem à América Latina em momento de catolicismo em queda na região",
+     "url": "https://www.gazetadopovo.com.br/mundo/papa-vem-america-latina-momento-catolicismo-queda-regiao/",
+     "angulo": "Gazeta: o catolicismo em queda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "El papa León XIV pide atención ante los suicidios y defiende una salud para todos en Uruguay",
+     "url": "https://www.pagina12.com.ar/2026/11/07/el-papa-leon-xiv-pide-atencion-ante-los-suicidios-y-defiende-una-salud-para-todos-en-uruguay/",
+     "angulo": "Página/12: 'o papa pede atenção aos suicídios e defende saúde para todos'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Papa Leão conclui primeiro dia na América do Sul com orações no Uruguai",
+     "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-conclui-primeiro-dia-na-america-do-sul-com-oracoes-no-uruguai/",
+     "angulo": "CNN Brasil: o primeiro dia no Uruguai.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "El Papa viene a preguntar lo que muchos eligen ignorar",
+     "url": "https://www.lanacion.com.ar/opinion/el-papa-viene-a-preguntar-lo-que-muchos-eligen-ignorar-nid07112026/",
+     "angulo": "La Nación: 'o papa vem perguntar o que muitos preferem ignorar'.",
+     "tipo": "opiniao",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "ameacas-falsas-de-bomba-chegam-a-redacoes-de-tv-na-europa",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Ameaças falsas de bomba chegam a redações de TV na Europa; Irlanda fala em campanha coordenada",
+   "lide": "Emissoras na Irlanda, no Reino Unido e na Bulgária foram evacuadas na sexta (6) depois de e-mails com alertas de explosivos, e novos voos foram afetados. Nenhuma bomba foi encontrada.",
+   "fatos": [
+    {
+     "texto": "As emissoras RTÉ, Sky e Nova TV foram evacuadas depois de ameaças por e-mail, e nenhum explosivo foi encontrado.",
+     "base": "3 fontes independentes (Poder360, SBT, DW Brasil)"
+    },
+    {
+     "texto": "O governo da Irlanda disse que as ameaças provavelmente fazem parte de uma campanha coordenada.",
+     "base": "3 fontes independentes (NYT, Estadão, AFP)"
+    },
+    {
+     "texto": "Os e-mails foram enviados em nome de 'Mikhail Andropov'.",
+     "base": "2 fontes independentes (Al Jazeera, Valor)"
+    },
+    {
+     "texto": "Dublin recebe em uma semana duas cúpulas europeias com dezenas de líderes.",
+     "base": "2 fontes independentes (FT, Le Monde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Agências europeias investigam se as ameaças partiram da Rússia; a hipótese é de ativistas pró-Kremlin ou grupos de hackers.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "Um grupo reivindicou a autoria em mensagens a veículos de imprensa.",
+     "quem": "O Globo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O grupo russo 'Estado Masculino' está por trás das ameaças.",
+     "rotulo": "Em apuração",
+     "explicacao": "Aeroportos receberam cartas assinadas por supostos membros do grupo, mas o fundador nega, e nenhum governo atribuiu a autoria oficialmente.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-06",
+    "id": "nova-onda-de-ameacas-falsas-de-bomba-atinge-voos-na-europa",
+    "titulo": "Nova onda de ameaças falsas de bomba atinge dezenas de voos na Europa"
+   },
+   "materias": [
+    {
+     "fonte": "ft",
+     "titulo": "Bomb threats target media and flights as email warns ‘this is only the beginning’",
+     "url": "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
+     "angulo": "FT: o e-mail diz que 'isto é só o começo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+     "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+     "angulo": "NYT: a Irlanda vê campanha coordenada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Emissoras na Europa recebem ameaças de bomba nesta 6ª feira",
+     "url": "https://www.poder360.com.br/poder-midia/emissoras-na-europa-recebem-ameacas-de-bomba-nesta-6a-feira/",
+     "angulo": "Poder360: RTÉ, Sky e Nova TV evacuadas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "‘Message to the West’ bomb threats target European newsrooms, travel",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel",
+     "angulo": "Al Jazeera: a assinatura 'Mikhail Andropov'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ameaças de bomba na Europa: aeroportos receberam carta assinada por membros do grupo russo 'Estado Masculino'; fundador nega",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/06/ameacas-de-bomba-na-europa-aeroportos-receberam-carta-assinada-por-membros-do-grupo-russo-estado-masculino-fundador-nega.ghtml",
+     "angulo": "g1: o grupo 'Estado Masculino' e a negativa do fundador.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Com novos alertas nesta sexta, grupo reivindica autoria de ameaças de bomba na Europa",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/06/e-apenas-o-comeco-diz-grupo-que-reivindica-autoria-de-ameacas-de-bomba-na-europa-nova-onda-e-registrada-nesta-sexta.ghtml",
+     "angulo": "O Globo: o grupo que reivindica as ameaças.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ameaças de bomba na Europa provavelmente fazem parte de ação coordenada de perturbação, diz Irlanda",
+     "url": "https://www.estadao.com.br/internacional/ameacas-de-bomba-na-europa-provavelmente-fazem-parte-de-acao-coordenada-de-perturbacao-diz-irlanda-npr/",
+     "angulo": "Estadão: a avaliação irlandesa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Ameaças de bomba com aviso sobre “tempo se esgotando” interrompem transmissões de TV na Europa",
+     "url": "https://www.brasil247.com/mundo/ameacas-de-bomba-com-aviso-sobre-tempo-se-esgotando-interrompem-transmissoes-de-tv-na-europa/",
+     "angulo": "247: o aviso de 'tempo se esgotando'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Ameaças de bomba miram imprensa europeia",
+     "url": "https://oantagonista.com.br/mundo/ameacas-de-bomba-miram-imprensa-europeia/",
+     "angulo": "O Antagonista: as redações como alvo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ameaças de bomba a redes de TV sucedem falsos alertas sobre voos na Europa",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/06/ameaas-de-bomba-a-redes-de-tv-sucedem-falsos-alertas-sobre-voos-na-europa.ghtml",
+     "angulo": "Valor: depois dos voos, as TVs.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+     "angulo": "Le Monde: a Irlanda visada antes das cúpulas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Ameaças de bomba esvaziam emissoras de TV na Europa",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/ameacas-de-bomba-esvaziam-emissoras-de-tv-na-europa",
+     "angulo": "SBT: as buscas não encontraram bombas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-06"
+    }
+   ]
+  }
+ ]
+}
