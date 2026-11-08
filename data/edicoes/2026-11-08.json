@@ -1,0 +1,1418 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-08",
+ "gerado_em": "2026-11-08T05:56:37-03:00",
+ "historias": [
+  {
+   "id": "milton-leite-e-indiciado-por-suspeita-de-elo-com-o-pcc",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "Milton Leite é indiciado por suspeita de elo com o PCC no transporte de São Paulo",
+   "lide": "A Polícia Civil indiciou o ex-presidente da Câmara Municipal de São Paulo e outros 12 investigados por organização criminosa e pediu a prisão preventiva de todos. O inquérito investiga a infiltração da facção em empresas de ônibus da capital.",
+   "fatos": [
+    {
+     "texto": "A Polícia Civil de São Paulo indiciou Milton Leite (União Brasil) e outros 12 investigados por suspeita de integrar e promover o PCC.",
+     "base": "4 fontes independentes (Estadão, Folha, Poder360, Revista Oeste)"
+    },
+    {
+     "texto": "A polícia pediu à Justiça a prisão preventiva de Leite e dos demais investigados.",
+     "base": "3 fontes independentes (Estadão, Terra Brasil, Brasil 247)"
+    },
+    {
+     "texto": "O inquérito trata da infiltração do PCC em empresas de transporte coletivo da capital.",
+     "base": "3 fontes independentes (CNN Brasil, O Antagonista, Brasil 247)"
+    },
+    {
+     "texto": "Leite nega envolvimento com a facção.",
+     "base": "2 fontes independentes (Terra Brasil, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O PCC está presente em mais da metade das empresas de ônibus de São Paulo.",
+     "quem": "Investigação citada pelo g1"
+    },
+    {
+     "texto": "Leite administrava empresas ligadas à facção e teria ocultado e destruído provas.",
+     "quem": "Relatório da Polícia Civil, segundo o Poder360"
+    },
+    {
+     "texto": "Leite é aliado do prefeito Ricardo Nunes e do governador Tarcísio de Freitas.",
+     "quem": "DCM"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Situação de Milton Leite: preso ou foragido.",
+     "rotulo": "Contraditório",
+     "explicacao": "O Terra Brasil diz que ele está preso desde setembro, enquanto o g1 o descreve como foragido da Justiça.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Veículos de esquerda destacam a ligação política de Leite com Ricardo Nunes e Tarcísio de Freitas.",
+    "oposicao": "Veículos de direita tratam o caso como investigação policial, sem associá-lo a aliados."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Polícia Civil indicia e pede prisão preventiva de Milton Leite por organização criminosa",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/policia-civil-indicia-e-pede-prisao-preventiva-de-milton-leite-por-organizacao-criminosa/",
+     "angulo": "Estadão: indiciamento e pedido de prisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Polícia indicia Milton Leite e pede prisão preventiva por elo com PCC",
+     "url": "https://revistaoeste.com/politica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
+     "angulo": "Oeste: o pedido de preventiva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Milton Leite é indiciado por organização criminosa; investigação aponta PCC em mais da metade das empresas de ônibus de SP",
+     "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/07/milton-leite-e-indiciado-por-organizacao-criminosa-investigacao-aponta-pcc-em-mais-da-metade-das-empresas-de-onibus-de-sp.ghtml",
+     "angulo": "g1: PCC em mais da metade das empresas de ônibus.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Aliado de Nunes e Tarcísio, Milton Leite é indiciado por suspeita de elo com PCC",
+     "url": "https://www.diariodocentrodomundo.com.br/aliado-de-nunes-e-tarcisio-milton-leite-e-indiciado-por-suspeita-de-elo-com-pcc/",
+     "angulo": "DCM: destaca os aliados de Leite no título.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Milton Leite é indiciado por suspeita de ligação com esquema do PCC em SP",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/milton-leite-e-indiciado-por-suspeita-de-ligacao-com-esquema-do-pcc-em-sp/",
+     "angulo": "CNN Brasil: a Operação Vectura Corrupta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Polícia indicia Milton Leite e pede prisão preventiva por elo com PCC",
+     "url": "https://www.poder360.com.br/poder-justica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
+     "angulo": "Poder360: ocultação e destruição de provas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Milton Leite é indiciado com outros 12 por suspeita de ligação com o PCC",
+     "url": "https://terrabrasilnoticias.com/2026/11/milton-leite-e-indiciado-com-outros-12-por-suspeita-de-ligacao-com-o-pcc/",
+     "angulo": "Terra Brasil: Leite nega e está preso desde setembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Milton Leite e outros 12 são indiciados sob suspeita de organização criminosa e promoção do PCC",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/milton-leite-e-outros-12-sao-indiciados-sob-suspeita-de-organizacao-criminosa-e-promocao-do-pcc.shtml",
+     "angulo": "Folha: os 13 indiciados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Polícia Civil indicia Milton Leite e pede prisão preventiva por suposta ligação com o PCC",
+     "url": "https://www.brasil247.com/poder/policia-civil-indicia-milton-leite-e-pede-prisao-preventiva-por-suposta-ligacao-com-o-pcc/",
+     "angulo": "247: a infiltração no transporte público.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Polícia pede prisão preventiva de Milton Leite em investigação sobre PCC",
+     "url": "https://oantagonista.com.br/brasil/policia-pede-prisao-preventiva-de-milton-leite-em-investigacao-sobre-pcc/",
+     "angulo": "O Antagonista: o esquema no transporte da capital.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "flavio-diz-que-nunes-marques-nao-sabe-do-que-fala-e-gilmar-rebate",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "Flávio diz que Nunes Marques 'não sabe do que está falando' sobre a eleição, e Gilmar rebate",
+   "lide": "Em entrevista ao Washington Post, o senador voltou a levantar suspeita de fraude e disse que Trump não vê mais democracia plena no Brasil. Gilmar Mendes chamou as acusações contra o resultado de 'levianas' e citou auditorias e observadores internacionais.",
+   "fatos": [
+    {
+     "texto": "Flávio Bolsonaro disse ao Washington Post que o presidente do TSE, Kassio Nunes Marques, 'não sabe do que está falando' ao avalizar a eleição.",
+     "base": "3 fontes independentes (Folha, Poder360, O Antagonista)"
+    },
+    {
+     "texto": "Na mesma entrevista, Flávio disse que Trump está convencido de que o Brasil não é mais uma democracia plena.",
+     "base": "3 fontes independentes (Estadão, Gazeta do Povo, Poder360)"
+    },
+    {
+     "texto": "Gilmar Mendes chamou de 'levianas' as acusações contra o resultado e citou auditorias, observadores internacionais e a participação dos partidos.",
+     "base": "3 fontes independentes (Revista Oeste, Valor, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Washington Post descreve Flávio à deriva nos EUA depois da derrota.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "O Washington Post fez uma entrevista 'chapa branca' com Flávio.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Houve fraude na eleição presidencial de 2026.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Flávio não apresentou provas; o TSE e Gilmar citam auditorias e observadores, e checagens desmentiram as alegações que circularam.",
+     "onde_circula": "Flávio Bolsonaro e redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/eleicoes/2026/11/05/e-falso-que-8-milhoes-de-votos-sem-biometria-comprovam-fraude-nas-eleicoes/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governistas e ministros do STF defendem as urnas e tratam as acusações como 'bravatas' sem prova.",
+    "oposicao": "Flávio e aliados mantêm a suspeita sobre o resultado e dizem que o governo Trump também desconfia das instituições brasileiras."
+   },
+   "visao_de_fora": "O Washington Post publicou a entrevista de Flávio, que está nos Estados Unidos desde a derrota.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "checagens-desmentem-alegacoes-de-fraude-no-segundo-turno",
+    "titulo": "Checagens desmentem alegações de fraude no 2º turno; Alcolumbre ironiza: 'no 1º turno a urna prestou'"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Flávio Bolsonaro diz que Nunes Marques 'não sabe do que está falando' sobre a eleição",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-diz-que-nunes-marques-nao-sabe-do-que-esta-falando-sobre-a-eleicao.shtml",
+     "angulo": "Folha: a fala sobre Nunes Marques.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Gilmar Mendes reclama de ‘acusações levianas’ contra o resultado eleitoral",
+     "url": "https://revistaoeste.com/politica/gilmar-mendes-reclama-de-acusacoes-levianas-contra-o-resultado-eleitoral/",
+     "angulo": "Oeste: a reação de Gilmar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Flávio Bolsonaro ataca Nunes Marques e insiste em fraude sem provas",
+     "url": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-ataca-nunes-marques-eleicao/",
+     "angulo": "DCM: frisa a ausência de provas no título.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Flávio diz ao Washington Post que Trump não vê mais democracia plena no Brasil",
+     "url": "https://www.gazetadopovo.com.br/republica/flavio-diz-ao-washington-post-que-trump-nao-ve-mais-democracia-plena-no-brasil/",
+     "angulo": "Gazeta: a fala sobre Trump e a democracia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Gilmar Mendes rebate acusações de fraudes nas urnas eletrônicas",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/07/gilmar-mendes-rebate-acusacoes-de-fraudes-nas-urnas-eletronicas.ghtml",
+     "angulo": "Valor: Gilmar nas redes sociais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "“Não sabe do que está falando”, diz Flávio sobre Nunes Marques",
+     "url": "https://oantagonista.com.br/brasil/nao-sabe-do-que-esta-falando-diz-flavio-sobre-nunes-marques/",
+     "angulo": "O Antagonista: a entrevista ao Washington Post.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "‘Trump está convencido de que o Brasil não é mais uma democracia plena’, diz Flávio a jornal dos EUA",
+     "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-entrevista-washington-post-trump-democracia/",
+     "angulo": "Estadão: a entrevista e a acolhida nos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Washington Post descreve Flávio Bolsonaro à deriva nos EUA após a derrota e fuga do Brasil",
+     "url": "https://www.brasil247.com/poder/washington-post-descreve-flavio-bolsonaro-a-deriva-nos-eua-apos-a-derrota-e-fuga-do-brasil/",
+     "angulo": "247: Flávio 'à deriva'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Gilmar Mendes dá resposta dura e direta a Flávio Bolsonaro por alegações de fraude na eleição",
+     "url": "https://revistaforum.com.br/politica/gilmar-mendes-resposta-flavio-bolsonaro-fraude-eleicao/",
+     "angulo": "Fórum: celebra a resposta de Gilmar.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Flávio diz que Trump considera Brasil uma democracia incompleta",
+     "url": "https://www.poder360.com.br/poder-brasil/flavio-diz-que-trump-considera-brasil-uma-democracia-incompleta/",
+     "angulo": "Poder360: Trump questionaria as instituições.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "Gilmar Mendes defende integridade das urnas e diz que ataques são \"em vão\"",
+     "url": "https://www.em.com.br/politica/2026/11/7535033-gilmar-mendes-defende-integridade-das-urnas-e-diz-que-ataques-sao-em-vao.html",
+     "angulo": "Estado de Minas: os ataques são 'em vão'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "enem-2026-tem-primeiro-dia-de-provas-neste-domingo",
+   "editoria": "Educação",
+   "escopo": "brasil",
+   "titulo": "Enem 2026 tem neste domingo o primeiro dia de provas, com redação e 90 questões",
+   "lide": "Mais de 5 milhões de candidatos fazem neste domingo (8) a redação e as provas de linguagens e ciências humanas. Lula acompanha a aplicação na sala de monitoramento do Inep.",
+   "fatos": [
+    {
+     "texto": "O primeiro dia tem a redação e 90 questões de linguagens e ciências humanas.",
+     "base": "2 fontes independentes (Metrópoles, CNN Brasil)"
+    },
+    {
+     "texto": "Os portões fecham às 13h.",
+     "base": "2 fontes independentes (Exame, Metrópoles)"
+    },
+    {
+     "texto": "São Paulo e o Rio oferecem transporte gratuito aos candidatos nos dias de prova.",
+     "base": "2 fontes independentes (CNN Brasil, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula acompanhará o primeiro dia na sala de monitoramento do Inep.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "85% dos alunos da rede pública farão o exame na própria escola.",
+     "quem": "g1"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Um caminhão arrombado em Uberaba transportava provas do Enem.",
+     "rotulo": "Falso",
+     "explicacao": "O Inep disse que o caminhão não transportava provas do exame.",
+     "onde_circula": "redes sociais",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "enem-2026-comeca-neste-domingo-com-5-milhoes-de-candidatos",
+    "titulo": "Enem 2026 começa neste domingo com mais de 5 milhões de candidatos"
+   },
+   "materias": [
+    {
+     "fonte": "metropoles",
+     "titulo": "Enem começa neste domingo (8/11) com 5 milhões de inscritos. Veja detalhes",
+     "url": "https://www.metropoles.com/brasil/enem-2026-veja-dicas-para-preparar-para-primeiro-dia-provas",
+     "angulo": "Metrópoles: as 90 questões do primeiro dia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Lula acompanha primeiro dia do Enem em sala de monitoramento do Inep",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-acompanha-primeiro-dia-do-enem-em-sala-de-monitoramento-do-inep/",
+     "angulo": "CNN Brasil: Lula na sala do Inep.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "1° dia de Enem: 85% dos alunos da rede pública farão exame na própria escola",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/1-dia-de-enem-85percent-dos-alunos-da-rede-publica-farao-exame-na-propria-escola.ghtml",
+     "angulo": "g1: a prova na própria escola.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Enem: veja horários, documentos obrigatórios e o que fazer antes de sair de casa",
+     "url": "https://exame.com/brasil/enem-veja-horarios-documentos-obrigatorios-e-o-que-fazer-antes-de-sair-de-casa/",
+     "angulo": "Exame: portões fecham às 13h.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Professores comentam redação e questões do 1º dia do Enem 2026; assista",
+     "url": "https://www1.folha.uol.com.br/educacao/2026/11/professores-comentam-redacao-e-questoes-do-1o-dia-do-enem-2026-assista.shtml",
+     "angulo": "Folha: análise da prova.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Enem detalha regras, horários e itens proibidos para prova",
+     "url": "https://www.brasil247.com/brasil/enem-detalha-regras-horarios-e-itens-proibidos-para-prova/",
+     "angulo": "247: regras e itens proibidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "São Paulo terá transporte público gratuito nos dois dias de prova do Enem",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-tera-transporte-publico-gratuito-nos-dois-dias-de-prova-do-enem/",
+     "angulo": "CNN Brasil: gratuidade em SP.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "Caminhão arrombado em Uberaba não transportava provas do Enem, diz Inep",
+     "url": "https://www.em.com.br/gerais/2026/11/7535028-caminhao-arrombado-em-uberaba-nao-transportava-provas-do-enem-diz-inep.html",
+     "angulo": "Estado de Minas: o Inep desmente o roubo de provas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "BH terá ônibus gratuitos e reforço de 391 viagens nos dias de prova do Enem 2026",
+     "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/08/bh-tera-onibus-gratuitos-e-reforco-de-391-viagens-nos-dias-de-prova-do-enem-2026.ghtml",
+     "angulo": "g1: transporte em Belo Horizonte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "formula-1-renova-contrato-e-garante-gp-em-interlagos-ate-2035",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Fórmula 1 renova contrato e garante o GP de São Paulo em Interlagos até 2035",
+   "lide": "A categoria anunciou no sábado (7) a renovação por mais cinco temporadas, durante a etapa paulistana. O acordo prevê novos investimentos no autódromo.",
+   "fatos": [
+    {
+     "texto": "A Fórmula 1 renovou até 2035 o contrato do GP de São Paulo em Interlagos.",
+     "base": "4 fontes independentes (g1, Jovem Pan, Revista Oeste, Brasil 247)"
+    },
+    {
+     "texto": "A renovação acrescenta cinco temporadas ao contrato.",
+     "base": "2 fontes independentes (Band, Brasil 247)"
+    },
+    {
+     "texto": "O anúncio foi feito no sábado (7), durante a etapa de São Paulo.",
+     "base": "2 fontes independentes (Brasil 247, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O acordo prevê novos investimentos no autódromo.",
+     "quem": "InfoMoney"
+    },
+    {
+     "texto": "Manter a Fórmula 1 em Interlagos é 'inegociável'.",
+     "quem": "Stefano Domenicali, presidente da Fórmula 1, ao Metrópoles"
+    },
+    {
+     "texto": "O público denunciou desorganização e confusão por lugares nos primeiros dias do evento.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fórmula 1 renova contrato com São Paulo e garante GP de Interlagos até 2035",
+     "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/07/formula-1-renova-contrato-com-sao-paulo-e-garante-gp-de-interlagos-ate-2035.ghtml",
+     "angulo": "g1: GP garantido até 2035.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Fórmula 1 renova contrato e garante GP de São Paulo em Interlagos até 2035",
+     "url": "https://revistaoeste.com/mundo/formula-1-renova-contrato-e-garante-gp-de-sao-paulo-em-interlagos-ate-2035/",
+     "angulo": "Oeste: a renovação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Fórmula 1 renova contrato com Autódromo de Interlagos até 2035",
+     "url": "https://www.brasil247.com/esporte/formula-1-renova-contrato-com-autodromo-de-interlagos-ate-2035-1/",
+     "angulo": "247: mais cinco temporadas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "GP da Fórmula 1 no Brasil é renovado até 2035",
+     "url": "https://jovempan.com.br/esportes/gp-do-brasil-da-formula-1-e-renovado-ate-2035/",
+     "angulo": "Jovem Pan: mais de 50 anos no calendário.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Fórmula 1 renova contrato do GP de São Paulo até 2035",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/07/formula-1-renova-contrato-do-gp-de-sao-paulo-ate-2035.ghtml",
+     "angulo": "Valor: o anúncio de sábado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Fórmula 1 seguirá em Interlagos até 2035; acordo prevê novos investimentos",
+     "url": "https://www.infomoney.com.br/business/formula-1-interlagos-contrato-2035-sao-paulo/",
+     "angulo": "InfoMoney: novos investimentos previstos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Domenicali diz que manter Fórmula 1 em Interlagos é \"inegociável\"",
+     "url": "https://www.metropoles.com/sao-paulo/domenicali-diz-que-manter-formula-1-em-interlagos-e-inegociavel",
+     "angulo": "Metrópoles: Interlagos é 'inegociável'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "band",
+     "titulo": "São Paulo renova até 2035; veja até quando vão os contratos dos GPs da F1",
+     "url": "https://www.band.com.br/esportes/velocidade/formula-1/sao-paulo-renova-ate-2035-veja-ate-quando-vao-os-contratos-dos-gps-da-f1",
+     "angulo": "Band: os contratos dos outros GPs.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Público da Formula 1 denuncia desorganização e confusão por lugar em Interlagos",
+     "url": "https://veja.abril.com.br/esporte/publico-da-formula-1-denuncia-desorganizacao-e-confusao-por-lugar-em-interlagos/",
+     "angulo": "Veja: as queixas do público.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Fórmula 1 mantém Grande Prêmio de Interlagos no Brasil até 2035",
+     "url": "https://atarde.com.br/esportes/formula-1-mantem-grande-premio-de-interlagos-no-brasil-ate-2035-1408712",
+     "angulo": "A Tarde: mais nove anos de GP.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "ator-de-dark-horse-acusa-governo-lula-de-tentar-barrar-o-filme",
+   "editoria": "Cultura",
+   "escopo": "brasil",
+   "titulo": "Ator de 'Dark Horse' acusa governo Lula de tentar impedir a exibição do filme sobre Bolsonaro",
+   "lide": "Jim Caviezel, que interpreta Jair Bolsonaro, disse que o governo age para barrar o filme no Brasil. Não há registro de ação do governo contra a exibição, e o financiamento do filme é investigado pela PF.",
+   "fatos": [
+    {
+     "texto": "Jim Caviezel acusou o governo Lula de agir para impedir a exibição de 'Dark Horse' no Brasil.",
+     "base": "3 fontes independentes (Gazeta do Povo, Diário do Poder, Revista Oeste)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Bolsonaro tem um 'universo cinematográfico' de quatro filmes com produtores interligados e financiamento que mistura dinheiro público e privado.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Redes de cinema rejeitaram o filme antes da estreia por expectativa de baixo público e risco de confusão nas salas.",
+     "quem": "DCM, citando Lauro Jardim, de O Globo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O governo Lula tenta censurar ou impedir a exibição de 'Dark Horse'.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Nenhuma das reportagens aponta ato do governo contra a exibição; a resistência relatada vem de exibidores, e o que há é inquérito da PF sobre o financiamento.",
+     "onde_circula": "Jim Caviezel e veículos de direita",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Lula critica o financiamento do filme, que diz ter servido para sustentar Eduardo Bolsonaro nos EUA.",
+    "oposicao": "Bolsonaristas e o ator dizem que o governo persegue e tenta censurar o filme."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A acusação de Caviezel saiu só na direita (Gazeta do Povo, Diário do Poder, Revista Oeste). Não encontrado nos feeds nem na busca em Brasil 247, Brasil de Fato, CartaCapital, Fórum, DCM e ICL, que trataram do filme por outros ângulos.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ator de Dark Horse acusa governo Lula de agir para barrar exibição do filme",
+     "url": "https://www.gazetadopovo.com.br/republica/ator-de-dark-horse-acusa-governo-lula-de-agir-para-barrar-exibicao-do-filme/",
+     "angulo": "Gazeta: reproduz a acusação do ator.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Ator americano Jim Caviezel acusa Lula de tentar censurar filme sobre Bolsonaro",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/lsf-brasil/ator-acusa-lula-de-tentar-censurar-filme-sobre-bolsonaro",
+     "angulo": "Diário do Poder: adota o termo 'censurar'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Jim Caviezel defende Bolsonaro e acusa Lula de tentar impedir exibição de Dark Horse",
+     "url": "https://revistaoeste.com/politica/jim-caviezel-defende-bolsonaro-e-acusa-lula-de-tentar-impedir-exibicao-de-idark-horse-i/",
+     "angulo": "Oeste: a defesa de Bolsonaro pelo ator.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Com ‘Dark Horse’, Bolsonaro tem ‘universo cinematográfico’ que mistura dinheiro público e privado",
+     "url": "https://www.estadao.com.br/politica/dark-horse-bolsonaro-universo-cinematografico-mistura-dinheiro-publico-privado/",
+     "angulo": "Estadão: o financiamento dos filmes.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Redes de cinema rejeitam filme sobre Bolsonaro antes mesmo da estreia",
+     "url": "https://www.diariodocentrodomundo.com.br/redes-de-cinema-rejeitam-filme-sobre-bolsonaro-antes-mesmo-da-estreia/",
+     "angulo": "DCM, antes da acusação: exibidores resistem ao filme.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    }
+   ]
+  },
+  {
+   "id": "lula-diz-que-nao-levara-pobres-ao-sacrificio-antes-de-pronunciamento",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Lula diz que não levará 'povo pobre ao sacrifício' antes do pronunciamento sobre as contas públicas",
+   "lide": "Na véspera do pronunciamento em rede nacional, o presidente rejeitou a pressão do mercado por ajuste, e economistas divergem sobre como e quando ele virá. André Lara Resende negou ter conversado com Lula sobre sua proposta de cortar juros.",
+   "fatos": [
+    {
+     "texto": "Lula faz neste domingo (8) um pronunciamento em cadeia nacional sobre as contas públicas.",
+     "base": "4 fontes independentes (Estadão, Folha, Jovem Pan, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula não levará o 'povo pobre ao sacrifício' para atender à pressão do mercado por ajuste.",
+     "quem": "Lula, segundo o Opera Mundi"
+    },
+    {
+     "texto": "Não falei com Lula nem tenho nada marcado; a informação 'foi plantada para queimar' quem defendeu a proposta.",
+     "quem": "André Lara Resende, ao Terra"
+    },
+    {
+     "texto": "O Brasil perdeu a chance de um ajuste gradual, e ele virá 'no choque'.",
+     "quem": "Rodrigo Azevedo, cofundador da Ibiuna e ex-diretor do BC, à Exame e ao Valor"
+    },
+    {
+     "texto": "A proposta de Lara Resende de cortar a Selic 'na canetada' arrisca jogar o país num abismo cambial.",
+     "quem": "Paulo Gala, economista da FGV, ao Brasil 247"
+    },
+    {
+     "texto": "O plano de Lara Resende repete o 'pombinato' de 2011.",
+     "quem": "Coluna no Estadão"
+    },
+    {
+     "texto": "O ajuste em discussão tem medidas na mesa e outras fora do radar do presidente.",
+     "quem": "g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Lula promete equilíbrio sem sacrificar os mais pobres e rejeita a pressa do mercado.",
+    "oposicao": "Economistas de mercado e veículos de oposição dizem que, sem ajuste crível, a correção virá pela inflação."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "durigan-ganha-forca-para-seguir-na-fazenda-no-quarto-mandato",
+    "titulo": "Durigan ganha força para seguir na Fazenda no quarto mandato; Fonteles e Haddad também são cotados"
+   },
+   "materias": [
+    {
+     "fonte": "operamundi",
+     "titulo": "Lula rechaça pressão por ajuste e diz que não levará ‘povo pobre ao sacrifício’",
+     "url": "https://operamundi.uol.com.br/brasil/lula-rechaca-pressao-por-ajuste-fiscal-e-diz-que-nao-vai-levar-o-povo-pobre-a-nenhum-sacrificio/",
+     "angulo": "Opera Mundi: Lula rejeita o sacrifício dos pobres.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
+     "url": "https://www.terra.com.br/noticias/brasil/nao-falei-com-lula-nem-tenho-nada-marcado-isso-foi-plantado-para-queimar-alguem-que-defendeu-a-proposta-diz-economista-andre-lara-resende,90f78a238ac976f95f33b75fb50d14505vjybhq6.html",
+     "angulo": "Terra: Lara Resende diz que a notícia foi plantada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Há grande chance para que ajuste fiscal no Brasil ocorra pela disparada da inflação, diz Ibiuna Investimentos",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/07/ha-grande-chance-para-que-ajuste-fiscal-no-brasil-ocorra-pela-disparada-da-inflacao-diz-ibiuna-investimentos.ghtml",
+     "angulo": "Valor: o ajuste viria pela inflação, diz a Ibiuna.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "'Brasil perdeu chance de ajuste gradual. Vai ter que ser no choque', diz Rodrigo Azevedo",
+     "url": "https://exame.com/invest/mercados/brasil-perdeu-chance-de-ajuste-gradual-vai-ter-que-ser-no-choque-diz-rodrigo-azevedo/",
+     "angulo": "Exame: o ajuste 'no choque'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Pombini II – o retorno: o ‘plano’ de Lara Resende é só repeteco do pombinato",
+     "url": "https://www.estadao.com.br/economia/alexandre-schwartsman/pombini-ii-o-retorno-o-plano-de-lara-resende-e-so-repeteco-do-pombinato/",
+     "angulo": "Coluna no Estadão critica o plano de Lara Resende.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "A ilusão da ‘canetada’: Paulo Gala alerta que proposta de Lara Resende para cortar Selic arrisca jogar o Brasil no abismo cambial",
+     "url": "https://www.brasil247.com/economia/a-ilusao-da-canetada-paulo-gala-alerta-que-proposta-de-lara-resende-para-cortar-selic-arrisca-jogar-o-brasil-no-abismo-cambial/",
+     "angulo": "247: Paulo Gala contra cortar juros por decreto.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
+     "angulo": "g1: o que Lula considera e o que descarta.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "herzog-encarrega-eisenkot-de-formar-governo-em-israel",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Herzog encarrega Eisenkot, rival de Netanyahu, de tentar formar o novo governo de Israel",
+   "lide": "O ex-chefe militar tem 28 dias, prorrogáveis por mais 14, para montar uma coalizão. Parte da oposição rejeita depender dos partidos árabes, e Netanyahu pediu à sua base que o apoie.",
+   "fatos": [
+    {
+     "texto": "O presidente Isaac Herzog encarregou Gadi Eisenkot de tentar formar o próximo governo.",
+     "base": "4 fontes independentes (BBC, Al Jazeera, NYT, Revista Oeste)"
+    },
+    {
+     "texto": "Eisenkot tem 28 dias para montar a coalizão, com possível prorrogação de 14.",
+     "base": "2 fontes independentes (Washington Post, Veja)"
+    },
+    {
+     "texto": "Parte do bloco de oposição rejeita uma coalizão que dependa dos partidos árabes.",
+     "base": "3 fontes independentes (CNN Brasil, Band, DW Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Netanyahu pediu à coalizão que o apoia que forme governo, recuando da defesa de um governo amplo.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "A maioria dos israelenses votou contra o 'fascismo de Netanyahu'.",
+     "quem": "Ofer Cassif, deputado da Lista Conjunta, ao Página/12"
+    },
+    {
+     "texto": "Eisenkot é um general novato em política diante de desafios difíceis.",
+     "quem": "Le Monde"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Prazo de Eisenkot para formar governo.",
+     "rotulo": "Contraditório",
+     "explicacao": "Band e DW Brasil falam em 42 dias, que somam o prazo de 28 e a prorrogação de 14 citados pela Washington Post e pela Veja.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-06",
+    "id": "eisenkot-reune-67-apoios-para-formar-governo-em-israel",
+    "titulo": "Eisenkot reúne 67 apoios para formar governo em Israel; Herzog decide no domingo"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+     "angulo": "BBC: nenhum bloco tem maioria.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Presidente escolhe adversário de Netanyahu para formar governo em Israel",
+     "url": "https://revistaoeste.com/mundo/presidente-escolhe-adversario-de-netanyahu-para-formar-governo-em-israel/",
+     "angulo": "Oeste: a escolha de Herzog.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government",
+     "angulo": "Al Jazeera: Eisenkot preferido a Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Apoiado por árabes: quem é Gadi Eisenkot, rival de Netanyahu que deve vencê-lo",
+     "url": "https://www.diariodocentrodomundo.com.br/quem-e-gadi-eisenkot-formar-governo-israel/",
+     "angulo": "DCM: quem é Eisenkot.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government",
+     "url": "https://www.washingtonpost.com/world/2026/11/07/israeli-president-taps-ex-general-eisenkot-opponent-netanyahu-form-government/",
+     "angulo": "Washington Post: 28 dias, prorrogáveis por 14.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Netanyahu faz apelo e pede à coalizão que o apoia para formar governo em Israel",
+     "url": "https://jovempan.com.br/mundo/netanyahu-faz-apelo-e-pede-a-coalizao-que-o-apoia-para-formar-governo-em-israel/",
+     "angulo": "Jovem Pan: o apelo de Netanyahu à sua base.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Gadi Eisenkot terá que superar impasses para formar governo em Israel",
+     "url": "https://www.cnnbrasil.com.br/internacional/gadi-eisenkot-tera-que-superar-impasses-para-formar-governo-em-israel/",
+     "angulo": "CNN Brasil: parte da oposição rejeita os árabes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Israeli President Herzog Tasks Eisenkot with Forming Government in Setback for Netanyahu",
+     "url": "https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/",
+     "angulo": "Breitbart: revés para Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Ofer Cassif: “La mayoría de los israelíes votó contra el fascismo de Netanyahu”",
+     "url": "https://www.pagina12.com.ar/2026/11/07/ofer-cassif-la-mayoria-de-los-israelies-voto-contra-el-fascismo-de-netanyahu/",
+     "angulo": "Página/12: entrevista com deputado da Lista Conjunta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+     "url": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
+     "angulo": "Le Monde: os desafios de um general novato.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Presidente de Israel escolhe rival de Netanyahu para formar novo governo em Israel",
+     "url": "https://www.dw.com/pt-br/presidente-de-israel-escolhe-rival-de-netanyahu-para-formar-novo-governo-em-israel/a-79888526?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: aliança com árabes é improvável.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Netanyahu a um passo do fim: Eisenkot é escolhido por presidente de Israel para formar governo",
+     "url": "https://revistaforum.com.br/global/netanyahu-fim-eisenkot-israel-governo/",
+     "angulo": "Fórum: anuncia o fim de Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "id": "atirador-mata-seis-em-praca-de-cracovia-na-polonia",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Atirador mata seis na praça central de Cracóvia, e polícia acha mais três corpos em sua casa",
+   "lide": "Um polonês de 25 anos abriu fogo na Praça do Mercado no sábado (7) e foi baleado e preso pela polícia. O premiê Donald Tusk chamou o ataque de terrorismo, e autoridades dizem que o suspeito tinha ideias ultranacionalistas.",
+   "fatos": [
+    {
+     "texto": "Seis pessoas morreram no ataque a tiros na praça central de Cracóvia.",
+     "base": "4 fontes independentes (Guardian, BBC, NYT, g1)"
+    },
+    {
+     "texto": "A polícia encontrou três corpos na casa do suspeito.",
+     "base": "3 fontes independentes (Guardian, CNN Brasil, AFP)"
+    },
+    {
+     "texto": "O suspeito, um polonês de 25 anos, foi baleado e preso pela polícia.",
+     "base": "3 fontes independentes (BBC Brasil, Veja, DCM)"
+    },
+    {
+     "texto": "O premiê Donald Tusk chamou o ataque de ato de terrorismo.",
+     "base": "2 fontes independentes (Al Jazeera, FT)"
+    },
+    {
+     "texto": "O ministro do Interior disse que o suspeito era influenciado por ideologia de extrema direita.",
+     "base": "3 fontes independentes (Guardian, DW Brasil, Fórum)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "É o pior ataque a tiros no país desde a queda do comunismo.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "Os corpos na casa seriam de familiares do atirador.",
+     "quem": "Donald Tusk, segundo o SBT"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de feridos no ataque.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os veículos citam de 10 a 16 feridos conforme o horário do balanço.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+     "angulo": "Guardian: ideologia de extrema direita.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Tiroteio em praça de Cracóvia, na Polônia, deixa 6 mortos e 15 feridos",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/tiroteio-em-praca-de-cracovia-na-polonia-deixa-6-mortos-e-15-feridos.ghtml",
+     "angulo": "g1: 6 mortos e 15 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "What we know so far after Krakow gun attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+     "angulo": "BBC: o que se sabe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Polônia: atirador abre fogo, mata 6 e fere ao menos 15",
+     "url": "https://revistaoeste.com/mundo/polonia-atirador-abre-fogo-mata-6-e-fere-ao-menos-15/",
+     "angulo": "Oeste: 6 mortos e 15 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of",
+     "angulo": "Al Jazeera: Tusk fala em terrorismo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Atirador que matou 6 na Polônia é de extrema direita; mais 3 corpos foram achados em sua casa",
+     "url": "https://revistaforum.com.br/global/atirador-matou-6-polonia-extrema-direita/",
+     "angulo": "Fórum: destaca a extrema direita.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Horror in Poland: Three Bodies Found in Suspected Krakow Mass Shooter's Home",
+     "url": "https://www.breitbart.com/europe/2026/11/07/krakow-mass-shooting-suspect-identified-as-24-year-old-polish-man/",
+     "angulo": "Breitbart: os corpos na casa do suspeito.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Ataque a tiros deixa mortos em Cracóvia, na Polônia; agressor seria \"fascinado por ideologias de extrema direita\"",
+     "url": "https://www.dw.com/pt-br/ataque-a-tiros-deixa-mortos-em-cracóvia-na-polônia-agressor-seria-fascinado-por-ideologias-de-extrema-direita/a-79887404?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: 'fascinado por ideologias de extrema direita'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Ataque de atirador na Polônia deixa seis mortos e 16 feridos; veja vídeo",
+     "url": "https://jovempan.com.br/mundo/ataque-de-atirador-na-polonia-deixa-seis-mortos-e-16-feridos-veja-video/",
+     "angulo": "Jovem Pan: o pior ataque desde o comunismo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Gunman kills six in Kraków shooting",
+     "url": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
+     "angulo": "FT: Tusk pede que o caso não seja explorado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Três corpos são encontrados na casa de suspeito de ataque que matou seis na Polônia",
+     "url": "https://veja.abril.com.br/mundo/tres-corpos-sao-encontrados-na-casa-de-suspeito-de-ataque-que-matou-seis-na-polonia/",
+     "angulo": "Veja: posições ultranacionalistas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Tiroteio em praça central de Cracóvia deixa mortos e dezenas de feridos na Polônia",
+     "url": "https://www.brasil247.com/mundo/tiroteio-em-praca-central-de-cracovia-deixa-mortos-e-dezenas-de-feridos-na-polonia/",
+     "angulo": "247: luto oficial.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "justica-do-paraguai-decreta-prisao-preventiva-de-pena",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Justiça do Paraguai decreta prisão preventiva de Peña; Itaipu tinha quase R$ 1 bilhão no Ueno",
+   "lide": "O juiz atendeu ao Ministério Público, que acusou o ex-presidente de lesão de confiança e administração em benefício próprio no caso Ueno Bank. A margem paraguaia de Itaipu acionou a Justiça para recuperar os recursos depositados no banco.",
+   "fatos": [
+    {
+     "texto": "A Justiça do Paraguai decretou a prisão preventiva de Santiago Peña a pedido do Ministério Público.",
+     "base": "4 fontes independentes (Poder360, Veja, Revista Oeste, Jovem Pan)"
+    },
+    {
+     "texto": "O ex-presidente do Banco Central, Carlos Carvallo, também teve prisão preventiva decretada.",
+     "base": "2 fontes independentes (Poder360, CNN Brasil)"
+    },
+    {
+     "texto": "A margem paraguaia de Itaipu acionou a Justiça para recuperar recursos depositados no Ueno.",
+     "base": "3 fontes independentes (Jovem Pan, Metrópoles, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mais de 1 milhão de correntistas do Ueno já foram ressarcidos.",
+     "quem": "g1"
+    },
+    {
+     "texto": "O Ueno patrocinou um evento com Eduardo Bolsonaro num resort de Trump na Flórida.",
+     "quem": "Poder360"
+    },
+    {
+     "texto": "Peña pode acabar na prisão de Tacumbú.",
+     "quem": "La Nación"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Valor de Itaipu depositado no Ueno.",
+     "rotulo": "Contraditório",
+     "explicacao": "Jovem Pan fala em US$ 182 milhões, a Gazeta do Povo em US$ 163,8 milhões, e Metrópoles e Folha em quase R$ 1 bilhão.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A parte paraguaia de Itaipu, binacional com o Brasil, tinha recursos no Ueno, e o banco patrocinou um evento com Eduardo Bolsonaro nos EUA, segundo o Poder360.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "senado-destitui-pena-e-alliana-assume-a-presidencia-do-paraguai",
+    "titulo": "Senado destitui Peña por unanimidade, e Pedro Alliana assume a Presidência do Paraguai"
+   },
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Justiça do Paraguai determina prisão preventiva de Peña e ex-BC",
+     "url": "https://www.poder360.com.br/poder-internacional/justica-do-paraguai-determina-prisao-preventiva-de-pena-e-ex-bc/",
+     "angulo": "Poder360: Peña e o ex-chefe do BC.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Justiça decreta prisão preventiva de ex-presidente do Paraguai",
+     "url": "https://revistaoeste.com/mundo/justica-decreta-prisao-preventiva-de-ex-presidente-do-paraguai/",
+     "angulo": "Oeste: o juiz Humberto Otazú.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lado paraguaio de Itaipu mantém quase R$ 1 bilhão no Ueno Bank",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/lado-paraguaio-de-itaipu-mantem-quase-r-1-bilhao-no-ueno-bank.shtml",
+     "angulo": "Folha: quase R$ 1 bilhão no Ueno.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Juiz decreta prisão preventiva de Peña por risco de fuga",
+     "url": "https://www.brasil247.com/blog/juiz-decreta-prisao-preventiva-de-pena-por-risco-de-fuga/",
+     "angulo": "247: o risco de fuga.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
+     "url": "https://jovempan.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
+     "angulo": "Jovem Pan: US$ 182 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Itaipu denuncia diretores do Ueno Bank para recuperar US$ 163,8 milhões",
+     "url": "https://www.gazetadopovo.com.br/mundo/itaipu-denuncia-ueno-bank-recuperar-recursos/",
+     "angulo": "Gazeta: US$ 163,8 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Mais de 1 milhão de correntistas do Banco Ueno foram ressarcidos; crise impacta comércio do Paraguai",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/mais-de-1-milhao-de-correntistas-do-banco-ueno-foram-ressarcidos-crise-impacta-comercio-do-paraguai.ghtml",
+     "angulo": "g1: o ressarcimento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Ueno Bank patrocinou evento com Eduardo Bolsonaro nos EUA",
+     "url": "https://www.poder360.com.br/poder-internacional/ueno-bank-patrocinou-evento-com-eduardo-bolsonaro-nos-eua/",
+     "angulo": "Poder360: o evento com Eduardo Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Juiz do Paraguai decreta prisão preventiva do ex-chefe do Banco Central",
+     "url": "https://www.cnnbrasil.com.br/internacional/juiz-do-paraguai-decreta-prisao-preventiva-do-ex-chefe-do-banco-central/",
+     "angulo": "CNN Brasil: as acusações contra Carvallo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Peña detenido y custodiado por su propia guardia, con la cárcel de Tacumbú en el horizonte",
+     "url": "https://www.lanacion.com.ar/el-mundo/pena-detenido-y-custodiado-por-su-propia-guardia-con-la-carcel-de-tacumbu-en-el-horizonte-nid07112026/",
+     "angulo": "La Nación: Peña preso no regimento que o protegia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Justiça do Paraguai decreta prisão preventiva de Santiago Peña, ex-presidente",
+     "url": "https://veja.abril.com.br/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-ex-presidente/",
+     "angulo": "Veja: o pedido do MP.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Itaipu tinha saldo equivalente a R$ 1 bilhão em banco falido do Paraguai",
+     "url": "https://www.metropoles.com/mundo/itaipu-tinha-saldo-equivalente-a-r-1-bilhao-em-banco-falido-do-paraguai",
+     "angulo": "Metrópoles: o saldo de Itaipu.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "trump-convida-presidente-do-ufc-para-porta-voz-da-casa-branca",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump convida Dana White, presidente do UFC, para ser porta-voz da Casa Branca",
+   "lide": "O presidente fez o convite nas redes sociais e sugeriu que White levasse lutadores, entre eles a brasileira Amanda Nunes, para enfrentar a 'esquerda lunática'. A resposta de White ainda é incerta.",
+   "fatos": [
+    {
+     "texto": "Trump convidou Dana White para ser secretário de imprensa da Casa Branca.",
+     "base": "4 fontes independentes (FT, Al Jazeera, g1, Revista Fórum)"
+    },
+    {
+     "texto": "Trump sugeriu que White levasse lutadores do UFC como assessores, entre eles a brasileira Amanda Nunes.",
+     "base": "2 fontes independentes (InfoMoney, Veja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O convite sinaliza uma abordagem combativa depois da derrota nas eleições.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Dana White recusou o convite.",
+     "rotulo": "Contraditório",
+     "explicacao": "CNN Brasil, citando fonte, e o Brasil 247 dizem que ele recusou; UOL, Al Jazeera e New York Post dizem que ele vai se reunir com Trump para discutir a oferta.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    },
+    {
+     "alegacao": "O cargo de secretário de imprensa está vago.",
+     "rotulo": "Contraditório",
+     "explicacao": "Clarín e Veja dizem que está vago desde 16 de outubro, enquanto a Jovem Pan diz que Katie Zacharia ocupa o posto.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "Trump citou a lutadora brasileira Amanda Nunes entre os possíveis assessores.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "trump-troca-susie-wiles-por-stephen-miller-na-chefia-de-gabinete",
+    "titulo": "Trump troca Susie Wiles por Stephen Miller na chefia de gabinete da Casa Branca"
+   },
+   "materias": [
+    {
+     "fonte": "ft",
+     "titulo": "Trump asks UFC boss Dana White to be new press secretary",
+     "url": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+     "angulo": "FT: abordagem combativa depois da derrota.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump convida presidente do UFC para o cargo de porta-voz da Casa Branca",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/07/trump-convida-presidente-do-ufc-para-o-cargo-de-porta-voz-da-casa-branca.ghtml",
+     "angulo": "g1: o convite.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Chefe do UFC recusa oferta de Trump para cargo na Casa Branca, diz fonte",
+     "url": "https://www.cnnbrasil.com.br/internacional/chefe-do-ufc-recusa-oferta-de-trump-para-cargo-na-casa-branca-diz-fonte/",
+     "angulo": "CNN Brasil: White recusaria, diz fonte.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Dana White reveals he’s flying to DC ‘right now’ after Trump offered him press secretary gig",
+     "url": "https://nypost.com/2026/11/07/us-news/dana-white-reveals-hes-flying-to-dc-right-now-after-trump-offered-him-press-secretary-gig/",
+     "angulo": "New York Post: White vai a Washington.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Dana White recusa convite de Donald Trump para ser porta-voz da Casa Branca",
+     "url": "https://www.brasil247.com/mundo/dana-white-recusa-convite-de-donald-trump-para-ser-porta-voz-da-casa-branca/",
+     "angulo": "247: a recusa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Trump oferece cargo a chefe do UFC e sugere lutadores para combater ‘esquerda lunática’",
+     "url": "https://veja.abril.com.br/mundo/trump-oferece-cargo-a-chefe-do-ufc-e-sugere-lutadores-para-combater-esquerda-lunatica/",
+     "angulo": "Veja: a 'esquerda lunática'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump asks UFC chief Dana White to be White House press secretary",
+     "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary",
+     "angulo": "Al Jazeera: a reunião de segunda.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Trump oferece ao presidente do UFC cargo de porta-voz da Casa Branca",
+     "url": "https://jovempan.com.br/mundo/trump-oferece-ao-presidente-do-ufc-cargo-de-porta-voz-da-casa-branca/",
+     "angulo": "Jovem Pan: diz que o cargo é ocupado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente",
+     "url": "https://www.infomoney.com.br/mundo/trump-convida-ceo-do-ufc-para-secretario-de-imprensa-e-amanda-nunes-para-assistente/",
+     "angulo": "InfoMoney: Amanda Nunes como assistente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Trump convida Dana White, do UFC, para ser secretário de Imprensa da Casa Branca",
+     "url": "https://revistaforum.com.br/global/trump-dana-white-ufc-secretario-imprensa/",
+     "angulo": "Fórum: movimento 'heterodoxo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Trump le ofreció el puesto de secretario de Prensa al presidente de la UFC, Dana White, y le pidió \"por favor\" que acepte",
+     "url": "https://www.clarin.com/mundo/trump-ofrecio-ofrecio-puesto-secretario-prensa-presidente-ufc-dana-white-pidio-favor-acepte_0_LoNf0ZTbbl.html",
+     "angulo": "Clarín: o cargo vago desde 16 de outubro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-07"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Presidente do UFC diz que discutirá cargo na Casa Branca com Trump amanhã",
+     "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/08/presidente-do-ufc-vai-discutir-cargo-na-casa-branca-com-trump.ghtm",
+     "angulo": "UOL: White discutirá o cargo com Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  }
+ ]
+}

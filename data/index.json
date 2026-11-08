@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-07T08:59:39+00:00",
+ "atualizado_em": "2026-11-08T08:56:38+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-08",
+   "arquivo": "data/edicoes/2026-11-08.json",
+   "historias": 10,
+   "gerado_em": "2026-11-08T05:56:37-03:00",
+   "manchete": "Milton Leite é indiciado por suspeita de elo com o PCC no transporte de São Paulo"
+  },
   {
    "data": "2026-11-07",
    "arquivo": "data/edicoes/2026-11-07.json",
