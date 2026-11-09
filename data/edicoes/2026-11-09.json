@@ -1,0 +1,1277 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-09",
+ "gerado_em": "2026-11-09T05:58:54-03:00",
+ "historias": [
+  {
+   "id": "lula-promete-responsabilidade-fiscal-e-ataca-big-techs-na-tv",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Lula promete responsabilidade fiscal na TV, sem medidas, e acusa big techs de interferir na eleição",
+   "lide": "No primeiro pronunciamento em rede nacional desde a reeleição, Lula disse se preocupar com a dívida pública e os juros, mas não anunciou medidas. Também acusou as big techs de interferir na eleição e cobrou credibilidade do Judiciário.",
+   "fatos": [
+    {
+     "texto": "Lula disse se preocupar com a trajetória da dívida pública e com a taxa de juros e reafirmou compromisso com a responsabilidade fiscal, sem detalhar medidas.",
+     "base": "4 fontes independentes (g1, Folha, CNN Brasil, Exame)"
+    },
+    {
+     "texto": "Lula acusou as big techs de tentar interferir nas eleições de 2026.",
+     "base": "3 fontes independentes (Gazeta do Povo, Revista Oeste, Poder360)"
+    },
+    {
+     "texto": "Lula defendeu reformas política e do Judiciário e disse que é hora de a Justiça 'recuperar a sua credibilidade'.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Folha)"
+    },
+    {
+     "texto": "Sem citar o nome, Lula fez crítica indireta a Flávio Bolsonaro, que está nos EUA.",
+     "base": "3 fontes independentes (Poder360, Veja, Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O pronunciamento teve tom eleitoral e retomou promessas de campanha sem explicar como financiá-las.",
+     "quem": "Poder360"
+    },
+    {
+     "texto": "Um dos objetivos do governo será elevar a taxa de investimento.",
+     "quem": "Lula, segundo o InfoMoney"
+    },
+    {
+     "texto": "As palavras de Lula são insuficientes para tranquilizar o país.",
+     "quem": "Editorial de O Globo"
+    },
+    {
+     "texto": "Lula precisa convencer que o compromisso fiscal vai além do discurso.",
+     "quem": "Análise do Estadão"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Big techs interferiram nas eleições de 2026.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Lula não apresentou provas no pronunciamento; a Revista Oeste ressalta a ausência delas. Não há, até agora, conclusão de investigação sobre isso.",
+     "onde_circula": "pronunciamento do presidente",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados destacam o aceno ao mercado, as promessas sociais e a defesa da soberania.",
+    "oposicao": "Veículos de oposição destacam a acusação sem provas às big techs e a falta de medidas fiscais concretas."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-08",
+    "id": "lula-diz-que-nao-levara-pobres-ao-sacrificio-antes-de-pronunciamento",
+    "titulo": "Lula diz que não levará 'povo pobre ao sacrifício' antes do pronunciamento sobre as contas públicas"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Lula diz que se preocupa com dívida pública e juros e reafirma responsabilidade fiscal",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/08/lula-fala-em-pronunciamento-em-rede-nacional-de-radio-e-tv.ghtml",
+     "angulo": "g1: dívida e juros, sem detalhar medidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Lula ataca big techs e reclama de tentativa de interferência nas eleições",
+     "url": "https://revistaoeste.com/politica/lula-ataca-embig-techs-em-e-reclama-de-tentativa-de-interferencia-nas-eleicoes/",
+     "angulo": "Oeste: 'sem provas' contra as big techs.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Na TV, Lula promete responsabilidade fiscal, manda indireta a Flávio e cobra Judiciário ético e isento",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml",
+     "angulo": "Folha: fiscal, indireta a Flávio e Judiciário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Em 1º pronunciamento à nação após reeleito, Lula reafirma que ‘Brasil não cabe no quintal de ninguém’",
+     "url": "https://operamundi.uol.com.br/brasil/em-1o-pronunciamento-a-nacao-apos-reeleito-lula-reafirma-que-brasil-nao-cabe-no-quintal-de-ninguem/",
+     "angulo": "Opera Mundi: soberania no centro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lula acusa big techs de interferência nas eleições e manda indireta para Flávio em pronunciamento",
+     "url": "https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/",
+     "angulo": "Gazeta do Povo: big techs e Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
+     "url": "https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/",
+     "angulo": "Estadão: o fiscal precisa sair do discurso.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "VÍDEO: 1º Pronunciamento de Lula após vitória épica gera emoção nas redes",
+     "url": "https://revistaforum.com.br/politica/pronunciamento-lula-vitoria-epica-emocao/",
+     "angulo": "Fórum: emoção nas redes.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Lula faz pronunciamento em tom eleitoral e enfatiza programas sociais",
+     "url": "https://www.poder360.com.br/poder-governo/lula-faz-pronunciamento-em-tom-eleitoral-e-enfatiza-programas-sociais/",
+     "angulo": "Poder360: tom eleitoral e programas sociais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Palavras de Lula são insuficientes para tranquilizar o país",
+     "url": "https://oglobo.globo.com/opiniao/editorial/coluna/2026/11/palavras-de-lula-sao-insuficientes-para-tranquilizar-o-pais.ghtml",
+     "angulo": "O Globo: editorial cobra medidas.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros",
+     "url": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/",
+     "angulo": "InfoMoney: a taxa de investimento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Lula diz que Justiça brasileira precisa “recuperar sua credibilidade”",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-justica-brasileira-precisa-recuperar-sua-credibilidade/",
+     "angulo": "CNN Brasil: o recado ao Judiciário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Lula acena ao mercado, promete responsabilidade fiscal e alfineta Flávio Bolsonaro em pronunciamento",
+     "url": "https://veja.abril.com.br/brasil/lula-acena-ao-mercado-promete-responsabilidade-fiscal-e-alfineta-flavio-bolsonaro-em-pronunciamento/",
+     "angulo": "Veja: aceno ao mercado e alfinetada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "enem-2026-tem-sus-na-redacao-e-abstencao-de-32",
+   "editoria": "Educação",
+   "escopo": "brasil",
+   "titulo": "Enem 2026 tem o SUS como tema da redação e abstenção de 32%, a maior desde a pandemia",
+   "lide": "O tema da redação do primeiro dia foi 'A valorização do Sistema Único de Saúde (SUS) como direito universal'. A abstenção de 32% foi a maior desde 2020, e o MEC a atribui à inscrição automática de alunos da rede pública.",
+   "fatos": [
+    {
+     "texto": "O tema da redação foi 'A valorização do Sistema Único de Saúde (SUS) como direito universal'.",
+     "base": "4 fontes independentes (O Globo, Jovem Pan, Gazeta do Povo, Brasil de Fato)"
+    },
+    {
+     "texto": "A abstenção no primeiro dia foi de 32%, a maior desde 2020.",
+     "base": "4 fontes independentes (CNN Brasil, Metrópoles, SBT, Poder360)"
+    },
+    {
+     "texto": "O MEC atribuiu o aumento da abstenção à inscrição automática de alunos da rede pública.",
+     "base": "3 fontes independentes (Jovem Pan, Band, CNN Brasil)"
+    },
+    {
+     "texto": "Questões da prova trataram do MST e da Lei Rouanet.",
+     "base": "2 fontes independentes (O Antagonista, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "4.359 candidatos foram eliminados no primeiro dia.",
+     "quem": "MEC, segundo o Poder360 e o g1"
+    },
+    {
+     "texto": "A proposta de redação rompe com o formato recente de temas sobre minorias sociais.",
+     "quem": "Professores ouvidos pela Folha"
+    },
+    {
+     "texto": "O tema traz reflexão importante sobre saúde como direito.",
+     "quem": "Lula"
+    },
+    {
+     "texto": "Uma estudante de 16 anos morreu após passar mal durante a prova na Bahia.",
+     "quem": "Terra"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Lula e governistas celebraram o tema da redação ('Viva o SUS').",
+    "oposicao": "Veículos de direita destacam questões sobre MST e Lei Rouanet como viés ideológico da prova."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-08",
+    "id": "enem-2026-tem-primeiro-dia-de-provas-neste-domingo",
+    "titulo": "Enem 2026 tem neste domingo o primeiro dia de provas, com redação e 90 questões"
+   },
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Tema da Redação Enem 2026 é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/tema-da-redacao-enem-2026-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml",
+     "angulo": "O Globo: o tema da redação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Enem tem aumento de ausentes; MEC atribui à inscrição automática da rede pública",
+     "url": "https://jovempan.com.br/educacao/enem-tem-aumento-de-ausentes-mec-atribui-a-inscricao-automatica-da-rede-publica/",
+     "angulo": "Jovem Pan: o MEC culpa a inscrição automática.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘A valorização do Sistema Único de Saúde como direito universal’ é tema de redação do Enem 2026",
+     "url": "https://www.brasildefato.com.br/2026/11/08/a-valorizacao-do-sistema-unico-de-saude-como-direito-universal-e-tema-de-redacao-do-enem-2026/",
+     "angulo": "Brasil de Fato: o tema da redação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "MST, Lei Rouanet e valorização do SUS aparecem em questões do Enem",
+     "url": "https://oantagonista.com.br/brasil/mst-lei-rouanet-e-valorizacao-do-sus-aparecem-em-questoes-do-enem/",
+     "angulo": "O Antagonista: as questões sobre MST e Rouanet.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Enem 2026: abstenção cresce para 32% no 1º dia, diz ministro da Educação",
+     "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-abstencao-cresce-para-32-no-1o-dia-diz-ministro-da-educacao/",
+     "angulo": "CNN Brasil: o número do ministro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Inep escolhe valorização do SUS como tema da redação do Enem",
+     "url": "https://www.gazetadopovo.com.br/educacao/inep-escolhe-valorizacao-do-sus-como-tema-da-redacao-do-enem/",
+     "angulo": "Gazeta do Povo: a escolha do Inep.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "“Viva o SUS”: Lula celebra tema da redação do Enem 2026",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-celebra-tema-redacao-enem-sus/",
+     "angulo": "DCM: a reação de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Proposta da redação do Enem rompe com formato recente sobre minorias sociais, dizem professores",
+     "url": "https://www1.folha.uol.com.br/educacao/2026/11/proposta-da-redacao-do-enem-rompe-com-formato-recente-sobre-minorias-sociais-dizem-professores.shtml",
+     "angulo": "Folha: professores veem mudança de formato.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Enem 2026: abstenção chega a 32% no 1º dia e é a maior desde a pandemia",
+     "url": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia",
+     "angulo": "Metrópoles: maior desde a pandemia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Enem 2026 tem 4.359 candidatos eliminados no 1º dia",
+     "url": "https://www.poder360.com.br/poder-educacao/enem-2026-tem-4-359-candidatos-eliminados-no-1o-dia/",
+     "angulo": "Poder360: os eliminados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Enem 2026 aborda MST, Lei Rouanet e SUS em questões do primeiro dia",
+     "url": "https://terrabrasilnoticias.com/2026/11/enem-2026-aborda-mst-lei-rouanet-e-sus-em-questoes-do-primeiro-dia/",
+     "angulo": "Terra Brasil: MST, Rouanet e SUS nas questões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Adolescente de 16 anos morre após passar mal durante prova do Enem na Bahia",
+     "url": "https://www.terra.com.br/noticias/brasil/adolescente-de-16-anos-morre-apos-passar-mal-durante-prova-do-enem-na-bahia,e88b2319d9aaec61c5ff93b36a5ab41cw5tsknvs.html",
+     "angulo": "Terra: a morte de uma estudante na Bahia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "quaest-48-aprovam-e-44-desaprovam-governo-lula",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Quaest: 48% aprovam e 44% desaprovam o governo Lula na primeira pesquisa após a eleição",
+   "lide": "A pesquisa também mostra que 81% acham que o país saiu dividido da eleição e que 62% reprovam a ida de Flávio Bolsonaro aos EUA. Para 61%, as eleições foram limpas e justas.",
+   "fatos": [
+    {
+     "texto": "48% aprovam e 44% desaprovam o governo Lula.",
+     "base": "4 fontes independentes (g1, CNN Brasil, DCM, O Antagonista)"
+    },
+    {
+     "texto": "81% dizem que o Brasil saiu mais dividido das eleições.",
+     "base": "3 fontes independentes (O Globo, Gazeta do Povo, CartaCapital)"
+    },
+    {
+     "texto": "62% consideram errada a ida de Flávio Bolsonaro aos EUA, e 56% acham que ele saiu para fugir da Justiça.",
+     "base": "4 fontes independentes (Poder360, Band, Estadão, Valor)"
+    },
+    {
+     "texto": "61% dizem que as eleições foram limpas e justas, e 59% reprovam o questionamento de Flávio ao resultado.",
+     "base": "3 fontes independentes (CartaCapital, Estado de Minas, Poder360)"
+    },
+    {
+     "texto": "A Quaest ouviu 2.004 pessoas de 30 de outubro a 2 de novembro; a margem de erro é de dois pontos.",
+     "base": "2 fontes independentes (CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "Pela primeira vez no terceiro mandato, a parcela que espera melhora na economia iguala a que espera piora.",
+     "base": "2 fontes independentes (Terra Brasil, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A base que votou em Flávio no segundo turno está rachada depois da ida aos EUA.",
+     "quem": "Felipe Nunes, CEO da Quaest, segundo o Terra"
+    },
+    {
+     "texto": "Lula começa o novo mandato com aprovação mais apertada.",
+     "quem": "O Antagonista"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados destacam que 94% torcem por um bom governo e que a maioria reprova a 'fuga' de Flávio.",
+    "oposicao": "Veículos de oposição destacam a margem estreita da aprovação e o pessimismo com a economia."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml",
+     "angulo": "g1: aprovação e desaprovação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Lula inicia novo mandato com aprovação mais apertada, aponta Quaest",
+     "url": "https://oantagonista.com.br/brasil/lula-inicia-novo-mandato-com-aprovacao-mais-apertada-aponta-quaest/",
+     "angulo": "O Antagonista: a margem estreita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Fuga de Flávio Bolsonaro aos EUA é rejeitada por 62% dos brasileiros, diz Quaest",
+     "url": "https://operamundi.uol.com.br/brasil/fuga-de-flavio-bolsonaro-aos-eua-e-rejeitada-por-62-dos-brasileiros-diz-quaest/",
+     "angulo": "Opera Mundi: a rejeição à ida de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Quaest: 81% dizem que Brasil saiu mais dividido das eleições",
+     "url": "https://www.gazetadopovo.com.br/republica/quaest-81-dizem-que-brasil-saiu-mais-dividido-das-eleicoes/",
+     "angulo": "Gazeta do Povo: a divisão do país.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lula tem 48% de aprovação e 44% de desaprovação, diz Quaest",
+     "url": "https://www.diariodocentrodomundo.com.br/quaest-aprovacao-governo-lula-48-44-pos-eleicao/",
+     "angulo": "DCM: os 94% que torcem pelo governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Quaest aponta divisão entre brasileiros sobre perspectivas para a economia após reeleição de Lula",
+     "url": "https://terrabrasilnoticias.com/2026/11/quaest-aponta-divisao-entre-brasileiros-sobre-perspectivas-para-a-economia-apos-reeleicao-de-lula/",
+     "angulo": "Terra Brasil: as expectativas para a economia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Oito a cada dez brasileiros acham que país sai dividido da eleição de 2026, diz pesquisa Quaest",
+     "url": "https://oglobo.globo.com/blogs/pulso/post/2026/11/oito-a-cada-dez-brasileiros-acham-que-pais-sai-dividido-da-eleicao-de-2026-diz-pesquisa-quaest.ghtml",
+     "angulo": "O Globo: 81% veem o país dividido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Eleições foram ‘limpas e justas’ para 61% dos brasileiros, aponta Quaest",
+     "url": "https://www.cartacapital.com.br/politica/eleicoes-foram-limpas-e-justas-para-61-dos-brasileiros-aponta-quaest/",
+     "angulo": "CartaCapital: 61% veem eleições limpas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "62% consideram errada fuga de Flávio para os EUA, diz Quaest",
+     "url": "https://www.poder360.com.br/poder-congresso/62-consideram-errada-fuga-de-flavio-para-os-eua-diz-quaest/",
+     "angulo": "Poder360: 56% acham que Flávio fugiu da Justiça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Eleitores citam expectativa de piora na economia após reeleição de Lula, diz Quaest",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/eleitores-citam-expectativa-de-piora-na-economia-apos-reeleicao-de-lula-diz-quaest.shtml",
+     "angulo": "Folha: expectativa de piora na economia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
+     "url": "https://www.estadao.com.br/politica/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest/",
+     "angulo": "Estadão: reprovação, fuga e eleições limpas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Quaest: primeira pesquisa após as eleições mostra uma divisão na direita; entenda",
+     "url": "https://www.infomoney.com.br/politica/quaest-primeira-pesquisa-apos-as-eleicoes-mostra-uma-divisao-na-direita-entenda/",
+     "angulo": "InfoMoney: a direita dividida.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pf-investiga-ameacas-de-morte-e-estupro-contra-ana-elisa",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "PF investiga ameaças de morte e estupro contra a deputada eleita Ana Elisa; TRE-MG suspende inquérito contra ela",
+   "lide": "A Polícia Federal apura ameaças que a deputada federal eleita pelo PT de Minas recebeu por e-mail e pede cooperação internacional. No mesmo dia, o TRE-MG suspendeu o inquérito aberto contra ela após notícia-crime de Flávio Bolsonaro.",
+   "fatos": [
+    {
+     "texto": "A Polícia Federal informou que investiga as ameaças de morte e estupro divulgadas por Ana Elisa (PT-MG).",
+     "base": "4 fontes independentes (g1, CNN Brasil, Jovem Pan, Agência Brasil)"
+    },
+    {
+     "texto": "A PF disse buscar cooperação internacional para identificar os responsáveis.",
+     "base": "2 fontes independentes (SBT, Brasil 247)"
+    },
+    {
+     "texto": "O Ministério da Justiça e o Ministério dos Direitos Humanos cobraram a investigação das ameaças.",
+     "base": "3 fontes independentes (Brasil 247, Veja, A Tarde)"
+    },
+    {
+     "texto": "O TRE-MG suspendeu o inquérito da PF contra Ana Elisa aberto após notícia-crime de Flávio Bolsonaro sobre posts dela.",
+     "base": "3 fontes independentes (CartaCapital, O Antagonista, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Não há indícios suficientes de que a deputada eleita soubesse do conteúdo das publicações investigadas.",
+     "quem": "Desembargador do TRE-MG, segundo a CartaCapital"
+    },
+    {
+     "texto": "As ameaças vêm desde a campanha e levaram a deputada a usar escolta armada em tempo integral.",
+     "quem": "Ana Elisa, segundo a CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governo e aliados tratam o caso como violência política racista e misógina e cobram punição.",
+    "oposicao": "Veículos de direita noticiam a investigação das ameaças e a suspensão do inquérito sem tomar partido; o inquérito contra ela partiu de notícia-crime de Flávio."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-05",
+    "id": "justica-manda-tirar-do-ar-listas-de-boicote-a-petistas",
+    "titulo": "Justiça manda tirar do ar listas de boicote a petistas; shows de dupla que apoiou Flávio são cancelados"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "PF diz que investiga ameaças contra deputada eleita Ana Elisa",
+     "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/08/pf-diz-que-investiga-ameacas-contra-deputada-eleita-ana-elisa.ghtml",
+     "angulo": "g1: a nota da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Ministério pede investigação de ameaças contra deputada petista de MG",
+     "url": "https://revistaoeste.com/politica/ministerio-pede-investigacao-de-ameacas-contra-deputada-petista-de-mg/",
+     "angulo": "Oeste: o pedido do ministério.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Ameaças de estupro e morte contra Ana Elisa são investigadas pela PF",
+     "url": "https://www.diariodocentrodomundo.com.br/pf-investiga-ameacas-estupro-morte-deputada-eleita-ana-elisa/",
+     "angulo": "DCM: ataques racistas e diligências da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "PF investiga ameaças recebidas pela deputada eleita Ana Elisa",
+     "url": "https://jovempan.com.br/politica/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa-de-mg/",
+     "angulo": "Jovem Pan: o vídeo da deputada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "TRE de Minas Gerais suspende investigação da PF contra deputada Ana Elisa",
+     "url": "https://www.brasil247.com/poder/tre-de-minas-gerais-suspende-investigacao-da-policia-federal-contra-ana-elisa/",
+     "angulo": "247: o habeas corpus contra a notícia-crime de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Lula pede para PF apurar ameaças de morte a deputada eleita por MG",
+     "url": "https://www.gazetadopovo.com.br/republica/governo-lula-pf-ameacas-morte-deputada-eleita-mg/",
+     "angulo": "Gazeta do Povo: o governo aciona a PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PF investiga ameaças de morte e estupro contra a deputada eleita Ana Elisa",
+     "url": "https://www.cnnbrasil.com.br/politica/pf-investiga-ameacas-de-morte-e-estupro-contra-a-deputada-eleita-ana-elisa/",
+     "angulo": "CNN Brasil: ameaças desde a campanha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "TRE-MG manda suspender inquérito sobre posts de Ana Elisa",
+     "url": "https://oantagonista.com.br/brasil/tre-mg-manda-suspender-inquerito-sobre-posts-de-ana-elisa/",
+     "angulo": "O Antagonista: a decisão do desembargador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "TRE-MG suspende investigação da PF contra Ana Elisa (PT) por posts sobre Nossa Senhora",
+     "url": "https://www.cartacapital.com.br/justica/tre-mg-suspende-investigacao-da-pf-contra-ana-elisa-pt-por-posts-sobre-nossa-senhora/",
+     "angulo": "CartaCapital: os posts sobre Nossa Senhora.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Ministério dos Direitos Humanos cobra investigação de ameaças contra Ana Elisa",
+     "url": "https://veja.abril.com.br/politica/ministerio-dos-direitos-humanos-cobra-investigacao-de-ameacas-contra-ana-elisa/",
+     "angulo": "Veja: a cobrança do ministério.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "PF investiga ameaças recebidas pela deputada eleita Ana Elisa",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa",
+     "angulo": "Agência Brasil: a nota da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Ana Elisa cita Marielle Franco e diz que não será silenciada após ameaças",
+     "url": "https://www.metropoles.com/minas-gerais/ana-elisa-cita-marielle-franco-e-diz-que-nao-sera-silenciada-apos-ameacas",
+     "angulo": "Metrópoles: 'não serei silenciada'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "papa-leao-xiv-critica-austeridade-de-milei-na-argentina",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Na Argentina, papa Leão XIV diz a Milei que a economia deve servir às pessoas",
+   "lide": "Recebido por Javier Milei em Buenos Aires, na primeira visita papal ao país desde 1987, o papa disse que a economia deve estar a serviço da pessoa e pediu defesa da democracia. A imprensa estrangeira leu o discurso como crítica à austeridade do governo.",
+   "fatos": [
+    {
+     "texto": "Leão XIV chegou à Argentina no domingo e foi recebido por Milei; é a primeira visita de um papa ao país desde 1987.",
+     "base": "3 fontes independentes (Poder360, CNN Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "Diante de Milei, o papa disse que a economia deve estar a serviço da pessoa, e não o contrário.",
+     "base": "3 fontes independentes (Le Monde, Folha, O Globo)"
+    },
+    {
+     "texto": "O papa disse que líderes devem conhecer os limites do poder e pediu a defesa da democracia.",
+     "base": "3 fontes independentes (Al Jazeera, CNN Brasil, Revista Fórum)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O discurso foi uma crítica velada às medidas de austeridade de Milei.",
+     "quem": "BBC e Guardian"
+    },
+    {
+     "texto": "O papa também alertou para o crime organizado e a desigualdade no país.",
+     "quem": "Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A Bloomberg nota que o papa pediu unidade latino-americana enquanto Milei ignora a vitória de Lula no Brasil.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "papa-leao-xiv-comeca-viagem-de-12-dias-pela-america-do-sul",
+    "titulo": "Papa Leão XIV começa pelo Uruguai uma viagem de 12 dias pela América do Sul"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Pope delivers veiled rebuke of Milei's austerity measures",
+     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo",
+     "angulo": "BBC: 'crítica velada' à austeridade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Papa Leão XIV alerta para crime organizado e desigualdade na Argentina",
+     "url": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-alerta-para-crime-organizado-e-desigualdade-na-argentina/",
+     "angulo": "Gazeta do Povo: crime organizado e desigualdade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+     "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "angulo": "Guardian: 'duro recado' a Milei.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Milei recebe Leão XIV e presta homenagem a Francisco",
+     "url": "https://revistaoeste.com/mundo/milei-recebe-leao-xiv-e-presta-homenagem-a-francisco/",
+     "angulo": "Oeste: a recepção e a homenagem a Francisco.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "En Argentine, la leçon du pape Léon XIV à Javier Milei : « l’économie doit être au service de la personne et non la personne au service de l’économie »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html",
+     "angulo": "Le Monde: a 'lição' do papa a Milei.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Papa Leão XIV dá recado direto a Milei e cobra preservação da democracia",
+     "url": "https://revistaforum.com.br/revista-forum/papa-leao-recado-milei-democracia/",
+     "angulo": "Fórum: o recado sobre democracia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Papa Leão 14 chega à Argentina e é recebido por Milei",
+     "url": "https://www.poder360.com.br/poder-internacional/papa-leao-14-chega-a-argentina-e-e-recebido-por-milei/",
+     "angulo": "Poder360: a chegada e a recepção.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Pope tells Argentina’s Milei leaders should know limits of power",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power",
+     "angulo": "Al Jazeera: limites do poder.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Pope in Argentina: Leo Urges Unity as Milei Ignores Lula Win in Brazil",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/pope-in-argentina-leo-urges-unity-as-milei-ignores-lula-win-in-brazil",
+     "angulo": "Bloomberg: unidade regional e o silêncio de Milei sobre Lula.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Em recados a Milei, Papa Leão XIV pede 'cuidado com a palavra', limites ao poder e diz que economia deve servir as pessoas",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/08/em-recados-a-milei-papa-leao-xiv-pede-cuidado-com-a-palavra-limites-ao-poder-e-diz-que-economia-deve-servir-as-pessoas.ghtml",
+     "angulo": "O Globo: 'cuidado com a palavra' e limites ao poder.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Na Argentina, papa pede defesa da democracia e que líderes saibam limites",
+     "url": "https://www.cnnbrasil.com.br/internacional/na-argentina-papa-pede-defesa-da-democracia-e-que-lideres-saibam-limites/",
+     "angulo": "CNN Brasil: democracia e limites.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "'Economia deve estar a serviço das pessoas', não o contrário, diz Leão em frente a Milei",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/papa-leao-14-chega-a-uma-argentina-orfa-da-visita-de-francisco.shtml",
+     "angulo": "Folha: a frase central do discurso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "ceo-da-nvidia-admite-caso-com-suposta-espia-chinesa",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "CEO da Nvidia admite caso com mulher suspeita de espionagem para a China, e empresa abre investigação",
+   "lide": "Jensen Huang confirmou a funcionários um relacionamento extraconjugal com uma empresária apontada como espiã chinesa. O conselho da Nvidia abriu investigação independente, e Trump defendeu que ele siga no cargo.",
+   "fatos": [
+    {
+     "texto": "Jensen Huang admitiu, em mensagem interna, ter tido um caso extraconjugal com uma mulher suspeita de espionar para a China.",
+     "base": "3 fontes independentes (Financial Times, Le Monde, O Globo)"
+    },
+    {
+     "texto": "O conselho da Nvidia abriu investigação independente para apurar se Huang foi alvo de inteligência estrangeira.",
+     "base": "4 fontes independentes (Guardian, AFP, Valor, CNN Brasil)"
+    },
+    {
+     "texto": "Trump defendeu Huang e disse que ele deve continuar no comando da empresa.",
+     "base": "3 fontes independentes (Al Jazeera, Axios, Bloomberg)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Senado americano vai investigar o caso.",
+     "quem": "Le Figaro"
+    },
+    {
+     "texto": "Pequim não tem ligação com o caso, e a acusação ameaça as relações bilaterais.",
+     "quem": "Jornal estatal chinês, segundo a Bloomberg"
+    },
+    {
+     "texto": "Os mercados asiáticos podem sofrer pressão após a investigação.",
+     "quem": "InfoMoney"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A mulher com quem Huang se relacionou é espiã a serviço da China.",
+     "rotulo": "Em apuração",
+     "explicacao": "A suspeita vem de reportagens e é objeto de investigação da empresa; Pequim nega ligação.",
+     "onde_circula": "imprensa internacional",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A Nvidia fabrica os chips usados para treinar a maioria dos modelos de IA; a crise afeta o setor de tecnologia também no Brasil.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "ft",
+     "titulo": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+     "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+     "angulo": "FT: a admissão e a investigação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Nvidia investiga suspeita de espionagem envolvendo CEO",
+     "url": "https://revistaoeste.com/mundo/nvidia-investiga-suspeita-de-espionagem-envolvendo-ceo/",
+     "angulo": "Oeste: a investigação independente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+     "angulo": "Guardian: alvo de inteligência estrangeira.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "CEO da Nvidia admite ter traído a esposa; saiba quem é a suposta espiã chinesa",
+     "url": "https://www.brasil247.com/mundo/jensen-huang-admite-relacionamento-extraconjugal-apos-acusacoes-de-ligacao-com-suposta-espia-chinesa/",
+     "angulo": "247: quem é a suposta espiã.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Trump backs Nvidia's Huang amid affair, spy investigation",
+     "url": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+     "angulo": "Axios: Trump defende Huang.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Le patron de Nvidia aurait-il été piégé par une espionne chinoise ? Le Sénat américain va enquêter",
+     "url": "https://www.lefigaro.fr/conjoncture/le-patron-de-nvidia-aurait-il-ete-piege-par-une-espionne-chinoise-le-senat-americain-va-enqueter-20261108",
+     "angulo": "Le Figaro: o Senado vai investigar.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+     "angulo": "Bloomberg: a negativa chinesa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Nvidia abre investigação sobre o relacionamento de Jensen Huang com uma espiã chinesa",
+     "url": "https://www.estadao.com.br/economia/negocios/nvidia-abre-investigacao-sobre-o-relacionamento-de-jensen-huang-com-uma-espia-chinesa/",
+     "angulo": "Estadão: a investigação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump defends Nvidia CEO amid Chinese spying allegations",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations",
+     "angulo": "Al Jazeera: a defesa de Trump.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Nvidia investiga suposta espionagem da China contra o CEO da empresa, Jensen Huang",
+     "url": "https://jovempan.com.br/mundo/nvidia-investiga-suposta-espionagem-da-china-contra-o-ceo-da-empresa-jensen-huang/",
+     "angulo": "Jovem Pan: a liderança em chips de IA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+     "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+     "angulo": "BBC: perfil de Huang em meio ao escândalo.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Nvidia investiga suspeita de espionagem contra CEO; Jensen Huang admite relacionamento com executiva ligada à China",
+     "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/08/nvidia-investigacao-suspeitas-ceo-jensen-huang-alvo-de-espionagem.ghtml",
+     "angulo": "g1: a executiva ligada à China.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "colisao-de-trens-perto-do-cairo-mata-sete-pessoas",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Colisão de trens ao sul do Cairo mata sete pessoas e fere mais de cem no Egito",
+   "lide": "Um trem atingiu a traseira de outro ao sul da capital egípcia, e vagões descarrilaram. O presidente Abdel Fattah al-Sisi ordenou investigação.",
+   "fatos": [
+    {
+     "texto": "Ao menos sete pessoas morreram na colisão entre dois trens no domingo.",
+     "base": "4 fontes independentes (BBC, Washington Post, Folha, Al Jazeera)"
+    },
+    {
+     "texto": "O acidente ocorreu ao sul do Cairo, quando um trem atingiu a traseira de outro e vagões descarrilaram.",
+     "base": "3 fontes independentes (Euronews, Washington Post, BBC)"
+    },
+    {
+     "texto": "O presidente Abdel Fattah al-Sisi ordenou uma investigação.",
+     "base": "3 fontes independentes (Veja, Jovem Pan, Guardian)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O acidente é mais um numa história de desastres ferroviários no Egito, apesar dos investimentos na malha.",
+     "quem": "New York Times"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de vítimas.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os primeiros balanços falavam em 4 mortos e 88 feridos; os mais recentes, em 7 mortos e 112 ou 125 feridos.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Seven dead and more than 100 injured after trains collide in Egypt",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+     "angulo": "BBC: os vagões descarrilados perto de Gizé.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Colisão de trens no Egito mata 7 pessoas e fere 112",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/colisao-de-trens-no-egito-mata-7-pessoas-e-fere-112.shtml",
+     "angulo": "Folha: 7 mortos e 112 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say",
+     "url": "https://www.washingtonpost.com/world/2026/11/08/passenger-trains-crash-egypt-killing-7-injuring-125-authorities-say/",
+     "angulo": "Washington Post: 7 mortos e 125 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Sobe para 7 número de mortos em colisão entre trens no Egito; mais de 100 estão feridos",
+     "url": "https://jovempan.com.br/mundo/sobe-para-7-numero-de-mortos-em-colisao-entre-trens-no-egito-mais-de-100-estao-feridos/",
+     "angulo": "Jovem Pan: a investigação ordenada por Sisi.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Seven killed, 112 injured in train collision in Egypt",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt",
+     "angulo": "Al Jazeera: o balanço de 112 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Colisão de trens deixa ao menos sete mortos e mais de cem feridos no Egito",
+     "url": "https://revistaforum.com.br/global/trens-sete-mortos-cem-feridos-egito/",
+     "angulo": "Fórum: o balanço do domingo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "At least seven dead, more than 100 injured as two trains collide south of Cairo",
+     "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
+     "angulo": "Euronews: 52 km ao sul do Cairo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Colisão entre trens deixa ao menos 7 mortos e mais de 100 feridos no Egito",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/08/colisao-de-trens-no-egito-deixa-feridos-equipes-trabalham-para-remover-destrocos.ghtml",
+     "angulo": "g1: o balanço.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Trains Collide Near Cairo, Killing 4",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+     "angulo": "NYT: o histórico de acidentes (balanço inicial de 4 mortos).",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Colisão entre trens no Egito deixa ao menos 7 mortos e 100 feridos",
+     "url": "https://www.estadao.com.br/internacional/colisao-entre-trens-no-egito-deixa-ao-menos-7-mortos-e-100-feridos/",
+     "angulo": "Estadão: texto da AP.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Sete morrem e mais de 100 ficam feridos em colisão de trens no Egito",
+     "url": "https://www.metropoles.com/mundo/sete-morrem-e-mais-de-100-ficam-feridos-em-colisao-de-trens-no-egito",
+     "angulo": "Metrópoles: 45 feridos receberam alta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Colisão de trens deixa sete mortos e mais de 100 feridos no Egito; veja vídeo",
+     "url": "https://veja.abril.com.br/mundo/colisao-de-trens-deixa-sete-mortos-e-mais-de-100-feridos-no-egito-veja-video/",
+     "angulo": "Veja: o vídeo do acidente.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "eisenkot-recebe-mandato-e-convida-partido-de-netanyahu",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Eisenkot recebe mandato para formar governo em Israel e convida partido de Netanyahu",
+   "lide": "O presidente Isaac Herzog entregou oficialmente a Gadi Eisenkot o mandato para formar o novo governo. O líder da oposição propôs uma coalizão ampla de 'emergência nacional' e disse que Israel está perto de um 'ponto sem retorno'.",
+   "fatos": [
+    {
+     "texto": "Isaac Herzog entregou oficialmente no domingo a Gadi Eisenkot o mandato para formar o próximo governo.",
+     "base": "4 fontes independentes (Guardian, Revista Oeste, Estadão, Financial Times)"
+    },
+    {
+     "texto": "Eisenkot tem 28 dias para montar a coalizão.",
+     "base": "3 fontes independentes (Financial Times, Le Figaro, Clarín)"
+    },
+    {
+     "texto": "Eisenkot convidou o Likud, partido de Netanyahu, a integrar uma coalizão ampla.",
+     "base": "4 fontes independentes (Al Jazeera, Jovem Pan, O Globo, Le Monde)"
+    },
+    {
+     "texto": "Eisenkot disse que Israel está perto de um 'ponto sem retorno'.",
+     "base": "3 fontes independentes (Guardian, O Globo, La Nación)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Eisenkot enfrenta chances difíceis de formar a coalizão.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "As divisões da oposição deixam a maioria ainda indefinida.",
+     "quem": "Le Figaro"
+    },
+    {
+     "texto": "Trump pediu a Netanyahu que avance no plano de paz para Gaza.",
+     "quem": "Axios"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-08",
+    "id": "herzog-encarrega-eisenkot-de-formar-governo-em-israel",
+    "titulo": "Herzog encarrega Eisenkot, rival de Netanyahu, de tentar formar o novo governo de Israel"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+     "angulo": "Guardian: 'ponto sem retorno'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Rival de Netanyahu recebe mandato oficial para formar governo em Israel",
+     "url": "https://revistaoeste.com/mundo/rival-de-netanyahu-recebe-mandato-oficial-para-formar-governo-em-israel/",
+     "angulo": "Oeste: a entrega do mandato.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Eisenkot open to Netanyahu joining Israel’s next government",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
+     "angulo": "Al Jazeera: abertura ao Likud.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Israel’s president gives Gadi Eisenkot first chance at forming government",
+     "url": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+     "angulo": "FT: o prazo de 28 dias.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Eisenkot busca apoio de aliados de Netanyahu para formar governo em Israel",
+     "url": "https://operamundi.uol.com.br/israel/eisenkot-busca-apoio-de-aliados-de-netanyahu-para-formar-governo-em-israel/",
+     "angulo": "Opera Mundi: busca de aliados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Eisenkot Faces Tough Odds in Quest to Form Israeli Coalition",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-08/eisenkot-faces-tough-odds-in-quest-to-form-israeli-coalition",
+     "angulo": "Bloomberg: as dificuldades da coalizão.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Encarregado de formar governo, Eisenkot acena para partido de Netanyahu e diz que Israel está perto de 'ponto sem retorno'",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/08/encarregado-de-formar-governo-eisenkot-acena-para-partido-de-netanyahu-e-diz-que-israel-esta-perto-de-ponto-sem-retorno.ghtml",
+     "angulo": "O Globo: o aceno ao Likud.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Gadi Eisenkot convida partido de Netanyahu a formar coalizão de governo",
+     "url": "https://jovempan.com.br/mundo/gadi-eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-de-governo/",
+     "angulo": "Jovem Pan: o convite.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "En Israël, Gadi Eisenkot chargé de former un gouvernement avec une majorité encore introuvable",
+     "url": "https://www.lefigaro.fr/international/en-israel-gadi-eisenkot-charge-de-former-un-gouvernement-avec-une-majorite-encore-introuvable-20261108",
+     "angulo": "Le Figaro: maioria ainda indefinida.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Presidente de Israel encarrega oficialmente Eisenkot, opositor de Netanyahu, a formar novo governo",
+     "url": "https://www.estadao.com.br/internacional/presidente-de-israel-encarrega-oficialmente-eisenkot-opositor-de-netanyahu-a-formar-novo-governo/",
+     "angulo": "Estadão: a nomeação oficial.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu",
+     "url": "https://www.washingtonpost.com/world/2026/11/08/israel-gadi-eisenkot-accepts-mandate-form-government-urges-netanyahu-ouster/",
+     "angulo": "Washington Post: passos 'não convencionais'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Rival de Netanyahu recebe mandato e busca formar governo “amplo” em Israel; entenda",
+     "url": "https://www.infomoney.com.br/mundo/rival-de-netanyahu-recebe-mandato-e-busca-formar-governo-amplo-em-israel-entenda/",
+     "angulo": "InfoMoney: governo 'amplo'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-08"
+    }
+   ]
+  }
+ ]
+}
