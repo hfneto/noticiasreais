@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-09T08:58:54+00:00",
+ "atualizado_em": "2026-11-10T08:58:52+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-10",
+   "arquivo": "data/edicoes/2026-11-10.json",
+   "historias": 12,
+   "gerado_em": "2026-11-10T05:58:52-03:00",
+   "manchete": "Fachin arquiva o inquérito das fake news após sete anos e manda revisar 104 procedimentos ligados a ele"
+  },
   {
    "data": "2026-11-09",
    "arquivo": "data/edicoes/2026-11-09.json",

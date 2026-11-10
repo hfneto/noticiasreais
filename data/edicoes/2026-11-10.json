@@ -1,0 +1,1668 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-10",
+ "gerado_em": "2026-11-10T05:58:52-03:00",
+ "historias": [
+  {
+   "id": "fachin-arquiva-o-inquerito-das-fake-news-apos-sete-anos",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin arquiva o inquérito das fake news após sete anos e manda revisar 104 procedimentos ligados a ele",
+   "lide": "O presidente do STF atendeu a pedido da PGR e encerrou a investigação aberta em 2019 e conduzida por Alexandre de Moraes até setembro. As condenações e ações penais derivadas continuam válidas, e o sigilo dos autos será levantado depois de uma triagem de dados sensíveis.",
+   "fatos": [
+    {
+     "texto": "Edson Fachin determinou na segunda-feira (9) o arquivamento do inquérito das fake news, aberto em março de 2019, atendendo a parecer da PGR que apontou esgotamento do objeto.",
+     "base": "decisão do STF; 4 fontes independentes (g1, Estadão, Gazeta do Povo, Brasil de Fato)"
+    },
+    {
+     "texto": "A decisão não anula condenações, absolvições, acordos e ações penais já instaurados a partir da investigação.",
+     "base": "3 fontes independentes (CNN Brasil, Poder360, Congresso em Foco)"
+    },
+    {
+     "texto": "Fachin mandou analisar individualmente 104 procedimentos vinculados ao inquérito.",
+     "base": "2 fontes independentes (CNN Brasil, ICL Notícias)"
+    },
+    {
+     "texto": "Fachin rejeitou o pedido da PGR de sigilo integral e determinou a abertura dos autos após a separação de dados sensíveis.",
+     "base": "3 fontes independentes (g1, Brasil 247, A Tarde)"
+    },
+    {
+     "texto": "A OAB considerou a decisão acertada e disse que o inquérito tramitava sem respaldo em lei.",
+     "base": "3 fontes independentes (Folha, SBT, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O fim do sigilo deve gerar uma onda de ações contra decisões do STF.",
+     "quem": "Ministros do STF ouvidos por O Globo"
+    },
+    {
+     "texto": "A decisão contraria a ala do STF próxima a Moraes e é uma tentativa de amenizar a crise da Corte.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "O fim do sigilo vai permitir escrutínio da conduta de Moraes.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Encerrar o inquérito não basta; é preciso anular tudo o que saiu dele.",
+     "quem": "Alexandre Garcia, na Gazeta do Povo"
+    },
+    {
+     "texto": "O debate sobre o fim do inquérito mobilizou pouco e virou assunto só da direita.",
+     "quem": "Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos de esquerda destacam que as condenações continuam válidas e questionam quem ganha com o fim da investigação.",
+    "oposicao": "A oposição celebra o arquivamento, aponta excessos de Moraes e cobra a anulação das decisões."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-10-30",
+    "id": "fachin-arquiva-mais-5-frentes-inquerito-fake-news-moraes-arquiva-monark-silveira-kassio-mendonca-afastam-flavio-pt-reforma-judiciario",
+    "titulo": "Fachin arquiva mais cinco investigações do inquérito das fake news e Moraes encerra os casos de Monark e Daniel Silveira; Kassio e Mendonça se afastam de Flávio, Bolsonaro pede visita de Marinho e PT lista reforma do Judiciário entre prioridades do novo mandato"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fachin determina arquivamento do inquérito das fake news",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/09/fachin-determina-arquivamento-do-inquerito-das-fake-news.ghtml",
+     "angulo": "g1: o arquivamento a pedido da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "10 momentos que revelam os excessos dos sete anos do inquérito das fake news",
+     "url": "https://www.gazetadopovo.com.br/republica/10-momentos-que-revelam-os-excessos-dos-sete-anos-do-inquerito-das-fake-news/",
+     "angulo": "Gazeta do Povo: os excessos do inquérito.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "STF: Fachin arquiva definitivamente inquérito das Fake News, mas mantém processos derivados",
+     "url": "https://www.brasildefato.com.br/2026/11/09/stf-fachin-arquiva-definitivamente-inquerito-das-fake-news-mas-mantem-processos-derivados/",
+     "angulo": "Brasil de Fato: os processos derivados mantidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fim do inquérito das fake news não encerra investigações no STF; entenda",
+     "url": "https://www.cnnbrasil.com.br/politica/fim-do-inquerito-das-fake-news-nao-encerra-investigacoes-no-stf-entenda/",
+     "angulo": "CNN Brasil: os 104 procedimentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fim do sigilo do inquérito das fake news vai permitir escrutínio sob a conduta de Moraes",
+     "url": "https://www.estadao.com.br/politica/raquel-landim/fim-do-sigilo-do-inquerito-das-fake-news-vai-permitir-escrutinio-sob-a-conduta-de-moraes/",
+     "angulo": "Estadão: o escrutínio de Moraes.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Quem teme o inquérito das fake news?",
+     "url": "https://www.brasil247.com/blog/quem-teme-o-inquerito-das-fake-news/",
+     "angulo": "247: defende a investigação das redes de desinformação.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Queda de sigilo de inquérito das fake news deve gerar onda de ações contra decisões do STF, avaliam ministros",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/10/queda-de-sigilo-de-inquerito-das-fake-news-deve-gerar-onda-de-acoes-contra-decisoes-do-stf-avaliam-ministros.ghtml",
+     "angulo": "O Globo: ministros temem onda de ações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Fachin arquiva inquérito das fake news, aberto há sete anos",
+     "url": "https://oantagonista.com.br/brasil/fachin-arquiva-inquerito-das-fake-news-aberto-ha-sete-ano/",
+     "angulo": "O Antagonista: o parecer da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Debate sobre fim do inquérito das fake news mobiliza pouco e vira assunto apenas da direita",
+     "url": "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/debate-sobre-fim-do-inquerito-das-fake-news-mobiliza-pouco-e-vira-assunto-apenas-da-direita.shtml",
+     "angulo": "Folha: tema mobiliza só a direita.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Bolsonaristas celebram fim do inquérito das fake news e cobram mais recuos do STF",
+     "url": "https://www.diariodocentrodomundo.com.br/bolsonaristas-celebram-fim-do-inquerito-das-fake-news-e-cobram-mais-recuos-do-stf/",
+     "angulo": "DCM: a reação bolsonarista.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Leia a íntegra da decisão que arquiva o inquérito das fake news no STF",
+     "url": "https://www.poder360.com.br/poder-integras/leia-a-integra-da-decisao-que-arquiva-o-inquerito-das-fake-news-no-stf/",
+     "angulo": "Poder360: a íntegra da decisão.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Edson Fachin arquiva inquérito das fake news depois de mais de 7 anos de tramitação",
+     "url": "https://www.jota.info/opiniao-e-analise/artigos/edson-fachin-arquiva-inquerito-das-fake-news-depois-de-mais-de-7-anos-de-tramitacao",
+     "angulo": "Jota: o esgotamento do objeto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "fux-suspende-acoes-contra-a-proibicao-das-bets",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Fux suspende as ações contra a proibição das bets, e governo pede derrubada de 348 perfis de influenciadores",
+   "lide": "O ministro do STF paralisou, a pedido da PGR, todos os processos que questionam a medida provisória que proibiu as bets, até o julgamento definitivo. No mesmo dia, o Ministério da Justiça pediu a remoção de 348 perfis que divulgavam apostas ilegais.",
+   "fatos": [
+    {
+     "texto": "Luiz Fux suspendeu em todo o país os processos que questionam a constitucionalidade da proibição das bets até o STF decidir o mérito.",
+     "base": "4 fontes independentes (g1, Folha, Gazeta do Povo, Brasil de Fato)"
+    },
+    {
+     "texto": "A decisão atendeu a pedido da PGR, que apontou risco de liminares autorizarem o funcionamento das casas de apostas.",
+     "base": "3 fontes independentes (SBT, Congresso em Foco, Gazeta do Povo)"
+    },
+    {
+     "texto": "O Ministério da Justiça pediu a derrubada de 348 perfis de influenciadores no Instagram que divulgavam bets ilegais, com mais de 150 milhões de seguidores somados.",
+     "base": "4 fontes independentes (g1, CNN Brasil, Metrópoles, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão de Fux bloqueou pedidos de 29 bets para voltar a funcionar, entre elas Blaze, Stake e EstrelaBet.",
+     "quem": "Levantamento da Folha"
+    },
+    {
+     "texto": "A decisão é um 'freio de arrumação' nas decisões de instâncias inferiores.",
+     "quem": "Cientista política ouvida pelo Brasil de Fato"
+    },
+    {
+     "texto": "A MP das bets passou a tramitar em urgência sem que a comissão mista tenha sido instalada.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo e aliados tratam a decisão como proteção às famílias e fim da insegurança jurídica.",
+    "oposicao": "Clubes e o setor de apostas destacam perdas de patrocínio; a oposição cobra o Congresso a votar a MP."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "presidente-do-trf3-suspende-liminar-que-liberou-tres-bets",
+    "titulo": "Presidente do TRF3 suspende liminar que liberou três bets; PGR pede ao STF suspensão nacional"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fux suspende processos sobre proibição das bets até STF decidir sobre validade da medida",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/09/fux-suspende-processos-sobre-proibicao-das-bets-ate-stf-decidir-sobre-validade-da-medida.ghtml",
+     "angulo": "g1: a suspensão nacional.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fux atende a Gonet e suspende ações contra proibição das bets em todo o país",
+     "url": "https://www.gazetadopovo.com.br/republica/fux-atende-a-gonet-e-suspende-acoes-contra-proibicao-das-bets-em-todo-o-pais/",
+     "angulo": "Gazeta do Povo: o pedido de Gonet.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Decisão de Fux é um freio de arrumação’, afirma cientista política sobre veto a ações sobre bets",
+     "url": "https://www.brasildefato.com.br/2026/11/09/decisao-de-fux-e-um-freio-de-arrumacao-afirma-cientista-politica-sobre-veto-a-acoes-sobre-bets/",
+     "angulo": "Brasil de Fato: a análise da decisão.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Decisão de Fux bloqueou ações de 29 bets, incluindo Blaze, Stake e EstrelaBet",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/decisao-de-fux-bloqueou-acoes-de-29-bets-incluindo-blaze-stake-e-estrelabet.shtml",
+     "angulo": "Folha: as 29 bets barradas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Governo pede derrubada de 348 perfis de influenciadores de bets",
+     "url": "https://www.cnnbrasil.com.br/nacional/brasil/governo-pede-derrubada-de-348-perfis-de-influenciadores-de-bets/",
+     "angulo": "CNN Brasil: a ofensiva contra influenciadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fux diz que bets são ‘reconhecidamente danosas’ e suspende ações sobre proibição de apostas",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fux-diz-que-bets-sao-reconhecidamente-danosas-e-suspende-acoes-sobre-proibicao-de-apostas/",
+     "angulo": "Estadão: os argumentos de Fux.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Sem avançar um passo sequer, MP do fim das bets passa a tramitar em regime de urgência",
+     "url": "https://veja.abril.com.br/politica/sem-avancar-um-passo-sequer-mp-do-fim-das-bets-passa-a-tramitar-em-regime-de-urgencia/",
+     "angulo": "Veja: a MP parada no Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Governo Lula pede retirada de 348 perfis em nova ofensiva contra bets ilegais",
+     "url": "https://revistaforum.com.br/politica/governo-lula-pede-retirada-de-348-perfis-em-nova-ofensiva-contra-bets-ilegais/",
+     "angulo": "Fórum: a nova ofensiva do governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Fux suspende ações que questionam MP das Bets até decisão do STF",
+     "url": "https://www.congressoemfoco.com.br/noticia/131408/fux-suspende-acoes-que-questionam-mp-das-bets-ate-decisao-do-stf",
+     "angulo": "Congresso em Foco: o pedido da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Governo Lula pede retirada do ar de 348 perfis que divulgam bets ilegais",
+     "url": "https://www.metropoles.com/brasil/governo-lula-pede-retirada-do-ar-de-348-perfis-que-divulgam-bets-ilegais",
+     "angulo": "Metrópoles: os 150 milhões de seguidores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Luiz Fux suspende tramitação de todos os processos sobre fim das bets no Brasil",
+     "url": "https://www.jota.info/coberturas-especiais/jurisprudente/luiz-fux-suspende-tramitacao-de-todos-os-processos-sobre-fim-das-bets-no-brasil",
+     "angulo": "Jota: o risco de decisões divergentes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
+     "url": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o",
+     "angulo": "BBC Brasil: o que acontece agora.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "justica-suspende-parte-das-novas-regras-do-vale-refeicao",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Justiça suspende parte das novas regras do vale-refeição e alimentação para empresas do setor",
+   "lide": "Uma liminar da Justiça Federal no DF suspendeu dispositivos do decreto do governo que reformulou o Programa de Alimentação do Trabalhador, como o teto de taxas e a abertura obrigatória das redes. A decisão vale para as empresas associadas à ABBT.",
+   "fatos": [
+    {
+     "texto": "O juiz Frederico Botelho de Barros Viana, da 22ª Vara Federal Cível do DF, suspendeu em caráter liminar dispositivos do decreto que reformulou as regras do VR e do VA.",
+     "base": "3 fontes independentes (Valor, Gazeta do Povo, Folha)"
+    },
+    {
+     "texto": "A decisão beneficia as empresas associadas à ABBT, associação do setor de benefícios.",
+     "base": "3 fontes independentes (Poder360, CartaCapital, SBT)"
+    },
+    {
+     "texto": "Ficam suspensos o teto de taxas, o prazo de 15 dias para repasses e a abertura obrigatória das redes de cartões.",
+     "base": "2 fontes independentes (Brasil 247, Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O decreto pode ter ultrapassado os limites do poder regulamentar do presidente.",
+     "quem": "Juiz da 22ª Vara, segundo a Gazeta do Povo"
+    },
+    {
+     "texto": "A decisão não muda a regra que beneficiou os trabalhadores.",
+     "quem": "g1"
+    },
+    {
+     "texto": "A decisão abre espaço para ajustes na regulamentação.",
+     "quem": "ABBT, segundo a Exame"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Efeito da liminar sobre a aceitação de VR e VA nas maquininhas.",
+     "rotulo": "Contraditório",
+     "explicacao": "Jovem Pan e Agência Brasil dizem que voltam a valer as regras antigas de aceitação em maquininhas; o g1 diz que a decisão não muda a regra que beneficiou os trabalhadores.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Veículos de esquerda destacam que a decisão atende a empresas do setor contra regras que favoreciam trabalhadores e comerciantes.",
+    "oposicao": "Veículos de direita destacam que o decreto de Lula pode ter extrapolado o poder regulamentar."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Justiça suspende parte das regras sobre vale-alimentação e vale-refeição",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/justica-suspende-parte-das-regras-sobre-vale-alimentacao-e-vale-refeicao.ghtml",
+     "angulo": "Valor: o juiz e os dispositivos suspensos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Juiz suspende decreto de Lula que regula vale-refeição e alimentação",
+     "url": "https://www.gazetadopovo.com.br/republica/juiz-suspende-decreto-de-lula-que-regula-vale-refeicao-e-alimentacao/",
+     "angulo": "Gazeta do Povo: limites do poder regulamentar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Justiça atende empresas e suspende parte de decreto de Lula que reformulou vale-alimentação",
+     "url": "https://www.cartacapital.com.br/economia/justica-atende-empresas-e-suspende-parte-de-decreto-de-lula-que-reformulou-vale-alimentacao/",
+     "angulo": "CartaCapital: a decisão beneficia empresas da ABBT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Vale-refeição e alimentação: decisão da Justiça não muda regra que beneficiou trabalhadores; entenda",
+     "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/10/vale-refeicao-e-alimentacao-decisao-da-justica-nao-muda-regra-que-beneficiou-trabalhadores-entenda.ghtml",
+     "angulo": "g1: o que muda para o trabalhador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Justiça Federal suspende novas regras que ampliaram a aceitação de VR e VA em maquininhas",
+     "url": "https://jovempan.com.br/economia/justica-federal-suspende-novas-regras-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas/",
+     "angulo": "Jovem Pan: voltam as regras antigas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Justiça suspende parte do decreto governo Lula sobre regras para vale-refeição",
+     "url": "https://www.brasil247.com/economia/justica-suspende-parte-do-decreto-governo-lula-sobre-regras-para-vale-refeicao/",
+     "angulo": "247: teto de taxas e prazo de repasses.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Justiça Federal suspende parte das novas regras do vale-refeição",
+     "url": "https://www.poder360.com.br/poder-economia/justica-federal-suspende-parte-das-novas-regras-do-vale-refeicao/",
+     "angulo": "Poder360: as associadas da ABBT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Justiça suspende novas regras do vale-refeição para empresas líderes do setor",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/justica-suspende-novas-regras-do-vale-refeicao-para-empresas-lideres-do-setor.shtml",
+     "angulo": "Folha: as líderes do setor.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas",
+     "angulo": "Agência Brasil: as maquininhas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Justiça suspende parte das novas regras para vale-alimentação e vale-refeição; veja a situação",
+     "url": "https://exame.com/brasil/justica-suspende-parte-das-novas-regras-para-vale-alimentacao-e-vale-refeicao-veja-a-situacao/",
+     "angulo": "Exame: a nota da ABBT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "pgr-e-justica-federal-pedem-r-533-milhoes-para-penduricalhos",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "PGR e Justiça Federal pedem R$ 533 milhões extras para pagar penduricalhos, e entidades cobram fim dos supersalários",
+   "lide": "O Conselho da Justiça Federal e a PGR pediram ao governo crédito extraordinário para pagar benefícios a juízes e procuradores autorizados pelo STF; a AGU levou o impasse à Corte. No mesmo dia, sete organizações lançaram manifesto pelo combate aos supersalários.",
+   "fatos": [
+    {
+     "texto": "O CJF e a PGR pediram ao governo cerca de R$ 533 milhões adicionais em 2026 para pagar benefícios a magistrados e membros do Ministério Público.",
+     "base": "4 fontes independentes (g1, Estadão, Poder360, O Antagonista)"
+    },
+    {
+     "texto": "A AGU pediu ao STF que esclareça o procedimento para cumprir a decisão que autorizou os pagamentos.",
+     "base": "3 fontes independentes (Poder360, CNN Brasil, Metrópoles)"
+    },
+    {
+     "texto": "Sete organizações da sociedade civil lançaram manifesto pedindo que governo e Congresso priorizem o combate aos supersalários.",
+     "base": "4 fontes independentes (Valor, Estadão, Gazeta do Povo, ICL Notícias)"
+    },
+    {
+     "texto": "Segundo o manifesto, foram pagos cerca de R$ 24 bilhões acima do teto constitucional em 2025.",
+     "base": "3 fontes independentes (Gazeta do Povo, Poder360, Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O manifesto propõe 11 medidas para restringir pagamentos acima do teto.",
+     "quem": "Poder360"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo destacam a pressão das entidades por uma lei nacional contra supersalários.",
+    "oposicao": "Veículos de oposição destacam o custo dos penduricalhos e cobram de Lula e do Congresso o fim dos supersalários."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "PGR e Judiciário querem R$ 533 milhões extras para pagar penduricalhos; AGU pediu análise ao STF",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/09/pgr-e-judiciario-querem-r-533-milhoes-extras-para-pagar-penduricalhos-agu-pediu-analise-stf.ghtml",
+     "angulo": "g1: o pedido e a consulta da AGU ao STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Penduricalhos garantidos? Judiciário e MPF pedem R$ 533 milhões ao governo",
+     "url": "https://oantagonista.com.br/brasil/penduricalhos-garantidos-judiciario-e-mpf-pedem-r-533-milhoes-ao-governo/",
+     "angulo": "O Antagonista: os ofícios do dia 3.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Entidades cobram fim dos supersalários e pressionam governo e Congresso",
+     "url": "https://iclnoticias.com.br/entidades-manifesto-fim-supersalarios-governo/",
+     "angulo": "ICL Notícias: o manifesto das sete organizações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Entidades pressionam Lula e Congresso a combater supersalários",
+     "url": "https://www.gazetadopovo.com.br/republica/entidades-pressionam-lula-e-congresso-a-combater-supersalarios/",
+     "angulo": "Gazeta do Povo: os R$ 24,3 bilhões acima do teto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "PGR e Judiciário pedem crédito extraordinário de R$ 533 milhões para pagar penduricalhos",
+     "url": "https://www.estadao.com.br/politica/pgr-e-judiciario-pedem-credito-extraordinario-de-r-533-milhoes-para-pagar-penduricalhos/",
+     "angulo": "Estadão: o crédito extraordinário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "MPF e Justiça Federal pedem recursos para pagar R$ 533 milhões em penduricalhos",
+     "url": "https://www.brasil247.com/brasil/mpf-e-justica-federal-pedem-recursos-para-pagar-r-533-milhoes-em-penduricalhos/",
+     "angulo": "247: a falta de previsão orçamentária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Organizações cobram combate a supersalários no próximo governo",
+     "url": "https://www.poder360.com.br/poder-economia/organizacoes-cobram-combate-a-supersalarios-no-proximo-governo/",
+     "angulo": "Poder360: as 11 medidas propostas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Impasse de meio bilhão: STF recebe questionamento sobre penduricalhos",
+     "url": "https://veja.abril.com.br/politica/impasse-de-meio-bilhao-stf-recebe-questionamento-sobre-penduricalhos/",
+     "angulo": "Veja: o questionamento no STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PGR e Justiça Federal pedem R$ 533 milhões extras para pagar penduricalhos",
+     "url": "https://www.cnnbrasil.com.br/politica/pgr-e-justica-federal-pedem-r-533-milhoes-extras-para-pagar-penduricalhos/",
+     "angulo": "CNN Brasil: a insuficiência orçamentária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Entidades pedem que governo e Congresso priorizem combate a supersalários no funcionalismo público",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/entidades-pedem-que-governo-e-congresso-priorizem-combate-a-supersalarios-no-funcionalismo-publico.ghtml",
+     "angulo": "Valor: a prioridade pedida no manifesto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Entidades cobram do governo e do novo Congresso lei nacional contra supersalários",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/entidades-cobram-do-governo-e-do-novo-congresso-lei-nacional-contra-supersalarios.ghtml",
+     "angulo": "O Globo: a lei nacional.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "cop31-comeca-na-turquia-e-lula-chega-com-ministros-e-janones",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "COP31 começa na Turquia; Brasil passa a presidência e Lula chega com ministros e Janones",
+   "lide": "A conferência do clima da ONU abriu na segunda-feira (9) em Antália, e o Brasil transmitiu a presidência da COP à Turquia. Lula chegou para a cúpula de líderes com quatro ministros e o deputado André Janones; os presidentes da Câmara e do Senado não foram.",
+   "fatos": [
+    {
+     "texto": "A COP31 começou na segunda-feira (9) em Antália, na Turquia, e vai até 20 de novembro.",
+     "base": "3 fontes independentes (g1, SBT, Euronews)"
+    },
+    {
+     "texto": "O embaixador André Corrêa do Lago transmitiu a presidência da COP à Turquia.",
+     "base": "2 fontes independentes (Agência Brasil, SBT)"
+    },
+    {
+     "texto": "Lula levou ministros e o deputado André Janones na comitiva.",
+     "base": "3 fontes independentes (Revista Oeste, Valor, g1)"
+    },
+    {
+     "texto": "Hugo Motta e Davi Alcolumbre não integram a comitiva e ficaram em Brasília para acompanhar votações.",
+     "base": "3 fontes independentes (Valor, SBT, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Noruega anunciou aporte de R$ 350 milhões ao Fundo Amazônia.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "O preço alto dos combustíveis fósseis espalha inflação 'como um câncer'.",
+     "quem": "Simon Stiell, chefe do clima da ONU, segundo o Guardian"
+    },
+    {
+     "texto": "2026 pode ser o ano mais quente da história.",
+     "quem": "Cientistas citados pela BBC Brasil"
+    },
+    {
+     "texto": "O Brasil chega à COP31 com 'outra moral', por ter reduzido desmatamento e emissões.",
+     "quem": "Márcio Astrini, do Observatório do Clima, no Brasil de Fato"
+    },
+    {
+     "texto": "A viagem já custou R$ 2,9 milhões antes de começar.",
+     "quem": "Diário do Poder"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governo e aliados destacam o legado da COP30 e a queda do desmatamento.",
+    "oposicao": "Veículos de oposição destacam a presença de Janones, o custo da viagem e o adiamento das decisões fiscais."
+   },
+   "visao_de_fora": "A imprensa estrangeira trata a abertura sob a crise de energia provocada pela guerra no Irã e a volta dos combustíveis fósseis.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "COP31: ONU afirma que países precisam fazer mais para conter aquecimento do planeta",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/cop31-onu-afirma-que-paises-precisam-fazer-mais-para-conter-aquecimento-do-planeta.ghtml",
+     "angulo": "g1: o alerta da ONU na abertura.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Lula leva Janones e 4 ministros à COP31, na Turquia",
+     "url": "https://revistaoeste.com/politica/lula-leva-janones-e-4-ministros-a-cop31-na-turquia/",
+     "angulo": "Oeste: Janones na comitiva.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Brasil chega à COP31 com ‘outra moral’: menos desmatamento e menos emissões, aponta secretário do Observatório do Clima",
+     "url": "https://www.brasildefato.com.br/2026/11/09/brasil-chega-a-cop31-com-outra-moral-menos-desmatamento-e-menos-emissoes-aponta-secretario-do-observatorio-do-clima/",
+     "angulo": "Brasil de Fato: menos desmatamento e emissões.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+     "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+     "angulo": "Guardian: o discurso de Simon Stiell.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "COP31: Brasil transmite presidência da COP à Turquia",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-brasil-transmite-presidencia-da-cop-turquia",
+     "angulo": "Agência Brasil: a passagem da presidência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Alcolumbre e Motta priorizam agenda e recusam convite de Lula para COP31",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/09/alcolumbre-e-motta-priorizam-agenda-e-recusam-convite-de-lula-para-cop31.ghtml",
+     "angulo": "Valor: a recusa ao convite de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Viagem de Lula à COP31 na Turquia já nos custa R$2,9 milhões antes mesmo de começar",
+     "url": "https://diariodopoder.com.br/coluna-claudio-humberto/viagem-de-lula-a-cop31-na-turquia-ja-nos-custa-r29-milhoes-antes-mesmo-de-comecar",
+     "angulo": "Diário do Poder: o custo da viagem.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "COP31 opens amid energy crisis as activists demand climate action",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action",
+     "angulo": "Al Jazeera: a crise de energia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "No primeiro dia de COP31, Noruega investe R$ 350 mi no Fundo Amazônia",
+     "url": "https://exame.com/esg/no-primeiro-dia-de-cop31-noruega-investe-r-350-mi-no-fundo-amazonia/",
+     "angulo": "Exame: o aporte norueguês.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "COP31 começa sob alerta de que 2026 pode ser ano mais quente da história",
+     "url": "https://www.bbc.com/portuguese/articles/cwgkvk10rpk3o",
+     "angulo": "BBC Brasil: o ano mais quente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Lula deixa decisão sobre corte de gastos e composição para depois da COP 31",
+     "url": "https://www.band.com.br/politica/lula-deixa-decisao-sobre-corte-de-gastos-e-composicao-para-depois-da-cop-31",
+     "angulo": "Band: o ajuste fiscal fica para depois.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Lula se reunirá com líderes do Reino Unido, Noruega e Turquia na COP31",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-se-reunira-com-lideres-do-reino-unido-noruega-e-turquia-na-cop31/",
+     "angulo": "CNN Brasil: a agenda de bilaterais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "rubio-diz-que-eua-vao-manter-dialogo-com-governo-lula",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Rubio diz que EUA vão manter diálogo com o governo Lula e cobra aval a embaixador",
+   "lide": "No G7, em Paris, o secretário de Estado americano disse que Washington continuará 'lidando' com o governo reeleito, elogiou a relação com Mauro Vieira e cobrou o Itamaraty pela demora em aceitar o indicado de Trump para a embaixada em Brasília.",
+   "fatos": [
+    {
+     "texto": "Marco Rubio disse que os EUA vão continuar trabalhando com o governo Lula.",
+     "base": "4 fontes independentes (g1, Folha, Poder360, Gazeta do Povo)"
+    },
+    {
+     "texto": "Rubio cobrou o agrément do Brasil ao indicado de Trump para embaixador e disse que isso é um problema que precisa ser resolvido.",
+     "base": "3 fontes independentes (SBT, CNN Brasil, Veja)"
+    },
+    {
+     "texto": "Rubio disse ter boa relação com o chanceler Mauro Vieira.",
+     "base": "2 fontes independentes (Veja, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Rubio sinaliza diálogo contrariando bolsonaristas que tentaram convencer Trump a não reconhecer a eleição.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "A falta de aval ao embaixador afeta o tom da relação.",
+     "quem": "Rubio, segundo o Poder360"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam que os EUA reconhecem e manterão diálogo com Lula, contra a aposta bolsonarista.",
+    "oposicao": "Veículos de oposição destacam a cobrança de Rubio a Lula pelo impasse do embaixador."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/09/apos-vitoria-de-lula-rubio-diz-que-eua-vao-manter-dialogo-com-o-brasil-e-cobra-liberacao-de-embaixador.ghtml",
+     "angulo": "g1: diálogo e cobrança.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Rubio fala sobre relação com governo Lula e cobra autorização para embaixador dos EUA no Brasil",
+     "url": "https://www.gazetadopovo.com.br/mundo/rubio-fala-sobre-relacao-com-governo-lula-e-cobra-autorizacao-para-embaixador-dos-eua-no-brasil/",
+     "angulo": "Gazeta do Povo: a cobrança pelo embaixador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Contrariando Bolsonaristas, Rubio sinaliza diálogo com o governo Lula",
+     "url": "https://iclnoticias.com.br/contrariando-bolsonaristas-rubio-admite-que-tera-de-lidar-com-o-governo-lula/",
+     "angulo": "ICL Notícias: derrota da aposta bolsonarista.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Marco Rubio diz que EUA continuarão “lidando” com governo Lula",
+     "url": "https://www.poder360.com.br/poder-internacional/marco-rubio-diz-que-eua-continuarao-lidando-com-governo-lula/",
+     "angulo": "Poder360: a falta de aval afeta o tom.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Marco Rubio se manifesta sobre relação com Brasil após vitória de Lula",
+     "url": "https://veja.abril.com.br/mundo/marco-rubio-se-manifesta-sobre-relacao-com-brasil-apos-vitoria-de-lula/",
+     "angulo": "Veja: elogio a Mauro Vieira.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "No G7, Rubio confirma que governo Trump manterá diálogo com Brasil",
+     "url": "https://operamundi.uol.com.br/estados-unidos/no-g7-rubio-confirma-que-governo-trump-mantera-dialogo-com-brasil/",
+     "angulo": "Opera Mundi: o diálogo mantido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Rubio fala em \"lidar\" com governo Lula, mas cobra Brasil",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/rubio-fala-em-lidar-com-governo-lula-mas-cobra-brasil",
+     "angulo": "SBT: 'problema que precisa ser resolvido'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Rubio diz ter boa relação com Mauro Vieira, mas cobra Brasil por impasse diplomático",
+     "url": "https://www.brasil247.com/mundo/rubio-diz-ter-boa-relacao-com-mauro-vieira-mas-cobra-brasil-por-impasse-diplomatico/",
+     "angulo": "247: divergências comerciais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Marco Rubio diz que EUA vão manter diálogo com governo Lula",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/marco-rubio-diz-que-eua-vao-manter-dialogo-com-governo-lula.shtml",
+     "angulo": "Folha: o agrément pendente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Rubio diz que EUA vão manter diálogo com o Brasil e cobra aval a embaixador",
+     "url": "https://www.cnnbrasil.com.br/internacional/rubio-diz-que-eua-vao-manter-dialogo-com-o-brasil-e-cobra-aval-a-embaixador/",
+     "angulo": "CNN Brasil: possível encontro com Vieira.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "governo-prorroga-desoneracao-da-gasolina-e-do-etanol",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Governo prorroga por 30 dias a desoneração da gasolina e do etanol, a um custo de R$ 3,57 bilhões",
+   "lide": "Decreto assinado por Geraldo Alckmin, presidente em exercício, mantém zerados os tributos federais sobre os combustíveis até 9 de dezembro. A subvenção de R$ 0,428 por litro aos produtores de etanol também continua.",
+   "fatos": [
+    {
+     "texto": "O governo prorrogou por 30 dias, até 9 de dezembro, a desoneração dos tributos federais sobre gasolina e etanol.",
+     "base": "Diário Oficial (edição extra); 4 fontes independentes (g1, Folha, CNN Brasil, Metrópoles)"
+    },
+    {
+     "texto": "O decreto foi assinado pelo presidente em exercício, Geraldo Alckmin.",
+     "base": "3 fontes independentes (CNN Brasil, SBT, Band)"
+    },
+    {
+     "texto": "A subvenção extraordinária de R$ 0,428 por litro aos produtores de etanol foi mantida.",
+     "base": "2 fontes independentes (CNN Brasil, SBT)"
+    },
+    {
+     "texto": "O impacto estimado é de R$ 3,57 bilhões.",
+     "base": "3 fontes independentes (Poder360, O Globo, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O custo será compensado por receitas do setor petrolífero.",
+     "quem": "Governo, segundo o Brasil 247"
+    },
+    {
+     "texto": "A medida busca conter o impacto da alta internacional do petróleo.",
+     "quem": "CartaCapital"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo apresenta a prorrogação como proteção ao consumidor contra a alta do petróleo.",
+    "oposicao": "Veículos de oposição relacionam a medida à falta de corte de gastos e ao custo fiscal."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Governo prorroga desoneração da gasolina e do etanol por mais 30 dias",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/09/governo-prorroga-deseneracao-da-gasolina-e-do-etanol-por-mais-30-dias.ghtml",
+     "angulo": "g1: a prorrogação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Governo estende corte de tributos sobre gasolina e etanol",
+     "url": "https://oantagonista.com.br/economia/governo-estende-corte-de-tributos-sobre-gasolina-e-etanol/",
+     "angulo": "O Antagonista: a subvenção ao etanol.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Governo prorroga desoneração de gasolina e etanol por 30 dias",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-prorroga-desoneracao-de-gasolina-e-etanol-por-30-dias/",
+     "angulo": "CNN Brasil: o decreto de Alckmin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Governo prorroga imposto zero sobre gasolina e etanol até 9 de dezembro",
+     "url": "https://www.diariodocentrodomundo.com.br/governo-prorroga-imposto-zero-sobre-gasolina-e-etanol-ate-9-de-dezembro/",
+     "angulo": "DCM: o impacto de R$ 3,57 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo Lula prorroga desoneração da gasolina e do etanol por mais 30 dias",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-vai-prorrogar-desoneracao-da-gasolina-e-do-etanol-por-mais-30-dias.shtml",
+     "angulo": "Folha: a subvenção mantida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Governo vai prorrogar desoneração da gasolina e do etanol por mais 30 dias",
+     "url": "https://www.brasil247.com/economia/governo-vai-prorrogar-desoneracao-da-gasolina-e-do-etanol-por-mais-30-dias/",
+     "angulo": "247: a compensação com receitas do petróleo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Governo vai prorrogar por mais 30 dias desoneração da gasolina e do etanol a um custo de R$ 3,57 bi",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/governo-vai-prorrogar-por-mais-30-dias-desoneracao-da-gasolina-e-do-etanol.ghtml",
+     "angulo": "O Globo: o custo da medida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Governo prorroga desoneração da gasolina e do etanol até dezembro",
+     "url": "https://www.metropoles.com/brasil/governo-prorroga-desoneracao-da-gasolina-e-do-etanol-ate-dezembro",
+     "angulo": "Metrópoles: a edição extra do Diário Oficial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Governo prorroga até dezembro a desoneração da gasolina e do etanol",
+     "url": "https://www.cartacapital.com.br/mundo/governo-prorroga-ate-dezembro-a-desoneracao-da-gasolina-e-do-etanol/",
+     "angulo": "CartaCapital: a alta do petróleo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Governo estende por 30 dias desoneração da gasolina e etanol",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/governo-estende-por-30-dias-desoneracao-da-gasolina-e-etanol",
+     "angulo": "SBT: a pressão inflacionária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "acampamento-do-mst-e-atacado-a-tiros-na-paraiba",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "Acampamento do MST é atacado a tiros e tem barracos incendiados na Paraíba; MPF vai apurar",
+   "lide": "Homens armados atacaram o acampamento Marilene Dantas, às margens da BR-101, na Zona da Mata paraibana, onde vivem cerca de 40 famílias. O MPF abriu procedimento e a Polícia Civil investiga.",
+   "fatos": [
+    {
+     "texto": "O acampamento do MST na Zona da Mata da Paraíba foi atacado por homens armados, que incendiaram barracos.",
+     "base": "4 fontes independentes (g1, Brasil de Fato, Mídia Ninja, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Ministério Público Federal na Paraíba vai abrir procedimento para apurar o ataque.",
+     "quem": "g1"
+    },
+    {
+     "texto": "A Polícia Civil investiga o ataque.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "Foi um 'ato de terror da mão do latifúndio'.",
+     "quem": "Coordenação do MST, no Brasil de Fato"
+    },
+    {
+     "texto": "Houve disparos perto da cama de uma criança.",
+     "quem": "MST, segundo a Mídia Ninja"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de barracos incendiados.",
+     "rotulo": "Contraditório",
+     "explicacao": "A Mídia Ninja fala em 12 barracos incendiados; o Brasil 247, em nove.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Direita: o ataque não foi encontrado nos feeds nem na busca em Revista Oeste, Gazeta do Povo, Jovem Pan, O Antagonista, Diário do Poder, Terra Brasil e Conexão Política. Quem só lê esses veículos não fica sabendo do ataque.",
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "MPF abre procedimento para apurar ataque a acampamento do MST na Paraíba",
+     "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/09/mpf-abre-procedimento-para-apurar-ataque-a-acampamento-do-mst-na-paraiba.ghtml",
+     "angulo": "g1: o procedimento do MPF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Foi um ato de terror da mão do latifúndio’, denuncia coordenação do MST após ataque a acampamento na Paraíba",
+     "url": "https://www.brasildefato.com.br/2026/11/09/foi-um-ato-de-terror-da-mao-do-latifundio-denuncia-coordenacao-do-mst-apos-ataque-a-acampamento-na-paraiba/",
+     "angulo": "Brasil de Fato: a denúncia do MST.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "“Madrugada de terror”: MST denuncia ataque na Paraíba, cobra proteção às famílias e punição dos responsáveis",
+     "url": "https://midianinja.org/madrugada-de-terror-mst-denuncia-ataque-na-paraiba-cobra-protecao-as-familias-e-punicao-dos-responsaveis/",
+     "angulo": "Mídia Ninja: 12 barracos e disparos perto de criança.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Acampamento do MST sofre ataque a tiros e tem nove barracos incendiados na Paraíba",
+     "url": "https://www.brasil247.com/nordeste/acampamento-do-mst-sofre-ataque-a-tiros-e-tem-nove-barracos-incendiados-na-paraiba/",
+     "angulo": "247: 40 famílias e nove barracos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "checagens-desmentem-lulinha-fiscal-e-novas-alegacoes-de-fraude",
+   "editoria": "Checagem",
+   "escopo": "brasil",
+   "titulo": "Checagens desmentem que Lula nomeou o filho para fiscalizar o governo e novas alegações de fraude na eleição",
+   "lide": "Lupa e Aos Fatos mostraram que Lula não nomeou nem anunciou o filho como fiscal das entregas do governo. O Estadão Verifica desmentiu que boletins de urna e a votação baixa de Flávio em 3 mil seções indiquem fraude.",
+   "fatos": [
+    {
+     "texto": "Lula não nomeou o filho Fábio Luís, o 'Lulinha', para fiscalizar entregas do governo.",
+     "base": "2 checagens independentes (Lupa, Aos Fatos)"
+    },
+    {
+     "texto": "Dados de um conjunto pequeno de boletins de urna não servem para estimar o resultado da eleição.",
+     "base": "Estadão Verifica"
+    },
+    {
+     "texto": "A votação baixa de Flávio Bolsonaro em cerca de 3 mil urnas não é evidência de fraude.",
+     "base": "Estadão Verifica"
+    }
+   ],
+   "inferencias": [],
+   "em_disputa": [
+    {
+     "alegacao": "Lula nomeou o filho 'Lulinha' para fiscalizar as entregas do governo.",
+     "rotulo": "Falso",
+     "explicacao": "Não há ato de nomeação nem declaração de Lula nesse sentido, segundo duas agências de checagem.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/verificacao/2026/11/09/e-falso-que-lula-nomeou-o-filho-lulinha-para-fiscalizar-entregas-do-governo/"
+      },
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/lula-filho-fiscal-resultados-governo/"
+      }
+     ]
+    },
+    {
+     "alegacao": "Boletins de urna mostram vitória de Flávio Bolsonaro.",
+     "rotulo": "Distorcido",
+     "explicacao": "Segundo o Estadão Verifica, a amostra é pequena demais para estimar o resultado do conjunto das seções.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/boletins-urna-mostram-vitoria-flavio-bolsonaro-eleicoes-enganoso/"
+      }
+     ]
+    },
+    {
+     "alegacao": "A votação baixíssima de Flávio em 3 mil urnas prova fraude.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Segundo o Estadão Verifica, a predominância de votos de um candidato em parte das seções não prova fraude.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/predominancia-votos-lula-secoes-nao-prova-fraude/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Só as agências de checagem trataram dessas alegações: matérias de veículos de esquerda, centro ou direita sobre elas não foram encontradas nos feeds nem na busca.",
+   "continua": {
+    "data": "2026-11-05",
+    "id": "checagens-desmentem-alegacoes-de-fraude-no-segundo-turno",
+    "titulo": "Checagens desmentem alegações de fraude no 2º turno; Alcolumbre ironiza: 'no 1º turno a urna prestou'"
+   },
+   "materias": [
+    {
+     "fonte": "lupa",
+     "titulo": "É falso que Lula nomeou o filho ‘Lulinha’ para fiscalizar entregas do governo",
+     "url": "https://www.agencialupa.org/verificacao/2026/11/09/e-falso-que-lula-nomeou-o-filho-lulinha-para-fiscalizar-entregas-do-governo/",
+     "angulo": "Lupa: não houve nomeação.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "Lula não disse que seu filho será fiscal dos resultados do governo",
+     "url": "https://www.aosfatos.org/noticias/lula-filho-fiscal-resultados-governo/",
+     "angulo": "Aos Fatos: a declaração não existiu.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Dados de um conjunto pequeno de boletins de urna não servem para estimar resultado das eleições",
+     "url": "https://www.estadao.com.br/estadao-verifica/boletins-urna-mostram-vitoria-flavio-bolsonaro-eleicoes-enganoso/",
+     "angulo": "Estadão Verifica: amostra pequena de boletins.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Votação baixíssima de Flávio em 3 mil urnas não é evidência de fraude eleitoral",
+     "url": "https://www.estadao.com.br/estadao-verifica/predominancia-votos-lula-secoes-nao-prova-fraude/",
+     "angulo": "Estadão Verifica: concentração de votos não é fraude.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "trump-diz-que-fbi-investiga-caso-do-ceo-da-nvidia",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Trump diz que o FBI investiga o caso do CEO da Nvidia, e ações da empresa caem 4%",
+   "lide": "Trump disse ter conversado com Jensen Huang, que afirmou não saber que a mulher com quem teve um caso era suspeita de espionar para a China. As ações da Nvidia caíram 4,27% na segunda-feira, e acionistas abriram processo contra a empresa.",
+   "fatos": [
+    {
+     "texto": "Trump disse que o FBI está investigando o relacionamento de Jensen Huang com a suposta espiã chinesa.",
+     "base": "4 fontes independentes (BBC, Financial Times, Al Jazeera, O Globo)"
+    },
+    {
+     "texto": "Trump disse que Huang afirmou não saber que a mulher era espiã.",
+     "base": "3 fontes independentes (Washington Post, CNN Brasil, Valor)"
+    },
+    {
+     "texto": "As ações da Nvidia caíram 4,27% na Nasdaq na segunda-feira (9).",
+     "base": "2 fontes independentes (Valor, CNN Brasil)"
+    },
+    {
+     "texto": "A Nvidia e Huang foram processados por acionistas numa proposta de ação coletiva.",
+     "base": "3 fontes independentes (Guardian, Valor, AFP)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Nvidia perdeu US$ 192 bilhões em valor de mercado em um dia.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "A aproximação entre Trump e Huang coincidiu com decisões favoráveis à empresa.",
+     "quem": "g1"
+    },
+    {
+     "texto": "A Nvidia interveio numa investigação dos EUA sobre contrabando de chips.",
+     "quem": "O Globo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A mulher com quem Huang se relacionou é espiã a serviço da China.",
+     "rotulo": "Em apuração",
+     "explicacao": "É objeto de investigação do FBI e da empresa; Pequim nega ligação.",
+     "onde_circula": "imprensa internacional",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A Nvidia fabrica os chips usados para treinar a maior parte dos modelos de IA; a queda das ações pesou sobre as bolsas, inclusive no Brasil.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-09",
+    "id": "ceo-da-nvidia-admite-caso-com-suposta-espia-chinesa",
+    "titulo": "CEO da Nvidia admite caso com mulher suspeita de espionagem para a China, e empresa abre investigação"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+     "angulo": "BBC: a conversa de Trump com Huang.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Trump diz que FBI apura caso de Huang, “um homem muito honrado”",
+     "url": "https://oantagonista.com.br/mundo/trump-diz-que-fbi-apura-caso-de-huang-um-homem-muito-honrado/",
+     "angulo": "O Antagonista: 'um homem muito honrado'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+     "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+     "angulo": "Guardian: o processo dos acionistas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Trump defende CEO da Nvidia e diz acreditar que ele desconhecia suposta espionagem",
+     "url": "https://www.diariodocentrodomundo.com.br/trump-defende-ceo-da-nvidia-e-diz-acreditar-que-ele-desconhecia-suposta-espionagem/",
+     "angulo": "DCM: Trump acredita que Huang não sabia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+     "url": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+     "angulo": "FT: o FBI 'olhando' o caso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Nvidia perde US$ 192 bi em um dia após escândalo com CEO",
+     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-perde-us-192-bi-em-um-dia-apos-escandalo-com-ceo/",
+     "angulo": "CNN Brasil: a perda de valor.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy",
+     "url": "https://www.washingtonpost.com/technology/2026/11/09/china-dismisses-reports-plot-ensnare-nvidia-ceo-smear-campaign/",
+     "angulo": "Washington Post: Huang negou saber.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Empresária chinesa Alice Huang atrai investigação por suposta espionagem na Nvidia",
+     "url": "https://www.gazetadopovo.com.br/mundo/empresaria-chinesa-alice-huang-atrai-investigacao-por-suposta-espionagem-na-nvidia/",
+     "angulo": "Gazeta do Povo: quem é Alice Huang.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Suspeita de espionagem: como aproximação entre Trump e CEO da Nvidia coincidiu com decisões favoráveis à empresa",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/10/suspeita-de-espionagem-como-aproximacao-entre-trump-e-ceo-da-nvidia-coincidiu-com-decisoes-favoraveis-a-empresa.ghtml",
+     "angulo": "g1: as decisões favoráveis.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+     "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy",
+     "angulo": "Al Jazeera: o FBI no caso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Nvidia interveio em investigação dos EUA sobre contrabando de chips pela Megaspeed",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/nvidia-interveio-em-investigacao-dos-eua-sobre-contrabando-de-chips-pela-megaspeed.ghtml",
+     "angulo": "O Globo: o caso Megaspeed.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Nvidia e Jensen Huang são processados por supostas omissões com suspeita de espionagem chinesa",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/09/nvidia-e-jensen-huang-so-processados-por-supostas-omisses-com-suspeita-de-espionagem-chinesa.ghtml",
+     "angulo": "Valor: a ação coletiva.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "explosao-em-siderurgica-na-turquia-mata-17",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Explosão em siderúrgica no oeste da Turquia mata 17 trabalhadores",
+   "lide": "A explosão seguida de incêndio atingiu a usina da Habaş em Aliağa, perto de Esmirna. Há desaparecidos, e trabalhadores e a oposição criticam as condições de segurança da fábrica.",
+   "fatos": [
+    {
+     "texto": "Uma explosão numa siderúrgica em Aliağa, perto de Esmirna, matou ao menos 17 pessoas.",
+     "base": "4 fontes independentes (BBC, Euronews, Le Monde, Estadão)"
+    },
+    {
+     "texto": "A usina pertence ao grupo Habaş.",
+     "base": "2 fontes independentes (BBC, Euronews)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A explosão ocorreu depois que uma ponte rolante se rompeu e caiu num forno a arco elétrico.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "As condições de segurança da fábrica são precárias.",
+     "quem": "Coletivo de trabalhadores e oposição de esquerda, segundo o Le Monde"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de mortos.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os primeiros balanços falavam em 6 (Brasil 247), 10 (New York Post) e 16 mortos (CNN Brasil); os mais recentes, em 17.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Turkey steel factory blast kills at least 17 people",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo",
+     "angulo": "BBC: o tremor sentido como terremoto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Explosão em usina siderúrgica no oeste da Turquia deixa 17 mortos; há desaparecidos",
+     "url": "https://www.estadao.com.br/internacional/explosao-em-usina-siderurgica-no-oeste-da-turquia-deixa-mortos-desaparecidos-npr/",
+     "angulo": "Estadão: os desaparecidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Turquie : l’explosion d’une usine sidérurgique fait 17 morts et plusieurs blessés",
+     "url": "https://www.lemonde.fr/international/article/2026/11/09/turquie-l-explosion-d-une-usine-siderurgique-fait-16-morts-et-plusieurs-blesses_6808683_3210.html",
+     "angulo": "Le Monde: as críticas à segurança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Explosão em usina siderúrgica na Turquia deixa 16 mortos",
+     "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-usina-siderurgica-na-turquia-deixa-3-mortos-e-10-desaparecidos/",
+     "angulo": "CNN Brasil: a ponte rolante.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Turkey: Steel plant explosion kills 17 in Izmir province",
+     "url": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
+     "angulo": "Euronews: a usina da Habaş.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Explosão deixa 17 mortos e provoca incêndio na Turquia",
+     "url": "https://atarde.com.br/mundo/explosao-deixa-17-mortos-e-provoca-incendio-na-turquia-1408912",
+     "angulo": "A Tarde: o incêndio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Explosion at steel plant in western Turkey leaves 10 dead, 4 missing",
+     "url": "https://nypost.com/2026/11/09/us-news/explosion-at-steel-plant-in-western-turkey-leaves-10-dead-4-missing/",
+     "angulo": "New York Post: o balanço inicial de 10 mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Explosão em usina metalúrgica na Turquia deixa seis mortos e dezenas de feridos",
+     "url": "https://www.brasil247.com/mundo/explosao-em-usina-metalurgica-na-turquia-deixa-seis-mortos-e-dezenas-de-feridos/",
+     "angulo": "247: o balanço inicial de seis mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "franca-acusa-ira-de-ciberataque-a-geladeiras-de-supermercados",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "França acusa o Irã de ciberataque a geladeiras de cerca de 700 supermercados e promete sanções",
+   "lide": "O chanceler Jean-Noël Barrot atribuiu à Guarda Revolucionária iraniana o ataque de outubro, que esquentou freezers e estragou toneladas de alimentos. Paris convocou o embaixador iraniano e vai pedir sanções europeias.",
+   "fatos": [
+    {
+     "texto": "O governo francês atribuiu a uma unidade cibernética da Guarda Revolucionária do Irã os ataques a sistemas de refrigeração de supermercados.",
+     "base": "4 fontes independentes (Le Monde, BBC, Revista Oeste, Washington Post)"
+    },
+    {
+     "texto": "Os ataques atingiram cerca de 700 estabelecimentos e elevaram a temperatura de equipamentos a mais de 50°C.",
+     "base": "3 fontes independentes (SBT, NPR, Washington Post)"
+    },
+    {
+     "texto": "A França convocou o embaixador iraniano e anunciou que buscará sanções europeias.",
+     "base": "3 fontes independentes (New York Times, Guardian, AFP)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A França 'não se proíbe nada' na resposta ao Irã.",
+     "quem": "Jean-Noël Barrot, segundo o Le Monde"
+    },
+    {
+     "texto": "O ataque tem contexto geopolítico ligado à guerra dos EUA contra o Irã.",
+     "quem": "Guardian"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de lojas atingidas.",
+     "rotulo": "Contraditório",
+     "explicacao": "A maioria dos veículos fala em cerca de 700 estabelecimentos; a Al Jazeera, em mais de mil lojas.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "lemonde",
+     "titulo": "Cyberattaque contre des réfrigérateurs de supermarchés : la France « ne s’interdit rien » dans la riposte contre l’Iran, avertit Jean-Noël Barrot",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-jean-noel-barrot_6808797_3210.html",
+     "angulo": "Le Monde: a França 'não se proíbe nada'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "França acusa Irã de atacar sistemas de refrigeração de supermercados",
+     "url": "https://revistaoeste.com/mundo/franca-acusa-ira-de-atacar-sistemas-de-refrigeracao-de-supermercados/",
+     "angulo": "Oeste: a Guarda Revolucionária.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "France accuses Iran of supermarket fridge hacking",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+     "angulo": "BBC: as toneladas de comida estragada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "França acusa Irã estar por trás de ciberataques a freezers de supermercados",
+     "url": "https://www.dw.com/pt-br/frança-acusa-irã-estar-por-trás-de-ciberataques-a-freezers-de-supermercados/a-79905628?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "DW Brasil: mais de 700 supermercados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Iran hacked hundreds of French supermarket refrigerators, France says",
+     "url": "https://www.washingtonpost.com/world/2026/11/09/iran-hacked-hundreds-french-supermarket-refrigerators-france-says/",
+     "angulo": "Washington Post: 'ataque de alcance sem precedente'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "França investiga Guarda Revolucionária do Irã por sabotagem cibernética a supermercados",
+     "url": "https://www.gazetadopovo.com.br/mundo/franca-investiga-guarda-revolucionaria-do-ira-por-sabotagem-cibernetica-a-supermercados/",
+     "angulo": "Gazeta do Povo: a investigação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "France Blames Iran for Cyberattack on Refrigeration Systems",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+     "angulo": "NYT: a convocação do embaixador.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "França acusa Irã por ciberataque a geladeiras de mercados",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/franca-acusa-ira-por-ciberataque-a-geladeiras-de-mercados-1",
+     "angulo": "SBT: 50°C nos equipamentos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+     "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+     "angulo": "Guardian: as sanções europeias.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "France accuses Iran of cyberattack on supermarket fridges",
+     "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+     "angulo": "Al Jazeera: mais de mil lojas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "França acusa Irã por ataque cibernético contra refrigeradores e promete impor sanções ao país",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/09/franca-investiga-se-ira-esta-por-tras-de-ataque-a-refrigeradores-e-promete-sancoes-ao-pais.ghtml",
+     "angulo": "g1: a promessa de sanções.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-09"
+    }
+   ]
+  }
+ ]
+}
