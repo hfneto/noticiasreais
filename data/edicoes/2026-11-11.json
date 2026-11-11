@@ -1,0 +1,1494 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-11",
+ "gerado_em": "2026-11-11T05:57:09-03:00",
+ "historias": [
+  {
+   "id": "governo-acerta-com-congresso-ajuste-fiscal-de-ate-r-80-bi",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Governo acerta com o Congresso projeto de ajuste fiscal de até R$ 80 bilhões para 2027",
+   "lide": "A equipe econômica e o Senado negociam um projeto de lei complementar que muda o cálculo dos pisos da saúde e da educação e revisa incentivos tributários. Alcolumbre diz que o texto deve ser apresentado por Jaques Wagner na próxima semana.",
+   "fatos": [
+    {
+     "texto": "O governo e o Congresso negociam um projeto de lei complementar de ajuste fiscal entre R$ 70 bilhões e R$ 80 bilhões para 2027, cerca de 0,5% do PIB.",
+     "base": "4 fontes independentes (g1, CNN Brasil, Brasil 247, InfoMoney)"
+    },
+    {
+     "texto": "A proposta em discussão muda o cálculo dos pisos da saúde e da educação e revisa incentivos tributários.",
+     "base": "3 fontes independentes (g1, DCM, Estadão)"
+    },
+    {
+     "texto": "Alcolumbre disse que as primeiras medidas devem ser apresentadas pelo senador Jaques Wagner na próxima semana.",
+     "base": "3 fontes independentes (Valor, Agência Senado, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O governo sinalizou ao mercado uma autorização para cancelamento extra de R$ 12,8 bilhões em gastos em 2027.",
+     "quem": "Integrantes do governo, segundo a Folha"
+    },
+    {
+     "texto": "O ajuste inicial seria de R$ 50 bilhões, com bloqueio de gastos.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Lula vai deixar as decisões sobre o ajuste e a 6x1 para depois da viagem.",
+     "quem": "Metrópoles"
+    },
+    {
+     "texto": "A proposta do mercado de corte de gastos penaliza os mais pobres.",
+     "quem": "Manifesto de movimentos sociais e sindicais, segundo a Agência Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Tamanho do ajuste.",
+     "rotulo": "Contraditório",
+     "explicacao": "O Estadão fala em ajuste de R$ 50 bilhões; g1, O Globo e CNN Brasil, em até R$ 80 bilhões em 2027.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta o projeto como compromisso com a meta fiscal, negociado com o Congresso.",
+    "oposicao": "Veículos de oposição cobram cortes concretos e duvidam da disposição de Lula de reduzir gastos."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-09",
+    "id": "lula-promete-responsabilidade-fiscal-e-ataca-big-techs-na-tv",
+    "titulo": "Lula promete responsabilidade fiscal na TV, sem medidas, e acusa big techs de interferir na eleição"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Governo acerta com Congresso projeto de ajuste fiscal que pode chegar a R$ 80 bi em 2027",
+     "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/10/governa-acerta-com-congresso-projeto-de-ajuste-fiscal-de-05percent-do-pib-para-2027.ghtml",
+     "angulo": "g1: até R$ 80 bilhões em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Governo prepara projeto para bloquear gastos, cortar isenções e mudar piso, em ajuste de R$ 50 bi",
+     "url": "https://www.estadao.com.br/economia/governo-prepara-projeto-para-bloquear-gasto-cortar-isencoes-e-mudar-piso-em-ajuste-de-r-50-bi/",
+     "angulo": "Estadão: bloqueio, isenções e piso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Governo acerta com Congresso projeto de ajuste fiscal de 0,5% do PIB em 2027",
+     "url": "https://www.brasil247.com/economia/governo-lula-negocia-com-congresso-ajuste-fiscal-de-ate-r-80-bilhoes-em-2027/",
+     "angulo": "247: 0,5% do PIB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Ajuste fiscal de até R$ 80 bi em 2027: entenda o que o governo Lula discute para acalmar os mercados",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/11/ajuste-fiscal-de-ate-r-80-bi-em-2027-entenda-o-que-o-governo-lula-discute-para-acalmar-os-mercados.ghtml",
+     "angulo": "O Globo: o que o governo discute.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo sinaliza ao mercado cancelamento extra de R$ 12,8 bi em gastos em 2027 para cumprir meta",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-sinaliza-ao-mercado-cancelamento-extra-de-r-128-bi-em-gastos-em-2027-para-cumprir-meta.shtml",
+     "angulo": "Folha: o cancelamento de R$ 12,8 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Governo e Congresso articulam ajuste fiscal de até R$ 80 bilhões para 2027",
+     "url": "https://www.diariodocentrodomundo.com.br/governo-e-congresso-articulam-ajuste-fiscal-de-ate-r-80-bilhoes-para-2027/",
+     "angulo": "DCM: a revisão de incentivos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Alcolumbre prevê que primeiras medidas de ajuste fiscal do governo sejam apresentadas na próxima semana",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/10/alcolumbre-prev-que-medidas-de-ajuste-fiscal-do-governo-seja-apresentadas-na-prxima-semana.ghtml",
+     "angulo": "Valor: o projeto de Jaques Wagner.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Movimentos sociais denunciam proposta do mercado de corte de gastos",
+     "url": "https://iclnoticias.com.br/economia/movimentos-sociais-denunciam-proposta/",
+     "angulo": "ICL Notícias: o manifesto contra cortes.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Alcolumbre diz ter compromisso para analisar projeto de ajuste fiscal",
+     "url": "https://www.cnnbrasil.com.br/politica/alcolumbre-diz-ter-compromisso-para-analisar-projeto-de-ajuste-fiscal/",
+     "angulo": "CNN Brasil: o compromisso do Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Economia ruim, agravada pela falta de ajuste nas contas públicas, pode marcar a virada de mandato",
+     "url": "https://www.estadao.com.br/economia/economia-ruim-agravada-pela-falta-de-ajuste-nas-contas-publicas-pode-marcar-a-virada-de-mandato/",
+     "angulo": "Estadão: economia ruim na virada de mandato.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "dolar-fecha-a-r-5-58-maior-valor-desde-julho-de-2025",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Dólar sobe 1,5% e fecha a R$ 5,58, maior valor desde julho de 2025",
+   "lide": "A moeda subiu com a inflação americana acima do esperado e a ata do Copom, que indicou juros altos por mais tempo. O Banco Central citou a guerra, o El Niño, o fim da 6x1 e o próprio dólar entre os fatores que pioram as expectativas de inflação.",
+   "fatos": [
+    {
+     "texto": "O dólar fechou em alta de cerca de 1,5%, a R$ 5,586, maior valor desde julho de 2025.",
+     "base": "4 fontes independentes (g1, Folha, Valor, Agência Brasil)"
+    },
+    {
+     "texto": "A alta ocorreu após dados de inflação nos EUA acima do esperado; o Ibovespa caiu.",
+     "base": "3 fontes independentes (Valor, InfoMoney, Veja)"
+    },
+    {
+     "texto": "A ata do Copom aponta piora das expectativas de inflação com a guerra no Oriente Médio, o El Niño, o fim da 6x1 e a alta do dólar.",
+     "base": "ata do Copom; 2 fontes independentes (Folha, Jovem Pan)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Banco Central avalia que os juros precisam ficar elevados por mais tempo.",
+     "quem": "O Globo, sobre a ata do Copom"
+    },
+    {
+     "texto": "O dólar reflete expectativas frustradas com a vitória de Lula.",
+     "quem": "Alexandre Garcia, na Gazeta do Povo"
+    },
+    {
+     "texto": "A alta reflete a força global do dólar, os juros nos EUA e incertezas fiscais no Brasil.",
+     "quem": "Especialistas ouvidos pela Exame"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas atribuem a alta principalmente à inflação americana e ao Fed.",
+    "oposicao": "Veículos de oposição associam a alta à desconfiança fiscal com o novo mandato de Lula."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Dólar fecha a R$ 5,58, maior valor em mais de um ano, após dados de inflação nos EUA; Ibovespa cai",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml",
+     "angulo": "g1: o fechamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dólar reflete expectativas frustradas com vitória de Lula",
+     "url": "https://www.gazetadopovo.com.br/vozes/alexandre-garcia/dolar-expectativas-frustradas-vitoria-lula/",
+     "angulo": "Gazeta do Povo: comentário de Alexandre Garcia.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Dólar atinge R$ 5,58 após inflação nos EUA e Ibovespa registra queda",
+     "url": "https://www.brasil247.com/economia/dolar-atinge-r-558-apos-inflacao-nos-eua-e-ibovespa-recua/",
+     "angulo": "247: o Fed e a bolsa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ata do Copom mostra expectativa de inflação mais alta com guerra, El Niño, fim da 6x1 e disparada do dólar",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/ata-do-copom-mostra-expectativa-de-inflacao-mais-alta-com-guerra-el-nino-fim-da-6x1-e-disparada-do-dolar.shtml",
+     "angulo": "Folha: os fatores citados na ata.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "O que desagradou ao mercado na ata do Copom sobre juros e o que isso tem a ver com a alta do dólar?",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/11/o-que-desagradou-ao-mercado-na-ata-do-copom-sobre-juros-e-o-que-isso-tem-a-ver-com-a-alta-do-dolar.ghtml",
+     "angulo": "O Globo: juros altos por mais tempo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Dólar fecha a R$ 5,58 e bate maior cotação desde julho de 2025",
+     "url": "https://jovempan.com.br/economia/dolar-fecha-a-r-558-e-bate-maior-cotacao-desde-julho-de-2025/",
+     "angulo": "Jovem Pan: alta de 1,48%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Dólar à vista vai ao maior patamar desde julho de 2025 com misto de risco local e externo",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/10/dolar-a-vista-vai-ao-maior-patamar-desde-julho-de-2025-com-misto-de-risco-local-e-externo.ghtml",
+     "angulo": "Valor: risco local e externo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
+     "angulo": "Agência Brasil: perto de R$ 5,60.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Dólar atinge maior cotação em 15 meses e se aproxima de R$ 6: até onde a moeda pode ir?",
+     "url": "https://exame.com/invest/mercados/dolar-atinge-maior-cotacao-em-15-meses-e-se-aproxima-de-r-6-ate-onde-a-moeda-pode-ir/",
+     "angulo": "Exame: até onde a moeda pode ir.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Dólar fecha a R$ 5,58, maior valor do ano, enquanto Ibovespa desvaloriza 0,52%",
+     "url": "https://veja.abril.com.br/economia/dolar-fecha-a-r-558-maior-valor-do-ano-enquanto-ibovespa-desvaloriza-052/",
+     "angulo": "Veja: Ibovespa em queda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "afastamento-de-delegados-do-caso-master-abre-crise-na-pf",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Afastamento de delegados que citaram ministros do STF no caso Master abre crise na PF",
+   "lide": "A direção da Polícia Federal afastou dois delegados que elaboraram relatórios sobre ministros do STF citados nas mensagens de Daniel Vorcaro e mandou refazer os documentos. A associação dos delegados fala em interferência, e o ministro da Justiça pediu explicações a Andrei Rodrigues.",
+   "fatos": [
+    {
+     "texto": "A PF afastou de funções de chefia dois delegados que elaboraram relatórios sobre ministros do STF no caso Master.",
+     "base": "4 fontes independentes (g1, Folha, Terra Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "A direção da PF decidiu refazer os relatórios sobre menções a ministros do STF.",
+     "base": "4 fontes independentes (g1, InfoMoney, Revista Fórum, DCM)"
+    },
+    {
+     "texto": "A Associação Nacional dos Delegados de Polícia Federal criticou o afastamento e falou em interferência e precedente preocupante.",
+     "base": "4 fontes independentes (O Globo, Veja, Poder360, SBT)"
+    },
+    {
+     "texto": "O ministro da Justiça, Wellington César Lima e Silva, enviou ofício pedindo explicações ao diretor-geral Andrei Rodrigues.",
+     "base": "2 fontes independentes (Revista Oeste, DCM)"
+    },
+    {
+     "texto": "O senador Alessandro Vieira apresentou requerimentos para convocar o ministro da Justiça e o diretor-geral da PF.",
+     "base": "3 fontes independentes (O Antagonista, Veja, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A PF atribui as dispensas a uma reestruturação interna.",
+     "quem": "PF, segundo o DCM"
+    },
+    {
+     "texto": "Os relatórios foram rejeitados por repetir modelos já contestados pelo STF.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "O objetivo dos movimentos é 'matar por inanição' os inquéritos contra figurões.",
+     "quem": "Investigador ouvido pela Veja"
+    },
+    {
+     "texto": "Os novos relatórios devem incluir mais três ministros do STF.",
+     "quem": "Brasil 247 e Valor"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam a versão da PF de que os relatórios extrapolaram e precisavam ser refeitos.",
+    "oposicao": "A oposição fala em 'acordão' para blindar ministros do STF e cobra explicações do governo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-07",
+    "id": "fachin-homologa-delacao-do-fundador-da-reag-no-caso-master",
+    "titulo": "Fachin homologa delação do fundador da Reag no caso Master; Anac apura voos de Moraes"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Associação critica afastamento de delegados que elaboraram relatórios sobre ministros do STF e cobra autonomia da PF",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/10/associacao-critica-afastamento-de-delegados-que-elaboraram-relatorios-sobre-ministros-do-stf-e-cobra-autonomia-da-pf.ghtml",
+     "angulo": "g1: a crítica da associação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Relatórios sobre ministros do STF no caso Master provocam racha na PF",
+     "url": "https://www.gazetadopovo.com.br/republica/relatorios-sobre-ministros-do-stf-no-caso-master-provocam-racha-na-pf/",
+     "angulo": "Gazeta do Povo: o racha na PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Troca de delegados do Master leva ministro a cobrar explicações da PF",
+     "url": "https://www.diariodocentrodomundo.com.br/troca-de-delegados-do-master-leva-ministro-a-cobrar-explicacoes-da-pf/",
+     "angulo": "DCM: o ofício do ministro e a versão da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Afastamento de delegados aprofunda racha, e PF enfrenta rompimento e críticas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/afastamento-de-delegados-aprofunda-racha-e-pf-enfrenta-rompimento-e-criticas.shtml",
+     "angulo": "Folha: críticas dentro e fora da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Ministro da Justiça cobra PF sobre troca de delegados do caso Master",
+     "url": "https://revistaoeste.com/politica/ministro-da-justica-cobra-pf-sobre-troca-de-delegados-do-caso-master/",
+     "angulo": "Oeste: a cobrança do ministro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Direção da PF determina reformulação de relatórios sobre ministros do STF e Vorcaro",
+     "url": "https://www.brasil247.com/poder/direcao-da-pf-determina-reformulacao-de-relatorios-sobre-ministros-e-vorcaro/",
+     "angulo": "247: relatórios repetiam modelos contestados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Entenda o impacto do afastamento de delegados do caso Master nas investigações da PF",
+     "url": "https://veja.abril.com.br/brasil/entenda-o-impacto-do-afastamento-de-delegados-do-caso-master-nas-investigacoes-da-pf/",
+     "angulo": "Veja: 'matar por inanição' os inquéritos.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "As críticas à troca de delegados da PF no caso Master: 'Graves suspeitas'",
+     "url": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no",
+     "angulo": "BBC Brasil: 'graves suspeitas'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Não cabe a Andrei reformular relatórios, diz associação de delegados",
+     "url": "https://www.poder360.com.br/poder-justica/nao-cabe-a-andrei-reformular-relatorios-diz-associacao-de-delegados/",
+     "angulo": "Poder360: a nota da ADPF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "PF toma nova decisão sobre relatórios que citam ministros do STF no caso Master",
+     "url": "https://revistaforum.com.br/politica/pf-relatorios-ministros-stf-master/",
+     "angulo": "Fórum: os relatórios serão refeitos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Vieira pede convocação de ministro da Justiça e diretor da PF por caso Master",
+     "url": "https://oantagonista.com.br/brasil/vieira-pede-convocacao-de-ministro-da-justica-e-diretor-da-pf-por-caso-master/",
+     "angulo": "O Antagonista: os requerimentos no Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Exonerações de delegados do caso Master provocam guerra de versões na PF",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/10/exoneracoes-de-delegados-do-caso-master-provocam-guerra-de-versoes-na-pf.ghtml",
+     "angulo": "O Globo: a guerra de versões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "tse-multa-meta-em-r-7-5-milhoes-por-descumprir-ordens",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir ordens na eleição, mas não vê interferência deliberada",
+   "lide": "Por unanimidade, o tribunal puniu a dona do Facebook e do Instagram por atrasos e informações incompletas em ação da campanha de Lula, que acusava tratamento desigual a favor de Flávio Bolsonaro. Os ministros não viram prova de favorecimento deliberado.",
+   "fatos": [
+    {
+     "texto": "O TSE decidiu por unanimidade multar a Meta em R$ 7,5 milhões por descumprir decisões judiciais durante a eleição.",
+     "base": "4 fontes independentes (g1, Estadão, Agência Brasil, Jota)"
+    },
+    {
+     "texto": "O relator, Marco Aurélio Bellizze, apontou atrasos, falta de transparência e cumprimento parcial das determinações.",
+     "base": "2 fontes independentes (CNN Brasil, Band)"
+    },
+    {
+     "texto": "O tribunal não viu prova de interferência deliberada da Meta na eleição.",
+     "base": "3 fontes independentes (Valor, O Globo, DCM)"
+    },
+    {
+     "texto": "A ação foi movida pela campanha de Lula, que acusou a empresa de tratamento desigual entre os candidatos.",
+     "base": "3 fontes independentes (Jovem Pan, Folha, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Meta favoreceu a candidatura de Flávio Bolsonaro.",
+     "quem": "Campanha de Lula, segundo a Jovem Pan"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Meta favoreceu deliberadamente Flávio Bolsonaro na eleição.",
+     "rotulo": "Sem evidência",
+     "explicacao": "O TSE multou a empresa por descumprir ordens, mas disse não ver prova de favorecimento deliberado a uma candidatura.",
+     "onde_circula": "campanha de Lula, Lula",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governistas tratam a multa como confirmação de que a Meta tratou os candidatos de forma desigual.",
+    "oposicao": "Veículos de oposição destacam que o TSE não viu interferência deliberada."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "TSE decide multar Meta em R$ 7,5 milhões por descumprir decisão durante as eleições",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/10/tse-meta-descumprir-decisao-sobre-eleicoes.ghtml",
+     "angulo": "g1: a decisão unânime.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "TSE fixa multa de R$ 7,5 milhões à Meta por descumprir ordens nas eleições",
+     "url": "https://jovempan.com.br/politica/tse-fixa-multa-de-r-75-milhoes-a-meta-por-descumprir-ordens-nas-eleicoes/",
+     "angulo": "Jovem Pan: a ação da campanha de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "TSE condena Meta a pagar R$ 7,5 mi em ação sobre favorecimento de Flávio Bolsonaro em eleição",
+     "url": "https://www.cartacapital.com.br/politica/tse-condena-meta-a-pagar-r-75-mi-em-acao-sobre-favorecimento-de-flavio-bolsonaro-em-eleicao/",
+     "angulo": "CartaCapital: destaca o favorecimento no título.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "TSE multa Meta, mas não vê interferência deliberada na eleição",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/10/tse-decide-por-unanimidade-multar-meta-em-r-75-milhes-por-descumprir-decises-nas-eleies.ghtml",
+     "angulo": "Valor: sem interferência deliberada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisões de isonomia entre Lula e Flávio",
+     "url": "https://www.estadao.com.br/politica/tse-multa-meta-descumprir-decisoes-de-isonomia-entre-lula-e-flavio/",
+     "angulo": "Estadão: a isonomia entre os candidatos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir ordens nas eleições",
+     "url": "https://www.diariodocentrodomundo.com.br/tse-multa-meta-em-r-75-milhoes-por-descumprir-ordens-nas-eleicoes/",
+     "angulo": "DCM: sem comprovar favorecimento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir ordens judiciais, mas não vê provas de interferência deliberada na eleição",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/10/relator-no-tse-propoe-multa-de-r-75-milhoes-a-meta-mas-diz-nao-haver-provas-de-interferencia-deliberada-na-eleicao.ghtml",
+     "angulo": "O Globo: sem provas de interferência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão sobre eleições",
+     "url": "https://www.jota.info/eleicoes/eleicoes-2026/tse-multa-meta-em-r-75-milhoes-por-descumprir-decisao-sobre-eleicoes",
+     "angulo": "Jota: prazos e informações incompletas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir ordem da Corte",
+     "url": "https://www.cnnbrasil.com.br/politica/tse-meta-julgamento-eleicoes/",
+     "angulo": "CNN Brasil: o voto de Bellizze.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "TSE multa Meta por descumprir decisões durante a eleição entre Lula e Flávio",
+     "url": "https://veja.abril.com.br/politica/tse-multa-meta-por-descumprir-decisoes-durante-a-eleicao-entre-lula-e-flavio/",
+     "angulo": "Veja: o valor da multa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tse-multa-meta-em-r-75-milhoes-por-descumprir-decisao-nas-eleicoes",
+     "angulo": "Agência Brasil: informações incompletas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "pf-abre-inquerito-sobre-financiamento-estrangeiro-a-flavio",
+   "editoria": "Eleições",
+   "escopo": "brasil",
+   "titulo": "PF abre inquérito, por ordem de Dino, sobre suspeita de financiamento estrangeiro à campanha de Flávio",
+   "lide": "A Polícia Federal instaurou a investigação determinada pelo ministro Flávio Dino, do STF, para apurar se a campanha de Flávio Bolsonaro recebeu recursos ou apoio vindos dos Estados Unidos.",
+   "fatos": [
+    {
+     "texto": "A PF abriu inquérito para investigar suspeita de financiamento estrangeiro à campanha presidencial de Flávio Bolsonaro.",
+     "base": "4 fontes independentes (Gazeta do Povo, O Globo, Band, CNN Brasil)"
+    },
+    {
+     "texto": "A investigação cumpre determinação do ministro Flávio Dino, do STF.",
+     "base": "4 fontes independentes (Gazeta do Povo, Brasil 247, Band, O Globo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A apuração deve esclarecer se a organização conservadora Rockbridge Network deu apoio à campanha.",
+     "quem": "CartaCapital"
+    },
+    {
+     "texto": "O caso pode levar à cassação do PL.",
+     "quem": "ICL Notícias"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam o risco jurídico para o PL e a suspeita de interferência americana.",
+    "oposicao": "Veículos de oposição noticiam a abertura do inquérito como cumprimento de ordem de Dino."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "PF abre inquérito sobre suposto financiamento estrangeiro à campanha de Flávio",
+     "url": "https://www.gazetadopovo.com.br/republica/pf-abre-inquerito-sobre-suposto-financiamento-estrangeiro-a-campanha-de-flavio/",
+     "angulo": "Gazeta do Povo: a ordem de Dino.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "PF abre inquérito sobre financiamento da campanha de Flávio que pode cassar PL",
+     "url": "https://iclnoticias.com.br/pf-investiga-financiamento-campanha-flavio/",
+     "angulo": "ICL Notícias: o risco de cassação do PL.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "PF abre investigação ordenada por Dino sobre suspeita de financiamento estrangeiro à campanha de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/10/pf-abre-investigacao-ordenada-por-dino-sobre-suspeita-de-financiamento-estrangeiro-a-campanha-de-flavio-bolsonaro.ghtml",
+     "angulo": "O Globo: a formalização do inquérito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PF abre inquérito para investigar suposto apoio estrangeiro à campanha de Flávio Bolsonaro",
+     "url": "https://www.brasil247.com/brasil/pf-abre-inquerito-para-investigar-suposto-apoio-estrangeiro-a-campanha-de-flavio-bolsonaro/",
+     "angulo": "247: recursos e plataformas digitais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "band",
+     "titulo": "PF abre inquérito para apurar se campanha de Flávio usou verba estrangeira",
+     "url": "https://www.band.com.br/politica/pf-abre-inquerito-para-apurar-se-campanha-de-flavio-usou-verba-estrangeira",
+     "angulo": "Band: outros órgãos notificados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "PF abre inquérito apurar suspeitas de financiamento estrangeiro na campanha de Flávio Bolsonaro",
+     "url": "https://www.cartacapital.com.br/politica/pf-abre-inquerito-apurar-suspeitas-de-financiamento-estrangeiro-na-campanha-de-flavio-bolsonaro/",
+     "angulo": "CartaCapital: a Rockbridge Network.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PF instaura inquérito sobre uso de verba estrangeira na campanha de Flávio",
+     "url": "https://www.cnnbrasil.com.br/politica/pf-instaura-inquerito-sobre-uso-de-verba-estrangeira-na-campanha-de-flavio/",
+     "angulo": "CNN Brasil: aportes dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "camara-aprova-mp-das-dividas-rurais-com-jabuti-dos-vapes",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Câmara aprova MP que renegocia dívidas rurais com 'jabuti' que abre caminho para cigarros eletrônicos",
+   "lide": "A medida provisória, que perde a validade nesta quarta, foi aprovada depois de concessões do relator Paulo Pimenta à bancada do agro e precisa passar pelo Senado. O texto inclui um dispositivo que pode permitir a produção de vapes. A Câmara também aprovou R$ 13,5 bilhões a mais de crédito do Brasil Soberano.",
+   "fatos": [
+    {
+     "texto": "A Câmara aprovou a MP 1.376/2026, que renegocia dívidas de produtores rurais, a um dia de perder a validade; o texto vai ao Senado.",
+     "base": "4 fontes independentes (Agência Câmara, O Globo, Revista Oeste, Folha)"
+    },
+    {
+     "texto": "O relator, Paulo Pimenta, fez concessões à bancada do agro.",
+     "base": "3 fontes independentes (g1, Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "O texto inclui um dispositivo que pode liberar a produção ou comercialização de cigarros eletrônicos.",
+     "base": "4 fontes independentes (Estadão, O Globo, Veja, O Antagonista)"
+    },
+    {
+     "texto": "A Câmara também aprovou MP que amplia em R$ 13,5 bilhões o crédito do Plano Brasil Soberano para exportadores afetados pelo tarifaço.",
+     "base": "3 fontes independentes (Poder360, CNN Brasil, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O dispositivo sobre cigarros eletrônicos atende a pleito de produtores rurais.",
+     "quem": "Paulo Pimenta, relator, segundo a Veja"
+    },
+    {
+     "texto": "O governo Lula incluiu o jabuti na MP.",
+     "quem": "O Antagonista"
+    },
+    {
+     "texto": "A renegociação de dívidas rurais já soma R$ 23,3 bilhões.",
+     "quem": "Banco Central, segundo a CNN Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Alcance do dispositivo sobre cigarros eletrônicos.",
+     "rotulo": "Contraditório",
+     "explicacao": "Estadão e O Globo dizem que o jabuti pode liberar a venda de vapes; a Veja diz que permite a produção para exportação.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta a MP como alívio a produtores afetados por eventos climáticos extremos.",
+    "oposicao": "Veículos de oposição atribuem o jabuti ao governo Lula."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Câmara aprova MP de dívidas rurais com ‘jabuti’ para liberar venda de cigarros eletrônicos, os vapes",
+     "url": "https://www.estadao.com.br/economia/camara-aprova-mp-de-dividas-rurais-com-jabuti-para-liberar-venda-de-cigarros-eletronicos-os-vapes/",
+     "angulo": "Estadão: o jabuti dos vapes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Câmara aprova renegociação de dívidas rurais e amplia benefícios a produtores",
+     "url": "https://revistaoeste.com/politica/camara-aprova-renegociacao-de-dividas-rurais-e-amplia-beneficios-a-produtores/",
+     "angulo": "Oeste: benefícios ampliados a produtores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Relator atende agronegócio, e MP que renegocia dívidas rurais é aprovada na Câmara",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/10/relator-atende-agronegocio-e-mp-que-renegocia-dividas-rurais-e-aprovada-na-camara.ghtml",
+     "angulo": "g1: as concessões ao agro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Câmara aprova R$ 13,5 bilhões extras do Plano Brasil Soberano para exportadores",
+     "url": "https://www.brasil247.com/economia/camara-aprova-r-135-bilhoes-extras-do-plano-brasil-soberano-para-exportadores/",
+     "angulo": "247: o Brasil Soberano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Governo Lula inclui jabuti em MP e abre caminho para legalizar cigarros eletrônicos",
+     "url": "https://oantagonista.com.br/brasil/governo-inclui-jabuti-em-mp-e-abre-caminho-para-legalizar-cigarros-eletronicos/",
+     "angulo": "O Antagonista: atribui o jabuti ao governo.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Artigo incluído em MP pode permitir produção de cigarros eletrônicos no Brasil para exportação",
+     "url": "https://veja.abril.com.br/brasil/artigo-incluido-em-mp-pode-permitir-producao-de-cigarros-eletronicos-no-brasil-para-exportacao/",
+     "angulo": "Veja: a produção para exportação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "agenciacamara",
+     "titulo": "Câmara aprova renegociação de dívidas rurais de produtores prejudicados por eventos climáticos extremos",
+     "url": "https://www.camara.leg.br/noticias/1317852-camara-aprova-renegociacao-de-dividas-rurais-de-produtores-prejudicados-por-eventos-climaticos-extremos",
+     "angulo": "Agência Câmara: eventos climáticos extremos.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Câmara aprova MP da dívida rural após acordo com agro e inclusão de jabutis",
+     "url": "https://www.gazetadopovo.com.br/economia/camara-aprova-mp-da-divida-rural-apos-acordo-com-agro-e-inclusao-de-jabutis/",
+     "angulo": "Gazeta do Povo: acordo com o agro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Câmara aprova renegociação de dívidas rurais após concessões do relator para atender agro",
+     "url": "https://c-level.folha.uol.com.br/agro/2026/11/relator-faz-novas-concessoes-e-renegociacao-de-dividas-rurais-avanca-no-congresso.shtml",
+     "angulo": "Folha: as concessões do relator.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Renegociação de dívidas rurais chega a R$ 23,3 bilhões, aponta BC",
+     "url": "https://www.cnnbrasil.com.br/agro/renegociacao-de-dividas-rurais-chega-a-r-233-bilhoes-aponta-bc/",
+     "angulo": "CNN Brasil: o levantamento do BC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Congresso inclui 'jabuti' que pode liberar vapes em medida provisória de dívidas rurais",
+     "url": "https://oglobo.globo.com/saude/noticia/2026/11/10/congresso-inclui-jabuti-que-libera-vapes-em-medida-provisoria-de-dividas-rurais.ghtml",
+     "angulo": "O Globo: os vapes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "dino-decide-ate-sexta-regras-de-transicao-do-fim-da-6x1",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Dino diz que decide até sexta as regras de transição do fim da 6x1 e sinaliza folgas por acordo coletivo",
+   "lide": "Em audiência de conciliação no STF com empresários e trabalhadores, o ministro disse que a Corte não vai rediscutir a emenda aprovada pelo Congresso, mas dará balizas para a aplicação. Indústria e comércio pedem mais prazo; a primeira etapa, com jornada de 42 horas, está prevista para dezembro.",
+   "fatos": [
+    {
+     "texto": "Flávio Dino disse que decidirá até sexta-feira (13) as ações sobre a transição do fim da escala 6x1 e levará a decisão ao plenário.",
+     "base": "4 fontes independentes (O Globo, CNN Brasil, SBT, Brasil 247)"
+    },
+    {
+     "texto": "Dino disse que o STF não vai rediscutir o fim da 6x1 aprovado pelo Congresso.",
+     "base": "3 fontes independentes (Jota, IstoÉ, CartaCapital)"
+    },
+    {
+     "texto": "Dino sinalizou que acordos coletivos poderão flexibilizar a distribuição de folgas.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, Estadão)"
+    },
+    {
+     "texto": "Empresários da indústria e do comércio pediram no STF transição maior para a nova jornada.",
+     "base": "3 fontes independentes (SBT, Exame, Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O decreto de regulamentação deve sair até terça.",
+     "quem": "Luiz Marinho, ministro do Trabalho, segundo o Metrópoles"
+    },
+    {
+     "texto": "O fim da 6x1 e a desconfiança em Lula vão segurar o corte dos juros.",
+     "quem": "Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Dino rejeitou o pedido de empresários para adiar o fim da 6x1.",
+     "rotulo": "Falta contexto",
+     "explicacao": "Dino disse que a medida é constitucional e que não vai rediscuti-la, mas a decisão sobre os pedidos de prazo só sai até sexta, segundo O Globo, Valor e CNN Brasil.",
+     "onde_circula": "Brasil de Fato",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Governo e aliados defendem a aplicação imediata e criticam o STF por analisar o pedido de adiamento.",
+    "oposicao": "Veículos de oposição destacam os custos para as empresas e o efeito sobre inflação e juros."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-06",
+    "id": "dino-marca-conciliacao-sobre-fim-da-6x1-e-mantem-prazos",
+    "titulo": "Dino marca audiência de conciliação sobre o fim da escala 6x1 e não suspende os prazos"
+   },
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Fim da escala 6x1: Dino decide até sexta-feira e vai levar caso ao plenário do STF. Entenda o que está em jogo na Corte",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/11/fim-da-escala-6x1-dino-decide-ate-sexta-e-vai-levar-caso-ao-plenario-do-stf-entenda-o-que-esta-em-jogo-na-corte.ghtml",
+     "angulo": "O Globo: o que está em jogo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dino rebate crítica de ministro de Lula à atuação do STF no debate sobre a escala 6×1",
+     "url": "https://www.gazetadopovo.com.br/republica/dino-rebate-critica-de-ministro-de-lula-a-atuacao-do-stf-no-debate-sobre-escala-6x1/",
+     "angulo": "Gazeta do Povo: Dino responde a Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Dino rejeita pedido de empresários para adiar fim da escala 6×1 e diz que medida é ‘plenamente constitucional’",
+     "url": "https://www.brasildefato.com.br/2026/11/10/dino-rejeita-pedido-de-empresarios-para-adiar-fim-da-escala-6x1-e-diz-que-medida-e-plenamente-constitucional/",
+     "angulo": "Brasil de Fato: 'plenamente constitucional'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Dino sinaliza que vai permitir flexibilizar folgas após fim da 6x1 por acordo coletivo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/dino-indica-que-dara-aval-a-flexibilizacao-do-fim-da-escala-6x1-desde-que-prevista-em-acordo-coletivo.shtml",
+     "angulo": "Folha: as folgas por acordo coletivo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Flávio Dino diz que dará decisão com medidas que facilitem aplicação do fim da 6×1",
+     "url": "https://www.jota.info/trabalho/flavio-dino-diz-que-dara-decisao-com-medidas-que-facilitem-aplicacao-do-fim-da-6x1",
+     "angulo": "Jota: não vai alterar decisão do Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "No STF, empresários pedem transição maior para fim da 6x1",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/no-stf-empresarios-pedem-transicao-maior-para-fim-da-6x1",
+     "angulo": "SBT: o pedido dos empresários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Dino fala em ‘eliminar amarras’ para fim da escala 6x1 e facilitar negociação coletiva",
+     "url": "https://www.estadao.com.br/economia/dino-sinaliza-em-audiencia-que-pode-flexibilizar-fim-da-escala-6x1-mediante-negociacao-coletiva/",
+     "angulo": "Estadão: negociação coletiva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Dino deve decidir esta semana sobre prazo para implementar fim da escala 6×1",
+     "url": "https://www.cartacapital.com.br/justica/dino-deve-decidir-esta-semana-sobre-prazo-para-implementar-fim-da-escala-6x1/",
+     "angulo": "CartaCapital: sem alterar a emenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Fim da 6x1: CNI pede mais prazo para nova jornada e Dino prevê julgamento no STF até dezembro",
+     "url": "https://exame.com/brasil/fim-da-6x1-cni-pede-mais-prazo-para-nova-jornada-e-dino-preve-julgamento-no-stf-antes-de-dezembro/",
+     "angulo": "Exame: o julgamento no plenário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "6x1: Marinho prevê conversa com Lula e decreto de regulamentação até terça",
+     "url": "https://www.metropoles.com/colunas/manoela-alcantara/6x1-marinho-preve-conversa-com-lula-e-decreto-de-regulamentacao-ate-terca",
+     "angulo": "Metrópoles: o decreto de regulamentação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Se não houver acordo sobre fim da 6×1, haverá decisão sobre contrapartidas, diz Dino",
+     "url": "https://jovempan.com.br/politica/se-nao-houver-acordo-sobre-fim-da-6x1-havera-decisao-sobre-contrapartidas-diz-dino/",
+     "angulo": "Jovem Pan: as contrapartidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "brasil-apresenta-mapas-do-caminho-para-fim-dos-fosseis-na-cop31",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Brasil apresenta na COP31 'mapas do caminho' para o fim dos combustíveis fósseis; Lula se reúne com Erdogan",
+   "lide": "Os roteiros para a transição energética, elaborados na presidência brasileira da COP30, foram apresentados em Antália junto com um marco de financiamento para a saúde. Lula discutiu comércio, defesa e minerais críticos com o presidente turco.",
+   "fatos": [
+    {
+     "texto": "O Brasil apresentou na COP31 os 'mapas do caminho' para a transição energética e o fim dos combustíveis fósseis.",
+     "base": "3 fontes independentes (O Globo, Brasil de Fato, Folha)"
+    },
+    {
+     "texto": "O Brasil apresentou um Marco de Financiamento para adaptar sistemas de saúde à mudança do clima.",
+     "base": "3 fontes independentes (Brasil de Fato, CartaCapital, Band)"
+    },
+    {
+     "texto": "Lula se reuniu com Recep Tayyip Erdogan e discutiu comércio, defesa e minerais críticos.",
+     "base": "4 fontes independentes (g1, Metrópoles, Exame, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Brasil relança a proposta em meio a contradições, como a expansão do petróleo.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "O governo não cumpre o que propõe na COP31 e quer que outros países paguem a conta.",
+     "quem": "Diário do Poder"
+    },
+    {
+     "texto": "Tudo e todos que amamos estão em jogo.",
+     "quem": "Greta Thunberg, segundo a Al Jazeera"
+    },
+    {
+     "texto": "A Turquia anunciou a exploração de dois campos de petróleo no dia da abertura.",
+     "quem": "Mídia Ninja e Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam o protagonismo de Lula e do Brasil na agenda climática.",
+    "oposicao": "Veículos de oposição destacam a contradição entre o discurso e a exploração de petróleo."
+   },
+   "visao_de_fora": "A imprensa estrangeira destaca a crítica de Greta Thunberg e o anúncio de novos campos de petróleo pela Turquia, anfitriã da conferência.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-10",
+    "id": "cop31-comeca-na-turquia-e-lula-chega-com-ministros-e-janones",
+    "titulo": "COP31 começa na Turquia; Brasil passa a presidência e Lula chega com ministros e Janones"
+   },
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Brasil apresenta 'mapas do caminho' na COP31 e ressalta urgência de transição energética global",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/11/10/brasil-apresenta-mapas-do-caminho-na-cop31-e-ressalta-urgencia-de-transicao-energetica-global.ghtml",
+     "angulo": "O Globo: a urgência da transição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Governo Lula não cumpre o que propõe na COP31 e ainda quer outros países pagando a conta",
+     "url": "https://diariodopoder.com.br/coluna-claudio-humberto/governo-lula-nao-cumpre-o-que-propoe-na-cop31-e-ainda-quer-outros-paises-pagando-a-conta",
+     "angulo": "Diário do Poder: contradições do governo.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Brasil pressiona pelo fim dos combustíveis fósseis com entrega de Mapa do Caminho na COP31, na Turquia",
+     "url": "https://www.brasildefato.com.br/2026/11/10/brasil-pressiona-pelo-fim-dos-combustiveis-fosseis-com-entrega-de-mapa-do-caminho-na-cop31-na-turquia/",
+     "angulo": "Brasil de Fato: o Mapa do Caminho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Em meio a contradições, Brasil relança proposta para transição energética na COP31",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/em-meio-a-contradicoes-brasil-relanca-proposta-para-transicao-energetica-na-cop31.shtml",
+     "angulo": "Folha: as contradições.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+     "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks",
+     "angulo": "Al Jazeera: a crítica de Thunberg.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Lula discute parceria em defesa com presidente turco, às margens da COP31 na Turquia",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/10/lula-discute-parceria-em-defesa-com-presidente-turco-as-margens-da-cop31-na-turquia.ghtml",
+     "angulo": "g1: a reunião com Erdogan.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula vira destaque na COP31 em meio a aplausos e gritos de “Lula lá”",
+     "url": "https://revistaforum.com.br/politica/lula-destaque-cop31-aplausos/",
+     "angulo": "Fórum: aplausos e 'Lula lá'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "COP31: Brasil apresenta plano para adaptar sistemas de saúde às mudanças climáticas",
+     "url": "https://www.cartacapital.com.br/radar-carta/cop31-brasil-apresenta-plano-para-adaptar-sistemas-de-saude-as-mudancas-climaticas/",
+     "angulo": "CartaCapital: US$ 23 bilhões anuais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Cop31 as it happened: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
+     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "angulo": "Guardian: Turquia celebra novos campos de petróleo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Lula se reúne com presidente da Turquia na COP31 e discute defesa, comércio e minerais críticos",
+     "url": "https://exame.com/brasil/lula-se-reune-com-presidente-da-turquia-na-cop31-e-discute-defesa-comercio-e-minerais-criticos/",
+     "angulo": "Exame: comércio de US$ 5,9 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "Turquia anuncia a exploração de dois campos de petróleo no mesmo dia da abertura da COP31",
+     "url": "https://midianinja.org/turquia-anuncia-a-exploracao-de-dois-campos-de-petroleo-no-mesmo-dia-da-abertura-da-cop31/",
+     "angulo": "Mídia Ninja: petróleo na abertura.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "camara-dos-eua-barra-impeachment-de-hegseth",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Câmara dos EUA barra pedido de impeachment do secretário de Defesa, Pete Hegseth",
+   "lide": "Os republicanos rejeitaram enviar ao Comitê Judiciário as oito acusações apresentadas pelo republicano Thomas Massie, que incluem a guerra contra o Irã. Trump comemorou; os democratas dizem que vão tentar de novo no próximo Congresso.",
+   "fatos": [
+    {
+     "texto": "A Câmara dos EUA, de maioria republicana, barrou o pedido de impeachment de Hegseth.",
+     "base": "4 fontes independentes (BBC, Guardian, Axios, Exame)"
+    },
+    {
+     "texto": "O pedido foi apresentado pelo republicano Thomas Massie, com oito acusações, incluindo a condução da guerra contra o Irã.",
+     "base": "3 fontes independentes (Le Monde, Euronews, New York Post)"
+    },
+    {
+     "texto": "Trump comemorou o resultado e chamou Hegseth de 'grande patriota americano'.",
+     "base": "3 fontes independentes (BBC, CNN Brasil, Breitbart)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A votação foi de 211 a 204 contra o envio da resolução ao Comitê Judiciário.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "Onze democratas não votaram.",
+     "quem": "Al Jazeera"
+    },
+    {
+     "texto": "Os democratas vão tentar de novo no próximo Congresso.",
+     "quem": "Hakeem Jeffries, líder democrata, segundo a CNN Brasil"
+    },
+    {
+     "texto": "O impeachment é uma farsa e um ataque às tropas.",
+     "quem": "Pete Hegseth, segundo DCM e Bloomberg"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+     "angulo": "BBC: Trump comemora; democratas podem tentar de novo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump Reacts to Failed Impeachment Effort Against Hegseth: Dems 'Continue to Weaponize and Abuse' the U.S.",
+     "url": "https://www.breitbart.com/politics/2026/11/10/trump-reacts-failed-impeachment-effort-hegseth-dems-weaponize-abuse-u-s/",
+     "angulo": "Breitbart: Trump acusa democratas de 'armar' o Congresso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+     "angulo": "Guardian: as acusações contra Hegseth.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Câmara dos EUA barra impeachment de Pete Hegseth, secretário de Defesa de Trump",
+     "url": "https://exame.com/mundo/camara-dos-eua-barra-impeachment-de-pete-hegseth-secretario-de-defesa-de-trump/",
+     "angulo": "Exame: 211 a 204.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
+     "angulo": "Le Monde: as oito acusações.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Líder democrata reage após barrarem impeachment de Hegseth: “Não é o fim”",
+     "url": "https://www.cnnbrasil.com.br/internacional/lider-democrata-reage-apos-barrarem-impeachment-de-hegseth-nao-e-o-fim/",
+     "angulo": "CNN Brasil: 'não é o fim'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
+     "angulo": "Al Jazeera: 11 democratas ausentes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Pete Hegseth escapes impeachment as Dems threaten to try again in next Congress",
+     "url": "https://nypost.com/2026/11/10/us-news/pete-hegseth-escapes-impeachment-as-dems-threaten-to-try-again-in-next-congress/",
+     "angulo": "New York Post: democratas ameaçam nova tentativa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Hegseth chama impeachment de “farsa” e recebe elogio de Trump",
+     "url": "https://www.diariodocentrodomundo.com.br/hegseth-chama-impeachment-farsa-elogio-trump/",
+     "angulo": "DCM: 'farsa'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "GOP House rejects Hegseth impeachment effort",
+     "url": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
+     "angulo": "Axios: republicanos protegem Hegseth.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "eua-denunciam-tres-agentes-iranianos-por-complo-contra-base",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "EUA denunciam três supostos agentes iranianos por complô contra base aérea no Reino Unido",
+   "lide": "O Departamento de Justiça americano acusou três homens por uma série de planos, entre eles o incidente de setembro perto da base de Fairford, usada pelas forças americanas na guerra contra o Irã. Um deles já estava preso em Nova York.",
+   "fatos": [
+    {
+     "texto": "O Departamento de Justiça dos EUA denunciou três homens descritos como agentes iranianos por suposta conspiração ligada à base aérea de Fairford, no Reino Unido.",
+     "base": "documento do Departamento de Justiça relatado; 4 fontes independentes (BBC, AFP, Estadão, Al Jazeera)"
+    },
+    {
+     "texto": "Um dos acusados já estava preso nos EUA.",
+     "base": "2 fontes independentes (Al Jazeera, Guardian)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mohammad Dawood al-Saadi, de nacionalidade iraniana e iraquiana, planejou o ataque enquanto estava sob custódia americana.",
+     "quem": "Promotores federais, segundo o Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+     "angulo": "BBC: a série de planos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "EUA denunciam três ‘agentes iranianos’ por suposta conspiração contra base aérea no Reino Unido",
+     "url": "https://www.estadao.com.br/internacional/eua-denunciam-tres-agentes-iranianos-suposta-conspiracao-base-aerea-reino-unido-npr/",
+     "angulo": "Estadão: a denúncia formal.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+     "angulo": "Guardian: al-Saadi agiu sob custódia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+     "url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+     "angulo": "AFP: o plano de setembro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "US charges 3 men over alleged Iranian-backed plot at UK Fairford air base",
+     "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base",
+     "angulo": "Al Jazeera: um acusado já preso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-contrata-escritorio-wachtell-para-investigar-huang",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Nvidia contrata o escritório Wachtell para investigar o caso de Jensen Huang",
+   "lide": "A empresa entregou a apuração a um ex-procurador do escritório Wachtell, Lipton, Rosen & Katz. Segundo a CNN Brasil, um senador republicano pediu a saída do CEO por risco à segurança nacional.",
+   "fatos": [
+    {
+     "texto": "A Nvidia contratou o escritório Wachtell, Lipton, Rosen & Katz para conduzir a investigação sobre o caso de Jensen Huang.",
+     "base": "3 fontes independentes (Estadão, BBC, Financial Times)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Congresso precisa obter explicações de Trump sobre a defesa do CEO.",
+     "quem": "Chuck Schumer, líder democrata no Senado, segundo o Valor"
+    },
+    {
+     "texto": "Huang deveria renunciar por risco à segurança nacional e possibilidade de chantagem.",
+     "quem": "Senador republicano, segundo a CNN Brasil"
+    },
+    {
+     "texto": "O Departamento de Comércio recebeu alerta de segurança nacional sobre o caso.",
+     "quem": "Axios"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A mulher com quem Huang se relacionou é espiã a serviço da China.",
+     "rotulo": "Em apuração",
+     "explicacao": "É objeto de investigação do FBI e da empresa; Pequim nega ligação.",
+     "onde_circula": "imprensa internacional",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-10",
+    "id": "trump-diz-que-fbi-investiga-caso-do-ceo-da-nvidia",
+    "titulo": "Trump diz que o FBI investiga o caso do CEO da Nvidia, e ações da empresa caem 4%"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Nvidia contrata escritório famoso por assessorar executivos em escândalos para apurar caso de CEO",
+     "url": "https://www.estadao.com.br/internacional/nvidia-contrata-escritorio-apurar-caso-ceo-npr/",
+     "angulo": "Estadão: o escritório de escândalos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Senador dos EUA pede renúncia de CEO da Nvidia após caso com empresária",
+     "url": "https://www.cnnbrasil.com.br/economia/senador-dos-eua-pede-renuncia-de-ceo-da-nvidia-apos-caso-com-empresaria/",
+     "angulo": "CNN Brasil: o pedido de renúncia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+     "angulo": "BBC: a contratação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Líder democrata no Senado pede explicações de Trump sobre defesa a CEO da Nvidia",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/10/lider-democrata-no-senado-pede-explicacoes-de-trump-sobre-defesa-a-ceo-da-nvidia.ghtml",
+     "angulo": "Valor: a cobrança de Schumer.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+     "url": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+     "angulo": "FT: o ex-procurador de Nova York.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+     "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+     "angulo": "Axios: o alerta ao Departamento de Comércio.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
+     "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
+     "angulo": "Washington Post: perfil de Alice Huang.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-10"
+    }
+   ]
+  }
+ ]
+}
