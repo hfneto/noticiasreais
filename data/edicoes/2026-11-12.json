@@ -1,0 +1,1674 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-12",
+ "gerado_em": "2026-11-12T05:57:30-03:00",
+ "historias": [
+  {
+   "id": "governo-envia-ao-senado-projeto-de-ajuste-fiscal-de-ate-r-60-bi",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Governo envia ao Senado projeto de ajuste fiscal; votação fica para esta quinta",
+   "lide": "O projeto apresentado por Jaques Wagner amplia o contingenciamento, corta benefícios tributários e dá 120 dias ao Congresso para regular os supersalários. Alcolumbre adiou a votação para quinta, e aliados de Lula na Câmara criticam a pressa.",
+   "fatos": [
+    {
+     "texto": "O governo enviou ao Senado um projeto de lei complementar de ajuste fiscal, apresentado pelo senador Jaques Wagner.",
+     "base": "3 fontes independentes (g1, Gazeta do Povo, Veja)"
+    },
+    {
+     "texto": "O projeto amplia o contingenciamento, reduz benefícios tributários e cria novas travas para gastos.",
+     "base": "3 fontes independentes (Jota, Band, Veja)"
+    },
+    {
+     "texto": "O texto prevê prazo de 120 dias para o Congresso analisar os supersalários; o ministro Bruno Moretti estima impacto de R$ 3 bilhões nesse trecho.",
+     "base": "3 fontes independentes (Estadão, Brasil de Fato, Band)"
+    },
+    {
+     "texto": "Alcolumbre adiou a votação para quinta-feira (12) após resistência de senadores.",
+     "base": "3 fontes independentes (O Globo, Brasil 247, CNN Brasil)"
+    },
+    {
+     "texto": "O deputado Lindbergh Farias (PT-RJ) criticou o pacote e disse que a votação acelerada pode dividir a base de Lula.",
+     "base": "3 fontes independentes (Poder360, DCM, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "70% do ajuste virá de arrecadação, e não de corte de gastos.",
+     "quem": "Instituto Livre Mercado, segundo o Poder360"
+    },
+    {
+     "texto": "A proposta amplia o corte linear de gastos tributários para 20%.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "As perspectivas de um bom ajuste fiscal são nulas.",
+     "quem": "Editorial da Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Tamanho do ajuste em 2027.",
+     "rotulo": "Contraditório",
+     "explicacao": "O governo fala em até R$ 60 bilhões (R$ 62 bilhões no Jornal Nacional); o relator Eduardo Braga estima entre R$ 43 bilhões e R$ 54 bilhões.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta o pacote como ajuste 'sem estelionato eleitoral', combinando receita e racionalização de gastos.",
+    "oposicao": "A oposição diz que o ajuste se apoia em aumento de arrecadação e duvida do compromisso de Lula com cortes."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-11",
+    "id": "governo-acerta-com-congresso-ajuste-fiscal-de-ate-r-80-bi",
+    "titulo": "Governo acerta com o Congresso projeto de ajuste fiscal de até R$ 80 bilhões para 2027"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Governo envia ao Senado projeto com medidas de ajuste fiscal que prevê economia de até R$ 60 bilhões em 2027",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/governo-envia-ao-senado-projeto-com-medidas-de-ajuste-fiscal-que-preve-economia-de-ate-r-60-bilhoes-em-2027.ghtml",
+     "angulo": "g1: até R$ 60 bilhões em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo federal protocola no Senado projeto que corta gastos e benefícios fiscais",
+     "url": "https://www.gazetadopovo.com.br/economia/governo-federal-protocola-no-senado-projeto-que-corta-gastos-e-beneficios-fiscais/",
+     "angulo": "Gazeta do Povo: os detalhes do projeto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lindbergh alerta que votação do ajuste fiscal pode rachar base no Congresso: ‘não pode ser goela abaixo’",
+     "url": "https://www.brasil247.com/economia/lindbergh-alerta-que-votacao-do-ajuste-fiscal-pode-rachar-base-no-congresso-nao-pode-ser-goela-abaixo/",
+     "angulo": "247: a crítica de Lindbergh.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Pacote fiscal do governo prevê ajuste de até R$ 54 bi em 2027; veja ponto a ponto",
+     "url": "https://www.jota.info/tributos-e-empresas/mercado/pacote-fiscal-do-governo-preve-ajuste-de-ate-r-54-bi-em-2027-veja-ponto-a-ponto",
+     "angulo": "Jota: o ponto a ponto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "70% do ajuste fiscal virá de arrecadação, diz Instituto Livre Mercado",
+     "url": "https://www.poder360.com.br/poder-congresso/70-do-ajuste-fiscal-vira-de-arrecadacao-diz-instituto-livre-mercado/",
+     "angulo": "Poder360: o peso das receitas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Pacote fiscal prevê 120 dias para Congresso discutir supersalários",
+     "url": "https://www.brasildefato.com.br/2026/11/11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios/",
+     "angulo": "Brasil de Fato: os supersalários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "O desajuste fiscal de Lula",
+     "url": "https://www.gazetadopovo.com.br/vozes/ricardo-gomes/desajuste-fiscal-lula/",
+     "angulo": "Gazeta do Povo: editorial cético.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Alcolumbre adia para amanhã a análise de pacote fiscal de R$ 60 bi do governo no Senado. Entenda a proposta",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/11/alcolumbre-deixa-para-quinta-feira-analise-de-pacote-de-r-60-bilhoes-do-governo.ghtml",
+     "angulo": "O Globo: o adiamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lindbergh critica ajuste fiscal e alerta Lula sobre racha na base",
+     "url": "https://www.diariodocentrodomundo.com.br/lindbergh-critica-ajuste-fiscal-e-alerta-lula-sobre-racha-na-base/",
+     "angulo": "DCM: o alerta sobre racha na base.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Relator do PLP do ajuste fiscal estima corte entre R$ 43 bi e R$ 54 bilhões em 2027",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/11/relator-do-plp-do-ajuste-estima-corte-entre-r-43-bi-e-r-54-bi-em-2027.ghtml",
+     "angulo": "Valor: a estimativa do relator.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Proposta de ajuste fiscal amplia corte de gastos tributários para 20%",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/proposta-de-ajuste-fiscal-amplia-corte-de-gastos-tributarios-para-20/",
+     "angulo": "CNN Brasil: o corte de 20%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Projeto prevê 120 dias para Congresso analisar supersalários; ministro estima impacto de R$ 3 bi",
+     "url": "https://www.estadao.com.br/economia/projeto-preve-120-dias-para-congresso-analisar-supersalarios-ministro-estima-impacto-de-r-3-bi/",
+     "angulo": "Estadão: a estimativa de Moretti.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "senado-aprova-dividas-rurais-e-retira-jabuti-dos-vapes",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Senado aprova renegociação das dívidas rurais e retira o 'jabuti' dos cigarros eletrônicos",
+   "lide": "No último dia de validade da medida provisória, os senadores aprovaram o texto em votação simbólica, sem os trechos incluídos pela Câmara sobre vapes, free shops e financiamentos habitacionais. A renegociação vale para produtores afetados por eventos climáticos entre 2019 e 2025 e vai à sanção.",
+   "fatos": [
+    {
+     "texto": "O Senado aprovou em votação simbólica a MP que renegocia dívidas rurais, no dia em que ela perderia a validade; o texto vai à sanção.",
+     "base": "4 fontes independentes (Estadão, O Globo, Valor, Band)"
+    },
+    {
+     "texto": "Os senadores retiraram o trecho que abria caminho para os cigarros eletrônicos, incluído pela Câmara.",
+     "base": "4 fontes independentes (g1, Gazeta do Povo, CartaCapital, Congresso em Foco)"
+    },
+    {
+     "texto": "Também foram excluídos dispositivos sobre free shops e financiamentos habitacionais.",
+     "base": "2 fontes independentes (Gazeta do Povo, Brasil 247)"
+    },
+    {
+     "texto": "Produtores afetados por eventos climáticos extremos entre 2019 e 2025 poderão renegociar com juros de 5% a 12% ao ano.",
+     "base": "Agência Senado; 2 fontes independentes (Exame, Metrópoles)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A inserção de um trecho de 70 palavras sobre vapes acelerou a aprovação na Câmara.",
+     "quem": "Veja"
+    },
+    {
+     "texto": "Produtores esperaram uma 'solução milagrosa' e a eleição e não negociaram dívidas com o Banco do Brasil.",
+     "quem": "Estadão"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo apresenta a renegociação como alívio a produtores afetados pelo clima.",
+    "oposicao": "A bancada do agro diz que as concessões foram insuficientes, e a oposição critica os jabutis da Câmara."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-11",
+    "id": "camara-aprova-mp-das-dividas-rurais-com-jabuti-dos-vapes",
+    "titulo": "Câmara aprova MP que renegocia dívidas rurais com 'jabuti' que abre caminho para cigarros eletrônicos"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Senado aprova renegociação das dívidas rurais após concessões para o agro",
+     "url": "https://www.estadao.com.br/economia/agronegocios/senado-aprova-renegociacao-das-dividas-rurais-texto-segue-para-sancao/",
+     "angulo": "Estadão: as concessões ao agro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Senado aprova renegociação de dívidas rurais e exclui jabutis sobre vapes e free shops",
+     "url": "https://www.gazetadopovo.com.br/economia/senado-aprova-renegociacao-de-dividas-rurais-e-exclui-jabutis-sobre-vapes-e-free-shops/",
+     "angulo": "Gazeta do Povo: os jabutis excluídos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Senado retira regras sobre cigarros eletrônicos de MP das dívidas rurais",
+     "url": "https://www.brasil247.com/brasilia/senado-retira-regras-sobre-cigarros-eletronicos-de-mp-das-dividas-rurais/",
+     "angulo": "247: vapes, free shops e habitação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Senado aprova MP de renegociação de dívidas rurais no dia em que perderia validade e retira ‘jabuti’ dos vapes",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/11/senado-aprova-mp-de-renegociacao-de-dividas-rurais-no-dia-em-que-perderia-validade-e-retira-jabuti-dos-vapes.ghtml",
+     "angulo": "O Globo: o prazo final.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Senado aprova MP que renegocia dívidas rurais sem ‘jabuti’ dos cigarros eletrônicos",
+     "url": "https://www.cartacapital.com.br/politica/senado-aprova-mp-que-renegocia-dividas-rurais-sem-jabuti-dos-cigarros-eletronicos/",
+     "angulo": "CartaCapital: as críticas de entidades de saúde.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Renegociação de dívidas rurais é aprovada pelo Senado e vai à sanção presidencial",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial",
+     "angulo": "Agência Senado: os juros de 5% a 12%.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Como a Câmara usou projeto sobre dívidas rurais para liberar os cigarros eletrônicos no Brasil",
+     "url": "https://veja.abril.com.br/politica/como-a-camara-usou-projeto-sobre-dividas-rurais-para-liberar-os-cigarros-eletronicos-no-brasil/",
+     "angulo": "Veja: o trecho de 70 palavras.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Senado aprova MP que renegocia dívidas rurais e retira mudanças em regras propostas pela Câmara sobre cigarros eletrônicos",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/11/senado-aprova-mp-que-renegocia-dividas-rurais-e-retira-mudancas-em-regras-propostas-pela-camara-sobre-cigarros-eletronicos.ghtml",
+     "angulo": "g1: o Senado barra a mudança da Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Senado barra jabuti que regulamentava vapes em MP sobre dívidas rurais",
+     "url": "https://www.congressoemfoco.com.br/noticia/131524/senado-barra-jabuti-que-regulamentava-vapes-em-mp-sobre-dividas-rurais",
+     "angulo": "Congresso em Foco: o papel da Anvisa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Senado aprova MP das dívidas rurais e texto vai à sanção presidencial",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/11/senado-aprova-mp-das-dvidas-rurais-e-texto-vai-sano-presidencial.ghtml",
+     "angulo": "Valor: a sanção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Senado aprova renegociação de dívidas rurais após concessões para atender agro",
+     "url": "https://c-level.folha.uol.com.br/agro/2026/11/senado-aprova-renegociacao-de-dividas-rurais-apos-concessoes-para-adender-agro.shtml",
+     "angulo": "Folha: o atendimento ao agro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "lucro-do-banco-do-brasil-cai-66-com-inadimplencia-do-agro",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Lucro do Banco do Brasil cai 66,5% no 3º trimestre com inadimplência do agro, e banco corta dividendos",
+   "lide": "O lucro líquido ajustado foi de R$ 1,27 bilhão, abaixo do esperado pelo mercado. O banco reduziu pela metade a projeção de lucro de 2026 e cortou de 30% para 25% a parcela do lucro distribuída aos acionistas.",
+   "fatos": [
+    {
+     "texto": "O Banco do Brasil teve lucro líquido ajustado de R$ 1,27 bilhão no 3º trimestre, queda de 66,5% em um ano.",
+     "base": "balanço do banco; 4 fontes independentes (g1, Valor, Folha, Jovem Pan)"
+    },
+    {
+     "texto": "A queda foi atribuída à inadimplência no agronegócio.",
+     "base": "4 fontes independentes (Agência Brasil, Gazeta do Povo, Metrópoles, Poder360)"
+    },
+    {
+     "texto": "O banco cortou pela metade a projeção de lucro para 2026.",
+     "base": "3 fontes independentes (Veja, SBT, Exame)"
+    },
+    {
+     "texto": "O banco reduziu de 30% para 25% o percentual do lucro distribuído como dividendos e suspendeu os dividendos intermediários em 2027.",
+     "base": "3 fontes independentes (Folha, InfoMoney, Exame)"
+    },
+    {
+     "texto": "A inadimplência no cartão de crédito de pessoa física chegou a 16,35%.",
+     "base": "2 fontes independentes (CNN Brasil, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Uma parte do agro não quer pagar o Banco do Brasil.",
+     "quem": "Geovanne Tobias, diretor financeiro do BB, segundo o InfoMoney"
+    },
+    {
+     "texto": "O resultado trouxe decepção generalizada e coloca a recuperação em xeque.",
+     "quem": "InfoMoney"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo destacam o lucro acumulado de R$ 8,6 bilhões no ano e os atrasos de grandes produtores.",
+    "oposicao": "Veículos de oposição destacam o tombo do lucro e a gestão do banco público."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Lucro do Banco do Brasil cai 66,5% no 3º trimestre, para R$ 1,27 bilhão",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/11/banco-do-brasil-bb-resultados-3t26.ghtml",
+     "angulo": "g1: o resultado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Lucro do Banco do Brasil cai 65% no 3º trimestre",
+     "url": "https://revistaoeste.com/economia/lucro-do-banco-do-brasil-cai-65-no-terceiro-trimestre/",
+     "angulo": "Oeste: a queda do lucro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Banco do Brasil lucra R$ 8,6 bilhões em nove meses e reduz projeção",
+     "url": "https://www.brasil247.com/economia/banco-do-brasil-lucra-r-86-bilhoes-em-nove-meses-e-reduz-projecao/",
+     "angulo": "247: destaca o acumulado de nove meses.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "BBAS3: “Uma parte do agro não quer pagar o Banco do Brasil”, diz CFO após balanço",
+     "url": "https://www.infomoney.com.br/mercados/bbas3-uma-parte-do-agro-nao-quer-pagar-o-banco-do-brasil-diz-cfo-apos-balanco/",
+     "angulo": "InfoMoney: a fala do diretor financeiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Banco do Brasil registra tombo no lucro com disparada da inadimplência do agro",
+     "url": "https://www.gazetadopovo.com.br/economia/banco-do-brasil-tem-tombo-no-lucro-com-disparada-da-inadimplencia-do-agro/",
+     "angulo": "Gazeta do Povo: a inadimplência do agro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Banco do Brasil anuncia corte de dividendos para preservar capital após nova queda do lucro",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-anuncia-corte-de-dividendos-para-preservar-capital-apos-nova-queda-do-lucro.shtml",
+     "angulo": "Folha: o corte de dividendos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Lucro do BB cai 66,5% com inadimplência de grandes produtores do agro",
+     "url": "https://www.metropoles.com/colunas/dinheiro-e-negocios/lucro-do-bb-cai-665-com-inadimplencia-de-grandes-produtores-do-agro",
+     "angulo": "Metrópoles: soja, milho e pecuária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Inadimplência no cartão de crédito do BB quase dobra em um ano",
+     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/inadimplencia-no-cartao-de-credito-do-bb-quase-dobra-em-um-ano/",
+     "angulo": "CNN Brasil: o cartão de crédito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Lucro do BB tomba 66,5% com alta de provisões no agro",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/11/bb-tem-lucro-ajustado-de-r-1270-bi-queda-de-675percent-no-trimestre-e-665percent-em-12-meses.ghtml",
+     "angulo": "Valor: as provisões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Banco do Brasil corta previsão de lucro pela metade após disparada da inadimplência",
+     "url": "https://veja.abril.com.br/economia/banco-do-brasil-corta-previsao-de-lucro-pela-metade-apos-disparada-da-inadimplencia/",
+     "angulo": "Veja: a nova projeção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lucro-do-bb-cai-665-no-3o-trimestre-com-inadimplencia-do-agro",
+     "angulo": "Agência Brasil: a inadimplência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Produtores esperaram ‘solução milagrosa’, eleição e não negociaram dívidas com BB; leia bastidor",
+     "url": "https://www.estadao.com.br/economia/agronegocios/produtores-esperaram-solucao-milagrosa-eleicao-e-nao-negociaram-dividas-com-bb-leia-bastidor/",
+     "angulo": "Estadão: os bastidores da renegociação.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "gilmar-defende-diretor-da-pf-em-crise-do-caso-master",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Gilmar defende diretor da PF, e associação de delegados diz que ele extrapolou funções no caso Master",
+   "lide": "A crise aberta pelo afastamento dos delegados que citaram ministros do STF em relatórios continua: Gilmar Mendes saiu em defesa de Andrei Rodrigues, e o presidente da associação de delegados diz que o diretor-geral extrapolou suas funções. O Senado vai ouvir o ministro da Justiça e o diretor da PF.",
+   "fatos": [
+    {
+     "texto": "Gilmar Mendes saiu em defesa do diretor-geral Andrei Rodrigues.",
+     "base": "3 fontes independentes (Brasil de Fato, DCM, ICL Notícias)"
+    },
+    {
+     "texto": "O presidente da ADPF, Edvandir Felix de Paiva, disse que o diretor-geral extrapolou suas funções.",
+     "base": "2 fontes independentes (O Globo, Gazeta do Povo)"
+    },
+    {
+     "texto": "O Senado vai ouvir o ministro da Justiça e o diretor-geral da PF sobre os afastamentos.",
+     "base": "2 fontes independentes (g1, Veja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os delegados afastados descumpriram o combinado de debater os relatórios internamente antes de enviá-los.",
+     "quem": "PF, em resposta ao Ministério da Justiça, segundo a Folha"
+    },
+    {
+     "texto": "O governo avalia mudanças no comando da PF.",
+     "quem": "Band"
+    },
+    {
+     "texto": "A omissão de Fachin agrava o risco de o caso Master 'terminar em pizza'.",
+     "quem": "Coluna em O Globo"
+    },
+    {
+     "texto": "Não há ineditismo algum na crise da PF.",
+     "quem": "Valor"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo e Gilmar Mendes defendem a integridade e a independência de Andrei Rodrigues.",
+    "oposicao": "A oposição vê tentativa de blindar ministros do STF e cobra explicações do governo Lula."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-11",
+    "id": "afastamento-de-delegados-do-caso-master-abre-crise-na-pf",
+    "titulo": "Afastamento de delegados que citaram ministros do STF no caso Master abre crise na PF"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "PF diz a Ministério da Justiça que delegados do caso Master descumpriram combinado de debater relatórios",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/pf-diz-a-ministerio-da-justica-que-delegados-do-caso-master-descumpriram-combinado-de-debater-relatorios.shtml",
+     "angulo": "Folha: a versão da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Diretor da PF “extrapolou funções” em relatório sobre ministros, diz presidente de associação",
+     "url": "https://www.gazetadopovo.com.br/republica/presidente-adpf-critica-interferencia-andrei-retaliacao-delegados-relatorios-ministros-stf/",
+     "angulo": "Gazeta do Povo: a crítica da ADPF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Gilmar Mendes defende diretor da PF em meio a mudanças no caso Master",
+     "url": "https://www.brasildefato.com.br/2026/11/11/gilmar-mendes-defende-diretor-da-pf-em-meio-a-mudancas-no-caso-master/",
+     "angulo": "Brasil de Fato: a defesa de Gilmar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Omissão de Fachin na guerra da PF agrava risco do caso Master terminar em pizza",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/coluna/2026/11/omissao-de-fachin-na-guerra-da-pf-agrava-risco-do-caso-master-terminar-em-pizza.ghtml",
+     "angulo": "O Globo: coluna sobre o risco de pizza.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "De Andrei Rodrigues aos delegados afastados: quem é quem na crise da PF",
+     "url": "https://www.cnnbrasil.com.br/politica/quem-e-quem-crise-pf-caso-master-ministros-stf/",
+     "angulo": "CNN Brasil: os personagens da crise.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Gilmar sai em defesa de diretor da PF: “Integridade e independência”",
+     "url": "https://www.diariodocentrodomundo.com.br/gilmar-sai-em-defesa-de-diretor-da-pf-integridade-e-independencia/",
+     "angulo": "DCM: 'integridade e independência'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Senado vai ouvir ministro da Justiça e diretor-geral da PF sobre afastamento de delegados que produziram relatórios citando ministros do STF",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/senado-vai-ouvir-ministro-da-justica-e-diretor-geral-da-pf-sobre-afastamento-de-delegados-que-produziram-relatorios-citando-ministros-do-stf.ghtml",
+     "angulo": "g1: as convocações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Governo federal avalia mudanças no comando da PF após crise na corporação",
+     "url": "https://www.band.com.br/politica/governo-federal-avalia-mudancas-no-comando-da-pf-apos-crise-na-corporacao",
+     "angulo": "Band: mudanças no comando.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Polícia Federal em pé de guerra. Lula abandona promessas",
+     "url": "https://www.gazetadopovo.com.br/opiniao/bom-dia/policia-federal-pe-guerra-lula-promessas/",
+     "angulo": "Gazeta do Povo: 'Lula abandona promessas'.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Não há ineditismo algum na crise da PF",
+     "url": "https://valor.globo.com/politica/coluna/nao-ha-ineditismo-algum-na-crise-da-pf.ghtml",
+     "angulo": "Valor: crises anteriores.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Deputado do PL aciona PGR e pede investigação contra diretor-geral da PF por caso Master",
+     "url": "https://terrabrasilnoticias.com/2026/11/deputado-do-pl-aciona-pgr-e-pede-investigacao-contra-diretor-geral-da-pf-por-caso-master/",
+     "angulo": "Terra Brasil: pedido de investigação contra Andrei.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "justica-manda-devolver-a-oas-dinheiro-do-leilao-do-triplex",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Justiça manda entregar à OAS os R$ 2,4 milhões do leilão do triplex do Guarujá",
+   "lide": "A Justiça Federal de Brasília decidiu que a construtora deve receber todo o valor obtido com a venda do imóvel que a Lava Jato atribuiu a Lula. O PT diz que a decisão expõe a 'farsa da Lava Jato'.",
+   "fatos": [
+    {
+     "texto": "A Justiça Federal de Brasília determinou que a OAS Empreendimentos receba os R$ 2,4 milhões obtidos no leilão do triplex do Guarujá.",
+     "base": "4 fontes independentes (g1, Estadão, Poder360, Jovem Pan)"
+    },
+    {
+     "texto": "A decisão considera o arquivamento do processo contra Lula e a anulação de atos da Lava Jato pelo STF.",
+     "base": "2 fontes independentes (Jovem Pan, CartaCapital)"
+    },
+    {
+     "texto": "O PT disse que a decisão expõe a 'farsa da Lava Jato'.",
+     "base": "3 fontes independentes (Poder360, CartaCapital, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão reconhece que o imóvel não era de Lula.",
+     "quem": "Opera Mundi e Terra Brasil"
+    },
+    {
+     "texto": "Moro deve ser punido pela condução do caso.",
+     "quem": "Deputado Rogério Correia (PT-MG), segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A decisão sobre o dinheiro do leilão confirma a inocência de Lula.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A decisão trata do destino do valor do leilão e se apoia no arquivamento do processo e na anulação de atos da Lava Jato pelo STF; não houve novo julgamento de mérito sobre culpa ou inocência.",
+     "onde_circula": "PT, Brasil 247",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O PT e veículos de esquerda tratam a decisão como prova de que o triplex nunca foi de Lula.",
+    "oposicao": "Veículos de direita relembram o caso e noticiam a decisão sem endossar a leitura do PT."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Triplex no Guarujá: Justiça manda devolver R$ 2,4 milhões à OAS após leilão do imóvel alvo de ação da Lava Jato contra Lula",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/triplex-no-guaruja-justica-manda-devolver-r-24-milhoes-a-oas-apos-leilao-do-imovel-alvo-de-acao-da-lava-jato-contra-lula.ghtml",
+     "angulo": "g1: os R$ 2,4 milhões à OAS.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Justiça determina devolução de R$ 2,4 mi à OAS por venda de triplex atribuído a Lula",
+     "url": "https://jovempan.com.br/politica/justica-determina-devolucao-de-r-24-milhoes-a-oas-por-venda-de-triplex-atribuido-a-lula/",
+     "angulo": "Jovem Pan: a base da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PT diz que decisão sobre triplex confirma inocência de Lula e expõe farsa da Lava Jato",
+     "url": "https://www.brasil247.com/brasil/pt-diz-que-decisao-sobre-triplex-confirma-inocencia-de-lula-e-expoe-farsa-da-lava-jato/",
+     "angulo": "247: a reação do PT.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Justiça diz que OAS deve receber R$ 2,4 mi de leilão do triplex",
+     "url": "https://www.estadao.com.br/politica/justica-diz-que-oas-deve-receber-r-24-mi-de-leilao-do-triplex/",
+     "angulo": "Estadão: a decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Triplex do Guarujá: Justiça determina devolução de R$ 2,4 milhões à OAS após reconhecer que imóvel não era de Lula",
+     "url": "https://terrabrasilnoticias.com/2026/11/triplex-do-guaruja-justica-determina-devolucao-de-r-24-milhoes-a-oas-apos-reconhecer-que-imovel-nao-era-de-lula/",
+     "angulo": "Terra Brasil: diz que a Justiça reconheceu que o imóvel não era de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "PT diz que decisão sobre triplex expõe “farsa da Lava Jato”",
+     "url": "https://www.poder360.com.br/poder-partidos-politicos/pt-diz-que-decisao-sobre-triplex-expoe-farsa-da-lava-jato/",
+     "angulo": "Poder360: a nota do PT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Justiça reconhece que triplex do Guarujá não pertencia a Lula e devolve dinheiro à OAS",
+     "url": "https://operamundi.uol.com.br/brasil/justica-reconhece-que-triplex-do-guaruja-nao-pertencia-a-lula-e-devolve-dinheiro-a-oas/",
+     "angulo": "Opera Mundi: 'não pertencia a Lula'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Justiça libera à OAS valores do leilão de triplex no Guarujá",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/justica-libera-a-oas-valores-do-leilao-de-triplex-no-guaruja",
+     "angulo": "SBT: os recursos bloqueados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Decisão sobre o triplex do Guarujá expõe a farsa da Lava Jato, diz PT",
+     "url": "https://www.cartacapital.com.br/cartaexpressa/decisao-sobre-o-triplex-do-guaruja-expoe-a-farsa-da-lava-jato-diz-pt/",
+     "angulo": "CartaCapital: a parcialidade de Moro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Relembre a história do triplex do Guarujá atribuído a Lula na Lava Jato",
+     "url": "https://jovempan.com.br/politica/relembre-a-historia-do-triplex-do-guaruja-atribuido-a-lula-na-lava-jato/",
+     "angulo": "Jovem Pan: a história do caso.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "policia-indicia-influenciador-que-filmou-fhc-em-casa",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Polícia indicia influenciador que filmou FHC em casa, e mais de 400 personalidades assinam nota de repúdio",
+   "lide": "Wesley Oliveira e o marido foram indiciados por difamação e discriminação de pessoa idosa e tiveram os celulares apreendidos. A Justiça mandou retirar o vídeo e suspender os perfis do influenciador, que diz ter tido autorização da mulher do ex-presidente.",
+   "fatos": [
+    {
+     "texto": "A Polícia Civil de São Paulo indiciou Wesley Oliveira e o marido, Lessandro Gonçalves, por difamação e discriminação de pessoa idosa.",
+     "base": "4 fontes independentes (g1, Agência Brasil, SBT, DCM)"
+    },
+    {
+     "texto": "Dois celulares do influenciador foram apreendidos para perícia.",
+     "base": "3 fontes independentes (Metrópoles, Terra, Gazeta do Povo)"
+    },
+    {
+     "texto": "A Justiça de São Paulo determinou a retirada do vídeo e a suspensão dos perfis do influenciador.",
+     "base": "2 fontes independentes (O Antagonista, Gazeta do Povo)"
+    },
+    {
+     "texto": "Uma nota assinada por 405 personalidades repudiou a exposição de FHC.",
+     "base": "4 fontes independentes (Estadão, O Globo, CNN Brasil, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Oliveira pode pegar até cinco anos de prisão.",
+     "quem": "DCM"
+    },
+    {
+     "texto": "A gravação viola o direito à privacidade do ex-presidente.",
+     "quem": "Rafael Zanatta, da Data Privacy Brasil, no Nexo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A mulher de FHC autorizou a gravação.",
+     "rotulo": "Contraditório",
+     "explicacao": "Wesley Oliveira diz que Patrícia Kundrát autorizou a gravação e a publicação; a família nega ter dado permissão.",
+     "onde_circula": "Wesley Oliveira, imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Polícia apreende celulares e indicia homem que filmou apartamento de FHC por difamação e discriminação de pessoa idosa",
+     "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/policia-apreende-celulares-e-indicia-homem-que-filmou-apartamento-de-fhc-por-difamacao-e-discriminacao-de-pessoa-idosa.ghtml",
+     "angulo": "g1: o indiciamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Polícia apreende celulares e indicia influenciador que filmou FHC",
+     "url": "https://www.gazetadopovo.com.br/republica/policia-apreende-celulares-e-indicia-influenciador-que-filmou-fhc/",
+     "angulo": "Gazeta do Povo: a medida de distância.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Homem diz que esposa de FHC mentiu em B.O: “Ela sabia e autorizou”",
+     "url": "https://www.diariodocentrodomundo.com.br/homem-diz-que-esposa-de-fhc-mentiu-em-b-o-ela-sabia-e-autorizou/",
+     "angulo": "DCM: a versão do influenciador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Nota de repúdio assinada por mais de 400 protesta contra exposição pública de FHC",
+     "url": "https://www.estadao.com.br/politica/nota-de-repudio-assinada-por-mais-de-400-protesta-contra-exposicao-publica-de-fhc/",
+     "angulo": "Estadão: a nota de 405 personalidades.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Justiça manda retirar vídeo de FHC em casa e suspende perfis de influenciador",
+     "url": "https://oantagonista.com.br/brasil/justica-manda-retirar-video-de-fhc-em-casa-e-suspende-perfis-de-influenciador/",
+     "angulo": "O Antagonista: a suspensão dos perfis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Homem que filmou FHC pede desculpas, mas nega ter cometido crime",
+     "url": "https://www.poder360.com.br/poder-justica/homem-que-filmou-fhc-pede-desculpas-mas-nega-ter-cometido-crime/",
+     "angulo": "Poder360: desculpas, mas nega crime.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "nexo",
+     "titulo": "O direito à privacidade no caso FHC, segundo um especialista",
+     "url": "https://www.nexojornal.com.br/entrevista/2026/11/11/video-wesley-oliveira-fhc-influenciador-instagram-privacidade",
+     "angulo": "Nexo: a privacidade.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Casal que filmou FHC em casa teve celulares apreendidos para perícia",
+     "url": "https://www.metropoles.com/sao-paulo/casal-que-filmou-fhc-em-casa-teve-celulares-apreendidos-para-pericia",
+     "angulo": "Metrópoles: a perícia dos celulares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC",
+     "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-civil-indicia-influenciador-e-marido-por-video-na-casa-de-fhc",
+     "angulo": "Agência Brasil: o indiciamento do casal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Homem que filmou FHC em situação de vulnerabilidade é indiciado após depor em SP",
+     "url": "https://jovempan.com.br/colunistas/david-de-tarso/homem-que-filmou-fhc-em-situacao-de-vulnerabilidade-e-indiciado-apos-depor-em-sp/",
+     "angulo": "Jovem Pan: o depoimento no 4º DP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Personalidades assinam nota de repúdio à exposição de Fernando Henrique Cardoso: 'afronta à dignidade humana'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/11/personalidades-assinam-nota-de-repudio-a-exposicao-de-fernando-henrique-cardoso-afronta-a-dignidade-humana.ghtml",
+     "angulo": "O Globo: 'afronta à dignidade humana'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "pf-faz-buscas-contra-suspeito-de-ameacar-ana-elisa",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "PF faz buscas e apreende celular de suspeito de ameaçar a deputada eleita Ana Elisa",
+   "lide": "Agentes cumpriram mandado de busca na casa de um suspeito em Varginha (MG), na investigação sobre ameaças de morte, estupro e ataques racistas contra a deputada federal eleita pelo PT.",
+   "fatos": [
+    {
+     "texto": "A Polícia Federal cumpriu mandado de busca na casa de um suspeito de ameaçar Ana Elisa e apreendeu o celular dele.",
+     "base": "4 fontes independentes (O Globo, O Antagonista, Valor, Poder360)"
+    },
+    {
+     "texto": "A busca foi feita em Varginha (MG).",
+     "base": "2 fontes independentes (Poder360, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Também foi apreendido um computador.",
+     "quem": "Valor"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas tratam as buscas como resposta à violência política contra a deputada.",
+    "oposicao": "Veículos de direita noticiam a operação como investigação policial."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-09",
+    "id": "pf-investiga-ameacas-de-morte-e-estupro-contra-ana-elisa",
+    "titulo": "PF investiga ameaças de morte e estupro contra a deputada eleita Ana Elisa; TRE-MG suspende inquérito contra ela"
+   },
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "PF apreende celular de suspeito de ameaçar deputada eleita Ana Elisa",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/11/pf-apreende-celular-de-suspeito-de-ameacar-deputada-eleita-ana-elisa.ghtml",
+     "angulo": "O Globo: a busca.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "PF apreende celular de suspeito de ameaçar Ana Elisa",
+     "url": "https://oantagonista.com.br/brasil/pf-apreende-celular-de-suspeito-de-ameacar-ana-elisa/",
+     "angulo": "O Antagonista: o mandado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Homem que ameaçou matar Ana Elisa é alvo de operação da PF",
+     "url": "https://www.diariodocentrodomundo.com.br/homem-que-ameacou-matar-ana-elisa-e-alvo-de-operacao-da-pf/",
+     "angulo": "DCM: a operação em Varginha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "PF apreende computador e celular de suspeito de ameaçar Ana Elisa",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/11/pf-apreende-computador-e-celular-de-suspeito-de-ataques-a-deputada-eleita-ana-elisa.ghtml",
+     "angulo": "Valor: computador e celular.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "PF faz buscas contra suspeito de ameaçar deputada eleita Ana Elisa",
+     "url": "https://www.poder360.com.br/poder-seguranca-publica/pf-faz-buscas-contra-suspeito-de-ameacar-deputada-eleita-ana-elisa/",
+     "angulo": "Poder360: ameaças de morte e ataques racistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ameaças contra Ana Elisa: PF faz buscas e apreende celular de suspeito",
+     "url": "https://revistaforum.com.br/politica/ameacas-ana-elisa-pf-suspeito/",
+     "angulo": "Fórum: a apreensão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "PF cumpre mandado de busca em investigação sobre ameaças a Ana Elisa",
+     "url": "https://www.metropoles.com/minas-gerais/pf-cumpre-mandado-de-busca-em-investigacao-sobre-ameacas-a-ana-elisa",
+     "angulo": "Metrópoles: a unidade de crimes cibernéticos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "cacique-raoni-e-internado-com-infeccao-pulmonar-em-mt",
+   "editoria": "Saúde",
+   "escopo": "brasil",
+   "titulo": "Cacique Raoni, 94 anos, é internado com infecção pulmonar em Mato Grosso",
+   "lide": "O líder indígena, em cuidados paliativos, está estável no hospital de Peixoto de Azevedo, mas precisa de remédios para manter a pressão arterial. A família tenta impedir a exibição de um documentário sobre ele na COP31.",
+   "fatos": [
+    {
+     "texto": "Raoni Metuktire, de 94 anos, foi internado com infecção pulmonar no Hospital Regional de Peixoto de Azevedo (MT).",
+     "base": "4 fontes independentes (Poder360, SBT, Folha, Metrópoles)"
+    },
+    {
+     "texto": "Ele recebe cuidados paliativos.",
+     "base": "3 fontes independentes (Poder360, O Globo, g1)"
+    },
+    {
+     "texto": "Ele está estável, mas precisa de medicamentos para manter a pressão arterial.",
+     "base": "2 fontes independentes (Poder360, SBT)"
+    },
+    {
+     "texto": "Familiares e lideranças Mẽbêngôkre pedem a suspensão do documentário 'Raoni – O Guardião da Amazônia' na COP31.",
+     "base": "2 fontes independentes (O Globo, Brasil de Fato)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os cuidados paliativos começaram após o diagnóstico de um câncer no aparelho digestório.",
+     "quem": "O Globo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Cacique Raoni é internado com infecção pulmonar em Mato Grosso",
+     "url": "https://www.poder360.com.br/poder-gente/cacique-raoni-e-internado-com-infeccao-pulmonar-em-mato-grosso/",
+     "angulo": "Poder360: o quadro estável.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Cacique Raoni volta a ser internado após complicações de saúde",
+     "url": "https://revistaforum.com.br/brasil/cacique-raoni-internado-complicacoes-de-saude/",
+     "angulo": "Fórum: nova internação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Em cuidados paliativos, cacique Raoni tem infecção pulmonar e está internado há 3 dias em MT",
+     "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/11/cacique-raoni-esta-internado-ha-3-dias-apos-infeccao-pulmonar-em-mt.ghtml",
+     "angulo": "g1: três dias de internação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Cacique Raoni é internado em MT com infecção pulmonar",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/cacique-raoni-e-internado-em-mt-com-infeccao-pulmonar",
+     "angulo": "SBT: o hospital de Peixoto de Azevedo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Cacique Raoni é internado em Mato Grosso após ter oscilações na pressão arterial",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/cacique-raoni-e-internado-em-mato-grosso-apos-ter-oscilacoes-na-pressao-arterial.shtml",
+     "angulo": "Folha: as oscilações na pressão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Sem informações, familiares e líderes Mẽbêngôkre exigem suspensão da exibição de documentário sobre Raoni na COP31",
+     "url": "https://www.brasildefato.com.br/2026/11/11/sem-informacoes-familiares-e-lideres-mebengokre-exigem-suspensao-da-exibicao-de-documentario-sobre-raoni-na-cop31/",
+     "angulo": "Brasil de Fato: o documentário na COP31.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Cacique Raoni é internado com oscilações na pressão e infecção pulmonar",
+     "url": "https://www.metropoles.com/brasil/cacique-raoni-e-internado-com-oscilacoes-na-pressao-e-infeccao-pulmonar",
+     "angulo": "Metrópoles: internado desde domingo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Em cuidados paliativos, Cacique Raoni é hospitalizado em Mato Grosso",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/11/em-cuidados-paliativos-cacique-raoni-e-hospitalizado-no-mato-grosso.ghtml",
+     "angulo": "O Globo: os cuidados paliativos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "negociacoes-em-abu-dhabi-terminam-com-troca-de-prisioneiros",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Negociações em Abu Dhabi terminam com acordo de troca de prisioneiros, mas sem avanço para a paz",
+   "lide": "Após dois dias de conversas mediadas pelos EUA, Rússia e Ucrânia acertaram uma troca de prisioneiros em larga escala, mas seguem divididas sobre territórios. Os enviados americanos vão se reunir com Putin e Zelensky nesta quinta; enquanto isso, ataques russos deixam a Ucrânia perto de um colapso de energia.",
+   "fatos": [
+    {
+     "texto": "Rússia e Ucrânia acertaram uma troca de prisioneiros em larga escala no fim das negociações em Abu Dhabi.",
+     "base": "4 fontes independentes (AFP, Al Jazeera, Washington Post, Financial Times)"
+    },
+    {
+     "texto": "As negociações terminaram sem avanço para um acordo de paz.",
+     "base": "4 fontes independentes (BBC, g1, Guardian, Folha)"
+    },
+    {
+     "texto": "Enviados americanos vão se reunir com Putin e com Zelensky.",
+     "base": "3 fontes independentes (Guardian, Le Figaro, BBC)"
+    },
+    {
+     "texto": "Ataques russos deixam o fornecimento de energia da Ucrânia perto do nível crítico.",
+     "base": "2 fontes independentes (BBC, Estadão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Um avanço é possível antes do fim do ano.",
+     "quem": "Volodymyr Zelensky, segundo o Le Monde"
+    },
+    {
+     "texto": "As negociações fracassaram pela intransigência russa.",
+     "quem": "Le Figaro"
+    },
+    {
+     "texto": "O Kremlin tenta ligar a invasão a uma revisão da segurança de toda a Europa.",
+     "quem": "El País"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+     "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+     "angulo": "BBC: segurança no pós-guerra.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Rússia, Ucrânia e EUA concluem negociações em Abu Dhabi sem avanços concretos",
+     "url": "https://www.brasildefato.com.br/2026/11/11/russia-ucrania-e-eua-concluem-negociacoes-em-abu-dhabi-sem-avancos-concretos/",
+     "angulo": "Brasil de Fato: sem avanços concretos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+     "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+     "angulo": "AFP: a troca de prisioneiros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe",
+     "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111",
+     "angulo": "Le Figaro: a intransigência russa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Após encontros em Abu Dhabi, negociação entre Rússia e Ucrânia para o fim da guerra não avança",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/apos-encontros-em-abu-dhabi-negociacao-entre-russia-e-ucrania-para-o-fim-da-guerra-nao-avanca.ghtml",
+     "angulo": "g1: sem avanço.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+     "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+     "angulo": "Guardian: progresso só nos prisioneiros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ataques russos e apoio incerto de Trump ampliam apagões e falta de aquecimento na Ucrânia",
+     "url": "https://www.estadao.com.br/internacional/ucrania-risco-apagoes-e-falta-de-aquecimento/",
+     "angulo": "Estadão: apagões e falta de aquecimento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Russia and Ukraine agree to prisoner swap, but little else, in U.S.-mediated talks",
+     "url": "https://www.washingtonpost.com/world/2026/11/11/russia-ukraine-agree-prisoner-swap-little-else-us-mediated-talks/",
+     "angulo": "Washington Post: o racha entre EUA e Europa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz",
+     "url": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
+     "angulo": "El País: a pressão do Kremlin.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+     "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+     "angulo": "BBC: a energia perto do colapso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+     "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+     "angulo": "NYT: os EUA pedem a inclusão da Europa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "espanha-tem-primeira-greve-geral-em-14-anos-contra-crise-de-moradia",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Espanha tem a primeira greve geral em 14 anos contra o custo da moradia, com confrontos em Barcelona",
+   "lide": "Sindicatos e movimentos de inquilinos pararam o país por 24 horas contra aluguéis altos e salários estagnados, a 18 dias das eleições legislativas antecipadas. Em Madri, 120 mil pessoas marcharam; em Barcelona houve barricadas e confrontos com a polícia.",
+   "fatos": [
+    {
+     "texto": "A Espanha teve na quarta-feira (11) a primeira greve geral em 14 anos.",
+     "base": "4 fontes independentes (New York Times, g1, Revista Oeste, SBT)"
+    },
+    {
+     "texto": "A greve foi contra a crise de moradia e por melhores salários.",
+     "base": "3 fontes independentes (New York Times, Opera Mundi, Jovem Pan)"
+    },
+    {
+     "texto": "Cerca de 120 mil pessoas marcharam em Madri, segundo as autoridades.",
+     "base": "2 fontes independentes (Euronews, CartaCapital)"
+    },
+    {
+     "texto": "Houve confrontos entre manifestantes e a polícia em Barcelona.",
+     "base": "4 fontes independentes (BBC, Euronews, Al Jazeera, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mais de 50 pessoas foram presas.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "A greve coloca a habitação no centro da campanha eleitoral.",
+     "quem": "Revista Fórum e Le Monde"
+    },
+    {
+     "texto": "A greve foi também contra o avanço do fascismo.",
+     "quem": "Outras Palavras"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+     "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+     "angulo": "NYT: aluguéis altos e salários estagnados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Espanha tem primeira greve geral em 14 anos",
+     "url": "https://revistaoeste.com/mundo/espanha-tem-primeira-greve-geral-em-14-anos/",
+     "angulo": "Oeste: a paralisação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Clashes erupt in Barcelona after thousands join Spain general strike",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+     "angulo": "BBC: os confrontos em Barcelona.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Greve geral paralisa Espanha em protesto contra crise habitacional",
+     "url": "https://operamundi.uol.com.br/europa/greve-geral-paralisa-espanha-em-protesto-contra-crise-habitacional/",
+     "angulo": "Opera Mundi: a crise habitacional.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Greve geral na Espanha provoca confrontos e deixa mais de 50 pessoas presas",
+     "url": "https://www.gazetadopovo.com.br/mundo/greve-geral-na-espanha-provoca-confrontos-e-deixa-mais-de-50-pessoas-presas/",
+     "angulo": "Gazeta do Povo: mais de 50 presos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Spain: 120,000 brave rain to demand affordable housing and better wages",
+     "url": "https://www.euronews.com/video/2026/11/11/spain-120000-brave-rain-to-demand-affordable-housing-and-better-wages",
+     "angulo": "Euronews: 120 mil em Madri.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Espagne : une grève générale sur fond de crise du logement et de colère à cause du pouvoir d’achat",
+     "url": "https://www.lemonde.fr/international/article/2026/11/11/espagne-une-greve-generale-sur-fond-de-crise-du-logement-et-de-colere-sur-le-pouvoir-d-achat_6809018_3210.html",
+     "angulo": "Le Monde: a 18 dias das eleições.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Espanha tem dia de greve geral pela primeira vez em 14 anos",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/espanha-tem-dia-de-greve-geral-pela-primeira-vez-em-14-anos.ghtml",
+     "angulo": "g1: os protestos pelo país.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Espanha: Greve geral coloca habitação no centro do debate eleitoral",
+     "url": "https://revistaforum.com.br/global/espanha-greve-geral-habitacao-debate-eleitoral/",
+     "angulo": "Fórum: a habitação na eleição.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Greve geral na Espanha leva centenas às ruas sob chuva e termina em confronto com a polícia",
+     "url": "https://jovempan.com.br/mundo/greve-geral-na-espanha-leva-centenas-as-ruas-sob-chuva-e-termina-em-confronto-com-a-policia/",
+     "angulo": "Jovem Pan: chuva e confronto.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Barcelona erupts in violence after general strike",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike",
+     "angulo": "Al Jazeera: fogos contra a polícia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "ataque-israelense-a-hospital-nasser-em-gaza-mata-seis",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Ataque israelense ao hospital Nasser, no sul de Gaza, mata seis pessoas",
+   "lide": "O bombardeio atingiu o setor de cirurgia do hospital em Khan Yunis e feriu cerca de 20 pessoas, segundo a Defesa Civil de Gaza. Israel diz que o alvo era um centro operacional do Hamas dentro do hospital.",
+   "fatos": [
+    {
+     "texto": "Um ataque israelense matou seis pessoas e feriu cerca de 20 no hospital Nasser, em Khan Yunis.",
+     "base": "4 fontes independentes (Estadão, O Globo, New York Times, CNN Brasil)"
+    },
+    {
+     "texto": "O ataque atingiu o setor de cirurgia do hospital.",
+     "base": "2 fontes independentes (BBC, CNN Brasil)"
+    },
+    {
+     "texto": "Israel disse que o alvo era um centro operacional do Hamas no hospital.",
+     "base": "2 fontes independentes (Bloomberg, Metrópoles)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Um cirurgião, um funcionário e um paciente com deficiência estão entre as vítimas.",
+     "quem": "Testemunha ouvida pelo New York Times"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O hospital abrigava um centro operacional do Hamas.",
+     "rotulo": "Em apuração",
+     "explicacao": "Israel afirmou isso; as reportagens não citam provas apresentadas nem verificação independente.",
+     "onde_circula": "governo de Israel",
+     "checagem": []
+    },
+    {
+     "alegacao": "Número de mortos.",
+     "rotulo": "Contraditório",
+     "explicacao": "A BBC fala em ao menos cinco mortos; os demais veículos, em seis.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Ataque israelense mata seis pessoas em hospital no sul da Faixa de Gaza",
+     "url": "https://www.estadao.com.br/internacional/ataque-israelense-mata-seis-pessoas-em-hospital-no-sul-da-faixa-de-gaza-npr/",
+     "angulo": "Estadão: o hospital Nasser.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Israel Kills Six With Hit on Gaza Hospital It Says Is Hamas Hub",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/israel-kills-six-with-hit-on-gaza-hospital-it-says-is-hamas-hub",
+     "angulo": "Bloomberg: a versão de Israel.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+     "angulo": "NYT: as vítimas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital",
+     "angulo": "Al Jazeera: a UTI atingida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Ataque israelense a hospital em Gaza deixa seis mortos",
+     "url": "https://www.metropoles.com/mundo/ataque-israelense-a-hospital-em-gaza-deixa-seis-mortos",
+     "angulo": "Metrópoles: Israel alega alvo do Hamas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+     "angulo": "BBC: ao menos cinco mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ataque israelense mata seis pessoas em hospital no sul de Gaza, diz Defesa Civil",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ataque-israelense-mata-seis-pessoas-em-hospital-no-sul-de-gaza-diz-defesa-civil.shtml",
+     "angulo": "Folha: a Defesa Civil.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Un bombardeo de Israel mata a seis personas en un hospital de Gaza",
+     "url": "https://elpais.com/internacional/2026-11-12/un-bombardeo-israeli-mata-a-seis-personas-en-un-hospital-de-gaza.html",
+     "angulo": "El País: depois das enchentes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ataque israelense a hospital em Gaza deixa seis mortos, diz Defesa Civil",
+     "url": "https://www.cnnbrasil.com.br/internacional/ataque-israelense-a-hospital-em-gaza-mata-pessoas-diz-defesa-civil/",
+     "angulo": "CNN Brasil: o setor de cirurgia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Ataque israelense mata seis pessoas em hospital no sul de Gaza",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/12/ataque-israelense-mata-seis-pessoas-em-hospital-no-sul-de-gaza.ghtml",
+     "angulo": "O Globo: cerca de 20 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "vice-presidente-da-indonesia-renuncia-apos-diploma-ser-contestado",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Vice-presidente da Indonésia renuncia após Justiça contestar seu diploma do ensino médio",
+   "lide": "Gibran Rakabuming Raka, filho do ex-presidente Joko Widodo, entregou a carta de renúncia ao Parlamento depois que a Justiça considerou inválido seu certificado escolar. A saída expõe o racha entre o presidente Prabowo Subianto e Widodo.",
+   "fatos": [
+    {
+     "texto": "O vice-presidente Gibran Rakabuming Raka renunciou nesta quinta-feira (12).",
+     "base": "4 fontes independentes (BBC, New York Times, Estadão, Al Jazeera)"
+    },
+    {
+     "texto": "A renúncia ocorre depois que a Justiça questionou a validade de seu diploma do ensino médio.",
+     "base": "3 fontes independentes (Estadão, Metrópoles, O Globo)"
+    },
+    {
+     "texto": "Gibran é filho do ex-presidente Joko Widodo.",
+     "base": "2 fontes independentes (Al Jazeera, BBC)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A renúncia marca a consolidação do poder de Prabowo.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "Um escândalo de grampos ameaça abrir uma 'guerra aberta' na elite política.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+     "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
+     "angulo": "BBC: a aliança governista em crise.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Vice-presidente da Indonésia deixa cargo após ter diploma do ensino médio anulado pela Suprema Corte",
+     "url": "https://www.estadao.com.br/internacional/vice-presidente-da-indonesia-deixa-cargo-apos-ter-diploma-do-ensino-medio-anulado-pela-suprema-corte-npr/",
+     "angulo": "Estadão: o diploma anulado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Indonesia Vice President Resigns as Prabowo Consolidates Power",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/jokowi-son-gibran-rakabuming-raka-resigns-indonesia-vice-president-prabowo",
+     "angulo": "Bloomberg: Prabowo consolida o poder.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Indonesia vice president resigns amid dispute over eligibility",
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+     "angulo": "Al Jazeera: o filho de Widodo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Indonesia’s Vice President, Gibran, Resigns",
+     "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+     "angulo": "NYT: o símbolo da aliança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Vice-presidente da Indonésia renuncia após Justiça questionar sua formação acadêmica",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/12/vice-presidente-da-indonesia-renuncia-apos-justica-questionar-sua-formacao-academica.ghtml",
+     "angulo": "g1: a formação acadêmica.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "The wiretapping scandal that threatens ‘open warfare’ among Indonesia’s political elite",
+     "url": "https://www.ft.com/content/e3b70af7-dfb5-4afd-8b62-f88d7da2077f?syn-25a6b1a6=1",
+     "angulo": "FT: o escândalo de grampos.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Vice-presidente da Indonésia renuncia após Justiça questionar seu diploma",
+     "url": "https://www.metropoles.com/mundo/vice-presidente-da-indonesia-renuncia-apos-justica-questionar-seu-diploma",
+     "angulo": "Metrópoles: o certificado inválido.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    }
+   ]
+  }
+ ]
+}
