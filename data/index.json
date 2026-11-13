@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-12T08:57:30+00:00",
+ "atualizado_em": "2026-11-13T08:58:33+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-13",
+   "arquivo": "data/edicoes/2026-11-13.json",
+   "historias": 10,
+   "gerado_em": "2026-11-13T05:58:32-03:00",
+   "manchete": "Senado aprova por 45 a 31 o texto-base do ajuste fiscal; destaques ficam para terça"
+  },
   {
    "data": "2026-11-12",
    "arquivo": "data/edicoes/2026-11-12.json",

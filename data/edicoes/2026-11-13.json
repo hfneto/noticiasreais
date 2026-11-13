@@ -1,0 +1,1450 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-13",
+ "gerado_em": "2026-11-13T05:58:32-03:00",
+ "historias": [
+  {
+   "id": "senado-aprova-texto-base-do-ajuste-fiscal-por-45-a-31",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Senado aprova por 45 a 31 o texto-base do ajuste fiscal; destaques ficam para terça",
+   "lide": "O projeto do governo amplia o contingenciamento, muda o cálculo do piso da saúde e corta benefícios tributários, com impacto previsto de até R$ 56 bilhões. A oposição votou contra, e Flávio Bolsonaro votou dos EUA.",
+   "fatos": [
+    {
+     "texto": "O Senado aprovou na quinta-feira (12), por 45 votos a 31, o texto-base do projeto de lei complementar de ajuste fiscal.",
+     "base": "4 fontes independentes (Estadão, Metrópoles, Poder360, Brasil de Fato)"
+    },
+    {
+     "texto": "Os destaques serão votados na terça-feira (17); depois, o texto vai à Câmara.",
+     "base": "3 fontes independentes (Poder360, CNN Brasil, Agência Senado)"
+    },
+    {
+     "texto": "O texto amplia o contingenciamento, reduz benefícios tributários e limita compensações fiscais.",
+     "base": "3 fontes independentes (Jota, g1, Jovem Pan)"
+    },
+    {
+     "texto": "Flávio Bolsonaro votou contra o projeto, remotamente, dos Estados Unidos.",
+     "base": "4 fontes independentes (Band, DCM, Revista Fórum, SBT)"
+    },
+    {
+     "texto": "Rogério Marinho, líder da oposição, acusou o governo de 'pedalada fiscal' de R$ 10,5 bilhões ao excluir subsídios ao diesel da meta.",
+     "base": "2 fontes independentes (Poder360, Diário do Poder)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A mudança no cálculo da receita corrente líquida vai reduzir recursos da saúde e da educação.",
+     "quem": "Flávio Bolsonaro, segundo o Poder360"
+    },
+    {
+     "texto": "É um 'ajuste de mentirinha' que não corta despesas.",
+     "quem": "Diário do Poder"
+    },
+    {
+     "texto": "Não haverá um grande ajuste fiscal de uma só vez.",
+     "quem": "Especialista ouvido pela CNN Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Impacto do ajuste em 2027.",
+     "rotulo": "Contraditório",
+     "explicacao": "Jota e CNN Brasil falam em até R$ 56 bilhões; Brasil de Fato e Brasil 247, em até R$ 60 bilhões.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo comemora a aprovação rápida como sinal de compromisso fiscal.",
+    "oposicao": "A oposição diz que o ajuste não corta despesas, acusa 'pedalada' e 'calote' nos estados."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-12",
+    "id": "governo-envia-ao-senado-projeto-de-ajuste-fiscal-de-ate-r-60-bi",
+    "titulo": "Governo envia ao Senado projeto de ajuste fiscal; votação fica para esta quinta"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Veja como votou cada senador no projeto de lei com medidas de ajuste fiscal",
+     "url": "https://www.estadao.com.br/economia/veja-como-votou-cada-senador-no-projeto-de-lei-com-medidas-de-ajuste-fiscal/",
+     "angulo": "Estadão: o placar de 45 a 31.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Senado aprova projeto de “ajuste fiscal” do governo Lula",
+     "url": "https://www.gazetadopovo.com.br/economia/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/",
+     "angulo": "Gazeta do Povo: aspas em 'ajuste fiscal'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Senado aprova texto-base de projeto de ajuste fiscal para diminuir gastos em até R$ 60 bilhões",
+     "url": "https://www.brasildefato.com.br/2026/11/12/senado-aprova-texto-base-de-projeto-de-ajuste-fiscal-para-diminuir-gastos-em-ate-r-60-bilhoes/",
+     "angulo": "Brasil de Fato: até R$ 60 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Marinho diz que governo faz “pedalada fiscal” de R$ 10,5 bilhões",
+     "url": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-faz-pedalada-fiscal-de-r-105-bilhoes/",
+     "angulo": "Poder360: a crítica de Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/13/trava-extra-para-gastos-mudancas-no-piso-da-saude-e-corte-em-beneficios-tributarios-entenda-ajuste-fiscal-aprovado-pelo-senado.ghtml",
+     "angulo": "g1: o que muda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro contraria discurso de campanha e vota contra ajuste fiscal",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-campanha-ajuste-fiscal/",
+     "angulo": "Fórum: o voto contrário de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Senado aprova texto-base do pacote fiscal com impacto previsto de até R$ 56 bi",
+     "url": "https://www.jota.info/legislativo/senado-aprova-texto-base-do-pacote-fiscal-com-impacto-previsto-de-ate-r-56-bi",
+     "angulo": "Jota: impacto de até R$ 56 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Senado aprova texto-base do ‘ajuste fiscal’ de mentirinha que não corta despesas",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/senado-aprova-texto-base-do-ajuste-fiscal-de-mentirinha-que-nao-corta-despesas",
+     "angulo": "Diário do Poder: 'ajuste de mentirinha'.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Senado aprova ajuste fiscal por 45 a 31 e mantém cortes após negociar emendas",
+     "url": "https://iclnoticias.com.br/senado-aprova-ajuste-fiscal/",
+     "angulo": "ICL Notícias: as emendas negociadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Entenda o ajuste fiscal de até R$ 56 bi; Senado conclui votação na terça",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-ajuste-fiscal-de-ate-r-56-bi-senado-conclui-votacao-na-terca-17/",
+     "angulo": "CNN Brasil: a votação de terça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Flávio Bolsonaro vota contra ajuste fiscal; texto-base foi aprovado no Senado",
+     "url": "https://www.band.com.br/politica/flavio-bolsonaro-vota-contra-ajuste-fiscal-texto-base-foi-aprovado-no-senado",
+     "angulo": "Band: o voto de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Veja como cada senador votou na aprovação do texto-base do pacote fiscal",
+     "url": "https://www.metropoles.com/brasil/veja-como-cada-senador-votou-na-aprovacao-do-texto-base-do-pacote-fiscal",
+     "angulo": "Metrópoles: o voto de cada senador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "agro-rebate-banco-do-brasil-sobre-calote-intencional",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Entidades do agro rebatem o Banco do Brasil, que atribuiu queda do lucro à recusa de produtores em pagar",
+   "lide": "A direção do BB disse que parte dos médios e grandes produtores do Centro-Oeste não quis renegociar dívidas. Aprosoja, Farsul e a senadora Tereza Cristina reagiram, e o banco recuou dizendo que 90% dos clientes do agro estão em dia. As ações caíram mais de 8%.",
+   "fatos": [
+    {
+     "texto": "A direção do Banco do Brasil disse que parte dos médios e grandes produtores rurais se recusa a renegociar ou pagar dívidas.",
+     "base": "4 fontes independentes (Jovem Pan, CNN Brasil, CartaCapital, DCM)"
+    },
+    {
+     "texto": "A Aprosoja Brasil divulgou nota de repúdio e disse que não houve inadimplência deliberada.",
+     "base": "3 fontes independentes (O Globo, Veja, g1)"
+    },
+    {
+     "texto": "O BB disse depois que não culpou todo o agro e que 90% dos clientes do setor estão em dia.",
+     "base": "3 fontes independentes (InfoMoney, SBT, g1)"
+    },
+    {
+     "texto": "As ações do Banco do Brasil caíram mais de 8% na bolsa.",
+     "base": "g1; dado de mercado relatado"
+    },
+    {
+     "texto": "O banco renegociou R$ 13,4 bilhões em débitos, mas só 15% dos clientes inadimplentes aderiram.",
+     "base": "CartaCapital; dado do banco relatado"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A inadimplência resulta de quebras de safra e juros altos.",
+     "quem": "Lideranças do agronegócio, segundo a Gazeta do Povo"
+    },
+    {
+     "texto": "O BB construiu uma 'narrativa exagerada' ao atribuir a crise ao agro.",
+     "quem": "Bancos privados e cooperativos, segundo o Estadão"
+    },
+    {
+     "texto": "O calote pode ser uma sabotagem após a derrota de Flávio Bolsonaro.",
+     "quem": "Economista ouvido pelo Brasil de Fato"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O calote do agro no Banco do Brasil é sabotagem política após a eleição.",
+     "rotulo": "Sem evidência",
+     "explicacao": "A hipótese é de um economista ouvido pelo Brasil de Fato; o próprio BB atribui os atrasos a médios e grandes produtores que não renegociaram, sem citar motivação política.",
+     "onde_circula": "Brasil de Fato",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam que grandes produtores resistem a pagar enquanto a agricultura familiar paga em dia.",
+    "oposicao": "Veículos de oposição dizem que o BB, sob Lula, tenta culpar o agro por sua gestão."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-12",
+    "id": "lucro-do-banco-do-brasil-cai-66-com-inadimplencia-do-agro",
+    "titulo": "Lucro do Banco do Brasil cai 66,5% no 3º trimestre com inadimplência do agro, e banco corta dividendos"
+   },
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Setor de soja rebate Banco do Brasil sobre dívidas do agro e diz que não houve inadimplência deliberada",
+     "url": "https://oglobo.globo.com/economia/financas/noticia/2026/11/12/setor-de-soja-rebate-banco-do-brasil-sobre-dividas-do-agro-e-diz-que-nao-houve-inadimplencia-deliberada.ghtml",
+     "angulo": "O Globo: a nota da Aprosoja.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Agro do calote: grandes produtores resistem a pagar, enquanto agricultura familiar dá exemplo",
+     "url": "https://iclnoticias.com.br/economia/agro-do-calote-grandes-produtores/",
+     "angulo": "ICL Notícias: grandes produtores contra agricultura familiar.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lideranças do agronegócio contestam Banco do Brasil sobre calote intencional",
+     "url": "https://www.gazetadopovo.com.br/economia/liderancas-do-agronegocio-contestam-banco-do-brasil-sobre-calote-intencional/",
+     "angulo": "Gazeta do Povo: quebras de safra e juros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "BB diz que não culpou todo o agro por resultado e que 90% dos clientes estão em dia",
+     "url": "https://www.infomoney.com.br/mercados/bb-diz-que-nao-culpou-todo-o-agro-por-resultado-e-que-90-dos-clientes-estao-em-dia/",
+     "angulo": "InfoMoney: o recuo do banco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Sob Lula, BB registra queda de 66,5% nos resultados e tenta culpar o agro",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/sob-lula-bb-registra-queda-de-665-nos-resultados-e-tenta-culpar-o-agro",
+     "angulo": "Diário do Poder: 'tenta culpar o agro'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Economista critica calote do agro no Banco do Brasil em possível sabotagem após derrota de Flávio Bolsonaro",
+     "url": "https://www.brasildefato.com.br/2026/11/12/economista-critica-calote-do-agro-no-banco-do-brasil-em-possivel-sabotagem-apos-derrota-de-flavio-bolsonaro/",
+     "angulo": "Brasil de Fato: a hipótese de sabotagem.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Bancos veem ‘narrativa exagerada do BB’ e criticam atribuição de crise ao agro; leia bastidor",
+     "url": "https://www.estadao.com.br/economia/agronegocios/bancos-veem-narrativa-exagerada-do-bb-e-criticam-atribuicao-de-crise-ao-agro-leia-bastidor/",
+     "angulo": "Estadão: os bancos privados.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Produtor rural não é ‘caloteiro’, reage Aprosoja após fala da presidente do Banco do Brasil",
+     "url": "https://veja.abril.com.br/politica/produtor-rural-nao-e-caloteiro-reage-aprosoja-apos-fala-da-presidente-do-banco-do-brasil/",
+     "angulo": "Veja: a reação da Aprosoja.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Tereza Cristina e Farsul criticam Banco do Brasil sobre inadimplência",
+     "url": "https://www.cnnbrasil.com.br/agro/tereza-cristina-e-farsul-criticam-banco-do-brasil-sobre-inadimplencia/",
+     "angulo": "CNN Brasil: Tereza Cristina e Farsul.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Banco do Brasil aponta recusa de produtores em renegociar dívidas do agronegócio",
+     "url": "https://www.cartacapital.com.br/economia/banco-do-brasil-aponta-recusa-de-produtores-em-renegociar-dividas-do-agronegocio/",
+     "angulo": "CartaCapital: só 15% aderiram.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Banco do Brasil atribui queda no lucro principalmente à inadimplência do agronegócio; ações caíram mais de 8%",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/banco-do-brasil-atribui-queda-no-lucro-principalmente-a-inadimplencia-do-agronegocio-acoes-cairam-mais-de-8percent.ghtml",
+     "angulo": "g1: ações caem mais de 8%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Banco do Brasil aponta recusa de produtores para renegociar dívidas do agro",
+     "url": "https://jovempan.com.br/economia/banco-do-brasil-aponta-recusa-de-produtores-para-renegociar-dividas-do-agro/",
+     "angulo": "Jovem Pan: calote concentrado no Centro-Oeste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "pgr-se-manifesta-contra-revisao-da-condenacao-de-bolsonaro",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "PGR se manifesta contra a revisão criminal que tenta anular a condenação de Bolsonaro",
+   "lide": "Em parecer enviado ao relator Nunes Marques, Paulo Gonet afirmou que a defesa não apresentou provas novas e apenas reitera teses já rejeitadas. Os advogados citavam o caso de Alexandre de Moraes para pedir a anulação da pena de 27 anos.",
+   "fatos": [
+    {
+     "texto": "O procurador-geral Paulo Gonet enviou ao STF parecer contra a revisão criminal pedida pela defesa de Jair Bolsonaro.",
+     "base": "4 fontes independentes (Estadão, g1, Agência Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "Gonet afirmou que a defesa não apresentou provas novas capazes de justificar a revisão.",
+     "base": "4 fontes independentes (DCM, Jovem Pan, Brasil 247, SBT)"
+    },
+    {
+     "texto": "A defesa usou o caso de Alexandre de Moraes para pedir a anulação da pena de 27 anos; a PGR diz que os casos são diferentes.",
+     "base": "2 fontes independentes (Metrópoles, Jota)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O parecer foi enviado ao ministro Nunes Marques, relator do pedido.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "A defesa não trouxe 'nada de relevante para fulminar a prova produzida'.",
+     "quem": "Paulo Gonet, segundo a CartaCapital"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas tratam o parecer como mais uma derrota da tentativa de anular a condenação.",
+    "oposicao": "Veículos de oposição noticiam o parecer de forma factual e destacam a comparação com o caso Moraes feita pela defesa."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Gonet se manifesta contra revisão criminal de Bolsonaro e defende manutenção da pena",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/gonet-se-manifesta-contra-revisao-criminal-de-bolsonaro-e-defende-manutencao-da-pena/",
+     "angulo": "Estadão: a manutenção da pena.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "PGR é contra revisão criminal que pode anular a condenação de Bolsonaro",
+     "url": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-revisao-criminal-que-pode-anular-a-condenacao-de-bolsonaro/",
+     "angulo": "Gazeta do Povo: teses já rejeitadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PGR pede ao STF que rejeite nova tentativa de Bolsonaro de anular condenação na trama golpista",
+     "url": "https://www.brasil247.com/brasil/pgr-pede-ao-stf-que-rejeite-nova-tentativa-de-bolsonaro-de-anular-condenacao-na-trama-golpista/",
+     "angulo": "247: sem provas novas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "PGR se manifesta contra anulação da pena de Bolsonaro e diz que caso é diferente do de Moraes",
+     "url": "https://www.jota.info/stf/do-supremo/pgr-se-manifesta-contra-anulacao-da-pena-de-bolsonaro-e-diz-que-caso-e-diferente-do-de-moraes",
+     "angulo": "Jota: a diferença para o caso Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "PGR rejeita revisão criminal de Bolsonaro e defende manter pena",
+     "url": "https://oantagonista.com.br/brasil/pgr-rejeita-revisao-criminal-de-bolsonaro-e-defende-manter-pena/",
+     "angulo": "O Antagonista: o parecer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Gonet se manifesta contra nova tentativa de Bolsonaro de anular condenação",
+     "url": "https://www.cartacapital.com.br/politica/gonet-se-manifesta-contra-nova-tentativa-de-bolsonaro-de-anular-a-condenacao/",
+     "angulo": "CartaCapital: 'nada de relevante'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "PGR se manifesta contra revisão da condenação de Bolsonaro no STF",
+     "url": "https://www.metropoles.com/brasil/pgr-se-manifesta-contra-revisao-da-condenacao-de-bolsonaro-no-stf",
+     "angulo": "Metrópoles: o argumento da defesa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "PGR pede que STF rejeite revisão da condenação de Bolsonaro",
+     "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/pgr-pede-que-stf-rejeite-revisao-da-condenacao-de-bolsonaro/",
+     "angulo": "Jovem Pan: o parecer não é prova nova.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PGR defende que STF rejeite pedido de revisão criminal de Jair Bolsonaro",
+     "url": "https://www.cnnbrasil.com.br/politica/pgr-defende-que-stf-rejeite-pedido-de-revisao-criminal-de-jair-bolsonaro/",
+     "angulo": "CNN Brasil: o relator Nunes Marques.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "PGR pede ao STF que rejeite nova tentativa de Bolsonaro de anular condenação",
+     "url": "https://revistaforum.com.br/politica/pgr-stf-bolsonaro-condenacao/",
+     "angulo": "Fórum: nova tentativa de Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml",
+     "angulo": "g1: o parecer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "ataques-hacker-atingem-tesouro-nacional-e-caixa-vida",
+   "editoria": "Tecnologia",
+   "escopo": "brasil",
+   "titulo": "Ataques hacker expõem dados de 30 mil cadastros do Tesouro e de 7,6 milhões de clientes da Caixa Vida",
+   "lide": "O Tesouro Nacional informou acesso indevido a CPFs e a 4 mil chaves Pix de beneficiários; a Caixa Seguridade comunicou o vazamento da base cadastral da Caixa Vida e Previdência. Os dois órgãos dizem não haver prejuízo financeiro nem senhas comprometidas.",
+   "fatos": [
+    {
+     "texto": "O Tesouro Nacional informou que identificou, em 4 de novembro, acesso não autorizado a dados de cerca de 30 mil cadastros e 4 mil chaves Pix.",
+     "base": "4 fontes independentes (Folha, O Globo, Valor, Agência Brasil)"
+    },
+    {
+     "texto": "O Tesouro disse não haver impacto financeiro.",
+     "base": "2 fontes independentes (Poder360, Brasil 247)"
+    },
+    {
+     "texto": "A Caixa Seguridade informou ataque à base cadastral da subsidiária Caixa Vida e Previdência, com nomes e CPFs de cerca de 7,6 milhões de clientes.",
+     "base": "comunicado ao mercado; 4 fontes independentes (Agência Brasil, Jovem Pan, Poder360, Gazeta do Povo)"
+    },
+    {
+     "texto": "A Caixa descarta comprometimento de senhas.",
+     "base": "2 fontes independentes (Gazeta do Povo, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Ataques hacker podem gerar prejuízo de R$ 2,9 trilhões ao Brasil em três anos.",
+     "quem": "Projeção citada pela CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Tesouro Nacional sofre ataque hacker que expõe dados de 30 mil cadastros e 4.000 chaves Pix",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/tesouro-nacional-sofre-ataque-hacker-que-expoe-dados-de-30-mil-cadastros-e-4000-chaves-pix.shtml",
+     "angulo": "Folha: 30 mil cadastros e 4 mil chaves Pix.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ataque hacker expõe dados de 7,6 milhões de clientes de empresa ligada à Caixa",
+     "url": "https://www.gazetadopovo.com.br/republica/ataque-hacker-expoe-dados-de-76-milhoes-de-clientes-da-caixa/",
+     "angulo": "Gazeta do Povo: a Caixa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Tesouro Nacional sofre ataque cibernético e tem dados de usuários acessados",
+     "url": "https://www.brasil247.com/brasilia/tesouro-nacional-sofre-ataque-cibernetico-e-tem-dados-de-usuarios-acessados/",
+     "angulo": "247: risco de golpes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Tesouro informa ‘acesso não autorizado’ a sua base de dados, incluindo CPFs e chaves Pix",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/12/tesouro-informa-acesso-no-autorizado-a-sua-base-de-dados-incluindo-cpfs-e-chaves-pix.ghtml",
+     "angulo": "Valor: CPFs e chaves Pix.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Caixa Seguridade informa que sofreu ataque hacker com vazamento de CPFs",
+     "url": "https://jovempan.com.br/brasil/caixa-seguridade-informa-que-sofreu-ataque-hacker-com-vazamento-de-cpfs/",
+     "angulo": "Jovem Pan: CPFs vazados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ataque hacker atinge Tesouro Nacional e expõe milhares de chaves Pix",
+     "url": "https://revistaforum.com.br/brasil/ataque-hacker-tesouro-nacional-pix/",
+     "angulo": "Fórum: as chaves Pix.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Ataque hacker expõe 7,6 mi de clientes de empresa da Caixa",
+     "url": "https://www.poder360.com.br/poder-economia/ataque-hacker-expoe-76-mi-de-clientes-de-empresa-da-caixa/",
+     "angulo": "Poder360: sem indícios de senhas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Caixa Seguridade informa ataque cibernético e vazamento de dados",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados",
+     "angulo": "Agência Brasil: o comunicado ao mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ataque hacker ao Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves PIX",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
+     "angulo": "g1: o Tesouro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ataques hackers podem gerar prejuízo de R$ 2,9 trilhões ao Brasil em 3 anos",
+     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/ataques-hackers-podem-gerar-prejuizo-de-r-29-trilhoes-ao-brasil-em-3-anos/",
+     "angulo": "CNN Brasil: o custo dos ataques.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "noaa-preve-el-nino-muito-forte-ate-marco-de-2027",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "El Niño deve ficar 'muito forte' até março de 2027, diz agência dos EUA; Pará decreta emergência",
+   "lide": "A NOAA aponta que o fenômeno pode ser o mais intenso desde 1950. No Brasil, a seca extrema avançou para 68 municípios e o Pará suspendeu autorizações de uso do fogo por 120 dias. Um estudo associa o El Niño a 42 mil mortes de idosos no país.",
+   "fatos": [
+    {
+     "texto": "A NOAA, agência climática dos EUA, prevê que o El Niño atinja intensidade 'muito forte' até março de 2027.",
+     "base": "4 fontes independentes (Veja, CNN Brasil, Jovem Pan, Exame)"
+    },
+    {
+     "texto": "O fenômeno pode ser o mais intenso desde 1950.",
+     "base": "3 fontes independentes (Exame, New York Post, CNN Brasil)"
+    },
+    {
+     "texto": "O governo do Pará decretou emergência ambiental e climática por 120 dias e suspendeu autorizações de uso do fogo.",
+     "base": "Exame; decreto estadual relatado"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O El Niño está associado a 42,2 mil mortes de idosos no Brasil.",
+     "quem": "Estudo do Ieps, segundo a Folha"
+    },
+    {
+     "texto": "A seca extrema avançou de 4 para 68 municípios em dois meses.",
+     "quem": "Boletim citado pela Exame"
+    },
+    {
+     "texto": "O fenômeno ameaça a agricultura familiar e pode encarecer alimentos.",
+     "quem": "Agrônomo ouvido pelo Brasil de Fato"
+    },
+    {
+     "texto": "Favelas e periferias, onde vivem mais pretos e pardos, são as mais expostas; só 5,1% dos municípios têm planos de contingência.",
+     "quem": "Mídia Ninja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Nos EUA, a previsão de um El Niño recorde preocupa a Califórnia, segundo o New York Post.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "El Niño está associado a 42 mil mortes de idosos no Brasil, diz estudo",
+     "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/el-nino-esta-associado-a-42-mil-mortes-de-idosos-no-brasil-diz-estudo.shtml",
+     "angulo": "Folha: o estudo do Ieps.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "El Niño deve alcançar intensidade ‘muito forte’ até março de 2027, segundo agência americana",
+     "url": "https://veja.abril.com.br/agenda-verde/el-nino-deve-alcancar-intensidade-muito-forte-ate-marco-de-2027-segundo-agencia-americana/",
+     "angulo": "Veja: a previsão da NOAA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Super El Niño ameaça agricultura familiar e pode encarecer alimentos em Minas Gerais, aponta agrônomo",
+     "url": "https://www.brasildefato.com.br/2026/11/12/super-el-nino-ameaca-agricultura-familiar-e-pode-encarecer-alimentos-em-minas-gerais-aponta-agronomo/",
+     "angulo": "Brasil de Fato: o preço dos alimentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Por causa do El Niño, governo do Pará decreta emergência ambiental e climática por 120 dias",
+     "url": "https://exame.com/esg/por-causa-do-el-nino-governo-do-para-decreta-emergencia-ambiental-e-climatica-por-120-dias/",
+     "angulo": "Exame: o decreto no Pará.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "El Niño pode atingir nível histórico até o início de 2027, diz agência dos EUA",
+     "url": "https://jovempan.com.br/mundo/el-nino-pode-atingir-nivel-historico-ate-o-inicio-de-2027-diz-agencia-dos-eua/",
+     "angulo": "Jovem Pan: a agência americana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "Como o super El Niño pode atingir a população negra e as periferias do Brasil",
+     "url": "https://midianinja.org/como-o-super-el-nino-pode-atingir-a-populacao-negra-e-as-periferias-do-brasil/",
+     "angulo": "Mídia Ninja: as periferias.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "El Niño mantém influência no Oceano Pacífico e deve continuar com intensidade “muito forte” até março de 2027, diz agência climática dos EUA",
+     "url": "https://www.cnnbrasil.com.br/ciencia/el-nino-mantem-influencia-no-oceano-pacifico-e-deve-continuar-com-intensidade-muito-forte-ate-marco-de-2027-diz-agencia-climatica-dos-eua/",
+     "angulo": "CNN Brasil: 73% de chance do mais intenso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "El Niño: seca extrema avança de 4 para 68 municípios em dois meses no Brasil",
+     "url": "https://exame.com/esg/el-nino-seca-extrema-avanca-de-4-para-68-municipios-em-dois-meses-no-brasil/",
+     "angulo": "Exame: a seca no Nordeste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Bombshell new memo reveals supercharged El Niño set to smash California: ‘Not normal’",
+     "url": "https://nypost.com/2026/11/12/us-news/historic-el-nino-threatens-california-with-severe-impacts/",
+     "angulo": "New York Post: a Califórnia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Rio apresenta Plano Verão para ordenamento da cidade e enfrentamento do El Niño",
+     "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/12/rio-apresenta-plano-verao.ghtml",
+     "angulo": "g1: o plano do Rio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "band",
+     "titulo": "El Niño muito forte: cidades do Paraná podem ter até 360 mm de chuva",
+     "url": "https://www.band.com.br/nacional/pr/el-nino-muito-forte-cidades-do-parana-podem-ter-ate-360-mm-de-chuva",
+     "angulo": "Band: as chuvas no Paraná.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "fiocruz-aponta-aumento-de-casos-graves-de-covid-19",
+   "editoria": "Saúde",
+   "escopo": "brasil",
+   "titulo": "Fiocruz aponta aumento de casos graves de Covid-19 no país, ainda em nível baixo",
+   "lide": "Os casos de síndrome respiratória aguda grave por Covid subiram no início de novembro, com hospitalizações em alta em sete estados. Especialistas recomendam vacinar crianças, gestantes, idosos e imunossuprimidos.",
+   "fatos": [
+    {
+     "texto": "Os casos de síndrome respiratória aguda grave por Covid-19 aumentaram no início de novembro, segundo a Fiocruz.",
+     "base": "boletim da Fiocruz; 4 fontes independentes (Agência Brasil, CNN Brasil, SBT, Terra Brasil)"
+    },
+    {
+     "texto": "Os registros de SRAG ainda estão em níveis baixos no país.",
+     "base": "2 fontes independentes (SBT, CNN Brasil)"
+    },
+    {
+     "texto": "Especialistas recomendam vacinação para crianças, gestantes, idosos e imunossuprimidos.",
+     "base": "3 fontes independentes (DCM, ICL Notícias, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Há notificações em alta em 18 estados e no DF.",
+     "quem": "DCM"
+    },
+    {
+     "texto": "Uma nova variante foi detectada em dezenas de linhagens.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Casos graves de Covid-19 dão sinal de crescimento no Brasil, aponta Fiocruz",
+     "url": "https://www.cnnbrasil.com.br/saude/casos-graves-de-covid-19-dao-sinal-de-crescimento-no-brasil-aponta-fiocruz/",
+     "angulo": "CNN Brasil: hospitalizações em sete estados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Fiocruz alerta para aumento de casos graves de covid-19 no Brasil",
+     "url": "https://terrabrasilnoticias.com/2026/11/fiocruz-alerta-para-aumento-de-casos-graves-de-covid-19-no-brasil/",
+     "angulo": "Terra Brasil: o alerta da Fiocruz.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19",
+     "angulo": "Agência Brasil: o boletim.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Tudo o que se sabe sobre a nova variante e a alta de covid-19 no Brasil",
+     "url": "https://veja.abril.com.br/saude/tudo-o-que-se-sabe-sobre-a-nova-variante-e-a-alta-de-covid-19-no-brasil/",
+     "angulo": "Veja: a nova variante.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Alta da Covid: especialistas explicam quem deve se vacinar",
+     "url": "https://www.diariodocentrodomundo.com.br/alta-da-covid-especialistas-explicam-quem-deve-se-vacinar/",
+     "angulo": "DCM: quem deve se vacinar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Casos graves de covid-19 aumentam no início de novembro",
+     "url": "https://sbtnews.sbt.com.br/noticia/saude/casos-graves-de-covid-19-aumentam-no-inicio-de-novembro",
+     "angulo": "SBT: níveis ainda baixos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Belo Horizonte registra aumento no número de casos de covid-19",
+     "url": "https://www.brasildefato.com.br/2026/11/12/belo-horizonte-registra-aumento-no-numero-de-casos-de-covid-19/",
+     "angulo": "Brasil de Fato: Belo Horizonte.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Casos de Covid-19 voltam a subir no ES e testes positivos triplicam em poucas semanas; veja orientações",
+     "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/casos-de-covid-19-voltam-a-subir-no-es-e-testes-positivos-triplicam-em-poucas-semanas-veja-orientacoes.ghtml",
+     "angulo": "g1: o Espírito Santo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Brasil tem alta de casos de Covid-19; saiba quem precisa se vacinar",
+     "url": "https://www.brasil247.com/saude/brasil-tem-alta-de-casos-de-covid-19-saiba-quem-precisa-se-vacinar/",
+     "angulo": "247: a vacinação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "lula-se-reune-com-presidente-do-ira-e-defende-reabrir-ormuz",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Na COP31, Lula se reúne com o presidente do Irã e defende saída diplomática e reabertura de Ormuz",
+   "lide": "Lula e Masoud Pezeshkian discutiram a guerra com os EUA, a livre navegação no Estreito de Ormuz e a ampliação do comércio bilateral. Depois da Turquia, o presidente seguiu para as Filipinas, para a cúpula da Asean.",
+   "fatos": [
+    {
+     "texto": "Lula se reuniu com o presidente do Irã, Masoud Pezeshkian, na quinta-feira (12), à margem da COP31.",
+     "base": "4 fontes independentes (Estadão, Folha, g1, Brasil de Fato)"
+    },
+    {
+     "texto": "Lula defendeu solução diplomática para a guerra e a reabertura do Estreito de Ormuz.",
+     "base": "4 fontes independentes (Estadão, Folha, DCM, SBT)"
+    },
+    {
+     "texto": "Os dois discutiram a ampliação do comércio bilateral.",
+     "base": "3 fontes independentes (Gazeta do Povo, Brasil 247, Opera Mundi)"
+    },
+    {
+     "texto": "Da Turquia, Lula seguiu para as Filipinas, para a cúpula da Asean.",
+     "base": "2 fontes independentes (CNN Brasil, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O comércio com o Irã está na mira de Trump.",
+     "quem": "Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governistas destacam Lula como mediador pela paz e pela livre navegação.",
+    "oposicao": "Veículos de oposição destacam o risco de aproximar o Brasil do Irã num momento de guerra com os EUA."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-11",
+    "id": "brasil-apresenta-mapas-do-caminho-para-fim-dos-fosseis-na-cop31",
+    "titulo": "Brasil apresenta na COP31 'mapas do caminho' para o fim dos combustíveis fósseis; Lula se reúne com Erdogan"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Lula se encontra com presidente do Irã durante a COP-31 e defende reabertura do Estreito de Ormuz",
+     "url": "https://www.estadao.com.br/internacional/lula-encontro-presidente-ira-cop-31-npr/",
+     "angulo": "Estadão: Ormuz.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Em encontro na COP 31, Lula fala em ampliar comércio com o Irã, transações na mira de Trump",
+     "url": "https://www.gazetadopovo.com.br/mundo/encontro-cop-31-lula-fala-ampliar-comercio-ira-transacoes-mira-trump/",
+     "angulo": "Gazeta do Povo: comércio na mira de Trump.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Em encontro com presidente do Irã, Lula defende solução pacífica para a guerra e fortalecimento da cooperação entre os países",
+     "url": "https://www.brasildefato.com.br/2026/11/12/em-encontro-com-presidente-do-ira-lula-defende-solucao-pacifica-para-a-guerra-e-fortalecimento-da-cooperacao-entre-os-paises/",
+     "angulo": "Brasil de Fato: solução pacífica.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula se reúne com presidente do Irã e defende saída diplomática para guerra",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/lula-se-reune-com-presidente-do-ira-e-defende-saida-diplomatica-para-guerra.shtml",
+     "angulo": "Folha: a saída diplomática.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Em reunião, Lula e presidente do Irã tratam sobre guerra no Oriente Médio e relações comerciais",
+     "url": "https://operamundi.uol.com.br/oriente-medio/em-reuniao-lula-e-presidente-do-ira-tratam-sobre-guerra-no-oriente-medio-e-relacoes-comerciais/",
+     "angulo": "Opera Mundi: guerra e comércio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/12/lula-discute-guerra-e-estreito-de-ormuz-com-presidente-do-ira-veja-balanco-das-reunioes-na-cop31.ghtml",
+     "angulo": "g1: o balanço das reuniões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lula se reúne com presidente do Irã e defende paz e reabertura de Ormuz",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-se-reune-com-presidente-do-ira-e-defende-paz-e-reabertura-de-ormuz/",
+     "angulo": "DCM: a mediação com os EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Lula fala com presidente do Irã sobre guerra e Ormuz",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-fala-com-presidente-do-ira-sobre-guerra-e-ormuz",
+     "angulo": "SBT: a livre navegação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Lula se reúne com líder do Irã em momento de impasse entre Teerã e Trump",
+     "url": "https://iclnoticias.com.br/lula-se-reune-com-lider-do-ira-em-momento-de-impasse-entre-teera-e-trump/",
+     "angulo": "ICL Notícias: o impasse com Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Depois da Turquia, Lula chega às Filipinas para Cúpula da Asean",
+     "url": "https://www.cnnbrasil.com.br/internacional/depois-da-turquia-lula-chega-as-filipinas-para-cupula-da-asean/",
+     "angulo": "CNN Brasil: a cúpula da Asean.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "jensen-huang-deixa-o-comando-da-nvidia",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Jensen Huang deixa o comando da Nvidia; diretora financeira assume como CEO interina",
+   "lide": "O fundador saiu após revelações de casos extraconjugais, um deles com uma mulher suspeita de espionar para a China. Colette Kress assume interinamente, e Huang e o secretário de Comércio devem depor no Congresso dos EUA.",
+   "fatos": [
+    {
+     "texto": "Jensen Huang deixou na quinta-feira (12) o cargo de presidente-executivo da Nvidia.",
+     "base": "4 fontes independentes (AFP, BBC, Gazeta do Povo, Al Jazeera)"
+    },
+    {
+     "texto": "A diretora financeira Colette Kress assume como CEO interina.",
+     "base": "3 fontes independentes (Guardian, g1, Al Jazeera)"
+    },
+    {
+     "texto": "Huang foi convocado a depor no Congresso dos EUA sobre o caso.",
+     "base": "3 fontes independentes (BBC, O Globo, Guardian)"
+    },
+    {
+     "texto": "O secretário de Comércio, Howard Lutnick, também vai depor no Congresso.",
+     "base": "2 fontes independentes (Estadão, Financial Times)"
+    },
+    {
+     "texto": "Huang teve um terceiro relacionamento extraconjugal, com uma funcionária, segundo apuração de agência.",
+     "base": "4 fontes independentes (Estadão, g1, O Globo, Breitbart)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As ações da Nvidia caíram 13,9%.",
+     "quem": "DCM"
+    },
+    {
+     "texto": "A Nvidia perdeu US$ 1,1 trilhão desde o pico.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "A queda de Huang é uma condenação do 'modo fundador' nas big techs.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Huang renunciou por conta própria.",
+     "rotulo": "Contraditório",
+     "explicacao": "AFP e Gazeta do Povo falam em renúncia; Bloomberg e Breitbart dizem que ele foi afastado pelo conselho.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "A queda de valor da Nvidia supera o valor de toda a bolsa brasileira, segundo a Exame.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-11",
+    "id": "nvidia-contrata-escritorio-wachtell-para-investigar-huang",
+    "titulo": "Nvidia contrata o escritório Wachtell para investigar o caso de Jensen Huang"
+   },
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
+     "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
+     "angulo": "AFP: a renúncia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Nvidia’s Huang Ousted by Board",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-businessweek-daily-11-12-2026-video",
+     "angulo": "Bloomberg: afastado pelo conselho.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+     "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+     "angulo": "Guardian: a CEO interina.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalos pessoais",
+     "url": "https://www.gazetadopovo.com.br/mundo/jensen-huang-renuncia-ao-cargo-de-ceo-da-nvidia-apos-escandalos-pessoais/",
+     "angulo": "Gazeta do Povo: escândalos e espionagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+     "angulo": "BBC: a convocação ao Congresso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Secretário de Comércio dos EUA vai depor no Congresso sobre caso Nvidia",
+     "url": "https://www.estadao.com.br/internacional/secretario-de-comercio-dos-eua-vai-depor-no-congresso-sobre-caso-nvidia-npr/",
+     "angulo": "Estadão: Lutnick no Congresso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Ex-CEO da Nvidia perde R$ 186 bilhões e deixa lista dos 10 mais ricos do mundo",
+     "url": "https://www.diariodocentrodomundo.com.br/ex-ceo-da-nvidia-perde-r-186-bilhoes-e-deixa-lista-dos-10-mais-ricos-do-mundo/",
+     "angulo": "DCM: a fortuna de Huang.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Huang’s fall is an indictment of founder mode at Big Tech",
+     "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+     "angulo": "FT: o 'modo fundador'.",
+     "tipo": "opiniao",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml",
+     "angulo": "g1: a terceira mulher.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Report: Ousted Nvidia CEO Jensen Huang Had Third Affair with Another Company Employee",
+     "url": "https://www.breitbart.com/tech/2026/11/12/report-ousted-nvidia-ceo-jensen-huang-had-third-affair-with-another-company-employee/",
+     "angulo": "Breitbart: o terceiro caso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Nvidia perde US$ 1,1 tri desde o pico, valor superior ao de toda a bolsa brasileira",
+     "url": "https://exame.com/invest/mercados/nvidia-perde-us-11-tri-desde-o-pico-valor-superior-ao-de-toda-a-bolsa-brasileira/",
+     "angulo": "Exame: a perda de valor.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress",
+     "angulo": "Al Jazeera: por que Huang saiu.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "europa-vai-participar-da-proxima-rodada-de-negociacoes-sobre-a-ucrania",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Europa vai participar da próxima rodada de negociações entre Rússia e Ucrânia, dizem Zelensky e EUA",
+   "lide": "Os enviados americanos Steve Witkoff e Jared Kushner se reuniram com Putin em Moscou e com Zelensky em Dublin. Segundo Witkoff, Putin aceitou negociadores europeus na mesa. No mesmo dia, um navio de guerra russo foi atingido por drone ucraniano no Golfo da Finlândia.",
+   "fatos": [
+    {
+     "texto": "Zelensky disse que representantes europeus participarão da próxima rodada de negociações com a Rússia.",
+     "base": "4 fontes independentes (Estadão, O Globo, BBC, Jovem Pan)"
+    },
+    {
+     "texto": "Os enviados americanos Steve Witkoff e Jared Kushner se reuniram com Putin em Moscou e com Zelensky em Dublin.",
+     "base": "3 fontes independentes (New York Times, Al Jazeera, BBC)"
+    },
+    {
+     "texto": "Um navio de guerra russo foi atingido por drone ucraniano no Golfo da Finlândia.",
+     "base": "2 fontes independentes (BBC, Al Jazeera)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Putin concordou com a participação de negociadores europeus.",
+     "quem": "Steve Witkoff, segundo a BBC"
+    },
+    {
+     "texto": "Os EUA não conseguem fechar um acordo sem a Europa.",
+     "quem": "Jared Kushner, segundo o Financial Times"
+    },
+    {
+     "texto": "A velocidade do Starshield, sistema da SpaceX, voltou a ser limitada; a SpaceX nega.",
+     "quem": "Zelensky, segundo Valor e Axios"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-12",
+    "id": "negociacoes-em-abu-dhabi-terminam-com-troca-de-prisioneiros",
+    "titulo": "Negociações em Abu Dhabi terminam com acordo de troca de prisioneiros, mas sem avanço para a paz"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+     "angulo": "BBC: Putin aceita europeus.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Zelenski diz que a Europa participará da próxima rodada de negociações entre Ucrânia e Rússia",
+     "url": "https://www.estadao.com.br/internacional/zelenski-diz-que-a-europa-participara-da-proxima-rodada-de-negociacoes-entre-ucrania-e-russia-npr/",
+     "angulo": "Estadão: a próxima rodada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+     "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+     "angulo": "NYT: o pedido a Putin.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+     "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+     "angulo": "FT: Kushner e a Europa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys",
+     "angulo": "Al Jazeera: o ataque no Báltico.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Após encontro com representantes dos EUA, Zelensky afirma que europeus estarão à mesa na próxima reunião com a Rússia",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/12/apos-encontro-com-representantes-dos-eua-zelensky-afirma-que-europeus-estarao-a-mesa-na-proxima-reuniao-com-a-russia.ghtml",
+     "angulo": "O Globo: europeus à mesa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Europa participará das negociações entre Rússia e Ucrânia, diz Zelensky",
+     "url": "https://jovempan.com.br/mundo/europa-participara-das-negociacoes-entre-russia-e-ucrania-diz-zelensky/",
+     "angulo": "Jovem Pan: a escolha dos europeus.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Zelenskyy Says Talks With US Envoys in Dublin Made Progress",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-13/zelenskyy-says-talks-with-us-envoys-in-dublin-made-progress",
+     "angulo": "Bloomberg: o progresso em Dublin.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
+     "angulo": "BBC: o navio russo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Zelensky says Musk-owned satellite system throttled again, Space X denies it",
+     "url": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
+     "angulo": "Axios: o Starshield.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "falha-global-da-microsoft-derruba-outlook-e-teams",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Falha global da Microsoft deixa Outlook, Teams e Copilot instáveis por mais de 12 horas",
+   "lide": "A pane começou na tarde de quinta-feira e afetou usuários em vários países, inclusive no Brasil. A empresa diz que não há sinal de ataque; na Austrália, a falha atingiu serviços de governo e de polícia.",
+   "fatos": [
+    {
+     "texto": "Uma falha nos servidores da Microsoft deixou instáveis o Outlook, o Teams e o Copilot desde a tarde de quinta-feira (12).",
+     "base": "4 fontes independentes (g1, Financial Times, Al Jazeera, Gazeta do Povo)"
+    },
+    {
+     "texto": "A Microsoft disse que a interrupção não foi causada por atividade maliciosa.",
+     "base": "3 fontes independentes (Financial Times, AFP, CNN Brasil)"
+    },
+    {
+     "texto": "Na Austrália, a falha afetou serviços de governo, escolas e a polícia.",
+     "base": "2 fontes independentes (Guardian, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Cerca de 130 mil usuários no mundo relataram problemas de acesso.",
+     "quem": "Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "ft",
+     "titulo": "Microsoft races to restore services after global outage",
+     "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+     "angulo": "FT: sem atividade maliciosa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Outlook e IA da Microsoft seguem instáveis nesta sexta-feira",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-e-ia-da-microsoft-seguem-instaveis-nesta-sexta-feira.ghtml",
+     "angulo": "g1: os serviços instáveis.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+     "angulo": "Guardian: a Austrália sem e-mail.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Microsoft segue tentando estabilizar serviços após mais de 12 horas",
+     "url": "https://www.metropoles.com/mundo/microsoft-segue-tentando-estabilizar-servicos-apos-mais-de-12-horas",
+     "angulo": "Metrópoles: mais de 12 horas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Falha em servidores da Microsoft provoca interrupção de serviços em vários países",
+     "url": "https://www.gazetadopovo.com.br/mundo/falha-em-servidores-da-microsoft-provoca-interrupcao-de-servicos-em-varios-paises/",
+     "angulo": "Gazeta do Povo: vários países.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Microsoft struggles to repair global Outlook outage, says no sign of 'malicious activity'",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+     "angulo": "AFP: sem sinal de ataque.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "O que se sabe de falha na Microsoft que deixou fora do ar Outlook e afetou Teams, Microsoft 365 e outras plataformas",
+     "url": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo",
+     "angulo": "BBC Brasil: o que se sabe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Falha em servidores da Microsoft causa interrupção de serviços digitais pelo mundo",
+     "url": "https://www.brasil247.com/tecnologia-e-ia/falha-na-microsoft-causa-interrupcao-de-servicos-digitais-pelo-mundo/",
+     "angulo": "247: o Brasil afetado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Instabilidade da Microsoft afeta inteligência e polícia da Austrália",
+     "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/instabilidade-da-microsoft-afeta-inteligencia-e-policia-da-australia/",
+     "angulo": "CNN Brasil: a polícia australiana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Microsoft outage hits tens of thousands of users",
+     "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users",
+     "angulo": "Al Jazeera: dezenas de milhares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-12"
+    }
+   ]
+  }
+ ]
+}
