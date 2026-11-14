@@ -1,0 +1,1048 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-14",
+ "gerado_em": "2026-11-14T05:55:54-03:00",
+ "historias": [
+  {
+   "id": "stf-tem-4-votos-para-manter-liminar-de-dino-sobre-a-6x1",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "STF tem 4 votos para manter liminar de Dino sobre o fim da 6x1; Câmara e Senado contestam ajustes",
+   "lide": "Dino, Moraes, Cármen Lúcia e Gilmar Mendes votaram para referendar a decisão que mantém o calendário de dezembro e flexibiliza a distribuição de folgas. As advocacias da Câmara e do Senado pediram ao plenário que rejeite parte das mudanças.",
+   "fatos": [
+    {
+     "texto": "O STF tem 4 votos para referendar a liminar de Flávio Dino que mantém o calendário de transição do fim da escala 6x1.",
+     "base": "3 fontes independentes (Poder360, Gazeta do Povo, Brasil de Fato)"
+    },
+    {
+     "texto": "A liminar também flexibiliza a distribuição de folgas.",
+     "base": "3 fontes independentes (Estadão, InfoMoney, O Antagonista)"
+    },
+    {
+     "texto": "A Câmara e o Senado pediram ao plenário do STF que rejeite pontos da liminar.",
+     "base": "4 fontes independentes (Folha, CartaCapital, CNN Brasil, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os ministros têm até segunda-feira para votar.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "As mudanças de Dino podem permitir a manutenção da escala 6x1.",
+     "quem": "Câmara dos Deputados, segundo o ICL Notícias"
+    },
+    {
+     "texto": "As flexibilizações dão um alívio, mas o prazo de adaptação de 60 dias é curto.",
+     "quem": "Entidades empresariais, segundo a Veja"
+    },
+    {
+     "texto": "O fim da 6x1 causará choque inflacionário, com aumento de pelo menos 10% nos custos.",
+     "quem": "Gabriel Barros, economista da ARX, na CNN Brasil"
+    },
+    {
+     "texto": "As regras de transição definidas por Dino são 'incompreensíveis'.",
+     "quem": "Deputada Erika Hilton (PSOL-SP), segundo a Revista Fórum"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governo e esquerda defendem o calendário de dezembro, mas parte da esquerda critica a flexibilização das folgas.",
+    "oposicao": "Empresários e oposição destacam custos e risco de inflação e pedem mais prazo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-11",
+    "id": "dino-decide-ate-sexta-regras-de-transicao-do-fim-da-6x1",
+    "titulo": "Dino diz que decide até sexta as regras de transição do fim da 6x1 e sinaliza folgas por acordo coletivo"
+   },
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "STF tem 4 votos para manter o fim da escala 6 X 1 em dezembro",
+     "url": "https://www.poder360.com.br/poder-justica/stf-tem-3-votos-para-manter-o-fim-da-escala-6-x-1-em-dezembro/",
+     "angulo": "Poder360: os quatro votos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Câmara pede que STF derrube parte da decisão de Dino sobre fim da escala 6×1",
+     "url": "https://www.gazetadopovo.com.br/economia/camara-pede-que-stf-derrube-parte-da-decisao-de-dino-sobre-fim-da-escala-6x1/",
+     "angulo": "Gazeta do Povo: a contestação da Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Quatro ministros do STF votam para manter o calendário de transição do fim da escala 6×1",
+     "url": "https://www.brasildefato.com.br/2026/11/13/quatro-ministros-do-stf-ja-votaram-por-manter-o-calendario-de-transicao-do-fim-da-escala-6x1/",
+     "angulo": "Brasil de Fato: o calendário mantido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Câmara e Senado pedem que plenário do STF rejeite pontos da liminar de Dino sobre escala 6x1",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/camara-e-senado-pedem-que-plenario-do-stf-rejeite-pontos-da-liminar-de-dino-sobre-escala-6x1.shtml",
+     "angulo": "Folha: o pedido do Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Câmara alerta que decisão de Dino pode permitir manutenção da escala 6×1",
+     "url": "https://iclnoticias.com.br/camara-alerta-que-decisao-de-dino-pode-permitir/",
+     "angulo": "ICL Notícias: o alerta da Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da escala 6x1",
+     "url": "https://www.estadao.com.br/economia/stf-tem-3-votos-para-manter-decisao-de-dino-que-flexibiliza-folgas-apos-fim-da-escala-6x1/",
+     "angulo": "Estadão: as folgas flexibilizadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "STF caminha para manter fim da escala 6x1 em 16 de dezembro: veja como ficam folgas e salário por hora",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/14/stf-caminha-para-manter-fim-da-escala-6x1-em-16-de-dezembro-veja-como-ficam-folgas-e-salario-por-hora.ghtml",
+     "angulo": "O Globo: folgas e salário por hora.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Para entidades empresariais, flexibilizações ao 6×1 em discussão no STF dão uma alívio",
+     "url": "https://veja.abril.com.br/economia/para-entidades-empresariais-flexibilizacoes-ao-6x1-em-discussao-no-stf-dao-uma-alivio/",
+     "angulo": "Veja: o alívio dos empresários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Fim da escala 6×1 – Erika Hilton critica regras definidas por Dino: “Incompreensível”",
+     "url": "https://revistaforum.com.br/politica/escala-6x1-erika-hilton-critica-dino/",
+     "angulo": "Fórum: a crítica de Erika Hilton.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Dino e Moraes votam para manter transição do fim da 6×1 e flexibilizar folgas",
+     "url": "https://oantagonista.com.br/brasil/dino-vota-para-manter-transicao-do-fim-da-6x1-e-flexibilizar-folgas/",
+     "angulo": "O Antagonista: os primeiros votos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fim da escala 6×1 causará choque inflacionário, diz especialista",
+     "url": "https://www.cnnbrasil.com.br/economia/fim-da-escala-6x1-causara-choque-inflacionario-diz-especialista/",
+     "angulo": "CNN Brasil: o risco de inflação.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Câmara pede que STF barre decisão de Flávio Dino sobre escala 6x1",
+     "url": "https://www.congressoemfoco.com.br/noticia/131593/camara-pede-que-stf-barre-decisao-de-flavio-dino-sobre-escala-6x1",
+     "angulo": "Congresso em Foco: a jornada de 8h24.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "toffoli-vota-para-preservar-mensagens-da-lava-jato-obtidas-por-hackers",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Toffoli vota para preservar mensagens da Lava Jato obtidas por hackers; Gilmar chama operação de 'grande escândalo'",
+   "lide": "O STF julga a preservação definitiva do material da Operação Spoofing, que investigou a invasão de celulares de integrantes da força-tarefa. No mesmo dia, Gilmar Mendes defendeu o diretor da PF e disse que a Lava Jato 'deu errado'.",
+   "fatos": [
+    {
+     "texto": "Dias Toffoli votou pela preservação definitiva das mensagens da Lava Jato obtidas por hackers na Operação Spoofing.",
+     "base": "2 fontes independentes (Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "Gilmar Mendes disse que a Lava Jato foi um 'grande escândalo' do Judiciário.",
+     "base": "3 fontes independentes (Brasil 247, DCM, Gazeta do Povo)"
+    },
+    {
+     "texto": "Gilmar defendeu as trocas de delegados na PF e disse que substituições ocorrem todo dia.",
+     "base": "3 fontes independentes (Folha, DCM, Gazeta do Povo)"
+    },
+    {
+     "texto": "Gilmar defendeu cautela nas propostas de reforma do Judiciário.",
+     "base": "2 fontes independentes (CNN Brasil, O Globo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão sobre o triplex desmorona o 'factoide' que deu origem ao lawfare contra Lula.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas tratam as falas de Gilmar e o voto de Toffoli como confirmação do 'lawfare' contra Lula.",
+    "oposicao": "Veículos de oposição destacam que Gilmar defendeu o diretor da PF em meio à crise do caso Master."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-12",
+    "id": "justica-manda-devolver-a-oas-dinheiro-do-leilao-do-triplex",
+    "titulo": "Justiça manda entregar à OAS os R$ 2,4 milhões do leilão do triplex do Guarujá"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Toffoli vota pela preservação definitiva de mensagens sobre a Lava Jato obtidas por hackers",
+     "url": "https://www.estadao.com.br/politica/toffoli-vota-pela-preservacao-definitiva-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-nprp/",
+     "angulo": "Estadão: o voto de Toffoli.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Gilmar defende diretor da PF, ataca Lava Jato e rebate Moro sobre triplex",
+     "url": "https://www.gazetadopovo.com.br/republica/gilmar-defende-diretor-da-pf-minimiza-troca-de-delegados-e-ataca-lava-jato/",
+     "angulo": "Gazeta do Povo: Gilmar rebate Moro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Gilmar Mendes diz que Lava Jato foi um “grande escândalo” do Judiciário",
+     "url": "https://www.brasil247.com/brasil/gilmar-mendes-diz-que-lava-jato-foi-um-grande-escandalo-do-judiciario/",
+     "angulo": "247: 'grande escândalo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Gilmar Mendes defende cautela com reforma no Judiciário e diz que Operação Lava Jato 'deu errado'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/13/gilmar-mendes-defende-cautela-com-reforma-no-judiciario-e-diz-que-operacao-lava-jato-deu-errado.ghtml",
+     "angulo": "O Globo: a Lava Jato 'deu errado'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Toffoli vota para preservar mensagens da Lava Jato obtidas por hackers",
+     "url": "https://www.gazetadopovo.com.br/republica/toffoli-vota-para-preservar-mensagens-da-lava-jato-obtidas-por-hackers/",
+     "angulo": "Gazeta do Povo: a Operação Spoofing.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Gilmar diz que trocas de delegados ocorrem todo dia e endossa fala de Lula para atacar Lava Jato",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/gilmar-diz-que-trocas-de-delegados-ocorrem-todo-dia-e-endossa-fala-de-lula-para-atacar-lava-jato.shtml",
+     "angulo": "Folha: Gilmar endossa Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Gilmar Mendes defende trocas de delegados da PF, detona Lava Jato e cita triplex da OAS",
+     "url": "https://www.diariodocentrodomundo.com.br/gilmar-mendes-defende-trocas-de-delegados-da-pf-detona-lava-jato-e-cita-triplex-da-oas/",
+     "angulo": "DCM: o triplex da OAS.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Gilmar defende cautela em reforma do Judiciário e critica Lava Jato",
+     "url": "https://www.cnnbrasil.com.br/politica/gilmar-defende-cautela-em-reforma-do-judiciario-e-critica-lava-jato/",
+     "angulo": "CNN Brasil: a reforma do Judiciário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Triplex da OAS: Justiça desmorona factoide da Globo que deu origem ao lawfare da Lava Jato contra Lula",
+     "url": "https://revistaforum.com.br/politica/triplex-da-oas-globo-lava-lula/",
+     "angulo": "Fórum: 'lawfare'.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "governo-encerra-subsidio-de-r-1-40-ao-diesel-importado",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Governo deixa vencer o subsídio extra de R$ 1,40 por litro ao diesel importado",
+   "lide": "A Fazenda informou que a subvenção, criada por 30 dias para enfrentar restrições no mercado internacional, não será renovada, mas pode ser reavaliada. A subvenção de R$ 2,12 por litro ao diesel rodoviário continua.",
+   "fatos": [
+    {
+     "texto": "O Ministério da Fazenda informou que a subvenção de R$ 1,40 por litro ao diesel importado venceu e não será renovada.",
+     "base": "4 fontes independentes (Valor, Estadão, Folha, Agência Brasil)"
+    },
+    {
+     "texto": "A subvenção de R$ 2,12 por litro ao diesel rodoviário continua em vigor.",
+     "base": "3 fontes independentes (Poder360, SBT, CartaCapital)"
+    },
+    {
+     "texto": "A Fazenda disse que a decisão pode ser reavaliada no futuro.",
+     "base": "2 fontes independentes (Estadão, Brasil 247)"
+    }
+   ],
+   "inferencias": [],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Governo encerra subsídio de R$ 1,40 ao diesel importado",
+     "url": "https://www.poder360.com.br/poder-economia/governo-encerra-subsidio-de-r-140-ao-diesel-importado/",
+     "angulo": "Poder360: o fim do benefício.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fazenda deixa vencer subvenção extra de R$ 1,40 ao diesel, mas cita possibilidade de reavaliação",
+     "url": "https://www.estadao.com.br/economia/fazenda-deixa-vencer-subvencao-extra-de-r-140-ao-diesel-mas-cita-possibilidade-de-reavaliacao/",
+     "angulo": "Estadão: a possibilidade de reavaliação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "MF: Subvenção de R$ 1,40 ao diesel importado não será renovada",
+     "url": "https://www.brasil247.com/economia/mf-subvencao-de-r-140-ao-diesel-importado-nao-sera-renovada/",
+     "angulo": "247: pode ser revista.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo Lula retira subvenção extra de R$ 1,40 por litro de diesel importado",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+     "angulo": "Folha: a retirada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Governo Lula anuncia fim de subsídio de R$ 1,40 ao diesel importado",
+     "url": "https://www.metropoles.com/brasil/governo-lula-anuncia-fim-de-subsidio-de-r-140-ao-diesel-importado",
+     "angulo": "Metrópoles: a subvenção de R$ 2,12 mantida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Subvenção de R$ 1,40 ao diesel importado não será renovada, diz ministério",
+     "url": "https://www.cnnbrasil.com.br/infra/subvencao-de-r-140-ao-diesel-importado-nao-sera-renovada-diz-ministerio/",
+     "angulo": "CNN Brasil: a prorrogação de outubro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Fazenda informa que subvenção de R$ 1,40 ao diesel importado venceu e não será renovada",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/13/fazenda-informa-que-subveno-de-r-140-ao-diesel-venceu-e-no-ser-renovada.ghtml",
+     "angulo": "Valor: o aviso da Fazenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Governo não renova subsídio de R$ 1,40 ao diesel importado",
+     "url": "https://www.cartacapital.com.br/economia/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado/",
+     "angulo": "CartaCapital: o diesel rodoviário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Governo não renova subsídio de R$ 1,40 ao diesel importado",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
+     "angulo": "Agência Brasil: após um mês.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Governo encerra subsídio adicional ao diesel importado",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/governo-encerra-subsidio-adicional-ao-diesel-importado",
+     "angulo": "SBT: o benefício venceu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "lula-chega-as-filipinas-e-tenta-reverter-veto-a-carne-suina",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Lula faz a primeira visita de um presidente brasileiro às Filipinas e tenta reverter veto à carne suína",
+   "lide": "Em Manila para a cúpula da Asean, Lula se reúne com Ferdinand Marcos Jr. e busca mercados após o tarifaço dos EUA. As Filipinas suspenderam por 60 dias as compras de carne suína brasileira, e um desencontro de agendas impediu uma reunião com Trump.",
+   "fatos": [
+    {
+     "texto": "Lula chegou às Filipinas para visita de Estado e para a 49ª cúpula da Asean.",
+     "base": "4 fontes independentes (Folha, Band, Opera Mundi, CartaCapital)"
+    },
+    {
+     "texto": "É a primeira visita de um presidente brasileiro às Filipinas.",
+     "base": "2 fontes independentes (Brasil 247, Band)"
+    },
+    {
+     "texto": "As Filipinas suspenderam as importações de carne suína do Brasil, e a comitiva tenta reverter a medida.",
+     "base": "4 fontes independentes (CNN Brasil, Revista Oeste, Folha, Metrópoles)"
+    },
+    {
+     "texto": "Lula não vai se reunir com Trump na cúpula por desencontro de agendas.",
+     "base": "2 fontes independentes (Folha, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A suspensão vale por 60 dias e ameaça as exportações do Paraná.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Lula busca novos mercados na Ásia após o tarifaço dos EUA.",
+     "quem": "Opera Mundi e Brasil de Fato"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governistas destacam a visita histórica e a busca de mercados na Ásia.",
+    "oposicao": "Veículos de oposição destacam a suspensão da carne suína e a falta de encontro com Trump."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-13",
+    "id": "lula-se-reune-com-presidente-do-ira-e-defende-reabrir-ormuz",
+    "titulo": "Na COP31, Lula se reúne com o presidente do Irã e defende saída diplomática e reabertura de Ormuz"
+   },
+   "materias": [
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula é o primeiro presidente brasileiro a visitar as Filipinas; leia sua declaração",
+     "url": "https://www.brasil247.com/poder/lula-e-o-primeiro-presidente-brasileiro-a-visitar-as-filipinas-leia-sua-declaracao/",
+     "angulo": "247: a visita histórica.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Lula chega às Filipinas em meio à suspensão da carne suína brasileira",
+     "url": "https://revistaoeste.com/mundo/lula-chega-as-filipinas-em-meio-a-suspensao-da-carne-suina-brasileira/",
+     "angulo": "Oeste: a carne suína.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Desencontro de agendas impede reunião entre Lula e Trump na cúpula da Asean",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/desencontro-de-agendas-impede-reuniao-entre-lula-e-trump-na-cupula-da-asean.shtml",
+     "angulo": "Folha: sem reunião com Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Lula chega às Filipinas para cúpula da Asean de olho em novos mercados na Ásia após tarifaço dos EUA",
+     "url": "https://operamundi.uol.com.br/politica-e-economia/lula-chega-as-filipinas-de-olho-em-novos-mercados-na-asia/",
+     "angulo": "Opera Mundi: mercados após o tarifaço.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Suspensão nas Filipinas ameaça exportações de carne suína do Paraná",
+     "url": "https://www.gazetadopovo.com.br/parana/suspensao-nas-filipinas-ameaca-exportacoes-de-carne-suina-do-parana/",
+     "angulo": "Gazeta do Povo: o Paraná.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Brasil desembarca nas Filipinas para tentar reverter suspensão de suínos",
+     "url": "https://www.cnnbrasil.com.br/agro/brasil-desembarca-nas-filipinas-para-tentar-reverter-suspensao-de-suinos/",
+     "angulo": "CNN Brasil: a negociação dos suínos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula chega às Filipinas com agenda comercial ampla e tenta reverter veto à carne suína",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-chega-as-filipinas-com-agenda-comercial-ampla-e-tenta-reverter-veto-a-carne-suina.shtml",
+     "angulo": "Folha: etanol, aeronaves e minerais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Lula chega às Filipinas para visita histórica e cúpula do Sudeste Asiático",
+     "url": "https://www.band.com.br/politica/lula-chega-as-filipinas-para-visita-historica-e-cupula-do-sudeste-asiatico",
+     "angulo": "Band: a cúpula de domingo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Lula chega às Filipinas para participar da Cúpula do Sudeste Asiático",
+     "url": "https://www.cartacapital.com.br/mundo/lula-chega-as-filipinas-para-participar-da-cupula-do-sudeste-asiatico/",
+     "angulo": "CartaCapital: a parceria com o bloco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Lula chega às Filipinas em busca de destravar novos mercados e impasses",
+     "url": "https://www.metropoles.com/mundo/lula-chega-as-filipinas-em-busca-de-destravar-novos-mercados-e-impasses",
+     "angulo": "Metrópoles: os impasses.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "carmen-lucia-diz-que-bolsonaro-violou-liberdade-de-imprensa",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Cármen Lúcia diz que Bolsonaro violou a liberdade de imprensa ao bloquear jornalistas no X e arquiva ação",
+   "lide": "A ministra concluiu que um presidente não pode excluir jornalistas de um perfil usado para tratar do governo, mas arquivou o processo porque Bolsonaro deixou o cargo.",
+   "fatos": [
+    {
+     "texto": "Cármen Lúcia afirmou que Bolsonaro violou a liberdade de imprensa ao bloquear jornalistas no X quando era presidente.",
+     "base": "4 fontes independentes (g1, Estadão, Terra Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "A ministra arquivou a ação.",
+     "base": "2 fontes independentes (Gazeta do Povo, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O arquivamento ocorreu porque Bolsonaro não está mais no cargo.",
+     "quem": "CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Cármen diz que Bolsonaro violou liberdade de imprensa ao bloquear jornalistas no X quando era presidente",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
+     "angulo": "g1: a decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Cármen Lúcia arquiva ação contra Bolsonaro por bloqueio de jornalista no X",
+     "url": "https://www.gazetadopovo.com.br/republica/carmen-lucia-arquiva-acao-contra-bolsonaro-por-bloqueio-de-jornalista-no-x/",
+     "angulo": "Gazeta do Povo: o arquivamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Cármen Lúcia conclui que Jair Bolsonaro feriu liberdade de imprensa ao bloquear jornalistas no X",
+     "url": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
+     "angulo": "Estadão: a liberdade de imprensa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Cármen Lúcia diz que Bolsonaro violou liberdade de imprensa ao bloquear jornalistas no X",
+     "url": "https://terrabrasilnoticias.com/2026/11/carmen-lucia-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x/",
+     "angulo": "Terra Brasil: a decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Cármen Lúcia arquiva ação sobre bloqueio de jornalistas por Bolsonaro no X",
+     "url": "https://www.cnnbrasil.com.br/politica/carmen-lucia-arquiva-acao-sobre-bloqueio-de-jornalistas-por-bolsonaro-no-x/",
+     "angulo": "CNN Brasil: o perfil usado no governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "id": "falha-paralisa-decolagens-em-todos-os-aeroportos-dos-eua",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Falha no controle de tráfego aéreo paralisa decolagens em todos os aeroportos dos EUA por mais de 4 horas",
+   "lide": "A FAA suspendeu os voos em todo o país na sexta-feira por uma falha de telecomunicações, a paralisação mais longa desde o 11 de Setembro. O governo Trump culpa equipamentos antigos e pede US$ 50 bilhões ao Congresso; voos com origem ou destino no Brasil foram afetados.",
+   "fatos": [
+    {
+     "texto": "A FAA suspendeu as decolagens em todos os aeroportos dos EUA por mais de quatro horas na sexta-feira (13).",
+     "base": "4 fontes independentes (Revista Oeste, AFP, Axios, BBC)"
+    },
+    {
+     "texto": "A paralisação foi atribuída a uma falha de telecomunicações no controle de tráfego aéreo.",
+     "base": "3 fontes independentes (Al Jazeera, Financial Times, Gazeta do Povo)"
+    },
+    {
+     "texto": "O secretário de Transportes, Sean Duffy, culpou equipamentos 'muito velhos' sobrecarregados.",
+     "base": "3 fontes independentes (Euronews, Metrópoles, Breitbart)"
+    },
+    {
+     "texto": "O governo disse não haver evidências de ataque cibernético.",
+     "base": "2 fontes independentes (BBC, CNN Brasil)"
+    },
+    {
+     "texto": "Voos com origem ou destino no Brasil foram cancelados.",
+     "base": "2 fontes independentes (CNN Brasil, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Mais de 10 mil voos atrasaram e mais de 6 mil foram cancelados.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "Mais de 3.000 voos de sábado seguem cancelados.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "O governo pede US$ 50 bilhões para modernizar o sistema.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A paralisação afetou voos da Azul, Latam, Delta e Japan Airlines em Guarulhos, segundo a CNN Brasil.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "What we know about the longest ground stop since 9/11",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+     "angulo": "BBC: a paralisação mais longa desde 2001.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "EUA liberam decolagens depois de mais de 4 horas de paralisação",
+     "url": "https://revistaoeste.com/mundo/eua-liberam-decolagens-depois-de-mais-de-4-horas-de-paralisacao/",
+     "angulo": "Oeste: mais de 4 horas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+     "angulo": "Guardian: a retomada lenta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Transportation Sec. Sean Duffy Gives Update After FAA Ground Stop: Routers 'Got Overloaded with Data'",
+     "url": "https://www.breitbart.com/politics/2026/11/13/sean-duffy-gives-update-faa-ground-stop-routers-overloaded-data/",
+     "angulo": "Breitbart: a explicação de Duffy.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’",
+     "url": "https://www.ft.com/content/1cbee3e3-b4cf-4831-bd4e-ac1653c7c7c7?syn-25a6b1a6=1",
+     "angulo": "FT: os US$ 50 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Suspensão de voos nos EUA provoca cancelamentos em rotas da Azul no Brasil",
+     "url": "https://www.cnnbrasil.com.br/nacional/brasil/suspensao-de-voos-nos-eua-provoca-cancelamentos-em-rotas-da-azul-no-brasil/",
+     "angulo": "CNN Brasil: o impacto no Brasil.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "De falha de comunicação à investigação do FBI: o que se sabe sobre a suspensão de voos nos EUA",
+     "url": "https://www.gazetadopovo.com.br/mundo/de-falha-de-comunicacao-a-investigacao-do-fbi-o-que-se-sabe-sobre-a-suspensao-de-voos-nos-eua/",
+     "angulo": "Gazeta do Povo: o que se sabe.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "US air travel thrown into chaos after nationwide ground stop halts flights",
+     "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel",
+     "angulo": "Al Jazeera: 1,5 milhão de passageiros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml",
+     "angulo": "g1: o efeito cascata.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Sobrecarga em sistema de telecomunicação causou suspensão de voos nos EUA, diz secretário",
+     "url": "https://jovempan.com.br/mundo/sobrecarga-em-sistema-de-telecomunicacao-causou-suspensao-de-voos-nos-eua-diz-secretario/",
+     "angulo": "Jovem Pan: atrasos e cancelamentos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "FAA ends hours-long nationwide ground stop",
+     "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+     "angulo": "Axios: o fim da suspensão.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Mais de 3.000 voos de sábado seguem cancelados nos EUA após interrupção de tráfego aéreo",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/14/mais-de-2000-voos-de-sabado-seguem-cancelados-nos-eua-apos-interrupcao-de-trafego-aereo.ghtml",
+     "angulo": "O Globo: os cancelamentos de sábado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "trump-xi-e-putin-terao-primeira-cupula-a-tres-na-china",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump, Xi e Putin terão a primeira reunião a três na próxima semana, na China",
+   "lide": "A Casa Branca confirmou o encontro inédito à margem da cúpula da Apec em Shenzhen, no dia 19. Trump quer discutir a redução de armas nucleares e a guerra no Irã.",
+   "fatos": [
+    {
+     "texto": "A Casa Branca confirmou uma reunião trilateral entre Trump, Xi Jinping e Vladimir Putin na China na próxima semana.",
+     "base": "4 fontes independentes (BBC, Al Jazeera, CNN Brasil, Metrópoles)"
+    },
+    {
+     "texto": "O encontro ocorrerá à margem da cúpula da Apec, em Shenzhen, no dia 19 de novembro.",
+     "base": "3 fontes independentes (Bloomberg, El País, Jovem Pan)"
+    },
+    {
+     "texto": "A Casa Branca disse que Trump vai discutir a redução de armas nucleares.",
+     "base": "3 fontes independentes (BBC, CNN Brasil, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Trump vai falar sobre a guerra no Irã com Xi e Putin.",
+     "quem": "Estadão e Al Jazeera"
+    },
+    {
+     "texto": "O governo americano não espera grandes anúncios.",
+     "quem": "Metrópoles"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+     "angulo": "BBC: a redução de armas nucleares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Trump falará sobre o Irã com Xi e Putin na cúpula da Apec",
+     "url": "https://www.estadao.com.br/internacional/trump-falara-sobre-o-ira-com-xi-e-putin-na-cupula-da-apec/",
+     "angulo": "Estadão: o Irã na pauta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Trump, Xi and Putin to hold first three-way summit in China",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+     "angulo": "Al Jazeera: Irã e armas nucleares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Trump, Xi e Putin terão encontro inédito na China para discutir armas nucleares",
+     "url": "https://www.brasil247.com/mundo/trump-xi-e-putin-terao-encontro-inedito-na-china-para-discutir-armas-nucleares/",
+     "angulo": "247: Shenzhen.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump to Hold Trilateral Meeting With Xi, Putin in China",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
+     "angulo": "Bloomberg: 19 de novembro.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Trump, Putin e Xi Jinping vão se reunir na próxima semana",
+     "url": "https://jovempan.com.br/mundo/trump-putin-e-xi-jinping-vao-se-reunir-na-proxima-semana/",
+     "angulo": "Jovem Pan: a cúpula Ásia-Pacífico.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Casa Branca confirma reunião de Trump com Putin e Xi Jinping na China",
+     "url": "https://www.metropoles.com/mundo/casa-branca-confirma-reuniao-de-trump-com-putin-e-xi-jinping-na-china",
+     "angulo": "Metrópoles: sem grandes anúncios.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "EE UU confirma la reunión de Trump, Xi y Putin la semana próxima en China",
+     "url": "https://elpais.com/internacional/2026-11-14/ee-uu-confirma-la-reunion-de-trump-xi-y-putin-la-semana-proxima-en-china.html",
+     "angulo": "El País: a reunião sem precedentes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Trump se reunirá com Putin e Xi Jinping na China, confirma Casa Branca",
+     "url": "https://www.cnnbrasil.com.br/internacional/trump-se-reunira-com-putin-e-xi-jinping-na-china-confirma-casa-branca/",
+     "angulo": "CNN Brasil: os arsenais nucleares.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump, Xi Jinping e Putin terão reunirão histórica na China na próxima semana",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/13/trump-xi-jinping-e-putin-se-reunirao-na-proxima-semana.ghtml",
+     "angulo": "g1: a reunião histórica.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "navio-tanque-atinge-barco-de-cruzeiro-no-mississippi",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Navio-tanque atinge barco de cruzeiro no rio Mississippi, em Nova Orleans; todos são resgatados",
+   "lide": "A embarcação fluvial tombou após a colisão e ficou parcialmente submersa. Não houve mortos; 32 pessoas foram levadas a hospitais com ferimentos não graves, e a prefeita falou em 'milagre no Mississippi'.",
+   "fatos": [
+    {
+     "texto": "Um navio-tanque atingiu um barco de cruzeiro fluvial no rio Mississippi, em Nova Orleans, na sexta-feira (13).",
+     "base": "4 fontes independentes (Folha, BBC, Estadão, Al Jazeera)"
+    },
+    {
+     "texto": "Todos os passageiros e tripulantes foram resgatados, sem mortos.",
+     "base": "4 fontes independentes (Guardian, BBC, Axios, Euronews)"
+    },
+    {
+     "texto": "32 pessoas foram levadas a hospitais com ferimentos não graves.",
+     "base": "3 fontes independentes (Axios, BBC, Metrópoles)"
+    },
+    {
+     "texto": "A prefeita Helena Moreno falou em 'milagre no Mississippi'.",
+     "base": "2 fontes independentes (Breitbart, Guardian)"
+    }
+   ],
+   "inferencias": [],
+   "em_disputa": [
+    {
+     "alegacao": "Número de pessoas a bordo.",
+     "rotulo": "Contraditório",
+     "explicacao": "Al Jazeera, Fórum e Brasil 247 falam em 129 passageiros; Folha e Euronews, em 197 pessoas entre passageiros e tripulantes; Metrópoles, em cerca de 180.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+     "angulo": "BBC: todos resgatados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Navio atinge e vira barco de cruzeiro com 197 pessoas em Nova Orleans",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/navio-atinge-e-vira-barco-de-cruzeiro-com-197-pessoas-em-nova-orleans.shtml",
+     "angulo": "Folha: 197 pessoas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "New Orleans Mayor on Capsized Riverboat: ‘Miracle on the Mississippi’",
+     "url": "https://www.breitbart.com/local/2026/11/13/new-orleans-mayor-on-capsized-riverboat-miracle-on-the-mississippi/",
+     "angulo": "Breitbart: a fala da prefeita.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Mississippi River cruise crash has no fatalities, critical injuries",
+     "url": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
+     "angulo": "Axios: sem mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Petroleiro atinge cruzeiro com 129 passageiros e embarcação tomba nos EUA",
+     "url": "https://revistaforum.com.br/global/petroleiro-atinge-cruzeiro-eua/",
+     "angulo": "Fórum: 129 passageiros.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Navio-tanque atinge cruzeiro no rio Mississippi e deixa 32 feridos nos EUA",
+     "url": "https://www.metropoles.com/mundo/navio-tanque-atinge-cruzeiro-no-rio-mississippi-e-deixa-32-feridos-nos-eua",
+     "angulo": "Metrópoles: 32 feridos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+     "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us",
+     "angulo": "Al Jazeera: barco parcialmente submerso.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Petroleiro bate em cruzeiro no rio Mississippi, nos EUA; equipes fazem resgate de passageiros",
+     "url": "https://www.estadao.com.br/internacional/petroleiro-bate-cruzeiro-rio-mississippi-eua-resgate-passageiros-npr/",
+     "angulo": "Estadão: o resgate.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
+     "url": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
+     "angulo": "Euronews: 197 a bordo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Cargueiro atinge cruzeiro nos EUA; passageiros caem na água",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/cargueiro-atinge-cruzeiro-nos-eua-passageiros-caem-na-agua",
+     "angulo": "SBT: passageiros na água.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-13"
+    }
+   ]
+  }
+ ]
+}

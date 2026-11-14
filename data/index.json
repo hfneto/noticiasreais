@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-13T08:58:33+00:00",
+ "atualizado_em": "2026-11-14T08:55:54+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-14",
+   "arquivo": "data/edicoes/2026-11-14.json",
+   "historias": 8,
+   "gerado_em": "2026-11-14T05:55:54-03:00",
+   "manchete": "STF tem 4 votos para manter liminar de Dino sobre o fim da 6x1; Câmara e Senado contestam ajustes"
+  },
   {
    "data": "2026-11-13",
    "arquivo": "data/edicoes/2026-11-13.json",
