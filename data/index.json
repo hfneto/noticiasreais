@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-14T08:55:54+00:00",
+ "atualizado_em": "2026-11-15T08:56:44+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-15",
+   "arquivo": "data/edicoes/2026-11-15.json",
+   "historias": 8,
+   "gerado_em": "2026-11-15T05:56:43-03:00",
+   "manchete": "Fux interrompe julgamento virtual sobre a 6x1 e leva liminar de Dino ao plenário físico do STF"
+  },
   {
    "data": "2026-11-14",
    "arquivo": "data/edicoes/2026-11-14.json",

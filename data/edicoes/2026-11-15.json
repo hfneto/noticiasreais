@@ -1,0 +1,1049 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-15",
+ "gerado_em": "2026-11-15T05:56:43-03:00",
+ "historias": [
+  {
+   "id": "fux-leva-julgamento-da-transicao-da-6x1-ao-plenario-fisico",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Fux interrompe julgamento virtual sobre a 6x1 e leva liminar de Dino ao plenário físico do STF",
+   "lide": "O pedido de destaque zera a votação, que estava 4 a 0 a favor da liminar, e o caso será retomado em sessão presencial com data a definir por Fachin. A liminar continua valendo e mantém a jornada de 42 horas a partir de dezembro.",
+   "fatos": [
+    {
+     "texto": "Luiz Fux pediu destaque no sábado (14) e interrompeu o julgamento virtual da liminar de Flávio Dino sobre a transição do fim da 6x1.",
+     "base": "4 fontes independentes (Estadão, Gazeta do Povo, Valor, Poder360)"
+    },
+    {
+     "texto": "O julgamento estava com 4 votos favoráveis à liminar.",
+     "base": "3 fontes independentes (Band, Metrópoles, Gazeta do Povo)"
+    },
+    {
+     "texto": "O caso será analisado no plenário presencial, em data a ser marcada por Edson Fachin.",
+     "base": "3 fontes independentes (Jovem Pan, InfoMoney, Revista Fórum)"
+    },
+    {
+     "texto": "A liminar de Dino continua valendo e mantém a redução da jornada para 42 horas.",
+     "base": "2 fontes independentes (Jovem Pan, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A liminar não autoriza acordos individuais; não existe 'texto perfeito'.",
+     "quem": "Flávio Dino, segundo Jovem Pan e CNN Brasil"
+    },
+    {
+     "texto": "Fux agiu após críticas à decisão de Dino.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo defende manter o calendário de dezembro sem flexibilizações que esvaziem a medida.",
+    "oposicao": "Empresários e oposição veem no plenário a chance de ampliar o prazo de adaptação."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-14",
+    "id": "stf-tem-4-votos-para-manter-liminar-de-dino-sobre-a-6x1",
+    "titulo": "STF tem 4 votos para manter liminar de Dino sobre o fim da 6x1; Câmara e Senado contestam ajustes"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Fim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF",
+     "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-fux-pede-destaque-e-leva-decisao-de-dino-a-julgamento-presencial-no-stf-npr/",
+     "angulo": "Estadão: o pedido de destaque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fux suspende julgamento virtual sobre o fim da escala 6×1 e leva caso ao plenário do STF",
+     "url": "https://www.gazetadopovo.com.br/republica/fux-suspende-julgamento-fim-escala-6x1-leva-caso-plenario-stf/",
+     "angulo": "Gazeta do Povo: o caso vai ao plenário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Fim da escala 6×1: Fux interrompe julgamento e leva caso ao plenário do STF",
+     "url": "https://www.diariodocentrodomundo.com.br/fux-leva-julgamento-escala-5x2-plenario-stf/",
+     "angulo": "DCM: o STF terá de reiniciar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Fux interrompe julgamento sobre fim da 6x1 e leva caso ao plenário físico do STF",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/14/fux-interrompe-julgamento-sobre-fim-da-6x1-e-leva-caso-ao-plenario-fisico-do-stf.ghtml",
+     "angulo": "Valor: o plenário físico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Fux interrompe julgamento sobre o fim da escala 6×1 no STF",
+     "url": "https://jovempan.com.br/politica/fux-interrompe-julgamento-sobre-o-fim-da-escala-6x1-no-stf/",
+     "angulo": "Jovem Pan: Fachin marca a sessão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Fim da escala 6×1: Fux leva julgamento ao plenário após críticas à decisão de Dino",
+     "url": "https://revistaforum.com.br/politica/escala-6x1-fux-julgamento-plenario-dino/",
+     "angulo": "Fórum: as críticas à decisão de Dino.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF",
+     "url": "https://www.band.com.br/politica/fux-leva-julgamento-sobre-a-transicao-da-6x1-para-o-plenario-fisico-do-stf",
+     "angulo": "Band: o placar de 4 a 0.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Fux leva ao plenário presencial julgamento sobre mudanças na jornada 6×1",
+     "url": "https://terrabrasilnoticias.com/2026/11/fux-leva-ao-plenario-presencial-julgamento-sobre-mudancas-na-jornada-6x1/",
+     "angulo": "Terra Brasil: a retirada do plenário virtual.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Fux suspende julgamento virtual da escala 6x1 e pede que caso vá a plenário",
+     "url": "https://www.metropoles.com/brasil/fux-suspende-julgamento-virtual-da-escala-6x1-e-pede-que-caso-va-a-plenario",
+     "angulo": "Metrópoles: os quatro votos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Após críticas, Dino defende decisão sobre 6×1: “Texto perfeito não existe”",
+     "url": "https://www.cnnbrasil.com.br/politica/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/",
+     "angulo": "CNN Brasil: a defesa de Dino.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Fux leva julgamento de transição da 6 X 1 ao plenário físico do STF",
+     "url": "https://www.poder360.com.br/poder-justica/fux-pede-destaque-para-julgamento-de-transicao-da-6-x-1/",
+     "angulo": "Poder360: o voto do relator.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Fux interrompe julgamento virtual da escala 6×1 e manda caso para plenário do STF",
+     "url": "https://iclnoticias.com.br/fux-interrompe-julgamento-virtual-da-escala-6x1/",
+     "angulo": "ICL Notícias: texto da Folhapress.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "canada-anuncia-us-400-milhoes-ao-fundo-de-florestas-de-lula",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Nas Filipinas, Canadá anuncia US$ 400 milhões ao fundo de florestas, e Lula ataca big techs e 'tarifas injustas'",
+   "lide": "O premiê Mark Carney anunciou o aporte ao Fundo Florestas Tropicais para Sempre após se reunir com Lula na cúpula da Asean. Brasil e Filipinas assinaram acordos sobre agro e concorrência, e Lula disse que buscou novos parceiros 'em vez de ficar chorando' após o tarifaço dos EUA.",
+   "fatos": [
+    {
+     "texto": "O Canadá anunciou aporte de US$ 400 milhões ao Fundo Florestas Tropicais para Sempre (TFFF) após reunião de Mark Carney com Lula.",
+     "base": "4 fontes independentes (Estadão, Folha, CNN Brasil, DCM)"
+    },
+    {
+     "texto": "Brasil e Filipinas assinaram acordos sobre comércio agrícola e livre concorrência.",
+     "base": "3 fontes independentes (Agência Brasil, Poder360, Jovem Pan)"
+    },
+    {
+     "texto": "Lula disse que a concentração de poder das big techs ameaça a soberania dos países.",
+     "base": "2 fontes independentes (Folha, CNN Brasil)"
+    },
+    {
+     "texto": "Lula disse que, após o tarifaço, o Brasil buscou novos parceiros em vez de 'ficar chorando'.",
+     "base": "2 fontes independentes (O Globo, CNN Brasil)"
+    },
+    {
+     "texto": "Lula cancelou discursos nas Filipinas por causa de rouquidão.",
+     "base": "3 fontes independentes (g1, Veja, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Com o aporte, o fundo fica a US$ 1,7 bilhão da meta.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "O premiê de Singapura sugeriu a Lula um acordo Mercosul-Asean.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo destaca a diversificação de parceiros e o apoio internacional ao fundo de florestas.",
+    "oposicao": "Veículos de oposição destacam a ausência de reunião com Trump e os cancelamentos por rouquidão."
+   },
+   "visao_de_fora": "A imprensa estrangeira destaca o acordo de livre comércio entre Canadá e Filipinas e o impasse sobre o código de conduta no Mar do Sul da China.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-14",
+    "id": "lula-chega-as-filipinas-e-tenta-reverter-veto-a-carne-suina",
+    "titulo": "Lula faz a primeira visita de um presidente brasileiro às Filipinas e tenta reverter veto à carne suína"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Canadá anuncia aporte de US$ 400 milhões a fundo de proteção de florestas após reunião com Lula",
+     "url": "https://www.estadao.com.br/internacional/canada-anuncia-aporte-de-us-400-milhoes-a-fundo-de-protecao-de-florestas-apos-reuniao-com-lula-npr/",
+     "angulo": "Estadão: o aporte ao TFFF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Canadá destina US$ 400 milhões a fundo ambiental criado por Lula",
+     "url": "https://www.diariodocentrodomundo.com.br/canada-destina-us-400-milhoes-a-fundo-ambiental-criado-por-lula/",
+     "angulo": "DCM: o fundo criado por Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula diz que concentração das big techs ameaça soberania dos países em discurso nas Filipinas",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-concentracao-das-big-techs-ameaca-soberania-dos-paises-em-discurso-nas-filipinas.shtml",
+     "angulo": "Folha: as big techs.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Nas Filipinas, Lula alfineta Trump e defende parcerias com Canadá e Ásia: 'Em vez de ficar chorando e implorando para os Estados Unidos terem dó do Brasil'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/15/nas-filipinas-lula-alfineta-trump-e-defende-parcerias-com-canada-e-asia-em-vez-de-ficar-chorando-e-implorando-para-os-estados-unidos-terem-do-do-brasil.ghtml",
+     "angulo": "O Globo: 'em vez de ficar chorando'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Canadá promete até US$ 400 milhões ao TFFF e deixa fundo de florestas a US$ 1,7 bi da meta",
+     "url": "https://exame.com/esg/canada-promete-ate-us-400-milhoes-ao-tfff-e-deixa-fundo-de-florestas-a-us-17-bi-da-meta/",
+     "angulo": "Exame: a distância da meta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência",
+     "url": "https://jovempan.com.br/politica/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia/",
+     "angulo": "Jovem Pan: os acordos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Nas Filipinas, Lula ataca big techs e “tarifas injustas” contra sul global",
+     "url": "https://www.cnnbrasil.com.br/internacional/nas-filipinas-lula-ataca-big-techs-e-tarifas-injustas-contra-sul-global/",
+     "angulo": "CNN Brasil: as 'tarifas injustas'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Premiê de Singapura sugere a Lula Acordo Mercosul-ASEAN",
+     "url": "https://www.brasil247.com/geral/premie-de-singapura-sugere-a-lula-acordo-mercosul-asean/",
+     "angulo": "247: Mercosul-Asean.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Lula cancela discurso e declaração à imprensa nas Filipinas por causa de rouquidão",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/14/lula-cancela-discurso-e-declaracao-a-imprensa-nas-filipinas-por-causa-de-rouquidao.ghtml",
+     "angulo": "g1: a rouquidão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Canada and the Philippines conclude talks on free trade deal, Mark Carney says",
+     "url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says",
+     "angulo": "Euronews: o acordo Canadá-Filipinas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+     "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather",
+     "angulo": "Al Jazeera: o Mar do Sul da China.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "brasil-registra-primeira-morte-por-mpox-em-2026",
+   "editoria": "Saúde",
+   "escopo": "brasil",
+   "titulo": "Brasil registra a primeira morte por Mpox em 2026, com mais de mil casos no ano",
+   "lide": "A vítima, de 48 anos e com doença imunossupressora, morreu no Rio. São Paulo e Rio concentram os casos, e o governo diz que o aumento não configura surto.",
+   "fatos": [
+    {
+     "texto": "O Ministério da Saúde confirmou a primeira morte por Mpox no Brasil em 2026, no Rio de Janeiro.",
+     "base": "4 fontes independentes (g1, Jovem Pan, SBT, Revista Fórum)"
+    },
+    {
+     "texto": "O paciente tinha doença imunossupressora preexistente.",
+     "base": "2 fontes independentes (DCM, CNN Brasil)"
+    },
+    {
+     "texto": "O país passou de mil casos de Mpox no ano.",
+     "base": "3 fontes independentes (Exame, Metrópoles, O Globo)"
+    },
+    {
+     "texto": "São Paulo lidera os casos, com 398 registros.",
+     "base": "dado do Ministério da Saúde; 2 fontes independentes (g1, Terra)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O governo não classifica o aumento de casos como surto.",
+     "quem": "Governo, segundo a Jovem Pan"
+    },
+    {
+     "texto": "O governo comprou 25 mil doses de vacina.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "A variante que causou a crise na África avança no Brasil.",
+     "quem": "O Globo e InfoMoney"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Total de casos no ano.",
+     "rotulo": "Contraditório",
+     "explicacao": "O Globo fala em 1.009 casos até quarta-feira; Metrópoles, em 1.055.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Ministério da Saúde confirma a primeira morte por Mpox no Brasil; saiba os sintomas da doença",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/ministerio-da-saude-confirma-a-primeira-morte-por-mpox-no-brasil-saiba-os-sintomas-da-doenca.ghtml",
+     "angulo": "g1: a confirmação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Brasil registra primeira morte em meio a aumento de casos de Mpox",
+     "url": "https://jovempan.com.br/brasil/brasil-registra-primeira-morte-em-meio-a-aumento-de-casos-de-mpox/",
+     "angulo": "Jovem Pan: não é surto, diz o governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Brasil registra primeira morte por mpox em 2026 e acende alerta para avanço da doença",
+     "url": "https://revistaforum.com.br/saude/brasil-registra-primeira-morte-por-mpox-em-2026-e-acende-alerta-para-avanco-da-doenca/",
+     "angulo": "Fórum: o alerta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Mpox ultrapassa mil casos e registra primeira morte no Brasil em 2026",
+     "url": "https://exame.com/brasil/mpox-ultrapassa-mil-casos-e-registra-primeira-morte-no-brasil-em-2026/",
+     "angulo": "Exame: as 25 mil doses.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Brasil confirma primeira morte por mpox em 2026 no Rio",
+     "url": "https://www.diariodocentrodomundo.com.br/rio-confirma-primeira-morte-mpox-brasil-2026/",
+     "angulo": "DCM: a doença preexistente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Mpox avança em outubro e novembro, e Brasil chega a 1.055 casos com 1 morte",
+     "url": "https://www.metropoles.com/saude/mpox-avanca-em-outubro-e-novembro-e-brasil-chega-a-1-055-casos-com-1-morte",
+     "angulo": "Metrópoles: 1.055 casos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Mpox: variante que causou crise na África avança no Brasil; veja sintomas e tratamento da doença",
+     "url": "https://oglobo.globo.com/saude/noticia/2026/11/14/mpox-variante-que-causou-crise-na-africa-avanca-no-brasil-veja-sintomas-e-tratamento-da-doenca.ghtml",
+     "angulo": "O Globo: a variante.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Rio de Janeiro confirma primeira morte por Mpox em 2026",
+     "url": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026/",
+     "angulo": "CNN Brasil: o paciente de 48 anos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "RJ confirma primeira morte por mpox no Brasil em 2026",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/rj-confirma-primeira-morte-por-mpox-no-brasil-em-2026",
+     "angulo": "SBT: 382 casos no Rio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "Com 398 registros, SP lidera casos de Mpox no Brasil, segundo Ministério da Saúde",
+     "url": "https://www.terra.com.br/noticias/com-398-registros-sp-lidera-casos-de-mpox-no-brasil-segundo-ministerio-da-saude,e31278f2c8ba3be5c985816d89dd376bcsqztxdi.html",
+     "angulo": "Terra: São Paulo lidera.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "ciclone-e-tempestades-geram-alertas-em-todas-as-regioes",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Ciclone na costa do Sudeste deve ampliar temporais, e Inmet emite alertas em todas as regiões",
+   "lide": "Uma zona de baixa pressão deve se formar entre domingo e segunda, favorecendo chuva forte no Centro-Oeste, Sudeste, Nordeste e Sul, no dia do segundo dia de provas do Enem. Mais de 800 cidades de Minas estão sob aviso de tempestade.",
+   "fatos": [
+    {
+     "texto": "O Inmet emitiu alertas de tempestade para estados do Sudeste, Sul, Centro-Oeste e Nordeste.",
+     "base": "4 fontes independentes (CNN Brasil, Agência Brasil, Valor, SBT)"
+    },
+    {
+     "texto": "A formação de um ciclone na costa do Sudeste deve ampliar os temporais a partir de segunda-feira (16).",
+     "base": "3 fontes independentes (Terra Brasil, A Tarde, InfoMoney)"
+    },
+    {
+     "texto": "Mais de 800 cidades de Minas Gerais, incluindo Belo Horizonte, estão sob aviso amarelo de tempestade.",
+     "base": "2 fontes independentes (g1, Estado de Minas)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Nordeste terá ventos de até 56 km/h.",
+     "quem": "A Tarde"
+    },
+    {
+     "texto": "São Paulo pode ter ventos de até 70 km/h.",
+     "quem": "IstoÉ"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Segundo domingo de Enem deve ter tempestades em diversos estados do Brasil",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/segundo-domingo-de-enem-deve-ter-tempestade-em-diversos-estados-do-brasil/",
+     "angulo": "CNN Brasil: o Enem sob chuva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Formação de ciclone no litoral do Sudeste deve ampliar temporais em quatro regiões do país",
+     "url": "https://terrabrasilnoticias.com/2026/11/formacao-de-ciclone-no-litoral-do-sudeste-deve-ampliar-temporais-em-quatro-regioes-do-pais/",
+     "angulo": "Terra Brasil: o ciclone.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Brasil tem alerta de tempestades em todas as regiões nos próximos dias",
+     "url": "https://www.poder360.com.br/poder-brasil/brasil-tem-alerta-de-tempestades-em-todas-as-regioes-nos-proximos-dias/",
+     "angulo": "Poder360: todas as regiões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "BH e outras 843 cidades de MG estão sob aviso amarelo para tempestade; veja lista",
+     "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-e-outras-843-cidades-de-mg-estao-sob-aviso-amarelo-para-tempestade-veja-lista.ghtml",
+     "angulo": "g1: Minas Gerais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Inmet: chuvas e tempestades predominam no país, neste fim de semana",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-chuvas-e-tempestades-predominam-no-pais-neste-fim-de-semana",
+     "angulo": "Agência Brasil: o aviso do Inmet.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Nordeste terá ventos de até 56 km/h e chuva após formação de ciclone",
+     "url": "https://atarde.com.br/bahia/nordeste-tera-ventos-de-ate-56-kmh-e-chuva-apos-formacao-de-ciclone-1409492",
+     "angulo": "A Tarde: o Nordeste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Estado de São Paulo tem alerta para temporais neste domingo (15)",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/estado-de-sao-paulo-tem-alerta-para-temporais-neste-domingo-15.shtml",
+     "angulo": "Folha: São Paulo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Ciclone afetará o Brasil? Cemaden emite alertas; veja como fica previsão do tempo",
+     "url": "https://www.infomoney.com.br/brasil/ciclone-afetara-o-brasil-cemaden-emite-alertas-veja-como-fica-previsao-do-tempo/",
+     "angulo": "InfoMoney: os alertas do Cemaden.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Temporais se espalham pelo Brasil e atingem o Sudeste; veja previsão",
+     "url": "https://www.band.com.br/nacional/brasil/temporais-se-espalham-pelo-brasil-e-atingem-o-sudeste-veja-previsao",
+     "angulo": "Band: o Sudeste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "São Paulo terá calor e risco de temporais com ventos de até 70 km/h",
+     "url": "https://istoe.com.br/sao-paulo-temporais-ventos-70-km-h-15-novembro-2026",
+     "angulo": "IstoÉ: ventos de 70 km/h.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "pgr-mantem-pedido-de-r-324-milhoes-para-penduricalhos",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "PGR mantém pedido de R$ 324 milhões extras para pagar penduricalhos, mesmo após recuo da Justiça Federal",
+   "lide": "Paulo Gonet reforçou ao STF o pedido da AGU para que o governo abra crédito extraordinário para benefícios do Ministério Público da União. A Justiça Federal havia desistido da sua parte do pedido, de R$ 208,9 milhões.",
+   "fatos": [
+    {
+     "texto": "A PGR reforçou ao STF o pedido de crédito extra de R$ 324 milhões para pagar penduricalhos do MPU em 2026.",
+     "base": "4 fontes independentes (Folha, Metrópoles, Gazeta do Povo, O Antagonista)"
+    },
+    {
+     "texto": "A Justiça Federal havia desistido de pedir R$ 208,9 milhões para o mesmo fim.",
+     "base": "2 fontes independentes (Metrópoles, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A gestão Ricardo Nunes enviou à Câmara de São Paulo projeto que cria penduricalhos para procuradores municipais.",
+     "quem": "Folha e DCM"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam a resistência do Judiciário e do MP a abrir mão de benefícios.",
+    "oposicao": "Veículos de oposição destacam que Gonet não recua e criticam o custo para o contribuinte."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-10",
+    "id": "pgr-e-justica-federal-pedem-r-533-milhoes-para-penduricalhos",
+    "titulo": "PGR e Justiça Federal pedem R$ 533 milhões extras para pagar penduricalhos, e entidades cobram fim dos supersalários"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/pgr-reforca-ao-stf-pedido-de-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos.shtml",
+     "angulo": "Folha: o reforço do pedido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "PGR não recua de pedido para bancar penduricalhos",
+     "url": "https://oantagonista.com.br/brasil/pgr-nao-recua-de-pedido-para-bancar-penduricalhos/",
+     "angulo": "O Antagonista: Gonet não recua.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "PGR reforça pedido de R$ 324 milhões para pagar penduricalhos em 2026",
+     "url": "https://www.metropoles.com/brasil/pgr-reforca-pedido-de-r-324-milhoes-para-pagar-penduricalhos-em-2026",
+     "angulo": "Metrópoles: o recuo da Justiça Federal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "PGR apoia pedido da AGU ao STF sobre R$ 324 milhões extras para penduricalhos",
+     "url": "https://www.gazetadopovo.com.br/republica/pgr-apoia-pedido-agu-sobre-r-324-mi-para-penduricalho/",
+     "angulo": "Gazeta do Povo: o MPU.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "O projeto de Nunes que cria penduricalhos para procuradores de SP",
+     "url": "https://www.diariodocentrodomundo.com.br/nunes-propoe-beneficios-procuradores-sao-paulo/",
+     "angulo": "DCM: os procuradores de SP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
+     "url": "https://www.em.com.br/politica/2026/11/7538814-pgr-reforca-ao-stf-pedido-de-credito-extra-de-rs-324-milhoes-para-pagar-penduricalhos.html",
+     "angulo": "Estado de Minas: o crédito extra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "eua-sugerem-que-ucrania-ceda-donbass-em-troca-da-otan",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Zelensky diz que EUA sugeriram que Ucrânia ceda o Donbass em troca de entrada na Otan",
+   "lide": "Segundo o presidente ucraniano, é a primeira vez que os americanos ligam a adesão à aliança à retirada do leste do país. Zelensky disse que não quer ceder território, mas admitiu levar a questão à população; os EUA não confirmaram a proposta.",
+   "fatos": [
+    {
+     "texto": "Zelensky disse que os EUA perguntaram se a Ucrânia cederia o Donbass em troca de adesão à Otan.",
+     "base": "4 fontes independentes (BBC, AFP, Estadão, Financial Times)"
+    },
+    {
+     "texto": "Zelensky disse que não está disposto a ceder territórios, mas admitiu submeter a questão à população.",
+     "base": "3 fontes independentes (Brasil 247, Financial Times, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os EUA não confirmaram a proposta; 'muitas ideias continuam' em discussão.",
+     "quem": "Funcionário americano, segundo a BBC"
+    },
+    {
+     "texto": "Trump, enfraquecido, propõe que a Ucrânia ceda território à Rússia.",
+     "quem": "Brasil de Fato"
+    },
+    {
+     "texto": "A Ucrânia está ficando sem opções, e a Rússia sabe disso.",
+     "quem": "Artigo na Al Jazeera"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-13",
+    "id": "europa-vai-participar-da-proxima-rodada-de-negociacoes-sobre-a-ucrania",
+    "titulo": "Europa vai participar da próxima rodada de negociações entre Rússia e Ucrânia, dizem Zelensky e EUA"
+   },
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+     "angulo": "BBC: os EUA não confirmam.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Zelensky Says U.S. Suggested Ceding Donbas to Russia In Exchange for NATO Membership",
+     "url": "https://www.breitbart.com/europe/2026/11/14/zelensky-says-european-security-framework-floated-by-u-s-could-benefit-putin/",
+     "angulo": "Breitbart: a nova estrutura de segurança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+     "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+     "angulo": "FT: a consulta à população.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "EUA sondam Ucrânia sobre retirada de tropas de Donbass em troca de adesão à Otan, diz Zelenski",
+     "url": "https://www.estadao.com.br/internacional/eua-sondam-ucrania-sobre-retirada-de-tropas-de-donbass-em-troca-de-adesao-a-otan-diz-zelenski-npr/",
+     "angulo": "Estadão: a primeira vez.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "EUA sugeriram que Ucrânia cedesse região de Donbas em troca da adesão à Otan, afirma Zelensky",
+     "url": "https://www.brasil247.com/mundo/eua-sugeriram-que-ucrania-cedesse-regiao-de-donbas-em-troca-da-adesao-a-otan-afirma-zelensky/",
+     "angulo": "247: sem ceder territórios.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
+     "angulo": "Le Monde: a hipótese americana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Em meio a negociações, Zelensky diz que EUA apresentaram o preço para a adesão à Otan: a retirada de Donbass",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/14/em-meio-a-negociacoes-zelensky-diz-que-eua-apresentaram-o-preco-para-a-adesao-a-otan-a-retirada-de-donbass.ghtml",
+     "angulo": "O Globo: o preço da Otan.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+     "angulo": "AFP: a proposta.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+     "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato",
+     "angulo": "Al Jazeera: Zelensky rejeita neutralidade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "EUA sugerem que Ucrânia ceda Donbas para entrar na Otan",
+     "url": "https://www.poder360.com.br/poder-internacional/eua-sugerem-que-ucrania-ceda-donbas-para-entrar-na-otan/",
+     "angulo": "Poder360: decisão da sociedade.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "italia-multa-meta-em-805-milhoes-de-euros-por-acesso-a-fotos",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Itália multa Meta em 805 milhões de euros por acessar fotos de usuários sem consentimento",
+   "lide": "A autoridade italiana de proteção de dados diz que a empresa acessou fotos e vídeos de 20 milhões de usuários de Android sem informá-los. A Meta tem 60 dias para recorrer.",
+   "fatos": [
+    {
+     "texto": "A autoridade de proteção de dados da Itália multou a Meta em 805 milhões de euros.",
+     "base": "4 fontes independentes (BBC, Le Monde, Folha, Poder360)"
+    },
+    {
+     "texto": "Segundo o órgão, a empresa acessou fotos e vídeos de cerca de 20 milhões de usuários de Android sem consentimento.",
+     "base": "3 fontes independentes (Poder360, BBC, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A falta de cooperação da Meta pesou no valor da multa.",
+     "quem": "Autoridade italiana, segundo a Al Jazeera"
+    },
+    {
+     "texto": "A multa contrasta com a punição aplicada à Meta no Brasil.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a multa foi comparada à de R$ 7,5 milhões aplicada pelo TSE à Meta nesta semana.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Italy fines Meta €805m over accessing users' photos",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+     "angulo": "BBC: 20 milhões de usuários.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Multa de R$ 5 bilhões à Meta na Itália expõe contraste com punição aplicada no Brasil",
+     "url": "https://revistaforum.com.br/global/multa-de-r-5-bilhoes-a-meta-na-italia-expoe-contraste-com-punicao-aplicada-no-brasil/",
+     "angulo": "Fórum: o contraste com o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "La maison mère de Facebook, Meta, écope d’une lourde amende en Italie pour avoir accédé à des photos sans consentement « spécifique »",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/14/la-maison-mere-de-facebook-meta-ecope-d-une-lourde-amende-en-italie-pour-avoir-accede-a-des-photos-sans-consentement-specifique_6810412_4408996.html",
+     "angulo": "Le Monde: uma das maiores multas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Itália multa Meta por acesso a fotos de usuários sem consentimento",
+     "url": "https://oantagonista.com.br/ladooa/tecnologia/italia-multa-meta-por-acesso-a-fotos-de-usuarios-sem-consentimento/",
+     "angulo": "O Antagonista: sem consentimento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Itália multa Meta em 805 mi de euros por acesso indevido a dados",
+     "url": "https://www.poder360.com.br/poder-midia/italia-multa-meta-em-805-mi-de-euros-por-acesso-indevido-a-dados/",
+     "angulo": "Poder360: usuários de Android.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Italy fines Meta $880m over photo privacy",
+     "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy",
+     "angulo": "Al Jazeera: a falta de cooperação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Itália multa Meta em US$ 887 milhões por acessar fotos de usuários sem consentimento",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/italia-multa-meta-em-us-887-milhoes-por-acessar-fotos-de-usuarios-sem-consentimento.shtml",
+     "angulo": "Folha: a agência italiana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Itália multa Meta em 805 milhões de euros por acesso a dados de usuários",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/italia-multa-meta-em-805-milhoes-de-euros-por-acesso-a-dados-de-usuarios/",
+     "angulo": "CNN Brasil: 60 dias para recorrer.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Itália multa Meta em R$ 5 bilhões por acessar fotos e vídeos de usuários sem autorização",
+     "url": "https://www.brasildefato.com.br/2026/11/14/italia-multa-meta-em-r-5-bilhoes-por-acessar-fotos-e-videos-de-usuarios-sem-autorizacao/",
+     "angulo": "Brasil de Fato: o Garante Privacy.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "A multa bilionária aplicada pela Itália à Meta por acesso de fotos sem consentimento",
+     "url": "https://veja.abril.com.br/mundo/a-multa-bilionaria-aplicada-pela-italia-a-meta-por-acesso-de-fotos-sem-consentimento/",
+     "angulo": "Veja: a condenação no Novo México.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    }
+   ]
+  },
+  {
+   "id": "netanyahu-pede-governo-de-unidade-e-eisenkot-rejeita",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Netanyahu pede governo de unidade nacional a Eisenkot, que chama o apelo de 'truque'",
+   "lide": "O premiê interino diz que só um governo de unidade garante a segurança de Israel diante do Irã. Eisenkot, encarregado de formar o governo, rejeitou o apelo e acusou Netanyahu de promover uma campanha racista contra os cidadãos árabes.",
+   "fatos": [
+    {
+     "texto": "Netanyahu fez um apelo público a Gadi Eisenkot por um governo de unidade nacional.",
+     "base": "3 fontes independentes (Al Jazeera, AFP, Le Monde)"
+    },
+    {
+     "texto": "Eisenkot rejeitou o apelo e o chamou de 'truque'.",
+     "base": "3 fontes independentes (AFP, Al Jazeera, Le Monde)"
+    },
+    {
+     "texto": "Eisenkot acusou Netanyahu de promover uma campanha racista contra os cidadãos árabes de Israel.",
+     "base": "3 fontes independentes (Guardian, Folha, Opera Mundi)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Netanyahu tentou bloquear um acordo da oposição com os partidos árabes.",
+     "quem": "Clarín"
+    },
+    {
+     "texto": "Mesmo que Netanyahu caia, o legado de extrema direita permanece.",
+     "quem": "Artigo na Al Jazeera"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-09",
+    "id": "eisenkot-recebe-mandato-e-convida-partido-de-netanyahu",
+    "titulo": "Eisenkot recebe mandato para formar governo em Israel e convida partido de Netanyahu"
+   },
+   "materias": [
+    {
+     "fonte": "aljazeera",
+     "titulo": "Netanyahu sends plea to Eisenkot for unity government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government",
+     "angulo": "Al Jazeera: o apelo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+     "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+     "angulo": "Guardian: a campanha 'racista'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+     "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+     "angulo": "AFP: os 'truques'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Eisenkot acusa Netanyahu de promover racismo contra os partidos árabes",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-acusa-netanyahu-de-promover-racismo-contra-os-partidos-arabes.shtml",
+     "angulo": "Folha: os partidos árabes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
+     "angulo": "Le Monde: as 'artimanhas'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Eisenkot acusa Netanyahu de promover campanha racista contra cidadãos árabes de Israel",
+     "url": "https://operamundi.uol.com.br/israel/eisenkot-acusa-netanyahu-de-promover-campanha-racista-contra-cidadaos-arabes-de-israel/",
+     "angulo": "Opera Mundi: os cidadãos árabes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Alerta por Irán: Netanyahu buscó bloquear un acuerdo con fuerzas árabes y la oposición rechazó el intento",
+     "url": "https://www.clarin.com/mundo/alerta-iran-netanyahu-busco-bloquear-acuerdo-fuerzas-arabes-oposicion-rechazo-intento_0_e5v7PxX7Dp.html",
+     "angulo": "Clarín: o bloqueio ao acordo com os árabes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+     "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere",
+     "angulo": "Al Jazeera: o legado.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-14"
+    }
+   ]
+  }
+ ]
+}
