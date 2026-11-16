@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-15T08:56:44+00:00",
+ "atualizado_em": "2026-11-16T08:55:59+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-16",
+   "arquivo": "data/edicoes/2026-11-16.json",
+   "historias": 9,
+   "gerado_em": "2026-11-16T05:55:58-03:00",
+   "manchete": "Ajuste fiscal racha a esquerda, que fala em 'tesouraço', e Moretti critica 'esquerda sectária'"
+  },
   {
    "data": "2026-11-15",
    "arquivo": "data/edicoes/2026-11-15.json",

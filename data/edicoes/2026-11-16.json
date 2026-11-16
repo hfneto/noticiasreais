@@ -1,0 +1,1146 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-16",
+ "gerado_em": "2026-11-16T05:55:58-03:00",
+ "historias": [
+  {
+   "id": "ajuste-fiscal-racha-a-esquerda-e-moretti-reage",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Ajuste fiscal racha a esquerda, que fala em 'tesouraço', e Moretti critica 'esquerda sectária'",
+   "lide": "Parte do PT critica o pacote de até R$ 60 bilhões, enquanto o mercado o considera tímido. Alckmin e o ministro Bruno Moretti defenderam o projeto, cujos destaques o Senado vota nesta terça antes de enviá-lo à Câmara.",
+   "fatos": [
+    {
+     "texto": "O Senado vota nesta terça-feira (17) os destaques do projeto de ajuste fiscal; depois, o texto vai à Câmara.",
+     "base": "3 fontes independentes (ICL Notícias, Agência Pública, Brasil 247)"
+    },
+    {
+     "texto": "Parte da esquerda passou a criticar o pacote, chamado por críticos de 'tesouraço'.",
+     "base": "2 fontes independentes (Folha, Estadão)"
+    },
+    {
+     "texto": "O ministro do Planejamento, Bruno Moretti, disse que a 'esquerda sectária' atrasa o combate a privilégios ao criticar o projeto.",
+     "base": "2 fontes independentes (Poder360, Folha)"
+    },
+    {
+     "texto": "Geraldo Alckmin defendeu o pacote e disse que ele preserva os mais pobres.",
+     "base": "4 fontes independentes (Revista Fórum, Gazeta do Povo, Poder360, Metrópoles)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O mercado considera o ajuste tímido.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "O projeto é um 'calote' e uma 'pedalada fiscal'.",
+     "quem": "Senador Rogério Marinho (PL-RN), segundo a Band"
+    },
+    {
+     "texto": "A eleição deixou impacto de R$ 40 bilhões para 2027 e dificulta o ajuste.",
+     "quem": "Valor"
+    },
+    {
+     "texto": "A aversão do PT ao ajuste mostra a falta que faz uma direita democrática.",
+     "quem": "Análise do Estadão"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo diz que o ajuste preserva programas sociais e mira o superávit para reduzir os juros.",
+    "oposicao": "A oposição chama o projeto de 'calote' e 'pedalada'; parte da esquerda aliada critica cortes."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-13",
+    "id": "senado-aprova-texto-base-do-ajuste-fiscal-por-45-a-31",
+    "titulo": "Senado aprova por 45 a 31 o texto-base do ajuste fiscal; destaques ficam para terça"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Tesouraço se volta contra Lula e racha parte da esquerda",
+     "url": "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml",
+     "angulo": "Folha: o racha na esquerda.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Alckmin rebate fogo amigo da esquerda: “ajuste fiscal não atinge os mais pobres”",
+     "url": "https://www.gazetadopovo.com.br/economia/alckmin-diz-ajuste-fiscal-nao-atinge-os-mais-pobres/",
+     "angulo": "Gazeta do Povo: Alckmin responde à esquerda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Moretti diz que “esquerda sectária” atrasa combate a privilégios",
+     "url": "https://www.poder360.com.br/poder-economia/moretti-diz-que-esquerda-sectaria-atrasa-combate-a-privilegios/",
+     "angulo": "Poder360: a crítica de Moretti.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Alckmin defende ajuste fiscal do governo Lula: “Preserva os mais pobres”",
+     "url": "https://revistaforum.com.br/politica/alckmin-defende-ajuste-fiscal/",
+     "angulo": "Fórum: 'preserva os mais pobres'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’",
+     "url": "https://www.estadao.com.br/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco/",
+     "angulo": "Estadão: tímido para o mercado, 'tesouraço' para a esquerda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Rogério Marinho compara projeto de ajuste fiscal a calote e pedalada fiscal",
+     "url": "https://www.band.com.br/politica/rogerio-marinho-compara-projeto-de-ajuste-fiscal-a-calote-e-pedalada-fiscal-2",
+     "angulo": "Band: 'calote e pedalada'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Senado vota esta semana destaques do projeto de ajuste fiscal de Lula",
+     "url": "https://iclnoticias.com.br/semana-comeca-com-senado/",
+     "angulo": "ICL Notícias: a votação de terça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Freixo sai em defesa do ajuste fiscal de Lula",
+     "url": "https://oantagonista.com.br/brasil/freixo-sai-em-defesa-do-ajuste-fiscal-de-lula/",
+     "angulo": "O Antagonista: Freixo defende o pacote.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Uallace Moreira rebate críticas ao ajuste fiscal e nega cortes na saúde e educação",
+     "url": "https://www.brasil247.com/economia/uallace-moreira-rebate-criticas-ao-ajuste-fiscal-e-nega-cortes-na-saude-e-educacao/",
+     "angulo": "247: sem cortes na saúde e educação.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "A preocupação do setor de saúde com o projeto de ajuste fiscal",
+     "url": "https://veja.abril.com.br/brasil/a-preocupacao-do-setor-de-saude-com-o-projeto-de-ajuste-fiscal/",
+     "angulo": "Veja: o pedido do setor de saúde.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Aversão do PT ao ajuste fiscal mostra a falta que faz uma direita democrática",
+     "url": "https://www.estadao.com.br/politica/diogo-schelp/aversao-do-pt-ao-ajuste-fiscal-mostra-a-falta-que-faz-uma-direita-democratica/",
+     "angulo": "Estadão: a falta de uma direita democrática.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "Senado fecha projeto de Ajuste Fiscal essa semana e envia para Câmara dos Deputados",
+     "url": "https://apublica.org/nota/senado-fecha-ajuste-fiscal-que-chega-essa-semana-na-camara/",
+     "angulo": "Agência Pública: a ida à Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "correios-acumulam-prejuizo-de-r-7-5-bilhoes-ate-setembro",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Correios acumulam prejuízo de R$ 7,5 bilhões até setembro, 27% mais que em 2025",
+   "lide": "A estatal perdeu R$ 1,93 bilhão no terceiro trimestre e tem patrimônio líquido negativo, mesmo após empréstimos com garantia da União. A empresa diz que o resultado está 'dentro do planejado' e atribui as perdas à concorrência.",
+   "fatos": [
+    {
+     "texto": "Os Correios tiveram prejuízo de R$ 7,48 bilhões de janeiro a setembro de 2026.",
+     "base": "balanço da estatal; 4 fontes independentes (Folha, Valor, Revista Oeste, Poder360)"
+    },
+    {
+     "texto": "O prejuízo do terceiro trimestre foi de R$ 1,931 bilhão.",
+     "base": "3 fontes independentes (Estadão, Valor, Band)"
+    },
+    {
+     "texto": "O prejuízo acumulado é cerca de 27% maior que o do mesmo período de 2025.",
+     "base": "2 fontes independentes (Folha, O Antagonista)"
+    },
+    {
+     "texto": "A estatal atribui a situação à maior concorrência e à obrigação de atuar em todo o país.",
+     "base": "2 fontes independentes (g1, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A estatal tem patrimônio líquido negativo e forte pressão de caixa.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "Os Correios caminham para o sexto ano seguido no vermelho.",
+     "quem": "Veja"
+    },
+    {
+     "texto": "Os Correios 'agonizam' no governo Lula.",
+     "quem": "Diário do Poder"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A estatal diz que o resultado está dentro do planejado e que um plano de reestruturação está em curso.",
+    "oposicao": "Veículos de oposição atribuem o rombo à gestão do governo Lula."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Prejuízo dos Correios soma R$ 7,5 bilhões até o terceiro trimestre de 2026, alta de 27%",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/prejuizo-dos-correios-soma-r-75-bilhoes-de-janeiro-a-setembro-alta-de-27.shtml",
+     "angulo": "Folha: alta de 27%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Correios acumulam prejuízo de R$ 7,5 bilhões até setembro de 2026",
+     "url": "https://revistaoeste.com/economia/correios-acumulam-prejuizo-de-r-75-bilhoes-ate-setembro-de-2026/",
+     "angulo": "Oeste: o acumulado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Correios têm 16 trimestres de prejuízo; estatal atribui situação à maior concorrência e a atuar em todo o país",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/16/correios-tem-16-trimestres-de-prejuizo-estatal-atribui-situacao-a-maior-concorrencia-e-a-atuar-em-todo-o-pais.ghtml",
+     "angulo": "g1: a explicação da estatal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Correios agonizam no governo Lula com prejuízo de R$7,48 bilhões de janeiro a setembro",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/correios-agonizam-no-governo-lula-com-prejuizo-de-r748-bilhoes-de-janeiro-a-setembro-de-2026",
+     "angulo": "Diário do Poder: 'agonizam'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre",
+     "url": "https://www.brasil247.com/economia/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre/",
+     "angulo": "247: receitas e despesas financeiras.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Correios registram prejuízo de R$ 1,931 bi no terceiro trimestre, atingindo R$ 7,484 bi no acumulado até setembro",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/15/correios-tm-prejuzo-de-r-19-bilho-no-terceiro-trimestre.ghtml",
+     "angulo": "Valor: o trimestre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Prejuízo dos Correios cresce R$ 7,48 bilhões: “dentro do planejado”, diz empresa",
+     "url": "https://www.gazetadopovo.com.br/economia/prejuizo-dos-correios-cresce-r-748-bilhoes-dentro-do-planejado-diz-empresa/",
+     "angulo": "Gazeta do Povo: 'dentro do planejado'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Correios perdem R$ 1,9 bi no 3º trimestre; rombo no ano chega a R$ 7,5 bi",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/correios-perdem-r-19-bi-no-3o-trimestre-rombo-no-ano-chega-a-r-75-bi/",
+     "angulo": "CNN Brasil: patrimônio negativo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Correios têm prejuízo líquido de R$ 1,9 bi no 3º trimestre; no ano, perdas chegam a R$ 7,5 bi",
+     "url": "https://www.estadao.com.br/economia/correios-tem-prejuizo-liquido-de-r-19-bi-no-3-trimestre-no-ano-perdas-chegam-a-r-75-bi/",
+     "angulo": "Estadão: o terceiro trimestre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Prejuízo dos Correios cresce quase 30% em 2026 e acumula R$ 7,5 bilhões até setembro",
+     "url": "https://veja.abril.com.br/economia/prejuizo-dos-correios-cresce-quase-30-em-2026-e-acumula-r-75-bilhoes-ate-setembro/",
+     "angulo": "Veja: sexto ano no vermelho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Rombo dos Correios chega a R$ 7,5 bilhões",
+     "url": "https://oantagonista.com.br/economia/rombo-dos-correios-chega-a-r-75-bilhoes/",
+     "angulo": "O Antagonista: o rombo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "enem-2026-tem-abstencao-de-36-no-segundo-dia",
+   "editoria": "Educação",
+   "escopo": "brasil",
+   "titulo": "Enem 2026 termina com abstenção de 36% no segundo dia, a maior desde 2020",
+   "lide": "O índice superou os 32% do primeiro dia. O MEC atribui a alta à inscrição automática de alunos do 3º ano da rede pública e anunciou mudanças para a prova de 2028; os resultados saem em 18 de janeiro.",
+   "fatos": [
+    {
+     "texto": "O segundo dia do Enem 2026 teve 36% de abstenção.",
+     "base": "4 fontes independentes (Poder360, Folha, Jovem Pan, A Tarde)"
+    },
+    {
+     "texto": "O MEC atribuiu a alta à inscrição automática de estudantes do 3º ano.",
+     "base": "3 fontes independentes (Jovem Pan, Band, CNN Brasil)"
+    },
+    {
+     "texto": "Os resultados serão divulgados em 18 de janeiro.",
+     "base": "2 fontes independentes (Poder360, Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "É o maior índice de abstenção desde 2020.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "O ministro anunciou mudanças para a prova de 2028.",
+     "quem": "Valor"
+    },
+    {
+     "texto": "O segundo dia teve ataque hacker e falta de energia.",
+     "quem": "Band"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-09",
+    "id": "enem-2026-tem-sus-na-redacao-e-abstencao-de-32",
+    "titulo": "Enem 2026 tem o SUS como tema da redação e abstenção de 32%, a maior desde a pandemia"
+   },
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Enem 2026 registra abstenção de 36% no 2º dia de provas",
+     "url": "https://www.poder360.com.br/poder-educacao/enem-2026-registra-abstencao-de-36-no-2o-dia-de-provas/",
+     "angulo": "Poder360: acima dos 32%.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Enem 2026: segundo dia registra 36% de abstenção, maior índice desde 2020",
+     "url": "https://jovempan.com.br/educacao/enem-2026-segundo-dia-registra-36-de-abstencao-maior-indice-desde-2020/",
+     "angulo": "Jovem Pan: a explicação do MEC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "2º dia do Enem 2026 tem debate sobre anulação de questões, circuito repetido e alta da abstenção",
+     "url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/2o-dia-do-enem-2026-tem-debates-sobre-anulacao-circuito-repetido-e-alta-da-abstencao-veja-destaques.ghtml",
+     "angulo": "g1: questões e anulação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Enem tem abstenção de 36% no segundo dia de prova; resultado sai em 18 de janeiro",
+     "url": "https://www1.folha.uol.com.br/educacao/2026/11/enem-tem-abstencao-de-36-neste-domingo-15-resultado-da-prova-saira-em-18-de-janeiro.shtml",
+     "angulo": "Folha: o resultado em janeiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Enem teve 36% de ausências no 2º dia: ministro anuncia mudanças para prova de 2028",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/15/enem-teve-36-pontos-percentuais-de-ausncias-no-2-dia-ministro-anuncia-mudanas-para-prova-de-2028.ghtml",
+     "angulo": "Valor: mudanças para 2028.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Segundo dia do Enem tem 36% de abstenção, ataque hacker e falta de energia",
+     "url": "https://www.band.com.br/educacao/segundo-dia-do-enem-tem-36-de-abstencao-e-tentativa-de-ataques-hackers",
+     "angulo": "Band: ataque hacker e falta de energia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Enem 2026 tem mais concluintes do ensino público, mas abstenção também sobe",
+     "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/",
+     "angulo": "CNN Brasil: mais alunos da rede pública.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Enem 2026: mais de um terço dos candidatos não compareceu ao 2º dia",
+     "url": "https://www.metropoles.com/brasil/enem-2026-mais-de-um-terco-dos-candidatos-nao-compareceu-ao-2o-dia",
+     "angulo": "Metrópoles: um terço ausente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Enem 2026 termina com abstenção de 36% no segundo dia",
+     "url": "https://atarde.com.br/educacao/enem/enem-2026-termina-com-abstencao-de-36-no-segundo-dia-1409567",
+     "angulo": "A Tarde: o fim do exame.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "Enem tem abstenção de 36% neste domingo (15), diz MEC",
+     "url": "https://www.em.com.br/educacao/2026/11/7539052-enem-tem-abstencao-de-36-neste-domingo-15-diz-mec.html",
+     "angulo": "Estado de Minas: o dado do MEC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "para-tem-61-cidades-em-emergencia-por-incendios-florestais",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Governo reconhece emergência em 61 cidades do Pará por incêndios florestais",
+   "lide": "O Inpe registrou quase 800 focos de fogo em dois dias no estado, que enfrenta estiagem severa ligada ao El Niño. O reconhecimento permite pedir recursos federais para a defesa civil.",
+   "fatos": [
+    {
+     "texto": "O Ministério da Integração reconheceu situação de emergência em 61 municípios do Pará por incêndios florestais.",
+     "base": "4 fontes independentes (Agência Brasil, Poder360, SBT, Terra Brasil)"
+    },
+    {
+     "texto": "O Inpe registrou cerca de 790 focos de fogo no estado em dois dias.",
+     "base": "2 fontes independentes (Poder360, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os municípios poderão solicitar recursos federais para ações de defesa civil.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "Alckmin mobilizou três ministérios e liberou R$ 24 milhões contra as queimadas.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "Os incêndios ameaçam comunidades tradicionais.",
+     "quem": "Exame"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-13",
+    "id": "noaa-preve-el-nino-muito-forte-ate-marco-de-2027",
+    "titulo": "El Niño deve ficar 'muito forte' até março de 2027, diz agência dos EUA; Pará decreta emergência"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Pará tem 61 cidades em situação de emergência por incêndios florestais",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/para-tem-61-cidades-em-situacao-de-emergencia-por-incendios-florestais",
+     "angulo": "Agência Brasil: o reconhecimento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Governo reconhece emergência em 61 municípios do Pará devido a incêndios florestais",
+     "url": "https://terrabrasilnoticias.com/2026/11/governo-reconhece-emergencia-em-61-municipios-do-para-devido-a-incendios-florestais/",
+     "angulo": "Terra Brasil: o MIDR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Pará tem 61 cidades em situação de emergência por incêndios florestais",
+     "url": "https://www.poder360.com.br/poder-sustentavel/para-tem-61-cidades-em-situacao-de-emergencia-por-incendios-florestais/",
+     "angulo": "Poder360: 791 focos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Alckmin garante apoio federal ao Pará no combate às queimadas",
+     "url": "https://www.brasil247.com/meio-ambiente/alckmin-garante-apoio-federal-ao-para-no-combate-as-queimadas/",
+     "angulo": "247: os R$ 24 milhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Governo federal reconhece emergência em 61 cidades do Pará por incêndios",
+     "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/governo-federal-reconhece-emergencia-em-61-cidades-do-para-por-incendios/",
+     "angulo": "CNN Brasil: os recursos federais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Pará tem 61 cidades em situação de emergência por incêndios",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/para-tem-61-cidades-em-situacao-de-emergencia-por-incendios",
+     "angulo": "SBT: os focos do Inpe.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Incêndios ameaçam comunidades tradicionais e levam Pará a decretar emergência",
+     "url": "https://exame.com/esg/incendios-ameacam-comunidades-tradicionais-e-levam-para-a-decretar-emergencia/",
+     "angulo": "Exame: a estiagem.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "michelle-tira-10-dias-de-descanso-em-israel-com-aval-de-bolsonaro",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Michelle Bolsonaro tira dez dias de descanso em Israel e diz ter 'aval e incentivo' do marido",
+   "lide": "Após críticas por viajar e deixar Bolsonaro em casa, a senadora eleita disse que a filha dele, Letícia Firmo, ficará responsável pelos cuidados. Sem Flávio, o PL se divide entre Carlos e Michelle sobre quem fala por Bolsonaro.",
+   "fatos": [
+    {
+     "texto": "Michelle Bolsonaro disse nas redes sociais que vai tirar dez dias de descanso com 'aval e incentivo' de Jair Bolsonaro.",
+     "base": "4 fontes independentes (Folha, Estadão, Valor, O Antagonista)"
+    },
+    {
+     "texto": "A viagem é para Israel.",
+     "base": "3 fontes independentes (Gazeta do Povo, Revista Fórum, Metrópoles)"
+    },
+    {
+     "texto": "Michelle disse que a filha de Bolsonaro cuidará dele durante a viagem.",
+     "base": "3 fontes independentes (Poder360, Valor, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Sem Flávio, o PL se divide entre Carlos e Michelle sobre quem deve ser o porta-voz de Bolsonaro.",
+     "quem": "O Globo e DCM"
+    },
+    {
+     "texto": "Michelle deve apoiar Tereza Cristina na disputa pela presidência do Senado.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos de esquerda questionam a viagem enquanto Bolsonaro está em casa.",
+    "oposicao": "Veículos de direita destacam a resposta de Michelle às críticas e o aval do marido."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Michelle diz que vai tirar 10 dias de descanso com 'incentivo e aval' de Bolsonaro",
+     "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/michelle-diz-que-vai-tirar-10-dias-de-descanso-com-incentivo-e-aval-de-bolsonaro.shtml",
+     "angulo": "Folha: o anúncio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Michelle rebate críticas e diz que viagem a Israel tem aval de Bolsonaro",
+     "url": "https://www.gazetadopovo.com.br/republica/michelle-rebate-criticas-e-diz-que-viagem-a-israel-tem-aval-de-bolsonaro/",
+     "angulo": "Gazeta do Povo: a resposta às críticas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Quem vai cuidar de Bolsonaro nas férias de Michelle?",
+     "url": "https://www.diariodocentrodomundo.com.br/quem-vai-cuidar-de-bolsonaro-nas-ferias-de-michelle/",
+     "angulo": "DCM: os cuidados com Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Com ‘aval e incentivo’ de Bolsonaro, Michelle tira dez dias de descanso",
+     "url": "https://www.estadao.com.br/politica/com-aval-e-incentivo-de-bolsonaro-michelle-tira-dez-dias-de-descanso/",
+     "angulo": "Estadão: 'aval e incentivo'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Michelle diz que tirou dez dias de descanso com aval de Bolsonaro",
+     "url": "https://oantagonista.com.br/brasil/michelle-diz-que-tirou-dez-dias-de-descanso-com-aval-de-bolsonaro/",
+     "angulo": "O Antagonista: a confirmação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Michelle rebate críticas por deixar Jair Bolsonaro em casa e viajar para Israel",
+     "url": "https://revistaforum.com.br/politica/michelle-bolsonaro-deixar-jair-bolsonaro/",
+     "angulo": "Fórum: a viagem a Israel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Sem Flávio, PL se divide entre Carlos e Michelle sobre quem deve ser o porta-voz de Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/15/sem-flavio-pl-se-divide-entre-carlos-e-michelle-sobre-quem-deve-ser-o-porta-voz-de-bolsonaro.ghtml",
+     "angulo": "O Globo: Carlos contra Michelle.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Michelle tira 10 dias de descanso e diz que filha cuida de Bolsonaro",
+     "url": "https://www.poder360.com.br/poder-gente/michelle-tira-10-dias-de-descanso-e-diz-que-filha-cuida-de-bolsonaro/",
+     "angulo": "Poder360: a filha cuida de Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Michelle Bolsonaro deve apoiar Tereza Cristina na disputa pela presidência do Senado",
+     "url": "https://www.brasil247.com/brasil/michelle-bolsonaro-deve-apoiar-tereza-cristina-na-disputa-pela-presidencia-do-senado/",
+     "angulo": "247: a disputa no Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Após críticas, Michelle diz que teve incentivo de Bolsonaro para viajar",
+     "url": "https://www.metropoles.com/brasil/apos-criticas-michelle-diz-que-teve-incentivo-de-bolsonaro-para-viajar",
+     "angulo": "Metrópoles: o apoio do marido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "papa-condena-desmatamento-e-mortes-de-lideres-indigenas-no-peru",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Na Amazônia peruana, papa Leão XIV condena desmatamento e cobra justiça por líderes indígenas mortos",
+   "lide": "Em missa inédita de um papa na Amazônia do Peru, Leão XIV disse que 'o sangue destes irmãos clama a Deus' e criticou a exploração irresponsável da floresta e a mineração ilegal. A visita encerra o giro de 12 dias pela América do Sul.",
+   "fatos": [
+    {
+     "texto": "O papa Leão XIV condenou o desmatamento e a exploração irresponsável da Amazônia peruana.",
+     "base": "4 fontes independentes (Al Jazeera, Valor, Opera Mundi, CNN Brasil)"
+    },
+    {
+     "texto": "O papa cobrou justiça pelos líderes indígenas e defensores da floresta assassinados.",
+     "base": "4 fontes independentes (Euronews, Guardian, Valor, Clarín)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Foi a primeira missa de um papa na Amazônia peruana.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Nenhuma autoridade do Peru fez pela população o que Leão XIV fez nas enchentes e na pandemia.",
+     "quem": "Moradores ouvidos pelo g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A defesa da Amazônia ecoa no Brasil, que tem a maior parte do bioma e enfrenta incêndios no Pará.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-09",
+    "id": "papa-leao-xiv-critica-austeridade-de-milei-na-argentina",
+    "titulo": "Na Argentina, papa Leão XIV diz a Milei que a economia deve servir às pessoas"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+     "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+     "angulo": "Guardian: 'o sangue clama'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Papa Leão XIV condena exploração da Amazônia peruana e cobra justiça por indígenas mortos",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/16/papa-leo-xiv-condena-explorao-da-amaznia-peruana-e-cobra-justia-por-indgenas-mortos.ghtml",
+     "angulo": "Valor: justiça por indígenas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+     "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon",
+     "angulo": "Al Jazeera: líderes mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Na Amazônia peruana, papa Leão 14 condena ‘exploração irresponsável’ da floresta",
+     "url": "https://operamundi.uol.com.br/america-latina/na-amazonia-peruana-leao-14-condena-exploracao-irresponsavel-da-floresta/",
+     "angulo": "Opera Mundi: a 'exploração irresponsável'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Sonho com uma Amazônia que lute pelos pobres e indígenas, diz papa Leão 14 no Peru",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/sonho-com-uma-amazonia-que-lute-pelos-pobres-e-indigenas-diz-papa-leao-14-no-peru.shtml",
+     "angulo": "Folha: a primeira missa na Amazônia peruana.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders",
+     "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders",
+     "angulo": "Euronews: os defensores da Amazônia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Papa Leão XIV condena desmatamento na Amazônia e morte de líderes indígenas",
+     "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-condena-desmatamento-na-amazonia-e-morte-de-lideres-indigenas/",
+     "angulo": "CNN Brasil: os Shipibo-Konibo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "El papa León XIV denunció en Perú la explotación de la Amazonía y el asesinato de líderes indígenas",
+     "url": "https://www.clarin.com/mundo/papa-leon-xiv-denuncio-peru-explotacion-amazonia-asesinato-lideres-indigenas_0_QALbXPCiqi.html",
+     "angulo": "Clarín: mineração ilegal.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Papa defende preservação da Amazônia e direitos de povos indígenas",
+     "url": "https://www.poder360.com.br/poder-internacional/papa-defende-preservacao-da-amazonia-e-direitos-de-povos-indigenas/",
+     "angulo": "Poder360: o fim da viagem.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Em viagem ao Peru, papa Leão visita cidade amazônica ameaçada por desmatamento",
+     "url": "https://veja.abril.com.br/mundo/em-viagem-ao-peru-papa-leao-visita-cidade-amazonica-ameacada-por-desmatamento/",
+     "angulo": "Veja: a cidade ameaçada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "ira-ataca-base-dos-eua-no-bahrein-pela-segunda-vez-em-dias",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Irã ataca com drones base dos EUA no Bahrein pela segunda vez em três dias",
+   "lide": "O Bahrein disse ter interceptado os drones e emitiu seus primeiros alertas de ameaça desde setembro. Os ataques, após dois meses de calmaria, põem em dúvida as negociações de paz entre Washington e Teerã.",
+   "fatos": [
+    {
+     "texto": "O Irã atacou com drones uma instalação militar dos EUA no Bahrein no domingo (15).",
+     "base": "4 fontes independentes (Guardian, Revista Oeste, AFP, Opera Mundi)"
+    },
+    {
+     "texto": "Foi o segundo ataque ao Bahrein em três dias.",
+     "base": "3 fontes independentes (New York Times, Bloomberg, Washington Post)"
+    },
+    {
+     "texto": "O Bahrein disse que sua defesa aérea destruiu vários drones.",
+     "base": "3 fontes independentes (AFP, Folha, Brasil de Fato)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Arábia Saudita, Catar, Jordânia e Egito condenaram o ataque.",
+     "quem": "Guardian"
+    },
+    {
+     "texto": "Os EUA enviaram um porta-aviões à região.",
+     "quem": "Bloomberg"
+    },
+    {
+     "texto": "O Irã pressiona os EUA em duas frentes: drones no Bahrein e avanço houthi no Iêmen.",
+     "quem": "InfoMoney"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "nyt",
+     "titulo": "Iran Attacks Bahrain for the Second Time in Days",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "angulo": "NYT: o segundo ataque.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Irã lança ataque com drones contra instalação militar no Bahrein",
+     "url": "https://revistaoeste.com/mundo/ira-lanca-ataque-com-drones-contra-instalacao-militar-no-bahrein/",
+     "angulo": "Oeste: o ataque de domingo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Iran launches drone attacks against US military base in Bahrain",
+     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+     "angulo": "Guardian: as negociações em dúvida.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Irã ataca base militar dos EUA no Bahrein; país afirma ter interceptado drones",
+     "url": "https://www.brasildefato.com.br/2026/11/15/ira-ataca-base-militar-dos-eua-no-bahrein-pais-afirma-ter-interceptado-drones/",
+     "angulo": "Brasil de Fato: drones interceptados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Iran Targets Bahrain, US Deploys Aircraft Carrier",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-16/iran-targets-bahrain-us-deploys-aircraft-carrier-video",
+     "angulo": "Bloomberg: o porta-aviões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Iran attacks Bahrain in escalation of Gulf hostilities",
+     "url": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
+     "angulo": "FT: a escalada no Golfo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Irã ataca Bahrein e amplia escalada militar no Golfo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ira-ataca-bahrein-e-amplia-escalada-militar-no-golfo.shtml",
+     "angulo": "Folha: a escalada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S.",
+     "url": "https://www.washingtonpost.com/world/2026/11/15/iran-targets-bahrain-twice-after-months-quiet-claiming-retaliation-against-us/",
+     "angulo": "Washington Post: Trump se afasta da diplomacia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Bahrain says air defences destroyed several Iranian drones attacking US base",
+     "url": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
+     "angulo": "AFP: a defesa aérea.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Bahrein emite alertas de ameaça e aciona sistema de segurança após Irã afirmar ter atacado base dos EUA no país",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/15/ira-diz-ter-atacado-base-militar-dos-eua-no-bahrein-com-seis-drones.ghtml",
+     "angulo": "O Globo: os alertas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "houthis-avancam-no-iemen-e-ameacam-aden",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Houthis avançam no Iêmen, controlam área do estreito de Bab al-Mandab e chegam perto de Áden",
+   "lide": "As forças apoiadas pela Arábia Saudita recuaram da região do estreito, rota vital do Mar Vermelho, para defender Áden, sede do governo reconhecido. Os houthis também dizem ter lançado mísseis contra a Arábia Saudita.",
+   "fatos": [
+    {
+     "texto": "Forças apoiadas pela Arábia Saudita recuaram da região do estreito de Bab al-Mandab para defender Áden.",
+     "base": "4 fontes independentes (BBC, New York Times, Le Monde, Al Jazeera)"
+    },
+    {
+     "texto": "O recuo deixou os houthis no controle de área-chave na costa do estreito.",
+     "base": "2 fontes independentes (BBC, New York Times)"
+    },
+    {
+     "texto": "Os houthis avançaram para posições a cerca de 60 a 70 km de Áden.",
+     "base": "2 fontes independentes (AFP, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os houthis lançaram dois mísseis balísticos contra um aeroporto saudita.",
+     "quem": "Porta-voz militar houthi, segundo o Brasil 247"
+    },
+    {
+     "texto": "O Mar Vermelho não será seguro sem a reconstrução do Estado iemenita.",
+     "quem": "Artigo na Al Jazeera"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O Mar Vermelho é rota de parte do comércio entre Ásia e Europa, com efeito sobre fretes e combustíveis no Brasil.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+     "angulo": "BBC: o controle do estreito.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Houthis avançam para posições a 70 km de Áden, no Iêmen",
+     "url": "https://www.brasil247.com/mundo/houthis-avancam-para-posicoes-a-70-km-de-aden-no-iemen/",
+     "angulo": "247: a 70 km de Áden.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+     "angulo": "NYT: revés para a Arábia Saudita.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Forças do Iêmen recuam e priorizam defesa de Aden em meio a avanço dos houthis",
+     "url": "https://operamundi.uol.com.br/oriente-medio/forcas-do-iemen-recuam-e-priorizam-defesa-da-capital-aden-em-meio-a-avanco-dos-houthis/",
+     "angulo": "Opera Mundi: a defesa de Áden.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+     "angulo": "AFP: a 60 km de Áden.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
+     "angulo": "Le Monde: o redeslocamento.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Houthis advance in Yemen as government forces move to defend Aden",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden",
+     "angulo": "Al Jazeera: o avanço.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Los hutíes avanzan en Yemen sobre un estrecho clave y le suman presión a los aliados de Estados Unidos en el Golfo",
+     "url": "https://www.lanacion.com.ar/el-mundo/los-huties-avanzan-en-yemen-y-amplian-la-presion-sobre-estados-unidos-y-sus-aliados-del-golfo-nid15112026/",
+     "angulo": "La Nación: a pressão sobre os aliados dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Irã pressiona EUA em duas frentes: drones no Barein e avanço houthi no Iêmen",
+     "url": "https://www.infomoney.com.br/mundo/ira-pressiona-eua-em-duas-frentes-drones-no-barein-e-avanco-houthi-no-iemen/",
+     "angulo": "InfoMoney: as duas frentes.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "ataque-hacker-expoe-dados-de-22-milhoes-na-franca",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Ataque hacker a subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
+   "lide": "A Maileva, do grupo La Poste, sofreu a invasão em setembro e o confirmou no sábado. O número equivale a cerca de um terço da população da França.",
+   "fatos": [
+    {
+     "texto": "A La Poste confirmou que sua subsidiária Maileva sofreu ataque cibernético que expôs dados de 22 milhões de pessoas.",
+     "base": "4 fontes independentes (Folha, Estadão, Poder360, g1)"
+    },
+    {
+     "texto": "O ataque ocorreu em meados de setembro.",
+     "base": "2 fontes independentes (Folha, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os dados expostos equivalem a um terço da população francesa.",
+     "quem": "Poder360"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O caso ocorre na mesma semana dos ataques que expuseram dados do Tesouro Nacional e da Caixa no Brasil.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Ataque hacker a subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/ataque-hacker-a-subsidiaria-dos-correios-franceses-expoe-dados-de-22-milhoes-de-pessoas.shtml",
+     "angulo": "Folha: a Maileva.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Na França, ataque a subsidiária de serviço postal expõe dados de 22 milhões de pessoas",
+     "url": "https://www.estadao.com.br/internacional/na-franca-ataque-a-subsidiaria-dos-correios-expoe-dados-de-22-milhoes-de-pessoas/",
+     "angulo": "Estadão: 22 milhões.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Ataque cibernético expõe dados de 22 milhões de pessoas na França",
+     "url": "https://www.poder360.com.br/poder-tech/ataque-cibernetico-expoe-dados-de-22-milhoes-de-pessoas-na-franca/",
+     "angulo": "Poder360: um terço da população.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
+     "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
+     "angulo": "g1: a La Poste.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Ataque à subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
+     "url": "https://terrabrasilnoticias.com/2026/11/ataque-a-subsidiaria-dos-correios-franceses-expoe-dados-de-22-milhoes-de-pessoas/",
+     "angulo": "Terra Brasil: a confirmação de sábado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-15"
+    }
+   ]
+  }
+ ]
+}
