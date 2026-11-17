@@ -1,0 +1,1129 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-17",
+ "gerado_em": "2026-11-17T05:56:58-03:00",
+ "historias": [
+  {
+   "id": "dolar-vai-a-r-5-77-com-incerteza-fiscal-e-senado-conclui-ajuste",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Dólar vai a R$ 5,77, maior valor em 19 meses, com incerteza sobre o ajuste; Senado conclui votação nesta terça",
+   "lide": "A moeda subiu mais de 2% e a Bolsa caiu 1,83% na segunda-feira, com dúvidas sobre o pacote fiscal e a disputa dentro da esquerda. Alckmin disse que a alta é passageira; o Senado vota hoje os destaques, e o PT reúne a bancada para tentar unificar o apoio na Câmara.",
+   "fatos": [
+    {
+     "texto": "O dólar fechou a R$ 5,77 na segunda-feira (16), maior valor desde abril de 2025.",
+     "base": "4 fontes independentes (Valor, Revista Oeste, Band, O Globo)"
+    },
+    {
+     "texto": "O Ibovespa caiu 1,83% e fechou abaixo dos 170 mil pontos.",
+     "base": "3 fontes independentes (Valor, Brasil 247, Diário do Poder)"
+    },
+    {
+     "texto": "Alckmin disse que não há razão para a alta do dólar e que a oscilação é passageira.",
+     "base": "4 fontes independentes (O Globo, Brasil 247, Gazeta do Povo, CNN Brasil)"
+    },
+    {
+     "texto": "O Senado deve concluir nesta terça-feira (17) a votação dos destaques do projeto de ajuste fiscal, que depois vai à Câmara.",
+     "base": "4 fontes independentes (Estadão, g1, SBT, Band)"
+    },
+    {
+     "texto": "A bancada do PT na Câmara se reúne para tentar unificar o apoio ao ajuste.",
+     "base": "3 fontes independentes (Metrópoles, Poder360, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os juros futuros superaram 15%.",
+     "quem": "Veja"
+    },
+    {
+     "texto": "Bancos globais estão mais cautelosos com o Brasil e preveem queda da Bolsa em 2027.",
+     "quem": "InfoMoney"
+    },
+    {
+     "texto": "Empresas pressionam para barrar o limite ao uso de créditos tributários no projeto.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Lula precisa liderar o ajuste fiscal.",
+     "quem": "André Esteves, segundo O Antagonista"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo diz que não há razão para a alta e que o ajuste preserva os programas sociais.",
+    "oposicao": "Veículos de oposição atribuem a disparada à desconfiança fiscal com o Lula 4."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-16",
+    "id": "ajuste-fiscal-racha-a-esquerda-e-moretti-reage",
+    "titulo": "Ajuste fiscal racha a esquerda, que fala em 'tesouraço', e Moretti critica 'esquerda sectária'"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Dólar supera R$ 5,77 e bolsa recua 1,83% com incertezas fiscais no radar",
+     "url": "https://valor.globo.com/impresso/noticia/2026/11/17/dolar-supera-r-577-e-bolsa-recua-183-com-incertezas-fiscais-no-radar.ghtml",
+     "angulo": "Valor: o fechamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Dólar dispara e fecha a R$ 5,77, maior cotação em 19 meses",
+     "url": "https://revistaoeste.com/economia/dolar-dispara-e-fecha-a-r-577-maior-cotacao-em-19-meses/",
+     "angulo": "Oeste: maior cotação em 19 meses.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Alckmin diz “não haver razão” para alta do dólar e atribui oscilação a momento passageiro",
+     "url": "https://www.brasil247.com/economia/alckmin-diz-nao-haver-razao-para-alta-do-dolar-e-atribui-oscilacao-a-momento-passageiro/",
+     "angulo": "247: a fala de Alckmin.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Senado termina de votar ajuste nesta terça sob pressão de empresas para barrar medida; veja qual",
+     "url": "https://www.estadao.com.br/economia/senado-termina-de-votar-ajuste-nesta-terca-sob-pressao-de-empresas-para-barrar-medida-veja-qual/",
+     "angulo": "Estadão: a pressão das empresas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dólar atinge maior valor desde abril de 2025 com incerteza sobre ajuste fiscal de Lula",
+     "url": "https://www.gazetadopovo.com.br/economia/dolar-atinge-maior-valor-desde-abril-de-2025-com-incerteza-sobre-ajuste-fiscal-de-lula/",
+     "angulo": "Gazeta do Povo: o racha no PT.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
+     "angulo": "g1: o que pode mudar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "PT reúne bancada na Câmara para unificar apoio ao ajuste fiscal de Lula",
+     "url": "https://www.metropoles.com/brasil/pt-reune-bancada-na-camara-para-unificar-apoio-ao-ajuste-fiscal-de-lula",
+     "angulo": "Metrópoles: a bancada do PT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Dólar dispara e juros futuros superam 15% com incerteza fiscal",
+     "url": "https://veja.abril.com.br/coluna/macro-intelligence/dolar-dispara-e-juros-futuros-superam-15-com-incerteza-fiscal/",
+     "angulo": "Veja: os juros futuros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Alckmin diz que não há razão para alta do dólar; moeda americana foi a R$ 5,77 com incerteza sobre ajuste fiscal",
+     "url": "https://oglobo.globo.com/economia/financas/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-alta-do-dolar-moeda-americana-foi-a-r-577-com-incerteza-sobre-ajuste-fiscal.ghtml",
+     "angulo": "O Globo: Alckmin e o dólar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "No Recife (PE), estudantes da UFPE protestam nesta terça-feira (17) contra o projeto de ajuste fiscal do governo Lula",
+     "url": "https://www.brasildefato.com.br/2026/11/16/no-recife-pe-estudantes-da-ufpe-protestam-nesta-terca-feira-17-contra-o-projeto-de-ajuste-fiscal-do-governo-lula/",
+     "angulo": "Brasil de Fato: os protestos contra o ajuste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Bolsa cairá em 2027? Por que bancos globais estão mais cautelosos com o Brasil",
+     "url": "https://www.infomoney.com.br/mercados/bolsa-caira-em-2027-por-que-bancos-globais-estao-cada-vez-mais-cautelosos-com-brasil/",
+     "angulo": "InfoMoney: os bancos globais.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "André Esteves cobra liderança de Lula para ajuste fiscal",
+     "url": "https://oantagonista.com.br/economia/andre-esteves-cobra-lideranca-de-lula-para-ajuste-fiscal/",
+     "angulo": "O Antagonista: a cobrança de Esteves.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "camara-pode-votar-pl-que-regula-concorrencia-das-big-techs",
+   "editoria": "Tecnologia",
+   "escopo": "brasil",
+   "titulo": "Câmara pode votar nesta terça o PL que amplia poderes do Cade sobre big techs; Fazenda estima ganho de R$ 50 bi",
+   "lide": "O projeto cria uma superintendência no Cade para fiscalizar a concorrência nos mercados digitais. A votação depende de acordo entre líderes, e o centrão resiste; os EUA citaram o texto em documento do órgão responsável pelo tarifaço.",
+   "fatos": [
+    {
+     "texto": "A Câmara pode votar nesta terça-feira (17) o projeto que regula a concorrência nos mercados digitais.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Metrópoles)"
+    },
+    {
+     "texto": "O projeto cria uma superintendência no Cade para fiscalizar a concorrência das grandes plataformas.",
+     "base": "3 fontes independentes (Brasil 247, CNN Brasil, Folha)"
+    },
+    {
+     "texto": "A Fazenda estima ganho de até R$ 50,6 bilhões por ano, cerca de 0,4% do PIB.",
+     "base": "estudo do Ministério da Fazenda; 4 fontes independentes (Valor, Estadão, CNN Brasil, CartaCapital)"
+    },
+    {
+     "texto": "A votação depende de acordo entre líderes, e parte do centrão resiste.",
+     "base": "2 fontes independentes (CNN Brasil, Metrópoles)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os EUA monitoram o projeto, citado em documento do USTR, órgão responsável pelo tarifaço.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "Regulação concorrencial de plataformas não é censura.",
+     "quem": "Artigo na Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo apresenta o projeto como ganho para consumidores e defesa da soberania diante das big techs.",
+    "oposicao": "A oposição e parte do centrão resistem ao prazo curto e temem retaliação dos EUA."
+   },
+   "visao_de_fora": "O governo americano acompanha o projeto, citado em documento do USTR.",
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Big techs: Câmara deve votar nesta terça projeto que regulamenta mercados digitais; entenda",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/17/big-techs-camara-deve-votar-nesta-terca-projeto-que-regulamenta-mercados-digitais-entenda.ghtml",
+     "angulo": "g1: o que muda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Lula critica big techs e defende mais regulamentação em discurso na Ásia",
+     "url": "https://revistaoeste.com/mundo/lula-critica-ibig-techs-i-e-defende-mais-regulamentacao-em-discurso-na-asia/",
+     "angulo": "Oeste: o discurso de Lula na Ásia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Entenda por que os EUA monitoram o PL que regula as big techs no Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/entenda-por-que-os-eua-monitoram-o-pl-que-regula-as-big-techs-no-brasil/",
+     "angulo": "CNN Brasil: o interesse dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Projeto que regula concorrência de big techs pode gerar ganho de até R$ 50 bi por ano, diz Fazenda",
+     "url": "https://www.estadao.com.br/economia/projeto-que-regula-concorrencia-de-big-techs-pode-gerar-ganho-de-ate-r-50-bi-por-ano-diz-fazenda/",
+     "angulo": "Estadão: os R$ 50 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Câmara deve votar projeto que amplia controle sobre big techs",
+     "url": "https://www.brasil247.com/brasil/camara-deve-votar-projeto-que-amplia-controle-sobre-big-techs/",
+     "angulo": "247: a superintendência no Cade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Câmara: relator pressiona oposição para votar PL das big techs hoje (17/11)",
+     "url": "https://www.metropoles.com/brasil/camara-relator-pressiona-oposicao-para-votar-pl-das-big-techs-hoje-17-11",
+     "angulo": "Metrópoles: a pressão do relator.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Regulamentação de ‘big techs’ pode gerar ganho de até 0,4% do PIB, diz Fazenda",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/17/regulamentacao-de-big-techs-pode-gerar-ganho-de-ate-04-do-pib-diz-fazenda.ghtml",
+     "angulo": "Valor: 0,4% do PIB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Regulação concorrencial de plataformas digitais não é censura",
+     "url": "https://www1.folha.uol.com.br/opiniao/2026/11/regulacao-concorrencial-de-plataformas-digitais-nao-e-censura.shtml",
+     "angulo": "Folha: artigo em defesa do projeto.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "nexo",
+     "titulo": "PL dos Mercados Digitais: o que é e o que propõe sobre big techs",
+     "url": "https://www.nexojornal.com.br/expresso/2026/11/16/pl-das-big-techs-mercados-digitais-congresso-votacao",
+     "angulo": "Nexo: o que propõe.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões, estima Fazenda",
+     "url": "https://www.cartacapital.com.br/economia/regulacao-de-big-techs-pode-reduzir-custos-em-ate-r-50-bilhoes-estima-fazenda/",
+     "angulo": "CartaCapital: o estudo da Fazenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Avanço de PL das big techs depende de acordo entre líderes da Câmara",
+     "url": "https://www.cnnbrasil.com.br/politica/avanco-de-pl-das-big-techs-depende-de-acordo-entre-lideres-da-camara/",
+     "angulo": "CNN Brasil: falta consenso entre líderes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "moraes-nega-visitas-de-marinho-e-tereza-cristina-a-bolsonaro",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Moraes nega visitas de Marinho, Tereza Cristina e Valdemar a Bolsonaro; senadores falam em decisão arbitrária",
+   "lide": "O ministro disse que a prisão domiciliar não pode servir de 'escritório político' e que as reuniões teriam fim político-partidário, ligado à disputa pela presidência do Senado. Os dois senadores criticaram a decisão, e a defesa vai fazer novo pedido.",
+   "fatos": [
+    {
+     "texto": "Alexandre de Moraes negou pedido da defesa de Bolsonaro para receber Valdemar Costa Neto e os senadores Rogério Marinho e Tereza Cristina.",
+     "base": "4 fontes independentes (g1, Folha, Jota, SBT)"
+    },
+    {
+     "texto": "Moraes disse que a prisão domiciliar não pode ser usada como 'escritório político'.",
+     "base": "2 fontes independentes (Poder360, CNN Brasil)"
+    },
+    {
+     "texto": "O ministro apontou que as reuniões teriam finalidade político-partidária, vedada pela suspensão dos direitos políticos.",
+     "base": "3 fontes independentes (Jota, SBT, ICL Notícias)"
+    },
+    {
+     "texto": "Marinho e Tereza Cristina classificaram a decisão como arbitrária.",
+     "base": "4 fontes independentes (Poder360, Metrópoles, CNN Brasil, Diário do Poder)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A defesa de Bolsonaro fará novo pedido de visita.",
+     "quem": "Rogério Marinho, segundo a Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam que Bolsonaro, condenado, tenta usar a prisão domiciliar para articulação política.",
+    "oposicao": "A oposição chama a decisão de 'arbitrária' e 'intolerável' e diz que o Senado não vai se omitir."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Moraes nega pedido de Bolsonaro para receber Valdemar e os pré-candidatos à presidência do Senado Marinho e Tereza",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/16/moraes-nega-pedido-de-bolsonaro-para-receber-valdemar-e-os-pre-candidatos-a-presidencia-do-senado-marinho-e-tereza.ghtml",
+     "angulo": "g1: a decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Marinho diz que decisão de Moraes que barrou visita a Bolsonaro é “intolerável”",
+     "url": "https://www.gazetadopovo.com.br/republica/marinho-diz-que-decisao-de-moraes-que-barrou-visita-a-bolsonaro-e-intoleravel/",
+     "angulo": "Gazeta do Povo: 'intolerável'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Moraes barra visitas a Bolsonaro e mantém restrições a articulações políticas",
+     "url": "https://iclnoticias.com.br/moraes-barra-visitas-a-bolsonaro/",
+     "angulo": "ICL Notícias: as restrições a articulações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Moraes nega visitas de Tereza Cristina, Rogério Marinho e Valdemar a Bolsonaro",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml",
+     "angulo": "Folha: o pedido negado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
+     "url": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
+     "angulo": "Poder360: 'escritório político'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Moraes nega visita dos senadores Rogério Marinho e Tereza Cristina a Bolsonaro",
+     "url": "https://www.jota.info/stf/do-supremo/moraes-nega-visita-dos-senadores-rogerio-marinho-e-tereza-cristina-a-bolsonaro",
+     "angulo": "Jota: a finalidade político-partidária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "‘Absurdo e arbitrário’, diz Tereza Cristina sobre veto de Moraes de visita a Bolsonaro",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/absurdo-e-arbitrario-diz-tereza-cristina-sobre-veto-de-moraes-de-visita-a-bolsonaro",
+     "angulo": "Diário do Poder: a reação de Tereza Cristina.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Após Moraes rejeitar, Rogério Marinho reitera pedido para visitar Bolsonaro",
+     "url": "https://www.brasil247.com/brasil/apos-moraes-rejeitar-rogerio-marinho-reitera-pedido-para-visitar-bolsonaro/",
+     "angulo": "247: o novo pedido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Moraes nega visita de Marinho e Tereza Cristina a Bolsonaro",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/moraes-nega-visita-de-marinho-e-tereza-cristina-a-bolsonaro",
+     "angulo": "SBT: a disputa pelo Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "\"Medida arbitrária\", diz Marinho após Moraes vetar visita a Bolsonaro",
+     "url": "https://www.metropoles.com/brasil/medida-arbitraria-diz-marinho-apos-moraes-vetar-visita-a-bolsonaro",
+     "angulo": "Metrópoles: a reação de Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Marinho e Tereza criticam Moraes por negar visita a Bolsonaro: “Arbitrário”",
+     "url": "https://www.cnnbrasil.com.br/politica/marinho-e-tereza-criticam-moraes-por-negar-visita-a-bolsonaro-arbitrario/",
+     "angulo": "CNN Brasil: 'arbitrário'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "andrei-rodrigues-nega-crise-na-pf-e-diz-ser-alvo-de-ataques",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Andrei Rodrigues nega crise na PF, atribui ataques à disputa por cargos e diz que não será intimidado",
+   "lide": "Em meio à crise aberta pelo afastamento de delegados do caso Master, o diretor-geral da PF negou racha e perda de autonomia, atribuiu as críticas à disputa por cargos e disse que não será intimidado. Segundo o Valor, ele disse ao Ministério da Justiça que os relatórios sobre ministros do STF extrapolaram.",
+   "fatos": [
+    {
+     "texto": "Andrei Rodrigues negou que haja racha ou perda de autonomia na Polícia Federal.",
+     "base": "4 fontes independentes (Estadão, g1, CartaCapital, Gazeta do Povo)"
+    },
+    {
+     "texto": "Andrei disse ser alvo de ataques e que não será intimidado.",
+     "base": "3 fontes independentes (g1, CartaCapital, Estadão)"
+    },
+    {
+     "texto": "Andrei atribuiu as críticas à disputa por cargos.",
+     "base": "2 fontes independentes (SBT, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Em ofício ao Ministério da Justiça, Andrei negou interferência e disse que os relatórios extrapolaram o caráter descritivo.",
+     "quem": "Valor"
+    },
+    {
+     "texto": "A maioria dos integrantes da PF quer a saída de Andrei.",
+     "quem": "Revista Oeste"
+    },
+    {
+     "texto": "A delegada Helena de Rezende é cotada para substituí-lo.",
+     "quem": "Revista Oeste"
+    },
+    {
+     "texto": "A PF abriu inquérito contra uma escrivã por críticas a Andrei.",
+     "quem": "Revista Oeste"
+    },
+    {
+     "texto": "A crise é 'fogo amigo' e mal-estar com o PT da Bahia.",
+     "quem": "Aliados de Andrei, segundo o Valor"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos governistas destacam a defesa de Andrei e a versão de que os ataques vêm de disputa por cargos.",
+    "oposicao": "Veículos de oposição dizem que a PF quer a saída de Andrei e já citam nomes para substituí-lo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-12",
+    "id": "gilmar-defende-diretor-da-pf-em-crise-do-caso-master",
+    "titulo": "Gilmar defende diretor da PF, e associação de delegados diz que ele extrapolou funções no caso Master"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Andrei nega crise na PF e diz que não será intimidado",
+     "url": "https://www.estadao.com.br/politica/andrei-nega-crise-na-pf-e-diz-que-nao-sera-intimidado-nprp/",
+     "angulo": "Estadão: não será intimidado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "PF quer a saída de Andrei do cargo de diretor-geral",
+     "url": "https://revistaoeste.com/no-ponto/pf-quer-a-saida-de-andrei-rodrigues-do-cargo-de-diretor-geral/",
+     "angulo": "Oeste: a maioria da PF contra Andrei.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Andrei Rodrigues nega crise na PF, mas diz ser alvo de ataques",
+     "url": "https://www.cartacapital.com.br/politica/andrei-rodrigues-nega-crise-na-pf-mas-diz-ser-alvo-de-ataques/",
+     "angulo": "CartaCapital: os ataques à família.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ao Ministério da Justiça, Andrei nega interferência e diz que relatórios 'extrapolaram caráter descritivo'",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/16/ao-ministerio-da-justica-andrei-nega-interferencia-e-diz-que-relatorios-extrapolaram-carater-descritivo.ghtml",
+     "angulo": "Valor: o ofício.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
+     "angulo": "g1: sem divisão na PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Em meio a atrito com delegados, Andrei Rodrigues nega crise na PF",
+     "url": "https://www.gazetadopovo.com.br/republica/em-meio-a-atrito-com-delegados-andrei-rodrigues-nega-crise-na-pf/",
+     "angulo": "Gazeta do Povo: a desfiliação da ADPF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Andrei Rodrigues responde ao governo sobre caso Master e avalia ida ao Senado",
+     "url": "https://revistaforum.com.br/politica/andrei-rodrigues-master-senado/",
+     "angulo": "Fórum: a resposta ao governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Crise na PF: Andrei Rodrigues nega racha e atribui ataques à disputa por cargos",
+     "url": "https://terrabrasilnoticias.com/2026/11/crise-na-pf-andrei-rodrigues-nega-racha-e-atribui-ataques-a-disputa-por-cargos/",
+     "angulo": "Terra Brasil: a disputa por cargos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Andrei nega racha na PF e critica 'cobiça a cargos'",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/andrei-diz-que-vozes-isoladas-tentam-enfraquece-lo-na-pf",
+     "angulo": "SBT: 'cobiça a cargos'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "O nome cotado para substituir Andrei Rodrigues na direção da PF",
+     "url": "https://revistaoeste.com/no-ponto/o-nome-cotado-para-substituir-andrei-rodrigues-na-direcao-da-pf/",
+     "angulo": "Oeste: Helena de Rezende.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "eua-restringem-chips-de-ia-para-bloquear-china-e-citam-brasil",
+   "editoria": "Tecnologia",
+   "escopo": "brasil",
+   "titulo": "EUA passam a exigir licença para exportar chips de IA a países como o Brasil, para bloquear acesso da China",
+   "lide": "A regra provisória do governo Trump busca impedir o acesso indireto chinês a chips americanos por meio de data centers em terceiros países, entre eles Malásia, Tailândia, Indonésia e Brasil. A Nvidia, no centro do escândalo, descartou a volta de Jensen Huang apesar de campanha apoiada por Trump.",
+   "fatos": [
+    {
+     "texto": "O governo Trump anunciou regra para bloquear o acesso indireto da China a chips americanos de IA.",
+     "base": "3 fontes independentes (Estadão, Al Jazeera, InfoMoney)"
+    },
+    {
+     "texto": "A norma exige autorização prévia para exportar chips de IA a países como o Brasil.",
+     "base": "3 fontes independentes (Estadão, Opera Mundi, NeoFeed)"
+    },
+    {
+     "texto": "A Nvidia descartou a volta de Jensen Huang ao cargo de CEO.",
+     "base": "4 fontes independentes (BBC, Poder360, CNN Brasil, Valor)"
+    },
+    {
+     "texto": "Uma petição com mais de 180 mil assinaturas pede a volta de Huang, com apoio de Trump e Elon Musk.",
+     "base": "3 fontes independentes (CNN Brasil, Gazeta do Povo, BBC)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O escândalo da Nvidia influenciou a restrição.",
+     "quem": "Arko Advice, segundo a CNN Brasil"
+    },
+    {
+     "texto": "O Brasil virou novo campo de batalha da guerra dos chips entre EUA e China.",
+     "quem": "NeoFeed"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A medida inclui o Brasil entre os países sujeitos a licença por risco de desvio de chips para a China.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-13",
+    "id": "jensen-huang-deixa-o-comando-da-nvidia",
+    "titulo": "Jensen Huang deixa o comando da Nvidia; diretora financeira assume como CEO interina"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "EUA bloqueiam acesso indireto da China a chips americanos de IA; medida cita Brasil",
+     "url": "https://www.estadao.com.br/internacional/eua-bloquear-acesso-indireto-china-chips-americanos-ia-npr/",
+     "angulo": "Estadão: a medida cita o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "EUA impõem restrições à venda de chips ao Brasil em meio a disputa com China",
+     "url": "https://operamundi.uol.com.br/estados-unidos/eua-impoes-restricoes-a-venda-de-chips-ao-brasil-em-meio-a-disputa-com-china/",
+     "angulo": "Opera Mundi: a autorização prévia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+     "angulo": "Al Jazeera: os países afetados.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "O Brasil virou o novo campo de batalha da guerra dos chips entre EUA e China",
+     "url": "https://neofeed.com.br/negocios/o-brasil-virou-o-novo-campo-de-batalha-da-guerra-dos-chips-entre-eua-e-china/",
+     "angulo": "NeoFeed: a guerra dos chips.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+     "angulo": "BBC: Trump apoia a campanha.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Musk, Trump e mais de 170 mil pessoas pedem volta de Jensen Huang ao comando da Nvidia após escândalo",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-musk-campanha-volta-jensen-huang-nvidia-escandalo/",
+     "angulo": "Gazeta do Povo: a petição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Nvidia descarta volta de Huang após campanha para retorno, dizem fontes",
+     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-descarta-volta-de-huang-apos-campanha-para-retorno-dizem-fontes/",
+     "angulo": "CNN Brasil: as 180 mil assinaturas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
+     "angulo": "Folha: os bilionários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Nvidia nega retorno de Jensen Huang ao cargo de CEO, diz agência",
+     "url": "https://www.poder360.com.br/poder-tech/nvidia-nega-retorno-de-jensen-huang-ao-cargo-de-ceo-diz-agencia/",
+     "angulo": "Poder360: a negativa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Conselho da Nvidia não considera trazer Jensen Huang de volta, diz emissora",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/16/conselho-da-nvidia-no-considera-trazer-jensen-huang-de-volta-diz-emissora.ghtml",
+     "angulo": "Valor: o conselho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "ucrania-ataca-ponte-da-crimeia-e-russia-atinge-kiev",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Ucrânia ataca a ponte da Crimeia pelo segundo dia e interrompe o tráfego; Rússia atinge pontes de Kiev",
+   "lide": "Fotos indicam dano grave à estrutura de Kerch, símbolo da anexão de 2014, embora o Kremlin fale em danos leves. A Rússia diz que a Ucrânia lançou mais de 2.000 drones em um dia; Kiev acusa Moscou de atacar uma operação de resgate após um ataque que matou 72.",
+   "fatos": [
+    {
+     "texto": "A Ucrânia atacou a ponte de Kerch, que liga a Rússia à Crimeia, pelo segundo dia seguido.",
+     "base": "3 fontes independentes (Bloomberg, Al Jazeera, Guardian)"
+    },
+    {
+     "texto": "O tráfego na ponte foi interrompido.",
+     "base": "3 fontes independentes (BBC, Al Jazeera, UOL)"
+    },
+    {
+     "texto": "A Rússia atacou ligações importantes em Kiev, incluindo pontes.",
+     "base": "2 fontes independentes (BBC, Bloomberg)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os danos à ponte são leves.",
+     "quem": "Kremlin, segundo a CNN Brasil"
+    },
+    {
+     "texto": "A ponte sofreu dano grave, com o desprendimento de um trecho.",
+     "quem": "El País e Guardian"
+    },
+    {
+     "texto": "A Ucrânia lançou mais de 2.000 drones em um dia, o maior ataque da guerra.",
+     "quem": "Governo russo, segundo a BBC"
+    },
+    {
+     "texto": "A Rússia atacou uma operação de resgate após um ataque que matou 72 pessoas.",
+     "quem": "Governo ucraniano, segundo a BBC"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Extensão do dano à ponte.",
+     "rotulo": "Contraditório",
+     "explicacao": "O Kremlin fala em danos leves; fotos analisadas por Guardian e El País indicam que um trecho se desprendeu.",
+     "onde_circula": "governos russo e ucraniano, imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-15",
+    "id": "eua-sugerem-que-ucrania-ceda-donbass-em-troca-da-otan",
+    "titulo": "Zelensky diz que EUA sugeriram que Ucrânia ceda o Donbass em troca de entrada na Otan"
+   },
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+     "angulo": "Guardian: dano crítico.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+     "angulo": "BBC: ponte fechada.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
+     "url": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
+     "angulo": "El País: o trecho destruído.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+     "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge",
+     "angulo": "Al Jazeera: dois mortos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Ukraine Attacks Crimean Bridge Again as Russia Strikes Kyiv",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/ukraine-attacks-crimean-bridge-dnipro-as-russia-strikes-kyiv",
+     "angulo": "Bloomberg: o segundo dia.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ucrânia atinge ponte crucial que liga Rússia e Crimeia, dizem autoridades",
+     "url": "https://www.cnnbrasil.com.br/internacional/ucrania-atinge-ponte-crucial-que-liga-russia-e-crimeia-dizem-autoridades/",
+     "angulo": "CNN Brasil: o Kremlin fala em danos leves.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+     "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo",
+     "angulo": "BBC: o ataque que matou 72.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Ukraine hits key Crimea bridge with drones",
+     "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+     "angulo": "AFP: a mensagem aos russos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Ataque à Ponte da Crimeia interrompe tráfego e retém 2.000 veículos",
+     "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/16/ataque-a-ponte-da-crimeia-interrompe-trafego-e-retem-2000-veiculos.ghtm",
+     "angulo": "UOL: 2.000 veículos retidos.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "cinco-paises-da-ue-anunciam-centro-de-deportacao-em-ruanda",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Cinco países da União Europeia anunciam centro em Ruanda para migrantes com asilo negado",
+   "lide": "Alemanha, Áustria, Holanda, Dinamarca e Grécia vão enviar a Ruanda solicitantes de asilo rejeitados. A França recusou o projeto, e organizações de direitos humanos e a ONU criticaram a medida.",
+   "fatos": [
+    {
+     "texto": "Alemanha, Áustria, Holanda, Dinamarca e Grécia anunciaram um centro de retorno em Ruanda para solicitantes de asilo rejeitados.",
+     "base": "4 fontes independentes (BBC, Al Jazeera, Guardian, Washington Post)"
+    },
+    {
+     "texto": "Organizações de direitos humanos condenaram a medida.",
+     "base": "3 fontes independentes (CNN Brasil, Página 12, Guardian)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A França recusou participar do projeto.",
+     "quem": "Le Figaro"
+    },
+    {
+     "texto": "O projeto mostra a guinada da política migratória europeia.",
+     "quem": "Le Monde"
+    },
+    {
+     "texto": "A UE adota as regras de asilo mais duras até agora, ecoando políticas de Trump.",
+     "quem": "Washington Post"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "Five EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+     "angulo": "BBC: o 'return hub'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Pourquoi la France refuse le projet de «centre de retour» pour migrants au Rwanda",
+     "url": "https://www.lefigaro.fr/international/cela-ne-correspond-pas-aux-principes-qui-sont-les-notres-la-france-rejette-le-projet-de-centre-de-retour-pour-migrants-au-rwanda-20261116",
+     "angulo": "Le Figaro: a recusa francesa.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+     "angulo": "Guardian: as críticas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Cinco países da Europa criam planos para centro de deportação em Ruanda",
+     "url": "https://www.cnnbrasil.com.br/internacional/cinco-paises-da-europa-criam-planos-para-centro-de-deportacao-em-ruanda/",
+     "angulo": "CNN Brasil: a condenação de ONGs.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Five European countries agree to deport rejected asylum seekers to Rwanda",
+     "url": "https://www.washingtonpost.com/world/2026/11/16/five-european-countries-agree-deport-rejected-asylum-seekers-rwanda/",
+     "angulo": "Washington Post: as regras mais duras.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Le projet de cinq pays de l’UE d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+     "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+     "angulo": "Le Monde: a guinada europeia.",
+     "tipo": "analise",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda",
+     "angulo": "Al Jazeera: os cinco países.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Países da UE apresentam plano para criar centro para migrantes expulsos em Ruanda",
+     "url": "https://jovempan.com.br/mundo/paises-da-ue-apresentam-plano-para-criar-centro-para-migrantes-expulsos-em-ruanda/",
+     "angulo": "Jovem Pan: a linha-dura.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Cinco países europeos expulsarán migrantes a Ruanda",
+     "url": "https://www.pagina12.com.ar/2026/11/16/cinco-paises-europeos-expulsaran-migrantes-a-ruanda/",
+     "angulo": "Página 12: as críticas da ONU.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Cinco países europeus anunciam centro em Ruanda para deportados",
+     "url": "https://www.infomoney.com.br/mundo/cinco-paises-europeus-anunciam-centro-em-ruanda-para-deportados/",
+     "angulo": "InfoMoney: o acordo.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "california-processa-openai-por-ataques-de-agentes-de-ia",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Califórnia processa a OpenAI por falhas de segurança após ataque de agentes de IA à Hugging Face",
+   "lide": "O procurador-geral Rob Bonta acusa a empresa de enganar e pôr em risco o público ao priorizar velocidade sobre salvaguardas. É a primeira ação de um estado americano contra uma empresa de IA por ataques hackers feitos por seus modelos.",
+   "fatos": [
+    {
+     "texto": "O procurador-geral da Califórnia, Rob Bonta, entrou com ação contra a OpenAI por falhas de segurança em seus modelos de IA.",
+     "base": "4 fontes independentes (BBC, Valor, Estadão, Folha)"
+    },
+    {
+     "texto": "A ação cita a invasão da plataforma Hugging Face por agentes de IA da empresa.",
+     "base": "4 fontes independentes (BBC, Guardian, Poder360, Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Foram ao menos 80 incidentes de cibersegurança.",
+     "quem": "Procuradoria da Califórnia, segundo a Jovem Pan"
+    },
+    {
+     "texto": "O ataque foi resultado 'inteiramente previsível' da ênfase em velocidade.",
+     "quem": "Rob Bonta, segundo a Al Jazeera"
+    },
+    {
+     "texto": "É a primeira ação de um estado contra uma empresa de IA por ataques hackers.",
+     "quem": "CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": null,
+   "materias": [
+    {
+     "fonte": "bbc",
+     "titulo": "OpenAI sued by California over Hugging Face attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+     "angulo": "BBC: a ação.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "California sues OpenAI over safety concerns after rogue agent hacking",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+     "angulo": "Guardian: o agente rebelde.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Califórnia processa OpenAI por falhas de segurança nos modelos de IA da empresa",
+     "url": "https://www.estadao.com.br/internacional/california-processa-openai-por-falhas-de-seguranca-nos-modelos-de-ia-da-empresa-npr/",
+     "angulo": "Estadão: falhas de segurança.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+     "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards",
+     "angulo": "Al Jazeera: 'previsível'.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Califórnia processa OpenAI após 80 incidentes de cibersegurança",
+     "url": "https://jovempan.com.br/mundo/california-processa-openai-apos-80-incidentes-de-ciberseguranca/",
+     "angulo": "Jovem Pan: 80 incidentes.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Califórnia processa OpenAI por ciberataques de modelos de IA contra Hugging Face e outras empresas",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/california-processa-openai-por-ciberataques-de-modelos-de-ia-contra-hugging-face-e-outras-empresas.shtml",
+     "angulo": "Folha: Hugging Face e outras empresas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Califórnia processa OpenAI por ataques de agentes de IA",
+     "url": "https://www.poder360.com.br/poder-internacional/california-processa-openai-por-ataques-de-agentes-de-ia/",
+     "angulo": "Poder360: as multas.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+     "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+     "angulo": "AFP: a IA rebelde.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Califórnia processa OpenAI por ciberataques de IA contra a Hugging Face",
+     "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/california-processa-openai-por-ciberataques-de-ia-contra-a-hugging-face/",
+     "angulo": "CNN Brasil: o primeiro estado.",
+     "tipo": "noticia",
+     "enquadramento": null,
+     "data": "2026-11-16"
+    }
+   ]
+  }
+ ]
+}

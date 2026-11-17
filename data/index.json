@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-16T08:55:59+00:00",
+ "atualizado_em": "2026-11-17T08:56:59+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-17",
+   "arquivo": "data/edicoes/2026-11-17.json",
+   "historias": 8,
+   "gerado_em": "2026-11-17T05:56:58-03:00",
+   "manchete": "Dólar vai a R$ 5,77, maior valor em 19 meses, com incerteza sobre o ajuste; Senado conclui votação nesta terça"
+  },
   {
    "data": "2026-11-16",
    "arquivo": "data/edicoes/2026-11-16.json",
