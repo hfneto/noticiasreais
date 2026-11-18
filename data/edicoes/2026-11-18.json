@@ -1,0 +1,1580 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-18",
+ "gerado_em": "2026-11-18T06:01:35-03:00",
+ "historias": [
+  {
+   "id": "senado-adia-destaques-do-ajuste-fiscal-e-bc-intervem-no-cambio",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Senado adia para esta quarta a votação final do ajuste fiscal; BC vende dólares após alta a R$ 5,78",
+   "lide": "Sem acordo entre base e oposição, Davi Alcolumbre adiou para quarta-feira (18) a votação dos destaques ao projeto de ajuste fiscal, o que impediu a Câmara de analisar o texto na terça. Com o dólar em R$ 5,78, maior nível em 19 meses, o Banco Central anunciou dois leilões de até US$ 1 bilhão para esta quarta.",
+   "contexto": "O texto-base do PLP 299/2026, relatado por Eduardo Braga, foi aprovado na semana passada. O pacote prevê impacto de R$ 46 bilhões a R$ 56 bilhões no Orçamento de 2027 e divide o PT.",
+   "fatos": [
+    {
+     "texto": "O presidente do Senado, Davi Alcolumbre, adiou para quarta-feira (18) a votação dos destaques ao texto-base do ajuste fiscal, por falta de acordo.",
+     "base": "3 fontes independentes (Agência Brasil, Folha, CartaCapital)"
+    },
+    {
+     "texto": "Os destaques mais disputados tratam da limitação da compensação tributária e de repasses da União a estados e municípios ligados à Lei Kandir.",
+     "base": "2 fontes independentes (Valor, Jota)"
+    },
+    {
+     "texto": "O governo retirou a urgência constitucional do projeto que criminaliza a exploração de bets, que trancava a pauta da Câmara, para abrir caminho à votação do pacote.",
+     "base": "3 fontes independentes (Estadão, Gazeta do Povo, Valor)"
+    },
+    {
+     "texto": "O dólar fechou a terça em R$ 5,78, maior nível desde abril de 2025, e o Banco Central anunciou dois leilões de venda de dólares com compromisso de recompra, de até US$ 1 bilhão no total, para esta quarta.",
+     "base": "comunicado do Banco Central relatado; 2 fontes independentes (O Globo, Folha)"
+    },
+    {
+     "texto": "A bancada do PT na Câmara fechou posição favorável ao projeto, apesar de divergências internas.",
+     "base": "2 fontes independentes (Valor, Congresso em Foco)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A base teme não ter os 41 votos necessários para manter os trechos sobre compensação tributária e repasses a estados, e já conta com desidratação do texto na Câmara.",
+     "quem": "Valor, com base em governistas"
+    },
+    {
+     "texto": "O Planalto aceitou abrir mão de R$ 8 bilhões, mas a oposição insistiu numa emenda que restringe o crescimento das despesas.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "As medidas do governo podem tirar cerca de R$ 9 bilhões da Saúde em 2027; o Ministério do Planejamento nega.",
+     "quem": "Felipe Salto (Warren Investimentos), citado pelo g1"
+    },
+    {
+     "texto": "O mercado perdeu nas urnas e tenta impor cortes com ataque especulativo ao câmbio.",
+     "quem": "Guido Mantega, ex-ministro da Fazenda"
+    },
+    {
+     "texto": "O ajuste é 'fake' e 'a conta está chegando'.",
+     "quem": "Carlos Jordy (PL), senador eleito pelo Rio"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O pacote é o primeiro passo de um ajuste gradual para baixar os juros, preserva programas sociais e tem votos para passar sem mudanças.",
+    "oposicao": "O ajuste é insuficiente e eleitoreiro; a oposição tenta impor limite ao crescimento de despesas e derrubar a restrição à compensação tributária."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-17",
+    "id": "dolar-vai-a-r-5-77-com-incerteza-fiscal-e-senado-conclui-ajuste",
+    "titulo": "Dólar vai a R$ 5,77, maior valor em 19 meses, com incerteza sobre o ajuste; Senado conclui votação nesta terça"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Senado adia votação de destaques do projeto de ajuste fiscal",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal",
+     "angulo": "Relato direto do adiamento e do que faltava para o texto seguir à Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo cede sobre projeto das bets para tentar aprovar ajuste fiscal",
+     "url": "https://www.gazetadopovo.com.br/republica/governo-cede-sobre-projeto-das-bets-para-tentar-aprovar-ajuste-fiscal/",
+     "angulo": "Destaca a concessão do governo na pauta da Câmara para salvar o pacote.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Em revés para governo Lula, Senado adia votação final de medidas de ajuste do 'plano Moretti'",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/senado-adia-votacao-de-destaques-do-plano-moretti-de-ajuste-nas-contas.shtml",
+     "angulo": "Trata o adiamento como revés e dá o tamanho do pacote no Orçamento de 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Por falta de acordo, Senado adia conclusão de votação do ajuste fiscal",
+     "url": "https://www.cartacapital.com.br/politica/senado-adia-conclusao-da-votacao-do-projeto-de-ajuste-fiscal-para-quarta-feira/",
+     "angulo": "Registra o adiamento e a expectativa frustrada de votar os destaques na terça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ajuste fiscal: governo teme perder nos destaques e já conta com desidratação do texto na Câmara",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-governo-teme-perder-nos-destaques-e-ja-conta-com-desidratacao-do-texto-na-camara.ghtml",
+     "angulo": "Conta de votos da base e os dois trechos ameaçados pela oposição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Os pontos que travaram a votação do pacote fiscal no Senado",
+     "url": "https://exame.com/brasil/os-pontos-que-travaram-a-votacao-do-pacote-fiscal-no-senado/",
+     "angulo": "Explica o impasse: o governo cedeu R$ 8 bi, a oposição quer teto para despesas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio",
+     "url": "https://oglobo.globo.com/economia/financas/noticia/2026/11/17/dolar-578-banco-central-leilao.ghtml",
+     "angulo": "Liga a alta do dólar à intervenção do BC anunciada para esta quarta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Jordy chama ajuste fiscal de Lula de ‘fake’ e diz que ‘a conta está chegando’",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e01-brasil/jordy-chama-ajuste-fiscal-de-lula-de-fake-e-diz-que-a-conta-esta-chegando",
+     "angulo": "Crítica de deputado do PL ao pacote.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Mantega diz que mercado perdeu nas urnas e tenta ganhar no “tapetão” com ataque especulativo e pressão por cortes",
+     "url": "https://www.brasil247.com/entrevistas/mantega-diz-que-mercado-perdeu-nas-urnas-e-tenta-ganhar-no-tapetao-com-ataque-especulativo-e-pressao-por-cortes/",
+     "angulo": "Ex-ministro petista acusa o mercado de especular e defende o pacote.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Com medidas do governo, projeções apontam que Saúde pode deixar de receber até R$ 9 bi em 2027; Planejamento nega",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml",
+     "angulo": "Projeção de economista sobre perda para a Saúde e a negativa do Planejamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "carney-diz-que-lula-sugeriu-cupula-trump-xi-putin-que-ocorre-na-quinta",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Premiê do Canadá diz que Lula sugeriu a cúpula Trump–Xi–Putin; Putin chega a Shenzhen para o encontro de quinta",
+   "lide": "Mark Carney afirmou que a ideia da primeira reunião a três entre os líderes de EUA, China e Rússia partiu de Lula. Putin chegou a Shenzhen, onde Xi recebe Trump e o russo na quinta-feira (19), à margem da cúpula da Apec, com a guerra na Ucrânia na pauta.",
+   "contexto": "A cúpula foi confirmada na semana passada. Na véspera, a Ucrânia atacou a ponte da Crimeia pelo segundo dia e a Rússia atingiu pontes em Kiev.",
+   "fatos": [
+    {
+     "texto": "O primeiro-ministro do Canadá, Mark Carney, disse a jornalistas no Camboja que a ideia da reunião trilateral entre Trump, Xi e Putin partiu de Lula.",
+     "base": "3 fontes independentes (g1, Estadão, Jovem Pan)"
+    },
+    {
+     "texto": "Putin chegou a Shenzhen, no sul da China, para o encontro com Xi e Trump marcado para quinta-feira (19), em paralelo à cúpula da Apec.",
+     "base": "3 fontes independentes (g1, Jovem Pan, Terra Brasil Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula fez a sugestão aos três líderes em telefonemas em julho e agosto.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "A agenda do encontro está definida, e o envio de tropas europeias à Ucrânia atrapalha as negociações.",
+     "quem": "Serguei Lavrov, chanceler russo"
+    },
+    {
+     "texto": "A pauta oficial fala em armas nucleares, Coreia do Norte e Irã, mas o encontro marca o início de uma nova ordem mundial de 'homens fortes'.",
+     "quem": "Estadão (análise)"
+    },
+    {
+     "texto": "Uma cúpula a três na China vai diminuir o peso dos Estados Unidos.",
+     "quem": "The Economist"
+    },
+    {
+     "texto": "Xi usa a cúpula para reforçar a influência chinesa na América Latina.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a cúpula chegou pelo papel atribuído a Lula: a fala de Carney foi destaque em veículos de todo o espectro, de Opera Mundi a Jovem Pan.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-14",
+    "id": "trump-xi-e-putin-terao-primeira-cupula-a-tres-na-china",
+    "titulo": "Trump, Xi e Putin terão a primeira reunião a três na próxima semana, na China"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Premiê do Canadá diz que Lula contou que partiu dele a ideia de reunião trilateral entre Trump, Putin e Xi",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/17/ideia-de-reuniao-trilateral-entre-trump-putin-e-xi-partiu-de-lula-diz-premie.ghtml",
+     "angulo": "Relato da fala de Carney atribuindo a Lula a ideia da cúpula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "5 Top Issues to Watch for in Unprecedented Trump-Xi-Putin Summit",
+     "url": "https://www.breitbart.com/asia/2026/11/17/5-top-issues-to-watch-for-in-unprecedented-trump-xi-putin-summit/",
+     "angulo": "Em inglês: '5 temas para acompanhar na cúpula'; chama Xi de ditador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "‘Lula articulou trilateral entre Trump, Putin e Xi’, revela premiê do Canadá",
+     "url": "https://operamundi.uol.com.br/brasil/lula-articulou-trilateral-entre-trump-putin-e-xi-revela-premie-do-canada/",
+     "angulo": "Destaca o papel de Lula como articulador do encontro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Reunião entre Trump, Xi Jinping e Putin foi sugerida por Lula, diz premiê do Canadá",
+     "url": "https://jovempan.com.br/mundo/reuniao-entre-trump-xi-jinping-e-putin-foi-sugerida-por-lula-diz-premie-do-canada/",
+     "angulo": "Mesma fala de Carney, com o contexto da entrevista no Camboja.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Trump, Xi e Putin estreiam a era dos homens fortes",
+     "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/trump-xi-e-putin-estreiam-a-era-dos-homens-fortes/",
+     "angulo": "Lê a cúpula como início de uma nova ordem dos 'homens fortes'.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lavrov diz que agenda de Putin, Trump e Xi está definida e critica atuação europeia na Ucrânia",
+     "url": "https://www.brasildefato.com.br/2026/11/17/lavrov-diz-que-agenda-de-putin-trump-e-xi-esta-definida-e-critica-atuacao-europeia-na-ucrania/",
+     "angulo": "Versão russa: agenda definida e crítica à atuação europeia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Divisão do planeta? O que esperar da cúpula entre Trump, Putin e Xi na China",
+     "url": "https://www.gazetadopovo.com.br/mundo/que-esperar-cupula-trump-putin-xi-china/",
+     "angulo": "O que esperar do encontro e o risco de divisão de esferas de influência.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "economist",
+     "titulo": "The incredible shrinking legacy of Donald J Trump",
+     "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
+     "angulo": "Em inglês: 'O legado encolhido de Trump'; a cúpula diminuiria os EUA.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Sugestão de Lula para reunião trilateral sobre guerra na Ucrânia foi dada a Trump, Xi e Putin em agosto e julho",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/17/sugestao-de-lula-para-reuniao-trilateral-sobre-guerra-na-ucrania-foi-dada-a-trump-xi-e-putin-em-agosto-e-julho.ghtml",
+     "angulo": "Quando e como Lula fez a sugestão aos três líderes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Cúpula expõe agendas díspares de Trump, Xi e Putin",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/cupula-expoe-agendas-dispares-de-trump-xi-e-putin.shtml",
+     "angulo": "Diferenças de interesses entre os três líderes.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Xi Jinping aproveita cúpula para reforçar influência chinesa na América Latina",
+     "url": "https://veja.abril.com.br/mundo/xi-jinping-aproveita-cupula-para-reforcar-influencia-chinesa-na-america-latina/",
+     "angulo": "Foco na influência chinesa na América Latina.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "O que a China vai mostrar a Trump e Putin - e a vida difícil dos trabalhadores fora da 'cidade das maravilhas'",
+     "url": "https://www.bbc.com/portuguese/articles/cmkgk37l1nv0o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Reportagem em Shenzhen, vitrine tecnológica e realidade dos trabalhadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "aneel-forma-maioria-para-recomendar-fim-da-concessao-da-enel-sp",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Aneel forma maioria para recomendar o fim da concessão da Enel em SP, mas pedido de vista adia a decisão",
+   "lide": "Quatro dos cinco diretores da Aneel votaram por recomendar ao governo federal a caducidade do contrato da Enel São Paulo, mas um pedido de vista do diretor-geral, Sandoval Feitosa, suspendeu o julgamento pela segunda vez. A palavra final é do Ministério de Minas e Energia.",
+   "contexto": "A Enel SP fornece energia à capital paulista e a 23 municípios da região metropolitana. O processo se baseia nos apagões provocados por eventos climáticos em 2023, 2024 e 2025, que deixaram milhões de consumidores sem luz.",
+   "fatos": [
+    {
+     "texto": "Quatro dos cinco diretores da Aneel votaram nesta terça-feira (17) por recomendar a caducidade do contrato de concessão da Enel São Paulo.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "O diretor-geral da agência, Sandoval Feitosa, pediu vista e suspendeu o julgamento; foi o segundo adiamento.",
+     "base": "3 fontes independentes (CNN Brasil, SBT, Metrópoles)"
+    },
+    {
+     "texto": "A decisão sobre encerrar o contrato cabe ao Ministério de Minas e Energia; a Aneel apenas recomenda.",
+     "base": "3 fontes independentes (Poder360, Veja, Jovem Pan)"
+    },
+    {
+     "texto": "O processo avalia a atuação da distribuidora nos apagões de 2023, 2024 e 2025.",
+     "base": "2 fontes independentes (Exame, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A chance de a Enel reverter o processo de caducidade é praticamente nula.",
+     "quem": "Fontes da Aneel ouvidas por O Globo"
+    },
+    {
+     "texto": "A recomendação é só o primeiro passo de uma longa disputa administrativa e política até a eventual perda da concessão.",
+     "quem": "Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Maioria da Aneel recomenda romper contrato da Enel em SP, mas diretor-geral trava decisão final",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/maioria-da-aneel-recomenda-romper-contrato-da-enel-em-sp-mas-diretor-geral-trava-decisao-final.shtml",
+     "angulo": "Placar de 4 a 1 e o papel do diretor-geral em travar a decisão final.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Aneel forma maioria por caducidade de contrato da Enel SP",
+     "url": "https://jovempan.com.br/brasil/aneel-forma-maioria-por-caducidade-de-contrato-da-enel-sp/",
+     "angulo": "Registra a maioria apesar do novo adiamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Aneel forma maioria pela cassação da concessão da Enel em SP, mas pedido de vista adia decisão",
+     "url": "https://www.brasildefato.com.br/2026/11/17/apos-apagoes-em-sp-aneel-forma-maioria-para-recomendar-caducidade-de-concessao-da-enel/",
+     "angulo": "Relato factual da maioria e do pedido de vista.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Aneel tem maioria para recomendar saída da Enel de SP; diretor pede vista",
+     "url": "https://www.poder360.com.br/poder-energia/aneel-tem-maioria-para-recomendar-saida-da-enel-de-sp-diretor-pede-vista/",
+     "angulo": "Destaca que a palavra final é do Ministério de Minas e Energia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Aneel forma maioria pelo fim do contrato da Enel em SP, mas diretor suspende decisão",
+     "url": "https://veja.abril.com.br/economia/aneel-forma-maioria-a-favor-de-termino-do-contrato-da-enel-em-sp/",
+     "angulo": "Explica que a Aneel recomenda e o ministério decide.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Aneel tem maioria pela caducidade da Enel, mas diretor-geral adia decisão",
+     "url": "https://www.cnnbrasil.com.br/infra/aneel-tem-maioria-pela-caducidade-da-enel-mas-diretor-geral-adia-decisao/",
+     "angulo": "Nomeia o diretor-geral que pediu vista.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Aneel forma maioria para recomendar fim da concessão da Enel em SP, mas pedido de vista adia decisão",
+     "url": "https://exame.com/brasil/aneel-forma-maioria-para-recomendar-fim-da-concessao-da-enel-em-sp-mas-pedido-de-vista-adia-decisao/",
+     "angulo": "Lembra os apagões de 2023 a 2025 que motivaram o processo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Enel SP tem chance praticamente nula de reverter processo de caducidade de concessão, dizem fontes da Aneel",
+     "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/enel-sp-tem-chance-praticamente-nula-de-reverter-processo-de-caducidade-de-concessao-dizem-fontes-da-aneel.ghtml",
+     "angulo": "Antes da sessão, fontes da Aneel dizem que a reversão é improvável.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Enel pode ter longo caminho até perder concessão em SP; entenda os próximos passos",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/enel-pode-ter-longo-caminho-ate-perder-concessao-em-sp-entenda-os-proximos-passos.shtml",
+     "angulo": "Explica os próximos passos até uma eventual perda da concessão.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "motta-e-alcolumbre-cobram-de-moraes-julgamento-da-dosimetria",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Motta e Alcolumbre cobram de Moraes o julgamento da Lei da Dosimetria; Fachin diz que STF pode julgar ainda em 2026",
+   "lide": "Os presidentes da Câmara e do Senado pediram ao relator, Alexandre de Moraes, que libere para o plenário as ações contra a lei que reduz penas de condenados pelo 8 de Janeiro, entre eles Jair Bolsonaro. Horas depois, o presidente do STF, Edson Fachin, disse que o julgamento pode ocorrer neste ano se Moraes liberar os processos.",
+   "contexto": "A Lei da Dosimetria foi aprovada pelo Congresso e está suspensa por decisão de Moraes desde maio, segundo o SBT. A pena de Bolsonaro é de 27 anos e três meses.",
+   "fatos": [
+    {
+     "texto": "Hugo Motta e Davi Alcolumbre se reuniram com Alexandre de Moraes nesta terça-feira (17) e pediram que ele libere para o plenário as ações que questionam a Lei da Dosimetria.",
+     "base": "3 fontes independentes (Folha, Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "Em nota conjunta, os dois ressaltaram 'a importância de uma decisão do STF sobre a validade da lei aprovada pelo Congresso Nacional'.",
+     "base": "nota oficial; 2 fontes independentes (Estadão, Congresso em Foco)"
+    },
+    {
+     "texto": "Fachin afirmou que o plenário pode julgar as ações ainda neste ano, desde que Moraes, relator, libere os processos.",
+     "base": "3 fontes independentes (CNN Brasil, Metrópoles, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A lei pode reduzir a pena de Bolsonaro de 27 anos e três meses para 20 anos e oito meses.",
+     "quem": "Cálculo do relator da proposta no Congresso, citado pelo Metrópoles"
+    },
+    {
+     "texto": "Motta e Alcolumbre querem tirar a dosimetria da disputa pelo comando do Congresso em 2027, para que o bolsonarismo não a use como instrumento de pressão.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "A cobrança ocorre enquanto os dois articulam a permanência no comando das Casas em 2027.",
+     "quem": "Gazeta do Povo e Terra Brasil Notícias"
+    },
+    {
+     "texto": "Moraes busca o 'timing adequado' para liberar a votação.",
+     "quem": "CNN Brasil, com base em interlocutores do ministro"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Alcolumbre e Motta se reúnem com Moraes e pedem que ministro paute no STF lei que reduz penas de Bolsonaro",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-e-motta-se-reunem-com-moraes-e-pedem-que-ministro-paute-no-stf-lei-que-reduz-penas-de-bolsonaro.shtml",
+     "angulo": "Relato do pedido e de quem a lei beneficia, incluindo Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Fachin diz que STF pode julgar Lei da Dosimetria neste ano se Moraes liberar ações",
+     "url": "https://www.gazetadopovo.com.br/republica/fachin-diz-que-stf-pode-julgar-lei-da-dosimetria-neste-ano-se-moraes-liberar-acoes/",
+     "angulo": "Destaca que o julgamento depende de Moraes liberar os processos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Motta e Alcolumbre querem tirar dosimetria da disputa pelo comando do Congresso",
+     "url": "https://iclnoticias.com.br/motta-alcolumbre-dosimetria-comando-congresso/",
+     "angulo": "Lê o pedido como estratégia para esvaziar pressão bolsonarista na eleição do Congresso.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Motta e Alcolumbre pedem a Moraes que plenário do STF analise dosimetria até o final deste ano",
+     "url": "https://www.estadao.com.br/politica/motta-e-alcolumbre-pedem-a-moraes-que-plenario-do-stf-analise-dosimetria-ate-o-final-deste-ano/",
+     "angulo": "Traz a nota conjunta e o pedido de julgamento até o fim do ano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Fachin prevê julgamento da dosimetria neste ano se Moraes liberar ações",
+     "url": "https://www.metropoles.com/colunas/manoela-alcantara/fachin-preve-julgamento-da-dosimetria-neste-ano-se-moraes-liberar-acoes",
+     "angulo": "Dá o cálculo de redução da pena de Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Alcolumbre e Motta cobram Moraes para reduzir pena de Bolsonaro; entenda",
+     "url": "https://www.diariodocentrodomundo.com.br/alcolumbre-e-motta-cobram-moraes-para-reduzir-pena-de-bolsonaro-entenda/",
+     "angulo": "Enfatiza que o pedido serve para reduzir a pena de Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Moraes busca “timing adequado” para liberar votação de Lei da Dosimetria",
+     "url": "https://www.cnnbrasil.com.br/politica/moraes-busca-timing-adequado-para-liberar-votacao-de-lei-da-dosimetria/",
+     "angulo": "Bastidor sobre quando Moraes pretende liberar as ações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Motta e Alcolumbre pedem a Moraes que destrave Lei da Dosimetria",
+     "url": "https://www.congressoemfoco.com.br/noticia/131655/motta-e-alcolumbre-pedem-a-moraes-que-destrave-lei-da-dosimetria",
+     "angulo": "Reproduz a nota conjunta das duas Casas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "De olho na reeleição, Alcolumbre e Motta cobram de Moraes julgamento da lei da dosimetria",
+     "url": "https://terrabrasilnoticias.com/2026/11/de-olho-na-reeleicao-alcolumbre-e-motta-cobram-de-moraes-julgamento-da-lei-da-dosimetria/",
+     "angulo": "Liga a cobrança à disputa pela reeleição no comando do Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Fachin diz que STF julgará ainda neste ano lei que pode reduzir penas de Bolsonaro e aliados se Moraes liberar ações",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/17/fachin-diz-que-stf-pode-julgar-ainda-neste-ano-acoes-contra-lei-da-dosimetria-se-moraes-liberar-caso.ghtml",
+     "angulo": "Explica o rito: cabe ao relator liberar os processos para o plenário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "liquidacao-do-master-faz-um-ano-e-pf-entrega-relatorios-a-fachin",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Liquidação do Master faz um ano; PF entrega hoje a Fachin relatórios sobre ministros do STF citados por Vorcaro",
+   "lide": "O diretor-geral da PF, Andrei Rodrigues, entrega nesta quarta-feira (18) ao presidente do STF os relatórios refeitos sobre ministros citados nas mensagens de Daniel Vorcaro, e sinalizou que não irá ao Senado explicar a troca de delegados. A defesa do ex-banqueiro, preso há um ano, contesta a competência da PGR para denunciá-lo.",
+   "contexto": "O Banco Central decretou a liquidação extrajudicial do Banco Master em 18 de novembro de 2025. Na semana passada, a troca dos delegados que fizeram os primeiros relatórios abriu uma crise na PF.",
+   "fatos": [
+    {
+     "texto": "Andrei Rodrigues vai entregar nesta quarta-feira (18) a Edson Fachin os relatórios sobre ministros do STF citados nas mensagens de Vorcaro.",
+     "base": "3 fontes independentes (g1, O Antagonista, Gazeta do Povo)"
+    },
+    {
+     "texto": "Andrei sinalizou que não comparecerá à audiência no Senado marcada para esta quarta, convocada para explicar a substituição dos delegados.",
+     "base": "2 fontes independentes (g1, ICL Notícias)"
+    },
+    {
+     "texto": "A defesa de Vorcaro afirmou em nota que a PGR não tem foro nem atribuição para denunciá-lo, e pediu ao STF que julgue o pedido de soltura.",
+     "base": "3 fontes independentes (Valor, O Antagonista, Agência Brasil)"
+    },
+    {
+     "texto": "A PF pediu ao STF mais 60 dias para o inquérito sobre influenciadores que teriam feito campanha contra o Banco Central e a favor do Master.",
+     "base": "3 fontes independentes (O Globo, O Antagonista, Brasil 247)"
+    },
+    {
+     "texto": "O procurador-geral Paulo Gonet deu parecer favorável a prorrogar por 90 dias o inquérito sobre os pagamentos de Vorcaro ao filme Dark Horse.",
+     "base": "parecer da PGR; 2 fontes independentes (Agência Brasil, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os relatórios tratam de ligações de seis ministros com o caso.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "Há indícios de interferência política de Andrei no trabalho dos delegados e tentativa de acobertamento.",
+     "quem": "Senador Alessandro Vieira (MDB-SE)"
+    },
+    {
+     "texto": "Os primeiros relatórios desrespeitaram uma ordem de Fachin, o que configurou 'quebra de confiança' e motivou o afastamento dos delegados.",
+     "quem": "Andrei Rodrigues, em explicação ao Ministério da Justiça, segundo o DCM"
+    },
+    {
+     "texto": "Andrei perdeu parte do apoio que tinha entre ministros do STF.",
+     "quem": "Terra Brasil Notícias"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A direção da PF diz que trocou os delegados por quebra de confiança e que os relatórios refeitos seguem as ordens do relator.",
+    "oposicao": "Senadores veem interferência política na PF para proteger ministros do STF e cobram explicações de Andrei no Congresso."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-17",
+    "id": "andrei-rodrigues-nega-crise-na-pf-e-diz-ser-alvo-de-ataques",
+    "titulo": "Andrei Rodrigues nega crise na PF, atribui ataques à disputa por cargos e diz que não será intimidado"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "PF entrega nesta quarta relatório com ministros citados em mensagens de Vorcaro e crise no STF pode voltar a esquentar",
+     "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/17/pf-entrega-nesta-quarta-relatorio-com-todos-ministros-citados-em-mensagens-de-vorcaro-e-crise-no-stf-pode-voltar-a-esquentar.ghtml",
+     "angulo": "Antecipa a entrega e o risco de a crise no STF voltar a esquentar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Senador acusa PF de interferência política em investigação do Master",
+     "url": "https://revistaoeste.com/politica/senador-acusa-pf-de-interferencia-politica-em-investigacao-do-master/",
+     "angulo": "Dá voz às suspeitas de Alessandro Vieira contra Andrei.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Diretor da PF explica afastamento de delegados: “Quebra de confiança”",
+     "url": "https://www.diariodocentrodomundo.com.br/diretor-da-pf-explica-afastamento-de-delegados-quebra-de-confianca/",
+     "angulo": "Traz a versão de Andrei para o afastamento dos delegados.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Andrei Rodrigues envia relatórios sobre seis ministros do STF ao ministro Fachin",
+     "url": "https://www.gazetadopovo.com.br/republica/andrei-rodrigues-envia-relatorios-sobre-seis-ministros-do-stf-ao-ministro-fachin/",
+     "angulo": "Fala em seis ministros e na pressão do Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
+     "angulo": "Petição da defesa pela soltura de Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Defesa de Vorcaro questiona competência da PGR para denunciá-lo",
+     "url": "https://oantagonista.com.br/brasil/defesa-de-vorcaro-questiona-competencia-da-pgr-para-denuncia-lo/",
+     "angulo": "Argumento da defesa contra a denúncia pela PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Diretor da PF pode faltar a audiência no Senado para entregar novos relatórios a Fachin",
+     "url": "https://iclnoticias.com.br/diretor-pf-audiencia-senado-fachin/",
+     "angulo": "Bastidor sobre a provável ausência de Andrei no Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PF pede mais 60 dias para investigar participação de influenciadores em campanha pró-Master",
+     "url": "https://www.brasil247.com/brasil/pf-pede-mais-60-dias-para-investigar-participacao-de-influenciadores-em-campanha-pro-master/",
+     "angulo": "Quem a PF quer ouvir no inquérito sobre influenciadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Um ano após liquidação, entenda o caso do Banco Master",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/um-ano-apos-liquidacao-entenda-o-caso-do-banco-master.shtml",
+     "angulo": "Explicador do caso um ano depois.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Vorcaro vivia rotina de luxo enquanto buscava dinheiro para fechar contas do Master",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-vivia-rotina-de-luxo-enquanto-buscava-dinheiro-para-fechar-contas-do-master.shtml",
+     "angulo": "Reportagem sobre a vida do banqueiro enquanto o banco ruía.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "lula-assina-na-quinta-decreto-do-fim-da-6x1-e-dino-leva-acoes-ao-stf",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Lula assina na quinta o decreto que regulamenta o fim da escala 6x1; Dino leva ações ao julgamento de mérito",
+   "lide": "O ministro do Trabalho, Luiz Marinho, disse que Lula pediu ajustes e assinará na quinta-feira (19) o decreto que regulamenta a nova jornada, com início fixado para 16 de dezembro. No STF, Flávio Dino manteve as liminares sobre a transição e mandou as ações direto para o julgamento definitivo, depois de abrir prazo para Congresso, PGR e AGU.",
+   "contexto": "O fim da escala 6x1 foi promulgado pelo Congresso em outubro. Na semana passada, Luiz Fux interrompeu o julgamento virtual das liminares de Dino sobre a transição.",
+   "fatos": [
+    {
+     "texto": "Luiz Marinho afirmou que Lula fez ajustes no decreto que regulamenta o fim da escala 6x1 e vai assiná-lo na quinta-feira (19).",
+     "base": "3 fontes independentes (Folha, Estadão, Valor)"
+    },
+    {
+     "texto": "Segundo Marinho, o decreto fixa 16 de dezembro como início do cumprimento da nova escala.",
+     "base": "3 fontes independentes (Agência Brasil, CartaCapital, SBT)"
+    },
+    {
+     "texto": "Flávio Dino manteve as liminares sobre a transição e determinou que as ações sigam para julgamento de mérito no plenário do STF, após manifestações de Congresso, PGR e AGU.",
+     "base": "3 fontes independentes (g1, O Antagonista, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O decreto deve fixar um cálculo que eleva o valor das horas extras.",
+     "quem": "Folha, com base em versões do texto"
+    },
+    {
+     "texto": "O decreto 'vai consolidar o debate feito com o povo brasileiro'.",
+     "quem": "Luiz Marinho, ministro do Trabalho"
+    },
+    {
+     "texto": "Empresas do Ibovespa preveem custos maiores e aceleram testes e automação.",
+     "quem": "Levantamento da Folha com empresas listadas"
+    },
+    {
+     "texto": "A redução da jornada encarece a mão de obra em 10% e deve deixar imóveis mais caros e atrasar obras.",
+     "quem": "Estudo do setor da construção civil, citado pela Band"
+    },
+    {
+     "texto": "Dino sinalizou espaço para negociação entre Congresso e governo antes do julgamento.",
+     "quem": "Jota"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Dino deu prazo de 14 dias para as manifestações antes do julgamento.",
+     "rotulo": "Contraditório",
+     "explicacao": "Estadão fala em 14 dias, InfoMoney em 9 dias e Terra em 10 dias para o Congresso; os prazos parecem variar por parte, e a decisão não foi publicada nos feeds.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-15",
+    "id": "fux-leva-julgamento-da-transicao-da-6x1-ao-plenario-fisico",
+    "titulo": "Fux interrompe julgamento virtual sobre a 6x1 e leva liminar de Dino ao plenário físico do STF"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Lula fez ajustes e vai assinar decreto que regulamenta 6x1 na quinta-feira (19), diz ministro do Trabalho",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-fez-ajustes-e-vai-assinar-decreto-que-regulamenta-6x1-na-quinta-feira-19-diz-ministro-do-trabalho.shtml",
+     "angulo": "Anúncio de Marinho sobre a assinatura e os ajustes pedidos por Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dino fixa prazos para manifestações e prepara julgamento definitivo sobre fim da escala 6×1",
+     "url": "https://www.gazetadopovo.com.br/republica/dino-fixa-prazos-para-manifestacoes-e-prepara-julgamento-definitivo-sobre-fim-da-escala-6x1/",
+     "angulo": "Relato da decisão de Dino e de quem foi chamado a se manifestar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/decreto-que-regulamenta-escala-5x2-sera-assinado-quinta-feira",
+     "angulo": "Dá a data de início da nova escala, 16 de dezembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Dino contorna pedido de Fux e prepara julgamento definitivo sobre escala 6×1",
+     "url": "https://revistaoeste.com/no-ponto/dino-contorna-pedido-de-fux-e-prepara-julgamento-definitivo-sobre-escala-6x1/",
+     "angulo": "Enquadra a decisão como manobra de Dino diante do pedido de Fux.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Lula deve assinar decreto da escala 5×2 nesta quinta-feira, diz Marinho",
+     "url": "https://www.cartacapital.com.br/radar-carta/lula-deve-assinar-decreto-da-escala-5x2-nesta-quinta-feira-diz-marinho/",
+     "angulo": "Destaca que a norma vai orientar negociações entre patrões e empregados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Dino dá 14 dias para manifestações antes de liberar julgamento sobre fim da escala 6x1",
+     "url": "https://www.estadao.com.br/economia/dino-prazo-manifestacoes-liberar-julgamento-fim-escala-6x1/",
+     "angulo": "Explica que liminar e mérito serão julgados juntos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Dino dá 9 dias para manifestações antes de levar fim da escala 6×1 ao plenário do STF",
+     "url": "https://www.infomoney.com.br/politica/dino-da-9-dias-para-manifestacoes-antes-de-levar-fim-da-escala-6x1-ao-plenario-do-stf/",
+     "angulo": "Mesmo fato com prazo diferente; liga ao decreto em preparo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Lula assinará decreto de regulamentação da 5×2 na quinta-feira, diz Marinho",
+     "url": "https://jovempan.com.br/politica/lula-assinara-decreto-de-regulamentacao-da-5x2-na-quinta-feira-diz-marinho/",
+     "angulo": "Registra que Marinho não detalhou os ajustes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Com fim da 6x1, empresas da Bolsa preveem custos maiores, aceleram testes e apostam em automação",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/com-fim-da-6x1-empresas-da-bolsa-preveem-custos-maiores-aceleram-testes-e-apostam-em-automacao.shtml",
+     "angulo": "Efeito nas empresas: custos, testes de escala e automação.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Construção civil prevê imóveis mais caros e atraso em obras com escala 5x2",
+     "url": "https://www.band.com.br/politica/construcao-civil-preve-imoveis-mais-caros-e-atraso-em-obras-com-escala-5x2",
+     "angulo": "Estudo do setor sobre custo da mão de obra e prazos de obras.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "rede-da-nsa-cai-e-rubio-diz-nao-haver-ataque-por-tras-de-panes-nos-eua",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Rede sigilosa da NSA sai do ar e Rubio diz não haver indício de ataque por trás da série de panes nos EUA",
+   "lide": "A rede interna de comunicações sigilosas da NSA ficou fora do ar na terça-feira (17), dias depois de falhas em aeroportos, bancos e na Microsoft; a agência atribuiu o problema a manutenção de rotina. Trump minimizou as panes e o secretário de Estado, Marco Rubio, disse haver 'zero evidência' de que estejam ligadas ou sejam ciberataques.",
+   "contexto": "Desde a semana passada, uma falha global da Microsoft derrubou Outlook e Teams e outra paralisou decolagens em todos os aeroportos dos EUA. Grandes bancos também tiveram interrupções.",
+   "fatos": [
+    {
+     "texto": "A rede interna de comunicações sigilosas da NSA ficou fora do ar na terça-feira (17); a agência atribuiu a queda a atividades de manutenção de rotina.",
+     "base": "3 fontes independentes (Al Jazeera, Breitbart, Band)"
+    },
+    {
+     "texto": "Trump minimizou a série de falhas e disse que 'coisas assim acontecem'.",
+     "base": "2 fontes independentes (Folha, Bloomberg)"
+    },
+    {
+     "texto": "Marco Rubio disse haver 'zero evidência' de que as panes estejam ligadas entre si ou resultem de ciberataques.",
+     "base": "3 fontes independentes (BBC, New York Post, The Guardian)"
+    },
+    {
+     "texto": "A Apple confirmou uma falha que afetou iCloud, App Store e Apple Pay na terça.",
+     "base": "3 fontes independentes (Breitbart, CNN Brasil, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Erros em atualizações, e não ataques cibernéticos, provavelmente estão por trás das falhas.",
+     "quem": "Chefe da inteligência dos EUA, segundo a Reuters"
+    },
+    {
+     "texto": "'Se tudo isso é coincidência, é a maior coincidência da história do mundo'; o Senado inteiro deveria receber explicações.",
+     "quem": "Senador Josh Hawley (Republicano, Missouri)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Haveria um apagão mundial de energia e comunicações em 17 de novembro, previsto por 'Os Simpsons'.",
+     "rotulo": "Falso",
+     "explicacao": "O boato juntou um episódio de 2023 da série, que não cita apagão nem 2026, a um teste do sistema de alertas de emergência dos EUA. Não houve apagão.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/defesa-civil-militares-simpsons-apagao-mundial/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o tema chegou sobretudo pelo boato do 'apagão mundial' de 17/11, desmentido por checagens, e pela instabilidade nos serviços da Apple relatada por usuários.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-14",
+    "id": "falha-paralisa-decolagens-em-todos-os-aeroportos-dos-eua",
+    "titulo": "Falha no controle de tráfego aéreo paralisa decolagens em todos os aeroportos dos EUA por mais de 4 horas"
+   },
+   "materias": [
+    {
+     "fonte": "aljazeera",
+     "titulo": "NSA attributes US network outage to routine ‘maintenance’ activities",
+     "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+     "angulo": "Em inglês: 'NSA atribui queda de rede a manutenção de rotina'; liga à série de falhas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "‘Greatest Coincidence in the History of the World’: Sen. Josh Hawley Calls for Senate Briefings on Outages",
+     "url": "https://www.breitbart.com/politics/2026/11/17/greatest-coincidence-in-the-history-of-the-world-sen-josh-hawley-calls-for-senate-briefings-on-outages/",
+     "angulo": "Em inglês: Hawley pede explicações ao Senado e desconfia de coincidência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Trump minimiza série de falhas tecnológicas nos EUA e diz que 'coisas assim acontecem'",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/trump-minimiza-serie-de-falhas-tecnologicas-nos-eua-e-diz-que-coisas-assim-acontecem.shtml",
+     "angulo": "Reação de Trump e lista das falhas em transporte, bancos e segurança.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Rubio says US not 'under systemic attack' after series of tech outages",
+     "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Em inglês: Rubio nega 'ataque sistêmico' e rebate teorias online.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Rede da NSA para dados secretos dos EUA fica fora do ar e gera novo temor de apagão",
+     "url": "https://revistaforum.com.br/politica/nsa-dados-secretos-eua-fora-do-ar-apagao/",
+     "angulo": "Destaca o temor de novo apagão após a queda da NSA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
+     "url": "https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/",
+     "angulo": "Em inglês: Rubio admite que as panes deixaram americanos apreensivos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Erros em atualizações, e não ataques cibernéticos, estão por trás de falhas tecnológicas, diz chefe da inteligência dos EUA",
+     "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/17/erros-em-atualizacoes-e-nao-ataques-ciberneticos-estao-por-tras-de-falhas-tecnologicas-diz-chefe-da-inteligencia-dos-eua.htm",
+     "angulo": "Texto da Reuters com a avaliação do chefe da inteligência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Rede ultrassecreta de segurança dos EUA fica fora do ar após pane",
+     "url": "https://www.band.com.br/internacional/rede-ultrassecreta-de-seguranca-dos-eua-fica-fora-do-ar-apos-pane",
+     "angulo": "Relato da queda da rede da NSA e da investigação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "No dia do suposto 'apagão mundial', rede interna de agência americana fica fora do ar após outras panes nos EUA; relembre",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/17/no-dia-do-suposto-apagao-mundial-rede-interna-de-agencia-americana-fica-fora-do-ar-apos-outras-panes-nos-eua-relembre.ghtml",
+     "angulo": "Cruza a queda da NSA com o boato do apagão mundial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Apagão na Apple? Falha causa instabilidade em vários serviços da empresa",
+     "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/apagao-na-apple-falha-causa-instabilidade-em-varios-servicos-da-empresa/",
+     "angulo": "Falha nos serviços da Apple sentida por usuários no Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "Defesa Civil, militares e Simpsons são usados nas redes para inventar apagão mundial",
+     "url": "https://www.aosfatos.org/noticias/defesa-civil-militares-simpsons-apagao-mundial/",
+     "angulo": "Checagem que desmonta o boato do apagão de 17/11.",
+     "tipo": "checagem",
+     "enquadramento": null
+    }
+   ]
+  },
+  {
+   "id": "nvidia-dobra-lucro-no-primeiro-balanco-sem-huang-e-descarta-sua-volta",
+   "editoria": "Economia",
+   "escopo": "mundo",
+   "titulo": "Nvidia dobra o lucro no primeiro balanço após a saída de Jensen Huang e diz que não vai reconduzi-lo",
+   "lide": "A fabricante de chips teve lucro de US$ 65,3 bilhões e receita de US$ 115,8 bilhões no trimestre encerrado em outubro, acima das projeções, e prevê US$ 130 bilhões no próximo. O presidente do conselho, Harvey Jones, disse que a empresa não pretende trazer Huang de volta e buscará um novo CEO sem pressa.",
+   "contexto": "Jensen Huang renunciou ao comando da Nvidia na semana passada, após a revelação de um caso com uma suposta espiã chinesa. Colette Kress é a CEO interina.",
+   "fatos": [
+    {
+     "texto": "A Nvidia registrou lucro líquido de US$ 65,3 bilhões no terceiro trimestre fiscal, mais que o dobro do mesmo período do ano anterior.",
+     "base": "balanço da empresa; 3 fontes independentes (g1, Revista Oeste, Exame)"
+    },
+    {
+     "texto": "A receita do trimestre foi de US$ 115,8 bilhões, e a empresa projetou US$ 130 bilhões para o quarto trimestre.",
+     "base": "balanço da empresa; 3 fontes independentes (O Globo, Exame, CNN Brasil)"
+    },
+    {
+     "texto": "O presidente do conselho, Harvey Jones, disse que a empresa 'não pretende reconduzir Jensen ao cargo de CEO'.",
+     "base": "3 fontes independentes (The Guardian, O Globo, Jovem Pan)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O escândalo que levou à saída de Huang teria originado uma investigação da SEC, a comissão de valores dos EUA.",
+     "quem": "Axios, com base em relatos da imprensa"
+    },
+    {
+     "texto": "A Nvidia deixou de detalhar as vendas registradas em Singapura depois que elas cresceram 70%.",
+     "quem": "Financial Times"
+    },
+    {
+     "texto": "Os números ainda refletem a gestão de Huang.",
+     "quem": "NeoFeed"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o balanço foi acompanhado como termômetro do mercado de IA, um dia depois de os EUA passarem a exigir licença para exportar chips de IA ao país.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-13",
+    "id": "jensen-huang-deixa-o-comando-da-nvidia",
+    "titulo": "Jensen Huang deixa o comando da Nvidia; diretora financeira assume como CEO interina"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml",
+     "angulo": "Números do lucro e da receita em reais e dólares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+     "angulo": "Em inglês: 'Nvidia dobra receita e conselho diz que não reconduzirá Huang'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Nvidia dobra lucro e supera projeções do mercado",
+     "url": "https://revistaoeste.com/mundo/nvidia-dobra-lucro-e-supera-projecoes-do-mercado/",
+     "angulo": "Compara lucro e lucro por ação com as projeções de analistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe",
+     "url": "https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress",
+     "angulo": "Em inglês: resultado forte em meio à saída de Huang e à investigação relatada da SEC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Nvidia projeta receita de US$ 130 bilhões para o 4º trimestre",
+     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-projeta-receita-de-us-130-bilhoes-para-o-4o-trimestre/",
+     "angulo": "Projeção para o 4º trimestre e a margem de erro informada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Nvidia supera previsões do mercado e descarta volta de ex-CEO",
+     "url": "https://jovempan.com.br/mundo/nvidia-supera-previsoes-do-mercado-e-descarta-volta-de-ex-ceo/",
+     "angulo": "Resultado acima do consenso e recusa à volta de Huang.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
+     "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
+     "angulo": "Em inglês: Nvidia parou de detalhar vendas por Singapura, que dispararam.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "Ainda “sob a gestão” Jensen Huang, Nvidia volta a bater projeções",
+     "url": "https://neofeed.com.br/negocios/ainda-sob-a-gestao-jensen-huang-nvidia-volta-a-bater-projecoes/",
+     "angulo": "Argumenta que o balanço ainda é fruto da gestão de Huang.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Nvidia fatura US$ 115,8 bilhões e dobra de tamanho no 1º balanço sem Jensen Huang",
+     "url": "https://exame.com/invest/mercados/nvidia-fatura-us-1158-bilhoes-e-dobra-de-tamanho-no-1o-balanco-sem-jensen-huang/",
+     "angulo": "Atribui o crescimento ao chip Vera Rubin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
+     "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+     "angulo": "Em inglês: conselho rejeita pedidos de recondução de Huang.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "vazamento-de-15-milhoes-de-arquivos-expoe-falhas-do-deutsche-bank",
+   "editoria": "Economia",
+   "escopo": "mundo",
+   "titulo": "Vazamento de 15 milhões de arquivos expõe falhas de controle do Deutsche Bank; ações caem e Berlim cobra transparência",
+   "lide": "Uma investigação de veículos de vários países sobre documentos internos do Deutsche Bank aponta que o banco ignorou alertas sobre clientes de risco, como oligarcas russos e Jeffrey Epstein. As ações caíram em Frankfurt e o ministro das Finanças alemão pediu 'transparência total'.",
+   "contexto": "A apuração 'Inside Deutsche Bank' reúne cerca de 230 jornalistas de 50 veículos, entre eles Folha, Le Monde, The Guardian, The New York Times e, no Brasil, a Agência Pública.",
+   "fatos": [
+    {
+     "texto": "Veículos de vários países publicaram na terça-feira (17) reportagens baseadas em mais de 15 milhões de documentos internos vazados do Deutsche Bank.",
+     "base": "3 fontes independentes (Folha, Le Monde, Financial Times)"
+    },
+    {
+     "texto": "As ações do banco caíram na Bolsa de Frankfurt após as reportagens.",
+     "base": "2 fontes independentes (AFP, Valor)"
+    },
+    {
+     "texto": "O ministro das Finanças da Alemanha, Lars Klingbeil, pediu 'transparência total' ao banco sobre falhas passadas.",
+     "base": "2 fontes independentes (Folha, AFP)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O banco desconsiderou alertas da própria área de risco para manter negócios lucrativos com oligarcas russos e outros clientes de alto risco.",
+     "quem": "Reportagens do consórcio (The Guardian, The New York Times, Clarín)"
+    },
+    {
+     "texto": "O banco vazou por engano declarações fiscais de Donald Trump no primeiro mandato e manteve o erro em segredo da Casa Branca.",
+     "quem": "Folha, com base nos documentos"
+    },
+    {
+     "texto": "Os incidentes relatados 'datam de muitos anos' e os controles foram aprimorados.",
+     "quem": "Deutsche Bank, segundo o Valor"
+    },
+    {
+     "texto": "Funcionários relativizaram acusações contra Vale, Safra, Braskem e Andrade Gutierrez para manter esses clientes, e um executivo chamou André Esteves, do BTG, de 'picareta' em e-mail.",
+     "quem": "Agência Pública, com base nos documentos"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O Deutsche Bank movimentou US$ 592 milhões em transações suspeitas ligadas a Epstein.",
+     "rotulo": "Contraditório",
+     "explicacao": "A Folha fala em US$ 592 milhões; a Revista Oeste, em cerca de US$ 582 milhões. Os dois citam os mesmos documentos vazados.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "O vazamento chega ao Brasil pela Agência Pública, que mostra como o banco tratou clientes brasileiros como Vale, Safra, Braskem, Andrade Gutierrez e BTG.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Deutsche Bank falhou no controle e na prevenção à lavagem de dinheiro, mostram documentos vazados",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/deutsche-bank-falhou-em-controle-e-prevencao-a-lavagem-de-dinheiro-mostram-documentos-vazados.shtml",
+     "angulo": "Abertura da série: falhas antilavagem e promessas de mudança não cumpridas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Documentos revelam US$ 582 milhões em transações suspeitas ligadas a Epstein",
+     "url": "https://revistaoeste.com/mundo/documentos-revelam-us-582-milhoes-em-transacoes-suspeitas-ligadas-a-epstein/",
+     "angulo": "Foco nas transações suspeitas ligadas a Epstein.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "“Pelo menos o banco fez dinheiro”: vazamento expõe bastidores do Deutsche Bank no Brasil",
+     "url": "https://apublica.org/2026/11/vazamento-do-deutsche-bank-as-entranhas-do-banco-no-brasil/",
+     "angulo": "Bastidores do banco no Brasil e clientes brasileiros sob suspeita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Deutsche Bank shares drop after reports exposing Epstein payments, Russia dealings",
+     "url": "https://www.france24.com/en/video/20261117-deutsche-bank-shares-drop-after-reports-exposing-epstein-payments-russia-dealings",
+     "angulo": "Em inglês: queda das ações após as reportagens.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+     "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+     "angulo": "Em inglês: o banco cortejava oligarcas russos às vésperas de sanções.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Documentos filtrados revelan que Deutsche Bank protegió las ganancias rusas a pesar de las advertencias",
+     "url": "https://www.clarin.com/new-york-times-international-weekly/documentos-filtrados-revelan-deutsche-bank-protegio-ganancias-rusas-pesar-advertencias_0_PMF9lNBRJy.html",
+     "angulo": "Em espanhol: o banco protegeu lucros russos apesar dos alertas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+     "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+     "angulo": "Em inglês: o banco ignorou alertas para proteger lucros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ações do Deutsche Bank despencam após reportagens sobre interação do banco com oligarcas russos, Trump e Epstein",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/17/aes-do-deutsche-bank-despencam-aps-reportagens-sobre-interao-do-banco-com-oligarcas-russos-trump-e-epstein.ghtml",
+     "angulo": "Reação do mercado e a resposta do banco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "« Inside Deutsche Bank », une enquête de 230 journalistes et 50 médias sur 15 millions de fichiers",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-une-enquete-de-230-journalistes-et-50-medias-sur-15-millions-de-fichiers_6812914_4355770.html",
+     "angulo": "Em francês: como foi feita a investigação de 230 jornalistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "publica",
+     "titulo": "“Picaretas não melhoram”, disse executivo do Deutsche Bank sobre André Esteves, do BTG",
+     "url": "https://apublica.org/2026/11/picaretas-nao-melhoram-disse-executivo-do-deutsche-bank-sobre-andre-esteves-do-btg/",
+     "angulo": "E-mail interno sobre André Esteves, do BTG.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Deutsche Bank vazou dados de conta de Trump e movimentou US$ 592 mi de Epstein",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/deutsche-bank-vazou-dados-de-conta-de-trump-e-movimentou-us-592-mi-de-epstein.shtml",
+     "angulo": "Vazamento de dados fiscais de Trump e transações de Epstein.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Una filtración reveló operaciones sospechosas del Deutsche Bank con Epstein y Trump",
+     "url": "https://www.pagina12.com.ar/2026/11/17/una-filtracion-revelo-operaciones-sospechosas-del-deutsche-bank-con-epstein-y-trump/",
+     "angulo": "Em espanhol: operações suspeitas com Epstein e Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "indigenas-awa-isolados-se-aproximam-de-aldeia-no-maranhao",
+   "editoria": "Meio ambiente",
+   "escopo": "brasil",
+   "titulo": "Indígenas Awá em isolamento voluntário se aproximam de aldeia no Maranhão e pedem comida; Funai aciona plano",
+   "lide": "Um grupo de indígenas Awá-Guajá que vive isolado na Terra Indígena Arariboia se aproximou na segunda-feira (16) de uma aldeia Guajajara e de um posto da Funai, recebeu alimentos e voltou para a mata. O governo federal pôs equipes em alerta pelo risco de doenças a um povo sem contato.",
+   "contexto": "Povos isolados não têm imunidade a doenças comuns, por isso o contato é evitado. A Terra Indígena Arariboia sofre pressão de madeireiros, caçadores e pecuaristas.",
+   "fatos": [
+    {
+     "texto": "Um grupo de indígenas Awá-Guajá em isolamento voluntário se aproximou na segunda-feira (16) da aldeia Tawari, do povo Guajajara, na Terra Indígena Arariboia, no Maranhão.",
+     "base": "3 fontes independentes (Folha, Agência Brasil, Revista Oeste)"
+    },
+    {
+     "texto": "Os indígenas pediram e receberam alimentos e voltaram para a mata.",
+     "base": "3 fontes independentes (Folha, Revista Oeste, DCM)"
+    },
+    {
+     "texto": "A Funai acionou um plano preventivo e equipes do governo federal foram mobilizadas.",
+     "base": "3 fontes independentes (Agência Brasil, SBT, Revista Oeste)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A aparição expõe as ameaças de madeireiros, caçadores e pecuaristas ao grupo.",
+     "quem": "SBT, com base em lideranças locais"
+    },
+    {
+     "texto": "É a primeira aproximação do tipo na história recente.",
+     "quem": "Band"
+    },
+    {
+     "texto": "Lideranças indígenas se preocupam com a saúde de crianças e idosos do grupo.",
+     "quem": "Lideranças ouvidas pelo SBT"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O grupo tinha cerca de 20 indígenas.",
+     "rotulo": "Contraditório",
+     "explicacao": "DCM e The Guardian falam em cerca de 20 pessoas; a Revista Oeste, em cerca de 15. Não há contagem oficial divulgada.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "O Guardian noticiou a aparição destacando o alarme de organizações indigenistas com o aumento das ameaças ao modo de vida do grupo.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Indígenas isolados se aproximam de comunidade Guajajara, no Maranhão, e recebem alimento",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/indigenas-isolados-se-aproximam-de-comunidade-guajajara-no-maranhao-e-recebem-alimento.shtml",
+     "angulo": "Relato do encontro e da etnia envolvida, com ênfase na busca por alimento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Indígenas isolados buscam comida no Maranhão; Funai aciona plano",
+     "url": "https://revistaoeste.com/brasil/indigenas-isolados-buscam-comida-no-maranhao-funai-aciona-plano/",
+     "angulo": "Detalha o tamanho do grupo, o que pediram e a reação da Funai.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Indígenas isolados se aproximam de aldeia e governo fica em alerta",
+     "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/indigenas-isolados-se-aproximam-de-aldeia-e-governo-fica-em-alerta",
+     "angulo": "Foco no alerta do governo federal e no posto da Funai.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Indígenas que vivem isolados fazem contato após décadas e pedem comida",
+     "url": "https://www.diariodocentrodomundo.com.br/indigenas-que-vivem-isolados-fazem-contato-apos-decadas-e-pedem-comida/",
+     "angulo": "Relato curto do contato e do plano da Funai.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Imagens de indígenas isolados expõem ameaças a comunidades",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/imagens-de-indigenas-isolados-expoem-ameacas-a-comunidades",
+     "angulo": "Usa as imagens para tratar das ameaças de madeireiros e pecuaristas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+     "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+     "angulo": "Em inglês: 'Tribo isolada surge em meio a alarme sobre ameaças'; ouve organizações indigenistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Indígenas isolados há décadas aparecem em aldeia no Maranhão; veja",
+     "url": "https://www.band.com.br/nacional/brasil/indigenas-isolados-ha-decadas-aparecem-em-aldeia-no-maranhao-veja",
+     "angulo": "Destaca o ineditismo da aproximação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Dinheiro público financia invasão e desmatamento na terra ancestral de Raoni e ameaça povos isolados na Amazônia",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/11/18/dinheiro-publico-financia-invasao-e-desmatamento-na-terra-ancestral-de-raoni-e-ameaca-povos-isolados-na-amazonia.ghtml",
+     "angulo": "Reportagem relacionada: crédito subsidiado financia fazendas em terras com povos isolados.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "rio-passa-de-390-casos-de-mpox-e-amplia-vacinacao",
+   "editoria": "Saúde",
+   "escopo": "brasil",
+   "titulo": "Rio passa de 390 casos de mpox no ano e amplia a vacinação para usuários de PrEP",
+   "lide": "O estado do Rio confirmou 396 casos de mpox e uma morte em 2026, com outros 281 em investigação, e passou a atualizar os dados diariamente. A prefeitura da capital ampliou a vacinação para pessoas que usam a profilaxia pré-exposição ao HIV (PrEP).",
+   "contexto": "O Brasil confirmou na semana passada a primeira morte por mpox em 2026, no Rio. O país passou de mil casos no ano.",
+   "fatos": [
+    {
+     "texto": "A Secretaria de Saúde do Rio informou 396 casos confirmados de mpox e uma morte no estado em 2026, e passou a atualizar os números diariamente.",
+     "base": "dado oficial relatado; 2 fontes independentes (Agência Brasil, InfoMoney)"
+    },
+    {
+     "texto": "A Prefeitura do Rio ampliou a vacinação contra mpox para usuários de PrEP, que precisam apresentar receita ou laudo médico.",
+     "base": "3 fontes independentes (Band, CNN Brasil, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O total já passa de 400 casos no estado, 288 deles na capital.",
+     "quem": "Veja"
+    },
+    {
+     "texto": "O Ministério da Saúde garantiu a compra de 25 mil doses para públicos prioritários.",
+     "quem": "Veja"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-15",
+    "id": "brasil-registra-primeira-morte-por-mpox-em-2026",
+    "titulo": "Brasil registra a primeira morte por Mpox em 2026, com mais de mil casos no ano"
+   },
+   "materias": [
+    {
+     "fonte": "icl",
+     "titulo": "Mpox: com quase 400 casos, Rio de Janeiro passa a atualizar diariamente os dados",
+     "url": "https://iclnoticias.com.br/mpox-400-casos-rio-atualizar-diariamente-dados/",
+     "angulo": "Texto da Agência Brasil com os números oficiais e os casos em investigação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-16"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Rio tem mais de 400 casos de mpox e primeira morte no Brasil",
+     "url": "https://veja.abril.com.br/saude/rio-tem-mais-de-400-casos-de-mpox-e-primeira-morte-no-brasil/",
+     "angulo": "Número atualizado e concentração na capital.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Prefeitura do Rio amplia vacinação contra Mpox para usuários de PrEP",
+     "url": "https://www.band.com.br/saude/prefeitura-do-rio-amplia-vacinacao-contra-mpox-para-usuarios-de-prep",
+     "angulo": "Quem passa a poder se vacinar e o documento exigido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Mpox chega a 396 casos no Rio, e Secretaria passa a atualizar painel diariamente",
+     "url": "https://www.infomoney.com.br/brasil/mpox-chega-a-396-casos-no-rio-e-secretaria-passa-a-atualizar-painel-diariamente/",
+     "angulo": "Destaca o envio de vacinas do ministério para a capital.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Prefeitura do Rio amplia público de vacinação contra Mpox",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/prefeitura-do-rio-amplia-publico-de-vacinacao-contra-mpox/",
+     "angulo": "Explica a vacinação escalonada por grupos de risco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-17"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Pacientes com suspeita de Mpox são isolados durante investigação em cidade de MG",
+     "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/pacientes-com-suspeita-de-mpox-sao-isolados-durante-investigacao-em-cidade-de-mg.ghtml",
+     "angulo": "Casos suspeitos em Divinópolis (MG) mostram a doença fora do Rio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Prefeitura do Rio amplia público de vacinação contra Mpox",
+     "url": "https://sbtnews.sbt.com.br/noticia/saude/prefeitura-do-rio-amplia-publico-de-vacinacao-contra-mpox",
+     "angulo": "Lista quem entra na vacinação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Mpox não é crise nacional, mas exige reforço na vacinação de grupos prioritários",
+     "url": "https://www.cartacapital.com.br/saude/casos-de-mpox-nao-acendem-alerta-nacional-mas-exigem-ampliar-vacinacao-de-grupos-prioritarios/",
+     "angulo": "Especialistas: não há crise nacional, mas a vacinação de grupos prioritários precisa crescer.",
+     "tipo": "analise",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Brasil registra primeira morte em meio a aumento de casos de Mpox",
+     "url": "https://jovempan.com.br/brasil/brasil-registra-primeira-morte-em-meio-a-aumento-de-casos-de-mpox/",
+     "angulo": "Destaca que os casos de setembro a novembro dobraram em relação ao resto do ano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    }
+   ]
+  }
+ ]
+}

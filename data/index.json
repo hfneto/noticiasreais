@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-17T08:56:59+00:00",
+ "atualizado_em": "2026-11-18T09:01:35+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-18",
+   "arquivo": "data/edicoes/2026-11-18.json",
+   "historias": 11,
+   "gerado_em": "2026-11-18T06:01:35-03:00",
+   "manchete": "Senado adia para esta quarta a votação final do ajuste fiscal; BC vende dólares após alta a R$ 5,78"
+  },
   {
    "data": "2026-11-17",
    "arquivo": "data/edicoes/2026-11-17.json",
