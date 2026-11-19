@@ -1,0 +1,1352 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-19",
+ "gerado_em": "2026-11-19T05:59:45-03:00",
+ "historias": [
+  {
+   "id": "senado-conclui-votacao-do-ajuste-fiscal-e-texto-vai-a-camara",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Senado rejeita mudanças da oposição e conclui o ajuste fiscal; Câmara deve votar até terça",
+   "lide": "O Senado derrubou os destaques da oposição e fechou um acordo sobre os repasses da Lei Kandir, concluindo a votação do projeto de ajuste fiscal, que segue para a Câmara. O dólar subiu pela quinta sessão seguida e fechou perto de R$ 5,87, maior valor desde abril de 2025.",
+   "contexto": "O texto-base foi aprovado na semana passada por 45 a 31. A votação dos destaques foi adiada na terça por falta de votos garantidos para o governo.",
+   "fatos": [
+    {
+     "texto": "O Senado concluiu nesta quarta-feira (18) a votação do projeto de ajuste fiscal, rejeitando os destaques da oposição, e o texto segue para a Câmara.",
+     "base": "3 fontes independentes (Agência Brasil, Valor, CartaCapital)"
+    },
+    {
+     "texto": "Um acordo alterou o trecho que reduzia repasses da União a estados ligados à Lei Kandir.",
+     "base": "3 fontes independentes (Exame, g1, Estado de Minas)"
+    },
+    {
+     "texto": "O Senado manteve o limite de R$ 3 bilhões por ano, de 2027 a 2030, para os repasses da Compensação Previdenciária a estados e municípios.",
+     "base": "2 fontes independentes (O Globo, SBT)"
+    },
+    {
+     "texto": "O ministro José Guimarães disse ter acertado com Hugo Motta a votação na Câmara até terça-feira (24).",
+     "base": "3 fontes independentes (O Globo, Revista Oeste, Brasil 247)"
+    },
+    {
+     "texto": "O dólar subiu pela quinta sessão seguida e fechou perto de R$ 5,87, maior nível em 19 meses.",
+     "base": "3 fontes independentes (Agência Brasil, Poder360, Veja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Ampliar o corte no crescimento das despesas, como queria a oposição, comprometeria programas como Pé-de-Meia e Minha Casa, Minha Vida.",
+     "quem": "Eduardo Braga (MDB-AM), relator"
+    },
+    {
+     "texto": "O governo rejeitou uma contraproposta com corte de subsídios e limite para os gastos públicos.",
+     "quem": "Líder da oposição, segundo a Gazeta do Povo"
+    },
+    {
+     "texto": "A redução dos repasses da Lei Kandir provocará perda de receitas para os estados.",
+     "quem": "Senador Sergio Moro (PL-PR)"
+    },
+    {
+     "texto": "A aprovação foi uma 'demonstração de força' do governo.",
+     "quem": "Paulo Pimenta"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O pacote vai economizar até R$ 60 bilhões em 2027.",
+     "rotulo": "Contraditório",
+     "explicacao": "As estimativas variam por fonte: R$ 50 bilhões segundo o relator (g1), R$ 56,1 bilhões (Exame) e até R$ 60 bilhões (CartaCapital). O Planejamento diz que as mudanças não alteram a projeção global.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O Senado preservou os pontos centrais do pacote, que equilibra as contas sem cortar programas sociais.",
+    "oposicao": "O ajuste se apoia em aumento de impostos e corte de repasses a estados, sem limitar o crescimento dos gastos."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-18",
+    "id": "senado-adia-destaques-do-ajuste-fiscal-e-bc-intervem-no-cambio",
+    "titulo": "Senado adia para esta quarta a votação final do ajuste fiscal; BC vende dólares após alta a R$ 5,78"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo",
+     "angulo": "Relato da votação e dos três destaques derrubados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Lula avança com ajuste fiscal baseado em aumento de impostos",
+     "url": "https://www.gazetadopovo.com.br/economia/governo-lula-avanca-com-ajuste-fiscal-baseado-em-aumento-de-impostos/",
+     "angulo": "Enfatiza que o pacote se apoia em aumento de arrecadação.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ajuste fiscal: Senado faz acordo sobre mudança na Lei Kandir, rejeita outras alterações e conclui votação do projeto",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/18/senado-comeca-a-votar-requerimentos-para-modificar-proposta-de-ajuste-fiscal-de-lula.ghtml",
+     "angulo": "Explica o acordo sobre a Lei Kandir e a economia prevista pelo relator.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Senado conclui votação do ajuste fiscal que pode gerar economia de até R$ 60 bi; texto vai à Câmara",
+     "url": "https://www.cartacapital.com.br/economia/senado-conclui-votacao-do-ajuste-fiscal-que-pode-gerar-economia-de-ate-r-60-bi-texto-vai-a-camara/",
+     "angulo": "Destaca que o governo manteve os principais dispositivos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Senado conclui análise do ajuste fiscal após acordo sobre repasses a Estados",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/18/senado-destaques-do-projeto-de-ajuste-fiscal.ghtml",
+     "angulo": "Bastidor da votação e posição do Planejamento sobre a projeção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Ministro de Lula prevê votar ajuste fiscal na Câmara até semana que vem",
+     "url": "https://revistaoeste.com/politica/ajuste-fiscal-na-camara/",
+     "angulo": "Data prevista para a votação na Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Senado mantém teto para compensação previdenciária a estados e municípios no pacote fiscal",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/18/senado-mantem-teto-para-compensacao-previdenciaria-a-estados-e-municipios-no-pacote-fiscal.ghtml",
+     "angulo": "Detalha o limite para a Compensação Previdenciária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Braga diz que corte maior no ajuste fiscal ameaça programas sociais",
+     "url": "https://oantagonista.com.br/brasil/braga-diz-que-corte-maior-no-ajuste-fiscal-ameaca-programas-sociais/",
+     "angulo": "Argumento do relator contra a proposta da oposição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Dólar bate R$ 5,87 e segue no maior patamar desde abril de 2025",
+     "url": "https://www.poder360.com.br/poder-economia/dolar-bate-r-586-e-segue-no-maior-patamar-desde-abril-de-2025/",
+     "angulo": "Reação do câmbio ao impasse e à votação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Moro critica projeto de ajuste fiscal e aponta perdas para os estados",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/18/moro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados",
+     "angulo": "Crítica de Moro às perdas para os estados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Senado barra três destaques de texto base do “plano Moretti” de ajuste fiscal",
+     "url": "https://www.brasil247.com/economia/senado-barra-tres-destaques-de-texto-base-do-plano-moretti-de-ajuste-fiscal/",
+     "angulo": "Registro dos três destaques derrubados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "trump-se-reune-com-putin-e-xi-e-trilateral-comeca-em-shenzhen",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump conversa a sós com Putin e com Xi em Shenzhen antes da inédita reunião a três",
+   "lide": "Trump e Putin tiveram seu primeiro encontro presencial em 15 meses, à margem da cúpula da Apec, e falaram sobre a Ucrânia; depois o americano se reuniu com Xi, que chamou a conversa de 'positiva e construtiva'. Os três começaram em seguida a primeira reunião trilateral entre EUA, China e Rússia.",
+   "contexto": "O premiê do Canadá atribuiu a Lula a ideia da cúpula. Europeus temem um acordo sobre a Ucrânia sem a participação de Kiev.",
+   "fatos": [
+    {
+     "texto": "Trump e Putin tiveram um encontro bilateral em Shenzhen nesta quinta-feira (19) e discutiram a guerra na Ucrânia.",
+     "base": "3 fontes independentes (Bloomberg, Poder360, CNN Brasil)"
+    },
+    {
+     "texto": "Trump também se reuniu com Xi Jinping antes da reunião a três.",
+     "base": "3 fontes independentes (CNN Brasil, Metrópoles, Brasil 247)"
+    },
+    {
+     "texto": "Xi, Trump e Putin começaram a reunião trilateral na tarde de quinta em Shenzhen.",
+     "base": "2 fontes independentes (Folha, Le Monde)"
+    },
+    {
+     "texto": "Países que apoiam a Ucrânia se reúnem nesta quinta em Berlim, na chamada Coalizão dos Voluntários.",
+     "base": "2 fontes independentes (UOL, Al Jazeera)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A conversa com Trump foi 'positiva e construtiva'.",
+     "quem": "Xi Jinping, segundo a Bloomberg"
+    },
+    {
+     "texto": "Não fará acordos com Putin sem a participação da Ucrânia.",
+     "quem": "Donald Trump"
+    },
+    {
+     "texto": "O encontro já é uma 'vitória'.",
+     "quem": "Donald Trump"
+    },
+    {
+     "texto": "A cúpula não será uma 'nova Yalta': os três têm objetivos geopolíticos divergentes.",
+     "quem": "Al Jazeera (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a cúpula foi lida pelo papel atribuído a Lula na ideia do encontro e pelo que o país pode ganhar com uma eventual trégua comercial entre EUA e China.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-18",
+    "id": "carney-diz-que-lula-sugeriu-cupula-trump-xi-putin-que-ocorre-na-quinta",
+    "titulo": "Premiê do Canadá diz que Lula sugeriu a cúpula Trump–Xi–Putin; Putin chega a Shenzhen para o encontro de quinta"
+   },
+   "materias": [
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Meets Putin for First Time in 15 Months, Talks Ukraine",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-meets-with-russia-s-putin-for-first-time-in-over-a-year",
+     "angulo": "Em inglês: primeiro encontro presencial em 15 meses, com a Ucrânia na pauta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Trump, Xi e Putin começam reunião inédita de cúpula",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-xi-e-putin-comecam-reuniao-inedita-de-cupula.shtml",
+     "angulo": "Abertura da reunião a três entre as maiores potências militares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Trump se reúne com Xi Jinping na China após conversa reservada com Putin",
+     "url": "https://www.brasil247.com/mundo/trump-se-reune-com-xi-jinping-na-china-apos-conversa-reservada-com-putin/",
+     "angulo": "Foco nos elogios mútuos e nas tarifas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Trump e Putin discutem Ucrânia antes de trilateral com Xi",
+     "url": "https://www.poder360.com.br/poder-internacional/trump-e-putin-se-encontram-na-china-antes-de-trilateral/",
+     "angulo": "Relato da bilateral com a fala de Trump sobre a relação com Putin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "EN DIRECT, guerre en Ukraine : le sommet inédit entre Xi Jinping, Donald Trump et Vladimir Poutine débute",
+     "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-peu-avant-leur-rencontre-tripartite-en-chine-donald-trump-s-entretient-separement-avec-vladimir-poutine-et-xi-jinping_6810982_3210.html",
+     "angulo": "Em francês: cobertura ao vivo; a bilateral Trump–Putin durou cerca de 40 minutos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Antes de reunião trilateral com Xi, Trump e Putin têm encontro bilateral",
+     "url": "https://www.cnnbrasil.com.br/internacional/trump-e-putin-realizam-encontro-bilateral-durante-cupula-da-apec/",
+     "angulo": "Registra que Putin não falou após a bilateral.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "China Says Xi-Trump Talks Positive, Hails Stable Relations",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/xi-says-he-s-committed-to-working-with-trump-as-two-leaders-meet",
+     "angulo": "Em inglês: versão chinesa da conversa e a trégua comercial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
+     "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
+     "angulo": "Em inglês: análise que relativiza a comparação com Yalta.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Por que a cúpula entre Trump, Xi e Putin está sendo comparada à histórica Conferência de Yalta?",
+     "url": "https://www.estadao.com.br/internacional/por-que-a-cupula-entre-trump-xi-e-putin-esta-sendo-comparada-a-historica-conferencia-de-yalta/",
+     "angulo": "Explica a comparação com a Conferência de Yalta.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Xi Jinping anuncia que irá além do corte de tarifas e Putin aponta fracasso de sanções ocidentais",
+     "url": "https://operamundi.uol.com.br/asia/xi-jinping-anuncia-que-ira-alem-do-corte-de-tarifas-e-putin-aponta-fracasso-de-sancoes-ocidentais/",
+     "angulo": "Destaca o discurso de Xi e a fala de Putin sobre sanções.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin",
+     "url": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin",
+     "angulo": "Em inglês: Zelensky espera relato dos enviados americanos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump, Putin e Xi fazem encontro histórico nesta quinta; saiba o que cada um quer",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/19/trump-putin-e-xi-fazem-encontro-historico-nesta-quinta-saiba-o-que-cada-um-quer.ghtml",
+     "angulo": "O que cada líder busca no encontro.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "andrei-entrega-relatorios-a-fachin-e-cita-quebra-de-confianca",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Andrei entrega a Fachin relatórios sobre ministros e diz no Senado que afastou delegados por quebra de confiança",
+   "lide": "O diretor-geral da PF levou ao presidente do STF, na noite de quarta-feira (18), os relatórios refeitos e um HD com as mensagens e os relatórios originais dos delegados afastados. Horas antes, no Senado, disse que a troca não teve relação com o conteúdo e que a PF investiga o vazamento dos documentos.",
+   "contexto": "A liquidação do Banco Master completou um ano nesta quarta. A troca dos delegados que fizeram os primeiros relatórios sobre ministros do STF abriu uma crise na PF.",
+   "fatos": [
+    {
+     "texto": "Andrei Rodrigues entregou a Edson Fachin, na noite desta quarta-feira (18), os relatórios sobre menções a ministros do STF no caso Master.",
+     "base": "3 fontes independentes (Agência Brasil, g1, Exame)"
+    },
+    {
+     "texto": "Em audiência no Senado, Andrei disse que afastou os dois delegados por 'quebra de confiança', e não pelo conteúdo dos relatórios.",
+     "base": "3 fontes independentes (Estadão, Jovem Pan, Brasil de Fato)"
+    },
+    {
+     "texto": "Andrei afirmou que a PF investiga o vazamento dos relatórios à imprensa.",
+     "base": "3 fontes independentes (O Globo, CNN Brasil, CartaCapital)"
+    },
+    {
+     "texto": "Andrei disse que entregaria a Fachin também um HD com as mensagens e os relatórios originais que considera inadequados.",
+     "base": "3 fontes independentes (g1, Band, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os primeiros relatórios ultrapassaram os limites fixados pelo STF.",
+     "quem": "Andrei Rodrigues, segundo o Diário do Poder"
+    },
+    {
+     "texto": "Ministros do STF estão apreensivos e 'no escuro' sobre os próximos passos de Fachin.",
+     "quem": "Ministros ouvidos pelo Valor"
+    },
+    {
+     "texto": "Fachin se reuniu com Moraes e com o procurador-geral Paulo Gonet antes de receber os relatórios.",
+     "quem": "O Globo"
+    },
+    {
+     "texto": "Fachin enviará os relatórios à PGR, e Gonet terá 15 dias para se manifestar sobre possíveis crimes de ministros.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "Lula recebeu Andrei fora da agenda na noite de terça, no Alvorada.",
+     "quem": "Terra Brasil Notícias"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A direção da PF diz que trocou os delegados por quebra de confiança, que entregará todo o material ao STF e que o ministério não interfere na corporação.",
+    "oposicao": "Senadores cobram explicações sobre a troca de delegados e sobre áudios de Vorcaro que citam ingressos de Fórmula 1 para os filhos de Andrei."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-18",
+    "id": "liquidacao-do-master-faz-um-ano-e-pf-entrega-relatorios-a-fachin",
+    "titulo": "Liquidação do Master faz um ano; PF entrega hoje a Fachin relatórios sobre ministros do STF citados por Vorcaro"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Andrei entrega a Fachin relatórios sobre ministros no caso Master",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/andrei-entrega-fachin-relatorios-sobre-ministros-no-caso-master",
+     "angulo": "Relato da entrega na noite de quarta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Andrei evita responder sobre áudios que citam ingressos de F1 para filhos",
+     "url": "https://oantagonista.com.br/brasil/andrei-evita-responder-sobre-audios-que-citam-ingressos-de-f1-para-filhos/",
+     "angulo": "Destaca a pergunta sem resposta sobre ingressos de F1.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Diretor da PF cita ‘quebra de confiança’ e afirma que afastamento de delegados no caso Master não tem relação com conteúdo de relatórios sobre ministros",
+     "url": "https://www.brasildefato.com.br/2026/11/18/diretor-da-pf-cita-quebra-de-confianca-e-afirma-que-afastamento-de-delegados-no-caso-master-nao-tem-relacao-com-conteudo-de-relatorios-sobre-ministros/",
+     "angulo": "Versão de Andrei: afastamento sem relação com o conteúdo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Andrei justifica afastamento de delegados da PF do caso Master: ‘Houve quebra de confiança’",
+     "url": "https://www.estadao.com.br/politica/andrei-justifica-afastamento-de-delegados-da-pf-do-caso-master-houve-quebra-de-confianca/",
+     "angulo": "Justificativa da quebra de confiança na audiência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "PF investiga vazamento de informações sobre relatórios do caso Master que citam ministros do STF",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/18/pf-investiga-vazamento-de-informacoes-sobre-relatorio-com-mencoes-a-ministros-do-stf-no-caso-master.ghtml",
+     "angulo": "Inquérito sobre o vazamento dos relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Andrei admite que relatórios do Master ultrapassaram limites do STF",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e12-brasil/andrei-admite-que-relatorios-do-master-ultrapassaram-limites-do-stf",
+     "angulo": "Lê a fala de Andrei como admissão de que os relatórios excederam limites.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "No escuro sobre próximos passos de Fachin, ministros do STF demonstram apreensão com relatórios da PF",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/18/no-escuro-sobre-proximos-passos-de-fachin-ministros-do-stf-demonstram-apreensao-com-relatorios-da-pf.ghtml",
+     "angulo": "Apreensão de ministros do STF com os relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Andrei Rodrigues diz que vai entregar HD com mensagens e relatórios dos delegados para presidente do STF",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-rodrigues-diz-que-vai-enviar-hd-com-mensagens-e-relatorios-dos-delegados-para-fachin.ghtml",
+     "angulo": "O que Andrei prometeu entregar a Fachin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Andrei Rodrigues defende afastamentos no caso Master: ‘Quebra de confiança’",
+     "url": "https://jovempan.com.br/politica/andrei-rodrigues-defende-que-afastamentos-no-caso-master-quebra-de-confianca/",
+     "angulo": "Relato da defesa de Andrei no Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Plenário esvaziado, gentilezas da oposição e tropa de choque governista: os bastidores da sessão no Senado com o chefe da PF",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/18/plenario-esvaziado-gentilezas-da-oposicao-e-tropa-de-choque-governista-os-bastidores-da-sessao-no-senado-com-o-chefe-da-pf.ghtml",
+     "angulo": "Bastidores de uma audiência de clima ameno.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Fachin enviará à PGR relatórios da PF sobre ministros citados no caso Master",
+     "url": "https://www.brasil247.com/brasil/fachin-enviara-a-pgr-relatorios-da-pf-sobre-ministros-citados-no-caso-master-em-ate-15-dias/",
+     "angulo": "Próximo passo: os relatórios seguem para a PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "PGR denuncia Flávio Bolsonaro ao STF por calúnia contra Lula em post sobre a prisão de Maduro",
+   "lide": "A Procuradoria-Geral da República acusa o senador de ter atribuído falsamente a Lula crimes como tráfico internacional de drogas e lavagem de dinheiro numa publicação no X, em janeiro. A denúncia foi enviada a Alexandre de Moraes, relator, e o STF decide se Flávio vira réu.",
+   "contexto": "Flávio foi derrotado por Lula no segundo turno, em outubro.",
+   "fatos": [
+    {
+     "texto": "A PGR denunciou Flávio Bolsonaro ao STF por calúnia contra o presidente Lula.",
+     "base": "3 fontes independentes (Folha, Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "A acusação se baseia em publicação feita no X em janeiro, após a prisão de Maduro, em que Flávio associou Lula a crimes como tráfico internacional de drogas e lavagem de dinheiro.",
+     "base": "3 fontes independentes (O Globo, SBT, Revista Oeste)"
+    },
+    {
+     "texto": "A denúncia, assinada pela subprocuradora-geral Luiza Frischeisen, foi enviada a Alexandre de Moraes, relator do caso.",
+     "base": "2 fontes independentes (Revista Oeste, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Flávio associou Lula a esses crimes sem provas.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "O STF pode condenar Flávio se receber a denúncia e julgar o caso.",
+     "quem": "CartaCapital (análise dos próximos passos)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A denúncia foi apresentada nesta quarta-feira (18).",
+     "rotulo": "Contraditório",
+     "explicacao": "Estadão, Valor e Revista Oeste dizem quarta-feira (18); Folha e A Tarde dizem que foi assinada na segunda-feira (16) e divulgada depois.",
+     "onde_circula": "imprensa"
+    },
+    {
+     "alegacao": "Maduro negocia delação premiada nos EUA na qual entregaria Lula.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Não há confirmação de que Maduro negocie acordo de colaboração nem de que citaria Lula; o Estadão Verifica classificou a mensagem como enganosa.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Estadão Verifica",
+       "url": "https://www.estadao.com.br/estadao-verifica/suposta-negociacao-de-maduro-para-delatar-lula-e-boato-sem-confirmacao/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "PGR denuncia Flávio Bolsonaro sob acusação de calúnia contra Lula em postagem sobre Maduro",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/pgr-denuncia-flavio-bolsonaro-sob-acusacao-de-calunia-contra-lula-em-postagem-sobre-maduro.shtml",
+     "angulo": "Relato da denúncia e da postagem sobre Maduro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Flávio é denunciado pela PGR por suposta calúnia contra Lula",
+     "url": "https://revistaoeste.com/politica/flavio-e-denunciado-pela-pgr-por-suposta-calunia-contra-lula/",
+     "angulo": "Chama de 'suposta' calúnia e detalha quem assina a acusação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Os próximos passos de processo em que o STF pode condenar Flávio Bolsonaro",
+     "url": "https://www.cartacapital.com.br/carta-capital/os-proximos-passos-de-processo-em-que-o-stf-pode-condenar-flavio-bolsonaro/",
+     "angulo": "Explica o rito até um eventual julgamento.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "PGR denuncia Flávio Bolsonaro por calúnia por associar Lula a tráfico internacional de drogas",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml",
+     "angulo": "Traz a qualificação da calúnia e o trecho da denúncia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "PGR denuncia Flávio Bolsonaro por suposta calúnia contra Lula",
+     "url": "https://www.gazetadopovo.com.br/republica/pgr-denuncia-flavio-bolsonaro-por-suposta-calunia-contra-lula/",
+     "angulo": "Registro da denúncia com o termo 'suposta'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+     "url": "https://www.brasil247.com/brasil/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/",
+     "angulo": "Afirma que Flávio fez a associação sem provas.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+     "url": "https://jovempan.com.br/politica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/",
+     "angulo": "Cita a frase de que Lula seria 'delatado'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "PGR denuncia Flávio Bolsonaro ao STF por calúnia contra Lula em postagem",
+     "url": "https://www.estadao.com.br/politica/pgr-denuncia-flavio-bolsonaro-ao-stf-por-calunia-contra-lula-em-postagem/",
+     "angulo": "Data a denúncia na quarta-feira (18).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula",
+     "angulo": "Lista os crimes que a PGR diz terem sido imputados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "estadaoverifica",
+     "titulo": "Suposta negociação de Maduro para delatar Lula é boato sem confirmação",
+     "url": "https://www.estadao.com.br/estadao-verifica/suposta-negociacao-de-maduro-para-delatar-lula-e-boato-sem-confirmacao/",
+     "angulo": "Checagem do boato de delação de Maduro contra Lula.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "pf-bloqueia-r-2-3-bi-e-mira-dono-da-esportes-da-sorte",
+   "editoria": "Segurança",
+   "escopo": "brasil",
+   "titulo": "Operação da PF e da Receita bloqueia R$ 2,3 bilhões e mira o dono da bet Esportes da Sorte",
+   "lide": "A Operação Cash Out, da PF, da Receita e do MPF, investiga o grupo Esportes da Sorte, de Pernambuco, por lavagem de dinheiro, evasão de divisas, sonegação e exploração ilegal de apostas. A Justiça bloqueou R$ 2,3 bilhões e foram apreendidos aeronaves, um iate e carros de luxo.",
+   "contexto": "A Esportes da Sorte, fundada em 2018 por Darwin Henrique da Silva Filho, patrocina clubes de futebol e é uma das maiores bets de origem brasileira.",
+   "fatos": [
+    {
+     "texto": "PF, Receita Federal e MPF deflagraram nesta quarta-feira (18) a Operação Cash Out contra o grupo Esportes da Sorte, e o CEO Darwin Henrique da Silva Filho foi alvo de buscas.",
+     "base": "3 fontes independentes (Valor, Estadão, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "A Justiça determinou o bloqueio de mais de R$ 2,3 bilhões em bens do grupo.",
+     "base": "3 fontes independentes (Band, InfoMoney, Poder360)"
+    },
+    {
+     "texto": "Foram apreendidos cinco aeronaves, um iate comprado por R$ 40 milhões e 14 veículos, entre bens como uma casa de R$ 100 milhões e uma cobertura de R$ 42 milhões.",
+     "base": "3 fontes independentes (Estadão, g1, Poder360)"
+    },
+    {
+     "texto": "O grupo é investigado por remessas de ao menos 500 milhões de euros ao exterior.",
+     "base": "2 fontes independentes (Veja, Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A bet usava CPFs de pessoas mortas e de menores de idade para simular apostas e mandar dinheiro ao exterior.",
+     "quem": "Receita Federal, segundo DCM e ICL"
+    },
+    {
+     "texto": "O esquema é um 'modus operandi espalhado pelo setor de apostas no Brasil'.",
+     "quem": "Robinson Barreirinhas, secretário da Receita"
+    },
+    {
+     "texto": "O esquema movimentou R$ 11 bilhões em 2025.",
+     "quem": "Diário do Poder e IstoÉ"
+    },
+    {
+     "texto": "As fortunas das bets precisam pagar a conta de quem adoeceu com o jogo.",
+     "quem": "Leonardo Sakamoto (UOL), reproduzido pelo DCM"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A operação cumpriu 59 mandados de busca e apreensão.",
+     "rotulo": "Contraditório",
+     "explicacao": "Folha e DCM falam em 59 mandados; o Valor, em 25. A diferença pode vir de contagens distintas de alvos e medidas.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Receita, MPF e PF deflagram operação Cash Out, relacionada a bets; dono da Esportes da Sorte é alvo de buscas",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/18/receita-federal-mpf-e-pf-deflagram-operao-cash-out-relacionada-a-bets.ghtml",
+     "angulo": "Relato da operação e do principal alvo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Esquema com bet de Pernambuco movimentou R$ 11 bilhões em 2025",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/csa-brasil/esquema-com-bet-de-pernambuco-movimentou-r-11-bilhoes-em-2025",
+     "angulo": "Dimensão do esquema: R$ 11 bilhões movimentados em 2025.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Esportes da Sorte usou CPFs de mortos e menores para lavar dinheiro",
+     "url": "https://www.diariodocentrodomundo.com.br/esportes-da-sorte-usou-cpfs-de-mortos-e-menores-para-lavar-dinheiro/",
+     "angulo": "Destaca o uso de CPFs de mortos e menores apontado pela Receita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Esquema de bet investigada é ‘modus operandi espalhado pelo setor de apostas’, diz chefe da Receita",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/esquema-de-bet-investigada-e-modus-operandi-espalhado-pelo-setor-de-apostas-diz-chefe-da-receita/",
+     "angulo": "Chefe da Receita diz que o esquema se repete no setor.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alvo da PF, Esportes da Sorte cresceu no futebol e liderou entre as bets de origem brasileira",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/alvo-da-pf-esportes-da-sorte-cresceu-no-futebol-e-liderou-entre-as-bets-de-origem-brasileira.shtml",
+     "angulo": "Perfil da empresa e de sua expansão no futebol.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Iate, carros de luxo e mais de R$ 2 bilhões bloqueados: a operação da PF contra a bet Esportes da Sorte",
+     "url": "https://veja.abril.com.br/brasil/iate-carros-de-luxo-e-mais-r-2-bilhoes-em-bens-a-operacao-da-pf-contra-a-bet-esportes-da-sorte/",
+     "angulo": "Bens bloqueados e remessas ao exterior.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Quem é Darwin Filho, CEO de casa de apostas que foi alvo da PF nesta quarta",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/18/quem-e-darwin-filho-ceo-de-bet-que-foi-alvo-da-pf-nesta-quarta.ghtml",
+     "angulo": "Perfil do CEO alvo da operação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Bet usava CPFs de mortos e menores para simular apostas e lavar dinheiro, diz Receita",
+     "url": "https://iclnoticias.com.br/bet-cpf-mortos-menores-lavagem-dinheiro-receita/",
+     "angulo": "Detalha a simulação de apostas descrita pela Receita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "De Ferrari a iate: veja apreensões da PF em operação contra apostas ilegais",
+     "url": "https://www.poder360.com.br/poder-seguranca-publica/de-ferrari-a-iate-veja-apreensoes-da-pf-em-operacao-contra-apostas-ilegais/",
+     "angulo": "Lista dos bens apreendidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "PF mira esquema de bets que movimentou R$ 11 bilhões e bloqueia R$ 2,3 bilhões",
+     "url": "https://istoe.com.br/pf-operacao-cash-out-bets-11-bilhoes-bloqueio",
+     "angulo": "Valor movimentado e bloqueado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "PF apreende iate de R$ 40 milhões que dono da Esportes da Sorte comprou de Luciano Huck",
+     "url": "https://revistaforum.com.br/brasil/pf-iate-esportes-da-sorte-luciano-huck/",
+     "angulo": "Origem do iate apreendido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "uol",
+     "titulo": "Como a bet Esportes da Sorte bancou e dominou as festas populares do NE",
+     "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/11/19/como-a-esportes-da-sorte-bancou-e-dominou-as-maiores-festas-publicas-do-ne.htm",
+     "angulo": "Como a bet patrocinou festas populares no Nordeste.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "ibge-mostra-desvantagem-de-pretos-e-pardos-em-renda-e-seguranca",
+   "editoria": "Sociedade",
+   "escopo": "brasil",
+   "titulo": "IBGE: trabalhador branco ganha cerca de 70% mais que o negro, e pretos e pardos são 71% das vítimas de homicídio",
+   "lide": "A terceira edição do estudo Desigualdades Sociais por Cor ou Raça, divulgada às vésperas do Dia da Consciência Negra, mostra desvantagem de pretos e pardos em renda, educação, emprego, moradia, segurança e representação política.",
+   "contexto": "Pretos e pardos são a maioria da população e mais da metade dos trabalhadores ocupados no país.",
+   "fatos": [
+    {
+     "texto": "Trabalhadores brancos receberam em média R$ 4.425 por mês em 2025, cerca de 71% mais que pretos (R$ 2.585) e 66% mais que pardos (R$ 2.672).",
+     "base": "estudo do IBGE (relatado pela Folha)"
+    },
+    {
+     "texto": "Pretos e pardos são 55,1% dos trabalhadores ocupados, mas ocupam 30,7% dos cargos gerenciais.",
+     "base": "estudo do IBGE; 2 fontes independentes (Agência Brasil, SBT)"
+    },
+    {
+     "texto": "19% dos brancos com 25 anos ou mais tinham ensino superior completo em 2025, contra 9,2% dos pretos e pardos.",
+     "base": "estudo do IBGE (relatado pela Agência Brasil)"
+    },
+    {
+     "texto": "Dois em cada três desocupados no país são pretos ou pardos.",
+     "base": "estudo do IBGE; 2 fontes independentes (UOL, Estadão)"
+    },
+    {
+     "texto": "Pretos e pardos são cerca de 71% das vítimas de homicídio, e a parcela aumentou mesmo com a queda dos homicídios.",
+     "base": "estudo do IBGE; 3 fontes independentes (Folha, CNN Brasil, Jovem Pan)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A desigualdade racial na educação persiste mesmo entre alunos de alta renda e de escola privada.",
+     "quem": "O Globo, com base no estudo"
+    },
+    {
+     "texto": "A Bahia foi o estado que mais tirou pessoas negras da pobreza, em números absolutos, entre 2012 e 2025.",
+     "quem": "A Tarde, com base no estudo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Trabalhador branco pode receber cerca de 70% mais que negro, aponta IBGE",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/trabalhador-branco-pode-receber-cerca-de-70-mais-que-negro-aponta-ibge.shtml",
+     "angulo": "Diferença de renda entre brancos, pretos e pardos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Pretos e pardos são 71% das vítimas de homicídio no Brasil, aponta IBGE",
+     "url": "https://jovempan.com.br/economia/macroeconomia/pretos-e-pardos-sao-71-das-vitimas-de-homicidio-no-brasil-aponta-ibge/",
+     "angulo": "Foco na violência: maioria das vítimas de homicídio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Pretos e pardos ocupam apenas 30,7% dos cargos gerenciais, mostra IBGE",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge",
+     "angulo": "Sub-representação em cargos de gerência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Taxa de desocupação é maior entre pessoas negras mesmo entre aquelas com ensino superior",
+     "url": "https://www.brasildefato.com.br/2026/11/18/taxa-de-desocupacao-e-maior-entre-pessoas-negras-mesmo-entre-aquelas-com-ensino-superior/",
+     "angulo": "Desemprego maior entre negros mesmo com ensino superior.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Desigualdade racial resiste mesmo entre alunos de escola privada e com alta renda, aponta IBGE",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/18/desigualdade-racial-resiste-mesmo-entre-alunos-de-escola-privada-e-com-alta-renda-aponta-ibge.ghtml",
+     "angulo": "Desigualdade na educação entre alunos de alta renda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Dois em cada três desempregados no Brasil são pretos ou pardos, aponta IBGE",
+     "url": "https://www.estadao.com.br/economia/ibge-desempregados-brasil-pretos-pardos/",
+     "angulo": "Peso de pretos e pardos entre os desocupados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Mulher negra com graduação ganha metade da hora de homem branco, diz IBGE",
+     "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/mulher-negra-com-graduacao-ganha-metade-da-hora-de-homem-branco-diz-ibge/",
+     "angulo": "Diferença de renda por hora entre mulher negra e homem branco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Mulheres pretas ocupam 1,7% dos cargos de chefia no setor privado",
+     "url": "https://www.poder360.com.br/poder-brasil/mulheres-pretas-ocupam-17-dos-cargos-de-chefia-no-setor-privado/",
+     "angulo": "Presença de mulheres pretas em chefias no setor privado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
+     "angulo": "Panorama geral do estudo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Bahia lidera saída de pessoas negras da pobreza, diz IBGE",
+     "url": "https://atarde.com.br/politica/bahia-lidera-saida-da-pobreza-e-tem-49-milhoes-de-negros-vulneraveis-1409870",
+     "angulo": "Recorte regional: saída de pessoas negras da pobreza na Bahia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Homens negros são 71,3% das vítimas de homicídio no Brasil",
+     "url": "https://www.brasil247.com/brasil/homens-negros-sao-713-das-vitimas-de-homicidio-no-brasil/",
+     "angulo": "Foco nas vítimas de homicídio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "hegseth-vai-a-caracas-e-eua-e-venezuela-retomam-cooperacao-militar",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Em visita surpresa a Caracas, Hegseth anuncia acordo de cooperação militar entre EUA e Venezuela",
+   "lide": "O secretário de Defesa dos EUA se reuniu com a presidente interina, Delcy Rodríguez, e anunciou um acordo que prevê treinamento, troca de inteligência e combate ao narcotráfico. É a visita americana de mais alto escalão desde a captura de Maduro por forças dos EUA.",
+   "contexto": "Nicolás Maduro foi capturado por forças americanas no início do ano e Delcy Rodríguez assumiu interinamente.",
+   "fatos": [
+    {
+     "texto": "Pete Hegseth fez nesta quarta-feira (18) uma visita não anunciada a Caracas e anunciou um acordo de cooperação militar com a Venezuela.",
+     "base": "3 fontes independentes (Folha, Bloomberg, AFP)"
+    },
+    {
+     "texto": "Hegseth se reuniu com a presidente interina, Delcy Rodríguez, no Palácio de Miraflores.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Valor)"
+    },
+    {
+     "texto": "O acordo prevê treinamento militar, troca de inteligência e combate ao narcotráfico.",
+     "base": "3 fontes independentes (g1, Gazeta do Povo, Bloomberg)"
+    },
+    {
+     "texto": "É a visita de autoridade americana de mais alto escalão desde que forças dos EUA tiraram Maduro do poder.",
+     "base": "3 fontes independentes (Estadão, Exame, AFP)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O acordo retoma uma cooperação militar rompida por Hugo Chávez há cerca de 21 anos.",
+     "quem": "Clarín e Jovem Pan"
+    },
+    {
+     "texto": "Venezuela e EUA transformaram 'em apenas meses' momentos 'muito difíceis e muito duros'.",
+     "quem": "Delcy Rodríguez"
+    },
+    {
+     "texto": "Hegseth usou a visita para exaltar a captura de Maduro, que chamou de 'a operação militar mais sofisticada da história da América Latina'.",
+     "quem": "The Guardian"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, vizinho da Venezuela, a visita foi noticiada como sinal da reaproximação entre Washington e Caracas; veículos de esquerda chamam a captura de Maduro de sequestro.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Hegseth vai a Caracas, e EUA e Venezuela anunciam acordo militar",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/hegseth-vai-a-caracas-e-eua-e-venezuela-anunciam-acordo-militar.shtml",
+     "angulo": "Relato da visita e do encontro com Delcy Rodríguez.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "EUA anunciam acordo militar que prevê treinamento e troca de inteligência com a Venezuela",
+     "url": "https://www.gazetadopovo.com.br/mundo/eua-anunciam-acordo-militar-que-preve-treinamento-e-troca-de-inteligencia-com-a-venezuela/",
+     "angulo": "O que o acordo prevê: treinamento, inteligência e combate ao narcotráfico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Pentágono anuncia cooperação militar com Venezuela 10 meses após sequestro de Maduro",
+     "url": "https://operamundi.uol.com.br/america-latina/chefe-pentagono-anuncia-cooperacao-militar-eua-com-venezuela-meses-apos-sequestro-maduro/",
+     "angulo": "Chama a captura de Maduro de sequestro e vê reviravolta improvável.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Hegseth Signs Venezuela Military Agreement In Unannounced Visit",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/hegseth-travels-to-venezuela-for-talks-with-interim-government",
+     "angulo": "Em inglês: acordo assinado e ajuda contra cartéis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Venezuela e EUA retomam cooperação militar rompida por Hugo Chávez há mais de 20 anos",
+     "url": "https://jovempan.com.br/mundo/venezuela-e-eua-retomam-cooperacao-militar-rompida-por-hugo-chavez-ha-mais-de-20-anos/",
+     "angulo": "Retomada da cooperação rompida por Chávez e fala de Delcy.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+     "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+     "angulo": "Em inglês: Hegseth exalta a captura de Maduro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "EUA e Venezuela assinam acordo militar durante visita do chefe do Pentágono a Caracas",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/18/secretario-de-guerra-dos-eua-visita-venezuela-e-diz-que-pretende-ampliar-parceria-militar-entre-os-paises.ghtml",
+     "angulo": "Abrangência do acordo, do treinamento à inteligência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Chefe do Pentágono anuncia acordo de cooperação militar com a Venezuela",
+     "url": "https://www.cartacapital.com.br/mundo/chefe-do-pentagono-anuncia-acordo-de-cooperacao-militar-com-a-venezuela/",
+     "angulo": "Versão de Delcy sobre os objetivos do acordo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Visita sorpresa del jefe del Pentágono a Venezuela: se reunió con Delcy Rodríguez y anunció que EE.UU. retoma un acuerdo militar roto por Hugo Chávez",
+     "url": "https://www.clarin.com/mundo/visita-sorpresa-jefe-pentagono-venezuela-reunio-delcy-rodriguez-anuncio-eeuu-retoma-acuerdo-militar-roto-hugo-chavez_0_H63KaxkCiR.html",
+     "angulo": "Em espanhol: acordo retomado após 21 anos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "wapo",
+     "titulo": "Hegseth makes surprise appearance in Venezuela, renews military partnership",
+     "url": "https://www.washingtonpost.com/world/2026/11/18/hegseth-makes-surprise-appearance-venezuela-renews-military-partnership/",
+     "angulo": "Em inglês: visita menos de um ano após a captura de Maduro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+     "angulo": "Em inglês: por que os EUA reforçam laços militares com Caracas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "moro-escolhe-ex-procurador-da-lava-jato-para-secretaria-anticorrupcao",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Moro escolhe ex-procurador da Lava Jato Carlos Fernando dos Santos Lima para nova Secretaria Anticorrupção do Paraná",
+   "lide": "O governador eleito do Paraná anunciou o procurador aposentado para comandar a pasta que prometeu na campanha. Santos Lima integrou a primeira equipe da Lava Jato em Curitiba, quando Moro era o juiz do caso.",
+   "contexto": "Sergio Moro (PL) foi eleito governador do Paraná em outubro e toma posse em janeiro.",
+   "fatos": [
+    {
+     "texto": "Sergio Moro anunciou nesta quarta-feira (18) o ex-procurador Carlos Fernando dos Santos Lima como futuro secretário Anticorrupção do Paraná.",
+     "base": "3 fontes independentes (Folha, Gazeta do Povo, O Antagonista)"
+    },
+    {
+     "texto": "Santos Lima é procurador da República aposentado e integrou a força-tarefa da Lava Jato.",
+     "base": "3 fontes independentes (Folha, Gazeta do Povo, Brasil de Fato)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A pasta terá programas de compliance, canal de denúncias e servidores qualificados para barrar desvios.",
+     "quem": "Veja"
+    },
+    {
+     "texto": "A secretaria vai identificar desvio de verba pública e enriquecimento ilícito de servidores.",
+     "quem": "O Antagonista, com base no anúncio de Moro"
+    },
+    {
+     "texto": "O escolhido vazava dados da Lava Jato para a imprensa.",
+     "quem": "Brasil de Fato"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Moro anuncia ex-procurador da Lava Jato para comandar futura secretaria Anticorrupção no Paraná",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/moro-anuncia-ex-procurador-da-lava-jato-para-comandar-futura-secretaria-anticorrupcao-no-parana.shtml",
+     "angulo": "Anúncio do nome e da atuação dele na Lava Jato.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Moro cria ‘Secretaria Anticorrupção’ no PR e indica ex-procurador que vazava dados da Lava Jato para a imprensa",
+     "url": "https://www.brasildefato.com.br/2026/11/18/moro-cria-secretaria-anticorrupcao-no-pr-e-indica-ex-procurador-que-vazava-dados-da-lava-jato-para-a-imprensa/",
+     "angulo": "Enfatiza acusação de que o escolhido vazava dados da Lava Jato.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Sergio Moro anuncia ex-integrante da Lava Jato para nova secretaria Anticorrupção",
+     "url": "https://www.gazetadopovo.com.br/parana/sergio-moro-anuncia-ex-integrante-da-lava-jato-para-nova-secretaria-anticorrupcao/",
+     "angulo": "Currículo do ex-procurador e anúncio da secretaria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Como funcionará a Secretaria Anticorrupção criada por Sergio Moro no Paraná",
+     "url": "https://veja.abril.com.br/politica/como-funcionara-a-secretaria-anticorrupcao-criada-por-sergio-moro-no-parana/",
+     "angulo": "Como a nova pasta vai funcionar.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Moro escolhe ex-Lava Jato para comandar ‘Secretaria Anticorrupção’ no Paraná",
+     "url": "https://www.cartacapital.com.br/politica/moro-escolhe-ex-lava-jato-para-comandar-secretaria-anticorrupcao-no-parana/",
+     "angulo": "Registro da escolha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Moro escolhe ex-procurador da Lava Jato para secretaria anticorrupção no Paraná",
+     "url": "https://oantagonista.com.br/brasil/moro-escolhe-ex-procurador-da-lava-jato-para-secretaria-anticorrupcao-no-parana/",
+     "angulo": "Atribuições da secretaria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Sérgio Moro escolhe ex-procurador da Lava Jato como secretário",
+     "url": "https://www.estadao.com.br/politica/sergio-moro-escolhe-ex-procurador-da-lava-jato-como-secretario-nprp/",
+     "angulo": "Relato da nomeação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Moro cria Secretaria Anticorrupção e entrega cargo a nome da Vaza Jato",
+     "url": "https://www.diariodocentrodomundo.com.br/moro-cria-secretaria-anticorrupcao-e-entrega-cargo-a-nome-da-vaza-jato/",
+     "angulo": "Liga o escolhido às mensagens da Vaza Jato.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "democratas-indicam-jeffries-para-presidir-a-camara-dos-eua",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Democratas indicam Hakeem Jeffries para presidir a Câmara dos EUA; ele pode ser o primeiro negro no cargo",
+   "lide": "Após vencerem as eleições de meio de mandato, os democratas escolheram Jeffries como candidato à presidência da Câmara a partir de janeiro. A rebelião da ala progressista contra ele não se materializou, e Jeffries promete investigar o governo Trump.",
+   "contexto": "Os democratas conquistaram a maioria na Câmara e no Senado nas eleições de novembro.",
+   "fatos": [
+    {
+     "texto": "A bancada democrata indicou Hakeem Jeffries nesta quarta-feira (18) para a presidência da Câmara dos Representantes.",
+     "base": "3 fontes independentes (AFP, BBC, Axios)"
+    },
+    {
+     "texto": "Se confirmado em plenário, Jeffries será o primeiro negro a presidir a Câmara dos EUA.",
+     "base": "3 fontes independentes (AFP, O Antagonista, Metrópoles)"
+    },
+    {
+     "texto": "Menos de uma dúzia de deputados democratas votou contra a indicação.",
+     "base": "2 fontes independentes (Axios, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Jeffries teve 251 dos 262 votos na votação a portas fechadas.",
+     "quem": "O Antagonista"
+    },
+    {
+     "texto": "Os democratas vão investigar o governo Trump.",
+     "quem": "Hakeem Jeffries"
+    },
+    {
+     "texto": "'Eles venceram': Trump disse que convidará democratas à Casa Branca.",
+     "quem": "Donald Trump, segundo a CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a escolha foi destacada pelo marco de um possível primeiro presidente negro da Câmara americana, na semana da Consciência Negra.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "US Democrats nominate Jeffries to be first Black House speaker",
+     "url": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
+     "angulo": "Em inglês: Jeffries perto de ser o primeiro presidente negro da Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Hakeem Jeffries Wins Nomination to be House Speaker",
+     "url": "https://www.breitbart.com/politics/2026/11/18/hakeem-jeffries-wins-nomination-to-be-house-speaker/",
+     "angulo": "Em inglês: registro da indicação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "\"There'll be no hostage-taking\": The anti-Jeffries rebellion that failed to materialize",
+     "url": "https://www.axios.com/2026/11/19/hakeem-jeffries-speaker-vote-left-progressives",
+     "angulo": "Em inglês: a rebelião da esquerda contra Jeffries fracassou.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Democratas escolhem Jeffries para comandar a Câmara dos EUA",
+     "url": "https://oantagonista.com.br/mundo/democratas-escolhem-jeffries-para-comandar-a-camara-dos-eua/",
+     "angulo": "Placar da votação interna.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Hakeem Jeffries será primeiro negro a presidir Câmara de Representantes dos EUA",
+     "url": "https://operamundi.uol.com.br/estados-unidos/em-indicacao-historica-hakeem-jeffries-sera-primeiro-negro-a-presidir-camara-dos-eua/",
+     "angulo": "Destaca o marco histórico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Indicado para presidir Câmara, líder democrata promete investigar Trump",
+     "url": "https://www.metropoles.com/mundo/indicado-para-presidir-camara-lider-democrata-promete-investigar-trump",
+     "angulo": "Promessa de investigar Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Em inglês: relato da indicação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Hakeem Jeffries é escolhido pelos democratas e deve se tornar 1º presidente negro da Câmara dos Estados Unidos",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/hakeem-jeffries-e-escolhido-pelos-democratas-e-deve-se-tornar-1o-negro-presidente-da-camara-dos-estados-unidos.shtml",
+     "angulo": "Relato da escolha e do marco histórico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "A un paso de ser el jefe demócrata en el Congreso, Hakeem Jeffries promete que investigarán a Trump",
+     "url": "https://www.lanacion.com.ar/estados-unidos/a-un-paso-de-ser-el-jefe-democrata-en-el-congreso-hakeem-jeffries-promete-que-investigaran-a-trump-nid18112026/",
+     "angulo": "Em espanhol: Jeffries promete investigar Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Trump diz que convidará democratas para a Casa Branca: “Eles venceram”",
+     "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-convidara-democratas-para-a-casa-branca-eles-venceram/",
+     "angulo": "Reação de Trump à vitória democrata.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
+     "url": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
+     "angulo": "Em francês: perfil de Jeffries e o marco histórico.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    }
+   ]
+  }
+ ]
+}

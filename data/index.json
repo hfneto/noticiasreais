@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-18T09:01:35+00:00",
+ "atualizado_em": "2026-11-19T08:59:45+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-19",
+   "arquivo": "data/edicoes/2026-11-19.json",
+   "historias": 9,
+   "gerado_em": "2026-11-19T05:59:45-03:00",
+   "manchete": "Senado rejeita mudanças da oposição e conclui o ajuste fiscal; Câmara deve votar até terça"
+  },
   {
    "data": "2026-11-18",
    "arquivo": "data/edicoes/2026-11-18.json",
