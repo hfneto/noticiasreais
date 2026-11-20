@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-19T08:59:45+00:00",
+ "atualizado_em": "2026-11-20T08:58:00+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-20",
+   "arquivo": "data/edicoes/2026-11-20.json",
+   "historias": 10,
+   "gerado_em": "2026-11-20T05:58:00-03:00",
+   "manchete": "Trump, Xi e Putin encerram a primeira cúpula a três com declaração de que guerra nuclear nunca deve ser travada"
+  },
   {
    "data": "2026-11-19",
    "arquivo": "data/edicoes/2026-11-19.json",

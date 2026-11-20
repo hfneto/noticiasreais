@@ -1,0 +1,1423 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-20",
+ "gerado_em": "2026-11-20T05:58:00-03:00",
+ "historias": [
+  {
+   "id": "trump-xi-e-putin-encerram-cupula-com-declaracao-sobre-armas-nucleares",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump, Xi e Putin encerram a primeira cúpula a três com declaração de que guerra nuclear nunca deve ser travada",
+   "lide": "Em cerca de 80 minutos em Shenzhen, os três líderes discutiram armas nucleares, Ucrânia e segurança internacional e, segundo China e Rússia, adotaram uma 'declaração de paz'. Também concordaram em ampliar a oferta global de combustíveis; não houve anúncio sobre a guerra na Ucrânia.",
+   "contexto": "Foi a primeira reunião trilateral entre os líderes de EUA, China e Rússia, à margem da cúpula da Apec. O premiê canadense atribuiu a ideia a Lula.",
+   "fatos": [
+    {
+     "texto": "Xi, Trump e Putin fizeram nesta quinta-feira (19), em Shenzhen, a primeira reunião trilateral entre os três países.",
+     "base": "3 fontes independentes (g1, Estadão, AFP)"
+    },
+    {
+     "texto": "Segundo China e Rússia, os três adotaram uma 'declaração de paz' em que reafirmam que uma guerra nuclear nunca deve ser travada.",
+     "base": "2 fontes independentes (Valor, Exame)"
+    },
+    {
+     "texto": "Os líderes concordaram em ampliar a oferta global de combustíveis.",
+     "base": "2 fontes independentes (Bloomberg, Exame)"
+    },
+    {
+     "texto": "Xi defendeu que armas nucleares 'devem ser completamente proibidas e destruídas'; Trump disse ser 'difícil se desfazer' delas, mas defendeu discutir a redução dos arsenais.",
+     "base": "vídeo do evento; 2 fontes independentes (g1, Estadão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A declaração conjunta não menciona a guerra na Ucrânia, e depois do encontro Trump pressionou a Europa por mais gastos com Kiev.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "A declaração inclui críticas ao Tribunal Penal Internacional.",
+     "quem": "Exame"
+    },
+    {
+     "texto": "Trump chegou em desvantagem à cúpula, diante de um Putin sorridente.",
+     "quem": "g1 (análise)"
+    },
+    {
+     "texto": "A Europa perdeu seu lugar à mesa dos poderosos.",
+     "quem": "Jovem Pan (opinião)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A cúpula terminou sem acordos.",
+     "rotulo": "Contraditório",
+     "explicacao": "A CartaCapital noticiou o fim da reunião 'sem anunciar acordos'; Valor e Exame relatam a adoção de uma 'declaração de paz', com base em China e Rússia. A duração também varia: 80 minutos (Estadão, CartaCapital) ou 90 minutos (Brasil 247).",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a cúpula foi acompanhada pelo papel atribuído a Lula na ideia do encontro e pelo efeito da promessa de mais oferta de combustíveis sobre os preços.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-19",
+    "id": "trump-se-reune-com-putin-e-xi-e-trilateral-comeca-em-shenzhen",
+    "titulo": "Trump conversa a sós com Putin e com Xi em Shenzhen antes da inédita reunião a três"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Trump, Xi e Putin finalizam reunião trilateral histórica com 'declaração de paz' sobre armas nucleares",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/19/trump-xi-e-putin-realizam-reunio-trilateral-histrica.ghtml",
+     "angulo": "Destaca a 'declaração de paz' sobre armas nucleares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Trump-Xi-Putin Share Historic Summit with Ukraine, Iran War at Top of Agenda",
+     "url": "https://www.breitbart.com/europe/2026/11/19/trump-xi-putin-share-historic-summit-with-ukraine-iran-war-at-top-of-agenda/",
+     "angulo": "Em inglês: Ucrânia, armas nucleares e Irã no topo da pauta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Putin, Trump e XI Jinping encerram primeira reunião trilateral sem anunciar acordos",
+     "url": "https://www.cartacapital.com.br/mundo/putin-trump-e-xi-jinping-encerram-primeira-reuniao-trilateral-sem-anunciar-acordos/",
+     "angulo": "Registra o fim do encontro sem anúncio de acordos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Xi, Trump, Putin Agree to Increase Supply of Global Fuels",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/xi-hosts-groundbreaking-trilateral-meeting-with-trump-putin",
+     "angulo": "Em inglês: acordo para ampliar a oferta global de combustíveis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Xi Jinping diz que armas nucleares 'devem ser completamente proibidas e destruídas'",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/19/xi-jinping-defende-mundo-livre-de-armas-nucleares.ghtml",
+     "angulo": "Fala de Xi por um mundo sem armas nucleares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "De Yalta a Shenzhen: a Europa perdeu seu lugar à mesa dos poderosos",
+     "url": "https://jovempan.com.br/colunistas/jesualdo-junior/de-yalta-a-shenzhen-a-europa-perdeu-seu-lugar-a-mesa-dos-poderosos/",
+     "angulo": "Argumenta que a Europa perdeu espaço entre as potências.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "China, EUA e Rússia adotam 'declaração de paz' em cúpula histórica de líderes",
+     "url": "https://exame.com/mundo/china-eua-e-russia-adotam-declaracao-de-paz-em-cupula-historica-de-lideres/",
+     "angulo": "O que foi acordado, incluindo críticas ao TPI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Após encontro com Putin e Xi, Trump pressiona Europa por gastos com Ucrânia",
+     "url": "https://www.brasil247.com/mundo/apos-encontro-com-putin-e-xi-trump-pressiona-europa-por-gastos-com-ucrania/",
+     "angulo": "Declaração sem menção à Ucrânia e cobrança de Trump à Europa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump diz que é 'difícil se desfazer de armas nucleares' e prega cooperação para não proliferação",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/19/trump-diz-que-e-dificil-se-dafazer-de-armas-nucleares-e-prega-cooperacao-para-nao-cooperacao.ghtml",
+     "angulo": "Posição de Trump sobre arsenais nucleares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Xi, Trump e Putin discutem arsenais nucleares e ressaltam necessidade de diálogo em encontro",
+     "url": "https://www.estadao.com.br/internacional/xi-trump-e-putin-dao-inicio-a-reuniao-trilateral-npr/",
+     "angulo": "Duração do encontro e tom de cooperação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Nuclear arms at the center of the Shenzhen trilateral meeting",
+     "url": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
+     "angulo": "Em inglês: armas nucleares no centro da agenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Is Trump helping rehabilitate Putin on the world stage?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
+     "angulo": "Em inglês: a cúpula ajuda a reabilitar Putin?",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "fachin-envia-a-pgr-relatorios-sobre-quatro-ministros-do-stf",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin envia à PGR relatórios da PF sobre Moraes, Toffoli, Nunes Marques e Mendonça e arquiva outros seis",
+   "lide": "O presidente do STF mandou à Procuradoria-Geral da República quatro dos relatórios da PF sobre citações a ministros nas mensagens de Daniel Vorcaro e arquivou os outros. Cada ministro recebeu só o documento que o menciona, e a PGR tem 15 dias para avaliar se há base para investigar.",
+   "contexto": "Na quarta, o diretor-geral da PF, Andrei Rodrigues, entregou a Fachin os relatórios refeitos e os originais dos delegados afastados.",
+   "fatos": [
+    {
+     "texto": "Fachin enviou à PGR nesta quinta-feira (19) quatro relatórios da PF com citações aos ministros Alexandre de Moraes, Kassio Nunes Marques, Dias Toffoli e André Mendonça.",
+     "base": "3 fontes independentes (Folha, Agência Brasil, CartaCapital)"
+    },
+    {
+     "texto": "Fachin arquivou outros seis relatórios sobre ministros.",
+     "base": "2 fontes independentes (Gazeta do Povo, Brasil 247)"
+    },
+    {
+     "texto": "Cada ministro citado recebeu apenas o relatório que trata de si.",
+     "base": "3 fontes independentes (Exame, O Globo, SBT)"
+    },
+    {
+     "texto": "A PGR terá 15 dias para se manifestar sobre o material.",
+     "base": "2 fontes independentes (DCM, Terra Brasil Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A PGR criou um núcleo para analisar os relatórios.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "A PF fez interpretações tendenciosas nos relatórios, que devem ser corrigidos antes de uma eventual denúncia.",
+     "quem": "Paulo Henrique Costa, ex-presidente do BRB, indiciado no caso"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-19",
+    "id": "andrei-entrega-relatorios-a-fachin-e-cita-quebra-de-confianca",
+    "titulo": "Andrei entrega a Fachin relatórios sobre ministros e diz no Senado que afastou delegados por quebra de confiança"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça após citações no caso Master",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/fachin-envia-a-pgr-relatorios-sobre-moraes-kassio-toffoli-e-mendonca-apos-citacoes-no-caso-master.shtml",
+     "angulo": "Quais ministros foram citados e o que vai à PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Caso Master: Fachin arquiva 6 relatórios sobre ministros do STF e envia 4 à PGR",
+     "url": "https://www.gazetadopovo.com.br/republica/caso-master-fachin-compartilha-relatorios-da-pf-com-ministros-do-stf/",
+     "angulo": "Destaca o arquivamento de seis relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Fachin envia à PGR relatórios sobre relações de Moraes, Nunes Marques, Toffoli e Mendonça com Daniel Vorcaro",
+     "url": "https://www.brasildefato.com.br/2026/11/19/fachin-envia-a-pgr-relatorios-sobre-relacoes-de-moraes-nunes-marques-toffoli-e-mendonca-com-daniel-vorcaro/",
+     "angulo": "Relações dos quatro ministros com Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Caso Master: Fachin envia relatórios da PF a ministros do STF citados em mensagens de Vorcaro",
+     "url": "https://exame.com/brasil/caso-master-fachin-envia-relatorios-da-pf-a-ministros-do-stf-citados-em-mensagens-de-vorcaro/",
+     "angulo": "Cada ministro recebeu só o documento sobre si.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Fachin envia à PGR relatórios sobre quatro ministros do STF",
+     "url": "https://oantagonista.com.br/brasil/fachin-envia-a-pgr-relatorios-sobre-quatro-ministros-do-stf/",
+     "angulo": "Registro do envio à PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-fachin-encaminha-pgr-citacoes-quatro-ministros-do-stf",
+     "angulo": "Relato oficial da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Fachin envia relatórios da PF para os ministros citados em investigação do Master",
+     "url": "https://www.jota.info/stf/do-supremo/fachin-envia-relatorios-da-pf-para-os-ministros-citados-em-investigacao-do-master",
+     "angulo": "Bastidor sobre o que cada ministro recebeu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ex-presidente do BRB pede a Fachin que PF revise relatórios sobre Master",
+     "url": "https://www.cnnbrasil.com.br/politica/ex-presidente-do-brb-pede-a-fachin-que-pf-revise-relatorios-sobre-master/",
+     "angulo": "Defesa de investigado contesta os relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PGR cria núcleo para analisar relatórios da PF sobre ministros do STF no caso Master",
+     "url": "https://www.brasil247.com/brasil/pgr-cria-nucleo-para-analisar-relatorios-da-pf-sobre-ministros-do-stf-no-caso-master/",
+     "angulo": "Próximo passo na PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "PF entrega dez relatórios sobre ministros do STF à PGR no caso Banco Master",
+     "url": "https://terrabrasilnoticias.com/2026/11/pf-entrega-dez-relatorios-sobre-ministros-do-stf-a-pgr-no-caso-banco-master/",
+     "angulo": "Número total de relatórios produzidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "moraes-marca-para-4-de-dezembro-julgamento-da-lei-da-dosimetria",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Moraes libera ações e STF julga a Lei da Dosimetria, que pode reduzir pena de Bolsonaro, a partir de 4 de dezembro",
+   "lide": "Dois dias depois da cobrança de Hugo Motta e Davi Alcolumbre, Alexandre de Moraes liberou para o plenário virtual as ações contra a lei que reduz penas de condenados pelo 8 de Janeiro e pela trama golpista. A votação vai de 4 a 15 de dezembro.",
+   "contexto": "A lei foi aprovada pelo Congresso e está suspensa por decisão de Moraes desde maio. Bolsonaro foi condenado a 27 anos e três meses.",
+   "fatos": [
+    {
+     "texto": "Moraes liberou nesta quinta-feira (19) as ações sobre a Lei da Dosimetria, e o julgamento no plenário virtual começa em 4 de dezembro.",
+     "base": "3 fontes independentes (Folha, Agência Brasil, g1)"
+    },
+    {
+     "texto": "A votação virtual vai de 4 a 15 de dezembro.",
+     "base": "2 fontes independentes (UOL, Exame)"
+    },
+    {
+     "texto": "A lei permite reduzir penas de condenados pela trama golpista e pelo 8 de Janeiro, entre eles Jair Bolsonaro.",
+     "base": "3 fontes independentes (Folha, CartaCapital, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A validação da lei pode reduzir a resistência bolsonarista à reelição de Motta e Alcolumbre.",
+     "quem": "Jota"
+    },
+    {
+     "texto": "Julgar a dosimetria permitiria 'virar a página' do 8 de Janeiro.",
+     "quem": "Hugo Motta, segundo a Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Serão julgadas quatro ações sobre a lei.",
+     "rotulo": "Contraditório",
+     "explicacao": "Congresso em Foco e uma versão da Folha falam em quatro ações; outra versão da Folha fala em duas.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-18",
+    "id": "motta-e-alcolumbre-cobram-de-moraes-julgamento-da-dosimetria",
+    "titulo": "Motta e Alcolumbre cobram de Moraes o julgamento da Lei da Dosimetria; Fachin diz que STF pode julgar ainda em 2026"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/moraes-marca-julgamento-sobre-dosimetria-que-pode-beneficiar-bolsonaro-para-4-de-dezembro.shtml",
+     "angulo": "Data do julgamento e quem pode ser beneficiado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Motta pede a Moraes para julgar dosimetria e “virar a página” do 8/1",
+     "url": "https://www.gazetadopovo.com.br/republica/motta-pede-moraes-julgar-lei-pode-reduzir-pena-bolsonaro/",
+     "angulo": "Pedido de Motta para encerrar o tema do 8 de Janeiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Após pressão de Motta e Alcolumbre, STF marca julgamento da Lei da Dosimetria",
+     "url": "https://www.cartacapital.com.br/justica/apos-pressao-de-motta-e-alcolumbre-stf-marca-julgamento-da-lei-da-dosimetria/",
+     "angulo": "Liga a decisão à pressão dos presidentes das Casas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
+     "angulo": "Relato da pauta do julgamento virtual.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Após cobrança de Motta e Alcolumbre, Moraes libera Lei da Dosimetria para julgamento no STF",
+     "url": "https://exame.com/brasil/apos-cobranca-de-motta-e-alcolumbre-moraes-libera-lei-da-dosimetria-para-julgamento-no-stf/",
+     "angulo": "Período de votação no plenário virtual.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Moraes marca julgamento que pode reduzir pena de Bolsonaro",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/moraes-libera-julgamento-que-pode-reduzir-pena-de-bolsonaro",
+     "angulo": "Lembra que a lei está suspensa desde maio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Moraes libera processos da Lei da Dosimetria para julgamento",
+     "url": "https://www.congressoemfoco.com.br/noticia/131752/moraes-libera-processos-da-lei-da-dosimetria-para-julgamento",
+     "angulo": "Número de ações e o que está em discussão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Alcolumbre e Motta apostam na Lei da Dosimetria para destravar reeleição, mas dependem de Moraes",
+     "url": "https://www.jota.info/legislativo/alcolumbre-e-motta-apostam-na-lei-da-dosimetria-para-destravar-reeleicao-mas-dependem-de-moraes",
+     "angulo": "Lê a lei como peça na reeleição de Motta e Alcolumbre.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Moraes libera análise de lei que pode reduzir pena de Bolsonaro, e julgamento no STF deve começar em 4 de dezembro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/moraes-pauta-julgamento-da-lei-da-dosimetria-que-pode-reduzir-pena-de-bolsonaro.ghtml",
+     "angulo": "Relato da liberação e da data.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "estadodeminas",
+     "titulo": "Moraes libera ações contra Lei da Dosimetria para julgamento em 4 de dezembro",
+     "url": "https://www.em.com.br/politica/2026/11/7541604-moraes-libera-acoes-contra-lei-da-dosimetria-para-julgamento-em-4-de-dezembro.html",
+     "angulo": "Registro da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "lula-assina-decreto-da-6x1-e-hora-extra-fica-mais-cara",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Lula assina o decreto que regulamenta o fim da escala 6x1; hora extra fica mais cara a partir de 16 de dezembro",
+   "lide": "O decreto, publicado em edição extra do Diário Oficial, define a transição para a jornada 5x2 e muda o cálculo da hora extra. O divisor do salário-hora dos mensalistas cai de 220 para 210, o que eleva o valor pago mesmo sem mudança no salário.",
+   "contexto": "O fim da escala 6x1 foi aprovado pelo Congresso em 14 de outubro. No STF, Flávio Dino levou as ações sobre a transição ao julgamento de mérito.",
+   "fatos": [
+    {
+     "texto": "Lula assinou nesta quinta-feira (19) o decreto que regulamenta o fim da escala 6x1, publicado em edição extra do Diário Oficial.",
+     "base": "Diário Oficial; 3 fontes independentes (Folha, g1, Estadão)"
+    },
+    {
+     "texto": "A transição para a jornada 5x2 começa em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial.",
+     "base": "Diário Oficial; 2 fontes independentes (g1, Gazeta do Povo)"
+    },
+    {
+     "texto": "O divisor usado para calcular o salário-hora dos mensalistas cai de 220 para 210, o que encarece a hora extra.",
+     "base": "Diário Oficial; 2 fontes independentes (Folha, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "'Enquanto eu for presidente, não haverá diminuição de direitos.'",
+     "quem": "Lula, na assinatura do decreto"
+    },
+    {
+     "texto": "O governo vai abrir discussão sobre tarifa zero no transporte público aos fins de semana.",
+     "quem": "Lula, segundo A Tarde"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-18",
+    "id": "lula-assina-na-quinta-decreto-do-fim-da-6x1-e-dino-leva-acoes-ao-stf",
+    "titulo": "Lula assina na quinta o decreto que regulamenta o fim da escala 6x1; Dino leva ações ao julgamento de mérito"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1, com hora extra mais cara",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1-acompanhe.shtml",
+     "angulo": "Assinatura e a nova regra da hora extra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lula assina decreto que regulamenta escala 5×2 e reduz jornada de trabalho",
+     "url": "https://www.gazetadopovo.com.br/republica/lula-assina-decreto-regulamenta-escala-5x2-reduz-jornada-trabalho/",
+     "angulo": "Regras de descanso, jornada e hora extra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Enquanto eu for presidente, não haverá diminuição de direitos’, diz Lula ao assinar decreto que regulamenta escala 5×2",
+     "url": "https://www.brasildefato.com.br/2026/11/19/enquanto-eu-for-presidente-nao-havera-diminuicao-de-direitos-diz-lula-ao-assinar-decreto-que-regulamenta-escala-5x2/",
+     "angulo": "Destaca a fala de Lula na cerimônia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
+     "url": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/",
+     "angulo": "Assinatura em meio à disputa no Supremo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Fim da escala 6x1 aumenta a hora extra; veja tabela com novos valores",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/fim-da-escala-6x1-aumenta-a-hora-extra-veja-tabela-com-novos-valores.shtml",
+     "angulo": "Tabela com os novos valores de hora extra.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Com regulamentação da escala 5x2, hora extra ficará mais cara; entenda",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/19/com-regulamentacao-da-escala-5x2-hora-extra-ficara-mais-cara-entenda.ghtml",
+     "angulo": "Explicação de Marinho sobre a hora extra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Fim da escala 6×1: Lula assina decreto que muda jornada de trabalho nesta quinta",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-assina-decreto-fim-escala-6x1-reducao-jornada/",
+     "angulo": "Regras de transição sem corte salarial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Fim da escala 6×1: Lula assina decreto nesta quinta; veja o que muda",
+     "url": "https://terrabrasilnoticias.com/2026/11/fim-da-escala-6x1-lula-assina-decreto-nesta-quinta-veja-o-que-muda/",
+     "angulo": "O que muda para os trabalhadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Lula assina decreto que regulamenta fim da escala 6x1 no Brasil",
+     "url": "https://www.congressoemfoco.com.br/noticia/131735/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-no-brasil",
+     "angulo": "Fala de Lula sobre humanizar o trabalho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "atarde",
+     "titulo": "Lula vai debater tarifa zero no transporte público aos fins de semana",
+     "url": "https://atarde.com.br/politica/lula-vai-debater-tarifa-zero-no-transporte-publico-aos-fins-de-semana-1409991",
+     "angulo": "Anúncio paralelo sobre tarifa zero aos fins de semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "dolar-fecha-a-r-5-93-mesmo-com-leilao-de-us-1-bi-do-banco-central",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Dólar sobe pela sexta sessão e fecha a R$ 5,93, mesmo com leilão de US$ 1 bilhão do Banco Central",
+   "lide": "A moeda americana subiu 1,15% e chegou ao maior valor desde abril de 2025, acumulando alta de quase 5% na semana, apesar da intervenção extraordinária do BC no mercado à vista. Lula disse que quem quer controle fiscal é ele, não o mercado, e criticou a 'confusão' de aliados sobre o ajuste.",
+   "contexto": "O Senado concluiu na quarta a votação do ajuste fiscal, que segue para a Câmara. O dólar vinha de cinco altas seguidas.",
+   "fatos": [
+    {
+     "texto": "O dólar fechou nesta quinta-feira (19) a R$ 5,93, em alta de 1,15%, o maior valor desde abril de 2025.",
+     "base": "3 fontes independentes (Band, Exame, SBT)"
+    },
+    {
+     "texto": "O Banco Central fez um leilão extraordinário de venda de US$ 1 bilhão no mercado à vista.",
+     "base": "3 fontes independentes (Band, InfoMoney, ICL Notícias)"
+    },
+    {
+     "texto": "Foi a sexta alta seguida, com valorização de quase 5% na semana.",
+     "base": "2 fontes independentes (Exame, Valor)"
+    },
+    {
+     "texto": "Lula disse que 'não é o mercado que deseja o controle fiscal; quem deseja sou eu' e criticou a 'confusão' de aliados sobre o ajuste.",
+     "base": "2 fontes independentes (Estadão, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O BC errou ao intervir, e a alta do dólar decorre da 'inércia' de Lula em definir os rumos do quarto mandato.",
+     "quem": "Sérgio Goldenstein, ex-chefe de departamento do BC, à Folha"
+    },
+    {
+     "texto": "O ajuste pode abrir até R$ 8,8 bilhões no limite de despesas, menos da metade dos R$ 20,1 bilhões que ainda precisam ser acomodados em 2027.",
+     "quem": "Instituição Fiscal Independente (IFI), segundo o SBT"
+    },
+    {
+     "texto": "O pacote dará segurança ao mercado, mas o governo pode adotar novas medidas para cumprir as metas.",
+     "quem": "Bruno Moretti, ministro do Planejamento"
+    },
+    {
+     "texto": "O quarto mandato de Lula não começa em cenário de terra arrasada; o principal problema é o ajuste fiscal.",
+     "quem": "André Esteves, BTG Pactual"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O ajuste é desejo do próprio governo, garante o Orçamento de 2027 sem cortar direitos e dará segurança ao mercado.",
+    "oposicao": "A demora de Lula em definir os rumos do governo e o ajuste insuficiente explicam a disparada do dólar."
+   },
+   "visao_de_fora": "Moedas de toda a América Latina caíram com a projeção de juros mais altos nos EUA, segundo O Globo.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-19",
+    "id": "senado-conclui-votacao-do-ajuste-fiscal-e-texto-vai-a-camara",
+    "titulo": "Senado rejeita mudanças da oposição e conclui o ajuste fiscal; Câmara deve votar até terça"
+   },
+   "materias": [
+    {
+     "fonte": "band",
+     "titulo": "Intervenção do BC não contém dólar e moeda fecha a R$ 5,93, maior valor desde 2025",
+     "url": "https://www.band.com.br/economia/intervencao-do-bc-nao-contem-dolar-e-moeda-fecha-a-r-593-maior-desde-2025",
+     "angulo": "Alta do dólar apesar do leilão do BC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Crusoé: Lula sem pressa só deixa o dólar mais ligeiro",
+     "url": "https://oantagonista.com.br/analise/crusoe-lula-sem-pressa-so-deixa-o-dolar-mais-ligeiro/",
+     "angulo": "Atribui a alta do dólar à falta de pressa de Lula.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "BC intervém no câmbio, mas dólar volta a subir forte e supera R$ 5,93; Bolsa recua",
+     "url": "https://iclnoticias.com.br/economia/bc-cambio-dolar-sube-forte-bolsa-recua/",
+     "angulo": "Relato da intervenção e da reação do mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Dólar se aproxima de R$ 6 após 6ª alta seguida de mais de 1%, mesmo com intervenção do BC",
+     "url": "https://exame.com/invest/mercados/dolar-sobe-115-na-6a-alta-seguida-e-se-aproxima-de-r-6-mesmo-com-intervencao-do-bc/",
+     "angulo": "Sexta alta seguida e acumulado da semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "‘Não é o mercado que deseja o controle fiscal; quem deseja sou eu’, diz Lula",
+     "url": "https://www.estadao.com.br/economia/lula-mercado-controle-fiscal-quem-deseja-sou-eu/",
+     "angulo": "Fala de Lula sobre o controle fiscal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "BC erra ao intervir na cotação do dólar, diz ex-chefe de departamento da autarquia",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/bc-erra-ao-intervir-na-cotacao-do-dolar-diz-ex-chefe-de-departamento-da-autarquia.shtml",
+     "angulo": "Crítica de ex-diretor de departamento do BC à intervenção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula sobre ajuste fiscal: “Enquanto eu for presidente da República, não haverá diminuição dos direitos”",
+     "url": "https://revistaforum.com.br/politica/lula-ajuste-fiscal-direitos/",
+     "angulo": "Defesa de Lula ao pacote fiscal.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Real tem 2ª pior semana do ano com disparada de 5% do dólar no período; BC intervém, mas não contém movimento",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/19/real-tem-2a-pior-semana-do-ano-com-disparada-de-5percent-do-dolar-no-periodo-bc-intervem-mas-nao-contem-movimento.ghtml",
+     "angulo": "Desempenho do real na semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "IFI: Ajuste fiscal de Lula não cobre novos gastos de 2027",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/ifi-ajuste-fiscal-de-lula-nao-cobre-novos-gastos-de-2027",
+     "angulo": "Cálculo da IFI sobre o espaço aberto pelo ajuste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Não é só no Brasil: moedas da América Latina despencam com projeções de alta dos juros nos EUA",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/19/nao-e-so-no-brasil-moedas-da-america-latina-despencam-com-projecoes-de-alta-dos-juros-nos-eua.ghtml",
+     "angulo": "Contexto regional: queda de moedas latino-americanas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "plenonews",
+     "titulo": "“Não votamos no Lula para ter o tesouraço de Flávio”",
+     "url": "https://pleno.news/opiniao/magno-malta/nao-votamos-no-lula-para-ter-o-tesouraco-de-flavio.html",
+     "angulo": "Ironiza a esquerda por apoiar ajuste que criticava em Flávio.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "ifood-confirma-vazamento-de-dados-de-clientes-e-entregadores",
+   "editoria": "Tecnologia",
+   "escopo": "brasil",
+   "titulo": "iFood confirma ataque hacker que expôs dados cadastrais de clientes, entregadores e restaurantes",
+   "lide": "A empresa informou que criminosos acessaram seus sistemas em 14 de novembro e obtiveram dados cadastrais, como telefones de clientes; senhas, cartões e dados de pagamento não foram atingidos, segundo o iFood. O Banco do Brasil também alertou clientes para golpes após vazamento de dados.",
+   "contexto": "É o segundo incidente com dados de usuários do iFood divulgado neste ano, segundo o Valor.",
+   "fatos": [
+    {
+     "texto": "O iFood informou nesta quinta-feira (19) que dados cadastrais de clientes, entregadores e representantes de restaurantes foram acessados indevidamente em 14 de novembro.",
+     "base": "nota oficial; 3 fontes independentes (Folha, g1, A Tarde)"
+    },
+    {
+     "texto": "Segundo a empresa, senhas, cartões e outros meios de pagamento não foram acessados.",
+     "base": "nota oficial; 3 fontes independentes (Band, Exame, Valor)"
+    },
+    {
+     "texto": "O incidente foi comunicado à Autoridade Nacional de Proteção de Dados (ANPD).",
+     "base": "2 fontes independentes (Brasil 247, Exame)"
+    },
+    {
+     "texto": "O Banco do Brasil confirmou vazamento de dados pessoais de clientes e alertou para o risco de golpes.",
+     "base": "2 fontes independentes (O Antagonista, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os entregadores podem ser os mais afetados pela quantidade de dados expostos.",
+     "quem": "SBT"
+    },
+    {
+     "texto": "Não há estimativa oficial de quantas pessoas foram afetadas.",
+     "quem": "Folha"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "iFood informa vazamento de dados de clientes, entregadores e restaurantes",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/ifood-informa-vazamento-de-dados-de-clientes-entregadores-e-restaurantes.shtml",
+     "angulo": "Comunicado do iFood e data do ataque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "iFood: ciberataque atinge dados de entregadores e clientes",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/i-food-ciberataque-atinge-dados-de-entregadores-e-clientes",
+     "angulo": "Destaca a exposição dos entregadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "iFood sofre ataque hacker e expõe dados de clientes e restaurantes",
+     "url": "https://www.brasil247.com/brasil/ifood-sofre-ataque-hacker-e-expoe-dados-de-clientes-restaurantes-e-entregadores/",
+     "angulo": "Comunicação do incidente à ANPD.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "iFood confirma vazamento de telefones de clientes e dados de entregadores; veja o que fazer",
+     "url": "https://exame.com/tecnologia/ifood-vazamento-dados/",
+     "angulo": "O que foi exposto e o que fazer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "iFood registra invasão em sistema de dados de usuários e entregadores",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/19/ifood-registra-invasao-em-sistema-de-dados-de-usuarios-e-entregadores.ghtml",
+     "angulo": "Lembra que é o segundo incidente do ano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "band",
+     "titulo": "iFood confirma vazamento de dados de clientes e restaurantes",
+     "url": "https://www.band.com.br/ciencia-e-tecnologia/ifood-confirma-vazamento-de-dados-de-clientes-restaurantes-e-entregadores",
+     "angulo": "O que não foi acessado, segundo a empresa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
+     "angulo": "Relato do ataque e da investigação em curso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Banco do Brasil alerta clientes sobre risco de golpes após confirmar vazamento de dados pessoas",
+     "url": "https://oantagonista.com.br/economia/banco-do-brasil-alerta-clientes-sobre-o-risco-de-golpes-apos-confirmar-vazamento-de-dados-pessoas/",
+     "angulo": "Vazamento de dados de clientes do Banco do Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ataque hacker atinge iFood e expõe dados de clientes, entregadores e restaurantes",
+     "url": "https://revistaforum.com.br/brasil/ataque-hacker-atinge-ifood/",
+     "angulo": "Destaca os cinco dias até o caso vir a público.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "iFood é alvo de hackers e tem dados de usuários, restaurantes e entregadores vazados",
+     "url": "https://www.infomoney.com.br/brasil/ifood-e-alvo-de-hackers-e-tem-dados-de-usuarios-restaurantes-e-entregadores-vazados/",
+     "angulo": "Resumo do incidente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "lula-visita-raoni-e-assina-portaria-da-terra-indigena-kapot-nhinore",
+   "editoria": "Meio ambiente",
+   "escopo": "brasil",
+   "titulo": "Lula visita Raoni e assina portaria que declara a Terra Indígena Kapôt Nhĩnore, onde o cacique nasceu",
+   "lide": "Em Peixoto de Azevedo (MT), Lula entregou ao cacique Raoni Metuktire, de 94 anos, a portaria declaratória da terra do povo Mẽbêngôkre (Kayapó), etapa anterior à homologação. Lula disse que o governo acelerou o processo para que Raoni, em cuidados paliativos, visse o reconhecimento.",
+   "contexto": "A demarcação de Kapôt Nhĩnore é reivindicada há mais de 70 anos e era a única pendente entre as terras tradicionais Mẽbêngôkre.",
+   "fatos": [
+    {
+     "texto": "Lula assinou nesta quinta-feira (19), em Mato Grosso, a portaria declaratória da Terra Indígena Kapôt Nhĩnore, do povo Mẽbêngôkre (Kayapó).",
+     "base": "3 fontes independentes (Valor, Brasil de Fato, Metrópoles)"
+    },
+    {
+     "texto": "A portaria reconhece os limites de 362.243 hectares do território.",
+     "base": "2 fontes independentes (Fórum, Metrópoles)"
+    },
+    {
+     "texto": "Raoni, de 94 anos, recebe cuidados paliativos em casa, em Peixoto de Azevedo.",
+     "base": "3 fontes independentes (CartaCapital, g1, Brasil de Fato)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Haverá uma 'briguinha' com os proprietários de terras na região.",
+     "quem": "Lula, segundo o Valor"
+    },
+    {
+     "texto": "O governo acelerou a tramitação para garantir o direito com Raoni vivo.",
+     "quem": "Folhapress, reproduzida pelo ICL"
+    },
+    {
+     "texto": "'Ainda há muito a ser feito' para os povos indígenas.",
+     "quem": "Lula, segundo a Jovem Pan"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Le Monde e Al Jazeera noticiaram o reconhecimento do território ancestral de Raoni, um dos líderes indígenas mais conhecidos no exterior.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Lula assina demarcação da terra indígena Kapôt Nhinore, onde nasceu cacique Raoni",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/19/lula-assina-demarcao-da-terra-indgena-kapt-nhinore-onde-nasceu-cacique-raoni.ghtml",
+     "angulo": "Assinatura e a previsão de conflito com proprietários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Lula admite ao cacique Raoni que ‘ainda há muito a ser feito’ para os povos indígenas",
+     "url": "https://jovempan.com.br/noticias/politica/lula-admite-ao-cacique-raoni-que-ainda-ha-muito-a-ser-feito-para-os-povos-indigenas.html",
+     "angulo": "Destaca a admissão de Lula de que falta muito a fazer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula oficializa declaração da Terra Indígena em que o cacique Raoni nasceu e promete avançar no tratamento do Estado aos povos originários",
+     "url": "https://www.brasildefato.com.br/2026/11/19/lula-oficializa-declaracao-da-terra-indigena-em-que-o-cacique-raoni-nasceu-e-promete-avancar-no-tratamento-do-estado-aos-povos-originarios/",
+     "angulo": "Relato da visita e da promessa de Lula aos povos originários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Lula assina demarcação de terra onde cacique Raoni nasceu no Mato Grosso",
+     "url": "https://www.metropoles.com/brasil/lula-assina-demarcacao-de-terra-onde-cacique-raoni-nasceu-no-mato-grosso",
+     "angulo": "Área, municípios atingidos e histórico da reivindicação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Lula visita Raoni e reconhece a posse permanente da terra onde o cacique nasceu",
+     "url": "https://www.cartacapital.com.br/politica/lula-visita-raoni-e-reconhece-a-posse-permanente-da-terra-onde-o-cacique-nasceu/",
+     "angulo": "Estado de saúde de Raoni e o reconhecimento da posse.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Lula faz visita e avança em demarcação de terra de Raoni",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-faz-visita-e-avanca-em-demarcacao-de-terra-de-raoni",
+     "angulo": "Lula diz ter pressa em legalizar a terra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Lula acelera demarcação de terra indígena para garantir direito com cacique Raoni vivo",
+     "url": "https://iclnoticias.com.br/lula-demarcacao-terra-indigena-de-cacique-raoni/",
+     "angulo": "Por que o governo acelerou o processo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Vitória indígena: Lula assina demarcação da Terra Kapôt Nhĩnore, território do Cacique Raoni",
+     "url": "https://revistaforum.com.br/brasil/lula-demarcaca-terra-kapot/",
+     "angulo": "Celebra a demarcação e detalha a área.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Le Brésil reconnaît le territoire ancestral du chef indigène Raoni",
+     "url": "https://www.lemonde.fr/international/article/2026/11/19/le-bresil-reconnait-le-territoire-ancestral-du-chef-indigene-raoni_6813384_3210.html",
+     "angulo": "Em francês: o Brasil reconhece o território ancestral de Raoni.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+     "url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+     "angulo": "Em inglês: visita e reconhecimento de terras Kayapó e Yudja.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "corte-da-onu-conclui-que-mianmar-cometeu-genocidio-contra-rohingyas",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Corte da ONU conclui que Mianmar cometeu genocídio contra os rohingyas, a primeira condenação de um Estado",
+   "lide": "Por 9 votos a 6, a principal corte da ONU decidiu que a repressão militar de 2017 contra a minoria muçulmana rohingya foi genocídio. É a primeira vez que um tribunal internacional responsabiliza um Estado por genocídio; Mianmar chamou a decisão de 'injusta'.",
+   "contexto": "A ação foi movida pela Gâmbia em 2019. A ofensiva de 2017 levou centenas de milhares de rohingyas a fugir para Bangladesh.",
+   "fatos": [
+    {
+     "texto": "A Corte Internacional de Justiça decidiu nesta quinta-feira (19) que as forças de segurança de Mianmar cometeram genocídio contra os rohingyas em 2017.",
+     "base": "3 fontes independentes (Folha, BBC, Al Jazeera)"
+    },
+    {
+     "texto": "A decisão foi tomada por 9 votos a 6.",
+     "base": "2 fontes independentes (Axios, The Guardian)"
+    },
+    {
+     "texto": "É a primeira vez que um tribunal internacional considera um Estado responsável por genocídio.",
+     "base": "3 fontes independentes (BBC, Axios, The Guardian)"
+    },
+    {
+     "texto": "O governo de Mianmar classificou a decisão como 'injusta'.",
+     "base": "2 fontes independentes (g1, Al Jazeera)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A decisão pode ter implicações para outros casos, entre eles a ação da África do Sul que acusa Israel de genocídio em Gaza.",
+     "quem": "Axios e The Guardian"
+    },
+    {
+     "texto": "A condenação inaugura um precedente internacional.",
+     "quem": "Folha (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a decisão foi noticiada como precedente histórico e lida também à luz do processo contra Israel na mesma corte.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Tribunal da ONU conclui que Mianmar cometeu genocídio contra minoria muçulmana; 10 mil foram assassinados",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/tribunal-da-onu-conclui-que-mianmar-cometeu-genocidio-contra-minoria-muculmana-10-mil-foram-assassinados.shtml",
+     "angulo": "Relato da sentença e do número de mortos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Myanmar becomes first state found responsible for genocide by UN court",
+     "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+     "angulo": "Em inglês: placar de 9 a 6 e possíveis efeitos para o caso contra Israel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
+     "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+     "angulo": "Em inglês: Mianmar considerado culpado de genocídio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Rohingya genocide: What was said in court and what happens now?",
+     "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Em inglês: o que foi dito no tribunal e os próximos passos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+     "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+     "angulo": "Em inglês: a decisão traz 'recados' para Israel.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/20/mianmar-chama-de-injusta-decisao-da-corte-da-onu-sobre-genocidio-de-rohingyas.ghtml",
+     "angulo": "Reação do governo de Mianmar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Entenda o genocídio cometido por Mianmar que gerou condenação inédita em tribunal da ONU",
+     "url": "https://www.dw.com/pt-br/entenda-o-genocídio-cometido-por-mianmar-que-gerou-condenação-inédita-em-tribunal-da-onu/a-79990024?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Explica o genocídio e a condenação inédita.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Tribunal da ONU declara que Mianmar cometeu genocídio contra os muçulmanos rohingyas",
+     "url": "https://www.estadao.com.br/internacional/tribunal-da-onu-declara-que-mianmar-cometeu-genocidio-contra-os-muculmanos-rohingyas-npr/",
+     "angulo": "Relato da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+     "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+     "angulo": "Em inglês: a decisão abre disputa sobre o caso de Gaza.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "La desgracia sin fin de los rohinyás, perseguidos en su país y olvidados en el exilio",
+     "url": "https://elpais.com/internacional/2026-11-20/la-desgracia-sin-fin-de-los-rohinyas-perseguidos-en-su-pais-y-olvidados-en-el-exilio.html",
+     "angulo": "Em espanhol: a situação dos rohingyas no exílio.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Corte da ONU conclui que Mianmar cometeu genocídio contra minoria étnica",
+     "url": "https://www.cnnbrasil.com.br/internacional/corte-da-onu-conclui-que-mianmar-cometeu-genocidio-contra-minoria-etnica/",
+     "angulo": "Relato da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "israel-faz-maior-incursao-terrestre-em-gaza-desde-o-cessar-fogo",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Israel faz a maior incursão terrestre em Gaza desde o cessar-fogo e cruza a 'linha amarela'; Hamas fala em violação",
+   "lide": "Tanques israelenses avançaram além da linha que delimita a área sob controle do Hamas, no centro da Faixa de Gaza, para destruir o que o Exército chamou de túnel do grupo. A operação foi encerrada na quinta, mas forçou milhares de palestinos a deixar abrigos.",
+   "contexto": "O cessar-fogo entre Israel e Hamas vigora desde outubro de 2025. Em Israel, Gadi Eisenkot tenta formar governo sem Netanyahu.",
+   "fatos": [
+    {
+     "texto": "Forças israelenses cruzaram a 'linha amarela' do cessar-fogo e entraram na área controlada pelo Hamas no centro de Gaza, na primeira operação terrestre do tipo desde o acordo.",
+     "base": "3 fontes independentes (The Guardian, BBC, Le Figaro)"
+    },
+    {
+     "texto": "O Exército de Israel disse ter concluído a operação, que visava desmantelar um túnel do Hamas.",
+     "base": "3 fontes independentes (Folha, BBC, CNN Brasil)"
+    },
+    {
+     "texto": "O Hamas classificou a incursão como violação flagrante do cessar-fogo.",
+     "base": "2 fontes independentes (BBC, DW Brasil)"
+    },
+    {
+     "texto": "A operação forçou milhares de palestinos a deixar abrigos em Nuseirat e Bureij.",
+     "base": "3 fontes independentes (Le Figaro, Al Jazeera, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Cerca de 6 mil palestinos fugiram da região central.",
+     "quem": "CNN Brasil"
+    },
+    {
+     "texto": "A ofensiva amplia a ocupação territorial e põe em risco abrigos e saneamento.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "O plano de paz de Trump para Gaza fracassou e produz 'deslocamento planejado'.",
+     "quem": "Organizações humanitárias, segundo a Al Jazeera"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A incursão foi noticiada no Brasil no mesmo dia em que a Corte da ONU condenou Mianmar por genocídio, decisão que analistas ligam ao processo contra Israel.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+     "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+     "angulo": "Em inglês: primeira incursão além da linha amarela desde o cessar-fogo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Exército de Israel diz ter concluído incursão terrestre com tanques em Gaza",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/exercito-de-israel-diz-ter-concluido-incursao-terrestre-com-tanques-em-gaza.shtml",
+     "angulo": "Versão do Exército: túnel do 'grupo terrorista' Hamas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Israel realiza maior ofensiva terrestre na Faixa de Gaza desde o cessar-fogo",
+     "url": "https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Versões de Israel e do Hamas sobre a operação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "angulo": "Em inglês: Hamas fala em violação flagrante.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-18"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Nova ofensiva israelense em Gaza ameaça milhares de deslocados e amplia ocupação territorial",
+     "url": "https://www.brasil247.com/mundo/nova-ofensiva-israelense-em-gaza-ameaca-milhares-de-deslocados-e-amplia-ocupacao-territorial/",
+     "angulo": "Destaca ameaça a deslocados e ampliação da ocupação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Israel afirma ter concluído operação com tanques em Gaza",
+     "url": "https://www.cnnbrasil.com.br/internacional/israel-afirma-ter-concluido-operacao-com-tanques-em-gaza/",
+     "angulo": "Número de palestinos que fugiram.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "« On est parti sans savoir si on pourra rentrer un jour » : à Gaza, les chars israéliens font de nouveau fuir les familles",
+     "url": "https://www.lefigaro.fr/international/on-est-parti-sans-savoir-si-on-pourra-rentrer-un-jour-a-gaza-les-chars-israeliens-font-de-nouveau-fuir-les-familles-20261119",
+     "angulo": "Em francês: relato de famílias deslocadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+     "angulo": "Em inglês: famílias deixam o campo de Bureij.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Israel realiza maior ofensiva terrestre em Gaza desde o cessar-fogo",
+     "url": "https://www.cartacapital.com.br/mundo/israel-realiza-maior-ofensiva-terrestre-em-gaza-desde-o-cessar-fogo/",
+     "angulo": "Registro da maior ofensiva desde o cessar-fogo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+     "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+     "angulo": "Em inglês: entidades humanitárias criticam o plano de Trump.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "novo-rascunho-da-cop31-tira-mencao-a-combustiveis-fosseis",
+   "editoria": "Clima",
+   "escopo": "mundo",
+   "titulo": "Novo rascunho da COP31 tira a menção ao fim dos combustíveis fósseis; Brasil tenta recolocar seus 'mapas do caminho'",
+   "lide": "Na reta final da conferência do clima em Antália, na Turquia, a nova versão do texto principal retirou as referências à transição para longe dos combustíveis fósseis. A delegação brasileira tenta reinserir as propostas de roteiro para o fim do desmatamento e dos fósseis.",
+   "contexto": "O Brasil presidiu a COP30, em Belém, onde lançou a ideia dos 'mapas do caminho'. A COP31 é presidida pela Turquia.",
+   "fatos": [
+    {
+     "texto": "A nova versão do rascunho da COP31, publicada nesta quinta-feira (19), retirou as menções ao fim do uso de combustíveis fósseis que estavam no primeiro texto.",
+     "base": "3 fontes independentes (g1, SBT, CartaCapital)"
+    },
+    {
+     "texto": "A delegação brasileira tenta reinserir no documento final os 'mapas do caminho' para o fim do desmatamento e dos combustíveis fósseis.",
+     "base": "2 fontes independentes (Agência Brasil, O Globo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Brasil não deve aderir à meta voluntária, proposta pela Turquia, de eletrificar 35% da economia global até 2035.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "A versão anterior foi rejeitada por países como Rússia e Arábia Saudita.",
+     "quem": "Fontes ouvidas pela AFP, reproduzida pela Jovem Pan"
+    },
+    {
+     "texto": "Há avanços, mas financiamento e captura de carbono precisam de ajustes.",
+     "quem": "Negociadores brasileiros ouvidos por O Globo"
+    },
+    {
+     "texto": "A proposta de transição justa é confusa.",
+     "quem": "Ativistas, segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O tema toca diretamente o Brasil, que presidiu a COP30 e defende os 'mapas do caminho' contra fósseis e desmatamento.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Nova versão de rascunho da COP31 remove menção a combustíveis fósseis",
+     "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/19/rascunho-cop31-sem-combustiveis-fosseis.ghtml",
+     "angulo": "O que saiu do texto em relação ao primeiro rascunho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Rascunho da COP31 retira proposta de abandono gradual dos combustíveis fósseis",
+     "url": "https://jovempan.com.br/mundo/rascunho-da-cop31-retira-proposta-de-abandono-gradual-dos-combustiveis-fosseis/",
+     "angulo": "Texto da AFP: o que saiu do rascunho e quem rejeitou a versão anterior.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Menção à saída dos combustíveis fósseis ‘some’ do novo esboço da COP31",
+     "url": "https://www.cartacapital.com.br/sustentabilidade/mencao-a-saida-dos-combustiveis-fosseis-some-do-novo-esboco-da-cop31/",
+     "angulo": "Registra o sumiço da menção aos fósseis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Mapas do caminho ainda podem voltar à decisão final da COP31",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/mapas-do-caminho-ainda-podem-voltar-decisao-final-da-cop31",
+     "angulo": "Estratégia brasileira para recolocar os mapas do caminho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Brasil não vai aderir à meta voluntária de eletrificação na COP31",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/brasil-nao-vai-aderir-a-meta-voluntaria-de-eletrificacao-na-cop31.shtml",
+     "angulo": "Brasil fora da meta voluntária de eletrificação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Combustíveis fósseis ficam fora de novo rascunho da COP31",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/novo-rascunho-da-cop-31-deixa-combustiveis-fosseis-de-fora",
+     "angulo": "Relato do novo rascunho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Negociadores brasileiros veem avanços na COP 31, mas financiamento e captura de carbono precisam de ajustes",
+     "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/negociadores-brasileiros-veem-avancos-na-cop-31-mas-financiamento-e-captura-de-carbono-precisam-de-ajustes.ghtml",
+     "angulo": "Avaliação dos negociadores brasileiros.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "COP31 entra na reta final sem consenso sobre combustíveis fósseis e financiamento",
+     "url": "https://www.infomoney.com.br/mundo/cop31-entra-na-reta-final-sem-consenso-sobre-combustiveis-fosseis-e-financiamento/",
+     "angulo": "Impasses sobre fósseis e financiamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "COP31 chega às últimas horas com impasses sobre dinheiro e saída dos combustíveis fósseis",
+     "url": "https://midianinja.org/cop31-chega-as-ultimas-horas-com-impasses-sobre-dinheiro-e-saida-dos-combustiveis-fosseis/",
+     "angulo": "Retirada de fósseis, transição justa e mapas do caminho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Proposta de transição justa na COP31 é confusa, criticam ativistas",
+     "url": "https://www.brasil247.com/meio-ambiente/proposta-de-transicao-justa-na-cop31-e-confusa-criticam-ativistas/",
+     "angulo": "Críticas de ativistas à proposta de transição justa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "braziljournal",
+     "titulo": "A COP da eletrificação",
+     "url": "https://braziljournal.com/a-cop-da-eletrificacao",
+     "angulo": "Lê a COP31 como a conferência da eletrificação.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  }
+ ]
+}
