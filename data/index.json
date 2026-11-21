@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-20T08:58:00+00:00",
+ "atualizado_em": "2026-11-21T09:02:03+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-21",
+   "arquivo": "data/edicoes/2026-11-21.json",
+   "historias": 10,
+   "gerado_em": "2026-11-21T06:02:03-03:00",
+   "manchete": "Bolsonaro é internado em Brasília com obstrução no intestino delgado"
+  },
   {
    "data": "2026-11-20",
    "arquivo": "data/edicoes/2026-11-20.json",

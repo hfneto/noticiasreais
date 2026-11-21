@@ -1,0 +1,1545 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-21",
+ "gerado_em": "2026-11-21T06:02:03-03:00",
+ "historias": [
+  {
+   "id": "bolsonaro-e-internado-com-obstrucao-no-intestino-delgado",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Bolsonaro é internado em Brasília com obstrução no intestino delgado",
+   "lide": "O ex-presidente, que cumpre prisão domiciliar, foi levado na sexta (20) ao hospital DF Star com dor e distensão abdominal, e a tomografia mostrou comprometimento do intestino delgado. A equipe médica não descarta nova cirurgia e não há previsão de alta.",
+   "contexto": "Bolsonaro tem problemas abdominais desde a facada que sofreu na campanha de 2018 e já passou por várias cirurgias no intestino.",
+   "fatos": [
+    {
+     "texto": "Bolsonaro foi internado na tarde de sexta-feira (20) no hospital DF Star, em Brasília, com quadro de dor e distensão abdominal, segundo boletim médico.",
+     "base": "boletim médico; 3 fontes independentes (CNN Brasil, Agência Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "A tomografia apontou comprometimento do intestino delgado, segundo o médico Brasil Caiado.",
+     "base": "3 fontes independentes (CNN Brasil, SBT, Valor)"
+    },
+    {
+     "texto": "O deslocamento da prisão domiciliar ao hospital foi escoltado pela Polícia Militar do Distrito Federal.",
+     "base": "3 fontes independentes (Metrópoles, ICL, Brasil de Fato)"
+    },
+    {
+     "texto": "A equipe médica não descartou nova cirurgia, e o ex-presidente seguia internado sem previsão de alta na manhã de sábado (21).",
+     "base": "3 fontes independentes (Gazeta do Povo, SBT, CNN Brasil)"
+    },
+    {
+     "texto": "Michelle Bolsonaro estava em Israel e anunciou a volta ao Brasil; Carlos Bolsonaro acompanhou o pai no hospital.",
+     "base": "2 fontes independentes (CNN Brasil, Veja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A piora da saúde do pai é efeito da falta de mobilidade e da 'tortura psicológica' da prisão domiciliar.",
+     "quem": "Carlos Bolsonaro (PL-SC), senador eleito"
+    },
+    {
+     "texto": "As primeiras 24 horas serão decisivas para definir o tratamento.",
+     "quem": "Brasil Caiado, médico do ex-presidente"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Bolsonaro tem obstrução 'quase total' do intestino delgado.",
+     "rotulo": "Contraditório",
+     "explicacao": "O Valor atribui ao médico Brasil Caiado a suspeita de obstrução 'quase total'; o Estadão, republicado pelo Terra, cita o mesmo médico falando em obstrução parcial. O boletim do hospital não detalha o grau.",
+     "onde_circula": "imprensa e redes de Carlos Bolsonaro",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo não comentou a internação; veículos à esquerda lembram que Bolsonaro cumpre pena por tentativa de golpe de Estado.",
+    "oposicao": "Filhos e aliados pedem homenagens nas redes e atribuem a piora às condições da prisão domiciliar imposta pelo STF."
+   },
+   "visao_de_fora": "Clarín, La Nación e DW noticiaram a internação; o Clarín destaca que é a segunda hospitalização do ano e cita a frase de Carlos sobre 'tortura psicológica'.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Exame de Bolsonaro mostrou comprometimento no intestino delgado, diz médico",
+     "url": "https://www.cnnbrasil.com.br/politica/exame-de-bolsonaro-mostrou-comprometimento-no-intestino-delgado-diz-medico/",
+     "angulo": "O que a tomografia mostrou e as próximas 24 horas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Jair Bolsonaro é hospitalizado com obstrução intestinal",
+     "url": "https://www.brasildefato.com.br/2026/11/20/jair-bolsonaro-e-hospitalizado-com-obstrucao-intestinal/",
+     "angulo": "Lembra a condenação por golpe e a escolta da PM.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Bolsonaro é internado após quadro de dor abdominal; cirurgia não é descartada",
+     "url": "https://www.gazetadopovo.com.br/republica/bolsonaro-levado-hospital-apos-quadro-dor-abdominal/",
+     "angulo": "Boletim do hospital e possibilidade de cirurgia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Bolsonaro tem suspeita de 'obstrução quase total' do intestino, diz médico",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/20/bolsonaro-sente-forte-dores-abdominais-e-encaminhado-ao-hospital.ghtml",
+     "angulo": "Relata a suspeita de obstrução quase total dita pelo médico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Bolsonaro é levado ao hospital com fortes dores abdominais; Carlos ataca STF",
+     "url": "https://revistaforum.com.br/politica/bolsonaro-e-levado-ao-hospital/",
+     "angulo": "Destaca as críticas de Carlos ao Supremo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Médico não descarta nova cirurgia em Bolsonaro",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/medico-nao-descarta-nova-cirurgia-em-bolsonaro",
+     "angulo": "Entrevista com o médico sobre o tratamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "terra",
+     "titulo": "'Jair Bolsonaro tem obstrução parcial do intestino delgado', diz médico",
+     "url": "https://www.terra.com.br/vida-e-estilo/saude/jair-bolsonaro-tem-obstrucao-parcial-do-intestino-delgado-diz-medico,d9b903303cddf35bbbabac7a6bd0e4e4e99ckbmm.html",
+     "angulo": "Versão que fala em obstrução parcial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Carlos relata piora rápida do quadro de Bolsonaro: \"Impressão horrível\"",
+     "url": "https://www.metropoles.com/brasil/carlos-relata-piora-rapida-do-quadro-de-bolsonaro-impressao-horrivel",
+     "angulo": "Relato de Carlos sobre a piora do quadro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+     "angulo": "Registro oficial da internação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Bolsonaro sente dores abdominais e é levado a hospital em Brasília",
+     "url": "https://revistaoeste.com/politica/bolsonaro-sente-dores-abdominais-e-e-levado-a-hospital-em-brasilia/",
+     "angulo": "Relato da ida ao hospital.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Internaron de urgencia a Jair Bolsonaro por \"fuertes dolores abdominales\"",
+     "url": "https://www.clarin.com/mundo/internaron-urgencia-jair-bolsonaro-fuertes-dolores-abdominales_0_2teFrns5Gi.html",
+     "angulo": "Imprensa argentina: 'Internado de urgência'; segunda internação no ano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "dw",
+     "titulo": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
+     "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-xml-mrss",
+     "angulo": "Imprensa alemã em inglês: internado com obstrução intestinal e medicado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "fachin-abre-relatorio-da-pf-sobre-mendonca-sem-conversa-com-vorcaro",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Fachin abre relatório da PF sobre Mendonça, que não aponta conversa direta com Vorcaro",
+   "lide": "A pedido do próprio André Mendonça, o presidente do STF tirou o sigilo do relatório da PF com as menções ao ministro no celular de Daniel Vorcaro. O documento reúne diálogos de terceiros, mas não registra troca de mensagens entre os dois; os relatórios sobre Moraes, Toffoli e Nunes Marques seguem sob sigilo.",
+   "fatos": [
+    {
+     "texto": "Fachin retirou na sexta-feira (20) o sigilo do relatório da PF sobre menções a André Mendonça no caso Master, atendendo a pedido do próprio ministro.",
+     "base": "decisão do STF; 3 fontes independentes (Folha, Metrópoles, Gazeta do Povo)"
+    },
+    {
+     "texto": "A PF afirma no relatório que não encontrou registros de conversa direta entre Mendonça e Vorcaro.",
+     "base": "relatório da PF; 3 fontes independentes (Agência Brasil, Valor, Revista Oeste)"
+    },
+    {
+     "texto": "O relatório reúne mensagens de Vorcaro com terceiros que citam Mendonça, incluindo referências a um jantar e a um terno.",
+     "base": "2 fontes independentes (A Tarde, DCM)"
+    },
+    {
+     "texto": "Fachin manteve a prisão de Vorcaro e rejeitou pedido de soltura da defesa.",
+     "base": "2 fontes independentes (Agência Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "Gilmar Mendes disse não ver problema na abertura do sigilo dos relatórios, mas que a medida 'não resolve a questão'.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, Estadão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O diretor-geral da PF dividiu os ministros entre os com indícios de crime e os apenas citados, mas pôs Mendonça no primeiro grupo mesmo sem contato direto com Vorcaro.",
+     "quem": "O Globo, com base em bastidores"
+    },
+    {
+     "texto": "A inclusão de Mendonça foi estratégia da cúpula da PF para que o caso não volte à relatoria dele.",
+     "quem": "Terra Brasil Notícias"
+    },
+    {
+     "texto": "Ao pedir o fim do sigilo, Mendonça tentou se antecipar a críticas sobre sua atuação como relator.",
+     "quem": "Valor"
+    },
+    {
+     "texto": "A decisão de manter a prisão de Vorcaro viola a Constituição.",
+     "quem": "Defesa de Daniel Vorcaro"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A PF, subordinada ao Ministério da Justiça, sustenta que separou os ministros com indícios dos que só aparecem citados por terceiros, e cabe à PGR decidir se investiga.",
+    "oposicao": "Oposição e veículos à direita dizem que o relatório inocenta Mendonça e que a PF o incluiu para equipará-lo a Moraes, Toffoli e Nunes Marques."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-20",
+    "id": "fachin-envia-a-pgr-relatorios-sobre-quatro-ministros-do-stf",
+    "titulo": "Fachin envia à PGR relatórios da PF sobre Moraes, Toffoli, Nunes Marques e Mendonça e arquiva outros seis"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Fachin retira sigilo de relatório da PF com 11 conversas que citam André Mendonça no caso Master",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml",
+     "angulo": "Número de conversas que citam o ministro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Relatório da PF prova que André Mendonça contrariou interesse de Vorcaro no STF",
+     "url": "https://www.gazetadopovo.com.br/republica/relatorio-da-pf-prova-que-andre-mendonca-contrariou-interesse-de-vorcaro-no-stf/",
+     "angulo": "Afirma que o relatório prova que Mendonça contrariou Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "PF diz que não há conversas de Mendonça com Vorcaro",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+     "angulo": "Conclusão central do relatório.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Mendonça e Vorcaro: mensagens de terceiros citam terno, jantar e reunião",
+     "url": "https://www.diariodocentrodomundo.com.br/mendonca-e-vorcaro-mensagens-de-terceiros-citam-terno-jantar-e-reuniao/",
+     "angulo": "Detalha as 382 menções e o que elas dizem.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Diretor da PF pôs Mendonça entre ministros com “indícios de crime” mesmo sem achar contato dele com Vorcaro",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/diretor-da-pf-pos-mendonca-entre-ministros-com-indicios-de-crime-mesmo-sem-achar-contato-dele-com-vorcaro.ghtml",
+     "angulo": "Bastidor sobre como a PF classificou os ministros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Mendonça expõe falsa equivalência no caso Master; Moraes, Nunes e Toffoli também abrirão sigilo?",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-expoe-falsa-equivalencia-no-caso-master-moraes-nunes-e-toffoli-tambem-abrirao-sigilo/",
+     "angulo": "Coluna critica a PF por igualar Mendonça a Moraes, Toffoli e Nunes Marques.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Caso Master: Fachin deve manter sob sigilo menções a outros ministros após liberar relatório de Mendonça",
+     "url": "https://www.brasil247.com/brasil/caso-master-fachin-deve-manter-sob-sigilo-mencoes-a-outros-ministros-apos-liberar-relatorio-de-mendonca/",
+     "angulo": "Relatórios dos outros ministros seguem fechados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/nao-vejo-problema-mas-nao-resolve-a-questao-diz-gilmar-sobre-abertura-de-sigilo-do-stf-no-caso-master.shtml",
+     "angulo": "Reação de Gilmar Mendes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Caso Master: Mendonça abre mão do sigilo da investigação da PF e Fachin concorda",
+     "url": "https://www.jota.info/stf/do-supremo/caso-master-mendonca-abre-mao-do-sigilo-da-investigacao-da-pf-e-fachin-concorda",
+     "angulo": "Ofício de Mendonça e as 30 páginas de menções.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "PF não encontra trocas de mensagens entre Mendonça e Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-nao-encontra-trocas-de-mensagens-entre-mendonca-e-vorcaro/",
+     "angulo": "Destaca a ausência de diálogo direto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ao pedir fim do sigilo de relatório, Mendonça tenta se antecipar a críticas sobre sua relatoria no caso Master",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/20/ao-pedir-fim-do-sigilo-de-relatorio-mendonca-tenta-se-antecipar-a-criticas-sobre-sua-relatoria-no-caso-master.ghtml",
+     "angulo": "Análise da estratégia de Mendonça.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Fachin retira sigilo de relatório da PF sobre André Mendonça após pedido do próprio ministro",
+     "url": "https://revistaforum.com.br/politica/fachin-retira-sigilo-relatorio-andre-mendonca-master/",
+     "angulo": "Registro da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "ataque-russo-mata-oito-na-ucrania-e-atinge-embaixada-do-brasil-em-kiev",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Ataque russo à Ucrânia mata oito e atinge embaixadas em Kiev, entre elas a do Brasil",
+   "lide": "A Rússia lançou na madrugada de sexta (20) um dos maiores ataques aéreos da guerra, contra pontes, estações e infraestrutura de energia. Destroços de drones caíram em quatro embaixadas em Kiev, e dois mísseis e um drone russos entraram na Polônia, país da Otan, que falou em provocação deliberada.",
+   "contexto": "Putin havia prometido retaliação 'dolorosa' depois do ataque ucraniano à ponte da Crimeia. No mesmo dia, Trump elogiava as conversas com Putin e Xi na cúpula trilateral.",
+   "fatos": [
+    {
+     "texto": "Os ataques mataram ao menos oito pessoas na Ucrânia, seis delas em Kiev, segundo o governo ucraniano.",
+     "base": "3 fontes independentes (Opera Mundi, El País, AFP)"
+    },
+    {
+     "texto": "Destroços de drones atingiram as áreas das embaixadas do Brasil, da África do Sul, da Áustria e dos Países Baixos; o Itamaraty diz que não houve feridos nem danos à sede brasileira.",
+     "base": "nota do Itamaraty; 3 fontes independentes (Estadão, CNN Brasil, Band)"
+    },
+    {
+     "texto": "A nota do Itamaraty condenou os ataques e pediu respeito ao direito internacional humanitário, sem nomear a Rússia.",
+     "base": "nota do Itamaraty; 2 fontes independentes (Fórum, Gazeta do Povo)"
+    },
+    {
+     "texto": "A Polônia informou que dois mísseis e um drone russos violaram seu espaço aéreo no sudeste do país, perto de exercícios militares europeus, sem deixar feridos.",
+     "base": "governo polonês; 3 fontes independentes (BBC Brasil, Veja, El País)"
+    },
+    {
+     "texto": "A França pediu reunião do Conselho de Segurança da ONU após os ataques às embaixadas.",
+     "base": "3 fontes independentes (AFP, Le Monde, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A entrada dos mísseis foi uma 'provocação intencional' de Putin contra a Otan.",
+     "quem": "Donald Tusk, primeiro-ministro da Polônia"
+    },
+    {
+     "texto": "Washington adotou tom cauteloso e evitou falar em provocação.",
+     "quem": "DW Brasil"
+    },
+    {
+     "texto": "O Kremlin usou munição de fragmentação e atacou de forma a dificultar o trabalho de bombeiros e socorristas.",
+     "quem": "Volodymyr Zelensky, presidente da Ucrânia (citado pelo Clarín)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O Itamaraty condenou os ataques que atingiram a embaixada e cobrou respeito ao direito humanitário, mantendo a linha de não apontar culpados.",
+    "oposicao": "Veículos à direita destacam que o governo Lula condenou o ataque sem citar a Rússia."
+   },
+   "visao_de_fora": "Para o Brasil, o ataque chegou à própria embaixada em Kiev; a reação do Itamaraty, sem nomear Moscou, segue a posição de neutralidade do governo na guerra.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Embaixada do Brasil na Ucrânia é atingida por destroços de drones russos",
+     "url": "https://www.cnnbrasil.com.br/internacional/embaixada-do-brasil-na-ucrania-e-atingida-por-destrocos-de-drones-russos/",
+     "angulo": "Nota do Itamaraty e ausência de feridos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Sem citar a Rússia, governo Lula condena ataque que atingiu embaixada do Brasil na Ucrânia",
+     "url": "https://www.gazetadopovo.com.br/mundo/sem-citar-a-russia-governo-lula-condena-ataque-que-atingiu-embaixada-do-brasil-na-ucrania/",
+     "angulo": "Destaca que a nota não responsabiliza Moscou.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Ataques russos atingem três pontes, instalações militares e energéticas da Ucrânia",
+     "url": "https://operamundi.uol.com.br/guerra-na-ucrania/ataques-russos-atingem-tres-pontes-instalacoes-militares-e-energeticas-da-ucrania/",
+     "angulo": "Alvos do ataque e número de mortos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
+     "url": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Mísseis na Polônia às vésperas da visita do chefe da Otan.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Itamaraty condena ataque que atingiu embaixada do Brasil em Kiev, mas não cita Rússia",
+     "url": "https://revistaforum.com.br/global/embaixada-do-brasil-em-kiev/",
+     "angulo": "Horário e teor da nota do Itamaraty.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Polônia acusa Putin de ‘provocação intencional’ após dois mísseis russos atingirem país",
+     "url": "https://veja.abril.com.br/mundo/polonia-acusa-putin-de-provocacao-intencional-apos-dois-misseis-russos-atingirem-pais/",
+     "angulo": "Reação de Varsóvia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Russia pummels Ukraine with massive strikes, missile hits Poland",
+     "url": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
+     "angulo": "Agência: 'Rússia castiga Ucrânia'; mortos em Kiev e mísseis na Polônia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Embaixada brasileira na Ucrânia é atingida por destroços após ataque russo em Kiev, afirma Itamaraty",
+     "url": "https://www.estadao.com.br/internacional/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataque-russo-em-kiev-afirma-itamaraty/",
+     "angulo": "Registro da confirmação do Itamaraty.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
+     "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+     "angulo": "Em espanhol: ataque às pontes de Kiev após a ofensiva no estreito de Kerch; apagões em dez regiões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Tusk vê provocação russa após queda de mísseis na Polônia e critica reação dos EUA",
+     "url": "https://www.dw.com/pt-br/tusk-vê-provocação-russa-após-queda-de-mísseis-na-polônia-e-critica-reação-dos-eua/a-80005937?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Tusk critica a reação dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Rusia lanzó más de 100 misiles contra Ucrania: Zelenski denuncia que el Kremlin usó munición de racimo",
+     "url": "https://www.clarin.com/mundo/rusia-lanzo-100-misiles-ucrania-zelenski-denuncia-kremlin-uso-municion-racimo_0_0FftFwGPto.html",
+     "angulo": "Em espanhol: mais de 100 mísseis e acusação de munição de fragmentação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Governo Lula condena ataque russo próximo à embaixada do Brasil na Ucrânia",
+     "url": "https://www.metropoles.com/brasil/governo-lula-condena-ataque-russo-proximo-a-embaixada-do-brasil-na-ucrania",
+     "angulo": "Estilhaços atingiram o terreno da representação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "supercelula-mata-tres-e-fere-60-em-tupancireta-rs",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Supercélula com ventos de 114 km/h mata três e fere 60 em Tupanciretã (RS)",
+   "lide": "A tempestade atingiu a cidade de cerca de 20 mil habitantes na madrugada de sexta (20), destelhou milhares de casas e derrubou luz, telefonia e internet. Cerca de 30 municípios gaúchos tiveram danos, e governos estadual e federal mandaram equipes e recursos.",
+   "fatos": [
+    {
+     "texto": "Três pessoas morreram e 60 ficaram feridas em Tupanciretã, segundo a Defesa Civil do RS; entre os mortos está o ex-vereador Ronaldo Machado Salles.",
+     "base": "Defesa Civil do RS; 3 fontes independentes (Agência Brasil, BBC Brasil, Jovem Pan)"
+    },
+    {
+     "texto": "As rajadas de vento chegaram a 114 km/h, e a Defesa Civil investiga se houve microexplosão.",
+     "base": "3 fontes independentes (Band, Folha, Metrópoles)"
+    },
+    {
+     "texto": "O governador Eduardo Leite liberou R$ 2 milhões da Defesa Civil estadual para ações emergenciais.",
+     "base": "publicação do governador; 3 fontes independentes (Valor, SBT, Band)"
+    },
+    {
+     "texto": "O governo federal enviou equipe do Grupo de Apoio a Desastres da Defesa Civil Nacional, e os ministros Waldez Góes e Paulo Pimenta visitam a cidade neste sábado (21).",
+     "base": "3 fontes independentes (Agência Brasil, CartaCapital, SBT)"
+    },
+    {
+     "texto": "Cerca de 30 cidades gaúchas tiveram danos humanos ou materiais.",
+     "base": "Defesa Civil do RS; 2 fontes independentes (BBC Brasil, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Sul já registra em 2026 cerca de 36% mais tornados que em 2025, num ano marcado pelo início do El Niño.",
+     "quem": "Brasil Chasers, grupo de observação meteorológica, citado pelo Valor (o país não tem base oficial unificada)"
+    },
+    {
+     "texto": "Quase nenhuma casa da cidade ficou intacta.",
+     "quem": "Eduardo Leite (PSD), governador do RS"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A tempestade danificou cerca de 8 mil das 8,6 mil casas da cidade.",
+     "rotulo": "Contraditório",
+     "explicacao": "CartaCapital, InfoMoney e Gazeta do Povo falam em 8 mil casas danificadas; Defesa Civil, g1, Band, Veja e CNN Brasil contam cerca de 5 mil destelhadas. A diferença pode vir de critérios distintos (danificadas × destelhadas), ainda sem balanço consolidado.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Três mortes, 60 feridos, 4 mil pessoas afetadas e mais de 5 mil casas destelhadas: o balanço de estragos causados por supercélula no RS",
+     "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/balanco-estragos-supercelula-rs.ghtml",
+     "angulo": "Balanço mais recente e relatos de moradores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Tempestade deixa três mortos, 60 feridos e danifica 8 mil casas em cidade do RS",
+     "url": "https://www.gazetadopovo.com.br/brasil/tempestade-deixa-um-morto-e-causa-danos-em-8-000-residencias-em-uma-cidade-do-rs/",
+     "angulo": "Relata 8 mil casas danificadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
+     "url": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Panorama dos 30 municípios afetados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Supercélula e microexplosão explicam devastação com ventos de 114 km/h no Rio Grande do Sul",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/supercelula-e-microexplosao-explicam-devastacao-com-ventos-de-114-kmh-no-rio-grande-do-sul.shtml",
+     "angulo": "Explica o fenômeno meteorológico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Lula mobiliza equipes federais para atender vítimas de temporal no RS",
+     "url": "https://www.cartacapital.com.br/sociedade/lula-mobiliza-equipes-federais-para-atender-vitimas-de-temporal-no-rs/",
+     "angulo": "Destaca a ação do governo federal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Tempestade atinge Rio Grande do Sul e deixa ao menos três mortos",
+     "url": "https://jovempan.com.br/brasil/tempestade-atinge-rio-grande-do-sul-e-deixa-ao-menos-tres-mortos/",
+     "angulo": "Números de feridos e desalojados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "RS: ex-vereador está entre as vítimas da tempestade em Tupanciretã",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta",
+     "angulo": "Perfil de uma das vítimas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Leite diz que quase nenhuma casa ficou intacta após temporal em Tupanciretã (RS)",
+     "url": "https://www.band.com.br/nacional/rs/leite-diz-que-quase-nenhuma-casa-ficou-intacta-apos-temporal-em-tupancireta-rs",
+     "angulo": "Relato do governador sobre a destruição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Tornados crescem 35% na região Sul do Brasil, apontam dados",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/20/tornados-crescem-35percent-na-regiao-sul-apontam-dados.ghtml",
+     "angulo": "Dados sobre o aumento de tornados no Sul.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Vice-governador do RS relata destruição em Tupanciretã",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/vice-governador-do-rs-relata-destruicao-completa-em-tupancireta",
+     "angulo": "Entrevista com o vice-governador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Sobe para 3 o número de mortos após temporal que devastou Tupanciretã (RS); acampamento do MST também foi atingido",
+     "url": "https://www.brasildefato.com.br/2026/11/20/sobe-para-3-o-numero-de-mortos-apos-temporal-que-devastou-tupancireta-rs-acampamento-do-mst-tambem-foi-atingido/",
+     "angulo": "Atualiza mortos e cita acampamento do MST atingido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Temporal mata três, fere 60, destelha 5.000 casas e colapsa luz, telefonia e internet em cidade gaúcha",
+     "url": "https://veja.abril.com.br/brasil/temporal-mata-tres-fere-60-destelha-5-000-casas-e-colapsa-luz-telefonia-e-internet-em-cidade-gaucha/",
+     "angulo": "Colapso de luz, telefonia e internet.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "trump-diz-que-filipinas-trocarao-agro-do-brasil-pelo-dos-eua",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA a partir de janeiro",
+   "lide": "O presidente americano afirmou ter exigido que Manila compre 100% de seus produtos agrícolas dos EUA a partir de 1º de janeiro e citou o Brasil como fornecedor a ser substituído. O documento da Casa Branca sobre o acordo não fala em exclusividade, e as Filipinas são o 22º destino do agro brasileiro, mas o maior comprador de carne suína.",
+   "contexto": "Trump e Lula estiveram nas Filipinas na semana passada para a cúpula da Asean.",
+   "fatos": [
+    {
+     "texto": "Trump afirmou na sexta-feira (20) ter exigido que as Filipinas comprem apenas produtos agrícolas americanos a partir de 1º de janeiro, citando o Brasil entre os fornecedores atuais.",
+     "base": "declaração a jornalistas; 3 fontes independentes (Folha, Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "As Filipinas são o maior comprador de carne suína do Brasil e o 22º destino das exportações do agronegócio brasileiro.",
+     "base": "2 fontes independentes (g1, Poder360)"
+    },
+    {
+     "texto": "A Frente Parlamentar Brasil-Asean apresentou moção na Câmara em defesa da liberdade de comércio com as Filipinas.",
+     "base": "2 fontes independentes (Metrópoles, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A fala não deve ter impacto imediato sobre as exportações, porque o Brasil tem posição consolidada no mercado filipino, que comprou cerca de US$ 1,84 bilhão do agro brasileiro em 2025.",
+     "quem": "CNN Brasil, com base em avaliação de fontes brasileiras"
+    },
+    {
+     "texto": "Trump usa a rivalidade com a China para pressionar as Filipinas.",
+     "quem": "Exame e Brasil 247"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "As Filipinas concordaram em comprar 100% de seus produtos agrícolas dos EUA a partir de janeiro.",
+     "rotulo": "Sem evidência",
+     "explicacao": "O documento da Casa Branca sobre o acordo não estabelece exclusividade, e o governo filipino diz que as negociações continuam, sem confirmar a cláusula.",
+     "onde_circula": "fala de Donald Trump reproduzida pela imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Trump diz ter exigido que Filipinas comprem produtos agrícolas dos EUA e cancelem negócios com Brasil",
+     "url": "https://c-level.folha.uol.com.br/agro/2026/11/trump-diz-ter-exigido-que-filipinas-comprem-produtos-agricolas-dos-eua-e-cancelem-negocios-com-brasil.shtml",
+     "angulo": "Relato da fala e da data de 1º de janeiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump diz que Filipinas deixarão de comprar produtos agrícolas do Brasil após acordo com os EUA",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-diz-que-filipinas-deixarao-de-comprar-produtos-agricolas-do-brasil-apos-acordo-com-os-eua/",
+     "angulo": "Registro da fala de Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
+     "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml",
+     "angulo": "Peso real das Filipinas nas exportações do agro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Filipinas lideram compras de carne suína in natura do Brasil",
+     "url": "https://www.poder360.com.br/poder-agro/filipinas-lideram-compras-de-carne-suina-in-natura-do-brasil/",
+     "angulo": "Aponta que o documento oficial não prevê exclusividade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Trump exige que Filipinas parem de comprar do Brasil e faz ameaça",
+     "url": "https://revistaforum.com.br/global/trump-filipinas-brasil/",
+     "angulo": "Destaca a ameaça embutida na fala.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Brasil não vê impacto imediato de fala de Trump sobre agro e Filipinas",
+     "url": "https://www.cnnbrasil.com.br/agro/brasil-nao-ve-impacto-imediato-de-fala-de-trump-sobre-agro-e-filipinas/",
+     "angulo": "Avaliação de impacto para o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Trump diz que Filipinas vão deixar de comprar produtos agrícolas do Brasil",
+     "url": "https://revistaoeste.com/agronegocio/trump-diz-que-filipinas-vao-deixar-de-comprar-produtos-agricolas-do-brasil/",
+     "angulo": "Registro da coletiva na Casa Branca.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Frente Parlamentar repudia exigência comercial de Trump que atinge o Brasil",
+     "url": "https://www.metropoles.com/brasil/frente-parlamentar-repudia-exigencia-comercial-de-trump-contra-o-brasil",
+     "angulo": "Reação de parlamentares brasileiros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Trump diz que Filipinas trocarão agro do Brasil pelo dos EUA",
+     "url": "https://exame.com/agro/trump-diz-que-filipinas-trocarao-agro-do-brasil-pelo-dos-eua/",
+     "angulo": "Uso da ameaça chinesa para pressionar Manila.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Trump afirma que Filipinas vão comprar 100% de produtos agrícolas dos EUA",
+     "url": "https://terrabrasilnoticias.com/2026/11/trump-afirma-que-filipinas-vao-comprar-100-de-produtos-agricolas-dos-eua/",
+     "angulo": "Manila não confirmou a exclusividade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Trump quer tirar Brasil do mercado agrícola filipino a partir de 2027",
+     "url": "https://www.brasil247.com/mundo/trump-quer-tirar-brasil-do-mercado-agricola-filipino-a-partir-de-2027/",
+     "angulo": "Enfoque na disputa com a China.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
+     "url": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Contexto da viagem de Trump à Ásia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "wall-street-entra-em-correcao-com-venda-de-acoes-de-ia",
+   "editoria": "Economia",
+   "escopo": "mundo",
+   "titulo": "S&P 500 e Dow Jones entram em correção, e Nasdaq apaga ganhos do ano com venda de ações de IA",
+   "lide": "As bolsas de Nova York tiveram na sexta (20) uma das piores semanas desde a pandemia, puxadas por Nvidia e pela recém-listada Anthropic. A B3 estava fechada pelo feriado da Consciência Negra e reabre na segunda sob o efeito da onda global de aversão a risco.",
+   "contexto": "A Nvidia vive uma crise desde a renúncia do CEO Jensen Huang, em meio a escândalo pessoal e suspeitas de espionagem chinesa. A Anthropic estreou na Nasdaq na quinta (19).",
+   "fatos": [
+    {
+     "texto": "O S&P 500 e o Dow Jones entraram em território de correção, e o Nasdaq apagou toda a valorização acumulada em 2026.",
+     "base": "3 fontes independentes (Valor, InfoMoney, The Guardian)"
+    },
+    {
+     "texto": "O S&P 500 teve a sétima queda seguida, a maior sequência de perdas desde fevereiro de 2020.",
+     "base": "2 fontes independentes (Brasil 247, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "As ações da Anthropic fecharam em queda no segundo dia de negociação (8,5%, a US$ 88,91, segundo o Valor), ainda acima do preço do IPO, de US$ 83.",
+     "base": "3 fontes independentes (Valor, CNN Brasil, The Guardian)"
+    },
+    {
+     "texto": "As ações da Nvidia acumulam a pior sequência de quedas desde 2008.",
+     "base": "2 fontes independentes (g1, Exame)"
+    },
+    {
+     "texto": "Trump defendeu que Jensen Huang peça desculpas e volte ao comando da Nvidia.",
+     "base": "declaração do presidente; 3 fontes independentes (Bloomberg, CNN Brasil, InfoMoney)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A SEC investiga as práticas contábeis da Nvidia.",
+     "quem": "Reportagem com base em duas fontes anônimas, reproduzida por Folha, Valor e InfoMoney"
+    },
+    {
+     "texto": "A queda reflete dúvidas sobre o retorno dos gastos bilionários em IA e data centers, somadas a juros mais altos nos EUA.",
+     "quem": "Valor, Financial Times e Le Monde"
+    },
+    {
+     "texto": "Mais quedas estão por vir nas próximas sessões.",
+     "quem": "Goldman Sachs, citado pelo InfoMoney"
+    },
+    {
+     "texto": "A incerteza sobre como os democratas, que venceram as eleições de meio de mandato, vão afetar a construção de data centers pesa sobre o setor.",
+     "quem": "CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A B3 não abriu na sexta por causa do feriado; a onda global de aversão a risco deve chegar à bolsa brasileira e ao dólar na segunda.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Aversão a risco derruba bolsas de NY em meio a dúvidas sobre IA",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/20/aversao-a-risco-derruba-bolsas-de-ny-em-meio-a-duvidas-sobre-ia.ghtml",
+     "angulo": "Correção do S&P e do Dow e IPO da Anthropic sem efeito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "angulo": "Imprensa britânica: 'Nasdaq apaga ganhos de 2026'; questiona os gastos em IA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street",
+     "url": "https://exame.com/invest/mercados/tombo-das-acoes-de-ia-derruba-nasdaq-em-528-e-provoca-onda-de-perdas-em-wall-street/",
+     "angulo": "Semicondutores lideram as perdas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Wall Street fecha em forte queda com vendas no setor de IA; S&P 500 e Dow Jones entram em correção",
+     "url": "https://www.brasil247.com/economia/wall-street-fecha-em-forte-queda-com-vendas-no-setor-de-ia-sp-500-e-dow-jones-entram-em-correcao/",
+     "angulo": "Sequência de quedas do S&P 500.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir",
+     "url": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/",
+     "angulo": "Efeito para o Brasil e alerta do Goldman.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+     "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+     "angulo": "Imprensa britânica: 'Tecnologia dos EUA entra em mercado de baixa'; pior semana desde a Covid.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
+     "angulo": "Histórico de quedas da Nvidia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Êxodo de ações de tecnologia apaga ganhos do Nasdaq e leva S&P à correção",
+     "url": "https://terrabrasilnoticias.com/2026/11/exodo-de-acoes-de-tecnologia-apaga-ganhos-do-nasdaq-e-leva-sp-a-correcao/",
+     "angulo": "VIX dispara e S&P entra em correção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+     "angulo": "Imprensa francesa: 'Wall Street em debandada'; dúvidas sobre o modelo de negócio da IA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Exôdo de ações tech anula ganhos do Nasdaq com temor sobre IA de volta",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/exodo-de-acoes-tech-anula-ganhos-do-nasdaq-com-temor-sobre-ia-de-volta/",
+     "angulo": "Peso dos democratas e da crise na Nvidia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology",
+     "angulo": "Agência: Trump pede 'grande desculpa' e volta de Huang.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "EUA investigam contabilidade da Nvidia em meio à crise envolvendo ex-CEO, diz jornal",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/eua-investigam-contabilidade-da-nvidia-em-meio-a-crise-envolvendo-ex-ceo-diz-jornal.shtml",
+     "angulo": "Investigação da SEC segundo fontes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "dino-e-moraes-votam-para-tornar-van-hattem-reu-e-zanin-pede-destaque",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Dino e Moraes votam para tornar Van Hattem réu por calúnia, e Zanin leva caso a sessão presencial",
+   "lide": "A Primeira Turma do STF começou a julgar no plenário virtual a denúncia da PGR contra o deputado e senador eleito Marcel van Hattem (Novo-RS) por falas da tribuna da Câmara contra um delegado da PF. Depois dos votos de Flávio Dino e Alexandre de Moraes, Cristiano Zanin pediu destaque, e o caso vai para sessão presencial, sem data.",
+   "contexto": "Em 2024, Van Hattem acusou da tribuna o delegado Fábio Shor de abuso de autoridade ao pedir a prisão de Filipe Martins. Segundo o Poder360, Shor passou a integrar o gabinete de Moraes em março.",
+   "fatos": [
+    {
+     "texto": "Flávio Dino votou na sexta-feira (20) pelo recebimento da denúncia da PGR contra Van Hattem por calúnia e injúria contra o delegado da PF Fábio Shor.",
+     "base": "3 fontes independentes (Folha, Gazeta do Povo, CartaCapital)"
+    },
+    {
+     "texto": "Alexandre de Moraes também votou para tornar o deputado réu.",
+     "base": "2 fontes independentes (g1, Poder360)"
+    },
+    {
+     "texto": "Zanin pediu destaque, o que tira o caso do plenário virtual e o leva a julgamento presencial na Primeira Turma.",
+     "base": "3 fontes independentes (Revista Oeste, O Antagonista, Veja)"
+    },
+    {
+     "texto": "Entidades empresariais do Rio Grande do Sul divulgaram nota conjunta com 'perplexidade' sobre o tratamento dado ao deputado.",
+     "base": "2 fontes independentes (Gazeta do Povo, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O voto de Dino abre 'precedente extremamente perigoso' e é sinal de 'anormalidade democrática'.",
+     "quem": "Eduardo Ribeiro, presidente do Novo"
+    },
+    {
+     "texto": "Dino é parcial e ignorou o pedido da OAB para que o caso fosse julgado presencialmente.",
+     "quem": "Marcel van Hattem (Novo-RS)"
+    },
+    {
+     "texto": "As falas estão cobertas pela imunidade parlamentar.",
+     "quem": "Flávio Bolsonaro (PL-RJ) e a defesa do deputado"
+    },
+    {
+     "texto": "Zanin 'fez o correto' ao levar o caso à sessão presencial.",
+     "quem": "Marcel van Hattem"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos à esquerda tratam o caso como ataque de um deputado bolsonarista a um delegado da PF, que não estaria protegido pela imunidade.",
+    "oposicao": "Novo, PL e entidades do RS dizem que o STF criminaliza discurso feito na tribuna e viola a imunidade parlamentar."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
+     "angulo": "Votos de Dino e Moraes e o destaque de Zanin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Entidades manifestam preocupação e perplexidade com julgamento de Van Hattem",
+     "url": "https://www.gazetadopovo.com.br/republica/entidades-preocupacao-julgamento-van-hattem/",
+     "angulo": "Reação de entidades gaúchas em defesa da imunidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Zanin suspende julgamento virtual e leva caso de Van Hattem à sessão presencial",
+     "url": "https://www.cartacapital.com.br/justica/zanin-suspende-julgamento-virtual-e-leva-caso-de-van-hattem-a-sessao-presencial/",
+     "angulo": "Registro da suspensão do julgamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'",
+     "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-novo-condena-voto-de-dino-contra-van-hattem-anormalidade-democratica.shtml",
+     "angulo": "Reação do partido do deputado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Moraes vota para tornar Van Hattem réu por críticas a seu assessor",
+     "url": "https://www.poder360.com.br/poder-justica/moraes-vota-para-tornar-van-hattem-reu-por-criticas-a-seu-assessor/",
+     "angulo": "Destaca que o delegado hoje trabalha no gabinete de Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Dino vota para tornar o bolsonarista Van Hattem réu por atacar delegado",
+     "url": "https://www.diariodocentrodomundo.com.br/dino-vota-para-tornar-o-bolsonarista-van-hattem-reu-por-atacar-delegado/",
+     "angulo": "Chama o deputado de bolsonarista e fala em 'ataque' ao delegado.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "STF decide se Van Hattem vira réu por discurso na Câmara",
+     "url": "https://revistaoeste.com/politica/stf-decide-se-van-hattem-vira-reu-por-discurso-na-camara/",
+     "angulo": "Antecipa o julgamento por discurso na tribuna.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Crusoé: Van Hattem aponta parcialidade de Dino",
+     "url": "https://oantagonista.com.br/brasil/crusoe-van-hattem-aponta-parcialidade-de-dino/",
+     "angulo": "Reação do deputado ao voto de Dino.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "STF: Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF",
+     "url": "https://www.brasil247.com/brasil/stf-dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-pf/",
+     "angulo": "Denúncia da PGR e alegação de imunidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Zanin pede destaque e leva caso de Van Hattem para o plenário físico da 1ª Turma do STF",
+     "url": "https://veja.abril.com.br/brasil/zanin-pede-destaque-e-leva-caso-de-van-hattem-para-o-plenario-fisico-da-1a-turma-do-stf/",
+     "angulo": "Caso vai ao plenário físico da Primeira Turma.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Van Hattem: Zanin interrompe julgamento após voto de Dino para torná-lo réu no STF",
+     "url": "https://revistaforum.com.br/politica/zanin-van-hattem-reu-no-stf/",
+     "angulo": "Registro da interrupção do julgamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "“Zanin fez o correto”, diz Van Hattem sobre julgamento no STF",
+     "url": "https://www.gazetadopovo.com.br/republica/zanin-fez-correto-diz-van-hattem-julgamento-stf/",
+     "angulo": "Van Hattem elogia Zanin e cobra o Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "cop31-passa-do-prazo-sem-acordo-sobre-combustiveis-fosseis",
+   "editoria": "Clima",
+   "escopo": "mundo",
+   "titulo": "COP31 passa do prazo sem acordo, e negociação sobre combustíveis fósseis vai ao sábado",
+   "lide": "A presidência da conferência do clima em Antália suspendeu as negociações até a manhã deste sábado (21) depois de aprovar só decisões de procedimento. Financiamento, adaptação, transição justa e o texto final, que hoje não menciona combustíveis fósseis, seguem em aberto.",
+   "fatos": [
+    {
+     "texto": "A presidência da COP31 suspendeu as negociações até as 9h de sábado (21), deixando para o fim de semana financiamento, adaptação, transição justa e a decisão de capa.",
+     "base": "3 fontes independentes (Estadão, Folha, SBT)"
+    },
+    {
+     "texto": "A versão do texto final apresentada aos países não menciona combustíveis fósseis, e o ministro do Panamá a considerou inaceitável.",
+     "base": "3 fontes independentes (CNN Brasil, Exame, Al Jazeera)"
+    },
+    {
+     "texto": "A plenária de sexta só começou às 21h23 no horário local e aprovou decisões procedimentais.",
+     "base": "2 fontes independentes (Folha, Estadão)"
+    },
+    {
+     "texto": "Ativistas protestaram dentro da conferência gritando 'vergonha' contra o rascunho.",
+     "base": "vídeo do evento; 2 fontes independentes (Euronews, Mídia Ninja)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A COP31 pode ser a pior da história.",
+     "quem": "Organizações da sociedade civil, citadas por Agência Brasil e SBT"
+    },
+    {
+     "texto": "A conferência corre o risco de virar uma 'cúpula fóssil'.",
+     "quem": "União Europeia, citada pela Al Jazeera"
+    },
+    {
+     "texto": "Os países avançaram para acordos sobre eletrificação, captura de carbono e redução de metano.",
+     "quem": "Murat Kurum, presidente da COP31"
+    },
+    {
+     "texto": "O impasse expõe a regra de consenso, que permite a poucos países travar tudo.",
+     "quem": "Exame"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O Brasil, que presidiu a COP30, chega com desmatamento em queda em todos os biomas, mas as emissões de metano da agropecuária passam a ser o ponto fraco do país nas negociações, segundo a Folha.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-20",
+    "id": "novo-rascunho-da-cop31-tira-mencao-a-combustiveis-fosseis",
+    "titulo": "Novo rascunho da COP31 tira a menção ao fim dos combustíveis fósseis; Brasil tenta recolocar seus 'mapas do caminho'"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Cúpula do Clima na Turquia adia decisão, revolta ambientalistas e ganha prêmio de ‘Fóssil Colossal’",
+     "url": "https://www.estadao.com.br/internacional/cupula-do-clima-na-turquia-adia-decisao-revolta-ambientalistas-e-ganha-premio-de-fossil-colossal/",
+     "angulo": "Adiamento e prêmio 'Fóssil Colossal'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Sociedade civil diz que COP31 poderá ser a pior da história",
+     "url": "https://www.brasildefato.com.br/2026/11/20/sociedade-civil-diz-que-cop31-podera-ser-a-pior-da-historia/",
+     "angulo": "Críticas das organizações da sociedade civil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Sem acordo em Antália, COP31 passa do prazo e escancara o desafio de repensar a própria COP",
+     "url": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/",
+     "angulo": "A regra de consenso que permite travar a conferência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+     "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+     "angulo": "Imprensa do Catar: 'Impasse sobre fósseis leva COP31 à prorrogação'; alerta da UE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Presidente da COP31 relata avanço para acordo sobre várias questões",
+     "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-cop31-relata-avanco-para-acordo-sobre-varias-questoes/",
+     "angulo": "Versão otimista da presidência turca.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Sob protestos e atraso, COP31 adota decisões protocolares e negociações seguem",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/sob-protestos-e-atraso-cop31-adota-decisoes-protocolares-e-negociacoes-seguem.shtml",
+     "angulo": "Bastidor da plenária atrasada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "COP31 declara fracasso em acordo sobre combustíveis fósseis sob protestos e atraso",
+     "url": "https://www.brasil247.com/mundo/cop31-declara-fracasso-em-acordo-sobre-combustiveis-fosseis-sob-protestos-e-atraso/",
+     "angulo": "Título fala em fracasso declarado, embora as negociações continuem.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Sociedade civil diz que COP31 poderá ser a pior da história",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/sociedade-civil-diz-que-cop-31-podera-ser-a-pior-da-historia",
+     "angulo": "Pontos sem consenso no fim de semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Imprensa britânica: 'Briga sobre fósseis deixa COP31 em impasse'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "Fracasso e Vergonha na COP 31! Sociedade civil e entidades se revoltam com alterações da nova Decisão de Capa",
+     "url": "https://midianinja.org/fracasso-e-vergonha-na-cop-31-sociedade-civil-e-entidades-se-revoltam-com-alteracoes-da-nova-decisao-de-capa/",
+     "angulo": "Reação de ativistas à nova decisão de capa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Turkey: Activists chant 'shame' as COP31 negotiations falter",
+     "url": "https://www.euronews.com/video/2026/11/20/turkey-activists-chant-shame-as-cop31-negotiations-falter",
+     "angulo": "Imprensa europeia: ativistas gritam 'vergonha'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Com desmatamento em baixa, metano expõe agronegócio do Brasil",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/com-desmatamento-em-baixa-metano-expoe-agronegocio-do-brasil.shtml",
+     "angulo": "Metano do agro como ponto fraco do Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "el-nino-poe-66-cidades-do-para-em-emergencia-por-incendios-e-estiagem",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Com El Niño, Pará tem 66 cidades em emergência por incêndios e estiagem",
+   "lide": "O reconhecimento federal publicado nesta semana pôs 66 dos 144 municípios paraenses em situação de emergência, segundo a Folha, e o estado já está sob emergência ambiental e climática de 120 dias. A seca também atinge rios da Amazônia, o Amapá e reservatórios do Agreste de Pernambuco, enquanto o Sul enfrenta temporais.",
+   "fatos": [
+    {
+     "texto": "O governo do Pará decretou emergência ambiental e climática em todo o estado por 120 dias, com suspensão das autorizações de uso do fogo em 31 municípios.",
+     "base": "decreto estadual; 2 fontes independentes (Exame, CNN Brasil)"
+    },
+    {
+     "texto": "O governo federal reconheceu emergência por incêndios florestais em 61 municípios do Pará por portaria de 17 de novembro; com o Diário Oficial de quarta (18), o total chega a 66 municípios por incêndios e estiagem, segundo a Folha.",
+     "base": "portaria da Defesa Civil Nacional e Diário Oficial da União"
+    },
+    {
+     "texto": "O boletim do Painel El Niño prevê que o fenômeno chegue à categoria 'muito forte' entre novembro de 2026 e janeiro de 2027, possivelmente o mais intenso desde 1950.",
+     "base": "boletim do Painel El Niño; 2 fontes independentes (Revista Oeste, Gazeta do Povo)"
+    },
+    {
+     "texto": "O governo de Sergipe decretou situação de emergência em Aracaju por causa da estiagem e da redução da disponibilidade de água.",
+     "base": "decreto estadual (Folha)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os rios Branco e Negro já estão em níveis críticos.",
+     "quem": "Serviço Geológico do Brasil, citado pela CartaCapital"
+    },
+    {
+     "texto": "A seca levou reservatórios do Agreste de Pernambuco ao colapso, com moradores de Surubim recebendo água a cada 30 dias.",
+     "quem": "g1"
+    },
+    {
+     "texto": "Centenas de peixes morreram no rio Araguari, em Ferreira Gomes (AP), pela seca extrema e altas temperaturas.",
+     "quem": "g1, com base em relatos e vídeos de moradores"
+    },
+    {
+     "texto": "Há 307 municípios em alerta alto para incêndios.",
+     "quem": "Cemaden, citado pela Revista Oeste"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Pará tem 66 cidades em emergência devido a incêndios e estiagem em meio ao El Niño",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/para-tem-66-cidades-em-emergencia-devido-a-incendios-e-estiagem-em-meio-ao-el-nino.shtml",
+     "angulo": "Levantamento dos municípios em emergência no Pará.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Por causa do El Niño, governo do Pará decreta emergência ambiental e climática por 120 dias",
+     "url": "https://exame.com/esg/por-causa-do-el-nino-governo-do-para-decreta-emergencia-ambiental-e-climatica-por-120-dias/",
+     "angulo": "Detalha o decreto estadual e a proibição de queimadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "El Niño atrasa chuvas e estiagem afeta rios na Amazônia",
+     "url": "https://www.cartacapital.com.br/sociedade/el-nino-atrasa-chuvas-e-estiagem-afeta-rios-na-amazonia/",
+     "angulo": "Níveis críticos dos rios da Amazônia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "El Niño caminha para ser o mais intenso desde 1950 com eventos extremos no Brasil; saiba o que esperar",
+     "url": "https://www.gazetadopovo.com.br/brasil/el-nino-caminha-para-ser-mais-intenso-desde-1950-eventos-extremos-no-brasil-o-que-esperar/",
+     "angulo": "Previsão de eventos extremos com o El Niño.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Seca leva reservatórios ao colapso no Agreste de Pernambuco",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/seca-leva-reservatorios-ao-colapso-no-agreste-de-pernambuco.ghtml",
+     "angulo": "Falta de água no Agreste pernambucano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Fumaça encobre Santarém e qualidade do ar chega a nível ruim no Pará",
+     "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/fumaca-encobre-santarem-e-qualidade-do-ar-chega-a-nivel-ruim-no-para/",
+     "angulo": "Fumaça e ar ruim no oeste do Pará.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "El Niño pode ser um dos mais intensos desde 1950, informa boletim",
+     "url": "https://revistaoeste.com/brasil/el-nino-pode-ser-um-dos-mais-intensos-desde-1950-informa-boletim/",
+     "angulo": "Boletim do Painel El Niño e alerta do Cemaden.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Principal rio de Ferreira Gomes enfrenta seca severa e altas temperaturas ameaçam peixes",
+     "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/20/principal-rio-de-ferreira-gomes-enfrenta-seca-severa-e-altas-temperaturas-ameacam-peixes.ghtml",
+     "angulo": "Peixes mortos no rio Araguari, no Amapá.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Pará declara emergência ambiental por incêndios florestais",
+     "url": "https://jovempan.com.br/brasil/para-declara-emergencia-ambiental-por-incendios-florestais/",
+     "angulo": "Número de incêndios no estado desde o início de novembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Governo de Sergipe decreta emergência na região metropolitana de Aracaju por estiagem",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/governo-de-sergipe-decreta-emergencia-na-regiao-metropolitana-de-aracaju-por-estiagem.shtml",
+     "angulo": "Estiagem chega à capital sergipana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "dino-vota-para-tornar-reu-ex-ministro-juscelino-filho",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Dino vota para tornar réu o ex-ministro Juscelino Filho por desvio de emendas",
+   "lide": "Relator no STF, Flávio Dino votou para receber integralmente a denúncia da PGR contra o deputado e ex-ministro das Comunicações de Lula, acusado de desviar emendas para obras da Codevasf no Maranhão. Segundo a denúncia, o desvio soma R$ 835,8 mil; o julgamento segue no plenário virtual.",
+   "contexto": "A PGR apresentou a denúncia em 2025, com base em relatório da PF que indiciou Juscelino Filho, então ministro, por fatos do período em que era deputado. Dino e Juscelino foram colegas no primeiro escalão do governo Lula.",
+   "fatos": [
+    {
+     "texto": "Flávio Dino votou na sexta-feira (20), no plenário virtual, para receber integralmente a denúncia da PGR contra Juscelino Filho.",
+     "base": "4 fontes independentes (Fórum, CartaCapital, Gazeta do Povo, Poder360)"
+    },
+    {
+     "texto": "A denúncia trata de suspeita de fraude em licitações e desvio de emendas parlamentares destinadas a obras da Codevasf no Maranhão.",
+     "base": "3 fontes independentes (Poder360, CartaCapital, Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As obras beneficiariam imóveis da família do deputado.",
+     "quem": "PGR, segundo o Poder360"
+    },
+    {
+     "texto": "O esquema teve participação da irmã do deputado, ex-prefeita de Vitorino Freire (MA).",
+     "quem": "PGR, segundo o SBT"
+    },
+    {
+     "texto": "Juscelino Filho é inocente, e a denúncia não implica culpa.",
+     "quem": "Defesa de Juscelino Filho, quando a denúncia foi apresentada"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "cartacapital",
+     "titulo": "Dino vota para tornar ex-ministro Juscelino Filho réu por desvio de emendas",
+     "url": "https://www.cartacapital.com.br/justica/dino-vota-para-tornar-ex-ministro-juscelino-filho-reu-por-desvio-de-emendas/",
+     "angulo": "Valor do desvio apontado pela PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dino aceita denúncia contra ex-ministro de Lula por desvio de emendas",
+     "url": "https://www.gazetadopovo.com.br/republica/dino-aceita-denuncia-ex-ministro-lula-desvio-emendas/",
+     "angulo": "Destaca o vínculo com o governo Lula e os outros cinco denunciados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Dino vota para tornar Juscelino Filho réu por desvio de emendas",
+     "url": "https://www.poder360.com.br/poder-justica/dino-vota-para-tornar-juscelino-filho-reu-por-desvio-de-emendas/",
+     "angulo": "Obras que beneficiariam imóveis da família.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Dino vota para tornar réu ex-ministro Juscelino Filho por suspeita de desvio de emendas",
+     "url": "https://revistaforum.com.br/politica/juscelino-filho-reu-dino/",
+     "angulo": "Voto pelo recebimento integral da denúncia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Dino vota para tornar ex-ministro Juscelino Filho réu",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/dino-vota-para-tornar-ex-ministro-juscelino-filho-reu",
+     "angulo": "Participação da irmã, ex-prefeita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Dino vota para tornar réu ex-ministro Juscelino Filho por desvio de emendas",
+     "url": "https://www.band.com.br/politica/dino-vota-para-tornar-reu-ex-ministro-juscelino-filho-por-desvio-de-emendas",
+     "angulo": "Crimes pelos quais pode responder.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "PF indicia Juscelino Filho em caso de suposto desvio de emendas",
+     "url": "https://www.cnnbrasil.com.br/politica/pf-indicia-ministro-juscelino-filho/",
+     "angulo": "Antecedente: o indiciamento pela PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "PGR denuncia Juscelino Filho por corrupção em caso de desvio de emenda parlamentar",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/pgr-denuncia-juscelino-filho-por-corrupcao-em-caso-de-desvio-de-emenda-parlamentar",
+     "angulo": "Antecedente: a denúncia da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    }
+   ]
+  }
+ ]
+}
