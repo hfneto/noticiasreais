@@ -1,0 +1,1506 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-22",
+ "gerado_em": "2026-11-22T05:59:59-03:00",
+ "historias": [
+  {
+   "id": "bolsonaro-vai-para-a-uti-com-abdomen-agudo-obstrutivo",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Bolsonaro vai para a UTI com abdômen agudo obstrutivo; Moraes libera visitas dos filhos",
+   "lide": "O hospital DF Star informou no sábado (21) que o ex-presidente está na UTI, estável, consciente e sem previsão de alta, com jejum, hidratação e sonda gástrica. Moraes autorizou visitas diárias de filhos e enteada, sem celulares, e a tornozeleira foi retirada durante a internação.",
+   "fatos": [
+    {
+     "texto": "Bolsonaro está na UTI do DF Star com diagnóstico de abdômen agudo obstrutivo, clinicamente estável, consciente e sem previsão de alta, segundo boletim de sábado (21).",
+     "base": "boletim médico; 3 fontes independentes (Agência Brasil, Brasil de Fato, CNN Brasil)"
+    },
+    {
+     "texto": "O tratamento inclui hidratação, jejum oral com suporte nutricional e sonda gástrica.",
+     "base": "boletim médico; 2 fontes independentes (Agência Brasil, CartaCapital)"
+    },
+    {
+     "texto": "Moraes autorizou visitas diárias de filhos e enteada durante a internação e proibiu celulares, câmeras e outros aparelhos que gravem imagem ou áudio.",
+     "base": "decisão do STF; 3 fontes independentes (Folha, O Globo, Jovem Pan)"
+    },
+    {
+     "texto": "A tornozeleira eletrônica foi retirada no hospital, onde o ex-presidente fica sob custódia 24 horas; Moraes determinou que seja recolocada após a alta.",
+     "base": "ofício da PMDF; 2 fontes independentes (CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "Michelle Bolsonaro voltou de Israel e visitou o marido na noite de sábado.",
+     "base": "3 fontes independentes (CNN Brasil, Revista Oeste, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Bolsonaro pode passar pela décima cirurgia desde a facada de 2018.",
+     "quem": "Carlos Bolsonaro (PL-SC), senador eleito"
+    },
+    {
+     "texto": "Alguns ministros do STF 'não dão um pio' sobre o risco à saúde do pai.",
+     "quem": "Carlos Bolsonaro"
+    },
+    {
+     "texto": "O ex-presidente está sem febre e 'com cara boa'.",
+     "quem": "Michelle Bolsonaro (PL-DF), senadora eleita"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A obstrução do intestino delgado é 'quase total'.",
+     "rotulo": "Contraditório",
+     "explicacao": "O médico Brasil Caiado usou 'quase total' ao Valor e a O Globo, mas a Revista Oeste cita o mesmo médico falando em 'obstrução parcial, com aderências'. O boletim do hospital fala em abdômen agudo obstrutivo, sem dizer o grau.",
+     "onde_circula": "imprensa e redes de aliados",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo não comentou; veículos à esquerda lembram que Bolsonaro cumpre pena por tentativa de golpe e registram as condições impostas por Moraes.",
+    "oposicao": "Filhos e aliados expõem fotos e relatos de sofrimento, cobram ministros do STF e organizam orações em frente ao hospital."
+   },
+   "visao_de_fora": "Euronews e DW noticiaram a ida para a UTI, destacando a escolta policial por causa da prisão domiciliar.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-21",
+    "id": "bolsonaro-e-internado-com-obstrucao-no-intestino-delgado",
+    "titulo": "Bolsonaro é internado em Brasília com obstrução no intestino delgado"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Ex-presidente Jair Bolsonaro está internado em UTI no Distrito Federal",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ex-presidente-jair-bolsonaro-esta-internado-em-uti-no-distrito-federal",
+     "angulo": "Íntegra do boletim médico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "A morte em doses homeopáticas",
+     "url": "https://revistaoeste.com/politica/a-morte-em-doses-homeopaticas/",
+     "angulo": "Coluna trata a internação como efeito da prisão.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Bolsonaro está na UTI em Brasília com quadro de abdômen agudo obstrutivo",
+     "url": "https://www.brasildefato.com.br/2026/11/21/bolsonaro-esta-na-uti-em-brasilia-com-quadro-de-abdomen-agudo-obstrutivo/",
+     "angulo": "Lembra a pena por tentativa de golpe.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Bolsonaro tem tornozeleira retirada e fica sob custódia 24h no hospital",
+     "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-tem-tornozeleira-retirada-e-fica-sob-custodia-24h-no-hospital/",
+     "angulo": "Ofício da PMDF e custódia no hospital.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Moraes autoriza visita de filhos de Bolsonaro no hospital; ex-presidente está na UTI",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/defesa-de-bolsonaro-pede-para-moraes-autorizar-visitas-diarias-de-filhos-no-hospital.shtml",
+     "angulo": "Decisão de Moraes sobre as visitas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Moraes autoriza Carlos a visitar Bolsonaro no hospital, mas sem celular",
+     "url": "https://www.gazetadopovo.com.br/republica/moraes-autoriza-carlos-a-visitar-bolsonaro-no-hospital-mas-sem-celular/",
+     "angulo": "Quem pode visitar e a proibição de celulares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Bolsonaro é diagnosticado com abdômen agudo obstrutivo e não tem previsão de alta, diz boletim",
+     "url": "https://www.cartacapital.com.br/politica/bolsonaro-e-diagnosticado-com-abdomen-agudo-obstrutivo-sem-previsao-de-alta-diz-boletim/",
+     "angulo": "Tratamento descrito no boletim.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
+     "url": "https://www.poder360.com.br/poder-gente/padre-kelmon-quer-aval-de-moraes-para-dar-extrema-uncao-a-bolsonaro/",
+     "angulo": "Pedido para ministrar a unção dos enfermos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Bolsonaro está na UTI com obstrução intestinal e sem previsão de alta",
+     "url": "https://www.diariodocentrodomundo.com.br/bolsonaro-uti-obstrucao-intestinal-quadro-estavel/",
+     "angulo": "Ausência de previsão de alta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Carlos: alguns ministros do STF não dão um pio sobre Bolsonaro em risco",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/csa-brasil/carlos-alguns-ministros-do-stf-nao-dao-um-pio-sobre-bolsonaro-em-risco",
+     "angulo": "Críticas de Carlos a ministros do STF.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Com abdome obstruído, Jair Bolsonaro é transferido para UTI",
+     "url": "https://operamundi.uol.com.br/brasil/com-abdome-obstruido-jair-bolsonaro-e-transferido-para-uti/",
+     "angulo": "Transferência para a UTI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "Brazil ex-president Bolsonaro in intensive care over intestinal problem",
+     "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
+     "angulo": "Imprensa europeia: 'Bolsonaro em terapia intensiva'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "lula-defende-ajuste-fiscal-e-camara-vota-texto-nesta-segunda",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Lula defende ajuste fiscal contra críticas da esquerda e do mercado; Câmara vota nesta segunda",
+   "lide": "Em live no sábado (21), Lula disse estar 'triste' com aliados que criticaram o pacote, prometeu não cortar saúde, educação e salário mínimo e afirmou que o sistema financeiro não vai ensiná-lo a governar. O relator na Câmara manteve o texto do Senado, e Hugo Motta marcou a votação para segunda (23).",
+   "fatos": [
+    {
+     "texto": "Lula defendeu o ajuste fiscal em transmissão ao vivo com o deputado André Janones no sábado (21) e disse ficar 'triste' com críticas de 'companheiros' da esquerda.",
+     "base": "vídeo da live; 3 fontes independentes (UOL, CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "Lula afirmou que 'não é o sistema financeiro' que vai ensiná-lo a dirigir o país e criticou os 'yuppies da Faria Lima'.",
+     "base": "vídeo da live; 3 fontes independentes (Agência Brasil, Estadão, Gazeta do Povo)"
+    },
+    {
+     "texto": "O presidente disse que não haverá cortes em saúde, educação e salário mínimo e que o projeto é um ajuste para o Orçamento de 2027, não uma reforma fiscal.",
+     "base": "vídeo da live; 3 fontes independentes (Valor, g1, SBT)"
+    },
+    {
+     "texto": "O relator Mauro Benevides (União Brasil-CE) manteve o texto aprovado pelo Senado, e a Câmara deve votá-lo na segunda-feira (23).",
+     "base": "2 fontes independentes (g1, Gazeta do Povo)"
+    },
+    {
+     "texto": "O PSOL rachou sobre como reagir ao pacote, entre uma ala de oposição e outra de diálogo com o governo.",
+     "base": "3 fontes independentes (O Globo, Brasil 247, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Brasil precisa de ajuste de R$ 400 bilhões nas contas, com dívida perto de 90% do PIB e inflação acima de 5% em 2027.",
+     "quem": "Alberto Ramos, economista-chefe do Goldman Sachs para a América Latina"
+    },
+    {
+     "texto": "O racha lembra a disputa que deu origem ao PSOL em 2003, na reforma da Previdência.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Alcolumbre e Motta usam o ajuste para acenar ao Planalto de olho na reeleição para o comando das Casas.",
+     "quem": "O Globo e Metrópoles"
+    },
+    {
+     "texto": "O pacote ajuda a estabilizar as contas, mas é um remendo sem reforma estrutural.",
+     "quem": "Colunistas e editoriais da Folha"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Câmara vota o ajuste na segunda-feira (23).",
+     "rotulo": "Contraditório",
+     "explicacao": "g1 e Gazeta do Povo dizem que a votação será na segunda, em sessão noturna; O Tempo informa que a sessão começa na segunda, mas a votação deve ficar para terça (24).",
+     "onde_circula": "imprensa",
+     "checagem": []
+    },
+    {
+     "alegacao": "O ajuste é 'estelionato eleitoral'.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A acusação vem de setores da esquerda que criticam cortes; o governo diz que o texto preserva saúde, educação e salário mínimo e cobra renúncias fiscais. É avaliação política sobre promessas de campanha, não fato verificável.",
+     "onde_circula": "redes e parlamentares da esquerda",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo apresenta o pacote como ajuste que 'tira dos ricos', preserva programas sociais e não se curva à pressão da Faria Lima.",
+    "oposicao": "A oposição e o mercado veem o pacote como insuficiente para a dívida; à esquerda, críticos falam em traição de promessas de campanha."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-19",
+    "id": "senado-conclui-votacao-do-ajuste-fiscal-e-texto-vai-a-camara",
+    "titulo": "Senado rejeita mudanças da oposição e conclui o ajuste fiscal; Câmara deve votar até terça"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/o-sistema-financeiro-nao-vai-me-ensinar-dirigir-o-brasil-diz-lula",
+     "angulo": "Fala de Lula sobre o mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Lula reage a críticas da esquerda ao ajuste fiscal e ataca “yuppies da Faria Lima”",
+     "url": "https://www.gazetadopovo.com.br/economia/lula-reage-a-criticas-da-esquerda-ao-ajuste-fiscal-e-ataca-yuppies-da-faria-lima/",
+     "angulo": "Destaca o ataque à Faria Lima.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
+     "angulo": "Diferença entre ajuste e reforma.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Estelionato eleitoral? Lula responde críticas da esquerda radical sobre ajuste fiscal",
+     "url": "https://revistaforum.com.br/politica/estelionato-eleitoral-lula/",
+     "angulo": "Resposta de Lula à 'esquerda radical'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/21/lula-rebate-crticas-ao-ajuste-fiscal-diz-que-no-far-cortes-em-educao-e-sade-e-elogia-moretti.ghtml",
+     "angulo": "Promessa de não cortar saúde e educação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Proposta de ajuste fiscal do Planalto vira estopim e PSOL racha sobre relação com governo Lula",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/21/proposta-de-ajuste-fiscal-do-planalto-vira-estopim-e-psol-racha-sobre-relacao-com-governo-lula.ghtml",
+     "angulo": "Divisão no PSOL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Lula defende pacote fiscal: ‘Sistema financeiro não me ensinará a dirigir o País’",
+     "url": "https://jovempan.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/",
+     "angulo": "Crítica de Lula aos empresários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Goldman Sachs: Brasil precisa de ajuste nas contas públicas de R$ 400 bi",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/goldman-sachs-brasil-precisa-de-ajuste-nas-contas-publicas-de-r-400-bi/",
+     "angulo": "Avaliação do Goldman sobre as contas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Embate na esquerda sobre ajuste fiscal lembra disputa que deu origem ao PSOL em 2003",
+     "url": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/embate-na-esquerda-sobre-ajuste-fiscal-lembra-disputa-que-deu-origem-ao-psol-em-2003/",
+     "angulo": "Paralelo com a crise de 2003 no PT.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+     "angulo": "Relator mantém o texto do Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "VÍDEO: “Não vou tirar um centavo dos pobres”, diz Lula sobre críticas ao ajuste fiscal",
+     "url": "https://www.diariodocentrodomundo.com.br/video-nao-vou-tirar-um-centavo-dos-pobres-diz-lula-sobre-criticas-ao-ajuste-fiscal/",
+     "angulo": "Lula diz que não tirará dos pobres.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "O racha no PSOL após críticas ao ajuste fiscal do governo Lula",
+     "url": "https://www.diariodocentrodomundo.com.br/psol-divisao-ajuste-fiscal-governo-lula/",
+     "angulo": "Divergências no PSOL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "mortos-em-tupancireta-sobem-para-cinco-e-governo-reconhece-calamidade",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Mortos em Tupanciretã sobem para cinco, e governo federal reconhece calamidade",
+   "lide": "Duas vítimas feridas na tempestade de sexta morreram no sábado (21), e o governo federal reconheceu calamidade pública na cidade gaúcha. No Paraná, o Simepar confirmou dois tornados no mesmo dia, e uma nova frente fria traz risco de temporais ao Sul neste domingo.",
+   "fatos": [
+    {
+     "texto": "O número de mortos pela tempestade em Tupanciretã subiu para cinco no sábado (21).",
+     "base": "Defesa Civil do RS; 3 fontes independentes (g1, Gazeta do Povo, CNN Brasil)"
+    },
+    {
+     "texto": "As tempestades desde segunda afetaram 25.123 pessoas em 38 municípios gaúchos, com 265 feridos e 19.854 desalojados, segundo a Defesa Civil.",
+     "base": "balanço da Defesa Civil do RS; 2 fontes independentes (Valor, UOL)"
+    },
+    {
+     "texto": "O governo federal reconheceu estado de calamidade pública em Tupanciretã, anunciado pelo ministro Waldez Góes.",
+     "base": "2 fontes independentes (CNN Brasil, Valor)"
+    },
+    {
+     "texto": "O Simepar confirmou dois tornados na sexta (20), em Foz do Iguaçu e Manoel Ribas, o que eleva a 15 o número no Paraná em 2026.",
+     "base": "Simepar; 3 fontes independentes (Poder360, Gazeta do Povo, InfoMoney)"
+    },
+    {
+     "texto": "Lula prestou solidariedade e prometeu 'todo esforço possível' para recuperar a cidade.",
+     "base": "declaração do presidente; 3 fontes independentes (Agência Brasil, Band, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Uma nova frente fria pode trazer rajadas acima de 80 km/h e até 120 mm de chuva em áreas do RS neste domingo.",
+     "quem": "Previsão meteorológica citada pelo Poder360"
+    },
+    {
+     "texto": "Tupanciretã é 'a cidade mais assolada' que viu em 29 anos de carreira.",
+     "quem": "Coronel do Corpo de Bombeiros, à CNN Brasil"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "'Teve um tornado' em Tupanciretã.",
+     "rotulo": "Em apuração",
+     "explicacao": "Lula falou em tornado, mas a Defesa Civil gaúcha atribui a destruição a uma supercélula com indícios de microexplosão e ainda não confirmou tornado na cidade. Os dois tornados confirmados pelo Simepar foram no Paraná.",
+     "onde_circula": "fala de Lula reproduzida pela imprensa",
+     "checagem": []
+    },
+    {
+     "alegacao": "Foram 265 feridos só em Tupanciretã.",
+     "rotulo": "Contraditório",
+     "explicacao": "CNN Brasil atribui os 265 feridos ao município; o Valor diz que o número é do balanço estadual de 38 municípios. O balanço anterior da cidade era de 162 feridos.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-21",
+    "id": "supercelula-mata-tres-e-fere-60-em-tupancireta-rs",
+    "titulo": "Supercélula com ventos de 114 km/h mata três e fere 60 em Tupanciretã (RS)"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Homem de 65 anos é a 5ª morte confirmada após tempestade em Tupanciretã",
+     "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/morte-tempestade-tupancireta-homem-cruz-alta.ghtml",
+     "angulo": "Confirmação da quinta morte.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Defesa Civil confirma cinco mortes e mais de 260 feridos após tempestade no RS",
+     "url": "https://www.gazetadopovo.com.br/brasil/defesa-civil-confirma-cinco-mortes-apos-tempestade-rs/",
+     "angulo": "Balanço com mais de 260 feridos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Sobe para 5 o número de mortos em temporal no RS; Estado tem 20 mil desalojados",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/21/sobe-para-4-o-nmero-de-mortos-em-temporal-no-rs-estado-tem-20-mil-desalojados.ghtml",
+     "angulo": "Balanço estadual da Defesa Civil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Temporais deixam 3 mortos e atingem 20 mil pessoas no RS",
+     "url": "https://www.brasildefato.com.br/2026/11/21/temporais-deixam-3-mortos-e-atingem-20-mil-pessoas-no-rs/",
+     "angulo": "Balanço anterior: 33 municípios atingidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Governo reconhece calamidade pública em Tupanciretã (RS) após temporal",
+     "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/governo-reconhece-calamidade-publica-em-tupancireta-rs-apos-temporal/",
+     "angulo": "Reconhecimento federal da calamidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Tornados atingem Foz do Iguaçu e Manoel Ribas, no Paraná",
+     "url": "https://www.poder360.com.br/poder-brasil/tornados-atingem-foz-do-iguacu-e-manoel-ribas-no-parana/",
+     "angulo": "Tornados no Paraná.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade",
+     "angulo": "Fala de Lula sobre a cidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Sobe para 4 o número de mortos em Tupanciretã, no RS",
+     "url": "https://jovempan.com.br/brasil/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-rs/",
+     "angulo": "Atualização do número de mortos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026",
+     "url": "https://www.infomoney.com.br/brasil/parana-registra-dois-tornados-em-um-dia-e-chega-a-15-ocorrencias-em-2026/",
+     "angulo": "Ventos de até 180 km/h no Paraná.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lula mobiliza Defesa Civil após temporal destruir casas e hospital em Tupanciretã",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-mobiliza-defesa-civil-temporal-tupancireta/",
+     "angulo": "Destruição de casas e do hospital.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula envia equipes federais a Tupanciretã após temporal no RS",
+     "url": "https://revistaforum.com.br/brasil/lula-tupancireta-temporal/",
+     "angulo": "Envio de equipes federais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Sul terá temporais com rajadas de vento acima de 80 km/h no domingo",
+     "url": "https://www.poder360.com.br/poder-brasil/sul-tera-temporais-com-rajadas-de-vento-acima-de-80-km-h-no-domingo/",
+     "angulo": "Previsão de nova frente fria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "mexico-captura-chapo-isidro-e-prisao-desencadeia-violencia-em-sinaloa",
+   "editoria": "Segurança",
+   "escopo": "mundo",
+   "titulo": "México captura 'Chapo Isidro', um dos dez mais procurados pelo FBI, e prisão gera onda de violência",
+   "lide": "Forças especiais do Exército mexicano prenderam Fausto Isidro Meza Flores, chefe ligado aos Beltrán Leyva, em Guasave, Sinaloa, na noite de sexta (20). A captura provocou tiroteios, bloqueios de estradas e veículos incendiados no estado.",
+   "fatos": [
+    {
+     "texto": "O Exército mexicano capturou Fausto Isidro Meza Flores, o 'Chapo Isidro', em Guasave, Sinaloa; o governo confirmou a prisão no sábado (21).",
+     "base": "governo do México; 3 fontes independentes (Estadão, O Globo, Al Jazeera)"
+    },
+    {
+     "texto": "Ele estava na lista dos dez fugitivos mais procurados pelo FBI, que oferecia US$ 5 milhões de recompensa.",
+     "base": "3 fontes independentes (CNN Brasil, Estadão, Fox News)"
+    },
+    {
+     "texto": "A prisão desencadeou tiroteios, bloqueios de estradas e incêndio de veículos em Sinaloa.",
+     "base": "3 fontes independentes (O Globo, CartaCapital, Clarín)"
+    },
+    {
+     "texto": "A operação contou com apoio de inteligência dos Estados Unidos.",
+     "base": "2 fontes independentes (SBT, Fox News)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O confronto na captura deixou 11 mortos.",
+     "quem": "NPR"
+    },
+    {
+     "texto": "Quatro militares morreram na operação.",
+     "quem": "Metrópoles"
+    },
+    {
+     "texto": "O jeito de andar, a voz e o porte físico ajudaram a identificá-lo antes da captura.",
+     "quem": "The New York Times, citado pelo UOL"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Tiroteio, bloqueio em estradas e incêndios: captura de 'El Chapo Isidro' pelo Exército mexicano causa caos no estado de Sinaloa",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/22/tiroteio-bloqueio-em-estradas-e-incendios-captura-de-el-chapo-isidro-pelo-exercito-mexicano-causa-caos-no-estado-de-sinaloa.ghtml",
+     "angulo": "Caos em Sinaloa após a captura.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help",
+     "url": "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
+     "angulo": "Imprensa americana: destaca a ajuda dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "México captura narcotraficante que está entre os dez mais procurados pelo FBI",
+     "url": "https://www.cartacapital.com.br/mundo/mexico-captura-narcotraficante-que-esta-entre-os-dez-mais-procurados-pelo-fbi/",
+     "angulo": "Onda de violência do cartel.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "‘El Chapo Isidro’, um dos 10 fugitivos mais procurados pelo FBI, é capturado",
+     "url": "https://www.estadao.com.br/internacional/el-chapo-isidro-um-dos-10-mais-procurados-pelo-fbi-e-capturado-npr/",
+     "angulo": "Confirmação do governo mexicano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "npr",
+     "titulo": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+     "angulo": "Imprensa americana: 'Líder de cartel capturado em tiroteio que deixou 11 mortos'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "México prende um dos 10 fugitivos mais procurados pelo FBI",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/mexico-prende-um-dos-10-fugitivos-mais-procurados-pelo-fbi",
+     "angulo": "Operação conjunta com a inteligência dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Terror en Sinaloa: tras la captura de \"El Chapo Isidro\" estalla una nueva ola de violencia",
+     "url": "https://www.clarin.com/mundo/terror-sinaloa-captura-chapo-isidro-estalla-nueva-ola-violencia_0_FqPWkKhPp2.html",
+     "angulo": "Imprensa argentina: 'Terror em Sinaloa'; nova onda de violência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Operação para prender Chapo Isidro deixou quatro militares mortos no México",
+     "url": "https://www.metropoles.com/mundo/operacao-para-prender-chapo-isidro-deixou-quatro-militares-mortos-no-mexico",
+     "angulo": "Militares mortos na operação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Mexico captures FBI-wanted cartel boss in military raid",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+     "angulo": "Imprensa do Catar: 'México captura chefe de cartel procurado pelo FBI'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "México captura um dos dez criminosos mais procurados pelo FBI",
+     "url": "https://oantagonista.com.br/mundo/mexico-captura-um-dos-dez-criminosos-mais-procurados-pelo-fbi/",
+     "angulo": "Registro da captura.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Com apoio dos EUA, México captura narcotraficante que estava entre os mais procurados pelo FBI",
+     "url": "https://www.gazetadopovo.com.br/mundo/com-apoio-dos-eua-mexico-captura-narcotraficante-que-estava-entre-os-mais-procurados-pelo-fbi/",
+     "angulo": "Destaca o apoio dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "México captura narcotraficante que está entre os dez mais procurados pelo FBI",
+     "url": "https://jovempan.com.br/mundo/mexico-captura-narcotraficante-que-esta-entre-os-dez-mais-procurados-pelo-fbi/",
+     "angulo": "Ligação com os Beltrán Leyva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "cop31-entra-no-segundo-dia-de-prorrogacao-com-novo-rascunho",
+   "editoria": "Clima",
+   "escopo": "mundo",
+   "titulo": "COP31 entra no segundo dia de prorrogação, e presidência apresenta novo rascunho para evitar fracasso",
+   "lide": "A conferência do clima em Antália terminou o sábado (21) sem acordo, com a Arábia Saudita contra a menção ao abandono dos combustíveis fósseis e a União Europeia falando em sair sem acordo. A sessão de encerramento foi marcada para as 9h de domingo em Antália (3h em Brasília), com uma proposta de última hora.",
+   "fatos": [
+    {
+     "texto": "A COP31 passou o sábado (21) sem acordo e entrou no segundo dia de prorrogação.",
+     "base": "3 fontes independentes (Estadão, BBC, Al Jazeera)"
+    },
+    {
+     "texto": "A União Europeia disse que 'ainda não há compromisso' para incluir a eliminação gradual dos combustíveis fósseis no texto.",
+     "base": "2 fontes independentes (g1, Financial Times)"
+    },
+    {
+     "texto": "A Arábia Saudita lidera a oposição à inclusão do abandono dos combustíveis fósseis no acordo final.",
+     "base": "2 fontes independentes (Financial Times, Exame)"
+    },
+    {
+     "texto": "O presidente da COP31, Murat Kurum, pediu aos negociadores que considerem uma proposta de última hora.",
+     "base": "2 fontes independentes (Al Jazeera, BBC)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A divergência sobre quando divulgar a próxima avaliação do IPCC ameaça as negociações futuras.",
+     "quem": "DW Brasil"
+    },
+    {
+     "texto": "A gestão desastrada das negociações por Turquia e Austrália ameaça deixar a COP31 sem resultados, e o rito pode ser suspenso e retomado meses depois.",
+     "quem": "Folha"
+    },
+    {
+     "texto": "Esta foi a presença mais importante do Brasil nas COPs, porque o país chegou preparado e com propostas.",
+     "quem": "Lula"
+    },
+    {
+     "texto": "A COP31 tende a ser a pior da história.",
+     "quem": "Organizações da sociedade civil, citadas pelo Poder360 e pelo Brasil de Fato"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O governo brasileiro, que presidiu a COP30, diz ter levado as melhores propostas da conferência; as críticas recaem sobre a presidência turca e australiana.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-21",
+    "id": "cop31-passa-do-prazo-sem-acordo-sobre-combustiveis-fosseis",
+    "titulo": "COP31 passa do prazo sem acordo, e negociação sobre combustíveis fósseis vai ao sábado"
+   },
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "COP-31 na Turquia encerra mais um dia sem acordo em meio a impasse sobre combustíveis fósseis",
+     "url": "https://www.estadao.com.br/internacional/cop-31-na-turquia-encerra-mais-um-dia-sem-acordo-em-meio-a-impasse-sobre-combustiveis-fosseis/",
+     "angulo": "Sessão de encerramento marcada para a madrugada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "COP31 avança para prorrogação sem consenso sobre combustíveis fósseis",
+     "url": "https://www.brasildefato.com.br/2026/11/21/cop31-avanca-para-prorrogacao-sem-consenso-sobre-combustiveis-fosseis/",
+     "angulo": "Divergências entre quase 200 países.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
+     "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+     "angulo": "Imprensa britânica: 'Negociadores tentam romper impasse após UE falar em não acordo'; papel da Arábia Saudita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Desfecho da COP31 fica para domingo, com cadeiras vazias e sauditas contra 130 países",
+     "url": "https://exame.com/esg/desfecho-da-cop31-fica-para-domingo-com-cadeiras-vazias-e-sauditas-contra-130-paises/",
+     "angulo": "Sauditas contra 130 países.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "New draft deal aims to avert collapse of talks at climate summit",
+     "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Imprensa britânica: 'Novo rascunho tenta evitar colapso'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Sem citar combustíveis fósseis, COP31 corre risco de não terminar",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/sem-citar-combustiveis-fosseis-cop31-corre-risco-de-nao-terminar.shtml",
+     "angulo": "Risco de a COP não terminar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "'Ainda não há compromisso' na COP31 do clima para um acordo, afirma União Europeia",
+     "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml",
+     "angulo": "Posição da União Europeia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula afirma que Brasil apresentou as melhores propostas da COP31: “presença mais importante do país em todas as edições”",
+     "url": "https://www.brasil247.com/brasil/lula-afirma-que-brasil-apresentou-as-melhores-propostas-da-cop31-presenca-mais-importante-do-pais-em-todas-as-edicoes/",
+     "angulo": "Avaliação de Lula sobre o Brasil na COP.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+     "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+     "angulo": "Imprensa do Catar: proposta de última hora da presidência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "COP31 enfrenta impasse sobre combustíveis fósseis e financiamento climático",
+     "url": "https://operamundi.uol.com.br/meio-ambiente/cop31-enfrenta-impasse-sobre-combustiveis-fosseis-e-financiamento-climatico/",
+     "angulo": "Impasse sobre fósseis e financiamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
+     "url": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Disputa sobre o calendário do IPCC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "A COP31 ultrapassou o prazo previsto para seu encerramento e não consegue um consenso entre as partes",
+     "url": "https://midianinja.org/a-cop31-ultrapassou-o-prazo-previsto-para-seu-encerramento-e-nao-consegue-um-consenso-entre-as-partes/",
+     "angulo": "Visão de movimentos sociais sobre o impasse.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "zanin-suspende-congresso-do-cidadania-que-votaria-fusao-ao-pp",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Zanin suspende congresso do Cidadania que votaria a incorporação do partido ao PP",
+   "lide": "O ministro do STF concedeu liminar ao diretório de Goiás e suspendeu os efeitos de decisões do congresso extraordinário marcado para sábado (21). O presidente da sigla, Alex Manente, já havia cancelado o encontro após críticas internas.",
+   "contexto": "Com a cláusula de barreira, partidos menores buscam federações ou fusões; PSB e PDT, por exemplo, se reuniram nesta semana para formalizar uma federação.",
+   "fatos": [
+    {
+     "texto": "Zanin suspendeu no sábado (21) os efeitos de eventuais decisões do congresso extraordinário do Cidadania que votaria a incorporação ao PP.",
+     "base": "decisão do STF; 3 fontes independentes (Estadão, O Globo, Revista Oeste)"
+    },
+    {
+     "texto": "A liminar atendeu a pedido do diretório estadual do Cidadania em Goiás.",
+     "base": "3 fontes independentes (O Globo, Revista Oeste, Estadão)"
+    },
+    {
+     "texto": "O presidente nacional do partido, Alex Manente, já tinha cancelado o congresso antes da decisão, dizendo que queria ampliar o diálogo.",
+     "base": "3 fontes independentes (CartaCapital, O Globo, Estadão)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A convocação do congresso foi aprovada por 21 votos a 6 no Diretório Nacional, em 14 de novembro.",
+     "quem": "Jovem Pan"
+    },
+    {
+     "texto": "O fim do partido pela incorporação ao PP seria irreparável.",
+     "quem": "Integrante do Cidadania ouvido pela CNN Brasil"
+    },
+    {
+     "texto": "Roberto Freire e diretórios estaduais lideram a oposição à incorporação.",
+     "quem": "Brasil 247"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP",
+     "url": "https://www.estadao.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/",
+     "angulo": "Manente já havia cancelado o congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Após críticas, Cidadania suspende votação sobre incorporação ao PP",
+     "url": "https://www.cartacapital.com.br/politica/apos-criticas-cidadania-suspende-votacao-sobre-incorporacao-ao-pp/",
+     "angulo": "Recuo do presidente do partido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Zanin trava incorporação do Cidadania ao PP",
+     "url": "https://revistaoeste.com/politica/zanin-trava-incorporacao-do-cidadania-ao-pp/",
+     "angulo": "Detalha a liminar e o pedido de Goiás.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Zanin suspende congresso do Cidadania que decidiria sobre incorporação ao PP",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/21/zanin-suspende-congresso-do-cidadania-que-decidiria-sobre-incorporacao-ao-pp.ghtml",
+     "angulo": "Argumento de Zanin para a liminar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Zanin suspende congresso do Cidadania sobre incorporação ao PP",
+     "url": "https://www.brasil247.com/brasil/zanin-suspende-congresso-do-cidadania-sobre-incorporacao-ao-pp/",
+     "angulo": "Quem se opõe à incorporação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP",
+     "url": "https://jovempan.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/",
+     "angulo": "Votação que convocou o congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Seria um dado irreparável, diz integrante do Cidadania sobre fim do partido",
+     "url": "https://www.cnnbrasil.com.br/politica/seria-um-dado-irreparavel-diz-integrante-do-cidadania-sobre-fim-do-partido/",
+     "angulo": "Reação de integrante do partido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "nexo",
+     "titulo": "PSB, PDT e Cidadania: os rumos distintos de quem veio da esquerda",
+     "url": "https://www.nexojornal.com.br/expresso/2026/11/21/psb-e-pdt-federacao-partidaria-cidadania-partidos-de-esquerda-brasil",
+     "angulo": "Contexto da reorganização partidária.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "trump-ameaca-data-centers-no-exterior-setor-que-o-brasil-lidera",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Ameaça de Trump a data centers no exterior atinge setor que o Brasil lidera na América Latina",
+   "lide": "Trump disse que não vai permitir que empresas americanas construam data centers fora dos EUA e ameaçou um 'imposto altíssimo', sem detalhar a base legal. O Brasil concentra quase metade da capacidade instalada na América Latina e aposta no setor para atrair investimentos em IA.",
+   "fatos": [
+    {
+     "texto": "Trump afirmou na sexta-feira (20) que não permitirá que empresas americanas construam data centers no exterior e prometeu um 'imposto altíssimo' a quem o fizer.",
+     "base": "entrevista coletiva; 3 fontes independentes (Folha, Revista Oeste, Bloomberg)"
+    },
+    {
+     "texto": "A medida não foi formalizada, e Trump não detalhou como seria aplicada nem com que base legal.",
+     "base": "2 fontes independentes (Folha, Bloomberg)"
+    },
+    {
+     "texto": "O Brasil concentra 49% da capacidade de data centers da América Latina.",
+     "base": "Gazeta do Povo"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Brasil lidera a corrida latino-americana para virar polo global de data centers, apoiado na matriz elétrica renovável.",
+     "quem": "The Economist, republicada por Estadão e Folha"
+    },
+    {
+     "texto": "A medida pode prejudicar investimentos previstos no Brasil.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "A declaração revela a preocupação de Washington com a migração de investimentos em infraestrutura de IA para outros mercados.",
+     "quem": "Especialistas ouvidos pela CNN Brasil"
+    },
+    {
+     "texto": "Faltam transparência e estudos de impacto ambiental na instalação de um data center em Atibaia (SP).",
+     "quem": "Moradores de Atibaia, segundo o Metrópoles"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A The Economist destacou o Brasil como líder regional, com o maior data center da América Latina, de 61 MW, em Vinhedo (SP).",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Trump ameaça impor taxas pesadas a empresas dos EUA que construírem data centers no exterior",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/trump-ameaca-impor-taxas-pesadas-a-empresas-dos-eua-que-construirem-data-centers-no-exterior.shtml",
+     "angulo": "Ameaça de Trump e a falta de detalhes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump quer barrar construção de data centers dos EUA no exterior; medida pode afetar o Brasil",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-quer-barrar-construcao-de-data-centers-dos-eua-no-exterior-e-medida-pode-afetar-brasil/",
+     "angulo": "Impacto possível para o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "The Economist: Brasil lidera corrida da América Latina para virar polo global de data centers",
+     "url": "https://www.estadao.com.br/economia/the-economist-brasil-lidera-corrida-da-america-latina-para-virar-polo-global-de-data-centers/",
+     "angulo": "Reportagem da Economist sobre o Brasil.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Trump diz que não vai permitir a construção de data centers fora dos EUA",
+     "url": "https://revistaoeste.com/mundo/trump-diz-que-nao-vai-permitir-a-construcao-de-idata-centers-i-fora-dos-eua/",
+     "angulo": "Registro da fala de Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Por que EUA não querem que empresas construam data centers em outros países",
+     "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/por-que-eua-nao-querem-que-empresas-construam-data-centers-em-outros-paises/",
+     "angulo": "Motivação americana segundo especialistas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Trump proíbe construção de data centers fora dos EUA e ameaça com impostos",
+     "url": "https://www.brasil247.com/mundo/trump-proibe-construcao-de-data-centers-fora-dos-eua-e-ameaca-com-impostos/",
+     "angulo": "Fala de Trump tratada como proibição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Moradores de Atibaia se mobilizam contra chegada de data center na cidade",
+     "url": "https://www.metropoles.com/sao-paulo/moradores-de-atibaia-se-mobilizam-contra-instalacao-de-data-center",
+     "angulo": "Resistência local a um data center.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Trump Vows To Tax US Companies Building Data Centers Abroad",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-21/balance-of-power-late-edition-11-20-2026-video",
+     "angulo": "Agência americana: Trump ameaça taxar empresas sem detalhar a base legal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Corrida global por data centers abre oportunidade bilionária para o Brasil",
+     "url": "https://www.gazetadopovo.com.br/economia/data-centers-corrida-global-oportunidade-bilionaria-brasil/",
+     "angulo": "Oportunidade de investimento para o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Brasil desponta como principal polo latino-americano para expansão global de data centers",
+     "url": "https://www.brasil247.com/brasil/brasil-desponta-como-principal-polo-latino-americano-para-expansao-global-de-data-centers/",
+     "angulo": "Brasil como polo latino-americano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Quem paga a conta e quem se beneficia dos data centers?",
+     "url": "https://oglobo.globo.com/opiniao/artigos/coluna/2026/11/quem-paga-a-conta-e-quem-se-beneficia-dos-data-centers.ghtml",
+     "angulo": "Artigo: quem ganha e quem paga com os data centers.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "axios",
+     "titulo": "Trump floats major tax on U.S. companies constructing data centers overseas",
+     "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+     "angulo": "Imprensa americana: proposta surge após expansão de data centers.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "hackers-invadem-base-criminal-do-fbi-e-trump-ve-lado-positivo",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Hackers invadem base de dados criminais do FBI, e Trump diz que ataque pode ter efeito 'positivo'",
+   "lide": "O FBI investiga invasão ao NCIC, base usada por polícias de todo o país, e o Departamento de Agricultura também foi atacado, segundo a imprensa americana. Trump confirmou a invasão e disse que ela pode revelar 'coisas que nunca teríamos descoberto', depois de demitir o diretor nacional de cibersegurança após falhas em voos e bancos.",
+   "fatos": [
+    {
+     "texto": "O FBI investiga invasão ao seu banco de dados nacional de informações criminais (NCIC), usado por agências federais, estaduais e locais.",
+     "base": "3 fontes independentes (g1, Folha, BBC)"
+    },
+    {
+     "texto": "O Departamento de Agricultura dos EUA também teve sistemas invadidos, segundo a NBC News.",
+     "base": "3 fontes independentes (O Globo, Exame, CartaCapital)"
+    },
+    {
+     "texto": "Trump confirmou a invasão no sábado (21) e disse que ela pode ter impacto positivo, citando o que chama de 'boato da Rússia'.",
+     "base": "entrevista à Fox News; 2 fontes independentes (O Globo, New York Post)"
+    },
+    {
+     "texto": "Trump demitiu o diretor nacional de cibersegurança, Sean Cairncross, após falhas que afetaram voos e bancos, e disse que ele 'não era bom o suficiente'.",
+     "base": "2 fontes independentes (Folha, Poder360)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Ainda não se sabe se os ataques ao FBI e ao Departamento de Agricultura têm relação nem quem está por trás deles.",
+     "quem": "Exame, com base na imprensa americana"
+    },
+    {
+     "texto": "Talvez fiquemos sabendo coisas que nunca teríamos descoberto de outra forma.",
+     "quem": "Donald Trump, à Fox News"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Os ataques ocorrem numa sequência de falhas tecnológicas nos EUA; no Brasil, especialistas alertam para o risco de quedas de serviços de nuvem em hospitais, bancos e órgãos públicos.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "oglobo",
+     "titulo": "Trump diz que invasão de base de dados do FBI é positiva e pode expor \"fraudes eleitorais\" e \"boatos\" sobre Rússia e Ucrânia",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/22/trump-diz-que-invasao-de-base-de-dados-do-fbi-e-positiva-e-pode-expor-fraudes-eleitorais-e-boatos-sobre-russia-e-ucrania.ghtml",
+     "angulo": "Reação de Trump e o que ele espera do vazamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Trump thinks there may be upside to reported cyberattack on critical FBI database: ‘Russia, Russia, Russia hoax’",
+     "url": "https://nypost.com/2026/11/21/us-news/trump-talks-reported-hacking-attempt-of-critical-fbi-database-russia-russia-russia/",
+     "angulo": "Imprensa americana: Trump vê 'lado positivo' no ataque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "FBI investiga invasão a banco de dados nacional de informações criminais, diz TV",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/21/fbi-investiga-invasao-a-banco-de-dados-nacional-de-informacoes-criminais-diz-tv.ghtml",
+     "angulo": "O que é o banco de dados atacado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Ataques cibernéticos atingem o FBI e o Departamento de Agricultura nos EUA",
+     "url": "https://www.brasil247.com/mundo/ataques-ciberneticos-atingem-o-fbi-e-o-departamento-de-agricultura-nos-eua/",
+     "angulo": "Ataques em meio a falhas tecnológicas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Hackers invadem sistemas do FBI e do Departamento de Agricultura dos EUA, diz imprensa dos EUA",
+     "url": "https://exame.com/tecnologia/hackers-invadem-sistemas-do-fbi-e-do-departamento-de-agricultura-dos-eua-diz-imprensa-dos-eua/",
+     "angulo": "Autoria e relação entre os ataques ainda desconhecidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Trump minimiza suposto ataque hacker contra banco de dados do FBI",
+     "url": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-suposto-ataque-hacker-contra-banco-de-dados-do-fbi/",
+     "angulo": "Destaca que Trump minimizou o ataque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "FBI investiga invasão em banco nacional de dados criminais dos EUA",
+     "url": "https://www.diariodocentrodomundo.com.br/fbi-investiga-invasao-banco-dados-criminais-eua/",
+     "angulo": "Registro da investigação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Hackers atacaram o Departamento de Agricultura dos EUA e o FBI, diz imprensa americana",
+     "url": "https://www.cartacapital.com.br/mundo/hackers-atacaram-o-departamento-de-agricultura-dos-eua-e-o-fbi-diz-imprensa-americana/",
+     "angulo": "Ataques em meio a falhas de tecnologia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Trump demite diretor de segurança cibernética após falhas que atingiram voos e Microsoft nos EUA",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/trump-demite-diretor-de-seguranca-cibernetica-apos-falhas-que-atingiram-voos-e-microsoft-nos-eua.shtml",
+     "angulo": "Demissão do diretor de cibersegurança.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "“Não era bom o suficiente”, diz Trump sobre diretor de Cibersegurança",
+     "url": "https://www.poder360.com.br/poder-internacional/nao-era-bom-o-suficiente-diz-trump-sobre-diretor-de-ciberseguranca/",
+     "angulo": "Justificativa de Trump para a demissão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-20"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "FBI reportedly investigating apparent hack of its criminal database",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Imprensa britânica: investigação do FBI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Queda de serviços de nuvem pode afetar hospitais, bancos e órgãos públicos",
+     "url": "https://www.metropoles.com/ciencia/queda-de-servicos-de-nuvem-pode-afetar-hospitais-bancos-e-orgaos-publicos",
+     "angulo": "Riscos de falhas de nuvem para serviços no Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "eisenkot-convida-likud-de-netanyahu-para-negociar-coalizao-em-israel",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Eisenkot convida o Likud de Netanyahu para negociar coalizão em Israel",
+   "lide": "O líder da oposição, encarregado de formar o próximo governo após as eleições de outubro sem maioria, chamou o partido do premiê interino para uma 'maratona' de conversas a partir deste domingo. Ele tem até o mês que vem para montar a coalizão.",
+   "fatos": [
+    {
+     "texto": "O partido Yashar, de Gadi Eisenkot, anunciou no sábado (21) que convidou o Likud, de Benjamin Netanyahu, para negociar uma coalizão, com conversas a partir de domingo.",
+     "base": "nota do partido; 3 fontes independentes (AFP, Folha, Le Monde)"
+    },
+    {
+     "texto": "As eleições legislativas do fim de outubro não deram maioria absoluta nem ao bloco de Eisenkot nem ao de Netanyahu.",
+     "base": "3 fontes independentes (Le Monde, Jovem Pan, AFP)"
+    },
+    {
+     "texto": "Eisenkot tem até o mês que vem para formar o governo.",
+     "base": "2 fontes independentes (Le Monde, Jovem Pan)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O convite reflete o compromisso de formar 'o governo mais amplo possível'.",
+     "quem": "Partido Yashar"
+    },
+    {
+     "texto": "A aliança de oposição de Eisenkot precisa superar profundas divisões ideológicas para virar governo.",
+     "quem": "Al Jazeera"
+    },
+    {
+     "texto": "Netanyahu condiciona a formação de governo ao veto de uma investigação sobre o ataque do Hamas de 7 de outubro de 2023.",
+     "quem": "Brasil 247"
+    },
+    {
+     "texto": "Os ataques de Netanyahu a parlamentares árabes ecoam a incitação que precedeu o assassinato de Rabin.",
+     "quem": "Coluna de opinião na Al Jazeera"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A eleição israelense foi fraudada.",
+     "rotulo": "Sem evidência",
+     "explicacao": "Netanyahu falou em fraude citando a detenção de três ativistas da oposição, mas o New York Times informa que pessoas próximas a ele admitiram participação no início das prisões no dia da votação.",
+     "onde_circula": "falas de Netanyahu",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+     "angulo": "Agência: convite para 'maratona' de negociações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Eisenkot convida partido de Netanyahu para negociar coalizão em Israel",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
+     "angulo": "Perfil de Eisenkot e o convite ao Likud.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Eisenkot convida partido de Netanyahu para negociar coalizão",
+     "url": "https://jovempan.com.br/mundo/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao/",
+     "angulo": "Prazo para formar o governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+     "url": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
+     "angulo": "Imprensa francesa: resultado eleitoral sem maioria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Can Israel’s opposition bloc stay united against Netanyahu?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+     "angulo": "Imprensa do Catar: 'A oposição consegue ficar unida contra Netanyahu?'.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+     "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+     "angulo": "Imprensa americana: aliados de Netanyahu admitem papel nas prisões do dia da eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-19"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Protesto em Tel Aviv pede paz enquanto Netanyahu negocia novo governo",
+     "url": "https://www.brasil247.com/mundo/protesto-em-tel-aviv-pede-paz-enquanto-netanyahu-negocia-novo-governo/",
+     "angulo": "Protesto por paz e condição imposta por Netanyahu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Netanyahu is playing with the fire that killed Rabin",
+     "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+     "angulo": "Opinião: compara a retórica de Netanyahu à que precedeu a morte de Rabin.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "haddad-defende-em-paris-imposto-global-de-2-sobre-bilionarios",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Em Paris, Haddad defende imposto global de 2% sobre fortunas de bilionários",
+   "lide": "O ex-ministro da Fazenda discursou no sábado (21) na Cúpula Internacional contra Oligarquias e disse que a cobrança poderia render até US$ 250 bilhões por ano. Ele também tratou a vitória de Lula como símbolo da defesa da democracia contra a concentração de poder econômico.",
+   "fatos": [
+    {
+     "texto": "Haddad defendeu em Paris, no sábado (21), um imposto mínimo anual de 2% sobre a fortuna de bilionários no mundo.",
+     "base": "3 fontes independentes (Poder360, Revista Oeste, Metrópoles)"
+    },
+    {
+     "texto": "Segundo a estimativa citada por ele, a cobrança poderia arrecadar até US$ 250 bilhões por ano.",
+     "base": "2 fontes independentes (Poder360, Revista Oeste)"
+    },
+    {
+     "texto": "O discurso foi feito na primeira Cúpula Internacional contra Oligarquias.",
+     "base": "3 fontes independentes (Revista Oeste, Brasil 247, Metrópoles)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A proposta está alinhada ao debate do G20, mas os mecanismos ainda serão negociados.",
+     "quem": "Terra Brasil Notícias"
+    },
+    {
+     "texto": "Há o avanço de uma 'nova oligarquia global', em alusão a Tocqueville.",
+     "quem": "Fernando Haddad"
+    },
+    {
+     "texto": "A vitória de Lula simboliza a defesa da democracia mundial contra a concentração do poder econômico.",
+     "quem": "Fernando Haddad"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Haddad defende taxar super-ricos durante cúpula em Paris",
+     "url": "https://www.poder360.com.br/poder-economia/haddad-defende-taxar-super-ricos-durante-cupula-em-paris/",
+     "angulo": "Proposta de 2% e arrecadação estimada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Em Paris, Haddad propõe imposto global sobre bilionários",
+     "url": "https://revistaoeste.com/politica/em-paris-haddad-propoe-imposto-global-sobre-bilionarios/",
+     "angulo": "Detalha a proposta e o evento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Em Paris, Haddad defende taxação de bilionários e alerta para oligarquias",
+     "url": "https://www.metropoles.com/sao-paulo/em-paris-haddad-defende-taxacao-de-bilionarios-e-alerta-para-oligarquias",
+     "angulo": "Alerta de Haddad para oligarquias.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Haddad defende taxação de bilionários e combate à oligarquia global durante evento em Paris",
+     "url": "https://www.brasil247.com/economia/haddad-defende-taxacao-de-bilionarios-e-combate-a-oligarquia-global-durante-evento-em-paris/",
+     "angulo": "Combate à oligarquia global.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Haddad defende taxar bilionários durante cúpula em Paris",
+     "url": "https://jovempan.com.br/politica/haddad-defende-taxar-bilionarios-durante-cupula-em-paris/",
+     "angulo": "Citação de Tocqueville.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Haddad diz que vitória de Lula simboliza defesa da democracia mundial",
+     "url": "https://terrabrasilnoticias.com/2026/11/haddad-diz-que-vitoria-de-lula-simboliza-defesa-da-democracia-mundial/",
+     "angulo": "Leitura da vitória de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Contra a oligarquia internacional, uma internacional democrática",
+     "url": "https://www1.folha.uol.com.br/opiniao/2026/11/contra-a-oligarquia-internacional-uma-internacional-democratica.shtml",
+     "angulo": "Artigo coletivo que antecedeu a cúpula.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Haddad critica oligarquia global e propõe que países negociem taxas às grandes fortunas",
+     "url": "https://iclnoticias.com.br/haddad-critica-oligarquia-global-mais-facil-tirar-um-pouco-de-muitas-pessoas-do-que-exigir-muito-de-poucas/",
+     "angulo": "Proposta de negociação entre países.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    }
+   ]
+  }
+ ]
+}
