@@ -1,0 +1,1415 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-23",
+ "gerado_em": "2026-11-23T06:00:04-03:00",
+ "historias": [
+  {
+   "id": "cop31-termina-sem-acordo-e-ue-rejeita-texto-sem-combustiveis-fosseis",
+   "editoria": "Clima",
+   "escopo": "mundo",
+   "titulo": "COP31 termina sem acordo depois que UE e outros países rejeitam texto que omitia combustíveis fósseis",
+   "lide": "A conferência do clima em Antália terminou no domingo (22) sem o 'Pacto de Antália', a primeira COP sem acordo político desde 2009. A União Europeia, o Panamá e países insulares rejeitaram o texto, que não mencionava o abandono dos combustíveis fósseis e apostava em captura de carbono.",
+   "fatos": [
+    {
+     "texto": "A COP31 terminou no domingo (22) sem acordo sobre a decisão política final.",
+     "base": "3 fontes independentes (Folha, Agência Brasil, Estadão)"
+    },
+    {
+     "texto": "A União Europeia e o Panamá, entre outros, rejeitaram o texto porque ele não mencionava a transição para longe dos combustíveis fósseis.",
+     "base": "3 fontes independentes (Estadão, CNN Brasil, SBT)"
+    },
+    {
+     "texto": "A minuta final previa meta de 1 bilhão de toneladas de captura de carbono e eletrificação de 35% até 2035.",
+     "base": "2 fontes independentes (Terra Brasil Notícias, Poder360)"
+    },
+    {
+     "texto": "Foi a primeira COP sem acordo político desde 2009 e a mais longa da história, superando a COP25, de 2019.",
+     "base": "3 fontes independentes (Exame, Jovem Pan, CNN Brasil)"
+    },
+    {
+     "texto": "O presidente da COP31, o ministro turco Murat Kurum, admitiu o fracasso e disse: 'Fizemos o melhor'.",
+     "base": "2 fontes independentes (O Globo, Clarín)"
+    },
+    {
+     "texto": "O secretário-geral da ONU, António Guterres, disse estar profundamente decepcionado com o encerramento sem acordo.",
+     "base": "2 fontes independentes (Brasil de Fato, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Arábia Saudita e o Grupo Árabe lideraram a resistência à menção aos fósseis, numa fratura com a coalizão liderada pela UE.",
+     "quem": "Financial Times e Exame"
+    },
+    {
+     "texto": "A cúpula foi 'sequestrada por estados petroleiros'.",
+     "quem": "Delegações que rejeitaram o texto, citadas pelo Clarín"
+    },
+    {
+     "texto": "O fracasso reforça a importância de o Brasil avançar em suas próprias metas climáticas.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Foi um 'fracasso espantoso de liderança' num momento de aceleração da crise climática.",
+     "quem": "Especialistas ouvidos pela CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O Brasil, que presidiu a COP30, criticou o fim sem acordo e pediu ampliar a ambição; um ano depois de Belém, o compromisso de transição dos fósseis não foi reafirmado.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-22",
+    "id": "cop31-entra-no-segundo-dia-de-prorrogacao-com-novo-rascunho",
+    "titulo": "COP31 entra no segundo dia de prorrogação, e presidência apresenta novo rascunho para evitar fracasso"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Sem acordo, COP31 fracassa após divergência sobre combustíveis fósseis",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/cop31-se-torna-a-mais-longa-conferencia-climatica-da-onu.shtml",
+     "angulo": "Fim da conferência sem acordo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "No Deal: COP31 Climate Doomer Talks End with Binding Agreement Rejected",
+     "url": "https://www.breitbart.com/europe/2026/11/22/no-deal-cop31-climate-doomer-talks-end-with-binding-agreement-rejected/",
+     "angulo": "Imprensa americana de direita: 'Sem acordo'; chama a cúpula de 'conversa catastrofista'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "União Europeia diz não, e COP31 fica sem acordo político pela 1ª vez desde 2009",
+     "url": "https://exame.com/esg/uniao-europeia-diz-nao-e-cop31-fica-sem-acordo-politico-pela-1a-vez-desde-2009/",
+     "angulo": "Primeira COP sem acordo desde 2009 e o papel saudita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Secretário-geral da ONU critica fracasso da COP31 após encerramento sem acordo",
+     "url": "https://www.brasildefato.com.br/2026/11/22/secretario-geral-da-onu-critica-fracasso-da-cop31-apos-encerramento-sem-acordo/",
+     "angulo": "Reação de Guterres.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "COP31 climate talks fail after stand-off over fossil fuels",
+     "url": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+     "angulo": "Imprensa britânica: fratura entre Grupo Árabe e coalizão da UE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "COP não terminava sem acordo desde 2009",
+     "url": "https://jovempan.com.br/mundo/cop-nao-terminava-sem-acordo-desde-2009/",
+     "angulo": "Comparação histórica.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "“Ampliar ambição”: Brasil e outros países criticam fim da COP31 sem acordo",
+     "url": "https://www.cnnbrasil.com.br/internacional/ampliar-ambicao-brasil-e-outros-paises-criticam-fim-da-cop31-sem-acordo/",
+     "angulo": "Crítica do Brasil e de outros países.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "midianinja",
+     "titulo": "Encerramento da COP31 é decepcionante e vergonhoso",
+     "url": "https://midianinja.org/encerramento-da-cop31-e-decepcionante-e-vergonhoso/",
+     "angulo": "Movimentos sociais classificam o fim como vergonhoso.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "COP31 termina sem acordo após divergências sobre combustíveis fósseis",
+     "url": "https://www.cartacapital.com.br/mundo/cop31-termina-sem-acordo-apos-divergencias-sobre-combustiveis-fosseis/",
+     "angulo": "Resistência dos países produtores de petróleo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fracasso da COP-31 reforça importância do Brasil avançar em metas climáticas",
+     "url": "https://www.estadao.com.br/politica/diogo-schelp/fracasso-da-cop-31-reforca-importancia-do-brasil-avancar-em-metas-climaticas/",
+     "angulo": "Consequências para a política climática brasileira.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "La Cumbre del Clima de la ONU no alcanzó un acuerdo, tras una caótica negociación sobre combustibles fósiles",
+     "url": "https://www.clarin.com/mundo/cumbre-clima-borde-fracaso-union-europea-rechaza-acuerdo-menciona-salida-combustibles-fosiles_0_iKvfHaF62A.html",
+     "angulo": "Imprensa argentina: negociação 'caótica' e cúpula 'sequestrada' por petroleiros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "nexo",
+     "titulo": "O fracasso da COP31, segundo quem estava lá",
+     "url": "https://www.nexojornal.com.br/entrevista/2026/11/22/cop-31-fracasso-impasse-sem-acordo-por-que-clima",
+     "angulo": "Relatos de quem acompanhou a conferência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "camara-vota-ajuste-fiscal-e-real-acumula-queda-de-17-desde-a-eleicao",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Câmara vota ajuste fiscal nesta segunda, e real acumula queda de 17% desde a reeleição de Lula",
+   "lide": "Hugo Motta convocou sessão extraordinária às 18h para votar a urgência e o projeto, que prevê economia de R$ 50 bilhões em 2027; destaques podem levar a votação para terça. O real é a moeda que mais se desvalorizou entre as 20 mais negociadas desde a eleição, e o relator do Orçamento já cobra uma PEC com novo ajuste.",
+   "fatos": [
+    {
+     "texto": "A Câmara tem sessão extraordinária nesta segunda (23), às 18h, com a urgência e o projeto de ajuste fiscal na pauta.",
+     "base": "pauta da Câmara; 3 fontes independentes (Revista Oeste, DCM, g1)"
+    },
+    {
+     "texto": "O relator Mauro Benevides manteve o texto aprovado pelo Senado, e a apresentação de destaques pode levar a análise para terça-feira.",
+     "base": "2 fontes independentes (Metrópoles, CNN Brasil)"
+    },
+    {
+     "texto": "O governo projeta economia de R$ 50 bilhões em 2027 com o pacote.",
+     "base": "2 fontes independentes (g1, Terra Brasil Notícias)"
+    },
+    {
+     "texto": "O real recuou 17,65% desde a vitória de Lula, a maior desvalorização entre as 20 moedas mais negociadas da lista do BIS.",
+     "base": "levantamento da Folha"
+    },
+    {
+     "texto": "O senador Eduardo Braga, relator do Orçamento de 2027, defendeu que o governo envie uma PEC com novo ajuste fiscal.",
+     "base": "2 fontes independentes (Poder360, Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Centrão facilita a aprovação na Câmara porque busca cargos no governo Lula 4.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Há risco de estagflação no Brasil em 2027 com a demora em definir o ajuste.",
+     "quem": "Solange Srour, do UBS Global Wealth Management"
+    },
+    {
+     "texto": "Estrangeiros reforçam as compras de dólar futuro, mantendo a pressão sobre o real.",
+     "quem": "InfoMoney"
+    },
+    {
+     "texto": "A previdência dos militares, com déficit de R$ 53 bilhões, ficou fora do esforço fiscal.",
+     "quem": "Estudo do economista Rogério Nagamine, citado por O Globo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Governistas dizem que o ajuste atinge bilionários e renúncias fiscais, não programas sociais.",
+    "oposicao": "Oposição e mercado veem o pacote como insuficiente e cobram cortes estruturais, enquanto o real se desvaloriza."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-22",
+    "id": "lula-defende-ajuste-fiscal-e-camara-vota-texto-nesta-segunda",
+    "titulo": "Lula defende ajuste fiscal contra críticas da esquerda e do mercado; Câmara vota nesta segunda"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
+     "angulo": "Economia de R$ 50 bi e texto do Senado mantido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Câmara abre semana com ajuste fiscal e debate sobre o caso Master",
+     "url": "https://revistaoeste.com/mundo/agenda-camara-deputados-23-a-27-novembro/",
+     "angulo": "Pauta da sessão e caso Master na semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/real-se-desvaloriza-mais-de-17-desde-vitoria-de-lula-e-impulsiona-ativos-de-protecao.shtml",
+     "angulo": "Desvalorização do real desde a eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Alencar Santana: ‘ajuste fiscal de Lula vai atingir bilionários, não programas sociais’",
+     "url": "https://www.brasil247.com/economia/alencar-santana-ajuste-fiscal-de-lula-vai-atingir-bilionarios-nao-programas-sociais/",
+     "angulo": "Governista diz que o ajuste mira bilionários.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Eduardo Braga defende mudança na Constituição para novo ajuste fiscal",
+     "url": "https://www.poder360.com.br/poder-congresso/eduardo-braga-defende-mudanca-na-constituicao-para-novo-ajuste-fiscal/",
+     "angulo": "Relator do Orçamento cobra PEC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Centrão entra no jogo de Lula para garantir cargos e facilita aprovação do ajuste fiscal na Câmara",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/centrao-entra-no-jogo-de-lula-para-garantir-cargos-e-facilita-aprovacao-do-ajuste-fiscal-na-camara/",
+     "angulo": "Cargos facilitam a aprovação.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Câmara abre semana com previsão de votação do ajuste fiscal e negociações sobre Orçamento",
+     "url": "https://www.diariodocentrodomundo.com.br/camara-abre-semana-com-previsao-de-votacao-do-ajuste-fiscal-e-negociacoes-sobre-orcamento/",
+     "angulo": "Sessão extraordinária e Orçamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Fora do ajuste fiscal, previdência dos militares tem déficit de R$ 53 bi: menos de 1% fica na ativa até os 60 anos",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/23/fora-do-ajuste-fiscal-previdencia-dos-militares-tem-deficit-de-r-53-bi-menos-de-1percent-fica-na-ativa-ate-os-60-anos.ghtml",
+     "angulo": "Gasto que ficou fora do ajuste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Câmara abre semana com previsão de votação do ajuste fiscal e negociações sobre Orçamento",
+     "url": "https://www.brasildefato.com.br/2026/11/22/camara-abre-semana-com-previsao-de-votacao-do-ajuste-fiscal-e-negociacoes-sobre-orcamento/",
+     "angulo": "Pauta da semana na Câmara.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio?",
+     "url": "https://www.infomoney.com.br/onde-investir/ubs-ve-possibilidade-de-estagflacao-no-brasil-em-2027-como-balancear-o-portfolio/",
+     "angulo": "Risco de estagflação segundo o UBS.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "O dólar além da camisa ideológica do fiscalismo: os movimentos de curto prazo e os limites estruturais do setor externo brasileiro",
+     "url": "https://operamundi.uol.com.br/opiniao/o-dolar-alem-da-camisa-ideologica-do-fiscalismo-os-movimentos-de-curto-prazo-e-os-limites-estruturais-do-setor-externo-brasileiro/",
+     "angulo": "Artigo contesta que o câmbio responda só ao risco fiscal.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ajuste fiscal vai à votação na Câmara mesmo com “mau humor” do mercado e da oposição",
+     "url": "https://revistaforum.com.br/politica/ajuste-fiscal-vai-a-votacao-na-camara-mesmo-com-mau-humor-do-mercado-e-da-oposicao/",
+     "angulo": "Votação apesar do mau humor do mercado e da oposição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "flavio-admite-nao-ter-provas-de-fraude-e-chanceler-argentino-duvida",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Flávio admite à Fox News não ter provas de fraude, e chanceler argentino põe em dúvida vitória de Lula",
+   "lide": "Nos EUA, o senador disse que perdeu para 'o sistema', não para Lula, mas que não tem provas porque é 'proibido de investigar'. Na Argentina, o chanceler Pablo Quirno justificou o silêncio de Milei sobre a reeleição citando 'situações' no processo eleitoral, sem apresentar evidências.",
+   "contexto": "Flávio deixou o Brasil em outubro, depois de descumprir ordem de Moraes, e vive nos Estados Unidos.",
+   "fatos": [
+    {
+     "texto": "Em entrevista à Fox News, Flávio Bolsonaro disse não ter provas de fraude eleitoral porque seria 'proibido de investigar'.",
+     "base": "vídeo da entrevista; 3 fontes independentes (Poder360, Jovem Pan, CNN Brasil)"
+    },
+    {
+     "texto": "Flávio acusou Moraes de interferir na eleição e disse que perdeu para o 'sistema', não para Lula.",
+     "base": "vídeo da entrevista; 2 fontes independentes (Gazeta do Povo, Revista Oeste)"
+    },
+    {
+     "texto": "Flávio disse que pretende disputar a Presidência em 2030 se Jair Bolsonaro continuar inelegível e afirmou que a direita tem 'muitos craques'.",
+     "base": "2 fontes independentes (Poder360, CNN Brasil)"
+    },
+    {
+     "texto": "O chanceler argentino, Pablo Quirno, disse no sábado (21) que 'situações' no processo eleitoral 'colocaram em dúvida todo o cenário', ao explicar por que Milei não cumprimentou Lula.",
+     "base": "declaração do chanceler; 3 fontes independentes (Folha, Brasil 247, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Moraes 'inventou caso' contra ele e mandou apreender os passaportes logo após a derrota.",
+     "quem": "Flávio Bolsonaro, à Fox News"
+    },
+    {
+     "texto": "O Senado é 'a última esperança' do conservadorismo.",
+     "quem": "Flávio Bolsonaro"
+    },
+    {
+     "texto": "Flávio foi desmentido na própria entrevista.",
+     "quem": "Fórum"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A eleição de 2026 foi decidida por fraude do 'sistema'.",
+     "rotulo": "Sem evidência",
+     "explicacao": "O próprio Flávio admitiu não ter provas. O sistema eleitoral permite auditorias e as urnas não se conectam a redes externas, segundo o Poder360; não houve contestação técnica formal do resultado.",
+     "onde_circula": "entrevista à Fox News e redes bolsonaristas",
+     "checagem": []
+    },
+    {
+     "alegacao": "Houve 'situações' que colocaram em dúvida o processo eleitoral brasileiro.",
+     "rotulo": "Sem evidência",
+     "explicacao": "O chanceler argentino não apontou quais seriam essas situações nem apresentou indícios, segundo a Folha.",
+     "onde_circula": "declaração do governo Milei",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": {
+    "governo": "Aliados de Lula e veículos à esquerda destacam que Flávio fugiu do país e admitiu não ter provas da fraude que alega.",
+    "oposicao": "Flávio e aliados dizem que Moraes interferiu na eleição e que ele é perseguido político, e projetam a direita para 2030."
+   },
+   "visao_de_fora": "A entrevista foi à Fox News, nos EUA, e a declaração do chanceler argentino ecoa a recusa de Milei em reconhecer a vitória de Lula, num atrito diplomático com Buenos Aires.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "poder360",
+     "titulo": "Flávio diz não ter provas de fraude por ser “proibido de investigar”",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar/",
+     "angulo": "Fala de Flávio e o que permite o sistema eleitoral.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Flávio acusa Moraes de interferir na eleição e diz que perdeu para o “sistema”, não para Lula",
+     "url": "https://www.gazetadopovo.com.br/mundo/flavio-acusa-moraes-de-interferir-na-eleicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/",
+     "angulo": "Destaca a acusação a Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Flávio Bolsonaro admite que não tem provas de suposta “fraude” na eleição",
+     "url": "https://www.brasil247.com/brasil/flavio-bolsonaro-admite-que-nao-tem-provas-de-suposta-fraude-na-eleicao/",
+     "angulo": "Destaca que ele fugiu para os EUA.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+     "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
+     "angulo": "Imprensa americana: a versão de Flávio sobre os passaportes e a perseguição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Chanceler argentino repete Milei e, sem provas, coloca em dúvida vitória de Lula",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/chanceler-argentino-repete-milei-e-sem-provas-coloca-em-duvida-vitoria-de-lula.shtml",
+     "angulo": "Fala do chanceler, sem provas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "À Fox News, Flávio critica Moraes: ‘Inventou caso contra mim’",
+     "url": "https://revistaoeste.com/politica/a-fox-news-flavio-critica-moraes-inventou-caso-contra-mim/",
+     "angulo": "Críticas de Flávio a Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Flávio Bolsonaro é desmentido durante entrevista à Fox News",
+     "url": "https://revistaforum.com.br/politica/flavio-bolsonaro-desmentido-fox-news/",
+     "angulo": "Diz que Flávio foi desmentido na entrevista.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Flávio Bolsonaro diz não ter provas de fraude nas eleições: ‘Sou proibido de investigar’",
+     "url": "https://jovempan.com.br/politica/flavio-bolsonaro-diz-nao-ter-provas-de-fraude-nas-eleicoes-sou-proibido-de-investigar/",
+     "angulo": "Críticas a Hugo Motta e permanência nos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Com maioria no Congresso, Democratas abrirão inquérito sobre Flávio Bolsonaro nos EUA",
+     "url": "https://iclnoticias.com.br/democratas-investigacao-flavio-bolsonaro/",
+     "angulo": "Diz que democratas investigarão Flávio nos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Flávio diz não ter provas de fraude eleitoral: “Proibido de investigar”",
+     "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-nao-ter-provas-de-fraude-eleitoral-proibido-de-investigar/",
+     "angulo": "Afirmação de que ninguém pode pedir auditoria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Argentina de Milei volta a agredir o Brasil e chanceler questiona vitória de Lula",
+     "url": "https://www.brasil247.com/america-latina/argentina-de-milei-volta-a-agredir-o-brasil-e-chanceler-questiona-vitoria-de-lula/",
+     "angulo": "Trata a fala de Quirno como agressão ao Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Chanceler de Milei questiona eleição de Lula sem apresentar evidências",
+     "url": "https://www.diariodocentrodomundo.com.br/chanceler-argentino-questiona-eleicao-lula-sem-evidencias/",
+     "angulo": "Repercussão da fala de Quirno.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "gilmar-admite-falta-de-autocontencao-e-pgr-analisa-relatorios",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Gilmar admite 'falta de autocontenção' no STF enquanto PGR começa a analisar relatórios do caso Master",
+   "lide": "Em entrevista a uma rádio argentina, o decano disse que o Supremo é um dos tribunais mais poderosos do mundo e que 'talvez falte uma autocontenção' aos ministros. A Procuradoria-Geral da República deve começar nesta semana a avaliar os relatórios da PF sobre Moraes, Toffoli, Nunes Marques e Mendonça, enquanto novas mensagens de Vorcaro vêm a público.",
+   "fatos": [
+    {
+     "texto": "Gilmar Mendes disse, em entrevista a uma rádio argentina, que 'talvez falte uma autocontenção' aos ministros do STF e citou o caso Master.",
+     "base": "entrevista; 3 fontes independentes (Metrópoles, Gazeta do Povo, Brasil 247)"
+    },
+    {
+     "texto": "A PGR recebeu os relatórios da PF sobre os quatro ministros e pode pedir diligências, defender investigações ou se posicionar pelo arquivamento.",
+     "base": "2 fontes independentes (Metrópoles, O Globo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Dois advogados de Vorcaro relataram a ele conversas com o diretor-geral da PF, Andrei Rodrigues, sobre um inquérito que envolvia o Master e a Gafisa.",
+     "quem": "O Globo, com base em áudios e mensagens do celular de Vorcaro"
+    },
+    {
+     "texto": "Vorcaro discutiu com o ex-ministro Fábio Faria a inclusão de um influenciador crítico ao Master no inquérito das fake news.",
+     "quem": "O Globo, com base em mensagens de 2024"
+    },
+    {
+     "texto": "Vorcaro disse a um sócio que poderia 'reverter' um julgamento no STF sobre precatórios.",
+     "quem": "Valor"
+    },
+    {
+     "texto": "A PF deixou fora do relatório sobre Mendonça um áudio em que um advogado diz ter conversado com o ministro sobre problemas do Master no Banco Central.",
+     "quem": "ICL Notícias"
+    },
+    {
+     "texto": "O envio do relatório de Mendonça à PGR pode torná-lo suspeito e abrir caminho para Gilmar assumir a relatoria do caso.",
+     "quem": "Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Veículos à esquerda destacam o que a PF deixou fora do relatório sobre Mendonça e as relações de Vorcaro com ex-ministros de Bolsonaro.",
+    "oposicao": "Veículos à direita apontam a influência de Vorcaro sobre a imprensa e a PF e a articulação para tirar o caso de Mendonça."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-21",
+    "id": "fachin-abre-relatorio-da-pf-sobre-mendonca-sem-conversa-com-vorcaro",
+    "titulo": "Fachin abre relatório da PF sobre Mendonça, que não aponta conversa direta com Vorcaro"
+   },
+   "materias": [
+    {
+     "fonte": "metropoles",
+     "titulo": "Gilmar admite excesso de exposição no STF: \"Talvez falte uma autocontenção\"",
+     "url": "https://www.metropoles.com/mundo/gilmar-admite-excesso-de-exposicao-no-stf-talvez-falte-uma-autocontencao",
+     "angulo": "Fala de Gilmar na Argentina.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Gilmar Mendes admite que falta autocontenção aos ministros do STF",
+     "url": "https://www.gazetadopovo.com.br/republica/gilmar-mendes-admite-que-falta-autocontencao-aos-ministros-do-stf/",
+     "angulo": "STF 'poderoso' e falta de autocontenção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "PGR analisa relatórios de ministros em meio à tensão entre alas do STF e pressão sobre procuradores",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/23/pgr-analisa-relatorios-de-ministros-em-meio-a-tensao-entre-alas-do-stf-e-pressao-sobre-procuradores.ghtml",
+     "angulo": "O que a PGR vai avaliar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "PF deixa fora de relatório sobre Mendonça áudios que citam problemas do Master no BC",
+     "url": "https://iclnoticias.com.br/pf-fora-relatorio-mendonca-audios/",
+     "angulo": "Áudio que ficou fora do relatório sobre Mendonça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Advogados de Vorcaro relatam conversas com Andrei sobre inquérito da PF",
+     "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/advogados-de-vorcaro-relatam-conversas-com-andrei-sobre-inquerito-da-pf.ghtml",
+     "angulo": "Conversas da defesa com o diretor da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ato de Fachin abre brecha para Gilmar assumir caso Master no lugar de Mendonça",
+     "url": "https://www.gazetadopovo.com.br/republica/ato-de-fachin-abre-brecha-para-gilmar-assumir-caso-master-no-lugar-de-mendonca/",
+     "angulo": "Possível mudança de relatoria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Alvo de críticas, entenda o papel de Gonet na investigação de ministros",
+     "url": "https://www.metropoles.com/brasil/alvo-de-criticas-entenda-o-papel-de-gonet-na-investigacao-de-ministros",
+     "angulo": "Opções da PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "O dilema de Kassio Nunes Marques para voltar ao julgamento do caso Master",
+     "url": "https://veja.abril.com.br/politica/o-dilema-de-kassio-nunes-marques-para-voltar-ao-julgamento-do-caso-master/",
+     "angulo": "Situação de Nunes Marques no julgamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Patrícia Abravanel se separa de ex-ministro de Bolsonaro após escândalo com Vorcaro",
+     "url": "https://www.diariodocentrodomundo.com.br/patricia-abravanel-se-separa-de-ex-ministro-de-bolsonaro-apos-escandalo-com-vorcaro/",
+     "angulo": "Repercussão das mensagens envolvendo Fábio Faria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Vorcaro teria planejado criar banco digital com Virginia Fonseca",
+     "url": "https://www.brasil247.com/brasil/vorcaro-teria-planejado-criar-banco-digital-com-virginia-fonseca/",
+     "angulo": "Projeto de banco com Virginia Fonseca.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Gilmar Mendes reconhece protagonismo excessivo do STF e critica frequência com que Corte é acionada",
+     "url": "https://www.brasil247.com/poder/gilmar-mendes-reconhece-protagonismo-excessivo-do-stf-e-critica-frequencia-com-que-corte-e-acionada/",
+     "angulo": "Gilmar critica a frequência com que o STF é acionado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Gilmar admite excesso de exposição do STF e explica intervenções no governo Bolsonaro",
+     "url": "https://www.diariodocentrodomundo.com.br/gilmar-admite-excesso-de-exposicao-do-stf-e-explica-intervencoes-no-governo-bolsonaro/",
+     "angulo": "Gilmar explica intervenções no governo Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "drones-atingem-navios-russos-na-finlandia-e-na-libia",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Drones atingem navios russos no Golfo da Finlândia e na Líbia, e Zelensky assume os ataques",
+   "lide": "Um cargueiro rumo à Rússia pegou fogo e ficou à deriva em águas finlandesas, e uma corveta russa foi atingida na base naval de Benghazi; Zelensky afirmou na segunda (23) que a Ucrânia estava por trás. No domingo, bombardeios russos perto de Kiev mataram ao menos seis pessoas, e a Polônia pede reforço da Otan após a nova entrada de mísseis.",
+   "fatos": [
+    {
+     "texto": "O cargueiro Sparta II, atingido por drones no sábado (21), pegou fogo e ficou à deriva até águas finlandesas; as Forças Armadas da Finlândia disseram que o ataque provavelmente foi da Ucrânia.",
+     "base": "Forças Armadas e Guarda Costeira da Finlândia; 3 fontes independentes (Valor, BBC, O Globo)"
+    },
+    {
+     "texto": "Uma corveta da Marinha russa foi atingida por um drone marítimo ucraniano na base naval de Benghazi, na Líbia, no domingo (22), segundo autoridades líbias.",
+     "base": "3 fontes independentes (AFP, Al Jazeera, Euronews)"
+    },
+    {
+     "texto": "Um ataque russo destruiu parcialmente um prédio residencial de cinco andares em Dymer, ao norte de Kiev, e equipes buscavam vítimas sob os escombros.",
+     "base": "3 fontes independentes (Folha, Euronews, AFP)"
+    },
+    {
+     "texto": "Zelensky afirmou que a Ucrânia está por trás dos ataques aos navios russos.",
+     "base": "declaração de Zelensky; 3 fontes independentes (AFP, Al Jazeera, Le Monde)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Putin 'não é amigo dos EUA na Ucrânia'.",
+     "quem": "Jay Clayton, diretor de Inteligência Nacional dos EUA, à ABC News (citado pelo Valor)"
+    },
+    {
+     "texto": "A guerra volta a transbordar para território da Otan, com ataques a navios, mísseis na Polônia e suspeitas de operações russas na Dinamarca.",
+     "quem": "NPR"
+    },
+    {
+     "texto": "A Polônia precisa de medidas da Otan para se defender das incursões russas.",
+     "quem": "Donald Tusk, primeiro-ministro da Polônia, citado pelo Le Figaro"
+    },
+    {
+     "texto": "Os EUA devem liberar mísseis Patriot para a Ucrânia.",
+     "quem": "Volodymyr Zelensky"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Os ataques russos de domingo perto de Kiev mataram 15 pessoas.",
+     "rotulo": "Contraditório",
+     "explicacao": "O Estadão passou de 'ao menos 6' para 'ao menos 15' mortos; a Al Jazeera falou primeiro em seis e depois em dez, e a Revista Oeste em quatro. As buscas nos escombros ainda não tinham terminado.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-21",
+    "id": "ataque-russo-mata-oito-na-ucrania-e-atinge-embaixada-do-brasil-em-kiev",
+    "titulo": "Ataque russo à Ucrânia mata oito e atinge embaixadas em Kiev, entre elas a do Brasil"
+   },
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Russian warship hit by Ukrainian drone at Benghazi naval base, Libyan officials say",
+     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+     "angulo": "Agência: corveta russa atingida em Benghazi e confirmação de Zelensky.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Navio de carga russo pega fogo na costa da Finlândia após ataque",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/22/navio-de-carga-russo-pega-fogo-na-costa-da-finlndia-aps-ataque.ghtml",
+     "angulo": "Finlândia atribui o ataque à Ucrânia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "angulo": "Imprensa britânica: corveta russa afunda em Benghazi.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Cargueiro russo é atingido por drone no Mar Báltico",
+     "url": "https://operamundi.uol.com.br/europa/cargueiro-russo-e-atingido-por-drone-no-mar-baltico/",
+     "angulo": "Riscos para a segurança no Báltico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "angulo": "Imprensa britânica: navio rebocado após ataque no Golfo da Finlândia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-21"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Mísseis russos atingem Polônia e drones atacam navio no Mar Báltico",
+     "url": "https://www.gazetadopovo.com.br/mundo/misseis-russos-atingem-polonia-e-drones-atacam-navio-no-mar-baltico/",
+     "angulo": "Tensão entre Rússia e Otan.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Ao menos duas pessoas morrem e 10 estão desaparecidas após ataque russo em Kiev",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ao-menos-14-pessoas-estao-desaparecidas-apos-drone-russo-atingir-predio-na-regiao-de-kiev-diz-zelenski.shtml",
+     "angulo": "Ataque ao prédio em Dymer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "npr",
+     "titulo": "Ukraine war spilling into NATO territory",
+     "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+     "angulo": "Imprensa americana: guerra transborda para território da Otan.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+     "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+     "angulo": "Imprensa do Catar: Zelensky assume os ataques na Líbia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "« Pourquoi les Russes nous tourmentent-ils ainsi ? » : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire",
+     "url": "https://www.lefigaro.fr/international/pourquoi-les-russes-nous-tourmentent-ils-ainsi-la-pologne-compte-sur-le-soutien-de-l-otan-apres-une-nouvelle-incursion-de-missiles-sur-son-territoire-20261122",
+     "angulo": "Imprensa francesa: Polônia conta com a Otan após nova incursão de mísseis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+     "angulo": "Imprensa do Catar: Zelensky pede Patriots aos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Eslováquia recusa participação em novo empréstimo bilionário da UE à Ucrânia",
+     "url": "https://www.brasil247.com/mundo/eslovaquia-recusa-participacao-em-novo-emprestimo-bilionario-da-ue-a-ucrania/",
+     "angulo": "Eslováquia fora de novo empréstimo da UE à Ucrânia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "democratas-chegam-a-258-cadeiras-maior-bancada-desde-1992",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Democratas chegam a 258 cadeiras na Câmara dos EUA, maior bancada desde 1992",
+   "lide": "A marca foi atingida no domingo (22), quase três semanas após a eleição, com a vitória de Chuck Hubbard sobre a republicana Virginia Foxx na Carolina do Norte. Os democratas assumem o controle do Congresso em 2027, e Trump atribuiu à vitória deles a queda das bolsas.",
+   "contexto": "Os democratas venceram as eleições de meio de mandato de 3 de novembro e terão maioria na Câmara e no Senado a partir de janeiro.",
+   "fatos": [
+    {
+     "texto": "Os democratas garantiram ao menos 258 cadeiras na Câmara dos Representantes, o melhor resultado do partido desde 1992.",
+     "base": "3 fontes independentes (Folha, Estadão, The Guardian)"
+    },
+    {
+     "texto": "A marca foi alcançada com a vitória de Chuck Hubbard sobre Virginia Foxx, que admitiu a derrota.",
+     "base": "3 fontes independentes (Exame, The Guardian, New York Post)"
+    },
+    {
+     "texto": "Trump publicou na Truth Social que 'previu' a queda das bolsas caso os democratas vencessem.",
+     "base": "publicação de Trump; 2 fontes independentes (Jovem Pan, Fox News)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A vitória foi uma reação à alta dos preços e ao segundo mandato tumultuado de Trump.",
+     "quem": "Folha, com base na Reuters"
+    },
+    {
+     "texto": "A maioria ampla traz pressão para cumprir promessas de campanha.",
+     "quem": "The Guardian"
+    },
+    {
+     "texto": "Seria difícil trabalhar com Chuck Schumer como líder da maioria no Senado.",
+     "quem": "Donald Trump, segundo Terra Brasil Notícias e Al Jazeera"
+    },
+    {
+     "texto": "Não se descartam futuras tentativas de impeachment.",
+     "quem": "Hakeem Jeffries, líder democrata na Câmara, ao New York Post"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Os democratas têm 258 cadeiras.",
+     "rotulo": "Contraditório",
+     "explicacao": "A maioria dos veículos fala em ao menos 258 cadeiras, e a CNN Brasil em 259; o Poder360 informa que 4 disputas ainda aguardam definição.",
+     "onde_circula": "imprensa",
+     "checagem": []
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Democratas garantem 258 cadeiras na Câmara dos EUA, melhor resultado desde 1992",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992.shtml",
+     "angulo": "Resultado como reação à alta de preços.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Longtime GOP Rep. Virginia Foxx, 83, finally concedes razor-thin race to Democrat",
+     "url": "https://nypost.com/2026/11/22/us-news/gop-rep-virginia-foxx-concedes-to-democrat-chuck-hubbard/",
+     "angulo": "Imprensa americana: republicana Virginia Foxx admite a derrota.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Democrats capture at least 258 House seats in largest sweep since 1992",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+     "angulo": "Imprensa britânica: pressão para cumprir promessas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Democratas chegam a 258 cadeiras e têm maior bancada na Câmara desde 1992",
+     "url": "https://exame.com/mundo/democratas-chegam-a-258-cadeiras-e-tem-maior-bancada-na-camara-desde-1992/",
+     "angulo": "Disputa que garantiu a marca.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Trump atribui queda da bolsa à vitória democrata e diz que Irã intensificou ataques",
+     "url": "https://jovempan.com.br/mundo/trump-atribui-queda-da-bolsa-a-vitoria-democrata-e-diz-que-ira-intensificou-ataques/",
+     "angulo": "Reação de Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Análise: Maioria democrata na Câmara dos EUA é histórica",
+     "url": "https://www.cnnbrasil.com.br/internacional/analise-maioria-democrata-na-camara-dos-eua-e-historica/",
+     "angulo": "Análise do resultado histórico.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Democratas garantem 258 cadeiras na Câmara, melhor resultado desde 1992",
+     "url": "https://www.poder360.com.br/poder-internacional/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992/",
+     "angulo": "Disputas ainda abertas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Pós-trumpismo: o racha na direita cristã dos EUA após a derrota nas midterms",
+     "url": "https://www.gazetadopovo.com.br/opiniao/artigos/pos-trumpismo-o-racha-na-direita-crista-dos-eua-apos-a-derrota-nas-midterms/",
+     "angulo": "Racha na direita cristã após a derrota.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: ‘Hold the crooks accountable’",
+     "url": "https://nypost.com/2026/11/22/us-news/hakeem-jeffries-refuses-to-rule-out-future-impeachment-attempts/",
+     "angulo": "Imprensa americana: Jeffries não descarta impeachment.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "EUA: democratas conquistam maioria histórica de 258 cadeiras na Câmara",
+     "url": "https://www.estadao.com.br/internacional/eua-democratas-conquistam-maioria-historica-camara/",
+     "angulo": "Registro da marca.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Trump sofre novo revés: democratas ampliam maioria e assumem controle do Congresso",
+     "url": "https://revistaforum.com.br/global/trump-sofre-novo-reves-democratas/",
+     "angulo": "Vitória democrata como revés de Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Democrats win largest House majority since 1992 with North Carolina seat",
+     "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+     "angulo": "Imprensa do Catar: maior maioria desde 1992.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "governo-trump-investiga-suposta-espia-ligada-a-ex-ceo-da-nvidia",
+   "editoria": "Economia",
+   "escopo": "mundo",
+   "titulo": "Governo Trump investiga suposta espiã chinesa ligada ao ex-CEO da Nvidia e cobra explicações sobre venda de chips",
+   "lide": "O chefe da inteligência americana confirmou que os EUA investigam Alice Huang, pivô da renúncia de Jensen Huang, e o secretário do Tesouro disse que quer saber quem cuidava do compliance das vendas de chips à China. O New York Times informou que ela manteve contato por mais de um ano com um funcionário da espionagem chinesa.",
+   "contexto": "Jensen Huang deixou o comando da Nvidia em meio ao escândalo; as ações da empresa tiveram a pior sequência de quedas desde 2008, e a SEC investiga a contabilidade da companhia.",
+   "fatos": [
+    {
+     "texto": "O diretor de Inteligência Nacional dos EUA, Jay Clayton, disse que o governo investiga a suposta espiã chinesa que teve um caso com o ex-CEO da Nvidia.",
+     "base": "entrevista à TV; 2 fontes independentes (Bloomberg, Valor)"
+    },
+    {
+     "texto": "O secretário do Tesouro, Scott Bessent, disse que o governo ainda precisa de informações sobre as vendas de chips da Nvidia e quer identificar o responsável pelo compliance da empresa.",
+     "base": "entrevista à TV; 3 fontes independentes (Valor, CNN Brasil, Folha)"
+    },
+    {
+     "texto": "Bessent indicou que não se oporia à volta de Jensen Huang, uma semana depois de pedir ao conselho uma 'reformulação drástica'.",
+     "base": "Folha"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Alice Huang manteve contato com um funcionário do Ministério de Segurança do Estado da China por mais de um ano durante o relacionamento com Jensen Huang.",
+     "quem": "The New York Times, com base em pessoas com acesso a relatórios de inteligência (reproduzido por Estadão, Valor e CNN Brasil)"
+    },
+    {
+     "texto": "Autoridades do governo Trump não concluíram que Alice Huang espionou para a China.",
+     "quem": "CNN Brasil, com base no NYT"
+    },
+    {
+     "texto": "Alice Huang tinha ligações com uma rede de fornecimento clandestino de chips de IA para a China.",
+     "quem": "Financial Times, citado por O Globo e DCM"
+    },
+    {
+     "texto": "O deputado republicano Michael McCaul quer respostas de Jensen Huang sobre se chips avançados chegaram à China violando controles de exportação.",
+     "quem": "Bloomberg"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Amante de ex-CEO da Nvidia manteve contato com serviço de espionagem chinês",
+     "url": "https://www.estadao.com.br/internacional/amante-de-ex-ceo-da-nvidia-manteve-contato-com-servico-de-espionagem-chines-npr/",
+     "angulo": "Reportagem do NYT sobre o monitoramento da inteligência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "US Probing Alleged Spy Tied to Ex-Nvidia CEO, Spy Chief Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-22/spy-chief-says-us-probing-alleged-spy-tied-to-former-nvidia-ceo",
+     "angulo": "Agência americana: chefe da inteligência confirma investigação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Suposta espiã da Nvidia é associada a rede de chips que abastecia a China",
+     "url": "https://www.diariodocentrodomundo.com.br/executiva-nvidia-rede-chips-china-alice-huang/",
+     "angulo": "Rede clandestina de chips segundo o FT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário do Tesouro",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/22/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretrio-do-tesouro.ghtml",
+     "angulo": "Cobrança do Tesouro sobre compliance.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Amante de ex-CEO da Nvidia manteve contato com agente chinês, diz NYT",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/amante-de-ex-ceo-da-nvidia-manteve-contato-com-agente-chines-diz-nyt/",
+     "angulo": "Ressalva de que não há conclusão sobre espionagem.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Secretário do Tesouro dos EUA suaviza discurso e não descarta retorno de Jensen Huang à Nvidia",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/secretario-do-tesouro-dos-eua-se-recusa-a-descartar-retorno-de-jensen-huang-a-nvidia.shtml",
+     "angulo": "Mudança de tom sobre a volta de Huang.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Alice Huang, 'affair' do ex-CEO da Nvidia, tem ligações com mercado clandestino de chips, diz jornal",
+     "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/22/alice-huang-affair-do-ex-ceo-da-nvidia-tem-ligacoes-com-mercado-clandestino-de-chips-diz-jornal.ghtml",
+     "angulo": "Ligações com mercado clandestino de chips.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Alice Huang é ligada a rede clandestina de chips para China",
+     "url": "https://www.brasil247.com/china/alice-huang-e-ligada-a-rede-clandestina-de-chips-para-china/",
+     "angulo": "Rede clandestina de chips.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+     "angulo": "Imprensa britânica: senador ironiza o custo do caso para a Nvidia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Rep. McCaul Seeks Answers From Jensen Huang",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-22/rep-mccaul-seeks-answers-from-jensen-huang-video",
+     "angulo": "Agência americana: deputado republicano cobra Jensen Huang.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Chips de IA estavam na mira de espiões chineses anos antes do escândalo da Nvídia",
+     "url": "https://www.estadao.com.br/internacional/chips-de-ia-estavam-na-mira-de-espioes-chineses-anos-antes-do-escandalo-da-nvidia/",
+     "angulo": "Prioridades da espionagem chinesa.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Trump e Xi tentam reaproximação, mas ações sobre tecnologia ainda os divide",
+     "url": "https://www.cnnbrasil.com.br/economia/trump-e-xi-tentam-reaproximacao-mas-acoes-sobre-tecnologia-ainda-os-divide/",
+     "angulo": "Disputa tecnológica entre EUA e China.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "caixa-libera-saque-calamidade-e-sul-tem-alerta-de-novos-temporais",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Caixa libera saque calamidade em Tupanciretã, e Defesa Civil alerta para novos temporais no RS",
+   "lide": "Atingidos pelo vendaval de sexta poderão sacar até R$ 6,2 mil do FGTS, e o governo federal anunciou R$ 4,7 milhões para ajuda humanitária. Os temporais já afetam mais de 25 mil pessoas em 46 cidades gaúchas, e a Defesa Civil prevê a terça (24) como o dia mais crítico da nova frente fria.",
+   "fatos": [
+    {
+     "texto": "A Caixa liberou o saque calamidade do FGTS, de até R$ 6,2 mil, para atingidos em Tupanciretã.",
+     "base": "anúncio da Caixa"
+    },
+    {
+     "texto": "O governo federal anunciou R$ 4,7 milhões para cestas básicas, kits de limpeza e higiene, colchões e logística em Tupanciretã.",
+     "base": "2 fontes independentes (CNN Brasil, UOL)"
+    },
+    {
+     "texto": "A Defesa Civil do RS contabiliza mais de 25 mil pessoas afetadas em 46 municípios, com cinco mortos e quase 20 mil desalojados.",
+     "base": "Defesa Civil do RS; 3 fontes independentes (Agência Brasil, Jovem Pan, SBT)"
+    },
+    {
+     "texto": "A prefeitura de Tupanciretã decretou calamidade pública por 180 dias.",
+     "base": "decreto municipal; 2 fontes independentes (O Globo, Brasil de Fato)"
+    },
+    {
+     "texto": "A Defesa Civil emitiu alerta para novos temporais, com maior risco na metade norte do estado e terça (24) como dia mais crítico.",
+     "base": "Defesa Civil do RS; 2 fontes independentes (Poder360, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os temporais desde sexta atingiram pelo menos 93 municípios do RS, SC e PR.",
+     "quem": "Revista Oeste, com base nos balanços das Defesas Civis estaduais"
+    },
+    {
+     "texto": "Os danos a lavouras de soja e armazéns são grandes, mas não devem causar quebra da safra gaúcha 2026/27.",
+     "quem": "CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-22",
+    "id": "mortos-em-tupancireta-sobem-para-cinco-e-governo-reconhece-calamidade",
+    "titulo": "Mortos em Tupanciretã sobem para cinco, e governo federal reconhece calamidade"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Caixa libera 'saque calamidade' de até R$ 6,2 mil para atingidos por temporal em Tupanciretã, no RS",
+     "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/23/saque-calamidade-tupancireta-rs.ghtml",
+     "angulo": "Saque do FGTS para atingidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Governo Federal anuncia envio de R$ 4,7 milhões a Tupanciretã (RS)",
+     "url": "https://www.cnnbrasil.com.br/politica/governo-federal-anuncia-envio-de-r-47-milhoes-a-tupancireta-rs/",
+     "angulo": "Destino dos R$ 4,7 milhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Temporais atingem 46 municípios e mais de 25 mil pessoas no RS",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporais-atingem-46-municipios-e-mais-de-25-mil-pessoas-no-rs",
+     "angulo": "Balanço da Defesa Civil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Temporais atingem 93 municípios e deixam 5 mortos no Sul",
+     "url": "https://revistaoeste.com/brasil/temporais-atingem-93-municipios-e-deixam-5-mortos-no-sul/",
+     "angulo": "Alcance dos temporais no Sul.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Defesa Civil do RS emite alerta para novos temporais após 5 mortes",
+     "url": "https://www.poder360.com.br/poder-brasil/defesa-civil-do-rs-emite-alerta-para-novos-temporais-apos-5-mortes/",
+     "angulo": "Alerta para a nova frente fria.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Região do RS entra em alerta para granizo e rajadas acima de 80 km/h neste domingo",
+     "url": "https://www.brasil247.com/sul/regiao-do-rs-entra-em-alerta-para-granizo-e-rajadas-acima-de-80-km-h-neste-domingo/",
+     "angulo": "Previsão de granizo e ventos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Temporais no RS já afetam mais de 25 mil pessoas em 46 cidades; cinco morreram",
+     "url": "https://jovempan.com.br/brasil/temporais-no-rs-ja-afetam-mais-de-25-mil-pessoas-em-46-cidades-cinco-morreram/",
+     "angulo": "Casas destelhadas e desalojados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Tupanciretã: cidade gaúcha decreta estado de calamidade pública por 180 dias após temporal deixar cinco mortos",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/22/tupancireta-cidade-gaucha-decreta-estado-de-calamidade-publica-por-180-dias-apos-temporal-deixar-cinco-mortos.ghtml",
+     "angulo": "Decreto municipal de 180 dias.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Temporais causam danos a lavouras de soja e a armazéns em Tupanciretã",
+     "url": "https://www.cnnbrasil.com.br/agro/temporais-causam-danos-a-lavouras-de-soja-e-a-armazens-em-tupancireta/",
+     "angulo": "Impacto no agronegócio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Sobe para 5 o número de mortos em temporal no RS; estado tem 20 mil desalojados",
+     "url": "https://iclnoticias.com.br/sobe-para-5-mortos-temporal-rs/",
+     "angulo": "Balanço estadual de mortos e desalojados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Tupanciretã (RS) decreta estado de calamidade pública após vendaval e tempestade",
+     "url": "https://www.brasildefato.com.br/2026/11/22/tupancireta-rs-decreta-estado-de-calamidade-publica-apos-vendaval-e-tempestade/",
+     "angulo": "Decreto de calamidade pública.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "MIDR libera ajuda humanitária de R$ 4,7 milhões para Tupanciretã (RS) após temporal",
+     "url": "https://www.brasil247.com/sul/midr-libera-ajuda-humanitaria-de-r-47-milhoes-para-tupancireta-rs-apos-temporal/",
+     "angulo": "Ajuda humanitária do ministério.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "zanin-leva-ao-plenario-fisico-julgamento-de-juscelino-filho",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Zanin pede destaque e leva a sessão presencial o julgamento de Juscelino Filho",
+   "lide": "O pedido interrompeu no plenário virtual a análise da denúncia da PGR contra o deputado e ex-ministro das Comunicações de Lula, depois de Flávio Dino votar para torná-lo réu por desvio de emendas. A Primeira Turma decidirá em sessão presencial, ainda sem data, como já ocorreu com o caso de Van Hattem.",
+   "fatos": [
+    {
+     "texto": "Zanin pediu destaque e interrompeu o julgamento virtual da denúncia contra Juscelino Filho (PSDB-MA).",
+     "base": "3 fontes independentes (SBT, O Antagonista, Revista Oeste)"
+    },
+    {
+     "texto": "Com o destaque, a Primeira Turma vai decidir em sessão presencial se recebe a denúncia.",
+     "base": "2 fontes independentes (Revista Oeste, InfoMoney)"
+    },
+    {
+     "texto": "Antes do pedido, Flávio Dino, relator, havia votado para aceitar a denúncia.",
+     "base": "2 fontes independentes (Jovem Pan, Terra Brasil Notícias)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A denúncia trata de organização criminosa, corrupção, peculato e fraude em licitações.",
+     "quem": "PGR, segundo InfoMoney e Band"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "Veículos à esquerda noticiaram na sexta o voto de Dino para tornar réu o ex-ministro de Lula, mas a interrupção do julgamento por Zanin não foi encontrada nos feeds nem na busca em CartaCapital, Brasil de Fato, Brasil 247, Fórum, DCM, ICL e Opera Mundi.",
+   "continua": {
+    "data": "2026-11-21",
+    "id": "dino-vota-para-tornar-reu-ex-ministro-juscelino-filho",
+    "titulo": "Dino vota para tornar réu o ex-ministro Juscelino Filho por desvio de emendas"
+   },
+   "materias": [
+    {
+     "fonte": "sbt",
+     "titulo": "STF: Zanin leva caso de Juscelino Filho à análise presencial",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/stf-zanin-leva-caso-de-juscelino-filho-a-analise-presencial",
+     "angulo": "Análise vai à sessão presencial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Zanin interrompe análise de denúncia contra ex-ministro de Lula",
+     "url": "https://oantagonista.com.br/brasil/zanin-interrompe-analise-de-denuncia-contra-ex-ministro-de-lula/",
+     "angulo": "Destaca que é ex-ministro de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Zanin interrompe julgamento de ex-ministro de Lula",
+     "url": "https://revistaoeste.com/politica/zanin-julgamento-juscelino-filho/",
+     "angulo": "Decisão da Primeira Turma em sessão presencial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Zanin interrompe julgamento virtual que pode tornar ex-ministro de Lula réu",
+     "url": "https://www.infomoney.com.br/politica/zanin-interrompe-julgamento-virtual-que-pode-tornar-ex-ministro-de-lula-reu/",
+     "angulo": "Crimes pelos quais foi denunciado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Zanin interrompe julgamento de ex-ministro de Lula por suspeita de desvio de emendas",
+     "url": "https://jovempan.com.br/politica/zanin-interrompe-julgamento-de-ex-ministro-de-lula-por-suspeita-de-desvio-de-emendas/",
+     "angulo": "Voto de Dino e próximo passo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Zanin suspende julgamento que pode tornar ex-ministro de Lula réu por desvio de emendas",
+     "url": "https://terrabrasilnoticias.com/2026/11/zanin-suspende-julgamento-que-pode-tornar-ex-ministro-de-lula-reu-por-desvio-de-emendas/",
+     "angulo": "Registro da suspensão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-22"
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-22T08:59:59+00:00",
+ "atualizado_em": "2026-11-23T09:00:04+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-23",
+   "arquivo": "data/edicoes/2026-11-23.json",
+   "historias": 9,
+   "gerado_em": "2026-11-23T06:00:04-03:00",
+   "manchete": "COP31 termina sem acordo depois que UE e outros países rejeitam texto que omitia combustíveis fósseis"
+  },
   {
    "data": "2026-11-22",
    "arquivo": "data/edicoes/2026-11-22.json",
