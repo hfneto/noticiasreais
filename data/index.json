@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-23T09:00:04+00:00",
+ "atualizado_em": "2026-11-24T09:01:48+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-24",
+   "arquivo": "data/edicoes/2026-11-24.json",
+   "historias": 10,
+   "gerado_em": "2026-11-24T06:01:47-03:00",
+   "manchete": "Câmara aprova ajuste fiscal sem mudanças e texto vai à sanção de Lula"
+  },
   {
    "data": "2026-11-23",
    "arquivo": "data/edicoes/2026-11-23.json",

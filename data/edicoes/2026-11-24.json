@@ -1,0 +1,1417 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-24",
+ "gerado_em": "2026-11-24T06:01:47-03:00",
+ "historias": [
+  {
+   "id": "camara-aprova-ajuste-fiscal-sem-mudancas-e-texto-vai-a-sancao",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Câmara aprova ajuste fiscal sem mudanças e texto vai à sanção de Lula",
+   "lide": "A Câmara aprovou na noite de segunda (23) o projeto de lei complementar do ajuste fiscal por 353 votos a 128, sem alterar o texto do Senado e rejeitando todos os destaques. No mesmo dia, o dólar chegou a R$ 6 durante o pregão e fechou a R$ 5,92.",
+   "fatos": [
+    {
+     "texto": "O texto-base do PLP 299/2026 foi aprovado por 353 votos a favor, 128 contra e 5 abstenções; eram necessários 257 votos.",
+     "base": "3 fontes independentes (Agência Câmara, Estadão, Brasil de Fato)"
+    },
+    {
+     "texto": "Antes, a urgência do projeto foi aprovada por 318 votos a 135.",
+     "base": "3 fontes independentes (Agência Brasil, Valor, Exame)"
+    },
+    {
+     "texto": "O relator, deputado Mauro Benevides Filho (União-CE), manteve o texto aprovado pelo Senado, e os destaques foram rejeitados; o projeto segue para sanção presidencial.",
+     "base": "3 fontes independentes (Poder360, Brasil 247, CNN Brasil)"
+    },
+    {
+     "texto": "O PL, pelo líder Sóstenes Cavalcante (RJ), orientou voto contra o projeto.",
+     "base": "2 fontes independentes (O Globo, Brasil 247)"
+    },
+    {
+     "texto": "O dólar superou R$ 6 durante a segunda-feira e fechou a R$ 5,92.",
+     "base": "2 fontes independentes (Jovem Pan, g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O ajuste é o primeiro passo e a consolidação das contas é condição para juros mais baixos.",
+     "quem": "Dario Durigan, ministro da Fazenda"
+    },
+    {
+     "texto": "Os partidos do centrão apoiaram o projeto à espera de ministérios e emendas no novo governo.",
+     "quem": "Folha de S.Paulo (análise de bastidores)"
+    },
+    {
+     "texto": "O SUS pode perder de R$ 5 bilhões a R$ 10 bilhões por ano com as regras do ajuste.",
+     "quem": "Entidades de saúde pública, segundo levantamento publicado pela Folha"
+    },
+    {
+     "texto": "Sem medidas adicionais, o país caminha para uma recessão; o projeto seria uma adequação do Orçamento de 2027, não um ajuste.",
+     "quem": "Economista Luiz Carlos Mendonça de Barros"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O ajuste fiscal vai gerar economia de R$ 56 bilhões em 2027.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os números divulgados variam: parte da imprensa fala em economia de até R$ 56,1 bilhões, enquanto o Estadão e a CNN citam estimativa do Executivo de melhora de até R$ 50,1 bilhões no resultado primário de 2027.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo e o relator apresentam o projeto como condição para cumprir a meta de 2027 e reduzir juros, com Bolsa Família e BPC preservados.",
+    "oposicao": "O PL e o Novo dizem que o projeto 'não ajusta nada', aumenta arrecadação em vez de cortar gastos e tira recursos do SUS."
+   },
+   "visao_de_fora": "O argentino La Nación destacou que o real passou de 6 por dólar pela primeira vez em 19 meses e que o mercado considera o ajuste insuficiente.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-23",
+    "id": "camara-vota-ajuste-fiscal-e-real-acumula-queda-de-17-desde-a-eleicao",
+    "titulo": "Câmara vota ajuste fiscal nesta segunda, e real acumula queda de 17% desde a reeleição de Lula"
+   },
+   "materias": [
+    {
+     "fonte": "agenciacamara",
+     "titulo": "Câmara aprova texto-base do projeto de ajuste fiscal; acompanhe",
+     "url": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe",
+     "angulo": "Registro oficial da votação, com o parecer do relator pela aprovação do texto do Senado sem mudanças.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Câmara aprova ajuste fiscal de Lula com impacto de até R$ 50 bilhões em 2027; texto vai à sanção",
+     "url": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
+     "angulo": "Destaca o placar e a estimativa de impacto de R$ 50 bilhões em 2027, com destaques rejeitados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Câmara aprova ajuste fiscal; todos os destaques são rejeitados",
+     "url": "https://www.brasil247.com/brasilia/camara-dos-deputados-aprova-texto-base-do-pacote-fiscal/",
+     "angulo": "Nota curta sobre a conclusão da votação e o envio à sanção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Centrão adere ao ajuste fiscal de Lula com expectativa por ministérios e emendas",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/centrao-adere-ao-ajuste-fiscal-de-lula-com-expectativa-por-ministerios-e-emendas.shtml",
+     "angulo": "Bastidores: o apoio do centrão ligado à expectativa por ministérios e emendas no governo Lula 4.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "SUS pode perder até R$ 10 bi por ano com ajuste fiscal, alertam entidades",
+     "url": "https://revistaoeste.com/politica/sus-pode-perder-ate-r-10-bi-por-ano-com-ajuste-fiscal-alertam-entidades/",
+     "angulo": "Repercute estimativa de entidades de saúde sobre perda de recursos do SUS.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Após divergências, Câmara aprova ajuste fiscal do governo Lula",
+     "url": "https://www.poder360.com.br/poder-congresso/apos-divergencias-camara-aprova-texto-base-do-ajuste-fiscal-de-lula/",
+     "angulo": "Resume a votação e a rejeição de todos os destaques.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Câmara aprova texto-base do ‘ajuste fiscal’ fake do governo",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/camara-aprova-texto-base-do-ajuste-fiscal-fake-do-governo",
+     "angulo": "Nota que chama o projeto de 'ajuste fiscal fake' já no título.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Ajuste fiscal sem asfixia social",
+     "url": "https://revistaforum.com.br/debates/ajuste-fiscal-sem-asfixia-social/",
+     "angulo": "Artigo que defende o projeto por dar espaço fiscal ao governo eleito sem cortes sociais.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Em meio à votação do ajuste fiscal, dólar fecha a R$ 5,92 após bater R$ 6 durante o dia",
+     "url": "https://jovempan.com.br/economia/em-meio-a-votacao-do-ajuste-fiscal-dolar-fecha-a-r-592-apos-bater-r-6-durante-o-dia/",
+     "angulo": "Liga a alta do dólar a R$ 6 ao dia de votação do ajuste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Câmara aprova texto-base do ajuste fiscal com 353 votos a favor e 128 contrários",
+     "url": "https://www.brasildefato.com.br/2026/11/23/camara-aprova-ajuste-fiscal-sem-alteracoes-texto-vai-a-sancao-presidencial/",
+     "angulo": "Notícia do placar com rejeição das emendas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "El dólar tocó los 6 reales y el mercado le pasa factura a Lula por un ajuste que considera insuficiente",
+     "url": "https://www.lanacion.com.ar/el-mundo/el-dolar-toco-los-6-reales-y-el-mercado-le-pasa-factura-a-lula-por-un-ajuste-que-considera-nid23112026/",
+     "angulo": "Visão argentina: o mercado cobra de Lula um ajuste considerado insuficiente (em espanhol).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "PSOL se reúne com Moretti e pede mudanças no ajuste fiscal",
+     "url": "https://www.diariodocentrodomundo.com.br/psol-se-reune-com-moretti-e-pede-mudancas-no-ajuste-fiscal/",
+     "angulo": "Mostra a pressão do PSOL por mudanças, sem cortes em saúde e educação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-recontrata-jensen-huang-apos-pressao-de-trump",
+   "editoria": "Economia",
+   "escopo": "mundo",
+   "titulo": "Nvidia recontrata Jensen Huang como CEO após pressão de Trump; ações sobem 31%",
+   "lide": "O conselho da Nvidia reconduziu por unanimidade Jensen Huang ao comando da empresa, 11 dias depois de ele renunciar em meio à suspeita de que uma ex-amante espionava para a China. Trump disse ter convencido o conselho; senadores dos dois partidos criticaram a decisão e cobram depoimento de Huang no Congresso.",
+   "fatos": [
+    {
+     "texto": "O conselho de administração da Nvidia aprovou por unanimidade a volta de Jensen Huang aos cargos de CEO e presidente, em 23 de novembro; ele havia renunciado em 12 de novembro.",
+     "base": "3 fontes independentes (g1, DW Brasil, Terra Brasil)"
+    },
+    {
+     "texto": "As ações da Nvidia subiram cerca de 31% no dia, e a empresa ganhou mais de US$ 900 bilhões em valor de mercado.",
+     "base": "3 fontes independentes (g1, CartaCapital, Financial Times)"
+    },
+    {
+     "texto": "Trump disse que conversou com membros do conselho para reconduzir Huang e afirmou que o retorno não representa risco à segurança nacional.",
+     "base": "3 fontes independentes (Estadão, AFP, The Guardian)"
+    },
+    {
+     "texto": "O Departamento de Comércio dos EUA incluiu a Megaspeed, empresa de Singapura ligada a Alice Huang, em sua lista de restrições comerciais.",
+     "base": "2 fontes independentes (Folha, New York Post)"
+    },
+    {
+     "texto": "Senadores republicanos, como Pete Ricketts, e o líder democrata no Senado, Chuck Schumer, criticaram a recondução; Schumer prometeu investigação.",
+     "base": "2 fontes independentes (The Guardian, AFP)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Alice Huang manteve contato com um funcionário do Ministério da Segurança do Estado chinês por mais de um ano durante o relacionamento.",
+     "quem": "The New York Times, segundo reportagem repercutida por O Globo e g1"
+    },
+    {
+     "texto": "A saída de Huang poderia beneficiar a China, que tentaria recrutá-lo.",
+     "quem": "Donald Trump"
+    },
+    {
+     "texto": "O caso mostra quão pouca margem de pressão Washington tem sobre Pequim.",
+     "quem": "Financial Times (análise)"
+    },
+    {
+     "texto": "A volta de Huang mostra que o trumpismo segue forte: bastou uma intervenção do presidente para reverter a renúncia.",
+     "quem": "Coluna da Folha de S.Paulo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o g1 comparou o valor recuperado pela Nvidia em um dia (US$ 953 bilhões) ao valor de toda a B3; o dia de alta em Nova York contrastou com a terceira queda seguida do Ibovespa.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-23",
+    "id": "governo-trump-investiga-suposta-espia-ligada-a-ex-ceo-da-nvidia",
+    "titulo": "Governo Trump investiga suposta espiã chinesa ligada ao ex-CEO da Nvidia e cobra explicações sobre venda de chips"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Nvidia anuncia volta de Jensen Huang ao comando da empresa",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/23/nvidia-anuncia-volta-de-jensen-huang-ao-comando-da-empresa.ghtml",
+     "angulo": "Notícia do anúncio, com o histórico da renúncia e da suspeita de espionagem.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Nvidia Brings Back Jensen Huang as CEO After Trump Backs His Return",
+     "url": "https://www.breitbart.com/economy/2026/11/23/jensen-huang-back-as-nvidia-ceo/",
+     "angulo": "Enfatiza o apoio de Trump ao retorno (em inglês: 'Nvidia traz Huang de volta após Trump apoiar retorno').",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+     "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+     "angulo": "Mostra a reação negativa de senadores republicanos e o pedido de depoimento (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Trump diz que retorno de Huang ao cargo de CEO da Nvidia não representa risco à segurança nacional",
+     "url": "https://www.estadao.com.br/internacional/trump-diz-que-retorno-de-huang-ao-cargo-de-ceo-da-nvidia-nao-representa-risco-a-seguranca-nacional-npr/",
+     "angulo": "Registra a declaração de Trump de que não há risco à segurança nacional.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Trump backs Nvidia boss's return but top Democrat vows probe",
+     "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
+     "angulo": "Destaca a promessa de investigação de Schumer e o meme postado por Trump (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "EUA impõem restrições à Megaspeed, empresa ligada a escândalo da Nvidia",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/eua-impoe-restricoes-a-megaspeed-empresa-ligada-a-escandalo-da-nvidia.shtml",
+     "angulo": "Notícia da inclusão da Megaspeed na lista de restrições comerciais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Nvidia dispara na bolsa após restituição de Jensen Huang como CEO",
+     "url": "https://www.cartacapital.com.br/mundo/nvidia-dispara-na-bolsa-apos-restituicao-de-jensen-huang-como-ceo/",
+     "angulo": "Foco no ganho de mais de US$ 900 bilhões em valor de mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
+     "angulo": "Destaca que a reviravolta veio após apelos repetidos de Trump (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "What Nvidia tells us about America and China",
+     "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
+     "angulo": "Análise sobre a pouca margem de pressão dos EUA sobre a China (em inglês).",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Jensen Huang comprova: O trumpismo não morreu",
+     "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/11/jensen-huang-comprova-o-trumpismo-nao-morreu.shtml",
+     "angulo": "Coluna que vê no episódio a força do trumpismo.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Trump diz que saída do CEO da Nvidia poderia beneficiar China: “Uma ameaça”",
+     "url": "https://www.diariodocentrodomundo.com.br/trump-diz-que-saida-do-ceo-da-nvidia-poderia-beneficiar-china-uma-ameaca/",
+     "angulo": "Registra o argumento de Trump de que a saída de Huang beneficiaria a China.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "relatorio-da-pf-sobre-moraes-omite-mensagens-de-vorcaro",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Relatório da PF sobre Moraes omite mensagens de Vorcaro e contratos do escritório da esposa",
+   "lide": "A nova versão do relatório da PF sobre a relação entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro, enviada a Edson Fachin, deixou de fora 47 mensagens e os contratos do Banco Master com o escritório da mulher do ministro, revelados em setembro. No mesmo dia, a CVM suspendeu o registro de companhia aberta do BRB, banco envolvido no caso.",
+   "fatos": [
+    {
+     "texto": "O relatório da PF enviado ao presidente do STF, Edson Fachin, não inclui 47 mensagens de Vorcaro a Moraes nem os contratos do Master com o escritório da esposa do ministro.",
+     "base": "4 fontes independentes (Folha, Band, Poder360, Gazeta do Povo)"
+    },
+    {
+     "texto": "Segundo o Poder360, o documento usou buscas por palavras-chave e deixou de fora informações já divulgadas em setembro.",
+     "base": "Poder360"
+    },
+    {
+     "texto": "A PGR confirmou ter recebido quatro relatórios da PF com referências a Moraes, Dias Toffoli, Nunes Marques e André Mendonça, sem fixar prazo para se manifestar.",
+     "base": "3 fontes independentes (ICL Notícias, CNN Brasil, Brasil 247)"
+    },
+    {
+     "texto": "O partido Novo pediu a Fachin o afastamento cautelar do diretor-geral da PF, Andrei Rodrigues, alegando interferência na investigação.",
+     "base": "2 fontes independentes (Estadão, Terra Brasil)"
+    },
+    {
+     "texto": "A CVM suspendeu o registro de companhia aberta do BRB, que não divulga balanços há mais de 12 meses; as ações do banco ficam impedidas de negociação.",
+     "base": "3 fontes independentes (Revista Fórum, Revista Oeste, DW Brasil)"
+    },
+    {
+     "texto": "Kassio Nunes Marques foi sorteado relator de um mandado de segurança da defesa de Vorcaro contra a atuação de Fachin.",
+     "base": "2 fontes independentes (O Antagonista, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os relatórios foram refeitos para blindar Moraes, depois de os autores das versões anteriores serem afastados.",
+     "quem": "Coluna do Estadão"
+    },
+    {
+     "texto": "O BRB atribui o atraso nos balanços aos impactos da crise do Master.",
+     "quem": "BRB, em fato relevante"
+    },
+    {
+     "texto": "A PF não encontrou conversas diretas entre Vorcaro e Mendonça, o que pressiona outra ala do STF.",
+     "quem": "O Antagonista"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "A omissão no relatório sobre Moraes aparece em veículos de centro e de direita; à esquerda, a cobertura do dia tratou da análise dos quatro relatórios pela PGR. A omissão não foi encontrada nos feeds nem na busca em Brasil 247, Revista Fórum, DCM, CartaCapital, Brasil de Fato e ICL Notícias.",
+   "continua": {
+    "data": "2026-11-23",
+    "id": "gilmar-admite-falta-de-autocontencao-e-pgr-analisa-relatorios",
+    "titulo": "Gilmar admite 'falta de autocontenção' no STF enquanto PGR começa a analisar relatórios do caso Master"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Relatório da PF sobre Moraes omite diálogo com Vorcaro e contrato de escritório da esposa",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/relatorio-da-pf-sobre-moraes-omite-dialogo-com-vorcaro-e-contrato-de-escritorio-da-esposa.shtml",
+     "angulo": "Revela que o relatório deixou de fora mensagens e contratos do escritório da esposa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "PGR analisa novos relatórios da PF sobre ministros do STF no caso Master",
+     "url": "https://iclnoticias.com.br/pgr-novos-relatorios-ministros-master/",
+     "angulo": "Foca no recebimento pela PGR dos relatórios sobre quatro ministros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Relatório da PF sobre Moraes omite 47 mensagens de Vorcaro e contratos do Master",
+     "url": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/relatorio-da-pf-sobre-moraes-omite-47-mensagens-de-vorcaro-e-contratos-do-master/",
+     "angulo": "Repercute a omissão de 47 mensagens e dos contratos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "PF omite contratos da mulher de Moraes e 47 mensagens de Vorcaro",
+     "url": "https://www.poder360.com.br/poder-justica/pf-omite-contratos-da-mulher-de-moraes-e-47-mensagens-de-vorcaro/",
+     "angulo": "Explica que o relatório usou buscas por palavras-chave.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PGR evita definir prazo para se manifestar sobre relatórios do Caso Master",
+     "url": "https://www.brasil247.com/brasil/pgr-evita-definir-prazo-para-se-manifestar-sobre-relatorios-do-caso-master/",
+     "angulo": "Destaca que Gonet ainda não decidiu se pedirá novas diligências.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Caso Master: Novo pede a Fachin afastamento cautelar de Andrei Rodrigues do comando da PF",
+     "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-master-novo-pede-a-fachin-afastamento-cautelar-de-andrei-rodrigues-do-comando-da-pf/",
+     "angulo": "Notícia do pedido do Novo para afastar o diretor-geral da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Em meio ao escândalo do Banco Master, CVM suspende registro do BRB",
+     "url": "https://revistaforum.com.br/economia/cvm-suspende-brb/",
+     "angulo": "Notícia da suspensão do registro do BRB pela CVM.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "A receita para blindar Xandão",
+     "url": "https://www.estadao.com.br/politica/carlos-andreazza/a-receita-para-blindar-xandao/",
+     "angulo": "Coluna que vê nos relatórios refeitos uma blindagem a Moraes.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "BRB atribui à crise do Master atraso em balanços que levou à suspensão pela CVM",
+     "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/brb-atribui-a-crise-do-master-atraso-em-balancos-que-levou-a-suspensao-pela-cvm.ghtml",
+     "angulo": "Registra a explicação do BRB em fato relevante.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Relatório da PF afasta Mendonça de Vorcaro e pressiona ala do STF",
+     "url": "https://oantagonista.com.br/videos/papo-antagonista/relatorio-da-pf-afasta-mendonca-de-vorcaro-e-pressiona-ala-do-stf/",
+     "angulo": "Enfatiza que a PF não achou conversas diretas entre Vorcaro e Mendonça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Espantoso: Relatório da PF omite mensagens entre Vorcaro e Moraes e contratos com escritório da esposa",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/espantoso-relatorio-da-pf-omite-mensagens-entre-vorcaro-e-moraes-e-contratos-com-escritorio-da-esposa",
+     "angulo": "Nota que chama a omissão de 'espantosa' já no título.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "bolsonaro-tem-pneumonia-nos-dois-pulmoes-e-segue-na-uti",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Bolsonaro tem pneumonia nos dois pulmões e segue na UTI; médicos descartam cirurgia",
+   "lide": "O ex-presidente Jair Bolsonaro, em prisão domiciliar, foi diagnosticado com pneumonia broncoaspirativa bilateral e continua na UTI do hospital DF Star, em Brasília. A equipe médica relata melhora após uma endoscopia e diz que, por ora, não há indicação de cirurgia.",
+   "contexto": "Bolsonaro foi internado na sexta (20) com obstrução intestinal.",
+   "fatos": [
+    {
+     "texto": "Bolsonaro recebeu no domingo (22) diagnóstico de pneumonia broncoaspirativa bilateral e permanece na UTI do DF Star.",
+     "base": "3 fontes independentes (Folha, Estadão, Agência Brasil)"
+    },
+    {
+     "texto": "Uma endoscopia retirou acúmulos de fibras alimentares do estômago e do intestino delgado, e o quadro clínico melhorou.",
+     "base": "2 fontes independentes (Estadão, CNN Brasil)"
+    },
+    {
+     "texto": "Os médicos disseram que não há indicação de cirurgia para desobstrução neste momento.",
+     "base": "3 fontes independentes (Band, Jovem Pan, Valor)"
+    },
+    {
+     "texto": "A defesa pediu ao ministro Alexandre de Moraes autorização para que o advogado visite Bolsonaro no hospital.",
+     "base": "2 fontes independentes (Gazeta do Povo, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A infecção pulmonar é menos grave que a registrada em março.",
+     "quem": "Equipe médica, segundo o SBT"
+    },
+    {
+     "texto": "A internação aprofundou o racha na família, com novo atrito público entre Michelle e Carlos Bolsonaro.",
+     "quem": "Folha de S.Paulo (bastidores)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Jair Bolsonaro morreu no sábado (21) enquanto estava internado.",
+     "rotulo": "Falso",
+     "explicacao": "Boletins médicos posteriores mostram o ex-presidente vivo e internado na UTI; as publicações inventaram uma data de morte para atrair cliques.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Aos Fatos",
+       "url": "https://www.aosfatos.org/noticias/e-falso-jair-bolsonaro-morreu/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-22",
+    "id": "bolsonaro-vai-para-a-uti-com-abdomen-agudo-obstrutivo",
+    "titulo": "Bolsonaro vai para a UTI com abdômen agudo obstrutivo; Moraes libera visitas dos filhos"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Bolsonaro tem diagnóstico de pneumonia e continuará na UTI, dizem médicos",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-tem-diagnostico-de-pneumonia-e-continuara-na-uti-dizem-medicos.shtml",
+     "angulo": "Notícia do diagnóstico e da permanência na UTI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Bolsonaro é diagnosticado com pneumonia nos dois pulmões e segue na UTI",
+     "url": "https://www.gazetadopovo.com.br/republica/bolsonaro-contrai-pneumonia-dois-pulmoes-segue-uti/",
+     "angulo": "Notícia do quadro bilateral e da permanência na UTI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Jair Bolsonaro tem pneumonia e segue internado na UTI, apesar de melhora clínica",
+     "url": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-pneumonia-e-segue-internado-na-uti-apesar-de-melhora-clinica/",
+     "angulo": "Detalha a endoscopia e a melhora clínica apesar da pneumonia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Ex-presidente Jair Bolsonaro é diagnosticado com pneumonia e segue internado na UTI",
+     "url": "https://www.brasildefato.com.br/2026/11/23/ex-presidente-jair-bolsonaro-e-diagnosticado-com-pneumonia-e-segue-internado-na-uti/",
+     "angulo": "Notícia factual do boletim médico.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Bolsonaro está com pneumonia e não fará cirurgia para desobstrução do abdômen, diz médico",
+     "url": "https://jovempan.com.br/politica/bolsonaro-esta-com-pneumonia-e-nao-fara-cirurgia-para-desobstrucao-do-abdomen-diz-medico/",
+     "angulo": "Destaca a declaração do médico de que não haverá cirurgia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "aosfatos",
+     "titulo": "É falso que ex-presidente Jair Bolsonaro morreu",
+     "url": "https://www.aosfatos.org/noticias/e-falso-jair-bolsonaro-morreu/",
+     "angulo": "Desmente publicações que anunciavam a morte do ex-presidente.",
+     "tipo": "checagem",
+     "enquadramento": null,
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Clã Bolsonaro racha de vez após internação de Jair",
+     "url": "https://www.diariodocentrodomundo.com.br/internacao-bolsonaro-atrito-michelle-carlos/",
+     "angulo": "Foca na briga familiar entre Carlos e Michelle durante a internação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Bolsonaro tem pneumonia broncoaspirativa e segue na UTI",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/bolsonaro-tem-pneumonia-broncoaspirativa-e-segue-na-uti",
+     "angulo": "Informa que o quadro é menos grave que o de março, segundo médicos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Bolsonaro tem complicação pulmonar e permanece internado na UTI em Brasília",
+     "url": "https://revistaforum.com.br/politica/bolsonaro-internado-uti/",
+     "angulo": "Notícia do quadro pulmonar e da internação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "fazenda-corta-pib-de-2027-para-1-8-e-preve-inflacao-no-teto-da-meta",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Fazenda corta previsão do PIB de 2027 para 1,8% e eleva inflação para o teto da meta",
+   "lide": "O Boletim Macrofiscal do Ministério da Fazenda reduziu a previsão de crescimento de 2027 de 2,3% para 1,8% e elevou a de inflação de 3,8% para 4,5%, o teto da meta. No mesmo dia, o Focus subiu as projeções de inflação e juros, e o presidente do BC, Gabriel Galípolo, disse que a estabilidade de preços é a prioridade.",
+   "fatos": [
+    {
+     "texto": "A Fazenda reduziu a projeção de crescimento do PIB de 2027 de 2,3% para 1,8% e elevou a de inflação de 3,8% para 4,5%.",
+     "base": "3 fontes independentes (Exame, SBT, Band)"
+    },
+    {
+     "texto": "Para 2026, a projeção de crescimento caiu de 2% para 1,9%.",
+     "base": "2 fontes independentes (g1, Diário do Poder)"
+    },
+    {
+     "texto": "No Boletim Focus, a mediana do IPCA de 2026 subiu de 5,11% para 5,15%, e o mercado passou a ver a Selic em 13% no fim de 2027.",
+     "base": "3 fontes independentes (Estadão, Valor, Brasil 247)"
+    },
+    {
+     "texto": "Galípolo afirmou que, 'se só couber um', o mandato do Banco Central é o de estabilidade de preços.",
+     "base": "2 fontes independentes (g1, NeoFeed)"
+    },
+    {
+     "texto": "O boletim incluiu o fim da escala 6x1 entre os fatores que podem pressionar a inflação em 2027.",
+     "base": "2 fontes independentes (SBT, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O dólar a R$ 6 preocupa pelo repasse aos preços, mas a economia deve desacelerar em 2027, sem recessão; a alta do câmbio vem de pressão global.",
+     "quem": "Débora Freire, secretária de Política Econômica da Fazenda"
+    },
+    {
+     "texto": "Sem ajuste além do plano Moretti, o país corre risco de estagflação.",
+     "quem": "Economistas ouvidos pela Folha"
+    },
+    {
+     "texto": "O real lidera a desvalorização entre moedas no mundo, com queda de 17,65% desde a eleição, pressionado por dívida e incerteza fiscal.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "O mercado quer que o trabalhador pague a conta dos juros altos.",
+     "quem": "Coluna do ICL Notícias"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "A Fazenda atribui a piora à pressão global sobre o câmbio e diz que o ajuste fiscal abre caminho para juros menores.",
+    "oposicao": "A oposição e analistas de mercado associam a desvalorização do real e a inflação maior à política fiscal do governo Lula."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "exame",
+     "titulo": "Governo Lula reduz expectativa do PIB e prevê inflação maior em 2026 e 2027",
+     "url": "https://exame.com/economia/governo-lula-reduz-expectativa-do-pib-e-preve-inflacao-maior-em-2026-e-2027/",
+     "angulo": "Destaca o corte do PIB de 2027 e a inflação no teto da meta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Mercado eleva projeções para inflação e dólar e vê Selic a 13% em 2027",
+     "url": "https://www.brasil247.com/economia/mercado-eleva-projecoes-para-inflacao-e-dolar-e-ve-selic-a-13-em-2027/",
+     "angulo": "Notícia do Focus com Selic a 13% em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
+     "url": "https://www.estadao.com.br/economia/dolar-a-r-6-preocupa-governo-mas-fazenda-nao-ve-recessao-em-2027-so-desaceleracao-diz-secretaria/",
+     "angulo": "Ouve a secretária da Fazenda sobre câmbio e risco de recessão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Galípolo reforça prioridade do BC no combate à inflação: 'Se só couber um, é estabilidade de preços'",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
+     "angulo": "Registra a fala de Galípolo sobre a prioridade da inflação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Real lidera desvalorização mundial e perde 17,65% após vitória de Lula",
+     "url": "https://www.gazetadopovo.com.br/economia/real-lidera-desvalorizacao-mundial-perde-17-65-apos-vitoria-lula/",
+     "angulo": "Liga a desvalorização do real à vitória de Lula e à incerteza fiscal.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml",
+     "angulo": "Economistas pedem ajuste além do plano Moretti.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Galípolo, os juros e a obsessão do mercado em fazer o trabalhador pagar",
+     "url": "https://iclnoticias.com.br/galipolo-juros-obsessao-mercado/",
+     "angulo": "Coluna crítica aos juros e ao mercado financeiro.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Governo reduz previsão do PIB e eleva inflação de 2027",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-de-2027",
+     "angulo": "Notícia direta dos números do Boletim Macrofiscal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "neofeed",
+     "titulo": "De Brasília a Washington: Galípolo e Bullard alertam que, sem ajuste fiscal, a inflação não dará trégua",
+     "url": "https://neofeed.com.br/economia/de-brasilia-a-washington-galipolo-e-bullard-alertam-que-sem-ajuste-fiscal-a-inflacao-nao-dara-tregua/",
+     "angulo": "Junta as falas de Galípolo e de James Bullard sobre inflação e ajuste fiscal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Dólar fecha em queda após superar R$ 6 com especulações sobre equipe econômica do governo",
+     "url": "https://www.brasil247.com/economia/dolar-fecha-em-queda-apos-superar-r-6-com-especulacoes-sobre-equipe-economica-do-governo/",
+     "angulo": "Atribui o recuo do dólar a especulações sobre a equipe econômica.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "petrobras-eleva-investimentos-para-us-122-bi-e-volta-ao-etanol",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Petrobras eleva plano de investimentos para US$ 122 bi e volta a produzir etanol",
+   "lide": "O conselho da Petrobras aprovou um plano de negócios de US$ 122 bilhões para 2027-2031, 12% acima do anterior, e R$ 15,6 bilhões em dividendos extraordinários. A estatal também comprou 42% de uma produtora de etanol de milho, retomando um setor que tinha deixado nos governos Temer e Bolsonaro.",
+   "fatos": [
+    {
+     "texto": "O plano de negócios 2027-2031 prevê US$ 122 bilhões em investimentos, cerca de 12% acima dos US$ 109 bilhões do plano anterior.",
+     "base": "3 fontes independentes (g1, Folha, Estadão)"
+    },
+    {
+     "texto": "Mais de 70% dos recursos, cerca de US$ 86 bilhões, vão para exploração e produção de petróleo e gás.",
+     "base": "2 fontes independentes (g1, Poder360)"
+    },
+    {
+     "texto": "O conselho aprovou R$ 15,6 bilhões em dividendos extraordinários, R$ 1,21 por ação, em parcela única.",
+     "base": "3 fontes independentes (Agência Brasil, Valor, CNN Brasil)"
+    },
+    {
+     "texto": "A Petrobras comprou 42% da Neomille, produtora de etanol de milho controlada pela CerradinhoBio, por R$ 2,8 bilhões.",
+     "base": "3 fontes independentes (Folha, Estadão, O Globo)"
+    },
+    {
+     "texto": "As ações da Petrobras caíram mais de 3% na segunda-feira, e o Ibovespa fechou em queda de 0,95%, na terceira baixa seguida.",
+     "base": "2 fontes independentes (InfoMoney, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A queda da bolsa refletiu receio de ingerência política na Petrobras.",
+     "quem": "Valor Econômico, citando agentes do mercado"
+    },
+    {
+     "texto": "A queda das ações no dia se deveu à baixa do petróleo, ao noticiário da Braskem e à expectativa pelo plano.",
+     "quem": "InfoMoney"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Petrobras prevê investir US$ 122 bilhões entre 2027 e 2031, alta de 11,9% em relação ao plano anterior",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+     "angulo": "Detalha a divisão dos investimentos, com mais de 70% em exploração e produção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Petrobras aprova plano de investimentos de US$ 122 bilhões até 2031",
+     "url": "https://oantagonista.com.br/economia/petrobras-aprova-plano-de-investimentos-de-us-122-bilhoes-ate-2031/",
+     "angulo": "Notícia direta da aprovação do plano.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Petrobras volta a produzir etanol com compra de 42% de produtora por R$ 2,8 bi",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-volta-a-produzir-etanol-com-compra-de-42-de-produtora-por-r-28-bi.shtml",
+     "angulo": "Destaca que a compra reverte a saída do etanol nos governos Temer e Bolsonaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Petrobras prevê US$ 122 bilhões em investimentos em 5 anos",
+     "url": "https://www.cartacapital.com.br/economia/petrobras-preve-us-122-bilhoes-em-investimentos-em-5-anos/",
+     "angulo": "Junta o plano de investimentos aos dividendos extraordinários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Petrobras eleva em 12% plano de investimentos entre 2027 e 2031, para US$ 122 bilhões",
+     "url": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
+     "angulo": "Separa a carteira em implantação (US$ 113 bi) da carteira em avaliação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Petrobras aprova pagamento de R$ 15, 6 bilhões a acionistas",
+     "url": "https://jovempan.com.br/economia/petrobras-aprova-pagamento-de-r-15-6-bilhoes-a-acionistas/",
+     "angulo": "Foco nos dividendos extraordinários aos acionistas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Com Lula reeleito, Petrobras anuncia plano de investimentos de até US$ 120 bilhões",
+     "url": "https://www.brasil247.com/economia/com-lula-reeleito-petrobras-anuncia-plano-de-investimentos-de-ate-us-120-bilhoes/",
+     "angulo": "Antecipa o plano e o liga à reeleição de Lula, com foco em pré-sal, Margem Equatorial e refino.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Ibovespa amplia perdas pelo 3º pregão com receio de ingerência política na Petrobras",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/23/ibovespa-amplia-perdas-pelo-3o-pregao-com-receio-de-ingerencia-politica-na-petrobras.ghtml",
+     "angulo": "Mostra a reação negativa da bolsa e o temor de interferência política.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Petrobras retoma produção de etanol com negócio de R$ 2,8 bilhões",
+     "url": "https://revistaoeste.com/economia/petrobras-retoma-producao-de-etanol-com-negocio-de-r-28-bilhoes/",
+     "angulo": "Notícia da compra da participação na produtora de etanol.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Petrobras lança plano de negócios 27-31 com US$ 122 bi em investimentos",
+     "url": "https://www.poder360.com.br/poder-economia/petrobras-lanca-plano-de-negocios-27-31-com-us-122-bi-em-investimentos/",
+     "angulo": "Resumo do plano e da destinação a exploração e produção.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "O plano de investimentos da Petrobras de até US$ 120 bilhões",
+     "url": "https://www.diariodocentrodomundo.com.br/o-plano-de-investimentos-da-petrobras-de-ate-us-120-bilhoes/",
+     "angulo": "Antecipa o plano de até US$ 120 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "trabalho-publica-regras-da-5x2-e-agu-pede-fim-de-liminar-de-dino",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "Ministério do Trabalho publica regras da jornada 5x2 e AGU pede fim da liminar de Dino",
+   "lide": "Uma portaria do Ministério do Trabalho detalhou como a jornada 5x2 será aplicada a partir de 16 de dezembro, com 90 dias de fiscalização orientativa antes das multas. A AGU pediu ao STF que declare desnecessária a liminar do ministro Flávio Dino que mudou parâmetros da transição, porque parte das regras do governo diverge dela.",
+   "fatos": [
+    {
+     "texto": "A portaria, publicada em edição extra do Diário Oficial em 23 de novembro, regula salário-hora, repouso semanal e validade de normas coletivas na jornada 5x2.",
+     "base": "Diário Oficial da União; 3 fontes independentes (Valor, Agência Brasil, Folha)"
+    },
+    {
+     "texto": "A primeira etapa da nova jornada entra em vigor em 16 de dezembro, e os auditores terão 90 dias de dupla visita para orientar as empresas antes de aplicar multas.",
+     "base": "3 fontes independentes (Estadão, Folha, Brasil de Fato)"
+    },
+    {
+     "texto": "A AGU, em manifestação assinada por Jorge Messias, pediu ao STF que reconheça que a liminar de Flávio Dino não é mais necessária após o decreto do governo.",
+     "base": "2 fontes independentes (g1, Jovem Pan)"
+    },
+    {
+     "texto": "As regras de compensação de folgas da portaria divergem das fixadas na liminar de Dino.",
+     "base": "Estadão, com base no texto da portaria"
+    },
+    {
+     "texto": "A Leroy Merlin vai adotar a 5x2 e 40 horas semanais nas 53 lojas e disse que não pretende contratar para cobrir as escalas.",
+     "base": "2 fontes independentes (Exame, Terra Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O fim da 6x1 deve alterar a jornada de cerca de 102 mil trabalhadores domésticos.",
+     "quem": "Instituto Doméstica Legal"
+    },
+    {
+     "texto": "A redução da jornada pode pressionar a inflação em 2027.",
+     "quem": "Ministério da Fazenda, segundo o SBT; o Banco Central já havia apontado o risco"
+    },
+    {
+     "texto": "Falta ao governo capitalizar publicamente a mudança e convencer empresários e trabalhadores de que ela compensa.",
+     "quem": "Analista ouvido pelo Brasil de Fato"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo apresenta a portaria como garantia de segurança jurídica e de que o descanso maior chegará ao trabalhador sem perda salarial.",
+    "oposicao": "Empresários e críticos destacam custo maior, risco de inflação e contratações congeladas no varejo."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-20",
+    "id": "lula-assina-decreto-da-6x1-e-hora-extra-fica-mais-cara",
+    "titulo": "Lula assina o decreto que regulamenta o fim da escala 6x1; hora extra fica mais cara a partir de 16 de dezembro"
+   },
+   "materias": [
+    {
+     "fonte": "valor",
+     "titulo": "Governo publica regras complementares para implementação de jornada de trabalho 5x2",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/23/governo-publica-regras-complementares-para-implementacao-de-jornada-de-trabalho-5x2.ghtml",
+     "angulo": "Lista os temas da portaria: repouso, salário-hora e normas coletivas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "AGU defende dispensar liminar de Dino sobre escala 5×2",
+     "url": "https://jovempan.com.br/politica/agu-defende-dispensar-liminar-de-dino-sobre-escala-5x2/",
+     "angulo": "Destaca o pedido da AGU para tornar a liminar de Dino desnecessária.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Fim da escala 6x1: Governo publica regras para compensação de folgas que divergem de liminar de Dino",
+     "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-governo-publica-regras-para-compensacao-de-folgas-que-divergem-de-liminar-de-dino/",
+     "angulo": "Aponta onde a portaria diverge da liminar de Dino.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Fiscalização em 90 dias e todas as folgas no mesmo mês: veja as normas publicadas sobre o fim da escala 6×1",
+     "url": "https://www.brasildefato.com.br/2026/11/23/fiscalizacao-em-90-dias-e-todas-as-folgas-no-mesmo-mes-veja-as-normas-publicadas-sobre-o-fim-da-escala-6x1/",
+     "angulo": "Guia das normas publicadas, com fiscalização orientativa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "‘Ideia é não contratar mais’: gigante do varejo de construção antecipa 5x2 e revê horário das lojas",
+     "url": "https://exame.com/negocios/ideia-e-nao-contratar-mais-gigante-do-varejo-de-construcao-antecipa-5x2-e-reve-horario-das-lojas/",
+     "angulo": "Entrevista com a Leroy Merlin, que antecipa a 5x2 sem novas contratações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Jornada 5x2: veja como ficam regras de salário, folgas e horas extras",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/jornada-5x2-veja-como-ficam-regras-de-salario-folgas-e-horas-extras",
+     "angulo": "Explica cálculo salarial, folgas e horas extras pela nova regra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Governo admite risco de inflação com fim da escala 6x1",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/fazenda-ve-risco-de-inflacao-com-fim-da-escala-6x1",
+     "angulo": "Mostra que a Fazenda considera efeito da jornada menor sobre os preços.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
+     "angulo": "Estimativa de impacto sobre empregados domésticos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "‘Falta ao governo capitalizar publicamente’, diz analista sobre fim da escala 6×1 e avanço do ajuste fiscal",
+     "url": "https://www.brasildefato.com.br/2026/11/23/falta-ao-governo-capitalizar-publicamente-diz-analista-sobre-fim-da-escala-6x1-e-avanco-do-ajuste-fiscal/",
+     "angulo": "Análise sobre a comunicação do governo a respeito da 5x2 e do ajuste.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Fim da 6×1: empresas passarão por fiscalização nos primeiros 90 dias",
+     "url": "https://revistaoeste.com/politica/fim-da-6x1-empresas-passarao-por-fiscalizacao-nos-primeiros-90-dias/",
+     "angulo": "Notícia sobre o período de 90 dias de fiscalização.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "inmet-poe-sul-em-alerta-vermelho-apos-temporais-matarem-tres",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Inmet põe o Sul em alerta vermelho de tempestade após temporais matarem três em SP e no PR",
+   "lide": "O Inmet emitiu alerta vermelho, o nível mais alto, para tempestades nesta terça (24) no Sul e em Mato Grosso do Sul, com previsão de mais de 100 mm de chuva e ventos acima de 100 km/h. Na segunda, um casal de idosos morreu afogado em Campo Largo (PR), uma mulher morreu arrastada pela enxurrada em Ubatuba (SP) e a capital paulista teve alagamentos e voos cancelados.",
+   "fatos": [
+    {
+     "texto": "O Inmet emitiu alerta vermelho de tempestade para terça (24) em estados do Sul e em Mato Grosso do Sul, com chuva acima de 100 mm por dia, ventos acima de 100 km/h e granizo.",
+     "base": "3 fontes independentes (SBT, Folha, Brasil 247)"
+    },
+    {
+     "texto": "Londrina e Maringá estão entre as cidades do Paraná sob alerta de grande perigo; o g1 contou 287 municípios no estado.",
+     "base": "2 fontes independentes (g1, Revista Fórum)"
+    },
+    {
+     "texto": "Um casal de idosos morreu afogado dentro de casa durante um alagamento em Campo Largo, na região metropolitana de Curitiba.",
+     "base": "2 fontes independentes (g1, Band)"
+    },
+    {
+     "texto": "Uma mulher morreu arrastada pela enxurrada em Ubatuba (SP); o estado soma 10 mortes ligadas às chuvas em um mês.",
+     "base": "2 fontes independentes (CNN Brasil, Estado de Minas)"
+    },
+    {
+     "texto": "O temporal em São Paulo alagou vias, fechou o túnel do Anhangabaú e cancelou 20 voos em Congonhas.",
+     "base": "3 fontes independentes (O Globo, Band, Jovem Pan)"
+    },
+    {
+     "texto": "Em Tupanciretã (RS), atingida na sexta (20), a prefeitura contabiliza seis mortos, 265 feridos e 7.796 casas destelhadas.",
+     "base": "Prefeitura de Tupanciretã, segundo o Brasil de Fato"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O El Niño, as altas temperaturas e a intensificação dos ventos explicam a sequência de temporais no Vale do Paraíba.",
+     "quem": "Meteorologistas ouvidos pelo g1"
+    },
+    {
+     "texto": "O temporal destruiu 95% da soja em 29 mil hectares de Tupanciretã.",
+     "quem": "Emater-RS, segundo o Diário do Poder"
+    },
+    {
+     "texto": "As chuvas acima da média ameaçam o escoamento da safra e isolam produtores rurais no Paraná.",
+     "quem": "Faep e Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-23",
+    "id": "caixa-libera-saque-calamidade-e-sul-tem-alerta-de-novos-temporais",
+    "titulo": "Caixa libera saque calamidade em Tupanciretã, e Defesa Civil alerta para novos temporais no RS"
+   },
+   "materias": [
+    {
+     "fonte": "sbt",
+     "titulo": "Inmet emite alerta vermelho de tempestade para 4 estados",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/inmet-emite-alerta-vermelho-de-tempestade-para-4-estados",
+     "angulo": "Detalha o alerta: chuva, ventos e granizo previstos para terça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "São Paulo debaixo d’água: temporal provoca caos e deixa rastro de destruição",
+     "url": "https://revistaforum.com.br/noticias/sao-paulo-debaixo-dagua-caos/",
+     "angulo": "Retrata o caos do temporal em São Paulo, com desabamento na Penha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Casal de idosos morre afogado em alagamento no Paraná; filho se feriu ao tentar salvá-los",
+     "url": "https://g1.globo.com/pr/parana/noticia/2026/11/23/morte-afogamento-alagamento-parana.ghtml",
+     "angulo": "Notícia das mortes em Campo Largo (PR).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Aeroporto de Congonhas tem 20 voos cancelados por temporal em São Paulo",
+     "url": "https://jovempan.com.br/brasil/aeroporto-de-congonhas-tem-20-voos-cancelados-por-temporal-em-sao-paulo/",
+     "angulo": "Foco no impacto do temporal nos voos em São Paulo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Após temporal com seis mortes, Tupanciretã (RS) recebe equipes de saúde e alimentos",
+     "url": "https://www.brasildefato.com.br/2026/11/23/apos-temporal-com-seis-mortes-tupancireta-rs-recebe-equipes-de-saude-e-alimentos/",
+     "angulo": "Mostra a recuperação de Tupanciretã, com balanço de mortos e casas atingidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "São Paulo registra 10 mortes em decorrência das chuvas em um mês",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-registra-10-mortes-em-decorrencia-das-chuvas-em-um-mes/",
+     "angulo": "Soma as mortes por chuva no estado em um mês.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Chuvas acima da média ameaçam escoamento agropecuário e isolam produtores rurais",
+     "url": "https://www.gazetadopovo.com.br/parana/chuvas-acima-da-media-ameacam-escoamento-agropecuario-e-isolam-produtores-rurais/",
+     "angulo": "Destaca o efeito das chuvas sobre o escoamento agropecuário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Inmet emite alerta vermelho para tempestades no Sul nesta terça-feira",
+     "url": "https://www.brasil247.com/sul/inmet-emite-alerta-vermelho-para-tempestades-no-sul-nesta-terca-feira/",
+     "angulo": "Notícia do alerta vermelho para o Sul.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Temporal destrói 95% da soja em 29 mil hectares de Tupanciretã, diz Emater",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e02-brasil/temporal-destroi-em-media-95-da-soja-em-29-mil-hectares-de-tupancireta-diz-emater",
+     "angulo": "Foco na perda da safra de soja em Tupanciretã.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Calor, umidade e El Niño: entenda o que favorece a sequência de temporais no Vale do Paraíba e região",
+     "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/24/calor-umidade-e-el-nino-entenda-o-que-favorece-a-sequencia-de-temporais-no-vale-do-paraiba-e-regiao.ghtml",
+     "angulo": "Explica os fatores por trás da sequência de temporais.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "inteligencia-ocidental-ve-russia-perto-de-arma-nuclear-no-espaco",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Inteligência ocidental alerta que Rússia pode pôr arma nuclear no espaço ainda este ano",
+   "lide": "Uma investigação do jornal Süddeutsche Zeitung e das emissoras NDR e WDR, com base em fontes de inteligência ocidentais, afirma que a Rússia prepara o lançamento de um satélite com ogiva nuclear, possivelmente nas próximas semanas. A Bloomberg relatou alerta semelhante de agências aliadas; Moscou não comentou as novas reportagens nos feeds consultados.",
+   "fatos": [
+    {
+     "texto": "O Süddeutsche Zeitung e as emissoras NDR e WDR publicaram em 23 de novembro investigação segundo a qual a Rússia planeja posicionar uma ogiva nuclear em órbita dentro de um satélite.",
+     "base": "3 fontes independentes (g1, DW Brasil, Le Figaro)"
+    },
+    {
+     "texto": "A Bloomberg relatou, com base em pessoas a par do assunto, que agências de inteligência aliadas alertam para um possível lançamento já no próximo mês.",
+     "base": "2 fontes independentes (Bloomberg, Fox News)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Rússia construiu um satélite projetado para carregar uma ogiva nuclear e pode lançá-lo em até 60 dias, ameaçando milhares de satélites dos EUA e de aliados.",
+     "quem": "Agências de inteligência ocidentais, segundo Bloomberg e Fox News"
+    },
+    {
+     "texto": "O projeto se chama 'Spoutnik S'.",
+     "quem": "Imprensa alemã, segundo o Le Figaro"
+    },
+    {
+     "texto": "A Rússia é contra instalar armas nucleares no espaço.",
+     "quem": "Vladimir Putin, em 2024, quando os EUA fizeram alerta parecido"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Rússia vai lançar uma bomba atômica ao espaço ainda em 2026.",
+     "rotulo": "Em apuração",
+     "explicacao": "A informação vem de fontes anônimas de inteligência citadas pela imprensa; nenhum governo apresentou provas publicamente, e em 2024 os EUA reconheceram não haver registro de arma nuclear já implantada em órbita.",
+     "onde_circula": "imprensa internacional"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, g1, DW Brasil e IstoÉ repercutiram a investigação alemã; o tema toca o Brasil pelo risco a satélites de comunicação e navegação usados no país.",
+   "ponto_cego": "A cobertura veio de veículos de centro e de direita. À esquerda, a investigação não foi encontrada nos feeds nem na busca em Brasil 247, Revista Fórum, DCM, CartaCapital, Brasil de Fato, ICL Notícias e Opera Mundi, que no mesmo dia noticiaram a proposta russa de diálogo com a Europa sobre a Ucrânia.",
+   "materias": [
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Rússia pretende posicionar bomba atômica no espaço neste ano, diz imprensa alemã",
+     "url": "https://www.dw.com/pt-br/rússia-pretende-posicionar-bomba-atômica-no-espaço-neste-ano-diz-imprensa-alemã/a-80018509?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Resume a investigação alemã baseada em fontes militares e de inteligência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Russia could launch nuclear-capable satellite within weeks, Western intelligence warns: report",
+     "url": "https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report",
+     "angulo": "Destaca o prazo de 60 dias e a ameaça a satélites dos EUA (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Allies Warn Russia May Launch Nuclear Space Weapon Next Month",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/allies-warn-russia-may-launch-nuclear-space-weapon-next-month",
+     "angulo": "Relata o alerta de agências aliadas sobre lançamento no próximo mês (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Rússia está prestes a posicionar bomba atômica no espaço, diz imprensa alemã",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/24/russia-esta-prestes-a-posicionar-bomba-atomica-no-espaco-diz-imprensa-alema.ghtml",
+     "angulo": "Explica a investigação do Süddeutsche Zeitung, NDR e WDR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "La Russie s’apprêterait à placer une arme nucléaire dans l’espace",
+     "url": "https://www.lefigaro.fr/international/la-russie-s-appreterait-a-placer-une-arme-nucleaire-dans-l-espace-20261123",
+     "angulo": "Nomeia o projeto 'Spoutnik S' e a preocupação ocidental com a militarização do espaço (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Alemanha investiga suspeita de arma nuclear russa no espaço ainda em 2026",
+     "url": "https://istoe.com.br/alemanha-suspeita-arma-nuclear-russa-espaco-2026",
+     "angulo": "Foca na avaliação dos serviços de inteligência alemães.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Rússia rebate EUA e diz que armas nucleares são ‘recurso derradeiro’",
+     "url": "https://www.brasildefato.com.br/2024/03/06/russia-rebate-eua-e-diz-que-armas-nucleares-sao-recurso-derradeiro/",
+     "angulo": "Contexto de 2024: a resposta russa a alerta americano semelhante.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2024-03-06"
+    }
+   ]
+  },
+  {
+   "id": "oxfam-aponta-contaminacao-em-99-de-gaza-apos-ofensiva-israelense",
+   "editoria": "Meio ambiente",
+   "escopo": "mundo",
+   "titulo": "Oxfam aponta sinais de contaminação em 99% de Gaza após ofensiva israelense",
+   "lide": "Relatório da Oxfam com o Observatório de Conflitos e Meio Ambiente (Ceobs) afirma que quase todo o território de Gaza tem indícios de contaminação por metais pesados, resíduos de explosivos e amianto. As entidades dizem que os riscos à saúde podem durar gerações e pedem uma avaliação ambiental independente.",
+   "fatos": [
+    {
+     "texto": "Oxfam e Ceobs publicaram em 23 de novembro relatório segundo o qual cerca de 99% da Faixa de Gaza apresenta ao menos um indicador de contaminação ambiental associado à ofensiva militar israelense.",
+     "base": "3 fontes independentes (Opera Mundi, DW Brasil, BBC)"
+    },
+    {
+     "texto": "O relatório pede uma avaliação ambiental pós-conflito independente e o fim das restrições à entrada de ajuda e de equipes técnicas.",
+     "base": "relatório da Oxfam e do Ceobs, segundo despacho de agência publicado pelo Breitbart"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A destruição deixou água envenenada, solo contaminado e ar tóxico, com ameaça à saúde pública 'por gerações'.",
+     "quem": "Oxfam e especialistas citados pelo The Guardian"
+    },
+    {
+     "texto": "A destruição ambiental em Gaza configura 'crimes ambientais' de Israel.",
+     "quem": "Oxfam, segundo a Al Jazeera"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o relatório chegou por Opera Mundi, DW Brasil e UOL; os achados se somam a avaliação de 2025 do Programa da ONU para o Meio Ambiente sobre danos à vegetação e ao solo de Gaza.",
+   "ponto_cego": "A direita tratou pouco do relatório: o Breitbart publicou o despacho de agência, e não foram encontrados textos próprios nos feeds nem na busca em Fox News, Gazeta do Povo, Revista Oeste, Jovem Pan e O Antagonista. Nesses veículos, o noticiário sobre Israel no dia tratou da disputa política interna e da deportação de uma deputada do PSOL.",
+   "materias": [
+    {
+     "fonte": "guardian",
+     "titulo": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+     "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+     "angulo": "Reportagem que primeiro detalhou os achados científicos e de satélite (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Oxfam denuncia contaminação ambiental em 99% do território de Gaza",
+     "url": "https://operamundi.uol.com.br/guerra-israel-x-palestina/oxfam-denuncia-contaminacao-ambiental-em-99-do-territorio-de-gaza/",
+     "angulo": "Notícia do relatório com o dado de 99% do território afetado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+     "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Registra o relatório e o alcance da contaminação (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Ofensiva israelense transformou Gaza em \"deserto tóxico\", diz ONG britânica",
+     "url": "https://www.dw.com/pt-br/ofensiva-israelense-transformou-gaza-em-deserto-tóxico-diz-ong-britânica/a-80021668?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Destaca que a poluição pode afetar a saúde por décadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+     "angulo": "Enfatiza a acusação de 'crimes ambientais' contra Israel (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Oxfam report says Israel destruction of Gaza created 'toxic wasteland'",
+     "url": "https://www.breitbart.com/news/oxfam-report-says-israel-destruction-of-gaza-created-toxic-wasteland/",
+     "angulo": "Republica o despacho de agência sobre o relatório (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    }
+   ]
+  }
+ ]
+}
