@@ -1,0 +1,1202 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-25",
+ "gerado_em": "2026-11-25T05:59:46-03:00",
+ "historias": [
+  {
+   "id": "lula-sanciona-ajuste-e-governo-prepara-pec-para-conter-gastos",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Lula sanciona ajuste fiscal sem vetos e governo prepara PEC para conter gastos obrigatórios",
+   "lide": "Lula sancionou sem vetos na terça (24) o projeto de ajuste fiscal aprovado na véspera pela Câmara. A equipe econômica, com aval do presidente, prepara uma PEC para conter despesas obrigatórias a partir de 2027, e os presidentes da Câmara e do Senado disseram estar dispostos a votá-la ainda este ano.",
+   "fatos": [
+    {
+     "texto": "Lula sancionou sem vetos o projeto de ajuste fiscal, publicado em edição extra do Diário Oficial em 24 de novembro.",
+     "base": "Diário Oficial da União; 3 fontes independentes (Folha, Agência Brasil, Congresso em Foco)"
+    },
+    {
+     "texto": "A nova lei permite excluir subsídios ao diesel da meta fiscal de 2026 e cria regras de contenção de gastos a partir de 2027.",
+     "base": "Congresso em Foco, com a íntegra da lei"
+    },
+    {
+     "texto": "O ministro Bruno Moretti disse que o governo prepara uma PEC com mais medidas de ajuste; a equipe econômica tem aval de Lula para enviá-la ao Congresso.",
+     "base": "3 fontes independentes (g1, Estadão, Veja)"
+    },
+    {
+     "texto": "Davi Alcolumbre disse que o Senado pode votar ainda este ano uma nova proposta de ajuste se houver acordo entre os líderes; Hugo Motta já havia dado sinal semelhante.",
+     "base": "3 fontes independentes (Folha, Valor, Brasil 247)"
+    },
+    {
+     "texto": "O dólar fechou a terça em queda de 0,27%, a R$ 5,91, e o Banco Central anunciou leilões de linha de até US$ 2 bilhões para quarta, a terceira intervenção em sete dias.",
+     "base": "2 fontes independentes (O Globo, Agência Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A PEC deve flexibilizar os pisos de saúde e educação e alinhar as despesas obrigatórias ao ritmo do limite de gastos, e pode ser enviada na próxima semana.",
+     "quem": "Veja, com base em fontes do governo"
+    },
+    {
+     "texto": "O governo prometeu liberar R$ 5 bilhões em emendas para aprovar o ajuste.",
+     "quem": "O Antagonista"
+    },
+    {
+     "texto": "O dólar caiu porque o mercado reagiu bem à perspectiva de limitar o crescimento dos gastos obrigatórios a 2% acima da inflação.",
+     "quem": "André Galhardo, economista, ao O Globo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo diz que o ajuste e a PEC dão 'potência fiscal' para cumprir a meta e reduzir juros sem cortar programas sociais.",
+    "oposicao": "A oposição chama a medida de 'ajustinho', insuficiente, e diz que o apoio no Congresso foi comprado com emendas."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-24",
+    "id": "camara-aprova-ajuste-fiscal-sem-mudancas-e-texto-vai-a-sancao",
+    "titulo": "Câmara aprova ajuste fiscal sem mudanças e texto vai à sanção de Lula"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Lula sanciona plano Moretti um dia após aprovação na Câmara",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-sanciona-plano-moretti-um-dia-apos-aprovacao-na-camara.shtml",
+     "angulo": "Notícia da sanção sem vetos, um dia após a aprovação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Lula reúne equipe econômica para avaliar ajustinho fiscal",
+     "url": "https://oantagonista.com.br/economia/lula-reune-equipe-economica-para-avaliar-ajustinho-fiscal/",
+     "angulo": "Chama a nova rodada de 'ajustinho fiscal' já no título.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Lula sanciona ajuste fiscal; veja o que muda e a íntegra da nova lei",
+     "url": "https://www.congressoemfoco.com.br/noticia/131836/lula-sanciona-ajuste-fiscal-veja-o-que-muda-e-a-integra-da-nova-lei",
+     "angulo": "Detalha o que muda e traz a íntegra da lei.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Governo prepara PEC com medidas para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
+     "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/24/governo-prepara-pec-com-medidas-de-para-dar-potencia-fiscal-e-assegurar-cumprimento-de-meta.ghtml",
+     "angulo": "Moretti anuncia a PEC para dar 'potência fiscal'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Alcolumbre sinaliza apoio a nova rodada do pacote fiscal de Lula após cobrança de Motta",
+     "url": "https://www.brasil247.com/economia/alcolumbre-sinaliza-apoio-a-nova-rodada-do-pacote-fiscal-de-lula-apos-cobranca-de-motta/",
+     "angulo": "Destaca a disposição do Senado em votar novas medidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Equipe econômica tem aval de Lula para envio de PEC e trabalha em novas medidas fiscais",
+     "url": "https://www.estadao.com.br/economia/equipe-economica-aval-lula-pec-ajuste-fiscal/",
+     "angulo": "Informa que a PEC pode ser enviada até a próxima semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Governo prometeu liberar R$ 5 bi em emendas para aprovar ajuste fiscal",
+     "url": "https://oantagonista.com.br/brasil/governo-prometeu-liberar-pelo-menos-r-5-bilhoes-em-emendas-para-aprovar-ajuste-fiscal/",
+     "angulo": "Afirma que o governo prometeu emendas em troca dos votos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "nexo",
+     "titulo": "Ajuste fiscal: o que foi aprovado e por que não deve parar por aí",
+     "url": "https://www.nexojornal.com.br/expresso/2026/11/24/ajuste-fiscal-lula-aprovado-governo-lula-economia-brasil",
+     "angulo": "Explica o pacote e por que a segunda rodada deve vir ainda em 2026.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Com aval de Lula, PEC com novas medidas fiscais pode ser enviada ao Congresso na próxima semana",
+     "url": "https://veja.abril.com.br/politica/com-aval-de-lula-pec-com-novas-medidas-fiscais-pode-ser-enviada-ao-congresso-na-proxima-semana/",
+     "angulo": "Antecipa o conteúdo da PEC, com flexibilização de pisos de saúde e educação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Ajuste fiscal e a pressão do mercado financeiro: quem paga a conta?",
+     "url": "https://www.cartacapital.com.br/opiniao/ajuste-fiscal-e-a-pressao-do-mercado-financeiro-quem-paga-a-conta/",
+     "angulo": "Critica a Faria Lima por cobrar cortes e tratar contas públicas como as de casa.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Expectativa de novo pacote fiscal melhora humor do mercado e dólar fecha em queda",
+     "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/expectativa-de-novo-pacote-fiscal-melhora-humor-do-mercado-e-dolar-fecha-em-queda.ghtml",
+     "angulo": "Liga a queda do dólar à expectativa de nova rodada de medidas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Lula sanciona ajuste fiscal após aprovação no Congresso",
+     "url": "https://jovempan.com.br/politica/lula-sanciona-ajuste-fiscal-apos-aprovacao-no-cogresso/",
+     "angulo": "Notícia da sanção e dos objetivos da lei.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "alcolumbre-poe-advocacia-do-senado-na-defesa-de-van-hattem-no-stf",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Alcolumbre põe a Advocacia do Senado na defesa de Van Hattem em ação no STF",
+   "lide": "O presidente do Senado, Davi Alcolumbre, autorizou a Advocacia da Casa a atuar no STF em defesa das prerrogativas do deputado Marcel van Hattem (Novo-RS), senador eleito, que pode virar réu por calúnia e injúria contra um delegado da PF. A decisão atendeu a pedido da oposição, depois de os ministros Flávio Dino e Alexandre de Moraes votarem para receber a denúncia.",
+   "contexto": "A PGR denunciou Van Hattem por falas na tribuna da Câmara contra o delegado Fábio Shor, que investigou a trama golpista. O julgamento foi levado ao plenário presencial da Primeira Turma por pedido de destaque de Cristiano Zanin.",
+   "fatos": [
+    {
+     "texto": "Alcolumbre autorizou em plenário, em 24 de novembro, a Advocacia do Senado a atuar no STF em defesa das prerrogativas parlamentares no caso Van Hattem, a pedido do senador Rogerio Marinho (PL-RN).",
+     "base": "Agência Senado; 2 fontes independentes (Folha, Valor)"
+    },
+    {
+     "texto": "Os ministros Flávio Dino, relator, e Alexandre de Moraes votaram para receber a denúncia; Cristiano Zanin pediu destaque e levou o caso ao plenário presencial da Primeira Turma.",
+     "base": "3 fontes independentes (O Globo, Veja, Revista Fórum)"
+    },
+    {
+     "texto": "Líderes do PL enviaram ofícios a Hugo Motta, a Alcolumbre e à OAB pedindo que se manifestem no processo.",
+     "base": "2 fontes independentes (Estadão, Revista Oeste)"
+    },
+    {
+     "texto": "Hugo Motta disse que a Câmara defendeu a livre expressão na tribuna e que se reuniria com o deputado.",
+     "base": "Poder360"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Moraes deveria se declarar suspeito, porque foi citado por Van Hattem no discurso em questão.",
+     "quem": "Editorial da Gazeta do Povo"
+    },
+    {
+     "texto": "O caso pode ser o primeiro round de uma disputa entre o novo Senado e o STF em 2027.",
+     "quem": "Especialistas ouvidos pela BBC News Brasil"
+    },
+    {
+     "texto": "O voto para receber a denúncia não representa condenação; a defesa sustenta a imunidade parlamentar do artigo 53 da Constituição.",
+     "quem": "Defesa de Van Hattem, segundo a imprensa"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo e veículos de esquerda tratam o caso como responsabilização por ataques a um delegado que investigou a trama golpista.",
+    "oposicao": "A oposição fala em perseguição a um discurso na tribuna e em violação da imunidade parlamentar, e cobra reação do Congresso."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": "A esquerda noticiou os votos de Dino e Moraes, mas a mobilização do Congresso em defesa de Van Hattem não foi encontrada nos feeds nem na busca em Brasil 247, Revista Fórum, DCM, Brasil de Fato e ICL Notícias; só a CartaCapital tratou do tema.",
+   "materias": [
+    {
+     "fonte": "agenciasenado",
+     "titulo": "Davi autoriza atuação da Advocacia do Senado em prol da imunidade parlamentar",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar",
+     "angulo": "Registro oficial da autorização dada em plenário.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Moraes deveria se declarar suspeito para julgar Van Hattem",
+     "url": "https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-suspeito-julgar-van-hattem/",
+     "angulo": "Editorial que defende a suspeição de Moraes no caso.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Após pressão do PL, Alcolumbre aciona Advocacia do Senado para defender Van Hattem no STF",
+     "url": "https://www.cartacapital.com.br/politica/apos-pressao-do-pl-alcolumbre-aciona-advocacia-do-senado-para-defender-van-hattem-no-stf/",
+     "angulo": "Enfatiza que a decisão veio após pressão do PL.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF",
+     "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-diz-que-congresso-defendera-prerrogativas-de-van-hattem-em-acao-no-stf-contra-deputado.shtml",
+     "angulo": "Notícia da promessa de Alcolumbre de atuar pessoalmente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Moraes vota para tornar deputado bolsonarista réu em caso que envolve delegado da PF",
+     "url": "https://revistaforum.com.br/politica/moraes-deputado-bolsonarista-pf/",
+     "angulo": "Cobertura do voto de Moraes, que chama Van Hattem de bolsonarista no título.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Bolsonaristas querem que Motta e Alcolumbre se manifestem em ação que pode tornar Van Hattem réu",
+     "url": "https://www.estadao.com.br/politica/bolsonaristas-querem-que-motta-e-alcolumbre-se-manifestem-em-acao-que-pode-tornar-van-hattem-reu/",
+     "angulo": "Mostra os ofícios do PL à cúpula do Congresso e à OAB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Zanin leva ao plenário presencial julgamento de denúncia contra Van Hattem após votos de Dino e Moraes para tornar deputado réu",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/23/zanin-leva-ao-plenario-presencial-julgamento-de-denuncia-contra-van-hattem-apos-votos-de-dino-e-moraes-para-tornar-deputado-reu.ghtml",
+     "angulo": "Explica o pedido de destaque de Zanin após os votos de Dino e Moraes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-23"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Oposição exige que Congresso reaja e não se curve ao STF no caso Van Hattem",
+     "url": "https://diariodopoder.com.br/justica/ttc-justica/oposicao-exige-que-congresso-reaja-e-nao-se-curve-ao-stf-no-caso-van-hattem",
+     "angulo": "Repercute a cobrança da oposição para o Congresso reagir ao STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
+     "url": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Análise sobre o caso como prévia do embate entre Senado e STF.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Marinho mobiliza partidos, Câmara, Senado e OAB para atuar no caso Van Hattem",
+     "url": "https://revistaoeste.com/politica/imunidade-parlamentar-oposicao-congresso-stf/",
+     "angulo": "Notícia da mobilização da oposição liderada por Rogerio Marinho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Moraes vota para tornar Van Hattem réu por calúnia contra delegado da PF",
+     "url": "https://www.diariodocentrodomundo.com.br/moraes-voto-van-hattem-reu-calunia-delegado-pf",
+     "angulo": "Notícia do voto de Moraes pelo recebimento da denúncia.",
+     "tipo": "noticia",
+     "enquadramento": "neutro"
+    }
+   ]
+  },
+  {
+   "id": "lula-deixa-milei-fora-da-posse-e-retira-embaixador-da-argentina",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Lula deixa Milei fora da posse e decide não mandar embaixador de volta à Argentina",
+   "lide": "O governo Lula decidiu não convidar Javier Milei para a posse de 5 de janeiro e manter vago o posto de embaixador em Buenos Aires, depois que o chanceler argentino, Pablo Quirno, pôs em dúvida a vitória de Lula na eleição. O embaixador Julio Bitelli, chamado a Brasília em julho, não volta ao cargo.",
+   "fatos": [
+    {
+     "texto": "O Itamaraty decidiu que o embaixador Julio Bitelli, no Brasil desde julho, não voltará ao posto em Buenos Aires.",
+     "base": "3 fontes independentes (Folha, Poder360, La Nación)"
+    },
+    {
+     "texto": "O governo não deve convidar Milei nem o chanceler Pablo Quirno para a posse de 5 de janeiro de 2027; outras autoridades argentinas devem ser chamadas.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, Clarín citado pelo g1)"
+    },
+    {
+     "texto": "As decisões vieram após Quirno pôr em dúvida o resultado da eleição brasileira e criticar a atuação do Brasil na Venezuela.",
+     "base": "2 fontes independentes (Exame, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Milei nunca viria à posse, porque costuma chamar Lula de 'ladrão'.",
+     "quem": "Diário do Poder"
+    },
+    {
+     "texto": "Lula perdeu a paciência com Milei.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo trata a decisão como resposta proporcional a um ataque argentino à legitimidade da eleição brasileira.",
+    "oposicao": "A oposição e veículos de direita veem a medida como retaliação ideológica que piora a relação com o principal vizinho."
+   },
+   "visao_de_fora": "Na Argentina, o Clarín deu primeiro a notícia do desconvite, e o La Nación destacou a irritação de Brasília com Quirno; no mesmo dia, o país entrou em recessão técnica, com queda de 1,8% do PIB no terceiro trimestre.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-23",
+    "id": "flavio-admite-nao-ter-provas-de-fraude-e-chanceler-argentino-duvida",
+    "titulo": "Flávio admite à Fox News não ter provas de fraude, e chanceler argentino põe em dúvida vitória de Lula"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Governo Lula decide não enviar embaixador de volta à Argentina após novo ataque de Milei",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/governo-lula-decide-nao-enviar-embaixador-de-volta-a-argentina-apos-novo-ataque-de-milei.shtml",
+     "angulo": "Notícia original da decisão do Itamaraty sobre Bitelli.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Governo Lula decide não enviar embaixador de volta à Argentina",
+     "url": "https://oantagonista.com.br/mundo/governo-lula-decide-nao-enviar-embaixador-de-volta-a-argentina/",
+     "angulo": "Repercute a reportagem da Folha sobre a saída de Bitelli.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Milei não está na lista de convidados para a posse de Lula; jornal argentino diz que foi desconvidado",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/24/milei-desconvidado-posse-lula-diz-jornal.ghtml",
+     "angulo": "Atribui ao Clarín a informação do desconvite.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula não convida Milei para posse e mantém Argentina sem embaixador",
+     "url": "https://www.brasildefato.com.br/2026/11/24/lula-nao-convida-milei-para-posse-e-mantem-argentina-sem-embaixador/",
+     "angulo": "Notícia do desconvite e da embaixada vaga.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "Lula da Silva retira a su embajador en Buenos Aires y hay dudas sobre la invitación a Milei para su asunción en Brasilia",
+     "url": "https://www.lanacion.com.ar/politica/lula-da-silva-retira-a-su-embajador-en-buenos-aires-y-hay-dudas-sobre-la-invitacion-a-milei-para-su-nid24112026/",
+     "angulo": "Visão argentina: irritação de Brasília com o chanceler Quirno (em espanhol).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Lula não convidará Milei e chanceler da Argentina para cerimônia de posse",
+     "url": "https://www.cnnbrasil.com.br/internacional/lula-nao-convidara-milei-e-chanceler-da-argentina-para-cerimonia-de-posse/",
+     "angulo": "Informa que outras autoridades argentinas devem ser convidadas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Lula perde a paciência com Milei e veta sua presença na posse",
+     "url": "https://revistaforum.com.br/blogs/o-cafezinho/lula-perde-a-paciencia-com-milei-e-veta-sua-presenca-na-posse/",
+     "angulo": "Enquadra a decisão como reação de Lula aos ataques de Milei.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Lula desconvida Milei para posse e confirma que embaixador não volta à Argentina, diz jornal",
+     "url": "https://exame.com/mundo/lula-desconvida-milei-para-posse-e-confirma-que-embaixador-nao-volta-a-argentina-diz-jornal/",
+     "angulo": "Liga as decisões às falas de Quirno sobre eleição e Venezuela.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Lula veta convite a Milei, que sempre o chama de ‘ladrão’ e jamais viria à sua posse",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/ttc-brasil/lula-veta-convite-a-milei-que-sempre-o-chama-de-ladrao-e-jamais-viria-a-sua-posse",
+     "angulo": "Diz que Milei jamais viria e lembra que ele chama Lula de 'ladrão'.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Lula decide retirar em definitivo embaixador do Brasil na Argentina",
+     "url": "https://www.poder360.com.br/poder-governo/lula-decide-retirar-em-definitivo-embaixador-do-brasil-na-argentina/",
+     "angulo": "Detalha o histórico da convocação de Bitelli em julho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "eua-barram-na-omc-queixa-do-brasil-e-nova-rodada-deve-poupar-o-pais",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "EUA barram na OMC queixa do Brasil contra o tarifaço; nova rodada de tarifas deve poupar o país",
+   "lide": "Os EUA bloquearam em Genebra o primeiro pedido do Brasil para abrir um painel na OMC sobre as sobretaxas impostas por Trump a produtos brasileiros; o governo pode renovar o pedido em 17 de dezembro. O governo americano prepara novas tarifas contra China, União Europeia e outras 14 economias, e o Brasil não deve estar entre os alvos.",
+   "fatos": [
+    {
+     "texto": "Os EUA bloquearam em 24 de novembro, na OMC, o primeiro pedido do Brasil de criação de um painel para examinar as tarifas adicionais americanas.",
+     "base": "3 fontes independentes (g1, Jovem Pan, Revista Fórum)"
+    },
+    {
+     "texto": "As sobretaxas questionadas incluem alíquotas adicionais de 25% e 12,5%, que somadas chegam a 37,5% para parte dos produtos brasileiros.",
+     "base": "2 fontes independentes (CNN Brasil, Jovem Pan)"
+    },
+    {
+     "texto": "O Brasil pode reapresentar o pedido na próxima reunião do órgão, em 17 de dezembro.",
+     "base": "2 fontes independentes (SBT, Jovem Pan)"
+    },
+    {
+     "texto": "O governo Trump prepara nova rodada de tarifas contra China, União Europeia e outras 14 economias, após investigação sobre subsídios industriais; o Brasil não está na lista.",
+     "base": "3 fontes independentes (Financial Times, Gazeta do Povo, Brasil 247)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os EUA tentam ganhar tempo ao vetar a abertura do painel.",
+     "quem": "ICL Notícias e Metrópoles"
+    },
+    {
+     "texto": "A China considera as novas tarifas uma 'manobra política' e defende manter a trégua comercial.",
+     "quem": "Governo chinês, segundo a Bloomberg"
+    },
+    {
+     "texto": "A nova rodada responde em parte à pressão interna pelo custo de vida e substitui tarifas globais derrubadas pela Suprema Corte em fevereiro.",
+     "quem": "Brasil 247 e CNN Brasil, citando agências"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "A imprensa internacional tratou a nova rodada como ofensiva contra China, UE, Japão e Coreia do Sul; o Brasil apareceu só como país fora da lista.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Tarifaço de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-bloqueia-pedido-do-brasil-para-um-painel-de-disputas-tarifarias-diz-um-funcionario-comercial.ghtml",
+     "angulo": "Explica o bloqueio do painel e os próximos passos na OMC.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "EUA barram 1ª tentativa do Brasil de levar tarifaço de Trump a julgamento na OMC",
+     "url": "https://jovempan.com.br/colunistas/eliseu-caetano/eua-barram-1a-tentativa-do-brasil-de-levar-tarifaco-de-trump-a-julgamento-na-omc/",
+     "angulo": "Detalha as sobretaxas de até 37,5% e a nova chance em 17 de dezembro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "EUA vetam abertura de processo pelo Brasil na OMC em defesa do Pix",
+     "url": "https://iclnoticias.com.br/eua-vetam-abertura-de-processo-pelo-brasil-na-omc-em-defesa-do-pix/",
+     "angulo": "Destaca a defesa do Pix no pedido brasileiro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Brasil contesta tarifas adicionais dos EUA e aciona OMC",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-contesta-tarifas-adicionais-dos-eua-e-aciona-omc/",
+     "angulo": "Lista as alíquotas questionadas pelo Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trump prepara novo tarifaço que vai atingir China, União Europeia e outros países; Brasil deve ficar de fora",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-prepara-novo-tarifaco-que-vai-atingir-china-uniao-europeia-e-outros-paises-brasil-deve-ficar-de-fora/",
+     "angulo": "Notícia da nova rodada contra 16 economias, sem o Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "EUA barram pedido de processo do Brasil na OMC contra tarifaço e ataques ao Pix",
+     "url": "https://revistaforum.com.br/politica/eua-barram-brasil-omc-tarifas/",
+     "angulo": "Liga o bloqueio na OMC aos ataques americanos ao Pix.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Trump readies raft of new tariffs on major economies",
+     "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+     "angulo": "Antecipa as novas tarifas contra grandes economias (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Trump deixa Brasil fora das novas tarifas previstas para esta semana",
+     "url": "https://www.diariodocentrodomundo.com.br/trump-poupa-brasil-nova-rodada-tarifas-mantem-taxa-25/",
+     "angulo": "Destaca que a taxa de 25% sobre o Brasil segue em vigor.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "EUA bloqueiam pedido brasileiro para julgar tarifas na OMC",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/eua-bloqueiam-pedido-brasileiro-para-julgar-tarifas-na-omc",
+     "angulo": "Notícia do bloqueio e da data da nova tentativa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
+     "angulo": "Reação chinesa à perspectiva de novas tarifas (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "chuva-mata-quatro-no-parana-e-frente-fria-poe-sp-em-alerta",
+   "editoria": "Clima",
+   "escopo": "brasil",
+   "titulo": "Chuva mata ao menos quatro no Paraná; frente fria põe São Paulo em alerta nesta quarta",
+   "lide": "Enxurradas no oeste e sudoeste do Paraná mataram duas pessoas em Nova Esperança do Sudoeste, que ficou isolada, e o estado soma quatro mortes desde segunda, segundo os bombeiros. Uma frente fria associada a um ciclone extratropical deve trazer chuva de mais de 100 mm a São Paulo nesta quarta (25), e a Defesa Civil paulista montou gabinete de crise.",
+   "fatos": [
+    {
+     "texto": "Duas pessoas morreram em Nova Esperança do Sudoeste (PR) após uma enxurrada na terça (24); a cidade ficou isolada.",
+     "base": "3 fontes independentes (Folha, Metrópoles, g1)"
+    },
+    {
+     "texto": "Os temporais deixaram mais de 170 mil imóveis sem energia no Paraná.",
+     "base": "Metrópoles"
+    },
+    {
+     "texto": "A formação de um ciclone extratropical deve organizar uma frente fria com temporais em SP, RJ, MG e PR nesta quarta, com risco de chuva acima de 100 mm em São Paulo.",
+     "base": "3 fontes independentes (O Globo, Veja, g1)"
+    },
+    {
+     "texto": "O Inmet emitiu alerta laranja de chuva intensa para 1.278 cidades de seis estados do Sudeste e do Centro-Oeste na quinta (26).",
+     "base": "SBT, com base no Inmet"
+    },
+    {
+     "texto": "O estado de São Paulo registrou 10 mortes por chuva entre 24 de outubro e 23 de novembro e 30 desde o início de 2026, segundo a Defesa Civil estadual.",
+     "base": "Defesa Civil de SP, segundo o Brasil de Fato"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O total de mortes pela chuva no Paraná desde segunda chega a quatro.",
+     "quem": "Corpo de Bombeiros do Paraná, segundo o g1"
+    },
+    {
+     "texto": "O prefeito Ricardo Nunes ignorou o El Niño e cortou árvores, o que agravou os efeitos das chuvas na capital.",
+     "quem": "Vereadora de oposição ouvida pelo Brasil de Fato"
+    },
+    {
+     "texto": "O litoral paulista pode ter acumulado de até 200 mm entre quarta e quinta.",
+     "quem": "Climatempo, segundo o g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-24",
+    "id": "inmet-poe-sul-em-alerta-vermelho-apos-temporais-matarem-tres",
+    "titulo": "Inmet põe o Sul em alerta vermelho de tempestade após temporais matarem três em SP e no PR"
+   },
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Quatro pessoas morrem por causa da chuva que atingiu o Paraná",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/24/quatro-pessoas-morrem-por-causa-da-chuva-que-atingiu-o-parana.ghtml",
+     "angulo": "Soma quatro mortes no Paraná e mostra a cidade isolada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Frente fria coloca São Paulo sob risco de temporais e chuva acima de 100 mm nesta quarta (25)",
+     "url": "https://veja.abril.com.br/agenda-verde/frente-fria-coloca-sao-paulo-sob-risco-de-temporais-e-chuva-acima-de-100-mm-nesta-quarta-25/",
+     "angulo": "Alerta para chuva acima de 100 mm em São Paulo nesta quarta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Com 30 mortes por chuvas em SP neste ano, vereadora critica Ricardo Nunes por cortar de árvores e ignorar El Niño",
+     "url": "https://www.brasildefato.com.br/2026/11/24/com-30-mortes-por-chuvas-em-sp-neste-ano-vereadora-critica-ricardo-nunes-por-cortar-de-arvores-e-ignorar-el-nino/",
+     "angulo": "Liga as mortes à gestão municipal, com críticas de vereadora a Ricardo Nunes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Chuvas deixam dois mortos e uma pessoa desaparecida no Paraná",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/chuvas-deixam-dois-mortos-e-uma-pessoa-desaparecida-no-parana.shtml",
+     "angulo": "Notícia das mortes e do desaparecido em Nova Esperança do Sudoeste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Inmet emite alerta laranja para 6 estados na quinta (26)",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/inmet-emite-alerta-laranja-para-6-estados-na-quinta-26",
+     "angulo": "Detalha o alerta para 1.278 cidades na quinta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Ciclone extratropical deve provocar temporais em SP, RJ, MG e PR nesta quarta-feira; veja previsão",
+     "url": "https://oglobo.globo.com/blogs/clima-extremo/noticia/2026/11/25/ciclone-extratropical-deve-provocar-temporais-em-sp-rj-mg-e-pr-nesta-quarta-feira-veja-previsao.ghtml",
+     "angulo": "Explica o ciclone e a frente fria que trazem temporais.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Temporal provoca enxurradas e deixa 2 pessoas mortas no interior do Paraná",
+     "url": "https://www.metropoles.com/brasil/temporal-provoca-enxurrada-e-deixa-2-pessoas-mortas-no-interior-do-parana",
+     "angulo": "Destaca os 170 mil imóveis sem energia no Paraná.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Temporal provoca alagamentos em cidades e rodovias do Sudoeste do Paraná",
+     "url": "https://www.band.com.br/nacional/pr/temporal-provoca-alagamentos-em-cidades-e-rodovias-do-sudoeste-do-parana",
+     "angulo": "Mostra os estragos no sudoeste paranaense.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Sob alerta de chuvas, Tupanciretã (RS) orienta moradores a buscar abrigo e suspende aulas por sete dias",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/sob-alerta-de-chuvas-tupancireta-rs-orienta-moradores-a-buscar-abrigo-e-suspende-aulas-por-sete-dias.shtml",
+     "angulo": "Mostra a cidade gaúcha devastada de novo sob alerta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "dados-vazados-indicam-cerca-de-500-mil-militares-russos-mortos",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Dados vazados da estatística russa indicam cerca de 500 mil militares mortos na Ucrânia",
+   "lide": "Registros de óbito retirados por hackers da Rosstat, a agência de estatística russa, mostram quase 500 mil mortes de militares desde a invasão da Ucrânia, segundo análise de veículos russos independentes no exílio. Somados os desaparecidos, a estimativa passa de 700 mil; o Kremlin não divulga suas perdas desde 2022.",
+   "fatos": [
+    {
+     "texto": "Os grupos hackers Cyber Partisans, de Belarus, e Silent Crow, da Ucrânia, extraíram dados da Rosstat e os repassaram a veículos independentes russos, Meduza e Mediazona.",
+     "base": "3 fontes independentes (AFP, Euronews, Le Monde)"
+    },
+    {
+     "texto": "Os registros de óbito contabilizam cerca de 490 mil militares mortos até o fim de agosto, número que exclui desaparecidos e mortes ainda não registradas.",
+     "base": "3 fontes independentes (Euronews, BBC, Washington Examiner)"
+    },
+    {
+     "texto": "Os mesmos dados apontam mais de mil suicídios de militares russos e 349 mortes de russos no Mali em três anos.",
+     "base": "The Guardian, com base nos registros vazados; repercutido por DW Brasil e Le Figaro"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Incluindo desaparecidos, as perdas russas passam de 700 mil mortos.",
+     "quem": "Meduza e Mediazona, segundo AFP e Le Monde"
+    },
+    {
+     "texto": "A guerra mudou de forma profunda o padrão de mortalidade na Rússia.",
+     "quem": "BBC (análise dos dados)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Na imprensa brasileira, o vazamento apareceu pela DW Brasil, que destacou os suicídios na tropa.",
+   "ponto_cego": "No Brasil, a cobertura ficou com agências e veículos estrangeiros. À esquerda brasileira, o vazamento não foi encontrado nos feeds nem na busca em Brasil 247, Revista Fórum, DCM, CartaCapital, Brasil de Fato, Opera Mundi e ICL Notícias.",
+   "materias": [
+    {
+     "fonte": "euronews",
+     "titulo": "At least 490,000 Russian soldiers killed in Ukraine, Rosstat data leak reveals",
+     "url": "https://www.euronews.com/2026/11/24/at-least-490000-russian-soldiers-killed-in-ukraine-rosstat-data-leak-reveals",
+     "angulo": "Explica a origem dos dados e o limite da contagem (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Hackeurs et médias révèlent ce que le Kremlin voulait cacher : le bilan de 500 000 morts au moins sur le front ukrainien",
+     "url": "https://www.lemonde.fr/international/article/2026/11/24/hackers-et-medias-revelent-ce-que-le-kremlin-voulait-cacher-le-bilan-de-500-000-morts-au-moins-sur-le-front-ukrainien_6814823_3210.html",
+     "angulo": "Destaca o que o Kremlin queria esconder e a estimativa acima de 700 mil (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
+     "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
+     "angulo": "Notícia de agência com a origem do vazamento (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Análise sobre a mudança no padrão de mortalidade russo (em inglês).",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": null,
+     "titulo": "More than 700,000 Russian troops have been killed during Ukraine war",
+     "url": "https://www.washingtonexaminer.com/policy/defense/4813713/new-estimate-russian-troops-killed-ukraine-war/",
+     "angulo": "Relata as estimativas de Meduza e Mediazona, de 490 mil confirmados a mais de 720 mil (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "veiculo": "Washington Examiner",
+     "vies_materia": "centro"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Dados vazados apontam mais de mais de mil suicídios na tropa russa durante guerra na Ucrânia",
+     "url": "https://www.dw.com/pt-br/dados-vazados-apontam-mais-de-mais-de-mil-suicídios-na-tropa-russa-durante-guerra-na-ucrânia/a-80032440?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Destaca os suicídios de militares russos revelados pelos dados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+     "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+     "angulo": "Usa os dados para mostrar mortes russas no Mali (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Guerre en Ukraine : plus de 1000 soldats russes se seraient suicidés depuis le début du conflit",
+     "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-plus-de-1000-soldats-russes-se-seraient-suicides-depuis-le-debut-du-conflit-20261124",
+     "angulo": "Repercute o levantamento de suicídios do Guardian (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "sao-paulo-encerra-surto-de-sarampo-apos-tres-meses-sem-casos",
+   "editoria": "Saúde",
+   "escopo": "brasil",
+   "titulo": "São Paulo encerra surto de sarampo após três meses sem novos casos",
+   "lide": "Ministério da Saúde, governo paulista e prefeitura declararam encerrada a cadeia de transmissão de sarampo ligada a casos importados em São Paulo, que somou 41 casos confirmados. O último caso foi em 28 de agosto, e as autoridades atribuem o resultado à vacinação, com cobertura de primeira dose de 96,9%.",
+   "fatos": [
+    {
+     "texto": "As autoridades federal, estadual e municipal confirmaram o fim da transmissão de sarampo associada a casos importados em São Paulo após 12 semanas sem novos casos.",
+     "base": "3 fontes independentes (CartaCapital, IstoÉ, SBT)"
+    },
+    {
+     "texto": "O surto teve 41 casos confirmados, e o último foi registrado em 28 de agosto.",
+     "base": "3 fontes independentes (Metrópoles, Jovem Pan, SBT)"
+    },
+    {
+     "texto": "Todos os 41 pacientes se recuperaram, e a cobertura da primeira dose da vacina chegou a 96,90%.",
+     "base": "Secretaria Estadual da Saúde, segundo o SBT"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A vacinação e a resposta rápida explicam o controle do surto e são lições para os EUA, que perderam o status de país livre do sarampo.",
+     "quem": "Especialistas ouvidos pela DW Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "Nos EUA, a Pensilvânia registrou a nona morte por sarampo em um surto em andamento, segundo a Al Jazeera; a DW comparou a resposta brasileira à americana.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "cartacapital",
+     "titulo": "Capital paulista põe fim a transmissão de casos importados de sarampo",
+     "url": "https://www.cartacapital.com.br/saude/capital-paulista-poe-fim-a-transmissao-de-casos-importados-de-sarampo/",
+     "angulo": "Atribui o resultado ao sucesso da vacinação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Estado de SP encerra surto de sarampo após 3 meses sem novos casos",
+     "url": "https://jovempan.com.br/saude/estado-de-sp-encerra-surto-de-sarampo-apos-3-meses-sem-novos-casos/",
+     "angulo": "Notícia do fim do surto, com a data do último caso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Após 41 casos confirmados, surto de sarampo é encerrado em São Paulo",
+     "url": "https://www.metropoles.com/sao-paulo/apos-41-casos-confirmados-surto-de-sarampo-e-encerrado-em-sao-paulo",
+     "angulo": "Destaca o número total de casos do surto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "SP encerra surto de sarampo após 12 semanas sem novos casos",
+     "url": "https://sbtnews.sbt.com.br/noticia/saude/sp-encerra-surto-de-sarampo-apos-12-semanas-sem-novos-casos",
+     "angulo": "Informa a recuperação dos pacientes e a cobertura vacinal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "São Paulo encerra surto de sarampo após três meses sem novos casos",
+     "url": "https://istoe.com.br/sao-paulo-encerra-surto-sarampo-tres-meses-sem-casos",
+     "angulo": "Detalha a avaliação conjunta das três esferas de governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "O que o Brasil pode ensinar aos EUA sobre como controlar o sarampo",
+     "url": "https://www.dw.com/pt-br/o-que-o-brasil-pode-ensinar-aos-eua-sobre-como-controlar-o-sarampo/a-80025580?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Compara a resposta brasileira à dos EUA.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+     "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+     "angulo": "Contexto: surto em andamento nos EUA (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "carro-bomba-fere-ao-menos-23-na-colombia-na-vespera-dos-10-anos-da-paz",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Carro-bomba fere ao menos 23 na Colômbia às vésperas dos dez anos do acordo de paz",
+   "lide": "Um carro-bomba explodiu na noite de segunda (23) diante da sede do governo do departamento de Meta, em Villavicencio, e feriu ao menos 23 pessoas, sem mortes. O presidente Abelardo de la Espriella atribuiu o ataque a dissidentes das Farc, um dia antes dos dez anos do acordo de paz.",
+   "fatos": [
+    {
+     "texto": "A explosão ocorreu em frente à sede do governo de Meta, em Villavicencio, na noite de 23 de novembro, e feriu ao menos 23 pessoas; não houve mortes.",
+     "base": "3 fontes independentes (Opera Mundi, SBT, Clarín)"
+    },
+    {
+     "texto": "O presidente Abelardo de la Espriella atribuiu o atentado a dissidentes das Farc e prometeu resposta 'contundente'.",
+     "base": "3 fontes independentes (Estadão, g1, Clarín)"
+    },
+    {
+     "texto": "O ataque aconteceu na véspera do aniversário de dez anos da assinatura do acordo de paz com as Farc.",
+     "base": "2 fontes independentes (g1, Folha)"
+    },
+    {
+     "texto": "Até a terça, nenhum grupo havia reivindicado o atentado.",
+     "base": "Jovem Pan"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O atentado aumenta a tensão no país após uma ofensiva militar com apoio dos EUA.",
+     "quem": "Folha de S.Paulo"
+    },
+    {
+     "texto": "Os ataques com drones na Colômbia aumentaram 445%.",
+     "quem": "Nações Unidas, segundo o Clarín"
+    },
+    {
+     "texto": "O acordo de paz completa uma década sem plena implementação, sob um governo que quer enterrá-lo.",
+     "quem": "El País (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O atentado deixou 25 feridos.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os balanços variam entre 20 e 25 feridos conforme o veículo e o horário; a Secretaria de Saúde local, citada pelo Opera Mundi, falava em ao menos 23.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, g1, Folha, Estadão e Gazeta do Povo destacaram a coincidência com os dez anos do acordo de paz e a escalada de violência no país vizinho.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "operamundi",
+     "titulo": "Atentado na Colômbia deixa ao menos 23 feridos em meio à onda de violência no país",
+     "url": "https://operamundi.uol.com.br/america-latina/atentado-na-colombia-deixa-ao-menos-23-feridos-em-meio-a-onda-de-violencia-no-pais/",
+     "angulo": "Cita a Secretaria de Saúde local e a onda de violência no país.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "VÍDEO: Carro-bomba explode em frente à sede do governo de Meta e deixa 25 feridos na Colômbia",
+     "url": "https://www.estadao.com.br/internacional/carro-bomba-explode-na-colombia-npr/",
+     "angulo": "Mostra o vídeo da explosão e a acusação do presidente às Farc.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Atentado com carro-bomba fere 25 e aumenta tensão na Colômbia após ofensiva militar com apoio dos EUA",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/atentado-com-carro-bomba-fere-25-e-aumenta-tensao-na-colombia-apos-ofensiva-militar-com-apoio-dos-eua.shtml",
+     "angulo": "Liga o ataque à tensão após ofensiva militar com apoio dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Explosão de carro-bomba deixa mais de 20 feridos na Colômbia",
+     "url": "https://www.gazetadopovo.com.br/mundo/explosao-de-carro-bomba-deixa-mais-de-20-feridos-na-colombia/",
+     "angulo": "Destaca a recompensa oferecida por informações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Car bomb tears through Colombian city wounding more than 20",
+     "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+     "angulo": "Insere o ataque numa série contra prédios de segurança e governo (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Un cráter en el suelo y edificios destruidos: un atentado con un auto bomba sacudió Colombia y dejó al menos 23 heridos",
+     "url": "https://www.clarin.com/mundo/crater-suelo-edificios-destruidos-atentado-auto-bomba-sacudio-colombia-dejo-12-heridos_0_dukaZNutfR.html",
+     "angulo": "Registra a promessa de resposta 'implacável' do presidente (em espanhol).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Car bomb strikes governor’s office in Meta, Colombia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+     "angulo": "Notícia do ataque à sede do governo de Meta (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Atentado com carro-bomba no centro da Colômbia deixa 25 feridos",
+     "url": "https://jovempan.com.br/mundo/atentado-com-carro-bomba-no-centro-da-colombia-deixa-25-feridos/",
+     "angulo": "Informa que nenhum grupo reivindicou o ataque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "elpaisbrasil",
+     "titulo": "El acuerdo de paz en Colombia cumple una década sin plena implementación y bajo un Gobierno que quiere enterrarlo",
+     "url": "https://elpais.com/america-colombia/2026-11-24/el-acuerdo-de-paz-en-colombia-cumple-una-decada-sin-plena-implementacion-y-bajo-un-gobierno-que-quiere-enterrarlo.html",
+     "angulo": "Análise dos dez anos do acordo sem plena implementação (em espanhol).",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Presidente da Colômbia acusa dissidentes das Farc de atentado com carro-bomba que devastou cidade",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/24/presidente-da-colombia-acusa-dissidentes-das-farc-de-atentado-que-devastou-cidade.ghtml",
+     "angulo": "Notícia da acusação às dissidências das Farc.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "diario-postumo-de-francisco-relata-visoes-do-diabo-e-crise-espiritual",
+   "editoria": "Religião",
+   "escopo": "mundo",
+   "titulo": "Diário póstumo do papa Francisco relata visões do diabo e crise espiritual em 2021 e 2022",
+   "lide": "O Vaticano divulgou trechos do diário pessoal do papa Francisco, morto em abril de 2025, que será lançado em vários países. O pontífice escreveu que viu o diabo três vezes, que viu as 'portas do inferno' diante do escândalo de abusos sexuais no clero e que passou por uma crise espiritual entre 2021 e 2022.",
+   "fatos": [
+    {
+     "texto": "O Vaticano divulgou em 24 de novembro trechos do diário pessoal de Francisco, que será publicado como livro póstumo em vários países.",
+     "base": "3 fontes independentes (Estadão, Fox News, Le Monde)"
+    },
+    {
+     "texto": "No diário, Francisco escreveu que o diabo se apresentou a ele três vezes e que viu as 'portas do inferno'.",
+     "base": "3 fontes independentes (BBC News Brasil, Breitbart, Folha)"
+    },
+    {
+     "texto": "O texto relata uma crise espiritual entre 2021 e 2022.",
+     "base": "3 fontes independentes (Estadão, Fox News, DW Brasil)"
+    },
+    {
+     "texto": "Francisco começou o diário em 1992, quando era bispo auxiliar de Buenos Aires: são 86 páginas antes de virar papa, em 2013, e 55 depois.",
+     "base": "Clarín"
+    },
+    {
+     "texto": "A obra foi organizada pelo cardeal argentino Víctor Manuel Fernández; a edição francesa sai em 25 de novembro, e ainda não há edição no Brasil.",
+     "base": "3 fontes independentes (Jovem Pan, Le Monde, BBC News Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A visão das 'portas do inferno' foi ligada à percepção da profundidade do escândalo de abusos sexuais cometidos por clérigos.",
+     "quem": "Trechos do diário, segundo o Estadão"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, o diário teve ampla repercussão em g1, Folha, Estadão, CNN Brasil e Jovem Pan; a BBC News Brasil lembrou que ainda não há edição brasileira do livro.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Diário do papa Francisco revela crise espiritual profunda e encontros com o demônio",
+     "url": "https://www.estadao.com.br/internacional/diario-do-papa-francisco-revela-crise-espiritual-profunda-e-encontros-com-o-demonio-npr/",
+     "angulo": "Destaca a crise espiritual e a ligação com o escândalo de abusos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Vatican releases Pope Francis' private diary detailing spiritual crisis, encounters with the devil",
+     "url": "https://www.foxnews.com/world/vatican-releases-pope-francis-private-diary-detailing-spiritual-crisis-encounters-devil",
+     "angulo": "Foco na crise espiritual de 2021 e na visão do inferno (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Papa Francisco afirma em diário que teria visto o Diabo três vezes e as 'portas do inferno'",
+     "url": "https://www.bbc.com/portuguese/articles/cjy5xw4egqp6o?at_medium=RSS&at_campaign=rss",
+     "angulo": "Informa que uma das visões ocorreu durante uma missa e que não há edição brasileira.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Diário secreto do papa Francisco revela visões do diabo e das portas do inferno",
+     "url": "https://revistaforum.com.br/global/papa-francisco-diario-diabo/",
+     "angulo": "Notícia das visões descritas no diário.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Pope Francis Revealed in Personal Diary He Saw the Devil Three Times",
+     "url": "https://www.breitbart.com/europe/2026/11/24/pope-francis-revealed-in-personal-diary-he-saw-the-devil-three-times/",
+     "angulo": "Enfatiza as três visões do diabo (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "« Le Journal spirituel du pape François » dévoile trente-deux années de réflexions du Saint-Père argentin",
+     "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/24/le-journal-spirituel-du-pape-francois-devoile-trente-deux-annees-de-reflexions-du-saint-pere-argentin_6814741_6038514.html",
+     "angulo": "Apresenta o livro como 32 anos de reflexões do papa (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Em diário, papa Francisco relatou visões do diabo e crise espiritual",
+     "url": "https://www.dw.com/pt-br/em-diário-papa-francisco-relatou-visões-do-diabo-e-crise-espiritual/a-80040679?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Resume os temas do livro: fé, envelhecimento, poder e arrependimentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Cómo una agenda en cuero negro de Jorge Bergoglio se convirtió en el \"Diario personal del Papa Francisco\"",
+     "url": "https://www.clarin.com/mundo/agenda-cuero-negro-jorge-bergoglio-convirtio-diario-personal-papa-francisco_0_apruesnZA5.html",
+     "angulo": "Conta a história do caderno e quantas páginas foram escritas antes e depois do papado (em espanhol).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Diabo, inferno e Vaticano: veja os principais pontos do diário do Papa Francisco",
+     "url": "https://jovempan.com.br/mundo/diabo-inferno-e-vaticano-veja-os-principais-pontos-do-diario-do-papa-francisco/",
+     "angulo": "Lista os principais pontos do diário e quem o organizou.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Papa Francisco relata encontros com Diabo em diário publicado em livro póstumo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/papa-francisco-relata-encontros-com-diabo-em-diario-publicado-em-livro-postumo.shtml",
+     "angulo": "Reproduz trechos sobre as aparições do diabo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  }
+ ]
+}
