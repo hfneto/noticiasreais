@@ -1,0 +1,1208 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-26",
+ "gerado_em": "2026-11-26T05:59:32-03:00",
+ "historias": [
+  {
+   "id": "eua-propoem-tarifa-de-10-sobre-avioes-e-sobretaxa-ao-acucar-do-brasil",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "EUA propõem tarifa de 10% sobre aviões brasileiros e sobretaxa ao açúcar; ações da Embraer caem",
+   "lide": "O governo Trump propôs incluir aeronaves prontas, com tarifa de 10%, e açúcar na ação comercial contra o Brasil, ao mesmo tempo em que anunciou novas tarifas de até 20% contra China, União Europeia e outras 12 economias. Na véspera, a imprensa informava que o Brasil ficaria fora da nova rodada; as ações da Embraer chegaram a cair 9%.",
+   "fatos": [
+    {
+     "texto": "O Escritório do Representante Comercial dos EUA (USTR) propôs tarifa adicional de 10% sobre aeronaves prontas importadas do Brasil e aumento da tributação sobre o açúcar brasileiro, no âmbito da investigação da Seção 301.",
+     "base": "3 fontes independentes (Folha, g1, Revista Oeste)"
+    },
+    {
+     "texto": "O USTR afirma que o governo brasileiro não corrigiu 'atos, políticas e práticas irrazoáveis' e que a medida busca levar o Brasil de volta à mesa de negociação.",
+     "base": "3 fontes independentes (Folha, CNN Brasil, SBT)"
+    },
+    {
+     "texto": "A proposta recebe comentários até 30 de dezembro, e uma audiência pública foi marcada para 14 de janeiro de 2027.",
+     "base": "2 fontes independentes (g1, CartaCapital)"
+    },
+    {
+     "texto": "As ações da Embraer chegaram a cair mais de 9% na B3; a empresa defendeu em nota a manutenção da tarifa zero para a indústria aeroespacial.",
+     "base": "3 fontes independentes (Folha, Poder360, Band)"
+    },
+    {
+     "texto": "Os EUA também propuseram tarifas de até 20% contra 14 parceiros, entre eles China, União Europeia, Japão, Índia e Coreia do Sul, alegando excesso de capacidade industrial.",
+     "base": "3 fontes independentes (Folha, Clarín, Bloomberg)"
+    },
+    {
+     "texto": "O Itamaraty disse que o governo vai avaliar os impactos das tarifas propostas.",
+     "base": "CNN Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A proposta é um ato de chantagem e retaliação à recusa do Brasil de ceder às pressões da Casa Branca.",
+     "quem": "Diplomatas ouvidos pelo ICL Notícias"
+    },
+    {
+     "texto": "Depois da derrota nas eleições de meio de mandato, Trump retoma o uso do comércio como arma política.",
+     "quem": "Valor Econômico (análise)"
+    },
+    {
+     "texto": "Entre as políticas que Washington considera irrazoáveis estão o Pix e as ações de combate ao desmatamento.",
+     "quem": "Brasil de Fato, com base no documento do USTR"
+    },
+    {
+     "texto": "As novas tarifas devem respeitar o teto de 15% acordado para produtos europeus.",
+     "quem": "Comissão Europeia"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O Brasil ficaria de fora da nova rodada de tarifas de Trump.",
+     "rotulo": "Falso",
+     "explicacao": "A informação circulou na terça (24), atribuída ao Wall Street Journal, e foi repetida por vários veículos, inclusive por este app; na quarta, o USTR incluiu aviões e açúcar brasileiros na ação comercial contra o país.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": "O Clarín apontou Brasil e China como os mais afetados pela nova rodada; a Comissão Europeia cobrou respeito ao teto de 15% acordado com os EUA.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-25",
+    "id": "eua-barram-na-omc-queixa-do-brasil-e-nova-rodada-deve-poupar-o-pais",
+    "titulo": "EUA barram na OMC queixa do Brasil contra o tarifaço; nova rodada de tarifas deve poupar o país"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "EUA criticam governo Lula e propõem tarifa de 10% sobre aviões brasileiros e sobretaxa no açúcar",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/eua-realizara-audiencia-em-janeiro-sobre-proposta-de-alteracao-das-tarifas-aplicadas-ao-brasil.shtml",
+     "angulo": "Notícia da proposta e das críticas do USTR ao governo Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "EUA ameaçam ampliar tarifas sobre açúcar e aviões do Brasil",
+     "url": "https://revistaoeste.com/mundo/eua-ameacam-ampliar-tarifas-sobre-acucar-e-avioes-do-brasil/",
+     "angulo": "Detalha a consulta pública da Seção 301 aberta pelo USTR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Em ato de chantagem, Trump propõe retaliar Brasil com taxas ao açúcar e aeronaves",
+     "url": "https://iclnoticias.com.br/eua-ameacam-retaliar-brasil-com-novas-tarifas-contra-acucar-e-aeronaves/",
+     "angulo": "Ouve diplomatas que veem chantagem e retaliação.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Após propor novas tarifas para aviões e açúcar do Brasil, EUA marcam audiência para janeiro",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/25/eua-discutir-tarifas-2027.ghtml",
+     "angulo": "Explica o calendário da audiência e dos comentários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Trump cogita mais tarifas sobre produtos do Brasil; aviões e açúcar estão na mira",
+     "url": "https://www.gazetadopovo.com.br/mundo/governo-trump-cogita-mais-tarifas-produtos-brasil/",
+     "angulo": "Notícia das tarifas propostas para aviões e açúcar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Governo Trump propõe ampliar tarifas contra o Brasil em nova chantagem comercial; aviões e açúcar estão na mira",
+     "url": "https://www.brasildefato.com.br/2026/11/25/governo-trump-propoe-ampliar-tarifas-contra-o-brasil-em-nova-chantagem-comercial-avioes-e-acucar-estao-na-mira/",
+     "angulo": "Chama a medida de 'nova chantagem comercial' e cita Pix e desmatamento.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "EUA: nova tarifa é para pressionar Brasil a negociar",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/eua-nova-tarifa-e-para-pressionar-brasil-a-negociar",
+     "angulo": "Destaca o objetivo declarado de levar o Brasil a negociar.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Ações da Embraer caem até 9% com proposta de tarifa dos EUA",
+     "url": "https://www.poder360.com.br/poder-economia/acoes-da-embraer-caem-ate-9-com-proposta-de-tarifa-dos-eua/",
+     "angulo": "Mostra a reação do mercado às ações da Embraer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "ANÁLISE: Após surra nas urnas, Trump retoma chantagem comercial e renova ameaças a Brasil e outros países",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/25/anlise-aps-surra-nas-urnas-trump-retoma-chantagem-comercial-e-renova-ameaas-a-brasil-e-outros-pases.ghtml",
+     "angulo": "Análise que liga a ofensiva à derrota de Trump nas eleições.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Estados Unidos impone nuevos aranceles a por lo menos 14 países por exceso de producción: Brasil y China, los más afectados",
+     "url": "https://www.clarin.com/mundo/estados-unidos-impone-nuevos-aranceles-doce-paises-exceso-produccion-brasil-china-afectados_0_bJUvPcEnKG.html",
+     "angulo": "Visão argentina: Brasil e China são os mais afetados (em espanhol).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "EUA propõem tarifa de 10% sobre aviões brasileiros",
+     "url": "https://oantagonista.com.br/economia/eua-propoem-tarifa-de-10-sobre-avioes-brasileiros/",
+     "angulo": "Notícia direta da proposta sobre aeronaves.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Trump proposing new tariffs on 14 partners including China and EU",
+     "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+     "angulo": "Cobertura internacional da nova rodada global (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "lula-convida-trabuco-para-o-governo-e-haddad-fica-fora-do-lula-4",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Lula convida Trabuco, do Bradesco, para o governo; Haddad decide ficar fora do Lula 4",
+   "lide": "Lula disse ao presidente do conselho do Bradesco, Luiz Carlos Trabuco, que precisa dele no governo, e o banqueiro pediu tempo; ele é apontado como opção para a Fazenda. Fernando Haddad sinalizou que não será ministro e voltará a dar aulas na USP em 2027, e o mercado reagiu com alta da bolsa e queda dos juros.",
+   "fatos": [
+    {
+     "texto": "Lula conversou com Luiz Carlos Trabuco sobre integrar o quarto governo; o banqueiro pediu tempo para decidir.",
+     "base": "3 fontes independentes (Folha, Brasil 247, DCM)"
+    },
+    {
+     "texto": "Haddad sinalizou a Lula que não pretende assumir ministério no próximo governo.",
+     "base": "3 fontes independentes (g1, ICL Notícias, Gazeta do Povo)"
+    },
+    {
+     "texto": "A USP informou que Haddad voltará a dar aulas na pós-graduação em Ciência Política em 2027.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Metrópoles)"
+    },
+    {
+     "texto": "O Ibovespa interrompeu uma sequência de quedas e os juros futuros recuaram com a expectativa de Trabuco na Fazenda; o dólar fechou a R$ 5,82.",
+     "base": "3 fontes independentes (Band, Veja, SBT)"
+    },
+    {
+     "texto": "Trabuco já recusou convite para comandar a Fazenda em 2014.",
+     "base": "Veja"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula mencionou a Haddad a ideia de criar uma secretaria especial de Investimentos com status de ministério para abrigá-lo, e Haddad desaconselhou.",
+     "quem": "Fontes a par da reunião, segundo o g1"
+    },
+    {
+     "texto": "Lula não ofereceu cargo a Haddad na conversa.",
+     "quem": "Aliados ouvidos pelo Jota"
+    },
+    {
+     "texto": "Uma ala do PT teme repetir a experiência de Joaquim Levy, ministro da Fazenda de Dilma em 2015.",
+     "quem": "Petistas ouvidos pela Folha; Revista Fórum"
+    },
+    {
+     "texto": "Com Haddad fora, Camilo Santana ganha força para a Casa Civil.",
+     "quem": "Folha e Gazeta do Povo, com base em bastidores"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Lula diz a Trabuco que precisa dele no governo, e banqueiro pede tempo",
+     "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-diz-a-trabuco-que-precisa-dele-no-governo-e-banqueiro-pede-tempo.shtml",
+     "angulo": "Notícia da conversa em que Lula pede Trabuco no governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Trabuco é o novo Levy? Lula cometeria o mesmo erro de Dilma?",
+     "url": "https://revistaforum.com.br/opiniao/trabuco-e-o-novo-levy-lula-cometeria-o-mesmo-erro-de-dilma/",
+     "angulo": "Questiona se Lula repetiria o 'erro de Dilma' com Levy.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Haddad avisa Lula que não será ministro novamente e abre espaço para Camilo",
+     "url": "https://www.gazetadopovo.com.br/republica/haddad-avisa-lula-nao-sera-ministro-novamente-abre-espaco-camilo/",
+     "angulo": "Destaca a abertura de espaço para Camilo Santana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Lula sonda Haddad sobre pasta de Investimentos, mas ex-ministro diz que não quer estar no governo; Trabuco ganha força para Fazenda",
+     "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/25/lula-haddad-pasta-de-investimentos-trabuco-ganha-forca-para-fazenda.ghtml",
+     "angulo": "Bastidores da reunião e da ideia de uma secretaria de Investimentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Por que a conversa de Lula com Luiz Carlos Trabuco, do Bradesco, requer cautela",
+     "url": "https://veja.abril.com.br/economia/a-relacao-entre-lula-e-trabuco-nos-ultimos-anos/",
+     "angulo": "Pede cautela e lembra que Trabuco recusou a Fazenda em 2014.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula diz querer Trabuco no governo, e presidente do Bradesco pede tempo para decidir",
+     "url": "https://www.brasil247.com/economia/lula-diz-querer-trabuco-no-governo-e-presidente-do-bradesco-pede-tempo-para-decidir/",
+     "angulo": "Notícia da conversa e do pedido de tempo de Trabuco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Ibovespa rompe sequência de quedas com possível ida de Trabuco para Fazenda",
+     "url": "https://www.band.com.br/economia/ibovespa-rompe-sequencia-de-quedas-com-possivel-ida-de-trabuco-para-fazenda",
+     "angulo": "Liga a alta da bolsa à possível ida de Trabuco para a Fazenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Lula não ofereceu cargo a Haddad em conversa, dizem aliados",
+     "url": "https://www.jota.info/executivo/lula-nao-ofereceu-cargo-a-haddad-em-conversa-dizem-aliados",
+     "angulo": "Relata, por aliados, que não houve oferta de cargo a Haddad.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Haddad volta à USP em 2027 após decidir não integrar próximo governo",
+     "url": "https://www.diariodocentrodomundo.com.br/haddad-voltara-dar-aulas-usp-2027/",
+     "angulo": "Notícia da volta de Haddad à universidade.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Trabuco, do Bradesco, vira opção para ministro da Fazenda de Lula, e ala do PT lembra fantasma de Levy",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vira-opcao-para-ministro-da-fazenda-de-lula-e-ala-do-pt-lembra-fantasma-de-levy.shtml",
+     "angulo": "Mostra o temor de uma ala do PT com o 'fantasma de Levy'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Ibovespa sobe após mercado ‘comprar’ boato de que Trabuco pode assumir a Fazenda",
+     "url": "https://veja.abril.com.br/economia/ibovespa-sobe-apos-mercado-comprar-boato-de-que-trabuco-pode-assumir-a-fazenda/",
+     "angulo": "Mostra o mercado precificando um nome pró-ajuste na Fazenda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "pf-diz-que-omissoes-seguiram-ordem-de-fachin-e-pgr-pode-usar-tudo",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "PF diz que omissões em relatórios sobre ministros seguiram ordem de Fachin e que PGR tem todo o material",
+   "lide": "A Polícia Federal afirmou que os relatórios sobre ministros do STF no caso Master foram limitados por determinação de Edson Fachin, e o diretor-geral, Andrei Rodrigues, disse que STF e PGR já têm todas as provas, inclusive áudios sobre André Mendonça e o contrato do escritório da mulher de Moraes. O relatório sobre Dias Toffoli também deixou de fora o negócio do resort Tayayá.",
+   "fatos": [
+    {
+     "texto": "Em nota de 24 de novembro, a PF afirmou que a ausência de análises e cruzamentos de dados nos relatórios sobre ministros decorre de determinações do presidente do STF, Edson Fachin.",
+     "base": "3 fontes independentes (ICL Notícias, Terra Brasil, CNN Brasil)"
+    },
+    {
+     "texto": "Andrei Rodrigues disse que STF e PGR já dispõem de todo o material, incluindo áudios que mencionam André Mendonça, e que a PGR pode usar provas que não estão nos relatórios.",
+     "base": "3 fontes independentes (g1, Folha, ICL Notícias)"
+    },
+    {
+     "texto": "O relatório sobre Dias Toffoli não inclui a compra, por Vorcaro, de participação no resort Tayayá, que pertenceu a uma holding da família do ministro.",
+     "base": "Coluna de Malu Gaspar (O Globo), repercutida por g1, Revista Oeste e Metrópoles"
+    },
+    {
+     "texto": "A Caixa discute com o Banco Central a compra do BRB, depois de o Distrito Federal não conseguir empréstimo para cobrir um rombo estimado em pelo menos R$ 8,8 bilhões.",
+     "base": "2 fontes independentes (Folha, Estadão)"
+    },
+    {
+     "texto": "A defesa de Vorcaro pediu que Nunes Marques deixe a relatoria da ação contra Fachin e que Gilmar Mendes assuma o caso.",
+     "base": "2 fontes independentes (g1, CartaCapital)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A ordem de Fachin esvaziou o relatório e aumentou a pressão sobre a PGR.",
+     "quem": "Teo Cury, analista da CNN Brasil"
+    },
+    {
+     "texto": "Ninguém quer assumir a responsabilidade por uma eventual investigação de ministros do STF.",
+     "quem": "Análise do g1"
+    },
+    {
+     "texto": "Andrei Rodrigues 'apagou a realidade' ao editar o relatório sobre Moraes.",
+     "quem": "Coluna da Gazeta do Povo"
+    },
+    {
+     "texto": "A PF cometeu um 'erro conceitual grave' nos relatórios.",
+     "quem": "Walter Maierovitch, à CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Aliados do governo e o diretor da PF dizem que a corporação seguiu ordens do STF e entregou todo o material à PGR.",
+    "oposicao": "A oposição e veículos de direita acusam a PF de blindar Moraes e Toffoli e falam em 'pizza' no caso Master."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-24",
+    "id": "relatorio-da-pf-sobre-moraes-omite-mensagens-de-vorcaro",
+    "titulo": "Relatório da PF sobre Moraes omite mensagens de Vorcaro e contratos do escritório da esposa"
+   },
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Chefe da PF diz que PGR pode usar provas fora de relatórios contra ministros do STF no caso Master",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/chefe-da-pf-diz-que-pgr-pode-usar-provas-fora-de-relatorios-contra-ministros-do-stf-no-caso-master.shtml",
+     "angulo": "Entrevista com Andrei Rodrigues sobre o uso de provas fora dos relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Camarada Andrei, o apagador da realidade",
+     "url": "https://www.gazetadopovo.com.br/vozes/paulo-briguet/camarada-andrei-o-apagador-da-realidade/",
+     "angulo": "Coluna que acusa o diretor da PF de 'apagar a realidade'.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Diretor da PF afirma que STF e PGR têm áudios sobre Mendonça e contrato de Moraes",
+     "url": "https://iclnoticias.com.br/diretor-pf-stf-pgr-mendonca-moraes/",
+     "angulo": "Andrei afirma que áudios sobre Mendonça e o contrato de Moraes já estão com STF e PGR.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Relatório da PF entregue a Fachin não inclui caso Tayayá; veja o que pesa contra ministros e ficou de fora",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/25/relatorio-da-pf-entregue-a-fachin-nao-inclui-caso-tayaya-veja-o-que-pesa-contra-ministros-e-ficou-de-fora.ghtml",
+     "angulo": "Mostra o que pesa contra ministros e ficou fora dos relatórios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Relatório da PF sobre Toffoli omite compra de fatia do resort Tayayá",
+     "url": "https://revistaoeste.com/politica/relatorio-da-pf-sobre-toffoli-omite-compra-de-fatia-do-resort-tayaya/",
+     "angulo": "Detalha a compra de fatia do resort Tayayá por Vorcaro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ordem de Fachin esvazia relatório da PF e pressiona PGR",
+     "url": "https://www.cnnbrasil.com.br/politica/ordem-de-fachin-esvazia-relatorio-da-pf-e-pressiona-pgr/",
+     "angulo": "Análise sobre como a ordem de Fachin limitou o relatório.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "PF diz que STF e PGR já têm todas as provas necessárias para avançar no caso Master",
+     "url": "https://www.brasil247.com/brasil/pf-diz-que-stf-e-pgr-ja-tem-todas-as-provas-necessarias-para-avancar-no-caso-master/",
+     "angulo": "Notícia da declaração do diretor da PF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Caixa avalia compra do BRB após Distrito Federal não conseguir empréstimo para salvar o banco",
+     "url": "https://www.estadao.com.br/economia/caixa-avalia-compra-do-brb-apos-distrito-federal-nao-conseguir-emprestimo-para-salvar-o-banco/",
+     "angulo": "Mostra a Caixa como saída para o rombo do BRB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Meio-Dia em Brasília: A malandragem da PF para livrar Toffoli do Caso Master",
+     "url": "https://oantagonista.com.br/videos/meio-dia-em-brasilia-a-malandragem-da-pf-para-livrar-toffoli-do-caso-master/",
+     "angulo": "Programa que acusa a PF de 'livrar Toffoli'.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "STF e PGR receberam áudios sobre Mendonça e contrato de Moraes, diz diretor da PF",
+     "url": "https://www.diariodocentrodomundo.com.br/stf-e-pgr-receberam-audios-sobre-mendonca-e-contrato-de-moraes-diz-diretor-da-pf/",
+     "angulo": "Repercute a fala do diretor da PF sobre os áudios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "PF omitiu elo de Toffoli e Vorcaro em resort no relatório entregue a Fachin",
+     "url": "https://www.metropoles.com/brasil/pf-omitiu-elo-de-toffoli-e-vorcaro-em-resort-no-relatorio-entregue-a-fachin",
+     "angulo": "Notícia da omissão do caso Tayayá no relatório.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "houthis-atacam-riad-e-eua-pedem-que-cidadaos-deixem-o-ira",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Houthis atacam distrito financeiro de Riad após bombardeio saudita, e EUA pedem que cidadãos deixem o Irã",
+   "lide": "Os houthis do Iêmen atingiram pela segunda vez em uma semana o distrito financeiro de Riad e a refinaria de Ras Tanura, em resposta a bombardeios da coalizão saudita ao porto de Hodeidah. A embaixada virtual dos EUA no Irã pediu que americanos deixem o país, alertando que as hostilidades podem escalar rapidamente.",
+   "contexto": "Os EUA estão em guerra com o Irã há quase nove meses e mantêm bloqueio naval às exportações de petróleo iranianas.",
+   "fatos": [
+    {
+     "texto": "A coalizão liderada pela Arábia Saudita confirmou ataques ao porto de Hodeidah, administrado pelos houthis, e a alvos no norte do Iêmen.",
+     "base": "2 fontes independentes (Opera Mundi, O Globo)"
+    },
+    {
+     "texto": "Os houthis atingiram o distrito financeiro de Riad pela segunda vez em uma semana e reivindicaram ataque à refinaria de Ras Tanura.",
+     "base": "3 fontes independentes (Bloomberg, O Globo, Folha)"
+    },
+    {
+     "texto": "O prédio mais alto de Riad, símbolo do plano Visão 2030, foi atingido pela segunda vez em cinco dias.",
+     "base": "2 fontes independentes (Folha, Le Monde)"
+    },
+    {
+     "texto": "A embaixada virtual dos EUA no Irã pediu que cidadãos americanos deixem o país, após ataques iranianos a instalações americanas no Bahrein e no Kuwait e um ataque houthi a Riad que feriu 11 pessoas.",
+     "base": "Euronews"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O Irã, por meio da Guarda Revolucionária e de especialistas do Hezbollah, dirige os ataques houthis.",
+     "quem": "Militar iemenita ouvido pela Fox News"
+    },
+    {
+     "texto": "Os houthis estão em vantagem na guerra e avançam sobre Áden, capital provisória do governo apoiado por Riad.",
+     "quem": "The New York Times e The Guardian"
+    },
+    {
+     "texto": "Riad se prepara para uma guerra mais intensa no Iêmen.",
+     "quem": "Le Monde"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "bloomberg",
+     "titulo": "Houthis Hit Saudi Finance Center, Extending Tit-for-Tat Attacks",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/houthis-hit-saudi-finance-center-extending-tit-for-tat-attacks",
+     "angulo": "Ataque ao centro financeiro de Riad e o ciclo de retaliações (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Coalizão saudita ignora alerta dos houthis e confirma ataque ao porto de Hodeidah",
+     "url": "https://operamundi.uol.com.br/oriente-medio/coalizao-saudita-ignora-alerta-dos-houthis-e-confirma-ataque-ao-porto-de-hodeidah/",
+     "angulo": "Notícia do bombardeio saudita a Hodeidah.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Arábia Saudita ataca porto no Iêmen, e houthis retaliam alvejando refinaria e distrito financeiro de Riad",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/25/arabia-saudita-ataca-porto-no-iemen-e-houthis-retaliam-refinaria-e-distrito-financeiro-de-riad.ghtml",
+     "angulo": "Mostra a sequência de ataque saudita e retaliação houthi.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "foxnews",
+     "titulo": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
+     "url": "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war",
+     "angulo": "Ouve militar iemenita que acusa o Irã de dirigir os houthis (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Arabie saoudite : après la frappe sur le siège de son fonds souverain, Riyad se prépare à une guerre plus intense au Yémen",
+     "url": "https://www.lemonde.fr/international/article/2026/11/25/arabie-saoudite-apres-la-frappe-sur-le-siege-de-son-fonds-souverain-riyad-se-prepare-a-une-guerre-plus-intense-au-yemen_6815066_3210.html",
+     "angulo": "Mostra Riad se preparando para guerra mais intensa (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "euronews",
+     "titulo": "US tells citizens to leave Iran, warns hostilities could escalate fast",
+     "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast",
+     "angulo": "Alerta americano para que cidadãos deixem o Irã (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Prédio mais alto da capital da Arábia Saudita é atacado pela 2ª vez em menos de uma semana",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/predio-mais-alto-da-capital-da-arabia-saudita-e-atacado-pela-2a-vez-em-menos-de-uma-semana.shtml",
+     "angulo": "Notícia do segundo ataque ao prédio mais alto de Riad.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+     "angulo": "Análise do avanço houthi na guerra do Iêmen (em inglês).",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+     "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+     "angulo": "Mostra iemenitas planejando fugir de Áden diante do avanço houthi (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Houthis ameaçam atacar portos da Arábia Saudita no Mar Vermelho",
+     "url": "https://www.cnnbrasil.com.br/internacional/houthis-ameacam-atacar-portos-da-arabia-saudita-no-mar-vermelho/",
+     "angulo": "Ameaça houthi aos portos sauditas no Mar Vermelho.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "tcu-afasta-multas-a-dilma-por-irregularidades-fiscais-de-2014",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "TCU afasta multas a Dilma e ex-auxiliares por irregularidades fiscais de 2014",
+   "lide": "O TCU decidiu por unanimidade não multar a ex-presidente Dilma Rousseff e integrantes de sua equipe econômica por irregularidades na gestão fiscal de 2014, ligadas às 'pedaladas' que embasaram o impeachment de 2016. O tribunal manteve o reconhecimento da gravidade das falhas, mas não viu dolo nem erro grosseiro dos gestores.",
+   "fatos": [
+    {
+     "texto": "O plenário do TCU decidiu por unanimidade, em 25 de novembro, afastar multas a Dilma Rousseff e ex-integrantes da equipe econômica, e arquivou o processo aberto em dezembro de 2014.",
+     "base": "3 fontes independentes (Agência Brasil, Congresso em Foco, O Antagonista)"
+    },
+    {
+     "texto": "Também foram poupados Guido Mantega, Miriam Belchior e o ex-secretário do Tesouro Arno Augustin.",
+     "base": "2 fontes independentes (Veja, Congresso em Foco)"
+    },
+    {
+     "texto": "O tribunal manteve o reconhecimento da gravidade das falhas, mas concluiu que não havia elementos para caracterizar dolo ou erro grosseiro.",
+     "base": "2 fontes independentes (Estadão, Revista Fórum)"
+    },
+    {
+     "texto": "A decisão não altera a rejeição, pelo TCU, das contas do governo de 2014.",
+     "base": "Agência Brasil"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Uma ala do PT ainda carrega o trauma do impeachment e por isso resiste a ajustes no quarto mandato de Lula.",
+     "quem": "Coluna do Estadão"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "O TCU reconheceu que o impeachment de Dilma foi um erro, ou um golpe.",
+     "rotulo": "Distorcido",
+     "explicacao": "O tribunal afastou multas individuais por falta de dolo ou erro grosseiro, mas manteve o reconhecimento das irregularidades e não reviu a rejeição das contas de 2014; o TCU não julga o impeachment, decidido pelo Congresso.",
+     "onde_circula": "veículos de esquerda e redes sociais"
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O PT e veículos de esquerda tratam a decisão como reparação histórica e prova de que o impeachment foi injusto.",
+    "oposicao": "Críticos lembram que as falhas foram mantidas como graves e que a decisão só afasta punições pessoais."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "TCU afasta multas a Dilma e auxiliares por irregularidades fiscais",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tcu-afasta-multas-dilma-e-auxiliares-por-irregularidades-fiscais",
+     "angulo": "Explica que a decisão não muda a rejeição das contas de 2014.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "TCU reconhece erro no golpe de Estado de 2016 contra Dilma",
+     "url": "https://www.brasil247.com/brasilia/tcu-reconhece-erro-no-golpe-de-estado-de-2016-contra-dilma/",
+     "angulo": "Enquadra a decisão como reconhecimento de erro no 'golpe de 2016'.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "TCU afasta multas a membros do governo Dilma Rousseff por irregularidades fiscais de 2014",
+     "url": "https://www.estadao.com.br/economia/tcu-afasta-multas-a-membros-do-governo-dilma-por-irregularidades-fiscais-de-2014/",
+     "angulo": "Destaca que as falhas foram mantidas como graves, sem dolo comprovado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "TCU não multa Dilma e ex-ministros por falhas fiscais de 2014",
+     "url": "https://oantagonista.com.br/brasil/tcu-nao-multa-dilma-e-ex-ministros-por-falhas-fiscais-de-2014/",
+     "angulo": "Notícia direta da decisão unânime.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "TCU livra Dilma de multas por irregularidades fiscais em 2014",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/tcu-livra-dilma-de-multas-por-irregularidades-fiscais-em-2014.shtml",
+     "angulo": "Liga a decisão às pedaladas que levaram ao impeachment.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Dez anos após o golpe contra Dilma, TCU reconhece erro em processo que levou à sua deposição",
+     "url": "https://revistaforum.com.br/politica/golpe-dilma-tcu-processo/",
+     "angulo": "Chama o impeachment de 'golpe parlamentar' e destaca a ausência de dolo.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "TCU afasta responsabilização de Dilma e Mantega por atos da gestão fiscal de 2014",
+     "url": "https://veja.abril.com.br/brasil/tcu-afasta-responsabilizacao-de-dilma-e-mantega-por-atos-da-gestao-fiscal-de-2014/",
+     "angulo": "Lista os ex-integrantes do governo também poupados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "TCU livra Dilma de punições por irregularidades fiscais de 2014",
+     "url": "https://revistaoeste.com/politica/tcu-livra-dilma-de-punicoes-por-irregularidades-fiscais-de-2014/",
+     "angulo": "Notícia da decisão do TCU.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Dez anos após impeachment, TCU afasta responsabilização de Dilma por ‘pedaladas’",
+     "url": "https://www.brasildefato.com.br/2026/11/25/dez-anos-apos-impeachment-tcu-afasta-responsabilizacao-de-dilma-por-pedaladas/",
+     "angulo": "Notícia que chama as pedaladas de 'supostas irregularidades'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Ala do PT precisa ir ao divã para superar trauma econômico do impeachment da ex-presidente Dilma",
+     "url": "https://www.estadao.com.br/economia/alvaro-gribel/ala-do-pt-precisa-ir-ao-diva-para-superar-trauma-economico-do-impeachment-da-ex-presidente-dilma/",
+     "angulo": "Coluna sobre o trauma do impeachment no pensamento econômico do PT.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "ibge-quase-30-das-cidades-ainda-usam-lixoes-apos-fim-do-prazo-legal",
+   "editoria": "Meio ambiente",
+   "escopo": "brasil",
+   "titulo": "IBGE: quase 30% das cidades ainda mandam lixo para lixões, mesmo após fim do prazo legal",
+   "lide": "A Pesquisa Nacional de Saneamento Básico 2024, do IBGE, mostra que 1.429 municípios ainda descartavam resíduos em lixões a céu aberto, no ano em que venceu o prazo da Política Nacional de Resíduos Sólidos. A pesquisa também aponta que só 26% das cidades com drenagem têm protocolos para enchentes e 12% contam com piscinões.",
+   "fatos": [
+    {
+     "texto": "Em 2024, 1.429 municípios, quase três em cada dez dos que têm limpeza urbana, encaminhavam resíduos para lixões a céu aberto.",
+     "base": "IBGE (PNSB 2024); 3 fontes independentes (Folha, g1, CNN Brasil)"
+    },
+    {
+     "texto": "Na Região Norte, 69,2% dos municípios registravam lixões.",
+     "base": "2 fontes independentes (CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "A coleta seletiva chegou a 2.675 municípios (48,1%), ante 994 (17,9%) em 2008.",
+     "base": "IBGE, segundo a Agência Brasil"
+    },
+    {
+     "texto": "Apenas 26,1% dos municípios com serviço de drenagem têm protocolos para desastres como enchentes.",
+     "base": "3 fontes independentes (g1, CNN Brasil, InfoMoney)"
+    },
+    {
+     "texto": "Só 11,9% das cidades com drenagem têm estruturas de retenção de água, como piscinões, e 7,9% aproveitam a água da chuva.",
+     "base": "2 fontes independentes (Folha, g1)"
+    },
+    {
+     "texto": "O serviço de drenagem existia em 97,4% dos municípios, e apenas sete não tinham limpeza urbana.",
+     "base": "Valor Econômico, com dados do IBGE"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A falta de estruturas de retenção amplia o risco de enchentes no país.",
+     "quem": "Folha de S.Paulo, com base nos dados do IBGE"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Brasil ainda tem lixões em quase 30% dos municípios, mesmo após prazo legal para encerramento, aponta IBGE",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/25/saneamento-basico-lixoes-brasil-ibge.ghtml",
+     "angulo": "Destaca que os lixões persistem após o fim do prazo legal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lixões a céu aberto estão ativos em 1.429 cidades do país, aponta IBGE",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/lixoes-a-ceu-aberto-estao-ativos-em-1429-cidades-do-pais-aponta-ibge.shtml",
+     "angulo": "Notícia dos 1.429 municípios com lixões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "IBGE: coleta seletiva avança e atinge 2.675 municípios brasileiros",
+     "url": "https://iclnoticias.com.br/economia/ibge-coleta-seletiva-avanca/",
+     "angulo": "Republica a Agência Brasil com o avanço da coleta seletiva desde 2008.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Brasil amplia risco de enchentes com só 12% das cidades equipadas com piscinões, mostra IBGE",
+     "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/brasil-amplia-risco-de-enchentes-com-so-12-das-cidades-equipadas-com-piscinoes-mostra-ibge.shtml",
+     "angulo": "Foco na falta de piscinões e no risco de enchentes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "IBGE: Norte lidera problemas com coleta e tratamento de lixo",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/ibge-norte-lidera-problemas-com-coleta-e-tratamento-de-lixo",
+     "angulo": "Destaca a desigualdade regional no manejo do lixo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Apenas 26% dos municípios têm protocolo para enfrentar enchentes no Brasil",
+     "url": "https://www.cnnbrasil.com.br/nacional/brasil/apenas-26-dos-municipios-tem-protocolo-para-enfrentar-enchentes-no-brasil/",
+     "angulo": "Foco nos protocolos para enchentes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Coleta seletiva não chega a 51,9% dos municípios brasileiros",
+     "url": "https://www.poder360.com.br/poder-sustentavel/coleta-seletiva-nao-chega-a-519-dos-municipios-brasileiros/",
+     "angulo": "Destaca os 69,2% de municípios do Norte com lixões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Sistema de drenagem de águas pluviais é realidade em 97,4% as cidades brasileiras, diz IBGE",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/25/sistema-de-drenagem-de-aguas-pluviais-e-realidade-em-974percent-as-cidades-brasileiras-diz-ibge.ghtml",
+     "angulo": "Mostra a cobertura quase universal da drenagem.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "IBGE: menos de 10% das cidades brasileiras aproveitam água da chuva",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/25/saneamento-basico-aproveitamento-agua-chuva.ghtml",
+     "angulo": "Notícia sobre o baixo aproveitamento da água da chuva.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "cni-pede-ao-stf-que-suspenda-regras-de-lula-para-o-fim-da-6x1",
+   "editoria": "Trabalho",
+   "escopo": "brasil",
+   "titulo": "CNI pede ao STF que suspenda decreto e portaria de Lula que regulamentam o fim da 6x1",
+   "lide": "A Confederação Nacional da Indústria entrou com ação no STF para suspender o decreto do governo e a portaria do Ministério do Trabalho que regulamentam a jornada 5x2, que começa a valer em 16 de dezembro. A entidade diz que o Executivo extrapolou o poder de regulamentar e que o tema cabe ao Congresso.",
+   "fatos": [
+    {
+     "texto": "A CNI protocolou em 24 de novembro nova ação no STF contra o decreto e a portaria que regulamentam o fim da escala 6x1.",
+     "base": "3 fontes independentes (CNN Brasil, Poder360, Jota)"
+    },
+    {
+     "texto": "A entidade pede a suspensão imediata dos atos e afirma que o Executivo legislou sobre matéria reservada ao Congresso.",
+     "base": "3 fontes independentes (O Globo, O Antagonista, Brasil 247)"
+    },
+    {
+     "texto": "As regras contestadas tratam da distribuição de folgas, do cálculo da hora trabalhada e da fiscalização das empresas.",
+     "base": "Revista Fórum"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Os empresários querem derrubar as regras que garantem folgas, salário e horas extras na nova jornada.",
+     "quem": "Revista Fórum"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O governo sustenta que o decreto e a portaria só detalham a emenda constitucional aprovada pelo Congresso e dão segurança jurídica à transição.",
+    "oposicao": "A indústria diz que o governo criou regras por conta própria, com custo para as empresas, e quer que o Congresso legisle."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-24",
+    "id": "trabalho-publica-regras-da-5x2-e-agu-pede-fim-de-liminar-de-dino",
+    "titulo": "Ministério do Trabalho publica regras da jornada 5x2 e AGU pede fim da liminar de Dino"
+   },
+   "materias": [
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "CNI move nova ação no STF contra os atos que regulamentam o fim da 6×1",
+     "url": "https://www.cnnbrasil.com.br/politica/cni-move-nova-acao-no-stf-contra-os-atos-que-regulamentam-o-fim-da-6x1/",
+     "angulo": "Explica o argumento de que o governo extrapolou suas atribuições.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "CNI aciona STF para barrar decreto sobre fim da escala 6×1",
+     "url": "https://www.brasil247.com/brasil/cni-aciona-stf-para-barrar-decreto-sobre-fim-da-escala-6x1/",
+     "angulo": "Notícia da ação contra a regulamentação do governo Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "CNI pede ao STF que suspenda decreto de Lula sobre fim da 6x1 e defende regulamentação via Congresso",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/25/cni-pede-ao-stf-que-suspenda-decreto-de-lula-sobre-fim-da-6x1-e-defende-regulamentacao-via-congresso.ghtml",
+     "angulo": "Detalha o pedido para que o Executivo se abstenha de regular o tema.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "CNI pede ao STF que anule decreto sobre jornada após fim da 6×1",
+     "url": "https://oantagonista.com.br/economia/cni-pede-ao-stf-que-anule-decreto-sobre-jornada-apos-fim-da-6x1/",
+     "angulo": "Notícia da ação e do argumento de invasão de competência do Congresso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Fim da escala 6×1: empresários querem derrubar regras de folgas, salário e horas extras",
+     "url": "https://revistaforum.com.br/brasil/fim-escala-6x1-empresarios-derrubar-regras-folgas-salario/",
+     "angulo": "Enquadra a ação como tentativa de derrubar direitos da nova jornada.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "CNI ajuiza ação contra decreto e portaria que regulamentam jornada 5×2 no Brasil",
+     "url": "https://www.jota.info/trabalho/cni-ajuiza-acao-contra-decreto-e-portaria-que-regulamentam-jornada-5x2-no-brasil",
+     "angulo": "Detalha os pedidos da ação ao STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "CNI protocola nova ação no STF contra a regulamentação do fim da 6 X 1",
+     "url": "https://www.poder360.com.br/poder-brasil/cni-protocola-nova-acao-no-stf-contra-a-regulamentacao-do-fim-da-6-x-1/",
+     "angulo": "Notícia do protocolo da ação no STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "CNI pede suspensão de decreto que regulamenta o fim da 6x1",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/cni-pede-suspensao-de-decreto-que-regulamenta-o-fim-da-6x1",
+     "angulo": "Notícia do pedido de suspensão do decreto.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "polonia-criara-zona-de-exclusao-aerea-na-fronteira-com-a-ucrania",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Polônia vai criar zona de exclusão aérea na fronteira com a Ucrânia após incursões russas",
+   "lide": "O governo polonês anunciou que criará uma zona de exclusão de voos ao longo da fronteira leste, um dia depois de acusar a Rússia de invadir seu espaço aéreo com um drone, e pediu à Otan que avalie derrubar mísseis russos sobre a Ucrânia. Os EUA, segundo o Financial Times, engavetaram propostas comerciais à Rússia por falta de interesse do Kremlin.",
+   "fatos": [
+    {
+     "texto": "Um vice-ministro da Defesa polonês anunciou em 25 de novembro a criação de uma zona de exclusão aérea perto da fronteira com a Ucrânia.",
+     "base": "3 fontes independentes (AFP, Folha, DW Brasil)"
+    },
+    {
+     "texto": "O anúncio veio um dia após a Polônia acusar a Rússia de invadir intencionalmente seu espaço aéreo com um drone de vigilância; na semana anterior, três projéteis caíram no país.",
+     "base": "2 fontes independentes (Folha, Bloomberg)"
+    },
+    {
+     "texto": "A Polônia pediu aos aliados da Otan que estudem interceptar mísseis e drones russos sobre a Ucrânia quando eles se dirigirem ao território da aliança.",
+     "base": "3 fontes independentes (Bloomberg, Gazeta do Povo, DW Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O governo Trump suspendeu planos de oferecer acordos comerciais em energia e aviação à Rússia como incentivo para encerrar a guerra.",
+     "quem": "Financial Times, segundo o Valor"
+    },
+    {
+     "texto": "A Rússia está escalando o conflito na Europa e no espaço.",
+     "quem": "Friedrich Merz, chanceler alemão, ao Financial Times"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
+     "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+     "angulo": "Notícia do anúncio após violações repetidas do espaço aéreo (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Polônia quer criar zona de exclusão aérea para conter ameaças russas",
+     "url": "https://www.gazetadopovo.com.br/mundo/polonia-quer-criar-zona-de-exclusao-aerea-para-conter-ameacas-russas/",
+     "angulo": "Destaca o pedido à Otan para interceptar mísseis russos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Invasões russas fazem Polônia criar zona de exclusão aérea",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/invasoes-russas-fazem-polonia-criar-zona-de-exclusao-aerea.shtml",
+     "angulo": "Liga a decisão à acusação de invasão por drone russo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Polônia criará zona de exclusão aérea na fronteira com a Ucrânia para conter ameaças russas",
+     "url": "https://www.dw.com/pt-br/polônia-criará-zona-de-exclusão-aérea-na-fronteira-com-a-ucrânia-para-conter-ameaças-russas/a-80054184?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Mostra a queda de mísseis e o pedido aos aliados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "bloomberg",
+     "titulo": "Poland Asks NATO to Shoot Down Russian Missiles Over Ukraine",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/poland-asks-nato-to-shoot-down-russian-missiles-over-ukraine",
+     "angulo": "Pedido polonês para derrubar mísseis russos sobre a Ucrânia (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Trump engaveta propostas comerciais para Rússia em tentativa de encerrar guerra na Ucrânia",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/25/trump-engaveta-negociacoes-comerciais-com-a-russia-para-encerrar-guerra-na-ucrania.ghtml",
+     "angulo": "Repercute o FT sobre os acordos com a Rússia engavetados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Russia is escalating conflict in Europe and space, warns Merz",
+     "url": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+     "angulo": "Merz alerta para escalada russa na Europa e no espaço (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "juri-dos-eua-condena-huawei-por-roubo-de-segredos-e-fraude",
+   "editoria": "Economia",
+   "escopo": "mundo",
+   "titulo": "Júri dos EUA condena Huawei por roubo de segredos comerciais, fraude bancária e violação de sanções",
+   "lide": "Um júri federal em Nova York considerou a chinesa Huawei culpada de roubar segredos comerciais de empresas americanas, cometer fraude bancária e burlar sanções contra o Irã, ao fim de um processo de oito anos. A empresa foi absolvida da acusação mais grave, de conspiração de extorsão organizada.",
+   "fatos": [
+    {
+     "texto": "O júri considerou a Huawei culpada de roubo de segredos comerciais, fraude bancária ligada a negócios no Irã e violação de sanções, em 24 de novembro.",
+     "base": "3 fontes independentes (AFP, Folha, Valor)"
+    },
+    {
+     "texto": "A empresa foi absolvida das acusações de conspiração criminosa de extorsão organizada (racketeering) e de obstrução de justiça.",
+     "base": "2 fontes independentes (Al Jazeera, AFP)"
+    },
+    {
+     "texto": "O julgamento durou três meses e encerrou uma disputa judicial de oito anos.",
+     "base": "2 fontes independentes (AFP, Financial Times)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A Huawei tentou recrutar funcionários de empresas americanas de telecomunicações para obter informações tecnológicas.",
+     "quem": "Acusação, segundo o Le Monde"
+    },
+    {
+     "texto": "O veredito é uma vitória dos promotores federais após oito anos de batalha judicial.",
+     "quem": "Financial Times"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "No Brasil, a condenação foi noticiada por Folha, Valor, O Globo e Gazeta do Povo.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "afp",
+     "titulo": "New York jury convicts Huawei of stealing trade secrets",
+     "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+     "angulo": "Notícia de agência sobre o veredito (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Huawei é condenada nos EUA por roubo de segredos comerciais e fraudes envolvendo o Irã",
+     "url": "https://www.gazetadopovo.com.br/mundo/huawei-e-condenada-nos-eua-por-roubo-de-segredos-comerciais-e-fraudes-envolvendo-o-ira/",
+     "angulo": "Destaca as fraudes envolvendo o Irã.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+     "angulo": "Ressalta a absolvição na acusação mais grave (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Justiça dos EUA condena Huawei por roubar segredos comerciais, fraude bancária e outros oito crimes",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/justica-dos-eua-condena-huawei-por-roubar-segredos-comerciais-fraude-bancaria-e-outros-oito-crimes.shtml",
+     "angulo": "Lista os crimes pelos quais a empresa foi condenada.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-25"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+     "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+     "angulo": "Veredito como vitória da promotoria após oito anos (em inglês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Le chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis, après huit ans de procédure",
+     "url": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+     "angulo": "Detalha a tentativa de recrutar funcionários de concorrentes (em francês).",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Huawei é condenada nos EUA por fraude bancária, violações de sanções e roubo de segredos comerciais",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/24/huawei-condenada-nos-eua-por-fraude-bancria-violaes-de-sanes-e-roubo-de-segredos-comerciais.ghtml",
+     "angulo": "Notícia do veredito em Nova York.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-24"
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-25T08:59:47+00:00",
+ "atualizado_em": "2026-11-26T08:59:33+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-26",
+   "arquivo": "data/edicoes/2026-11-26.json",
+   "historias": 9,
+   "gerado_em": "2026-11-26T05:59:32-03:00",
+   "manchete": "EUA propõem tarifa de 10% sobre aviões brasileiros e sobretaxa ao açúcar; ações da Embraer caem"
+  },
   {
    "data": "2026-11-25",
    "arquivo": "data/edicoes/2026-11-25.json",
