@@ -1,0 +1,1543 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-27",
+ "gerado_em": "2026-11-27T06:03:13-03:00",
+ "historias": [
+  {
+   "id": "trabuco-aceita-a-fazenda-e-bolsa-sobe-6-mas-bancada-do-pt-resiste",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Trabuco aceita comandar a Fazenda no Lula 4; Bolsa sobe 6% e bancada do PT resiste",
+   "lide": "O presidente do conselho do Bradesco, Luiz Carlos Trabuco Cappi, 75, aceitou o convite de Lula para ser ministro da Fazenda a partir de 2027, e o Planalto confirmou em nota. O mercado reagiu com a maior alta da Bolsa desde o primeiro turno, enquanto o líder do PT na Câmara disse que o banqueiro 'pode não ser a melhor opção'.",
+   "fatos": [
+    {
+     "texto": "O Palácio do Planalto confirmou em nota que Trabuco aceitou o convite, depois de reunião com Lula no Palácio da Alvorada na quinta-feira (26); o ministro Dario Durigan e o ministro do Planejamento, Bruno Moretti, foram chamados ao encontro.",
+     "base": "nota do Planalto; 3 fontes independentes (Agência Brasil, g1, O Antagonista)"
+    },
+    {
+     "texto": "O Ibovespa subiu cerca de 6% na quinta-feira, a maior alta diária desde o primeiro turno, e o dólar caiu para cerca de R$ 5,74.",
+     "base": "3 fontes independentes (Agência Brasil, g1, Clarín)"
+    },
+    {
+     "texto": "O líder do PT na Câmara, Pedro Uczai, disse que Trabuco 'pode não ser a melhor opção', e a bancada rejeitou em reunião interna um 'ajuste fiscal 2'.",
+     "base": "3 fontes independentes (Estadão, Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "O deputado Lindbergh Farias (PT-RJ) comparou a escolha à de Joaquim Levy por Dilma Rousseff em 2014.",
+     "base": "2 fontes independentes (Folha, CartaCapital)"
+    },
+    {
+     "texto": "Os presidentes do Senado, Davi Alcolumbre, e da Câmara, Hugo Motta, elogiaram a escolha.",
+     "base": "2 fontes independentes (Folha, O Antagonista)"
+    },
+    {
+     "texto": "Antes do anúncio, Durigan disse que o novo pacote fiscal deve rever supersalários e regras de aposentadoria de militares.",
+     "base": "3 fontes independentes (Folha, Estadão, Fórum)"
+    },
+    {
+     "texto": "Trabuco trabalha no Bradesco desde os 17 anos, é formado em filosofia e recusou em 2014 convite para a Fazenda de Dilma Rousseff.",
+     "base": "3 fontes independentes (Folha, Exame, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Trabuco não repete o perfil de Joaquim Levy e dá margem à agenda social de Lula.",
+     "quem": "Cientista político ouvido pelo Brasil de Fato"
+    },
+    {
+     "texto": "A resistência da esquerda ao nome será contida e bem menor que a enfrentada por Levy.",
+     "quem": "Planalto, segundo a Folha"
+    },
+    {
+     "texto": "Ortodoxia fiscal e petismo não cabem na mesma frase, com ou sem Trabuco.",
+     "quem": "Rodrigo Constantino (Gazeta do Povo, opinião)"
+    },
+    {
+     "texto": "O efeito da indicação dependerá da autonomia que o ministro terá para conduzir ajustes e conter a dívida.",
+     "quem": "Jovem Pan (análise)"
+    },
+    {
+     "texto": "O 'efeito Trabuco' no mercado é uma correção de exagero anterior.",
+     "quem": "CEO do BNP Paribas no Brasil, ao NeoFeed"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "O Planalto confirmou a escolha em nota e Durigan prometeu apoio à transição; aliados no Congresso falam em busca de crescimento, mas a bancada do PT rejeita um segundo ajuste fiscal.",
+    "oposicao": "Flávio Bolsonaro ironizou que Lula 'virou Faria Limer', e colunistas de direita duvidam que o governo aceite cortar gastos."
+   },
+   "visao_de_fora": "Clarín falou em 'euforia' no Brasil com a Bolsa subindo mais de 6%; La Nación disse que os mercados receberam o nome com entusiasmo, e a Bloomberg descreveu a escolha como aposta para recuperar a confiança dos investidores na política fiscal.",
+   "ponto_cego": null,
+   "continua": {
+    "data": "2026-11-26",
+    "id": "lula-convida-trabuco-para-o-governo-e-haddad-fica-fora-do-lula-4",
+    "titulo": "Lula convida Trabuco, do Bradesco, para o governo; Haddad decide ficar fora do Lula 4"
+   },
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto",
+     "angulo": "Confirmação oficial: nota do Planalto e reunião no Alvorada com Durigan e Moretti.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Trabuco vem aí: Lula vai topar cortar gastos?",
+     "url": "https://www.gazetadopovo.com.br/rodrigo-constantino/trabuco-vem-ai-lula-vai-topar-cortar-gastos/",
+     "angulo": "Coluna de Rodrigo Constantino: duvida que o PT aceite ortodoxia fiscal.",
+     "tipo": "opiniao",
+     "enquadramento": "oposicao",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Líder do PT na Câmara diz que Trabuco na Fazenda ‘não é a melhor opção’ e rechaça ‘ajuste fiscal 2′",
+     "url": "https://www.estadao.com.br/economia/lider-do-pt-na-camara-diz-que-trabuco-na-fazenda-nao-e-a-melhor-opcao-e-rechaca-ajuste-fiscal-2/",
+     "angulo": "Bancada do PT rejeita 'ajuste fiscal 2' em reunião com André Lara Resende e Moretti.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Trabuco não repete perfil de Joaquim Levy e dá margem à agenda social de Lula, avalia cientista político",
+     "url": "https://www.brasildefato.com.br/2026/11/26/trabuco-nao-repete-perfil-de-joaquim-levy-e-da-margem-a-agenda-social-de-lula-avalia-cientista-politico/",
+     "angulo": "Cientista político vê margem para a agenda social; ouve só um lado.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml",
+     "angulo": "Reação do mercado: Ibovespa sobe 6% e dólar cai.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "“E o Lula virou ‘Faria Limer'”, diz Flávio após escolha por Trabuco",
+     "url": "https://oantagonista.com.br/brasil/e-o-lula-virou-faria-limer-diz-flavio-apos-escolha-por-trabuco/",
+     "angulo": "Reação de Flávio Bolsonaro à escolha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lindbergh compara escolha de Trabuco para a Fazenda à de Levy no governo Dilma",
+     "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lindbergh-compara-escolha-de-trabuco-para-a-fazenda-a-de-levy-no-governo-dilma.shtml",
+     "angulo": "Desconfiança na esquerda do PT, com a comparação a Levy.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Lula acerta ao escolher Trabuco, mas terá de dar apoio político ao ministro da Fazenda, diz Rubens Ricupero",
+     "url": "https://www.cartacapital.com.br/economia/lula-acerta-ao-escolher-trabuco-mas-tera-de-dar-apoio-politico-ao-ministro-da-fazenda-diz-rubens-ricupero/",
+     "angulo": "Ex-ministro da Fazenda elogia a escolha e diz que Lula terá de dar apoio político.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "O que esperar com Trabuco na Fazenda?",
+     "url": "https://jovempan.com.br/colunistas/denise-campos/o-que-esperar-com-trabuco-na-fazenda/",
+     "angulo": "Análise: escolha sinaliza mudança de orientação, mas depende de autonomia.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda",
+     "url": "https://iclnoticias.com.br/trabuco-aceita-convite-lula-ministerio-fazenda/",
+     "angulo": "Bastidores do aceite e da primeira leva de ministros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Euforia en Brasil: el nuevo ministro de Hacienda de Lula será un poderoso banquero y la bolsa de San Pablo subió más del 6%",
+     "url": "https://www.clarin.com/mundo/euforia-brasil-bolsa-san-pablo-subio-6-expectativa-nuevo-ministro-hacienda-lula-poderoso-banquero_0_JgB35WDyTv.html",
+     "angulo": "Imprensa argentina destaca a euforia do mercado com o 'poderoso banquero'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Blog do Rovai – Trabuco na Fazenda: o que está por trás da aposta de Lula?",
+     "url": "https://revistaforum.com.br/blogs/blog-do-rovai/trabuco-fazenda-por-tras-aposta-lula/",
+     "angulo": "Blog pergunta o que está por trás da aposta de Lula e quais os riscos.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "macron-chama-carne-brasileira-de-dopada-e-governo-ve-protecionismo",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Macron chama carne brasileira de 'dopada'; governo e exportadores falam em desinformação",
+   "lide": "O presidente da França, Emmanuel Macron, chamou a carne brasileira de 'dopada' e comemorou a restrição da União Europeia a produtos de origem animal do Brasil. Os ministérios da Agricultura e das Relações Exteriores responderam em nota conjunta que a fala dissemina desinformação e que as restrições têm caráter protecionista.",
+   "contexto": "Desde 3 de setembro, a UE suspendeu a importação de carnes, frango, ovos, mel e pescados do Brasil, alegando falta de informações sobre o controle do uso de antimicrobianos na pecuária. Em fevereiro, um relatório da Comissão Europeia apontou falhas nos controles brasileiros que deixaram passar carne de animais tratados com o hormônio estradiol, proibido no bloco.",
+   "fatos": [
+    {
+     "texto": "Macron fez a declaração na quarta-feira (25), em reunião com representantes do setor agrícola francês no Palácio do Eliseu, e defendeu que a proteína brasileira seja barrada do bloco.",
+     "base": "3 fontes independentes (g1, Estadão, Jovem Pan)"
+    },
+    {
+     "texto": "Em nota conjunta, os ministérios da Agricultura e das Relações Exteriores disseram que a fala dissemina desinformação, que as restrições europeias têm caráter protecionista e que o país pode recorrer a instrumentos para defender os exportadores.",
+     "base": "nota conjunta dos ministérios; 3 fontes independentes (CNN Brasil, Estadão, Band)"
+    },
+    {
+     "texto": "A ABPA classificou a fala como 'grave e inaceitável', e a Abiec contestou a justificativa sanitária para as restrições.",
+     "base": "3 fontes independentes (g1, Folha, Gazeta do Povo)"
+    },
+    {
+     "texto": "A Comissão Europeia deu aval aos controles sanitários brasileiros na produção de frango e mel, e a retomada dessas importações ainda está em avaliação.",
+     "base": "3 fontes independentes (SBT, g1, Exame)"
+    },
+    {
+     "texto": "A senadora Tereza Cristina (PP-MS), ex-ministra da Agricultura, reagiu dizendo 'não permitiremos vilanias'.",
+     "base": "Diário do Poder"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "As restrições têm motivação política e protecionista, e não sanitária.",
+     "quem": "Governo brasileiro e associações de exportadores"
+    },
+    {
+     "texto": "O governo demorou mais de um dia para reagir e se limitou a 'lamentar' a fala.",
+     "quem": "Diário do Poder"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A carne brasileira é 'dopada'.",
+     "rotulo": "Exagerado",
+     "explicacao": "Relatório da própria Comissão Europeia, em fevereiro, achou falhas que deixaram passar carne de animais tratados com estradiol, mas a suspensão em vigor se baseia na falta de informações sobre antimicrobianos, não em contaminação detectada, e a auditoria mais recente aprovou os controles de frango e mel. Generalizar para toda a carne do país vai além do que as auditorias mostram.",
+     "onde_circula": "declaração de Macron"
+    }
+   ],
+   "enquadramentos": {
+    "governo": "O governo trata a fala como desinformação e protecionismo e diz que pode acionar instrumentos de defesa comercial.",
+    "oposicao": "Parlamentares ligados ao agro, como Tereza Cristina, reagiram em tom duro, e veículos de direita criticaram a demora do governo em responder."
+   },
+   "visao_de_fora": "Nos feeds de Le Monde e Le Figaro, a cobertura de Macron na quinta tratou do orçamento europeu e da disputa com Marine Le Pen; a fala sobre a carne brasileira não foi encontrada nos feeds nem na busca em francês.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Carne brasileira 'dopada'? Auditoria da própria União Europeia contraria declaração de Macron",
+     "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/27/carne-brasileira-dopada-auditoria-da-propria-uniao-europeia-contraria-declaracao-de-macron.ghtml",
+     "angulo": "Confronta a fala com as auditorias da Comissão Europeia; não cita o relatório de fevereiro sobre hormônios.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "diariodopoder",
+     "titulo": "Após relutar, governo apenas ‘lamenta’ mentira ultrajante de Macron contra carne brasileira",
+     "url": "https://diariodopoder.com.br/dinheiro/ttc-dinheiro/apos-relutar-governo-apenas-lamenta-mentira-ultrajante-de-macron-contra-carne-brasileira",
+     "angulo": "Chama a fala de 'mentira ultrajante' e critica a demora do governo.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Macron chama carne brasileira de ‘dopada’ e fala em barrar produto; exportadores reagem",
+     "url": "https://www.estadao.com.br/economia/agronegocios/macron-carne-brasileira-dopada-barrar-produto-exportadores-reagem/",
+     "angulo": "Relata a fala completa, inclusive as críticas ao acordo Mercosul-UE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Governo brasileiro rebate Macron e afirma que presidente francês dissemina desinformação sobre carne nacional",
+     "url": "https://www.brasil247.com/brasil/governo-brasileiro-rebate-macron-e-afirma-que-presidente-frances-dissemina-desinformacao-sobre-carne-nacional/",
+     "angulo": "Destaca a nota do governo e a acusação de protecionismo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Macron diz que carne brasileira é 'dopada' e gera revolta de representantes do agro",
+     "url": "https://c-level.folha.uol.com.br/agro/2026/11/macron-diz-que-carne-e-dopada-e-gera-revolta-de-representantes-do-agro.shtml",
+     "angulo": "Reação de ABPA, Abiec e CNA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Macron chama carne brasileira de ‘dopada’ e celebra veto europeu a importações",
+     "url": "https://jovempan.com.br/mundo/macron-chama-carne-brasileira-de-dopada-e-celebra-veto-europeu-a-importacoes/",
+     "angulo": "Fala de Macron e reação da Abiec.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Fala de Macron contrasta com auditoria da própria UE",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/fala-de-macron-contrasta-com-auditoria-da-propria-ue",
+     "angulo": "Mostra que a Comissão aprovou controles de frango e mel e adiou a votação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Macron inventa que carne brasileira é “dopada” e revolta pecuaristas",
+     "url": "https://www.diariodocentrodomundo.com.br/macron-inventa-que-carne-brasileira-e-dopada-e-revolta-pecuaristas/",
+     "angulo": "Trata a fala como invenção, sem citar os achados europeus sobre hormônios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Macron chama carne brasileira de “dopada”; exportadores rebatem",
+     "url": "https://www.gazetadopovo.com.br/agronegocio/macron-carne-brasileira-dopada/",
+     "angulo": "Abiec contesta a justificativa sanitária da restrição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Ministério da Agricultura rebate Macron por críticas à carne do Brasil",
+     "url": "https://www.cnnbrasil.com.br/agro/ministerio-da-agricultura-rebate-macron-por-criticas-a-carne-do-brasil/",
+     "angulo": "Nota conjunta de Agricultura e Itamaraty, com possível uso de instrumentos de defesa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Governo e produtores repudiam crítica de Macron à carne brasileira",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira",
+     "angulo": "Versão oficial: governo e produtores repudiam a fala.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "israel-ameaca-deslocar-mais-1-milhao-de-palestinos-em-gaza",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Israel ameaça deslocar mais 1 milhão de palestinos em Gaza se o Hamas não entregar as armas",
+   "lide": "O ministro da Defesa de Israel, Israel Katz, ameaçou retomar grandes operações e deslocar mais um milhão de palestinos se o Hamas não se desarmar voluntariamente. Na mesma quinta-feira, ataques israelenses mataram ao menos oito pessoas, entre elas o terceiro dirigente do Hamas morto em três dias, apesar do cessar-fogo.",
+   "contexto": "O cessar-fogo em Gaza foi firmado em outubro de 2025, dentro do plano de paz do presidente dos EUA, Donald Trump. O impasse está no desarmamento: o Hamas o condiciona à retirada israelense, e Israel diz que só se retira depois dele.",
+   "fatos": [
+    {
+     "texto": "Katz ameaçou deslocar forçosamente mais um milhão de palestinos se o Hamas não entregar as armas, como havia prometido.",
+     "base": "4 fontes independentes (g1, AFP, Le Monde, Jovem Pan)"
+    },
+    {
+     "texto": "Ataques israelenses mataram ao menos oito palestinos na quinta-feira, entre eles Khaled Abu Nada, vice-ministro da Educação nomeado pelo Hamas, e a mulher dele.",
+     "base": "4 fontes independentes (Folha, Estadão, BBC, CNN Brasil)"
+    },
+    {
+     "texto": "Foi o terceiro dirigente do Hamas morto em três dias, na terceira noite seguida de bombardeios.",
+     "base": "2 fontes independentes (Folha, Estadão)"
+    },
+    {
+     "texto": "O líder do Hamas, Khalil al-Hayya, chamou os ataques de 'inaceitáveis' e disse que o grupo discute como responder.",
+     "base": "3 fontes independentes (Opera Mundi, AFP, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Abu Nada supervisionava a área econômica do Hamas e gerenciava sua rede bancária e de investimentos.",
+     "quem": "Exército de Israel"
+    },
+    {
+     "texto": "O Hamas usou um hospital em Gaza como centro de interrogatório e tortura de palestinos contrários ao grupo.",
+     "quem": "Governo de Israel, segundo a Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Número de mortos nos ataques de quinta-feira.",
+     "rotulo": "Contraditório",
+     "explicacao": "Os balanços variam entre 6 (Le Monde), 8 (BBC), 9 (Folha, Estadão) e 10 (AFP), conforme a hora e os hospitais consultados.",
+     "onde_circula": "agências e veículos internacionais"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Ministro de Israel ameaça deslocar 1 milhão de palestinos em Gaza caso Hamas não entregue armas",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/26/ministro-de-israel-ameaca-deslocar-1-milhao-de-palestinos-em-gaza-caso-hamas-nao-entregue-armas.ghtml",
+     "angulo": "Notícia da ameaça de Katz, com dados da ONU sobre violência contra mulheres.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Israel amplia ataques em Gaza e mata o 3º chefe do grupo terrorista Hamas",
+     "url": "https://www.estadao.com.br/internacional/israel-amplia-ataque-gaza-mata-terceiro-chefe-hamas-npr/",
+     "angulo": "Foca na sequência de mortes de dirigentes do Hamas apesar do cessar-fogo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+     "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+     "angulo": "Mostra o efeito das chuvas de inverno sobre os deslocados e as restrições à ajuda.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Israel ameaça deslocar 1 milhão de palestinos se Hamas não entregar armas",
+     "url": "https://jovempan.com.br/mundo/israel-ameaca-deslocar-1-milhao-de-palestinos-se-hamas-nao-entregar-armas/",
+     "angulo": "Detalha a fala de Katz e o impasse sobre o desarmamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+     "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
+     "angulo": "Agência: a ameaça, condicionada à promessa de desarmamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Líder do Hamas diz estar negociando com outros grupos para responder às violações ‘inaceitáveis’ de Israel",
+     "url": "https://operamundi.uol.com.br/israel-x-palestina/lider-do-hamas-diz-estar-negociando-com-outros-grupos-para-responder-as-violacoes-inaceitaveis-de-israel/",
+     "angulo": "Versão do Hamas sobre as violações do cessar-fogo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Israel intensifica ataques em Gaza e mata 3º chefe do Hamas em 3 dias",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/israel-intensifica-ataques-em-gaza-e-mata-3o-chefe-do-hamas-em-3-dias.shtml",
+     "angulo": "Balanço dos ataques e do alvo, com números do Ministério da Saúde local.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Israel acusa Hamas de usar hospital em Gaza como centro de tortura de palestinos",
+     "url": "https://www.gazetadopovo.com.br/mundo/israel-acusa-hamas-de-usar-hospital-em-gaza-como-centro-de-tortura-de-palestinos/",
+     "angulo": "Destaca acusação israelense contra o Hamas; não trata da ameaça de deslocamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Gaza : Israel Katz, le ministre de la défense israélien, menace de déplacer un million de Palestiniens si le Hamas ne se désarme pas « volontairement »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/26/gaza-israel-katz-le-ministre-de-la-defense-israelien-menace-de-deplacer-un-million-de-palestiniens-si-le-hamas-ne-se-desarme-pas-volontairement_6815583_3210.html",
+     "angulo": "Junta a ameaça à intensificação dos ataques contra dirigentes do Hamas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Morte do dirigente e da mulher em série de ataques quase diários.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Israel mata autoridade do Hamas e outras 9 pessoas em Gaza, dizem médicos",
+     "url": "https://www.cnnbrasil.com.br/internacional/israel-mata-autoridade-do-hamas-e-outras-pessoas-em-gaza-dizem-medicos/",
+     "angulo": "Inclui a versão do Exército israelense sobre o alvo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "trump-pede-a-putin-que-recue-de-agressoes-militares-na-europa",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Trump diz ter pedido a Putin que recue de 'toda agressão militar' contra a Europa",
+   "lide": "Uma semana depois de se reunir com Vladimir Putin e Xi Jinping na China, Donald Trump disse ter pedido ao russo que retire 'toda a agressão militar contra territórios europeus', o que, segundo ele, facilitaria um acordo de paz na Ucrânia. No mesmo dia, o enviado Jared Kushner elogiou Putin e Volodimir Zelensky criticou a 'estranha' amizade entre os dois presidentes.",
+   "continua": {
+    "data": "2026-11-20",
+    "id": "trump-xi-e-putin-encerram-cupula-com-declaracao-sobre-armas-nucleares",
+    "titulo": "Trump, Xi e Putin encerram a primeira cúpula a três com declaração de que guerra nuclear nunca deve ser travada"
+   },
+   "fatos": [
+    {
+     "texto": "Trump afirmou na quinta-feira (26) que pediu a Putin, no encontro na China, que retire 'toda a agressão militar' contra territórios europeus.",
+     "base": "4 fontes independentes (Folha, AFP, Jovem Pan, Opera Mundi)"
+    },
+    {
+     "texto": "Segundo Trump, o fim das incursões russas facilitaria um acordo para encerrar a guerra na Ucrânia.",
+     "base": "3 fontes independentes (Jovem Pan, La Nación, Página 12)"
+    },
+    {
+     "texto": "O enviado especial Jared Kushner disse em entrevista que Putin mostrou 'contenção' por não usar armas nucleares e o chamou de 'grande mestre' da política.",
+     "base": "2 fontes independentes (New York Post, Gazeta do Povo)"
+    },
+    {
+     "texto": "Zelensky disse que a Rússia prepara um novo grande ataque contra a infraestrutura de energia da Ucrânia.",
+     "base": "2 fontes independentes (Estadão, Al Jazeera)"
+    },
+    {
+     "texto": "Em entrevista à BBC, Zelensky criticou a 'estranha' amizade entre Trump e Putin e disse que os EUA não pressionam a Rússia o suficiente.",
+     "base": "entrevista à BBC"
+    },
+    {
+     "texto": "Trump disse que Putin pode participar da cúpula do G20 na Flórida, em dezembro, se quiser.",
+     "base": "2 fontes independentes (New York Post, CNN Brasil)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A fala representa uma mudança de tom de Trump em relação ao líder russo, a quem chamou de amigo uma semana antes.",
+     "quem": "AFP"
+    },
+    {
+     "texto": "Zelensky busca provocar um confronto entre a Rússia e a Otan.",
+     "quem": "Kremlin, segundo o Página 12"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Trump agora pede para Putin recuar de agressões na Europa",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-agora-pede-para-putin-recuar-de-agressoes-na-europa.shtml",
+     "angulo": "Contrasta o pedido com o encontro a sós com Putin uma semana antes.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "nypost",
+     "titulo": "Putin, ‘the grandmaster of politics,’ showed restraint by not going nuclear on Ukraine, Kushner says",
+     "url": "https://nypost.com/2026/11/26/us-news/vladimir-putin-the-grandmaster-of-politics-showed-restraint-by-not-going-nuclear-on-ukraine-jared-kushner-says/",
+     "angulo": "Foca nos elogios de Kushner a Putin, a quem chama de 'tirano'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Trump diz ter pedido a Putin que ‘recue qualquer agressão militar na Europa’",
+     "url": "https://operamundi.uol.com.br/guerra-na-ucrania/trump-diz-ter-pedido-a-putin-que-recue-qualquer-agressao-militar-na-europa/",
+     "angulo": "Primeira vez que Trump revela detalhes do encontro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Trump urges Putin to end 'military aggression' in Europe",
+     "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
+     "angulo": "Agência: destaca a mudança de tom.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Trump diz ter pedido que Putin coloque fim à ‘agressão militar’ contra a Europa",
+     "url": "https://jovempan.com.br/mundo/trump-diz-ter-pedido-que-putin-coloque-fim-a-agressao-militar-contra-a-europa/",
+     "angulo": "Liga o pedido às incursões no espaço aéreo europeu.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Entrevista em que Zelensky critica a amizade Trump-Putin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Trump le pidió a Putin poner fin a la agresión militar contra Europa",
+     "url": "https://www.pagina12.com.ar/2026/11/26/trump-le-pidio-a-putin-poner-fin-a-la-agresion-militar-contra-europa/",
+     "angulo": "Inclui a acusação do Kremlin contra Zelensky.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Genro de Trump chama Putin de “moderado”, “grande mestre” e “figura histórica”",
+     "url": "https://www.gazetadopovo.com.br/mundo/genro-trump-chama-putin-moderado-grande-mestre-figura-historica/",
+     "angulo": "Elogios de Kushner a Putin.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Zelenski diz que Rússia prepara nova ofensiva contra infraestrutura energética da Ucrânia",
+     "url": "https://www.estadao.com.br/internacional/zelenski-diz-russia-prepara-nova-ofensiva-contra-infraestrutura-energetica-ucrania-npr/",
+     "angulo": "Alerta de Zelensky sobre novo ataque à infraestrutura energética.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+     "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+     "angulo": "Junta o alerta de Zelensky ao pedido de Trump.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Trump pede a Putin que interrompa ataques 'por toda a Europa': 'É um banho de sangue'",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-pede-a-putin-que-pare-banho-de-sangue-com-ataques-pela-europa.ghtml",
+     "angulo": "Notícia do pedido, com a frase de Trump sobre a guerra.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Trump diz que Putin pode participar da cúpula do G20 na Flórida",
+     "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-putin-pode-participar-da-cupula-do-g20-na-florida/",
+     "angulo": "Trump aceita a presença de Putin no G20.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "operacao-mira-fictor-que-tentou-comprar-o-master-e-bloqueia-r-4-3-bi",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Operação mira grupo Fictor, que tentou comprar o Master, e Justiça bloqueia até R$ 4,3 bilhões",
+   "lide": "A Polícia Civil e o Ministério Público de São Paulo deflagraram a Operação Dinheiro Fictício contra o grupo Fictor, suspeito de captar mais de R$ 4 bilhões de investidores com a promessa de rendimentos fixos no agronegócio. O grupo ganhou projeção em 2025 ao anunciar a intenção de comprar o Banco Master.",
+   "fatos": [
+    {
+     "texto": "A Justiça determinou o bloqueio de até R$ 4,3 bilhões em bens de 233 investigados na operação, deflagrada na quinta-feira (26).",
+     "base": "3 fontes independentes (Estadão, Folha, CNN Brasil)"
+    },
+    {
+     "texto": "Segundo a investigação, o grupo prometia retornos de até 3% ao mês a investidores, principalmente pessoas físicas.",
+     "base": "3 fontes independentes (Folha, Brasil de Fato, Metrópoles)"
+    },
+    {
+     "texto": "O Ministério Público afirma que o CEO Rafael Góis inflou o capital da holding de R$ 4 milhões para quase R$ 1 bilhão sem aporte real.",
+     "base": "3 fontes independentes (Estadão, InfoMoney, Jovem Pan)"
+    },
+    {
+     "texto": "O grupo anunciou em novembro de 2025 a intenção de comprar o Banco Master.",
+     "base": "3 fontes independentes (g1, Folha, SBT)"
+    },
+    {
+     "texto": "A Fictor Alimentos, hoje Fasa, informou ao mercado que Góis prestou esclarecimentos à polícia e teve o celular apreendido.",
+     "base": "comunicado da empresa ao mercado (Valor)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "No máximo 10% dos cerca de R$ 4,3 bilhões captados foram de fato aplicados no agronegócio, num esquema semelhante a pirâmide.",
+     "quem": "Polícia Civil, segundo Valor e O Globo"
+    },
+    {
+     "texto": "Cerca de 13 mil credores tiveram prejuízo de R$ 4 bilhões.",
+     "quem": "Investigadores, ao g1"
+    },
+    {
+     "texto": "O responsável pela área de prevenção à lavagem de dinheiro do grupo escondeu do Coaf e do Banco Central movimentações de R$ 516 milhões.",
+     "quem": "Ministério Público de SP, segundo a Revista Oeste"
+    },
+    {
+     "texto": "Um ex-beneficiário do auxílio emergencial foi usado como laranja em operações de R$ 316 milhões.",
+     "quem": "Ministério Público de SP, segundo o Estadão"
+    },
+    {
+     "texto": "O grupo usou a recuperação judicial para esconder a fraude e pagava investidores antigos com novos aportes.",
+     "quem": "Polícia Civil, segundo o DCM"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Polícia investiga pirâmide financeira na Fictor, com promessa de ganho de até 3% ao mês",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/como-a-fictor-teria-fabricado-faturamento-bilionario-para-atrair-investidores-segundo-o-mp-sp.shtml",
+     "angulo": "Detalha a promessa de 3% ao mês e a atração de vítimas em núcleos familiares.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Grupo Fictor, que tentou comprar Master, é alvo de operação por suspeita de captar R$ 4 bi com negócios inexistentes no agro",
+     "url": "https://www.brasildefato.com.br/2026/11/26/grupo-fictor-que-tentou-comprar-master-e-alvo-de-operacao-por-suspeita-de-captar-r-4-bi-com-falsos-investimentos-no-agronegocio/",
+     "angulo": "Foca nos contratos de rendimento fixo vendidos a pessoas físicas sem operação real.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "CEO da Fictor inflou capital da holding de R$ 4 milhões para quase R$ 1 bi sem aporte real, diz MP",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ceo-da-fictor-inflou-capital-da-holding-de-r-4-milhoes-para-quase-r-1-bi-sem-aporte-real-diz-mp/",
+     "angulo": "Acusação do MP contra o CEO sobre o capital inflado da holding.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Investigadores afirmam que Grupo Fictor deu prejuízo de R$ 4 bilhões a 13 mil clientes",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/26/investigadores-afirmam-que-grupo-fictor-deu-prejuizo-de-r-4-bilhoes-a-13-mil-clientes.ghtml",
+     "angulo": "Tamanho do prejuízo segundo os investigadores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Diretor da Fictor escondeu R$ 516 milhões do Coaf e do Banco Central, aponta MP",
+     "url": "https://revistaoeste.com/economia/diretor-da-fictor-escondeu-r-516-milhoes-do-coaf-e-do-banco-central-aponta-mp/",
+     "angulo": "Foca no diretor de prevenção à lavagem e na omissão ao Coaf.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Fictor Alimentos diz que CEO prestou esclarecimentos à polícia e teve celular apreendido",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/26/fictor-alimentos-diz-que-ceo-prestou-esclarecimentos-polcia-e-teve-celular-apreendido.ghtml",
+     "angulo": "Versão da empresa em comunicado ao mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Fictor usou recuperação judicial para esconder fraude contra investidores",
+     "url": "https://www.diariodocentrodomundo.com.br/fictor-usou-recuperacao-judicial-para-esconder-fraude-contra-investidores/",
+     "angulo": "Destaca o uso da recuperação judicial pelo grupo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "CEO da Fictor é suspeito de comandar fraude de R$ 4,3 bilhões, aponta MP",
+     "url": "https://jovempan.com.br/brasil/ceo-da-fictor-e-suspeito-de-comandar-fraude-de-r-43-bilhoes-aponta-mp/",
+     "angulo": "Acusações do MP contra o CEO, incluindo R$ 177 milhões recebidos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Entenda operação que investiga fraude bilionária envolvendo o Grupo Fictor",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/entenda-operacao-que-investiga-fraude-bilionaria-envolvendo-o-grupo-fictor/",
+     "angulo": "Explicador da operação e dos 233 investigados.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Operação da Polícia de SP mira o Grupo Fictor, que tentou comprar o Banco Master",
+     "url": "https://www.cartacapital.com.br/economia/operacao-da-policia-de-sp-mira-o-grupo-fictor-que-tentou-comprar-o-banco-master/",
+     "angulo": "Notícia da operação e do bloqueio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Operação contra grupo que tentou comprar o Master bloqueia R$ 4,3 bi em bens",
+     "url": "https://www.gazetadopovo.com.br/brasil/operacao-contra-grupo-tentou-comprar-master-bloqueia-4-3-bi/",
+     "angulo": "Notícia da operação com as suspeitas de lavagem e ocultação de patrimônio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "comissao-aprova-previa-do-orcamento-2027-com-corte-para-emendas",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Comissão aprova prévia do Orçamento de 2027 com corte de R$ 2 bilhões do governo para emendas",
+   "lide": "A Comissão Mista de Orçamento aprovou o relatório preliminar do senador Eduardo Braga (MDB-AM) para 2027, que corta R$ 2,09 bilhões de despesas do Executivo para reforçar emendas parlamentares e reduz a previsão de crescimento. O texto orienta os relatórios setoriais; a votação final está prevista para meados de dezembro.",
+   "fatos": [
+    {
+     "texto": "A CMO aprovou na quinta-feira (26) o relatório preliminar do projeto de Orçamento de 2027, do senador Eduardo Braga.",
+     "base": "Agência Câmara; 2 fontes independentes (Estadão, Valor)"
+    },
+    {
+     "texto": "O parecer corta R$ 2,09 bilhões em despesas do Executivo para atender emendas parlamentares.",
+     "base": "4 fontes independentes (Valor, Congresso em Foco, Band, Brasil 247)"
+    },
+    {
+     "texto": "O texto mantém os R$ 44,8 bilhões em emendas previstos pelo governo e acrescenta R$ 12,8 bilhões para emendas de comissão, o que leva o total a cerca de R$ 57,5 bilhões.",
+     "base": "3 fontes independentes (Folha, SBT, Jovem Pan)"
+    },
+    {
+     "texto": "O relatório reduz a previsão de crescimento do PIB em 2027 para 1,8%.",
+     "base": "2 fontes independentes (Estadão, Brasil 247)"
+    },
+    {
+     "texto": "Foram apresentadas 8.212 emendas às despesas, num total de R$ 286,3 bilhões.",
+     "base": "Agência Câmara"
+    },
+    {
+     "texto": "O relatório prevê R$ 272,18 bilhões para a saúde e R$ 246,3 bilhões para a educação.",
+     "base": "Agência Senado"
+    },
+    {
+     "texto": "Nos Estados Unidos desde a derrota na eleição, o senador Flávio Bolsonaro (PL-RJ) indicou R$ 79,3 milhões em 14 emendas para 2027, quase R$ 40 milhões delas para forças de segurança do Rio.",
+     "base": "3 fontes independentes (Estadão, Congresso em Foco, O Antagonista)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O parecer autoriza cortes de até R$ 400 milhões na Saúde e de R$ 150 milhões em Educação e Cultura.",
+     "quem": "SBT, sobre o parecer"
+    },
+    {
+     "texto": "Faltam entre R$ 23,6 bilhões e R$ 24,9 bilhões para o Bolsa Família em 2027.",
+     "quem": "Parecer de Braga, segundo O Antagonista"
+    },
+    {
+     "texto": "Programas sociais, universidades e institutos federais terão as verbas recompostas.",
+     "quem": "Eduardo Braga, ao Congresso em Foco"
+    },
+    {
+     "texto": "As emendas parlamentares deveriam ser as primeiras atingidas por bloqueios, antes dos investimentos públicos.",
+     "quem": "PSOL e Lindbergh Farias (PT-RJ), em emendas à LDO, segundo o ICL"
+    },
+    {
+     "texto": "A saúde sobe 5,9% acima da inflação no Orçamento aprovado na comissão.",
+     "quem": "Fórum (análise)"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Valor total das emendas parlamentares em 2027.",
+     "rotulo": "Falta contexto",
+     "explicacao": "Parte dos veículos fala em R$ 44,8 bilhões (o valor previsto pelo governo) e outra em R$ 57,5 bilhões; a diferença são os R$ 12,8 bilhões em emendas de comissão acrescentados pelo relatório.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "agenciacamara",
+     "titulo": "Comissão Mista aprova relatório preliminar do Orçamento de 2027",
+     "url": "https://www.camara.leg.br/noticias/1323430-comissao-mista-aprova-relatorio-preliminar-do-orcamento-de-2027",
+     "angulo": "Registro oficial da votação e do volume de emendas.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Congresso tira R$ 2,1 bi do Executivo para turbinar emendas",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/congresso-tira-r-2-1-bi-do-executivo-para-turbinar-emendas",
+     "angulo": "Destaca os cortes na Saúde e na Educação para turbinar emendas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "CMO aprova parecer preliminar do Orçamento de 2027 com cortes no Executivo",
+     "url": "https://www.brasil247.com/brasilia/cmo-aprova-parecer-preliminar-do-orcamento-de-2027-com-cortes-no-executivo/",
+     "angulo": "Resume emendas, cortes e a previsão de PIB.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Orçamento 2027: Comissão aprova relatório com PIB menor, corte de verbas e espera de novo ajuste",
+     "url": "https://www.estadao.com.br/economia/orcamento-2027-comissao-aprova-relatorio-com-pib-menor-corte-de-verbas-e-espera-de-novo-ajuste/",
+     "angulo": "Destaca a piora na expectativa de crescimento e a espera por novo ajuste.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Relatório do Orçamento prevê R$ 12,8 bi para emendas de comissão e corte de R$ 2 bi do governo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/relatorio-do-orcamento-preve-r-128-bi-para-emendas-de-comissao-e-corte-de-r-2-bi-do-governo.shtml",
+     "angulo": "Explica o acréscimo às emendas de comissão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Deputados propõem cortar emendas parlamentares antes de investimentos públicos",
+     "url": "https://iclnoticias.com.br/deputados-propoem-cortar-emendas/",
+     "angulo": "Proposta do PSOL e de Lindbergh para conter emendas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "CMO aprova parecer que aponta falta de até R$ 24,9 bi para o Bolsa Família",
+     "url": "https://oantagonista.com.br/economia/cmo-aprova-parecer-que-aponta-falta-de-ate-r-249-bi-para-o-bolsa-familia/",
+     "angulo": "Foca na lacuna do Bolsa Família apontada no parecer.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Comissão do Orçamento aprova relatório preliminar do PLOA 2027 com corte de R$ 2,09 bilhões para usar em emendas",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/26/comissao-do-orcamento-aprova-relatorio-preliminar-do-ploa-2027-com-corte-de-r-209-bilhoes-para-usar-em-emendas.ghtml",
+     "angulo": "Notícia da aprovação e do corte para emendas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "A saúde vence a inflação no Orçamento de 2027",
+     "url": "https://revistaforum.com.br/blogs/o-cafezinho/a-saude-vence-a-inflacao-no-orcamento-de-2027/",
+     "angulo": "Análise favorável aos números da saúde.",
+     "tipo": "analise",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "CMO aprova preliminar do Orçamento de 2027, com previsão de R$ 44,8 bi em emendas",
+     "url": "https://jovempan.com.br/politica/cmo-aprova-preliminar-do-orcamento-de-2027-com-previsao-de-r-448-bi-em-emendas/",
+     "angulo": "Destaca o valor de emendas e o calendário da votação final.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Há um mês nos EUA, Flávio Bolsonaro indica R$ 79,4 milhões em emendas",
+     "url": "https://www.congressoemfoco.com.br/noticia/131908/ha-um-mes-nos-eua-flavio-bolsonaro-indica-r-79-4-milhoes-em-emendas",
+     "angulo": "Emendas indicadas por Flávio Bolsonaro dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "ifi-diz-que-excecoes-elevam-cbs-de-7-para-11-3-e-setores-vao-ao-stf",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "IFI calcula que exceções elevam a CBS de 7% para 11,3%, e setores pedem ao STF adiamento",
+   "lide": "Nota técnica da Instituição Fiscal Independente, do Senado, estima que as exceções da reforma tributária acrescentam 4,3 pontos à alíquota de referência da nova contribuição federal sobre consumo, que começa em 2027. No mesmo dia, confederações do agro, do comércio e do transporte pediram ao STF que adie o início da cobrança.",
+   "fatos": [
+    {
+     "texto": "Segundo a IFI, sem alíquota zero, reduções e outras exceções, a alíquota de referência da CBS seria de 7%, e não de 11,3%.",
+     "base": "nota técnica da IFI; 3 fontes independentes (Folha, Gazeta do Povo, Valor)"
+    },
+    {
+     "texto": "A nota técnica foi entregue à assessoria do relator da reforma no Senado, Eduardo Braga (MDB-AM).",
+     "base": "Agência Senado"
+    },
+    {
+     "texto": "Confederações do agronegócio, do comércio e do transporte acionaram o STF para adiar o início da CBS e do IBS, previsto para 1º de janeiro de 2027, alegando atraso na regulamentação e pedindo prazo de 90 dias após sua publicação.",
+     "base": "3 fontes independentes (JOTA, O Globo, Brasil 247)"
+    },
+    {
+     "texto": "Braga defendeu uma alíquota da CBS com 'freio de arrumação' a partir de 2027 e monitoramento periódico, e afastou a hipótese de adiar a implantação.",
+     "base": "2 fontes independentes (Estadão, SBT)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Com a revisão de três parâmetros do cálculo, além do fim das exceções, a alíquota poderia cair pela metade.",
+     "quem": "IFI, segundo a Folha"
+    },
+    {
+     "texto": "A reforma pode pressionar a inflação em 2027 pelo repasse mais rápido de aumentos e pelos custos de adaptação das empresas.",
+     "quem": "Bernard Appy, ao Brasil 247"
+    },
+    {
+     "texto": "A alíquota da CBS deveria ficar abaixo de 11%, com 2027 sem multas e de caráter orientativo.",
+     "quem": "Deputados em reunião na Fazenda, segundo a CNN Brasil"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "agenciasenado",
+     "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
+     "angulo": "Registro oficial da entrega da nota técnica ao relator.",
+     "tipo": "fonte_primaria",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Exceções da reforma tributária elevam alíquota da CBS de 7% para 11,3%, aponta estudo",
+     "url": "https://www.gazetadopovo.com.br/economia/excecoes-da-reforma-tributaria-elevam-aliquota-da-cbs-de-7-para-113-aponta-estudo/",
+     "angulo": "Foco no peso das exceções sobre a alíquota.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "jota",
+     "titulo": "Reforma Tributária: Confederações vão ao STF para adiar início da CBS e do IBS",
+     "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-confederacoes-vao-ao-stf-para-adiar-inicio-da-cbs-e-do-ibs",
+     "angulo": "Detalha o pedido de adiamento das confederações.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alíquota da CBS na reforma tributária cairia pela metade com novo cálculo e sem exceções",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-na-reforma-tributaria-cairia-pela-metade-com-novo-calculo-e-sem-excecoes.shtml",
+     "angulo": "Destaca o cenário de alíquota pela metade com revisão de parâmetros.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Agro, comércio e transporte acionam STF para adiar etapa da reforma tributária",
+     "url": "https://www.brasil247.com/economia/agro-comercio-e-transporte-acionam-stf-para-adiar-etapa-da-reforma-tributaria/",
+     "angulo": "Ação das confederações no STF.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Relator da reforma tributária defende alíquota da CBS com ‘freio de arrumação’ a partir de 2027",
+     "url": "https://www.estadao.com.br/economia/relator-da-reforma-tributaria-defende-aliquota-da-cbs-com-freio-de-arrumacao-a-partir-de-2027/",
+     "angulo": "Posição do relator Eduardo Braga contra o adiamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
+     "angulo": "Explica a estimativa da IFI.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Órgão do Senado atribui alta de novo imposto ao Congresso",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/orgao-do-senado-atribui-alta-de-novo-imposto-ao-congresso",
+     "angulo": "Enfatiza que os benefícios aprovados pelo Congresso elevam a alíquota.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Reforma tributária pode pressionar a inflação em 2027, avalia Bernard Appy",
+     "url": "https://www.brasil247.com/economia/reforma-tributaria-pode-pressionar-a-inflacao-em-2027-avalia-bernard-appy/",
+     "angulo": "Alerta do ex-secretário sobre pressão inflacionária em 2027.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Deputados defendem alíquota da CBS abaixo de 11% em reunião na Fazenda",
+     "url": "https://www.cnnbrasil.com.br/politica/deputados-defendem-aliquota-da-cbs-abaixo-de-11-em-reuniao-na-fazenda/",
+     "angulo": "Pressão de deputados por alíquota menor.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "cleitinho-encontra-lula-pede-renegociar-divida-de-mg-e-critica-zema",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Cleitinho, que apoiou Flávio, encontra Lula e pede renegociação da dívida de Minas",
+   "lide": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), reuniu-se com Lula no Palácio da Alvorada, pediu a renegociação da dívida do estado com a União e convidou o presidente para a posse. Apoiador de Flávio Bolsonaro na eleição, ele defendeu a 'pacificação' do país e responsabilizou o antecessor, Romeu Zema, pela falta de solução para a dívida.",
+   "fatos": [
+    {
+     "texto": "Cleitinho, que apoiou Flávio Bolsonaro (PL) na eleição presidencial, reuniu-se com Lula no Palácio da Alvorada na quinta-feira (26), no primeiro encontro dos dois depois da eleição.",
+     "base": "3 fontes independentes (Folha, g1, A Tarde)"
+    },
+    {
+     "texto": "Cleitinho pediu a renegociação da dívida de Minas com a União e disse ter apresentado uma contraproposta dentro do Propag, o programa federal de renegociação das dívidas estaduais.",
+     "base": "2 fontes independentes (Folha, Valor)"
+    },
+    {
+     "texto": "A dívida do estado com a União é de cerca de R$ 188 bilhões.",
+     "base": "2 fontes independentes (CNN Brasil, Gazeta do Povo)"
+    },
+    {
+     "texto": "Cleitinho convidou Lula para a posse, em 6 de janeiro, e criticou Zema pela condução da dívida.",
+     "base": "3 fontes independentes (Brasil de Fato, Gazeta do Povo, Valor)"
+    },
+    {
+     "texto": "Lula disse que a conversa foi 'muito boa' e falou em 'parceria pelo bem do povo mineiro'.",
+     "base": "3 fontes independentes (Congresso em Foco, CNN Brasil, Brasil 247)"
+    },
+    {
+     "texto": "Cleitinho defendeu a 'pacificação' e disse que 'um país não vai prosperar dividido'.",
+     "base": "3 fontes independentes (O Antagonista, g1, DCM)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Lula deu sinalização de que vai ajudar Minas com a dívida.",
+     "quem": "Cleitinho, segundo SBT e Estado de Minas"
+    },
+    {
+     "texto": "Cleitinho pode ser o reconciliador nacional depois da eleição polarizada.",
+     "quem": "Coluna no Estadão"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": {
+    "governo": "Lula tratou o encontro como parceria institucional com Minas e chamou a conversa de 'muito boa'.",
+    "oposicao": "Cleitinho, eleito no campo da oposição, apresentou o gesto como 'pacificação' e atribuiu a Zema, também de oposição, a falta de solução para a dívida."
+   },
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais",
+     "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml",
+     "angulo": "Destaca o pedido de renegociação e o discurso de pacificação de um apoiador de Flávio.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Cleitinho convida Lula para posse no Vale do Jequitinhonha e critica calote de Zema na dívida de MG",
+     "url": "https://www.brasildefato.com.br/2026/11/26/cleitinho-convida-lula-para-posse-no-vale-do-jequitinhonha-e-critica-calote-de-zema-na-divida-de-mg/",
+     "angulo": "Enfatiza a crítica ao 'calote' de Zema e o convite para a posse.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Cleitinho responsabiliza Zema por dívida de MG e defende diálogo com Lula",
+     "url": "https://www.gazetadopovo.com.br/republica/cleitinho-responsabiliza-zema-divida-mg-defende-dialogo-lula/",
+     "angulo": "Cleitinho culpa o antecessor pela dívida de quase R$ 200 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Cleitinho encontra Lula, pede renegociação da dívida de MG e critica Zema",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/26/cleitinho-encontra-lula-pede-renegociao-da-dvida-de-mg-e-critica-zema.ghtml",
+     "angulo": "Detalha a contraproposta dentro do Propag.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Pacificador Cleitinho se encontra com Lula",
+     "url": "https://oantagonista.com.br/brasil/pacificador-cleitinho-se-encontra-com-lula/",
+     "angulo": "Destaca a defesa da pacificação pelo governador eleito.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula oferece apoio federal a Cleitinho e defende parceria “pelo bem do povo mineiro”",
+     "url": "https://www.brasil247.com/sudeste/lula-oferece-apoio-federal-a-cleitinho-e-defende-parceria-pelo-bem-do-povo-mineiro/",
+     "angulo": "Enfatiza a oferta de parceria de Lula.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "O ex-menosprezado Cleitinho, eleito governador de Minas, pode ser o reconciliador nacional",
+     "url": "https://www.estadao.com.br/politica/fabiano-lana/o-ex-menosprezado-cleitinho-eleito-governador-de-minas-pode-ser-o-reconciliador-nacional/",
+     "angulo": "Coluna: vê Cleitinho como possível reconciliador nacional.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Lula sinaliza apoio a Cleitinho: \"parceria pelo bem do povo mineiro\"",
+     "url": "https://www.congressoemfoco.com.br/noticia/131927/lula-sinaliza-apoio-a-cleitinho--parceria-pelo-bem-do-povo-mineiro",
+     "angulo": "Fala de Lula após o encontro.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Após encontrar Lula, Cleitinho diz que governo de MG se omitiu sobre dívida",
+     "url": "https://www.cnnbrasil.com.br/politica/apos-encontrar-lula-cleitinho-diz-que-governo-de-mg-se-omitiu-sobre-divida/",
+     "angulo": "Cleitinho acusa o governo de Zema de omissão; cita a dívida de R$ 188 bilhões.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "O que Lula conversou com Cleitinho, que aproveitou encontro para criticar Zema",
+     "url": "https://revistaforum.com.br/revista-forum/lula-cleitinho-encontro-zema/",
+     "angulo": "Destaca a crítica a Zema.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Após reunião, Cleitinho vê aceno de Lula sobre dívida de MG",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/apos-reuniao-cleitinho-ve-aceno-de-lula-sobre-divida-de-mg",
+     "angulo": "Cleitinho diz ter visto aceno do presidente sobre a dívida.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Cleitinho se reúne com Lula, convida petista para posse e defende 'pacificação' do país",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/26/cleitinho-se-reune-com-lula-convida-petista-para-posse-e-defende-pacificacao-do-pais.ghtml",
+     "angulo": "Notícia do encontro e do convite para a posse.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "previa-da-inflacao-desacelera-a-0-22-mas-tomate-sobe-39",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Prévia da inflação desacelera a 0,22% em novembro, mas tomate sobe quase 39%",
+   "lide": "O IPCA-15 subiu 0,22% em novembro, abaixo do de outubro e das projeções do mercado, com queda de passagens aéreas e combustíveis. Os alimentos foram a principal pressão, puxados por tomate, cebola, carnes e arroz.",
+   "fatos": [
+    {
+     "texto": "O IPCA-15 subiu 0,22% em novembro, depois de 0,32% em outubro, segundo o IBGE.",
+     "base": "dado do IBGE; 3 fontes independentes (Folha, Estadão, g1)"
+    },
+    {
+     "texto": "O resultado ficou abaixo das estimativas do mercado financeiro.",
+     "base": "2 fontes independentes (Folha, Estadão)"
+    },
+    {
+     "texto": "O tomate subiu 38,92% no mês, e a queda das passagens aéreas e da gasolina ajudou a conter o índice.",
+     "base": "3 fontes independentes (SBT, Gazeta do Povo, Estadão)"
+    },
+    {
+     "texto": "As passagens aéreas caíram 9,57% na prévia de novembro.",
+     "base": "dado do IBGE (CNN Brasil)"
+    },
+    {
+     "texto": "Em 12 meses, o IPCA-15 acumula alta de 4,64%, acima da meta de 3%.",
+     "base": "dado do IBGE (Band)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Descontos antecipados da Black Friday e a chegada de carros chineses seguraram o índice, mas não mudam a perspectiva para a inflação.",
+     "quem": "Economistas ouvidos pelo Valor"
+    },
+    {
+     "texto": "É preciso cautela com a inflação de serviços.",
+     "quem": "Economista-chefe do Banco BV, à Band"
+    },
+    {
+     "texto": "A desaceleração dá margem para o Banco Central baixar os juros, e a inflação de alimentos sob Lula ficou abaixo de um terço da registrada sob Bolsonaro.",
+     "quem": "Fórum (opinião)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "IPCA-15 desacelera a 0,22% em novembro, com alívio nas passagens aéreas e nos combustíveis",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/ipca-15-desacelera-a-022-em-novembro-com-alivio-nas-passagens-aereas-e-nos-combustiveis.shtml",
+     "angulo": "Destaca o alívio nas passagens aéreas e nos combustíveis.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Tomate dispara quase 39% e alimentos pressionam inflação de novembro",
+     "url": "https://www.gazetadopovo.com.br/economia/tomate-dispara-quase-39-alimentos-pressionam-inflacao-novembro/",
+     "angulo": "Foca na pressão dos alimentos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "O Brasil ganha margem para baixar os juros",
+     "url": "https://revistaforum.com.br/blogs/o-cafezinho/o-brasil-ganha-margem-para-baixar-os-juros/",
+     "angulo": "Opinião: dado abre espaço para cortar juros e compara a inflação de alimentos com o governo Bolsonaro.",
+     "tipo": "opiniao",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "IPCA-15 sobe 0,22% em novembro, com alta de alimentos e queda de combustíveis e passagens aéreas",
+     "url": "https://www.estadao.com.br/economia/ibge-ipca-15-previa-inflacao-novembro-2026/",
+     "angulo": "Destaca que o resultado veio abaixo do piso das estimativas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Preço dos alimentos: o que ficou mais caro e o que barateou na prévia da inflação de novembro",
+     "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-novembro.ghtml",
+     "angulo": "Lista os alimentos que subiram e caíram.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "band",
+     "titulo": "IPCA-15 de novembro surpreende, mas inflação segue distante da meta de 3%",
+     "url": "https://www.band.com.br/agro/ipca-15-de-novembro-surpreende-mas-inflacao-segue-distante-da-meta-de-3",
+     "angulo": "Lembra que o acumulado em 12 meses segue longe da meta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/26/cabo-de-guerra-entre-black-friday-e-el-nio-segura-ipca-15-em-novembro-mas-no-muda-perspectiva-dizem-economistas.ghtml",
+     "angulo": "Economistas veem efeito de Black Friday e carros chineses.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Prévia da inflação sobe 0,22% em novembro, diz IBGE",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/previa-da-inflacao-sobe-0-22-em-novembro-diz-ibge",
+     "angulo": "Notícia do dado com o tomate em destaque.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Preço das passagens aéreas cai 9,57%, mas IPCA sobe em novembro",
+     "url": "https://www.cnnbrasil.com.br/infra/energia-eletrica-e-saneamento-recuam-mas-ipca-15-sobe-022/",
+     "angulo": "Foca na queda das passagens aéreas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Prévia da inflação desacelera para 0,22% em novembro, impulsionado por alimentos, indica IBGE",
+     "url": "https://www.brasil247.com/economia/previa-da-inflacao-desacelera-para-022-em-novembro-impulsionado-por-alimentos-indica-ibge/",
+     "angulo": "Notícia do dado com ênfase na desaceleração.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "IPCA-15 desacelera e sobe 0,22% em novembro",
+     "url": "https://www.cartacapital.com.br/economia/ipca-15-desacelera-e-sobe-022-em-novembro/",
+     "angulo": "Notícia do dado do IBGE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "navio-tanque-com-7-mil-toneladas-de-diesel-vira-perto-de-ibiza",
+   "editoria": "Meio ambiente",
+   "escopo": "mundo",
+   "titulo": "Navio-tanque com até 7 mil toneladas de diesel vira perto de Ibiza e deixa um morto",
+   "lide": "O Med Emre, navio de produtos químicos com bandeira de Malta, virou no Mediterrâneo a cerca de 56 km da costa de Ibiza com até 7 mil toneladas de diesel. A Espanha acionou um plano contra poluição e ainda avalia o risco de vazamento.",
+   "fatos": [
+    {
+     "texto": "O Med Emre, com bandeira de Malta, viajava de Algeciras para Barcelona e virou a cerca de 56 km da costa de Ibiza.",
+     "base": "comunicado dos serviços de emergência das Baleares; 2 fontes independentes (Estadão, SBT)"
+    },
+    {
+     "texto": "Os 17 tripulantes foram resgatados, e um deles morreu depois no hospital.",
+     "base": "3 fontes independentes (DW, Le Monde, Euronews)"
+    },
+    {
+     "texto": "As autoridades espanholas acionaram um plano contra poluição e enviaram o navio de controle Clara Campoamor ao local.",
+     "base": "3 fontes independentes (g1, Le Figaro, DW)"
+    },
+    {
+     "texto": "Os possíveis danos ambientais ainda estão sendo avaliados pelo serviço de salvamento marítimo da Espanha.",
+     "base": "3 fontes independentes (BBC, BBC Brasil, Le Monde)"
+    }
+   ],
+   "inferencias": [],
+   "em_disputa": [
+    {
+     "alegacao": "O navio afundou.",
+     "rotulo": "Contraditório",
+     "explicacao": "Parte dos veículos diz que o navio afundou; outros dizem que virou e ficou parcialmente submerso. Os relatos mais recentes falam em embarcação virada, com a carga ainda a bordo.",
+     "onde_circula": "imprensa brasileira e internacional"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "estadao",
+     "titulo": "Navio com 7 mil toneladas de óleo diesel afunda perto de Ibiza e deixa um morto",
+     "url": "https://www.estadao.com.br/internacional/navio-com-7-mil-toneladas-de-oleo-diesel-afunda-perto-de-ibiza-e-deixa-um-morto-npr/",
+     "angulo": "Dá rota, bandeira e distância da costa, citando o comunicado oficial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "lefigaro",
+     "titulo": "Au large d’Ibiza, quels risques présentent les 7000 tonnes de carburant ?",
+     "url": "https://www.lefigaro.fr/sciences/au-large-d-ibiza-quels-risques-presentent-les-7000-tonnes-de-carburant-20261126",
+     "angulo": "Explica os riscos ambientais das 7 mil toneladas de combustível.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza",
+     "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/espanha-avalia-risco-ambiental-apos-navio-tanque-com-7-mil-toneladas-de-diesel-virar-perto-de-ibiza.ghtml",
+     "angulo": "Destaca o envio do navio antipoluição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "aljazeera",
+     "titulo": "Diesel tanker capsizes near Ibiza, killing crew member",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+     "angulo": "Imagens aéreas do navio virado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Navio com toneladas de óleo afunda em Ibiza e deixa morto",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/navio-com-toneladas-de-oleo-afunda-em-ibiza-e-deixa-morto",
+     "angulo": "Informa que o navio ficou parcialmente submerso.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "dw",
+     "titulo": "Crew member dies after diesel tanker sinks off Ibiza coast",
+     "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-world-4025-xml-mrss",
+     "angulo": "Resgate da tripulação e plano de contingência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "lemonde",
+     "titulo": "Espagne : un pétrolier chargé de diesel coule au large d’Ibiza, faisant un mort",
+     "url": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html",
+     "angulo": "Resgate da tripulação e avaliação dos danos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "bbc",
+     "titulo": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+     "angulo": "Avaliação ambiental pelo salvamento marítimo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Navio carregado de diesel vira, mata um e gera risco ambiental em Ibiza",
+     "url": "https://www.band.com.br/internacional/navio-carregado-de-diesel-vira-mata-um-e-gera-risco-ambiental-em-ibiza",
+     "angulo": "Operação de emergência para evitar vazamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    }
+   ]
+  }
+ ]
+}

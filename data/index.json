@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-26T08:59:33+00:00",
+ "atualizado_em": "2026-11-27T09:03:13+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-27",
+   "arquivo": "data/edicoes/2026-11-27.json",
+   "historias": 10,
+   "gerado_em": "2026-11-27T06:03:13-03:00",
+   "manchete": "Trabuco aceita comandar a Fazenda no Lula 4; Bolsa sobe 6% e bancada do PT resiste"
+  },
   {
    "data": "2026-11-26",
    "arquivo": "data/edicoes/2026-11-26.json",
