@@ -1,6 +1,13 @@
 {
- "atualizado_em": "2026-11-27T09:03:13+00:00",
+ "atualizado_em": "2026-11-28T09:00:33+00:00",
  "edicoes": [
+  {
+   "data": "2026-11-28",
+   "arquivo": "data/edicoes/2026-11-28.json",
+   "historias": 9,
+   "gerado_em": "2026-11-28T06:00:33-03:00",
+   "manchete": "Lula convida Camilo Santana para a Casa Civil e diz que governo 'não pode gastar dinheiro à toa'"
+  },
   {
    "data": "2026-11-27",
    "arquivo": "data/edicoes/2026-11-27.json",

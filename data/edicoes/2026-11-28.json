@@ -1,0 +1,1352 @@
+{
+ "tipo": "edicao",
+ "data": "2026-11-28",
+ "gerado_em": "2026-11-28T06:00:33-03:00",
+ "historias": [
+  {
+   "id": "lula-convida-camilo-para-a-casa-civil-e-diz-que-nao-pode-gastar-a-toa",
+   "editoria": "Política",
+   "escopo": "brasil",
+   "titulo": "Lula convida Camilo Santana para a Casa Civil e diz que governo 'não pode gastar dinheiro à toa'",
+   "lide": "Um dia depois do sim de Trabuco à Fazenda, Lula convidou o senador Camilo Santana (PT-CE) para a Casa Civil e deve manter Bruno Moretti no Planejamento. Em Niterói, o presidente defendeu ajustes nas despesas, mas negou cortes em benefícios sociais e na educação.",
+   "continua": {
+    "data": "2026-11-27",
+    "id": "trabuco-aceita-a-fazenda-e-bolsa-sobe-6-mas-bancada-do-pt-resiste",
+    "titulo": "Trabuco aceita comandar a Fazenda no Lula 4; Bolsa sobe 6% e bancada do PT resiste"
+   },
+   "fatos": [
+    {
+     "texto": "Lula convidou Camilo Santana para comandar a Casa Civil no quarto mandato, segundo fontes do governo e aliados.",
+     "base": "3 fontes independentes (g1, Folha, Jovem Pan)"
+    },
+    {
+     "texto": "Lula acertou a permanência de Bruno Moretti no Planejamento, segundo aliados.",
+     "base": "2 fontes independentes (Folha, g1)"
+    },
+    {
+     "texto": "Integrantes do governo dizem que o vice-presidente Geraldo Alckmin deve ser confirmado no novo Ministério da Segurança Pública.",
+     "base": "2 fontes independentes (Folha, Valor)"
+    },
+    {
+     "texto": "Em visita à UFF, em Niterói, Lula disse que 'não pode gastar dinheiro à toa' e que fará ajustes nas despesas, mas sem cortar benefícios sociais nem gastos com educação.",
+     "base": "4 fontes independentes (Folha, g1, Estadão, DCM)"
+    },
+    {
+     "texto": "O governo central teve superávit primário de R$ 52,3 bilhões em outubro, o melhor resultado para o mês desde 2016, mas acumula déficit de R$ 37,9 bilhões no ano.",
+     "base": "Tesouro Nacional; 3 fontes independentes (g1, SBT, Gazeta do Povo)"
+    },
+    {
+     "texto": "O dólar fechou a sexta-feira a cerca de R$ 5,51, com queda de 7% na semana.",
+     "base": "dado de mercado (g1)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Com Trabuco na Fazenda, Lula fortalece a extrema direita.",
+     "quem": "Deputado do PSOL, segundo a Jovem Pan"
+    },
+    {
+     "texto": "A permanência de Moretti é um aceno de Lula ao PT.",
+     "quem": "g1 (análise)"
+    },
+    {
+     "texto": "O governo não discute ajuste só porque o mercado quer.",
+     "quem": "Bruno Moretti, ao Poder360"
+    },
+    {
+     "texto": "O anúncio oficial de Camilo deve ficar para a próxima semana.",
+     "quem": "Estadão"
+    },
+    {
+     "texto": "Camilo ganhou força na disputa pela sucessão de Lula.",
+     "quem": "Jovem Pan"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Post compara o dólar a R$ 3,78 sob Bolsonaro com a cotação atual sob Lula.",
+     "rotulo": "Falta contexto",
+     "explicacao": "A cotação de R$ 3,78 só foi registrada nos primeiros meses do governo Bolsonaro; o post omite as variações do dólar ao longo das duas gestões.",
+     "onde_circula": "redes sociais",
+     "checagem": [
+      {
+       "nome": "Lupa",
+       "url": "https://www.agencialupa.org/jornalismo/2026/11/27/post-omite-variacoes-do-dolar-ao-comparar-gestoes-bolsonaro-e-lula/"
+      }
+     ]
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Lula convida Camilo Santana para ser ministro da Casa Civil",
+     "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml",
+     "angulo": "Notícia do convite, com base em fontes do governo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Lula acumula rombo de R$ 37,9 bilhões de janeiro a outubro",
+     "url": "https://www.gazetadopovo.com.br/economia/governo-lula-acumula-rombo-37-9-bilhoes-janeiro-outubro/",
+     "angulo": "Destaca o déficit acumulado no ano, e não o superávit de outubro.",
+     "tipo": "noticia",
+     "enquadramento": "oposicao",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula fala em ajustes, diz que não pode gastar dinheiro à toa, mas nega corte de benefícios",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-fala-em-ajustes-diz-que-nao-pode-gastar-dinheiro-a-toa-mas-nega-corte-de-beneficios.shtml",
+     "angulo": "Fala de Lula sobre ajustes sem corte de benefícios.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Lula defende ajuste fiscal e diz que governo “não pode gastar dinheiro à toa”",
+     "url": "https://www.diariodocentrodomundo.com.br/lula-defende-ajuste-fiscal-e-diz-que-governo-nao-pode-gastar-dinheiro-a-toa/",
+     "angulo": "Fala de Lula em Niterói.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Lula admite ajustes, mas nega corte de benefícios do ‘povo pobre’ em 1ª fala após escolha de Trabuco",
+     "url": "https://www.estadao.com.br/economia/lula-admite-ajustes-nega-corte-beneficios-primeira-fala-apos-escolha-trabuco/",
+     "angulo": "Primeira fala de Lula depois da escolha de Trabuco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Em visita à UFF, Lula agradece mobilização e promete ampliar investimentos em educação",
+     "url": "https://iclnoticias.com.br/em-visita-a-uff-lula-agradece-estudantes/",
+     "angulo": "Destaca a promessa de ampliar investimentos em educação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Deputado do PSOL acusa Lula de fortalecer extrema-direita com Trabuco na Fazenda",
+     "url": "https://jovempan.com.br/politica/deputado-do-psol-acusa-lula-de-fortalecer-extrema-direita-com-trabuco-na-fazenda/",
+     "angulo": "Crítica da esquerda à escolha de Trabuco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Lula promete fazer ‘o melhor mandato da vida’ em visita à UFF e agradece mobilização estudantil",
+     "url": "https://www.brasildefato.com.br/2026/11/27/lula-promete-fazer-o-melhor-mandato-da-vida-em-visita-a-uff-e-agradece-mobilizacao-estudantil/",
+     "angulo": "Visita de Lula à UFF e agradecimento à mobilização estudantil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Lula acerta permanência de Bruno Moretti no Ministério do Planejamento, dizem aliados",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-acerta-permanencia-de-bruno-moretti-no-ministerio-do-planejamento-dizem-aliados.shtml",
+     "angulo": "Moretti fica no Planejamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Camilo Santana elogia \"escolha acertada\" de Lula por Trabuco",
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/camilo-santana-elogia-escolha-acertada-de-lula-por-trabuco",
+     "angulo": "Camilo elogia a escolha de Trabuco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Governo não discute ajuste só porque mercado quer, diz Moretti",
+     "url": "https://www.poder360.com.br/poder-economia/governo-nao-discute-ajuste-so-porque-mercado-quer-diz-moretti/",
+     "angulo": "Moretti em evento do PT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Após 'sim' de Trabuco, Lula anunciará Camilo Santana na Casa Civil, Alckmin na Segurança e mais; veja próximos passos",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/27/apos-sim-de-trabuco-lula-anunciara-camilo-santana-na-casa-civil-alckmin-na-seguranca-e-mais-veja-proximos-passos.ghtml",
+     "angulo": "Próximos passos na montagem do ministério.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "desemprego-fica-em-5-1-e-iguala-minima-historica-renda-bate-recorde",
+   "editoria": "Economia",
+   "escopo": "brasil",
+   "titulo": "Desemprego fica em 5,1% e iguala a mínima histórica; rendimento médio bate recorde",
+   "lide": "A taxa de desemprego ficou em 5,1% no trimestre encerrado em outubro, igual ao menor patamar da série do IBGE, iniciada em 2012. O rendimento real médio chegou a R$ 3.812, alta de 3,5% em um ano.",
+   "fatos": [
+    {
+     "texto": "A taxa de desocupação foi de 5,1% no trimestre encerrado em outubro, igualando a mínima da série histórica, registrada em dezembro de 2025.",
+     "base": "Pnad Contínua do IBGE; 3 fontes independentes (g1, Estadão, Brasil de Fato)"
+    },
+    {
+     "texto": "No trimestre até setembro, a taxa era de 5,2%; um ano antes, de 5,4%.",
+     "base": "dado do IBGE (O Globo, Poder360)"
+    },
+    {
+     "texto": "O rendimento real habitual chegou a R$ 3.812, alta de 3,5% em um ano.",
+     "base": "dado do IBGE; 2 fontes independentes (DCM, Brasil 247)"
+    },
+    {
+     "texto": "O resultado veio em linha com as projeções do mercado.",
+     "base": "2 fontes independentes (InfoMoney, Estadão)"
+    },
+    {
+     "texto": "O país tinha cerca de 5,6 milhões de desempregados.",
+     "base": "dado do IBGE (Revista Oeste)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O país concilia crescimento econômico, geração de oportunidades e inclusão social.",
+     "quem": "Lula, segundo o Brasil 247"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "Tamanho da população ocupada.",
+     "rotulo": "Contraditório",
+     "explicacao": "Metrópoles e Brasil 247 informam recorde de 103,7 milhões de ocupados; a Jovem Pan fala em 102,5 milhões. Os números do IBGE devem ser conferidos na publicação da Pnad.",
+     "onde_circula": "imprensa"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Desemprego fica em 5,1% e iguala mínima histórica; rendimento bate recorde",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/27/desemprego-pnad-outubro.ghtml",
+     "angulo": "Notícia do dado, com destaque ao rendimento recorde.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Estável, desemprego no Brasil atinge 5,6 milhões em outubro",
+     "url": "https://revistaoeste.com/economia/estavel-desemprego-no-brasil-atinge-56-milhoes-em-outubro/",
+     "angulo": "Enfatiza a estabilidade e o número absoluto de desempregados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Taxa de desemprego fica em 5,1% no trimestre encerrado em outubro",
+     "url": "https://www.brasildefato.com.br/2026/11/27/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro/",
+     "angulo": "Notícia do dado da Pnad, com base na Agência Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Desemprego até outubro fica em 5,1%, e taxa volta ao menor patamar da série histórica",
+     "url": "https://www.estadao.com.br/economia/ibge-pnad-desemprego-outubro-2026/",
+     "angulo": "Destaca a série iniciada em 2012 e a comparação com as projeções.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Lula celebra desemprego na mínima histórica e recordes de renda e ocupação dos brasileiros",
+     "url": "https://www.brasil247.com/poder/lula-celebra-desemprego-na-minima-historica-e-recordes-de-renda-e-ocupacao-dos-brasileiros/",
+     "angulo": "Repercussão de Lula sobre os indicadores.",
+     "tipo": "noticia",
+     "enquadramento": "pro_governo",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Desemprego recua a 5,1% e mantém menor nível da série histórica em outubro, diz IBGE",
+     "url": "https://jovempan.com.br/economia/desemprego-recua-a-51-e-mantem-menor-nivel-da-serie-historica-em-outubro-diz-ibge/",
+     "angulo": "Notícia do dado; cita 102,5 milhões de ocupados.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "metropoles",
+     "titulo": "Desemprego recua para 5,1% no trimestre e iguala mínima histórica",
+     "url": "https://www.metropoles.com/brasil/desemprego-recua-para-51-no-trimestre-e-iguala-minima-historica",
+     "angulo": "Destaca a população ocupada recorde.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Rendimento real do trabalhador chega a R$ 3.812 e cresce 3,5% em um ano",
+     "url": "https://www.diariodocentrodomundo.com.br/rendimento-real-do-trabalhador-chega-a-r-3-812-e-cresce-35-em-um-ano/",
+     "angulo": "Foca no rendimento real.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "infomoney",
+     "titulo": "Brasil tem desemprego de 5,1% no tri até outubro, em linha com o esperado",
+     "url": "https://www.infomoney.com.br/economia/brasil-tem-desemprego-de-51-no-tri-ate-outubro-em-linha-com-o-esperado/",
+     "angulo": "Compara com a mediana das previsões do mercado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Desemprego cai para 5,1% no trimestre encerrado em outubro, diz IBGE",
+     "url": "https://www.poder360.com.br/poder-economia/desemprego-cai-para-51-no-trimestre-encerrado-em-outubro-diz-ibge/",
+     "angulo": "Comparação com o mesmo trimestre de 2025.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Desemprego é o menor para o trimestre em 14 anos, diz IBGE",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/desemprego-e-o-menor-para-o-trimestre-em-14-anos-diz-ibge",
+     "angulo": "Destaca o aumento de 1,1 milhão de ocupados no trimestre.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "dino-suspende-emendas-de-flavio-e-cobra-senado-sobre-mandato-nos-eua",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Dino suspende R$ 79 milhões em emendas de Flávio Bolsonaro e cobra explicações do Senado",
+   "lide": "O ministro Flávio Dino, do STF, suspendeu as 14 emendas individuais que Flávio Bolsonaro indicou ao Orçamento de 2027 dos Estados Unidos, onde o senador está há um mês. Dino deu cinco dias para o Senado explicar em que condições o mandato é exercido de fora do país.",
+   "contexto": "Em dezembro de 2025, Dino já havia barrado a execução de emendas dos então deputados Eduardo Bolsonaro e Alexandre Ramagem, que também estavam fora do país; depois, o STF passou a indicação desses recursos aos suplentes.",
+   "continua": {
+    "data": "2026-11-27",
+    "id": "comissao-aprova-previa-do-orcamento-2027-com-corte-para-emendas",
+    "titulo": "Comissão aprova prévia do Orçamento de 2027 com corte de R$ 2 bilhões do governo para emendas"
+   },
+   "fatos": [
+    {
+     "texto": "Dino determinou na sexta-feira (27) a suspensão das 14 emendas individuais de Flávio Bolsonaro ao projeto de Orçamento de 2027, que somam R$ 79,3 milhões.",
+     "base": "decisão do STF; 3 fontes independentes (Agência Brasil, Folha, Estadão)"
+    },
+    {
+     "texto": "A decisão atendeu a pedido do deputado Alencar Santana (PT-SP).",
+     "base": "2 fontes independentes (O Antagonista, DCM)"
+    },
+    {
+     "texto": "Dino deu cinco dias para o Senado esclarecer as condições em que o mandato de Flávio é exercido dos Estados Unidos.",
+     "base": "3 fontes independentes (DCM, g1, Brasil de Fato)"
+    },
+    {
+     "texto": "Na decisão, Dino afirma que o senador não pode manter prerrogativas do mandato, como destinar recursos públicos, depois de deixar o país para evitar sanções, e que o mandato não comporta 'teletrabalho integral transnacional'.",
+     "base": "decisão do STF (Estadão, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Dino também mandou o Senado entregar registros de acesso, endereços de IP e geolocalização usados pelo senador.",
+     "quem": "ICL Notícias, sobre a decisão"
+    },
+    {
+     "texto": "A Advocacia do Senado defendeu na Justiça Federal a manutenção do salário e das verbas de Flávio.",
+     "quem": "Fórum"
+    },
+    {
+     "texto": "Um mês depois de deixar o país, Flávio tenta ditar o ritmo da direita, mas aliados reconhecem que sua influência sobre a oposição diminuiu.",
+     "quem": "Folha (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro",
+     "angulo": "Notícia da decisão, com o valor e o número de emendas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro",
+     "url": "https://www.gazetadopovo.com.br/republica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/",
+     "angulo": "Destaca a frase sobre 'teletrabalho integral transnacional'.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Dino cobra explicações do Senado sobre situação de Flávio Bolsonaro, foragido nos EUA",
+     "url": "https://www.brasildefato.com.br/2026/11/27/dino-cobra-explicacoes-do-senado-sobre-situacao-de-flavio-bolsonaro-foragido-nos-eua/",
+     "angulo": "Foca na cobrança ao Senado; chama Flávio de foragido.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Dino bloqueia emendas individuais de Flávio Bolsonaro",
+     "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-bloqueia-emendas-individuais-de-flavio-bolsonaro/",
+     "angulo": "Resume os fundamentos da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Dino suspende R$ 79 milhões em emendas de Flávio Bolsonaro e manda rastrear acessos",
+     "url": "https://iclnoticias.com.br/dino-suspende-emendas-de-flavio/",
+     "angulo": "Destaca a ordem de rastrear acessos do senador.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Dino suspende emendas apresentadas por Flávio",
+     "url": "https://oantagonista.com.br/brasil/dino-suspende-emendas-apresentadas-por-flavio/",
+     "angulo": "Informa que a decisão atendeu a pedido de deputado do PT.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Dino determina suspensão imediata das emendas individuais de Flávio Bolsonaro",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml",
+     "angulo": "Notícia da decisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Dino suspende emendas parlamentares de Flávio Bolsonaro",
+     "url": "https://jovempan.com.br/politica/dino-suspende-emendas-parlamentares-de-flavio-bolsonaro/",
+     "angulo": "Lembra que o senador vota remotamente dos EUA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Dino suspende R$ 79,3 milhões em emendas de Flávio e cobra explicação do Senado",
+     "url": "https://www.diariodocentrodomundo.com.br/dino-suspende-emendas-flavio-bolsonaro-senado/",
+     "angulo": "Prazo de cinco dias ao Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Senado quer manter salário e verbas de Flávio Bolsonaro mesmo após fuga para os EUA",
+     "url": "https://revistaforum.com.br/politica/senado-salario-flavio-bolsonaro/",
+     "angulo": "Posição da Advocacia do Senado sobre salário e verbas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/27/dino-suspende-tramitacao-de-emendas-de-flavio-bolsonaro-para-2027-ministro-pediu-que-senado-explique-atuacao-do-senador-de-fora-do-pais.ghtml",
+     "angulo": "Notícia da decisão e do pedido ao Senado.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Flávio Bolsonaro tenta ditar ritmo da direita 1 mês após fuga aos EUA, mas vê liderança abalada",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-tenta-ditar-ritmo-da-direita-1-mes-apos-fuga-aos-eua-mas-ve-lideranca-abalada.shtml",
+     "angulo": "Um mês fora do país, a influência de Flávio na oposição.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "expectativa-de-vida-chega-a-76-9-anos-e-a-das-mulheres-passa-de-80",
+   "editoria": "Saúde",
+   "escopo": "brasil",
+   "titulo": "Expectativa de vida no Brasil chega a 76,9 anos, e a das mulheres passa de 80 pela primeira vez",
+   "lide": "A expectativa de vida ao nascer no Brasil foi de 76,9 anos em 2025, o maior valor da série do IBGE, iniciada em 1940. Entre as mulheres, chegou a 80,1 anos, acima de 80 pela primeira vez.",
+   "fatos": [
+    {
+     "texto": "A expectativa de vida ao nascer foi de 76,9 anos em 2025, ante 76,6 anos em 2024.",
+     "base": "Tábuas Completas de Mortalidade do IBGE; 3 fontes independentes (Agência Brasil, CartaCapital, Jovem Pan)"
+    },
+    {
+     "texto": "É o maior valor da série iniciada em 1940, quando a expectativa era de 45,5 anos.",
+     "base": "dado do IBGE; 2 fontes independentes (Brasil de Fato, O Globo)"
+    },
+    {
+     "texto": "A expectativa de vida das mulheres chegou a 80,1 anos, a primeira vez acima de 80.",
+     "base": "dado do IBGE; 3 fontes independentes (O Globo, Exame, Veja)"
+    },
+    {
+     "texto": "As mulheres vivem em média 6,6 anos a mais que os homens.",
+     "base": "dado do IBGE; 2 fontes independentes (SBT, Exame)"
+    },
+    {
+     "texto": "Os dados foram publicados no Diário Oficial da União na sexta-feira (27).",
+     "base": "Diário Oficial (IstoÉ)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O país retomou a trajetória histórica de ganhos na sobrevivência da população.",
+     "quem": "IBGE, segundo a Band"
+    },
+    {
+     "texto": "O ganho de longevidade foi impulsionado sobretudo pela queda das mortes na infância e pelos avanços da saúde pública, mas o país ainda está distante dos países ricos.",
+     "quem": "O Globo (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "agenciabrasil",
+     "titulo": "Expectativa de vida no Brasil sobe para 76,9 anos, diz IBGE",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/expectativa-de-vida-no-brasil-sobe-para-769-anos-diz-ibge",
+     "angulo": "Notícia do dado do IBGE.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Expectativa de vida no Brasil sobe para 76,9 anos, diz IBGE",
+     "url": "https://jovempan.com.br/brasil/expectativa-de-vida-no-brasil-sobe-para-769-anos-diz-ibge/",
+     "angulo": "Notícia do dado, com a comparação com 2024.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Expectativa de vida no Brasil chega a 76,9 anos e bate recorde da série histórica",
+     "url": "https://www.brasildefato.com.br/2026/11/27/expectativa-de-vida-no-brasil-chega-a-769-anos-e-bate-recorde-da-serie-historica/",
+     "angulo": "Destaca o recorde da série iniciada em 1940.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Longevidade do brasileiro avança, mas ainda está distante de países ricos; veja comparação",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/28/longevidade-do-brasileiro-avanca-mas-ainda-esta-distante-de-paises-ricos-veja-comparacao.ghtml",
+     "angulo": "Compara com países ricos e explica as causas do ganho.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-28"
+    },
+    {
+     "fonte": "exame",
+     "titulo": "Expectativa de vida das mulheres no Brasil supera 80 anos pela primeira vez, diz IBGE",
+     "url": "https://exame.com/brasil/expectativa-de-vida-das-mulheres-no-brasil-supera-80-anos-pela-primeira-vez-diz-ibge/",
+     "angulo": "Foco na expectativa de vida das mulheres.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "cartacapital",
+     "titulo": "Expectativa de vida no Brasil chega a 76,9 anos e bate recorde",
+     "url": "https://www.cartacapital.com.br/sociedade/expectativa-de-vida-no-brasil-chega-a-769-anos-e-bate-recorde/",
+     "angulo": "Notícia do recorde.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Brasileiros vivem mais e expectativa de vida bate recorde",
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/brasileiros-vivem-mais-e-expectativa-de-vida-bate-recorde",
+     "angulo": "Destaca a diferença entre homens e mulheres.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "istoe",
+     "titulo": "Expectativa de vida no Brasil sobe para 76,9 anos e atinge novo recorde",
+     "url": "https://istoe.com.br/expectativa-de-vida-brasil-2025-769-anos-ibge",
+     "angulo": "Cita a publicação no Diário Oficial.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Expectativa de vida no Brasil sobe para 76,9 anos, diz IBGE",
+     "url": "https://www.band.com.br/nacional/brasil/expectativa-de-vida-no-brasil-sobe-para-769-anos-diz-ibge",
+     "angulo": "Destaca a retomada dos ganhos de sobrevivência.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Expectativa de vida no Brasil sobe para 76,9 anos, diz IBGE",
+     "url": "https://iclnoticias.com.br/expectativa-de-vida-no-brasil/",
+     "angulo": "Reprodução do texto da Agência Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "moraes-usou-jatos-da-fab-241-vezes-desde-2023",
+   "editoria": "Justiça",
+   "escopo": "brasil",
+   "titulo": "Moraes usou jatos da FAB 241 vezes desde 2023, a maioria entre Brasília e São Paulo",
+   "lide": "O ministro Alexandre de Moraes, do STF, voou 241 vezes em aviões da FAB entre janeiro de 2023 e outubro de 2026, em média um voo a cada cinco dias, segundo levantamento revelado pelo Metrópoles e confirmado pela Folha. Metade das viagens levou um ou dois passageiros.",
+   "contexto": "Antes do levantamento, a PGR já havia arquivado uma representação contra Moraes por um voo da FAB a São Paulo, por entender que o transporte do STF tem previsão no Decreto 10.267/2020.",
+   "fatos": [
+    {
+     "texto": "Moraes voou 241 vezes em aviões da FAB entre janeiro de 2023 e outubro de 2026, média de um voo a cada cinco dias.",
+     "base": "3 fontes independentes (Metrópoles, Folha, Revista Oeste)"
+    },
+    {
+     "texto": "A maior parte dos trajetos liga Brasília a São Paulo, onde o ministro tem residência.",
+     "base": "2 fontes independentes (Folha, Revista Oeste)"
+    },
+    {
+     "texto": "Metade dos voos teve apenas um ou dois passageiros.",
+     "base": "2 fontes independentes (Metrópoles, Revista Oeste)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O uso das aeronaves segue critérios de segurança.",
+     "quem": "STF e gabinete de Moraes, segundo a Band"
+    },
+    {
+     "texto": "O custo estimado dos voos chega a R$ 48 milhões.",
+     "quem": "Band"
+    },
+    {
+     "texto": "O transporte aéreo militar de ministros do STF deveria se restringir a emergências médicas ou ameaças comprovadas.",
+     "quem": "Deputado Nikolas Ferreira (PL-MG), em projeto anunciado"
+    },
+    {
+     "texto": "O contrato omitido pela PF e os voos da FAB expõem Moraes.",
+     "quem": "Gazeta do Povo"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": "A esquerda quase não tratou do levantamento: nos feeds, só o ICL, que republicou o texto da Folhapress. Não encontrado nos feeds nem na busca em CartaCapital, Brasil de Fato, Brasil 247, Fórum, DCM e Opera Mundi. Fica de fora desse lado o debate sobre custo e critério do uso de aviões oficiais por ministros.",
+   "materias": [
+    {
+     "fonte": "metropoles",
+     "titulo": "Governo emprestou jato da FAB a Alexandre de Moraes 241 vezes desde 2023",
+     "url": "https://www.metropoles.com/colunas/tacio-lorran/alexandre-de-moraes-voos-fab",
+     "angulo": "Revela o levantamento e o padrão de viagens de fim de semana.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Alexandre de Moraes usou jatos da FAB 241 vezes desde 2023, a maioria entre Brasília e São Paulo",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/alexandre-de-moraes-usou-jatos-da-fab-241-vezes-desde-2023-a-maioria-entre-brasilia-e-sao-paulo.shtml",
+     "angulo": "Confirma os números e a rota principal.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Moraes usou jatos da FAB mais de 240 vezes desde 2023",
+     "url": "https://revistaoeste.com/politica/moraes-usou-jatos-da-fab-mais-de-240-vezes-desde-2023/",
+     "angulo": "Detalha os trajetos e a residência do ministro em São Paulo.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "band",
+     "titulo": "Entenda em quais ocasiões Moraes usou voos de aviões da FAB",
+     "url": "https://www.band.com.br/politica/entenda-em-quais-ocasioes-moraes-usou-voos-de-avioes-da-fab-2",
+     "angulo": "Inclui a justificativa de segurança do STF e o custo estimado.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Contrato omitido pela PF e voos da FAB expõem Moraes",
+     "url": "https://www.gazetadopovo.com.br/sem-rodeios/contrato-omitido-pela-pf-e-voos-da-fab-expoem-moraes/",
+     "angulo": "Liga os voos ao contrato omitido pela PF.",
+     "tipo": "analise",
+     "enquadramento": "oposicao",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Nikolas anuncia projeto para proibir voos de ministros do STF pela FAB",
+     "url": "https://www.congressoemfoco.com.br/noticia/131953/nikolas-anuncia-projeto-para-proibir-voos-de-ministros-do-stf-pela-fab",
+     "angulo": "Reação da oposição com projeto para limitar os voos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "icl",
+     "titulo": "Moraes usou jatos da FAB 241 vezes desde 2023, a maioria entre Brasília e São Paulo",
+     "url": "https://iclnoticias.com.br/alexandre-de-moraes-usou-jatos-da-fab-241-vezes/",
+     "angulo": "Republica o texto da Folhapress.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "terrabrasil",
+     "titulo": "Governo disponibilizou aviões da FAB a Moraes 241 vezes desde janeiro de 2023",
+     "url": "https://terrabrasilnoticias.com/2026/11/governo-disponibilizou-avioes-da-fab-a-moraes-241-vezes-desde-janeiro-de-2023/",
+     "angulo": "Notícia do levantamento.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "jogadora-brasileira-presa-na-russia-pede-ajuda-a-lula-em-carta",
+   "editoria": "Internacional",
+   "escopo": "brasil",
+   "titulo": "Jogadora brasileira presa na Rússia por 6 gramas de haxixe pede ajuda a Lula em carta",
+   "lide": "A jogadora da seleção de futebol de areia Letícia 'Lelê' Villar, presa na Rússia desde julho de 2025, enviou carta a Lula pedindo ajuda. A família diz que ela virou moeda de troca: segundo a Folha, Moscou quer em troca um russo preso no Brasil sob suspeita de espionagem.",
+   "fatos": [
+    {
+     "texto": "Letícia Villar Pais, jogadora da seleção brasileira de futebol de areia, está presa na Rússia desde julho de 2025.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "Ela foi condenada a cinco anos e dois meses de prisão por contrabando e porte de 6,13 gramas de haxixe para uso pessoal.",
+     "base": "3 fontes independentes (Jovem Pan, SBT, Poder360)"
+    },
+    {
+     "texto": "A atleta cumpre pena em uma colônia penal na Mordóvia.",
+     "base": "2 fontes independentes (Folha, g1)"
+    },
+    {
+     "texto": "Ela enviou carta a Lula pedindo ajuda, em que relata 'muitas coisas cruéis juntas'.",
+     "base": "3 fontes independentes (g1, CNN Brasil, Poder360)"
+    },
+    {
+     "texto": "O Itamaraty diz acompanhar o caso, e a embaixada em Moscou trabalha pela transferência da atleta.",
+     "base": "2 fontes independentes (CNN Brasil, Fórum)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O governo de Vladimir Putin usa a prisão para pressionar por uma troca com Sergei Tcherkasov, russo preso no Brasil e apontado por autoridades ocidentais como agente da inteligência militar.",
+     "quem": "Folha de S.Paulo, reproduzida pela Gazeta do Povo e pela Fórum"
+    },
+    {
+     "texto": "A filha virou moeda de troca.",
+     "quem": "Joelma Villar, mãe da atleta, ao g1"
+    },
+    {
+     "texto": "A demora pode ser fatal; há risco de 'transferência de corpo'.",
+     "quem": "Advogados da atleta"
+    },
+    {
+     "texto": "Ela trabalha até 16 horas por dia, inclusive costurando uniformes para soldados russos.",
+     "quem": "Família e defesa, segundo O Globo e g1"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "folha",
+     "titulo": "Brasileira campeã de futebol de areia, encarcerada em prisão russa, vira centro de impasse diplomático entre Brasil, Rússia e EUA",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/brasileira-campea-de-futebol-de-areia-encarcerada-em-prisao-russa-vira-centro-de-impasse-diplomatico-entre-brasil-russia-e-eua.shtml",
+     "angulo": "Revela o impasse diplomático e a pressão por troca de prisioneiros.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Jogadora brasileira presa na Rússia mandou carta a Lula: 'Muitas coisas cruéis juntas'; leia a íntegra",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/27/brasileira-presa-na-russia-leia-na-integra-a-carta-de-leticia-villar-ao-presidente-lula.ghtml",
+     "angulo": "Íntegra da carta da atleta.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Rússia quer troca de espião preso no Brasil por jogadora de futebol de areia, diz jornal",
+     "url": "https://www.gazetadopovo.com.br/mundo/russia-quer-troca-espiao-preso-brasil-jogadora-futebol-areia-diz-jornal/",
+     "angulo": "Destaca a exigência russa, citando a Folha.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "forum",
+     "titulo": "Rússia quer trocar campeã brasileira presa por 6 gramas de haxixe por suposto espião",
+     "url": "https://revistaforum.com.br/global/russia-lele-villar-troca-espiao/",
+     "angulo": "Detalha a carta, as denúncias de racismo e lesbofobia e a resposta do Itamaraty.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Campeã de futebol de areia, Lelê Villar vive impasse diplomático entre Brasil, Rússia e EUA",
+     "url": "https://jovempan.com.br/esportes/campea-de-futebol-de-areia-lele-villar-vive-impasse-diplomatico-entre-brasil-russia-e-eua/",
+     "angulo": "Lembra a condenação por 6,13 gramas de haxixe.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Itamaraty diz acompanhar caso de jogadora brasileira presa na Rússia",
+     "url": "https://www.cnnbrasil.com.br/internacional/itamaraty-diz-acompanhar-caso-de-jogadora-brasileira-presa-na-russia/",
+     "angulo": "Posição oficial do Itamaraty.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "oglobo",
+     "titulo": "Presa na Rússia, campeã de futebol de areia trabalha até 16 horas por dia e treina no banheiro, dizem familiares",
+     "url": "https://oglobo.globo.com/mundo/noticia/2026/11/28/presa-na-russia-campea-de-futebol-de-areia-trabalha-ate-16-horas-por-dia-e-treina-no-banheiro-dizem-familiares.ghtml",
+     "angulo": "Rotina na prisão segundo abaixo-assinado da família.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-28"
+    },
+    {
+     "fonte": "antagonista",
+     "titulo": "Mãe de jogadora presa na Rússia pede ajuda a Lula",
+     "url": "https://oantagonista.com.br/mundo/mae-de-jogadora-presa-na-russia-pede-ajuda-a-lula/",
+     "angulo": "Pedido de ajuda da mãe ao presidente.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Atleta brasileira presa na Rússia pede ajuda em carta enviada a Lula",
+     "url": "https://www.poder360.com.br/poder-internacional/atleta-brasileira-presa-na-russia-pede-ajuda-em-carta-enviada-a-lula/",
+     "angulo": "Notícia da carta e da condenação.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "sbt",
+     "titulo": "Irmã de atleta presa na Rússia denuncia condições desumanas",
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/irma-de-atleta-presa-na-russia-denuncia-condicoes-desumanas",
+     "angulo": "Relato da irmã sobre as condições da prisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Tortura, escravidão e frio intenso: como é a prisão russa onde está jogadora brasileira",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/28/tortura-escravidao-e-frio-intenso-como-e-a-prisao-russa-onde-esta-jogadora-brasileira.ghtml",
+     "angulo": "Explica como é a colônia penal IK-2.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "espanha-vota-no-domingo-com-pp-favorito-e-vox-como-fiel-da-balanca",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Espanha vota no domingo com direita favorita e Vox perto de entrar no governo",
+   "lide": "A Espanha realiza eleições gerais antecipadas neste domingo (29), e as pesquisas apontam o Partido Popular como favorito, possivelmente dependente do Vox para governar. O primeiro-ministro socialista Pedro Sánchez, no poder há oito anos, diz que não consegue imaginar uma derrota.",
+   "fatos": [
+    {
+     "texto": "As eleições gerais antecipadas são no domingo (29) e renovam as 350 cadeiras do Congresso.",
+     "base": "3 fontes independentes (g1, Estadão, Clarín)"
+    },
+    {
+     "texto": "O Partido Popular, de direita, lidera as pesquisas e pode precisar do apoio do Vox para formar governo.",
+     "base": "3 fontes independentes (Estadão, Jovem Pan, AFP)"
+    },
+    {
+     "texto": "Moradia, custo de vida e imigração dominaram a campanha.",
+     "base": "3 fontes independentes (CNN Brasil, AFP, Band)"
+    },
+    {
+     "texto": "No último debate, na quinta-feira (26), o líder do PP, Alberto Núñez Feijóo, disse 'usted, calladita' a Ada Colau, da esquerda.",
+     "base": "2 fontes independentes (Clarín, Página 12)"
+    },
+    {
+     "texto": "Sánchez disse à rádio Cadena SER que não consegue imaginar que o PSOE vá perder.",
+     "base": "2 fontes independentes (Estadão, The Guardian)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "Sánchez antecipou a eleição depois que o Parlamento rejeitou dois decretos sobre moradia.",
+     "quem": "Clarín"
+    },
+    {
+     "texto": "O Vox, de Santiago Abascal, deve ter cerca de 18% dos votos e será peça-chave para um governo conservador.",
+     "quem": "Veja"
+    },
+    {
+     "texto": "Se as pesquisas estiverem certas, o Vox pode ser o primeiro grupo de extrema direita a entrar num governo espanhol desde Franco.",
+     "quem": "The New York Times"
+    },
+    {
+     "texto": "Uma derrota de Sánchez tiraria da União Europeia sua última voz forte a favor de uma política liberal de imigração.",
+     "quem": "Financial Times (opinião)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Espanha encerra campanha eleitoral; Sánchez tenta frear a direita e a extrema direita",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/27/espanha-encerra-campanha-eleitoral-sanchez-tenta-frear-direita-e-extrema-direita.ghtml",
+     "angulo": "Encerramento da campanha e o esforço de Sánchez contra a direita.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "veja",
+     "titulo": "Santiago Abascal: o fenômeno eleitoral que muda o jogo na Espanha",
+     "url": "https://veja.abril.com.br/coluna/mundialista/santiago-abascal-o-fenomeno-eleitoral-que-muda-o-jogo-na-espanha/",
+     "angulo": "Perfil do líder do Vox como fiel da balança.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "“Y usted calladita”: el ataque machista de Feijóo a Ada Colau en el debate en España",
+     "url": "https://www.pagina12.com.ar/2026/11/27/y-usted-calladita-el-ataque-machista-de-feijoo-a-ada-colau-en-el-debate-en-espana/",
+     "angulo": "Chama de 'machista' a frase de Feijóo no debate.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Sánchez aposta em vitória apesar de pesquisas desfavoráveis: ‘Não consigo imaginar que vamos perder’",
+     "url": "https://www.estadao.com.br/internacional/sanchez-aposta-vitoria-apesar-pesquisas-desfavoraveis-nao-consigo-imaginar-vamos-perder-npr/",
+     "angulo": "Entrevista de Sánchez sobre a eleição.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "afp",
+     "titulo": "Spain election: Housing crisis and immigration dominate final campaign debate",
+     "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
+     "angulo": "Temas que dominaram o último debate.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "nyt",
+     "titulo": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+     "url": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+     "angulo": "Perfil de Abascal e do risco de a extrema direita voltar ao governo.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "jovempan",
+     "titulo": "Espanha encerra campanha eleitoral com Sánchez sob pressão da direita",
+     "url": "https://jovempan.com.br/mundo/espanha-encerra-campanha-eleitoral-com-sanchez-sob-pressao-da-direita/",
+     "angulo": "Destaca a possível dependência do PP em relação ao Vox.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "operamundi",
+     "titulo": "Debate acalorado marca reta final das eleições legislativas na Espanha",
+     "url": "https://operamundi.uol.com.br/europa/debate-acalorado-marca-reta-final-das-eleicoes-legislativas-na-espanha/",
+     "angulo": "Relato do debate entre os quatro candidatos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "clarin",
+     "titulo": "Guía para las elecciones en España: candidatos, qué dicen las encuestas y cómo se elige al nuevo presidente",
+     "url": "https://www.clarin.com/mundo/guia-elecciones-espana-candidatos-dicen-encuestas-elige-nuevo-presidente_0_QeepdFljxq.html",
+     "angulo": "Guia de candidatos, pesquisas e sistema eleitoral.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "ft",
+     "titulo": "Hostility to immigration threatens Europe’s future",
+     "url": "https://www.ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
+     "angulo": "Opinião: a derrota de Sánchez mudaria o debate europeu sobre imigração.",
+     "tipo": "opiniao",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "bbcbrasil",
+     "titulo": "Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições",
+     "url": "https://www.bbc.com/portuguese/articles/cj62p7w0n2zgo?at_medium=RSS&at_campaign=rss",
+     "angulo": "Explica o peso da imigração na eleição.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Eleição na Espanha: O que está em jogo e quem pode vencer a votação?",
+     "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-espanha-o-que-esta-em-jogo-e-quem-pode-vencer-a-votacao/",
+     "angulo": "Explica o que está em jogo e as pesquisas.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "argentina-segue-o-brasil-e-proibe-publicidade-e-patrocinio-de-bets",
+   "editoria": "Internacional",
+   "escopo": "mundo",
+   "titulo": "Argentina segue o Brasil e aprova lei que proíbe publicidade e patrocínio de bets",
+   "lide": "O Senado argentino aprovou por unanimidade uma lei contra a ludopatia que proíbe a publicidade de apostas online e o patrocínio de clubes de futebol, e exige verificação biométrica dos apostadores. No Brasil, onde as bets foram proibidas há quase dois meses, o Ministério da Justiça diz ter derrubado 86 mil sites e perfis.",
+   "fatos": [
+    {
+     "texto": "O Senado da Argentina aprovou por unanimidade, na quinta-feira (26), a lei contra a ludopatia, que proíbe publicidade e patrocínio de apostas online no esporte.",
+     "base": "4 fontes independentes (DW Brasil, CNN Brasil, Brasil 247, Folha)"
+    },
+    {
+     "texto": "A lei exige verificação biométrica dos usuários e proíbe o acesso de menores às plataformas.",
+     "base": "2 fontes independentes (CNN Brasil, DCM)"
+    },
+    {
+     "texto": "O projeto ficou parado por dois anos e ganhou impulso após pressão da Igreja Católica.",
+     "base": "3 fontes independentes (Folha, DW Brasil, La Nación)"
+    },
+    {
+     "texto": "A proibição atinge clubes como Boca Juniors e River Plate.",
+     "base": "2 fontes independentes (CNN Brasil, Brasil 247)"
+    },
+    {
+     "texto": "No Brasil, o Ministério da Justiça retirou do ar ou mandou remover 86.176 sites, páginas e perfis com divulgação ilegal de apostas desde a proibição.",
+     "base": "balanço do governo federal; 2 fontes independentes (g1, Gazeta do Povo)"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "O problema não é a lei, mas como gerar recursos num futebol argentino em que nove clubes da primeira divisão têm patrocinador ligado ao jogo.",
+     "quem": "La Nación (análise)"
+    },
+    {
+     "texto": "74% dos brasileiros defendem proibir as apostas online.",
+     "quem": "Pesquisa Nexus, segundo o Poder360"
+    },
+    {
+     "texto": "Clubes brasileiros pediram de novo ao STF a liberação temporária das bets até a definição da medida provisória sobre o tema.",
+     "quem": "Brasil de Fato"
+    },
+    {
+     "texto": "A proibição no Brasil manteve a oferta ilegal e trouxe perda de empregos e de arrecadação.",
+     "quem": "Congresso em Foco (análise)"
+    }
+   ],
+   "em_disputa": [],
+   "enquadramentos": null,
+   "visao_de_fora": "O tema chega ao Brasil como espelho: a imprensa brasileira tratou a lei argentina como imitação da proibição brasileira, enquanto clubes daqui pedem ao STF a volta temporária das apostas.",
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "dwbrasil",
+     "titulo": "Argentina aprova lei contra bets, que proíbe patrocínio no esporte",
+     "url": "https://www.dw.com/pt-br/argentina-aprova-lei-contra-bets-que-proíbe-patrocínio-no-esporte/a-80079926?maca=bra-rss-br-all-1030-xml-mrss",
+     "angulo": "Detalha a proibição de publicidade em mídias e eventos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "lanacion",
+     "titulo": "El Senado aprobó la ley de Ludopatía, tras un fuerte reclamo de la Iglesia",
+     "url": "https://www.lanacion.com.ar/politica/el-senado-se-apresta-a-aprobar-la-ley-de-ludopatia-tras-un-fuerte-reclamo-de-la-iglesia-nid26112026/",
+     "angulo": "Votação no Senado e o papel da Igreja.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "brasil247",
+     "titulo": "Argentina segue Brasil e proíbe patrocínio de bets no esporte",
+     "url": "https://www.brasil247.com/esporte/argentina-segue-brasil-e-proibe-patrocinio-de-bets-no-esporte/",
+     "angulo": "Destaca o impacto sobre dez clubes da primeira divisão.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Congresso da Argentina aprova lei contra bets e proíbe patrocínio a times de futebol",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/congresso-da-argentina-aprova-lei-contra-bets-e-proibe-patrocinio-a-times-de-futebol.shtml",
+     "angulo": "Contexto da tramitação e da visita do papa.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Governo Lula mira 86 mil sites e perfis de apostas após proibição das bets",
+     "url": "https://www.gazetadopovo.com.br/republica/governo-lula-mira-86-mil-sites-perfis-apostas-apos-proibicao-bets/",
+     "angulo": "Balanço da fiscalização no Brasil.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "pagina12",
+     "titulo": "Ley de Ludopatía: cómo impactará en el fútbol y qué harán los clubes con los sponsors",
+     "url": "https://www.pagina12.com.ar/2026/11/27/ley-de-ludopatia-como-impactara-en-el-futbol-y-que-haran-los-clubes-con-los-sponsors/",
+     "angulo": "Impacto sobre os patrocínios do futebol argentino.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "cnnbrasil",
+     "titulo": "Após Brasil, Argentina aprova lei para combater bets ilegais",
+     "url": "https://www.cnnbrasil.com.br/internacional/apos-brasil-argentina-aprova-lei-para-combater-bets-ilegais/",
+     "angulo": "Exigência de biometria e veto a menores.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "g1",
+     "titulo": "Ministério da Justiça tirou do ar 86 mil sites e perfis com publicidade ilegal de bets desde proibição",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/27/ministerio-da-justica-tirou-do-ar-86-mil-sites-e-perfis-com-publicidade-ilegal-de-bets-desde-proibicao.ghtml",
+     "angulo": "Números do Ministério da Justiça.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "dcm",
+     "titulo": "Argentina segue o Brasil e proíbe bets no esporte",
+     "url": "https://www.diariodocentrodomundo.com.br/argentina-segue-o-brasil-e-proibe-bets-no-esporte/",
+     "angulo": "Resumo da lei.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Nexus: maioria apoia fim das bets e da 6 x 1 e maior controle de gastos",
+     "url": "https://www.poder360.com.br/poder-governo/nexus-maioria-apoia-fim-das-bets-e-da-6-x-1-e-maior-controle-de-gastos/",
+     "angulo": "Pesquisa sobre apoio à proibição das apostas.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "brasildefato",
+     "titulo": "Flamengo, Fluminense e outros 15 clubes pedem novamente ao STF para liberar Bets",
+     "url": "https://www.brasildefato.com.br/2026/11/26/flamengo-fluminense-e-outros-15-clubes-pedem-novamente-ao-stf-para-liberar-bets/",
+     "angulo": "Pedido de clubes brasileiros para liberar as bets.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-26"
+    },
+    {
+     "fonte": "congressoemfoco",
+     "titulo": "Bets no Brasil: Da regulamentação à proibição e os primeiros impactos",
+     "url": "https://www.congressoemfoco.com.br/artigo/131970/bets-no-brasil-da-regulamentacao-a-proibicao-e-os-primeiros-impactos",
+     "angulo": "Avalia os primeiros impactos da proibição no Brasil.",
+     "tipo": "analise",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "hackers-invadem-plataforma-em-nuvem-da-forca-aerea-dos-eua",
+   "editoria": "Tecnologia",
+   "escopo": "mundo",
+   "titulo": "Hackers invadem plataforma em nuvem da Força Aérea dos EUA, diz Reuters",
+   "lide": "Hackers invadiram a Cloud One, principal plataforma de computação em nuvem da Força Aérea dos Estados Unidos, segundo a agência Reuters, com base em três fontes. A invasão pode ter exposto dados táticos, de pessoal e de logística.",
+   "fatos": [
+    {
+     "texto": "A Reuters informou na sexta-feira (27), com base em três fontes do governo americano, que hackers invadiram a Cloud One, plataforma de nuvem da Força Aérea dos EUA.",
+     "base": "reportagem da Reuters, citada por g1, Folha, Estadão e The Guardian"
+    },
+    {
+     "texto": "Segundo a reportagem, o ataque foi descoberto há cerca de um mês, durante uma atualização do sistema.",
+     "base": "reportagem da Reuters, citada pelo Estadão"
+    }
+   ],
+   "inferencias": [
+    {
+     "texto": "A invasão pode comprometer um grande volume de dados sensíveis de natureza tática, de pessoal e de logística.",
+     "quem": "Fontes ouvidas pela Reuters"
+    },
+    {
+     "texto": "A Força Aérea investiga a extensão dos danos depois que os invasores exploraram uma vulnerabilidade da plataforma.",
+     "quem": "Gazeta do Povo"
+    },
+    {
+     "texto": "A invasão ocorre dias depois de relatos de que um banco de dados da CIA foi acessado.",
+     "quem": "The Guardian"
+    }
+   ],
+   "em_disputa": [
+    {
+     "alegacao": "A Força Aérea dos EUA teve dados sensíveis roubados.",
+     "rotulo": "Em apuração",
+     "explicacao": "Toda a cobertura se apoia na reportagem da Reuters, com fontes anônimas; os feeds não trazem confirmação oficial da extensão do dano.",
+     "onde_circula": "imprensa internacional e brasileira"
+    }
+   ],
+   "enquadramentos": null,
+   "visao_de_fora": null,
+   "ponto_cego": null,
+   "materias": [
+    {
+     "fonte": "g1",
+     "titulo": "Hackers invadem plataforma de dados da Força Aérea dos EUA, diz agência",
+     "url": "https://g1.globo.com/mundo/noticia/2026/11/27/hackers-invadem-plataforma-de-dados-da-forca-aerea-dos-eua-diz-agencia.ghtml",
+     "angulo": "Notícia com base na Reuters.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "breitbart",
+     "titulo": "Report: Hackers Breach Air Force's 'Cloud One' Computing Platform",
+     "url": "https://www.breitbart.com/tech/2026/11/27/report-hackers-breach-air-forces-cloud-one-computing-platform/",
+     "angulo": "Resume a reportagem da Reuters.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "guardian",
+     "titulo": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+     "angulo": "Liga a invasão a relatos recentes sobre a CIA.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "estadao",
+     "titulo": "Hackers invadem plataforma de dados da Força Aérea dos EUA, diz agência",
+     "url": "https://www.estadao.com.br/internacional/hackers-invadem-plataforma-dados-forca-aerea-eua-npr/",
+     "angulo": "Informa que o ataque foi descoberto há cerca de um mês.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "folha",
+     "titulo": "Principal plataforma de computação em nuvem da Força Aérea dos EUA sofreu ataque hacker, diz agência",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/principal-plataforma-de-computacao-em-nuvem-da-forca-aerea-dos-eua-sofreu-ataque-hacker-diz-agencia.shtml",
+     "angulo": "Notícia com base nas fontes da Reuters.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "gazetadopovo",
+     "titulo": "Ataque hacker atinge plataforma digital da Força Aérea dos Estados Unidos",
+     "url": "https://www.gazetadopovo.com.br/mundo/ataque-hacker-atinge-plataforma-digital-da-forca-aerea-dos-estados-unidos/",
+     "angulo": "Afirma que a Força Aérea investiga a extensão dos danos.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "valor",
+     "titulo": "Hackers invadem principal plataforma em nuvem da Força Aérea dos EUA",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/27/hackers-invadem-principal-plataforma-em-nuvem-da-fora-area-dos-eua.ghtml",
+     "angulo": "Notícia com base na Reuters.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "oeste",
+     "titulo": "Plataforma de dados da Força Aérea dos EUA é invadida por hackers",
+     "url": "https://revistaoeste.com/mundo/plataforma-de-dados-da-forca-aerea-dos-eua-e-invadida-por-ihackers-i/",
+     "angulo": "Notícia com base na Reuters.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    },
+    {
+     "fonte": "poder360",
+     "titulo": "Hackers invadem plataforma em nuvem da Força Aérea dos EUA",
+     "url": "https://www.poder360.com.br/poder-internacional/hackers-invadem-plataforma-em-nuvem-da-forca-aerea-dos-eua/",
+     "angulo": "Destaca o tipo de dado em risco.",
+     "tipo": "noticia",
+     "enquadramento": "neutro",
+     "data": "2026-11-27"
+    }
+   ]
+  }
+ ]
+}
